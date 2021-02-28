@@ -1,3 +1,8 @@
+How to run (extractive):
+- download pretrained models from below and put it into models/ (outside of src)
+- python train.py -task ext -mode test_text -text_src ../raw_data/temp_ext.raw_src -test_from ../models/<MODEL_FILE_NAME> -log_file ../logs/cnndm.log
+
+
 # PreSumm
 
 **This code is for EMNLP 2019 paper [Text Summarization with Pretrained Encoders](https://arxiv.org/abs/1908.08345)**
