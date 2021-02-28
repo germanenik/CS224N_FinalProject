@@ -1,0 +1,165 @@
+# people | planet | possibilities
+
+## at&t corporate citizenship & sustainability
+
+![](/ui/corpcomm_internet_attus/1.0.0/images/header_print.png)
+![](/ui/corpcomm_internet_attus/1.0.0/images/att_print_logo.jpg)
+
+your privacy center
+
+
+
+  * [your privacy center](/csr/home/privacy.html)
+  * [_check icon_ your choices, tips & tune- ups](/csr/home/privacy/rights_choices.html)
+    * [privacy choices](/csr/home/privacy/rights_choices.html?tab=privacy)
+    * [tips & tune-ups](/csr/home/privacy/rights_choices.html?tab=tips)
+    * [contact us](/csr/home/privacy/rights_choices.html?tab=contact)
+  * [_report icon_ at&t privacy policy](/csr/home/privacy/overview.html)
+    * [introduction](/csr/home/privacy/full_privacy_policy.html)
+    * [when this policy applies](/csr/home/privacy/full_privacy_policy.html#when-policy-applies)
+    * [the information we collect](/csr/home/privacy/full_privacy_policy.html#collect-information)
+    * [how we collect your information](/csr/home/privacy/full_privacy_policy.html#how-collect)
+    * [how we use your information](/csr/home/privacy/full_privacy_policy.html#how-use)
+    * [how we share your information](/csr/home/privacy/full_privacy_policy.html#how-share)
+    * [your choices and controls](/csr/home/privacy/full_privacy_policy.html#choice)
+    * [security](/csr/home/privacy/full_privacy_policy.html#security)
+    * [data storage and retention](/csr/home/privacy/full_privacy_policy.html#storage)
+    * [other privacy information](/csr/home/privacy/full_privacy_policy.html#other-privacy-info)
+  * [_map icon_ state law approach](/csr/home/privacy/statelawapproach.html)
+    * [california](/csr/home/privacy/statelawapproach/ccpa.html)
+    * [maine](/csr/home/privacy/statelawapproach/maine.html)
+  * [_globe icon_ global approach](/csr/privacy/global_approach)
+    * [at&t website user global privacy notice](/csr/privacy/global_approach/gdpr_privacy_notice)
+    * [at&t business customer gdpr privacy notice](/ecms/dam/csr/privacy/gdpr-customer-privacy-notice-jan_2021.pdf)
+    * [at&t business customer lgpd privacy notice](/ecms/dam/csr/privacy/att_lgpd_business_privacy_notice.pdf)
+    * [aviso de privacidade de clientes empresariais da at&t nos termos da lgpd ](/ecms/dam/csr/privacy/att_lgpd_business_privacy_notice_pt.pdf)
+    * [at&t cross border transfer faq](/ecms/dam/csr/privacy/att-cross_border_transfer-faq-2020_10_19.pdf)
+    * [at&t business customer new zealand privacy notice](/ecms/dam/csr/privacy/att-business-customer-new-zealand-privacy-notice.pdf)
+  * [_stats icon_ transparency report](/csr/home/privacy/transparencyreport.html)
+    * [view on the web](/csr/home/governance/transparency.html)
+    * [download the english pdf](/ecms/dam/csr/2019/transparency/2021/2021-february-report.pdf)
+    * [download the spanish pdf](/ecms/dam/csr/2019/transparency/2021/2021-february-report-in-spanish.pdf)
+  * english [español](//www.att.com/es-us/) [français](//frca-about.att.com) português
+
+
+
+# cookies and other technologies
+
+#### definitions
+
+let's start with what we mean when we use the word "cookie" and other related
+terms:
+
+  * **cookies** are small data files. websites place them in your browser to recognize your computer or mobile device when you return to that site. cookies are created to keep track of your movements within the site, help you resume where you left off, remember your registered username, preferences and other customizations.
+
+there are a couple of important things to remember about cookies:
+
+    * disabling cookies may prevent you from using specific features on some websites. you’ll need to perform the opt out procedure if you opt out of a program or service and then change computers or web browsers, or clear or erase the digital "cookie" that lets us know you opted out.
+    * **local storage cookies.** local storage is a convenient, flexible, secure and faster way to store http state data. it is a method by which our web pages locally store named key/value pairs in a user’s web browser. local storage on att.com is mainly used to store and retrieve data in html pages from our domains. local storage data is session-based and will not persist once the session is over and the browser is closed.
+  * **flash cookies** (also called local shared objects or "lsos") are similar to cookies, except that they can store more complex data. they are used to remember your settings, preferences and usage, and other similar services. flash cookies allow functionality and availability of certain services. if disabled, these services may not function correctly. while browser cookies may be removed or blocked via web browser settings, flash cookies operate differently. please note that setting the flash player to restrict or limit acceptance of flash lsos may reduce or impede the functionality of some flash applications. to learn more about how to manage flash cookies, you can visit the [adobe website](https://www.adobe.com/devnet/security.html) and make changes at [global storage settings panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html).
+  * **web beacons** are small graphic images on a web page or in an e-mail. they can be used for things like recording the pages and advertisements that users click on, or tracking how well an e-mail marketing campaign performs.
+  * a **widget** is a small program or application that can be embedded in a web page. it can provide real-time information, such as stock quotes or weather reports. widgets are often provided by a third party and allow them to collect data about users viewing that page.
+  * a **server log** records your web activity by your computer or mobile device and plays a key role in improving web page performance and introducing new features. for example, it may record which search terms you’ve entered, or the links you’ve clicked on. it may also record your browser information, such as your ip address, device type, how long you spend on a web page, and your browser's cookies.
+  * some websites have “ **social network or other third-party plug-ins**.” these plug-ins may provide information back to those sites, even if you don't click on or interact with the plug-in. it may also apply even if you don’t have an account with them. social networks or third parties may use an identifier when transmitting from your browser. this might include information about your browser type, operating system, device type, ip address and the url of the web page where the plug-in appears. if you use social networking tools or sites, we recommend you take a moment to familiarize yourself with their privacy policies.
+
+#### managing cookies
+
+most browsers will allow you to delete, disable and choose what cookies can be
+placed on your computer. if you want more information about controlling
+cookies, visit these sites for the browser you are using:
+
+**individual browsers**
+
+  * [internet explorer »](http://windows.microsoft.com/en-us/windows7/block-enable-or-allow-cookies)
+  * [internet explorer (mobile devices) »](http://www.windowsphone.com/en-us/how-to/wp7/web/changing-privacy-and-other-browser-settings)
+  * [safari »](http://support.apple.com/kb/ph5042)
+  * [safari mobile (iphones and ipads) »](http://support.apple.com/kb/ht1677)
+  * [firefox »](http://support.mozilla.org/en-us/kb/give-websites-ability-store-passwords-cookies-and-more)
+  * [firefox (mobile devices) »](https://support.mozilla.org/en-us/kb/firefox-android-tracking-protection)
+  * [chrome »](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
+  * [chrome (mobile devices) »](https://support.google.com/chrome/answer/2392971?hl=en)
+
+  
+
+####
+
+×
+
+# we've updated our privacy policy
+
+on june 19th, we updated the section of our privacy policy on the california
+consumer privacy act.  
+
+
+  * we added a description of how we verify your identity before processing your request to access or delete your data.
+  * we added information about sources of data we collect and with whom we may share it.
+  * we describe how you can designate an authorized agent to make your requests.
+  * see the prior version of the [privacy policy](https://about.att.com/ecms/dam/csr/privacy/attfullprivacypolicy-03162020.pdf)
+
+# looking for the full privacy policy?
+
+we’ve done our best to give you the high-level points in an easy-to-understand
+format on this site, but we understand that sometimes you want the full
+policy.
+
+[view the full privacy policy](/csr/privacy/full_privacy_policy.html)
+
+have questions about the privacy policy?
+
+we encourage you to contact us directly for any questions about this privacy
+policy.  
+  
+
+[email us](mailto:privacypolicy@att.com)
+
+sitemap
+
+  * [
+
+## your choices, tips & tune-ups
+
+](/csr/privacy/rights_choices.html) __
+
+  * [privacy choices](/csr/privacy/rights_choices.html?tab=privacy)
+  * [tips & tune-ups](/csr/privacy/rights_choices.html?tab=tips)
+  * [contact us](/csr/privacy/rights_choices.html?tab=contact)
+
+  * [
+
+## at&t privacy policy
+
+](/csr/privacy/overview.html) __
+
+  * [introduction](/csr/privacy/full_privacy_policy.html)
+  * [the information we collect](/csr/privacy/full_privacy_policy.html#collect-information)
+  * [how we collect your information](/csr/privacy/full_privacy_policy.html#how-collect)
+  * [how we use your information](/csr/privacy/full_privacy_policy.html#how-use)
+  * [ how we share your information ](/csr/privacy/full_privacy_policy.html#how-share)
+  * [your privacy choices and controls](/csr/privacy/full_privacy_policy.html#choice)
+  * [security](/csr/privacy/full_privacy_policy.html#security)
+  * [data storage, transfer, retention and accuracy](/csr/privacy/full_privacy_policy.html#storage)
+  * [other privacy information](/csr/privacy/full_privacy_policy.html#other)
+  * [how to contact us about this policy](/csr/privacy/full_privacy_policy.html#contact-us)
+  * recent updates
+
+  * [
+
+## global approach
+
+](/csr/privacy/global_approach.html) __
+
+  * [website user gdpr privacy notice](/csr/privacy/global_approach/gdpr_privacy_notice)
+  * [att business customer gdpr privacy notice](/ecms/dam/csr/privacy/gdpr-customer-privacy-notice-jan_2021.pdf)
+
+  * [
+
+## transparency report
+
+](/csr/privacy/transparencyreport.html) __
+
+  * [view on the web](//about.att.com/csr/home/frequently-requested-info/governance/transparencyreport.html)
+  * [download the english pdf](/ecms/dam/csr/2019/library/transparency/2020-august-report.pdf)
+  * [download the spanish pdf](/ecms/dam/csr/2019/library/transparency/2020-august-report-in-spanish.pdf)
+
+×
+

@@ -1,0 +1,97 @@
+[![seenthis](ecrire/rien.gif)](https://seenthis.net/)
+
+[](https://seenthis.net)
+
+rechercher :
+
+•
+
+
+
+identifiants personnels
+
+  * login ou adresse email :
+  * mot de passe : [[mot de passe oublié ?](spip.php?page=spip_pass&lang=fr)]
+  * rester identifié quelques jours
+
+# propriété intellectuelle
+
+  * #[covid-19](tag/covid-19)
+  * #[les_articles](tag/les_articles)
+  * #[en_vedette](tag/en_vedette)
+  * #[paywall](tag/paywall)
+  * #[louis_lecoin](tag/louis_lecoin)
+  * #[international](tag/international)
+  * #[google](tag/google)
+  * #[facebook](tag/facebook)
+  * #[algorithme](tag/algorithme)
+  * #[histoire](tag/histoire)
+  * #[musique](tag/musique)
+  * #[merci](tag/merci)
+  * #[données](tag/donn%c3%a9es)
+  * #[féminisme](tag/f%c3%a9minisme)
+  * #[islamo-gauchisme](tag/islamo-gauchisme)
+  * #[radio_marelle](tag/radio_marelle)
+  * #[mesurescorona](tag/mesurescorona)
+  * #[mckinsey](tag/mckinsey)
+  * #[coronavirus](tag/coronavirus)
+  * #[agenda](tag/agenda)
+  * #[myphoto](tag/myphoto)
+  * #[linux](tag/linux)
+  * #[metoo](tag/metoo)
+  * #[sars-cov-2](tag/sars-cov-2)
+  * #[emploientreprise](tag/emploientreprise)
+  * #[politique](tag/politique)
+  * #[culture_du_viol](tag/culture_du_viol)
+  * #[nsa](tag/nsa)
+  * #[amazon](tag/amazon)
+  * #[cartographie](tag/cartographie)
+
+**les messages publiés sur seenthis restent la propriété des contributeurs
+respectifs.**
+
+en tant qu'hébergeur, seenthis ne revendique aucun droit ni aucune
+responsabilité sur les billets publiés, en dehors de ces deux autorisations
+permettant le bon fonctionnement du système : en publiant leurs messages sur
+seenthis, les contributeurs acceptent :  
+-- que ces messages soient publiés (présentés au public) sur le site
+seenthis.net,  
+-- que ces messages soient organisés et enrichis par les automatismes présents
+dans le système seenthis (traduction, thématisation...).
+
+les contributeurs peuvent à tout moment modifier ou supprimer leurs propres
+messages. un outil permet à chaque auteur de récupérer, au format xml,
+l'ensemble de ses messages. un auteur peut demander à faire détruire son
+propre compte (nous contacter).
+
+### mention de la licence de diffusion
+
+les utilisateurs qui le souhaitent peuvent, depuis la page de configuration de
+leur « profil », indiquer une licence de diffusion sous creative commons.
+l'outil ayant vocation au partage d'information, autant promouvoir les
+licences qui favorisent ce type de comportement.
+
+### récupérer son propre contenu
+
+tout utilisateur peut, d'ors et déjà, récupérer l'intégralité de ses contenus
+dans un fichier xml au format atom. ce fichier est accessible à l'adresse :
+
+https://login:passwd@seenthis.net/?page=xml_export
+
+(remplacez login et passwd par votre login et votre mot de passe personnel).
+
+### api et outils de récupération
+
+seenthis propose par ailleurs [une api](francais/mentions/article/api) qui
+permettra à des développeurs tiers de proposer des outils permettant de
+manipuler vos contenus.
+
+parmi ces outils, un premier outil permet de sauvegarder tous vos messages sur
+seenthis sous forme de fichiers indépendants (votre ordinateur doit disposer
+d'un serveur apache/php) : [seen-local](http://seenthis.net/messages/30043).
+
+[à propos de seenthis](francais/mentions/article/a-propos-de-seenthis)
+[propriété intellectuelle](francais/mentions/article/propriete-intellectuelle)
+[recommandations](francais/mentions/article/recommandations)
+[api](francais/mentions/article/api)
+

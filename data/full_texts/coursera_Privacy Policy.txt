@@ -1,0 +1,656 @@
+[![coursera](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0idxrmltgipz4kpcetlsbhzw5lcmf0b3i6iefkb2jlielsbhvzdhjhdg9yide2ljiumcwgu1zhiev4cg9ydcbqbhvnluluic4gu1zhifzlcnnpb246idyumdagqnvpbgqgmckgic0tpgo8iurpq1rzueugc3znifbvqkxjqyails8vvzndly9eveqgu1zhideums8vru4iicjodhrwoi8vd3d3lnczlm9yzy9hcmfwagljcy9tvkcvms4xl0rurc9zdmcxms5kdgqipgo8c3znihzpzxdcb3g9ijagmcaxmtu1ide2ncigeg1sbnm9imh0dha6ly93d3cudzmub3jnlziwmdavc3zniibmawxslxj1bgu9imv2zw5vzgqiignsaxatcnvszt0izxzlbm9kzcigc3ryb2tllwxpbmvqb2lupsjyb3vuzcigc3ryb2tllw1pdgvybgltaxq9ijiipjxwyxroigq9ik0xntkunzugodeuntrjmc00nc40osazni42my04mc40nya4mi40my04mc40nya0ni4xmiawidgyljc2idm2idgyljc2idgwljq3idagndqumtytmzyunjqgodauoc04mi43nia4mc44ltq1ljggmc04mi40my0zni42oc04mi40my04mc44em0xmjuunjegmgmwltiylji0lte5ljmtndeuodctndmumtgtndeuodctmjmuntugmc00mi44nsaxos42my00mi44nsa0ms44nyawidiylju3ide5ljmgndiumia0mi44nsa0mi4yidizljkyidagndmumtgtmtkunjmgndmumtgtndiumnptnza1ljyzideumzfjmc00oc43ncazos41oc04ms43oca3ns41ny04ms43ocaync41myawidm4ljygny41mia0oc4wocayms45mmwzljc3lte5adm2ljc5dje1ns40ac0zni43owwtnc43ns0xnmmtmtaunzkgmteunzgtmjqumjegmtktndcumsaxos0zns4zmy0umdutnzuuntctmzeumtmtnzuuntctnzkuntr6bteyns42ms0umznjls4wos0ymy41mjctmtkundctndiuodm1ltqzltqyljgzns0ymy41osawltqzide5ljqxms00mya0m3yumty1yzagmjeuntkgmtkumya0mc44osa0mi44nia0mc44osaymy44nsawidqzlje0lte5ljmgndmumtqtndeumjj6ttk0ns43ocaymly0ac00mc4ym3yxntuumzlondaumjnwnzuunjzjmc0yns4xosaxmi40nc0zoc4ynyaznc0zoc4ynyaxljqzidagmi43os4xidqumtiumjnmotkxljm2ljexyy0ymc45ny4xms0zni4xnya3ljmtnduuntggmjeuodl6bs00mdqumjcumdf2lte4bc00mc4ymy4wos4zncaxntuumzcgndaumjmtlja5ls4ymi04my43mmmtlja2lti1lje4ideyljm1ltm4lji5idmzljkzltm4ljm0ideumzc2ljawncayljc1mi4wodegnc4xmi4ym0w1odcumsawyy0ymsaumtctmzyumjigny4zos00ns41osaymi4wmxpnmzm4ljg4idk5ljjwnc4wmwg0mc4ymly5nc4zyzagmtkuotugmteumtigmzeunzmgmzaundigmzeunzmgmjeuntkgmcaznc0xmy4wosaznc0zoc4yofy0ljaxadqwlji0dje1ns4zoggtndaumjf2lte4yy05ljq4ide0ljcylti0ljg2idixljkyltq2ljeyidixljkyltm1ljk4ljaxltu4lju1lti2lje2ltu4lju1lty0ljexem0zoteunzqtmtcundhjlja5ltqzljuxidmxljizltgwljc0idgwljyyltgwljy1idq1ljgumdkgnzgumtegmzyunzggnzggodagljaxidqumjczls4zmya4lju0ltegmtiunzzsltexoc40ms0umjjjnc41ncaxoc42nsaxos44osazmi4wosa0my4xmiazmi4xncaxnc4wniawidi5ljeyltuumtggmzgumy0xni45ngwyny40ncaymmmtmtqumtegmtkuotmtmzkgmzeunjytnjuundggmzeunjetndyunzutlje2ltgyljy3ltm1ljizltgylju5ltgwljd6btexoc4xmi0xni4xngmtmi4yni0xns43lte4lju5lti3ljg0ltm3ljg5lti3ljg3lte4ljy1idatmzmunzegmteumdytmzkunjmgmjcunznsnzcuntiumtr6bs0ynjeunca1os45ngwzns43ni0xoc43mmm1ljkxideyljgxide3ljczidiwljm2idm0ljq4idiwljm2ide1ljqzidagmjeumzqtnc45miayms4znc0xms44miawlti1ltg0ljcxltkuodutodqunzetnjcgmc0zms41miayny41oc00oc4ynia2ms43mi00oc4yniayns45ncawidq4ljkyidexljq5idyxljqgmziuodnsltm1ljq0ide4ljc1yy01lji1ltewljuxlte1ljetmtyunditmjcuntgtmtyunditmtiumtqgmc0xoc4wnia0lji3lte4lja2idexljq5idagmjqumya4nc43msa4ljg3idg0ljcxidy3idagmzaumjetmjqunjigndguntktnjqumzugndguntktmzmuoditljazltu3ljq2ltexlje5lty5lji3ltm2ljh6ttagodeuntrdmcazni43myazni42my43nca4mi40my43ngmyny45ndctlje5nia1nc4xodigmtmunzm3idy5ljy3idm3bc0znc4zncaxos45mme0mi45nzigndiuotcyidagmdatmzuumzmtmtgumzjjltizlju1idatndiuodugmtkunjmtndiuodugndiumiawidiylju3ide5ljmgndiumia0mi44nsa0mi4yytqyljuwmia0mi41mdigmcawmdm2ljmxltiwbdm0idiwlji4yy0xns4zmdcgmjmuotu1ltqxljkwmiazoc40mzetnzaumzmgmzgumjhdmzyunjmgmtyyljm0idagmti1ljy2idagodeuntr6iibmawxspsijmda1nkqyiibmawxslxj1bgu9im5vbnplcm8ilz48l3n2zz4=)](/)
+
+  * [browse](/browse)
+  * [top courses](/courses)
+  * [log in](/about/privacy?authmode=login)
+  * [join for free](/about/privacy?authmode=signup)
+
+list
+
+[![coursera](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0idxrmltgipz4kpcetlsbhzw5lcmf0b3i6iefkb2jlielsbhvzdhjhdg9yide2ljiumcwgu1zhiev4cg9ydcbqbhvnluluic4gu1zhifzlcnnpb246idyumdagqnvpbgqgmckgic0tpgo8iurpq1rzueugc3znifbvqkxjqyails8vvzndly9eveqgu1zhideums8vru4iicjodhrwoi8vd3d3lnczlm9yzy9hcmfwagljcy9tvkcvms4xl0rurc9zdmcxms5kdgqipgo8c3znihzpzxdcb3g9ijagmcaxmtu1ide2ncigeg1sbnm9imh0dha6ly93d3cudzmub3jnlziwmdavc3zniibmawxslxj1bgu9imv2zw5vzgqiignsaxatcnvszt0izxzlbm9kzcigc3ryb2tllwxpbmvqb2lupsjyb3vuzcigc3ryb2tllw1pdgvybgltaxq9ijiipjxwyxroigq9ik0xntkunzugodeuntrjmc00nc40osazni42my04mc40nya4mi40my04mc40nya0ni4xmiawidgyljc2idm2idgyljc2idgwljq3idagndqumtytmzyunjqgodauoc04mi43nia4mc44ltq1ljggmc04mi40my0zni42oc04mi40my04mc44em0xmjuunjegmgmwltiylji0lte5ljmtndeuodctndmumtgtndeuodctmjmuntugmc00mi44nsaxos42my00mi44nsa0ms44nyawidiylju3ide5ljmgndiumia0mi44nsa0mi4yidizljkyidagndmumtgtmtkunjmgndmumtgtndiumnptnza1ljyzideumzfjmc00oc43ncazos41oc04ms43oca3ns41ny04ms43ocaync41myawidm4ljygny41mia0oc4wocayms45mmwzljc3lte5adm2ljc5dje1ns40ac0zni43owwtnc43ns0xnmmtmtaunzkgmteunzgtmjqumjegmtktndcumsaxos0zns4zmy0umdutnzuuntctmzeumtmtnzuuntctnzkuntr6bteyns42ms0umznjls4wos0ymy41mjctmtkundctndiuodm1ltqzltqyljgzns0ymy41osawltqzide5ljqxms00mya0m3yumty1yzagmjeuntkgmtkumya0mc44osa0mi44nia0mc44osaymy44nsawidqzlje0lte5ljmgndmumtqtndeumjj6ttk0ns43ocaymly0ac00mc4ym3yxntuumzlondaumjnwnzuunjzjmc0yns4xosaxmi40nc0zoc4ynyaznc0zoc4ynyaxljqzidagmi43os4xidqumtiumjnmotkxljm2ljexyy0ymc45ny4xms0zni4xnya3ljmtnduuntggmjeuodl6bs00mdqumjcumdf2lte4bc00mc4ymy4wos4zncaxntuumzcgndaumjmtlja5ls4ymi04my43mmmtlja2lti1lje4ideyljm1ltm4lji5idmzljkzltm4ljm0ideumzc2ljawncayljc1mi4wodegnc4xmi4ym0w1odcumsawyy0ymsaumtctmzyumjigny4zos00ns41osaymi4wmxpnmzm4ljg4idk5ljjwnc4wmwg0mc4ymly5nc4zyzagmtkuotugmteumtigmzeunzmgmzaundigmzeunzmgmjeuntkgmcaznc0xmy4wosaznc0zoc4yofy0ljaxadqwlji0dje1ns4zoggtndaumjf2lte4yy05ljq4ide0ljcylti0ljg2idixljkyltq2ljeyidixljkyltm1ljk4ljaxltu4lju1lti2lje2ltu4lju1lty0ljexem0zoteunzqtmtcundhjlja5ltqzljuxidmxljizltgwljc0idgwljyyltgwljy1idq1ljgumdkgnzgumtegmzyunzggnzggodagljaxidqumjczls4zmya4lju0ltegmtiunzzsltexoc40ms0umjjjnc41ncaxoc42nsaxos44osazmi4wosa0my4xmiazmi4xncaxnc4wniawidi5ljeyltuumtggmzgumy0xni45ngwyny40ncaymmmtmtqumtegmtkuotmtmzkgmzeunjytnjuundggmzeunjetndyunzutlje2ltgyljy3ltm1ljizltgylju5ltgwljd6btexoc4xmi0xni4xngmtmi4yni0xns43lte4lju5lti3ljg0ltm3ljg5lti3ljg3lte4ljy1idatmzmunzegmteumdytmzkunjmgmjcunznsnzcuntiumtr6bs0ynjeunca1os45ngwzns43ni0xoc43mmm1ljkxideyljgxide3ljczidiwljm2idm0ljq4idiwljm2ide1ljqzidagmjeumzqtnc45miayms4znc0xms44miawlti1ltg0ljcxltkuodutodqunzetnjcgmc0zms41miayny41oc00oc4ynia2ms43mi00oc4yniayns45ncawidq4ljkyidexljq5idyxljqgmziuodnsltm1ljq0ide4ljc1yy01lji1ltewljuxlte1ljetmtyunditmjcuntgtmtyunditmtiumtqgmc0xoc4wnia0lji3lte4lja2idexljq5idagmjqumya4nc43msa4ljg3idg0ljcxidy3idagmzaumjetmjqunjigndguntktnjqumzugndguntktmzmuoditljazltu3ljq2ltexlje5lty5lji3ltm2ljh6ttagodeuntrdmcazni43myazni42my43nca4mi40my43ngmyny45ndctlje5nia1nc4xodigmtmunzm3idy5ljy3idm3bc0znc4zncaxos45mme0mi45nzigndiuotcyidagmdatmzuumzmtmtgumzjjltizlju1idatndiuodugmtkunjmtndiuodugndiumiawidiylju3ide5ljmgndiumia0mi44nsa0mi4yytqyljuwmia0mi41mdigmcawmdm2ljmxltiwbdm0idiwlji4yy0xns4zmdcgmjmuotu1ltqxljkwmiazoc40mzetnzaumzmgmzgumjhdmzyunjmgmtyyljm0idagmti1ljy2idagodeuntr6iibmawxspsijmda1nkqyiibmawxslxj1bgu9im5vbnplcm8ilz48l3n2zz4=)](/)
+
+[privacy notice](/about/privacy)[ccpa notice](/about/privacy/ccpa)[data
+protection addendum](/about/privacy/data-protection-addendum)[cookies
+policy](/about/cookies)[terms of use](/about/terms)
+
+* * *
+
+# privacy notice
+
+* * *
+
+ _effective: january 1, 2021._
+
+## key information
+
+  * coursera, inc. is the data controller of the personal information we collect about you (i.e., the entity that determines the means and purposes of collecting, using, and disclosing the personal information), unless you are part of a degree, certain mastertrack programs, or certain enterprise programs, in which case coursera is the data processor.
+  * we collect the personal information set out in the "what information we collect" section of this privacy notice below, including account registration details such as name and email, details of content offerings you undertake, survey information (where you provide it), identity verification data, and information about your use of our site and services.
+  * we use your personal information for the purposes set out in the "how we use the information" section of this privacy notice below, including providing our site and services to you, ensuring the security and performance of our site, conducting research relating to content offerings, sharing information with our content providers and our suppliers, direct marketing, and performing statistical analysis of the use of our site and services.
+  * you have a number of rights that you can exercise in relation to our use of your personal information, as set out in the "updating or deleting your personally identifiable information" section of this privacy notice below.
+
+you can find information about us and how we collect, use and store your
+personal data in each section of this privacy notice:
+
+  * purpose and who we are
+  * what information this privacy notice covers
+  * what you agree to by using our site
+  * what information we collect
+  * how we use the information
+  * external links
+  * retention of personally identifiable information
+  * confidentiality & security of personally identifiable information
+  * updating or deleting your personally identifiable information
+  * questions, suggestions and complaints
+  * california privacy rights
+  * international privacy practices
+  * changing our privacy notice
+  * no information from children under 13
+
+## purpose and who we are
+
+the purpose of this privacy notice is to describe how coursera, inc., our
+subsidiaries, and our international branches, ("coursera," "us," "we," or
+"our") collects, uses, and shares information about you through our online
+interfaces (e.g., websites and mobile applications) owned and controlled by
+us, including but not limited to coursera.org and rhyme.com (collectively
+referred to herein as the "site"). please read this privacy notice carefully
+to understand what we do. if you do not understand any aspects of our privacy
+notice, please feel free to contact us at
+[privacy@coursera.org](mailto:privacy@coursera.org). your use of our site is
+also governed by our [terms of
+use.](https://www.coursera.org/about/terms).terms used but not defined in this
+privacy notice can be found in our terms of use. coursera, inc. is a delaware
+corporation with a principal place of business at 381 e. evelyn ave., mountain
+view, ca 94041. if you reside or are located in the european economic area
+("eea") coursera is the data controller of all personal data (as defined
+below) collected via the site and of certain personal data collected from
+third parties, as set out in this privacy notice unless you are part of a
+degree, certain mastertrack programs, or certain enterprise programs, in which
+case coursera is the data processor.
+
+## what information this privacy notice covers
+
+this privacy notice covers information we collect from you through our site.
+some of our siteâs functionality can be used without revealing any personal
+data, but for features or services related to the content offerings, personal
+data is required. in order to access certain features and benefits on our
+site, you may need to submit, or we may collect, **" personal data"** (i.e.,
+information that can be used to identify you and which may also be referred to
+as âpersonally identifiable informationâ or âpersonal informationâ).
+personal data can include information such as your name, email address, ip
+address, and device identifier, among other things. you are responsible for
+ensuring the accuracy of the personal data you submit to coursera. inaccurate
+information may affect your ability to use the site, the information you
+receive when using the site, and our ability to contact you. for example, your
+email address should be kept current because that is one of the primary
+manners in which we communicate with you.
+
+## what you agree to by using our site
+
+we consider that the legal bases for using your personal information as set
+out in this privacy notice are as follows:
+
+  * our use of your personal information is necessary to perform our obligations under any contract with you (for example, to comply with the terms of use of our site which you accept by browsing our website and/or to comply with our contract to provide services to you, your academic institution, your employer, or other organization that may be providing you with access to our services); or
+  * our use of your personal information is necessary for complying with our legal obligations; or
+  * use of your personal information is necessary for our legitimate interests or the legitimate interests of others. our legitimate interests are to:
+    * run, grow and develop our business;
+    * operate our site and provide our services;
+    * select appropriately skilled and qualified suppliers;
+    * build relationships with partners and academic institutions;
+    * carry out research and statistical analysis;
+    * carry out marketing and business development; and
+    * for internal administrative and auditing purposes.
+  * consent, to send you certain communications or where you submit certain information to us, or where required to rely upon consent by local law.
+
+which legal basis applies to a specific activity will depend on the type of
+personal information used and the context in which it is being used.
+
+if we rely on our (or another partyâs) legitimate interests for using your
+personal information, we will undertake a balancing test to ensure that our
+(or the other partyâs) legitimate interests are not outweighed by your
+interests or fundamental rights and freedoms which require protection of the
+personal information.
+
+we may process your personal information in some cases for marketing purposes
+on the basis of your consent (which you may withdraw at any time as described
+below).
+
+if we rely on your consent for us to use your personal information in a
+particular way, but you later change your mind, you may withdraw your consent
+by visiting your profile page and clicking the box to remove consent and we
+will stop doing so. if you withdraw your consent, this may impact the ability
+for us to provide some of our services to you.
+
+## what information we collect
+
+we gather two types of information about users through the site:
+
+  *  **information relating to your use of our site.** when users come to our site, we may track, collect, and aggregate information indicating, among other things, which pages of our site were visited, the order in which they were visited, when they were visited, and which hyperlinks were clicked. we also collect information from the urls from which you linked to our site. collecting such information may involve logging the ip address, operating system, and browser software used by each user of the site. we may be able to determine from an ip address a userâs internet service provider and the geographic location of their point of connectivity. location data may be used to route your traffic to the nearest regional server to reduce latency and improve your experience. we may also use cookies and web beacons when you visit our site. for more information on our use of cookies and web beacons, please refer to our [cookies policy](https://www.coursera.org/about/cookies).
+
+  *  **personal data provided directly by you or via third parties.** we collect personal data that you provide to us when you register for an account, update or change information for your account, purchase products or services, complete a survey, sign-up for email updates, participate in our public forums, send us email messages, and/or participate in content offerings or other services on our site. we may use the personal data that you provide to respond to your questions, provide you the specific content offering and/or services you select, send you updates about content offerings or other coursera events, and send you email messages about site maintenance or updates.
+
+  * account registration. if you register for an account on our site, you may be required to provide us with personal data such as your name and email address.
+
+  * updates. coursera may offer you the ability to receive updates either via email or by posting on portions of the site only accessible to registered users. in order to subscribe to these services, you may be required to provide us with personal data such as your name and email address.
+  * forums. coursera may offer public forums from time to time (the "forums") where you can share comments and thoughts. in order to participate in the forums, you may be required to register with us and/or provide us with personal data such as your name and email address. please keep in mind that information you post or make available in forums will be publicly available. you should not include any personal information or other information of a personal or sensitive nature, whether relating to you or another person, in a forum post. please also reference our terms of use and our [code of conduct](https://learner.coursera.help/hc/en-us/articles/208280036-coursera-code-of-conduct) for additional information about proper use of our forums.
+  * participation in content offerings. coursera offers users the opportunity to participate in content offerings on or through the site. if you desire to participate in a content offering, you will be asked to provide us with certain information necessary to conduct such a content offering. this information may include, among other things, your name and email address.
+
+if you participate in a content offering, we may collect certain user-
+generated content, such as assignments you submit, peer-graded assignments,
+and peer grading feedback. we also collect course data, such as responses to
+in-video quizzes, standalone quizzes, exams, and surveys. you should not
+include any personal data or other information of a personal or sensitive
+nature, whether relating to you or another person, on assignments, exams, or
+surveys, except for information required to participate in or submit such
+assignments, exams, or surveys.
+
+  * identity verification. coursera may offer you the ability to verify your identity for select services. in order to enroll for these services, you may be required to provide us or our third-party identity verification vendor with personal data such as your name, address, date of birth, a headshot taken using a webcam, and a photo identification document. additionally, if you apply for financial aid in connection with these services, you may be required to provide information regarding your income.
+  * communications with coursera. we may receive personal data when you send us an email message or otherwise contact us.
+  * third party sites. we may receive personal data when you access or log-in to a third party site, e.g., facebook, from our sites. this may include the text and/or images of your personal data available from the third party site.
+  * surveys. we may receive personal data when you provide information in response to a survey operated by us or a content provider.
+  * partner sites. partner sites providing content offering-related tools and services to coursera users may collect nonfinancial individual-level user data regarding the individualâs use of that partner site while the partner sites provide those services to coursera. the partner sites may share that data with coursera for the purpose of improving our services, the partner siteâs services, and the individualâs education experience. this data includes information such as the amount of time spent on the partner site and pages viewed.
+  * third party payment processing. coursera provides you with the ability to pay for content offerings and other services using a credit card or other methods through a third party payment processing service provider. please note that our service provider â not coursera â collects and processes your financial information.
+
+## how we use the information
+
+  *  **information relating to your use of our site.** we use information relating to your use of the site to build higher quality, more useful services by performing statistical analyses of the collective characteristics and behavior of our users, and by measuring demographics and interests regarding specific areas of our site. we may also use this information to ensure the security of our services and the site.
+  *  **personally identifiable information provided directly by you or via third parties.** except as set forth in this privacy notice or as specifically agreed to by you, coursera will not disclose any of your personal data. in addition to the other uses set forth in this privacy notice, we may disclose and otherwise use personal data as described below.
+
+  * providing the site and our services. we use personal data which you provide to us in order to allow you to access and use the site and in order to provide any information, products, or services that you request from us.
+
+  * technical support and security. we may use personal data to provide technical support to you, where required, and to ensure the security of our services and the site.
+
+  * updates. we use personal data collected when you sign-up for our various email or update services to send you the messages in connection with the site or content offerings. we may also archive this information and/or use it for future communications with you, where we are legally entitled to do so.
+
+  * forums. you should not post any personally identifiable information or other information of a personal or sensitive nature, whether relating to you or another person, within a forum post. if you choose to post personally identifiable information, such personally identifiable information may be collected during your use of the forums. we may publish this information via extensions of our platform that use third-party services, like mobile applications. we reserve the right to reuse forum posts that contain personally identifiable information in future versions of the content offerings, and to enhance future content offerings. we may archive this information and/or use it for future communications with you and/or your designee(s), and/or provide it to the content provider, business partners, or the instructor(s) associated with the courses you have taken. we may also use or publish posts submitted on the forums without using personally identifiable information.
+
+  * participation in content offerings. we use the personal data that we collect from you when you participate in a content offering through the site for processing purposes, including but not limited to tracking attendance, progress, and completion of the content offerings. we may also share your personal data and your performance in a given content offering with the instructor or instructors who taught it, with teaching assistants or other individuals designated by the instructor or instructors to assist with the creation, modification, or operation of the content offering, and with the content provider(s) with which they are affiliated. we may also use the information generated when taking a content offering or using the services for predictive analysis of your performance in the content offerings. also, we may archive this information and/or use it for future communications with you, where we are legally entitled to do so.
+
+  * identity verification. for services that require identity verification, we may use the personal data that we collect for verifying your identity, and for authenticating that submissions made on the site were made by you. this service may be provided through a third-party identity verification vendor. your photo identification document will be deleted after successful verification of your profile information.
+
+  * communications with or from coursera. when you send us an email message or otherwise contact us, we may use the information provided by you to respond to your communication and/or as described in this privacy notice. we may also archive this information and/or use it for future communications with you where we are legally entitled to do so. where we send you emails, we may track the way that you interact with these emails (such as when you open an email or click on a link inside an email). we use this information for the purposes of optimizing and better tailoring our communications to you.
+
+  * communications with coursera business partners. we may share your personal data with content providers and other business partners of coursera so that content providers and other business partners may share information about their products and services that may be of interest to you where they are legally entitled to do so.
+
+  * research. we may share general course data (including quiz or assignment submissions, grades, and forum discussions), information about your activity on our site, and demographic data from surveys operated by us with our content providers and other business partners so that our content providers and other business partners may use the data for research related to online education.
+
+  * disclosure to coursera operations and maintenance contractors. we use various service providers, vendors, and contractors (collectively, "contractors") to assist us in providing our services to you. our contractors may have limited access to your personal data in the course of providing their products or services to us, so that we in turn can provide our services to you. these contractors may include vendors and suppliers that provide us with technology, services, and/or content related to the operation and maintenance of the site or the content offerings. access to your personal data by these contractors is limited to the information reasonably necessary for the contractor to perform its limited function for us.
+
+  * government authorities; legal rights and actions. coursera may share your personal data with various government authorities in response to subpoenas, court orders, or other legal processes; to establish or exercise our legal rights or to protect our property; to defend against legal claims; or as otherwise required by law. in such cases we reserve the right to raise or waive any legal objection or right available to us. we also may share your personal data when we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of coursera, the site, our users, customers, or others; and in connection with our terms of use and other agreements.
+
+  * disclosure to acquirers. coursera may disclose and/or transfer your personal data to an acquirer, assignee or other successor entity in connection with a sale, merger, or reorganization of all or substantially all of the equity, business, or assets of coursera to which your personal data relates.
+
+  * e-readers. if we receive any personal data related to the extent to which you use designated e-readers or other devices to access coursera materials, we may archive it, and use it for research, business, or other purposes.
+
+## external links
+
+for your convenience we may provide links to sites operated by organizations
+other than coursera ("third party sites") that we believe may be of interest
+to you. we do not disclose your personal data to these third party sites
+unless we have a lawful basis on which to do so. we do not endorse and are not
+responsible for the privacy practices of these third party sites. if you
+choose to click on a link to one of these third party sites, you should review
+the privacy policy posted on the other site to understand how that third party
+site collects and uses your personal data.
+
+## retention of personally identifiable information
+
+we keep your personal data for no longer than necessary for the purposes for
+which the personal data is collected and processed. the length of time we
+retain personal data for depends on the purposes for which we collect and use
+it and/or as required to comply with applicable laws and to establish,
+exercise, or defend our legal rights.
+
+## confidentiality & security of personally identifiable information
+
+we will use industry standard physical, technical, and administrative security
+measures to keep your personal data confidential and secure, and will not
+share it with third parties, except as otherwise provided in this privacy
+notice, or unless such disclosure is necessary in special cases, such as a
+physical threat to you or others, as permitted by applicable law. because the
+internet is not a 100% secure environment, we cannot guarantee the security of
+personal data, and there is some risk that an unauthorized third party may
+find a way to circumvent our security systems or that transmission of your
+information over the internet will be intercepted. it is your responsibility
+to protect the security of your login information. please note that e-mail
+communications are typically not encrypted and should not be considered
+secure.
+
+## updating or deleting your personal data
+
+you have certain rights in relation to your personal data. you can access your
+personal data and confirm that it remains correct and up-to-date, choose
+whether or not you wish to receive material from us or some of our partners,
+and request that we delete or provide you with a copy of your personal data by
+logging into the site, selecting âsettingsâ from the dropdown in the top
+right, and scrolling down to find the appropriate option. the ability to
+delete an account may be disabled for some users, particularly those who are
+enrolled in for-credit offerings such as degrees, mastertrack certificate
+programs, and other similar offerings.
+
+if you would like further information in relation to your rights or would like
+to exercise any of them, you may also contact us via
+[privacy@coursera.org](mailto:privacy@coursera.org). if you reside or are
+located in the eea, united kingdom, switzerland, or other region that offers
+similar protections, you have the right to request that we:
+
+  * provide access to any personal data we hold about you;
+  * prevent the processing of your personal data for direct-marketing purposes;
+  * update any personal data which is out of date or incorrect;
+  * delete any personal data which we are holding about you;
+  * restrict the way that we process your personal data;
+  * provide your personal data to a third party provider of services; or
+  * provide you with a copy of any personal data which we hold about you. 
+
+we try to answer every request promptly where possible, and provide our
+response within the time period stated by applicable law. keep in mind,
+however, that when deleting your personal data there may be residual
+information that will remain within our databases, access logs, and other
+records, which may or may not contain your personal data. please also note
+that certain personal data may be exempt from such requests in certain
+circumstances, which may include if we need to retain your personal data to
+comply with a legal obligation. when you email us with a request, we may ask
+that you provide us with information necessary to confirm your identity.
+
+if you are a resident of california, please also see our [ccpa
+notice](https://www.coursera.org/about/privacy/ccpa).
+
+## questions, suggestions, and complaints
+
+if you have any privacy-related questions, suggestions, unresolved problems,
+or complaints, you may contact us via
+[privacy@coursera.org](mailto:privacy@coursera.org). if you reside or are
+located in the eea, united kingdom, switzerland, or other region that offers
+similar protections, our data protection officer and privacy team may assist
+with all queries regarding our handling of personal data at
+[security@coursera.org](mailto:security@coursera.org). if you reside or are
+located in the eea, united kingdom, switzerland, or other region that offers
+similar protections, you may also make a complaint to our supervisory body for
+data protection matters (namely the uk information commissioner's office or
+dutch autoriteit persoonsgegevens) or seek a remedy through local courts if
+you believe that your rights have been breached.
+
+coursera bv serves as the eu representative for coursera, inc. to contact
+coursera bv, please use the following contact info:
+
+    
+    
+    post: coursera europe b.v.
+          attn: privacy request
+          schiphol boulevard 195, 1118bg schiphol
+    
+    email: eu-representative@coursera.org
+
+coursera uk limited serves as the eu representative for coursera, inc. to
+contact coursera uk limited, please use the following contact info:
+
+    
+    
+    post: coursera uk limited
+          attn: privacy request
+          city bridge house, 57 southwark street, london se1 1ru
+    
+    phone: +44 20 3457 0256
+    
+    email: eu-representative@coursera.org 
+
+## california privacy rights
+
+#### shine the light
+
+shine the light under californiaâs "shine the light" law, california
+residents who provide personal information in obtaining products or services
+for personal, family, or household use are entitled to request and obtain from
+us, once a calendar year, information about the customer information we
+shared, if any, with other businesses for their own direct marketing uses. if
+applicable, this information would include the categories of customer
+information and the names and addresses of those businesses with which we
+shared customer information for the immediately prior calendar year (e.g.
+requests made in 2018 will receive information regarding 2017 sharing
+activities).
+
+to obtain this information, please send an email message to
+[privacy@coursera.org](mailto:privacy@coursera.org) with "request for
+california privacy information" on the subject line and in the body of your
+message. we will provide the requested information to you at your email
+address in response. please be aware that not all information sharing is
+covered by the "shine the light" requirements and only information on covered
+sharing will be included in our response.
+
+#### california consumer privacy act
+
+under the california consumer privacy act (âccpaâ), california residents
+have the right to know what personal information about them is collected,
+request deletion of their personal data, opt-out of the sale of their personal
+data, and not be discriminated against if they choose to exercise any of these
+rights. coursera does not sell any of the data we collect about you. if
+youâd like to exercise any of the other rights afforded to you, log in to
+your coursera account, select âsettingsâ from the dropdown in the top
+right, and scroll down to find the appropriate option, or contact us at
+[privacy@coursera.org](mailto:privacy@coursera.org).
+
+for more information about how we process the personal information of
+california residents and the rights that california residents have under the
+ccpa, please review our full [ccpa notice
+here](https://www.coursera.org/about/privacy/ccpa).
+
+## international privacy practices
+
+our sites are primarily operated and managed on servers located and operated
+within the united states. in order to provide our products and services to
+you, you may be sending your personal data outside of the country where you
+reside or are located, including to the united states. accordingly, if you
+reside or are located outside of the united states, your personal data may be
+transferred outside of the country where you reside or are located, including
+to countries that may not or do not provide the same level of protection for
+your personal data. we are committed to protecting the privacy and
+confidentiality of personal data when it is transferred. if you reside or are
+located within the eea, united kingdom, switzerland, or other region that
+offers similar protections, and such transfers occur, we take appropriate
+steps to provide the same level of protection for the processing carried out
+in any such countries as you would have within the eea or other regions to the
+extent feasible under applicable law. we participate in and commit to adhering
+to the eu-u.s. and swiss-u.s. privacy shield frameworks when transferring data
+from the eea or switzerland to the united states. please see our privacy
+shield notice below for further information.
+
+## changing our privacy notice
+
+please note that we review our privacy practices from time to time, and that
+these practices are subject to change. any change, update, or modification
+will be effective immediately upon posting on our site. we will notify you of
+any material change to this privacy notice by posting a notice on our siteâs
+homepage for a reasonable period of time following such update or by sending
+an email to the email address associated with your user account, and by
+changing the effective date (located at the top and bottom of this page). be
+sure to return to this page periodically to ensure familiarity with the most
+current version of this privacy notice.
+
+## no information from children under 13
+
+coursera strongly believes in protecting the privacy of children. any use or
+access by anyone under the age of 13 is prohibited, and certain regions and
+content offerings may have additional requirements and/or restrictions. in
+line with this belief, we do not knowingly collect or maintain personal data
+on our site from persons under 13 years of age, and no part of our site is
+directed to persons under 13 years of age. if you are under 13 years of age,
+then please do not use or access this site at any time or in any manner. we
+will take appropriate steps to delete any personal data of persons less than
+13 years of age that has been collected on our site without verified parental
+consent upon learning of the existence of such personal data.
+
+* * *
+
+# privacy shield notice
+
+* * *
+
+ _effective as of january 1, 2021._
+
+## introduction.
+
+coursera, inc. (referred to as "we," "us," or "our"), believes in protecting
+your privacy.
+
+we participate in and commit to adhering to the eu-u.s. and swiss-u.s. privacy
+shield frameworks which includes the privacy shield principles of notice,
+choice, onward transfer, security, data integrity, access, and enforcement
+(the "principles") for all transfers of personal data from the eea,
+switzerland, or the united kingdom to the u.s. to learn more about privacy
+shield, please visit the u.s. department of commerce privacy shield website:
+<https://www.privacyshield.gov/>. for more information regarding our privacy
+shield certification, please click
+[here](https://www.privacyshield.gov/participant?id=a2zt000000001eeaay&status=active).
+when we use the term "personal information" in this privacy shield notice, we
+are referring to any information that (i) is recorded in any form; (ii) is
+about an identified or identifiable individual; and (iii) is received by us
+from the eea, switzerland, or the united kingdom.
+
+when we use the term "sensitive personal information" in this privacy shield
+notice, we are referring to a particular subset of an individualâs personal
+information that provides details of his or her race, ethnic origin, sexual
+orientation, political opinions, religious or philosophical beliefs, or trade
+union membership or that concerns his or her health.
+
+the purpose of this privacy shield notice is to outline our general practices
+for implementing the principles with respect to the personal information we
+collect. if you would like to obtain additional information regarding our
+privacy practices in connection with information collected on this website in
+general, please refer to our online privacy notice.
+
+## principles.
+
+  *  **notice**. we will provide you with timely and appropriate notice in our terms of use and privacy notice, describing what personal information we are collecting, how we will use that information, and the types of third parties with whom we may share such information (and the reasons we do so). please review these documents carefully. where we process personal data on behalf of our business partners, we will work with them to help them provide appropriate notice to you.
+
+  *  **choice**. we will offer you the opportunity to opt-out of your personal information (or to provide explicit consent for sensitive personal information) being: (i) disclosed to a third party (other than a service provider as set forth below); or (ii) used for a purpose materially different from the purpose for which it was originally collected (as set out in our privacy notice), or subsequently authorized by you, when the circumstances arise. you also have the ability to opt out at any time from the use of your personal information for direct marketing purposes. to exercise this right, please check your settings options. if you have further questions related to the above, you can also contact us at [privacyshield@coursera.org](mailto:privacyshield@coursera.org).
+
+where we process personal data on behalf of our business partners, we will
+work with them to ensure you are offered appropriate choices (and means to
+exercise those choices) for limiting use or disclosure of your personal data
+(where appropriate).
+
+notwithstanding the foregoing, you agree that we may disclose personal
+information under the following circumstances without offering you an
+opportunity to opt out of such disclosure: (i) to our content providers and
+other service providers that we have retained to perform requested services on
+our behalf; (ii) if we are required to do so by law or legal process; (iii)
+pursuant to valid requests by law enforcement or other government authorities
+(which we are legally required to respond to); and (iv) when we believe
+disclosure is necessary to prevent physical harm or financial loss or in
+connection with an investigation of suspected or actual illegal activity. in
+addition, we reserve the right to transfer personal information in the event
+we sell or transfer all or a portion of our business or assets (including in
+the event of a reorganization, dissolution, or liquidation). should such a
+sale or transfer occur, we will use reasonable efforts to direct the
+transferee to use the personal information in a manner consistent with this
+privacy shield notice.
+
+  *  **onward transfers (transfer to third parties)**. we will only transfer personal information to third parties where the third party: (i) has provided satisfactory assurances to us that it will protect the personal information in accordance with this privacy shield notice and the principles; (ii) is located in the eu or a country considered "adequate" for privacy by the eu commission, and therefore is required to comply with the eu data protection laws or substantially equivalent privacy laws; or (iii) has certified to privacy shield, and is independently responsible for complying with the principles.
+
+where we have knowledge that a third party to whom we have provided personal
+information is processing that personal information in a manner contrary to
+this privacy shield notice or the principles, we will take reasonable steps to
+prevent or terminate processing by the third party until such time the third
+party can process personal information in compliance with this privacy shield
+notice and the principles. under certain circumstances, we may be potentially
+liable if these requirements are not met.
+
+  *  **data security**. we will take reasonable and appropriate measures to protect personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction. we have implemented appropriate physical, electronic and managerial procedures to help safeguard and secure personal information from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+
+  *  **data integrity and purpose limitation**. we will process personal information in a manner that is compatible with and relevant to the purpose for which it was collected or authorized by you. to the extent necessary for those purposes, we will take reasonable steps to ensure that personal information is accurate, complete, current, and reliable for its intended use.
+
+  *  **access**. upon request, we will provide you with reasonable access to the personal information about you that we hold. we will also take reasonable steps to correct, update, amend, or delete any information that is demonstrated to be inaccurate, except where the burden or expense of doing so would be disproportionate to the risks to your privacy in the case in question or where the rights of third parties would be violated. where we process personal data on behalf of our business partners, we will work with them in complying with such requests in accordance with applicable law.
+
+  *  **recourse; enforcement**. we will regularly review our compliance with the statements set forth in this privacy shield notice, and we will provide an independent way to resolve complaints about our privacy practices. we encourage interested persons to first contact us (contact information provided below) and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information in accordance with the principles. if your inquiry is not satisfactorily addressed by us, we have registered with the international centre for dispute resolution ("icdr"), a division of the american arbitration association, to provide independent third party dispute resolution (free of charge) to you. to contact icdr and/or learn more about the companyâs dispute resolution services, including complaint submission, please visit: <http://go.adr.org/privacyshield.html>. there may also be circumstances when disputes can be resolved through the privacy shield binding arbitration process. please see the [privacy shield website for further information](https://www.privacyshield.gov/article?id=c-pre-arbitration-requirements). for residents of switzerland, the swiss federal data protection and information commissionerâs authority will replace that of the eu bodies. for residents of the united kingdom, the information commissionerâs office will serve this role. 
+
+  * **jurisdiction**. as part of our participation in privacy shield, we are subject to the investigatory and enforcement powers of the u.s. federal trade commission and other authorized statutory bodies.
+
+## modifications.
+
+we may amend this privacy shield notice from time-to-time in accordance with
+the requirements of the eu-u.s. or swiss-u.s. privacy shield framework. the
+most recent version of the privacy shield notice will always be posted to this
+website. anytime that we do make such changes, we will also update the
+effective date listed at the top of the privacy shield notice. please be sure
+to review the most recent version of the privacy shield notice each time that
+you visit this website so that you are aware of how we collect, use, and
+retain personal information.
+
+## contact us.
+
+please contact us with any questions or comments about this privacy shield
+notice, transfer of your personal information from the eea, switzerland, or
+the united kingdom to the u.s., our privacy practices, or your consent choices
+by email at [privacyshield@coursera.org](mailto:privacyshield@coursera.org).
+
+* * *
+
+# revisions
+
+* * *
+
+below is a list of all the revisions made to our privacy notice, with links to
+view the difference between each revision.
+
+  * [2020-12-18: updated for increased clarity of definitions and learner processes, added new eu representative, removed standard contractual clauses](https://www.diffchecker.com/ftdu2ans)
+  * [2020-08-28: added standard contractual clauses](https://www.diffchecker.com/gpythnvz)
+  * [2019-12-20: updated to incorporate ccpa and increase transparency of data handling practices.](https://www.diffchecker.com/scevtqha)
+  * [2019-03-19: updated to include eu representative contact info](https://www.diffchecker.com/nhzlndxu)
+  * [2018-12-11: updated contact icdr link](https://www.diffchecker.com/633rrczz)
+  * [2018-07-11: updated for clarification on grounds for data processing.](https://www.diffchecker.com/wggmc4wj)
+  * [2018-05-16: added table of contents and summary. clarified sections on data processing bases and communications](https://www.diffchecker.com/ur43ilsv)
+  * [2018-03-16: updated for gdpr and removed outdated swiss safe harbor policy](https://www.diffchecker.com/dvdxwwju)
+  * [2017-06-28: updated privacy shield policy](https://www.diffchecker.com/ncyxrhil)
+  * [2016-09-29: new privacy shield policy/revised safe harbor policy](https://www.diffchecker.com/ri4fal5u)
+  * [2015-11-04: update privacy policy to show updated email address for privacy related questions.](https://www.diffchecker.com/09bcgxiv)
+  * 2014-01-02: initial revision
+
+## coursera footer
+
+### top online courses
+
+  * [finding purpose & meaning in life](/learn/finding-purpose-and-meaning-in-life)
+  * [understanding medical research](/learn/medical-research)
+  * [japanese for beginners](/learn/japanese-1)
+  * [introduction to cloud computing](/learn/introduction-to-cloud)
+  * [foundations of mindfulness](/learn/foundations-of-mindfulness)
+  * [fundamentals of finance](/learn/finance-fundamentals)
+  * [machine learning](/learn/machine-learning)
+  * [machine learning using sas viya](/learn/machine-learning-sas)
+  * [the science of well being](/learn/the-science-of-well-being)
+  * [covid-19 contact tracing](/learn/covid-19-contact-tracing)
+  * [ai for everyone](/learn/ai-for-everyone)
+  * [financial markets](/learn/financial-markets-global)
+  * [introduction to psychology](/learn/introduction-psychology)
+  * [getting started with aws](/learn/aws-machine-learning)
+  * [international marketing](/specializations/international-marketing)
+  * [c++](/learn/c-plus-plus-a)
+  * [predictive analytics & data mining](/learn/predictive-analytics-data-mining)
+  * [ucsd learning how to learn](/learn/learning-how-to-learn)
+  * [michigan programming for everybody](/learn/python)
+  * [jhu r programming](/learn/r-programming)
+  * [google cbrs cpi training](/learn/google-cbrs-cpi-training)
+
+### top online specializations
+
+  * [natural language processing (nlp)](/specializations/natural-language-processing)
+  * [ai for medicine](/specializations/ai-for-medicine)
+  * [good with words: writing & editing](/specializations/good-with-words)
+  * [infections disease modeling](/specializations/infectious-disease-modelling)
+  * [the pronounciation of american english](/specializations/american-english-pronunciation)
+  * [software testing automation](/specializations/software-testing-automation)
+  * [deep learning](/specializations/deep-learning)
+  * [python for everybody](/specializations/python)
+  * [data science](/specializations/jhu-data-science)
+  * [business foundations](/specializations/wharton-business-foundations)
+  * [excel skills for business](/specializations/excel)
+  * [data science with python](/specializations/data-science-python)
+  * [finance for everyone](/specializations/finance-for-everyone)
+  * [communication skills for engineers](/specializations/leadership-communication-engineers)
+  * [sales training](/specializations/sales-training-high-performing-teams)
+  * [career brand management](/specializations/career-brand-management)
+  * [wharton business analytics](/specializations/business-analytics)
+  * [penn positive psychology](/specializations/positivepsychology)
+  * [washington machine learning](/specializations/machine-learning)
+  * [calarts graphic design](/specializations/graphic-design)
+
+### online certificates
+
+  * [professional certificates](/professional-certificates)
+  * [mastertrack certificates](/mastertrack)
+  * [google it support](/professional-certificates/google-it-support)
+  * [ibm data science](/professional-certificates/ibm-data-science)
+  * [google cloud data engineering](/professional-certificates/gcp-data-engineering)
+  * [ibm applied ai](/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
+  * [google cloud architecture](/professional-certificates/gcp-cloud-architect)
+  * [ibm cybersecurity analyst](/professional-certificates/ibm-cybersecurity-analyst)
+  * [google it automation with python](/professional-certificates/google-it-automation)
+  * [ibm z/os mainframe practitioner](/professional-certificates/ibm-z-mainframe)
+  * [uci applied project management](/professional-certificate/applied-project-management)
+  * [instructional design certificate](https://www.coursera.org/mastertrack/instructional-design-illinois)
+  * [construction engineering and management certificate](https://www.coursera.org/mastertrack/construction-engineering-management-umich)
+  * [big data certificate](https://www.coursera.org/mastertrack/big-data-asu)
+  * [machine learning for analytics certificate](https://www.coursera.org/mastertrack/machine-learning-analytics-chicago)
+  * [innovation management & entrepreneurship certificate](https://www.coursera.org/mastertrack/innovation-management-entrepreneurship-hec)
+  * [sustainabaility and development certificate](https://www.coursera.org/mastertrack/sustainability-development-umich)
+  * [social work certificate](https://www.coursera.org/mastertrack/social-work-umich)
+  * [ai and machine learning certificate](https://www.coursera.org/mastertrack/ai-machine-learning-asu)
+  * [spatial data analysis and visualization certificate](https://www.coursera.org/mastertrack/spatial-data-analysis-visualization-ucdavis)
+
+### online degree programs
+
+  * [computer science degrees](https://www.coursera.org/degrees/computer-science)
+  * [business degrees](https://www.coursera.org/degrees/business)
+  * [public health degrees](https://www.coursera.org/degrees/public-health)
+  * [data science degrees](https://www.coursera.org/degrees/data-science)
+  * [bachelor's degrees](/collections/bachelors-degrees)
+  * [bachelor of computer science](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london)
+  * [ms electrical engineering](https://www.coursera.org/degrees/msee-boulder)
+  * [bachelor completion degree](https://www.coursera.org/degrees/unt-online-bachelor-completion)
+  * [ms management](https://www.coursera.org/degrees/ms-management-illinois)
+  * [ms computer science](https://www.coursera.org/degrees/master-of-computer-science-asu)
+  * [mph](https://www.coursera.org/degrees/global-mph-imperial)
+  * [accounting master's degree](https://www.coursera.org/degrees/imsa)
+  * [mcit](https://www.coursera.org/degrees/mcit-penn)
+  * [mba online](https://www.coursera.org/degrees/imba)
+  * [master of applied data science](https://www.coursera.org/degrees/master-of-applied-data-science-umich)
+  * [global mba](https://www.coursera.org/degrees/global-mba-macquarie)
+  * [master's of innovation & entrepreneurship](https://www.coursera.org/degrees/omie)
+  * [mcs data science](https://www.coursera.org/degrees/masters-in-computer-data-science)
+  * [master's in computer science](https://www.coursera.org/degrees/master-of-computer-science-illinois)
+  * [master's in public health](https://www.coursera.org/degrees/mph-umich)
+
+### coursera
+
+  * [about](https://about.coursera.org/)
+  * [what we offer](https://about.coursera.org/how-coursera-works/)
+  * [leadership](https://about.coursera.org/leadership)
+  * [careers](/about/careers)
+  * [catalog](/browse)
+  * [coursera plus](/courseraplus)
+  * [certificates](/professional-certificate)
+  * [mastertrackâ¢ certificates](/mastertrack)
+  * [degrees](/degrees)
+  * [for enterprise](/business?utm_campaign=website&utm_content=corp-to-home-footer-for-enterprise&utm_medium=coursera&utm_source=enterprise)
+  * [for government](/government?utm_campaign=website&utm_content=corp-to-home-footer-for-government&utm_medium=coursera&utm_source=enterprise)
+  * [for campus](/campus?utm_campaign=website&utm_content=corp-to-home-footer-for-campus&utm_medium=coursera&utm_source=enterprise)
+
+### community
+
+  * [learners](https://www.coursera.community)
+  * [partners](https://www.coursera.org/about/partners)
+  * [developers](https://building.coursera.org/developer-program/)
+  * [beta testers](https://www.coursera.community/#beta-tester)
+  * [translators](https://www.coursera.community/#gtc)
+  * [blog](https://blog.coursera.org)
+  * [tech blog](https://medium.com/coursera-engineering)
+  * [teaching center](/teaching-center)
+
+### more
+
+  * [terms](/about/terms)
+  * [privacy](/about/privacy)
+  * [help](https://learner.coursera.help/hc)
+  * [accessibility](https://learner.coursera.help/hc/en-us/articles/360050668591-accessibility-statement)
+  * [press](/about/press)
+  * [contact](/about/contact)
+  * [articles](https://www.coursera.org/articles)
+  * [directory](/directory)
+  * [affiliates](https://about.coursera.org/affiliates)
+
+learn anywhere
+
+[![download on the app
+store](https://d3njjcbhbojbot.cloudfront.net/web/images/icons/download_on_the_app_store_badge_en.svg)](https://itunes.apple.com/app/apple-
+store/id736535961?pt=2334150&ct=coursera%20web%20promo%20banner&mt=8)[![get it
+on google
+play](https://d3njjcbhbojbot.cloudfront.net/web/images/icons/en_generic_rgb_wo_45.png)](http://play.google.com/store/apps/details?id=org.coursera.android)
+
+â© 2021 coursera inc. all rights reserved.
+
+  * [![coursera facebook](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/facebook.png?auto=format%2ccompress&dpr=1&w=28&h=28)](https://www.facebook.com/coursera)
+  * [![coursera linkedin](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/linkedin.png?auto=format%2ccompress&dpr=1&w=28&h=28)](https://www.linkedin.com/company/coursera)
+  * [![coursera twitter](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/twitter.png?auto=format%2ccompress&dpr=1&w=28&h=28)](https://twitter.com/coursera)
+  * [![coursera youtube](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/youtube.png?auto=format%2ccompress&dpr=1&w=28&h=28)](https://www.youtube.com/user/coursera)
+  * [![coursera instagram](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/instagram.png?auto=format%2ccompress&dpr=1&w=28&h=28)](https://www.instagram.com/coursera/)
+

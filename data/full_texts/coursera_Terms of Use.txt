@@ -1,0 +1,869 @@
+[![coursera](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0idxrmltgipz4kpcetlsbhzw5lcmf0b3i6iefkb2jlielsbhvzdhjhdg9yide2ljiumcwgu1zhiev4cg9ydcbqbhvnluluic4gu1zhifzlcnnpb246idyumdagqnvpbgqgmckgic0tpgo8iurpq1rzueugc3znifbvqkxjqyails8vvzndly9eveqgu1zhideums8vru4iicjodhrwoi8vd3d3lnczlm9yzy9hcmfwagljcy9tvkcvms4xl0rurc9zdmcxms5kdgqipgo8c3znihzpzxdcb3g9ijagmcaxmtu1ide2ncigeg1sbnm9imh0dha6ly93d3cudzmub3jnlziwmdavc3zniibmawxslxj1bgu9imv2zw5vzgqiignsaxatcnvszt0izxzlbm9kzcigc3ryb2tllwxpbmvqb2lupsjyb3vuzcigc3ryb2tllw1pdgvybgltaxq9ijiipjxwyxroigq9ik0xntkunzugodeuntrjmc00nc40osazni42my04mc40nya4mi40my04mc40nya0ni4xmiawidgyljc2idm2idgyljc2idgwljq3idagndqumtytmzyunjqgodauoc04mi43nia4mc44ltq1ljggmc04mi40my0zni42oc04mi40my04mc44em0xmjuunjegmgmwltiylji0lte5ljmtndeuodctndmumtgtndeuodctmjmuntugmc00mi44nsaxos42my00mi44nsa0ms44nyawidiylju3ide5ljmgndiumia0mi44nsa0mi4yidizljkyidagndmumtgtmtkunjmgndmumtgtndiumnptnza1ljyzideumzfjmc00oc43ncazos41oc04ms43oca3ns41ny04ms43ocaync41myawidm4ljygny41mia0oc4wocayms45mmwzljc3lte5adm2ljc5dje1ns40ac0zni43owwtnc43ns0xnmmtmtaunzkgmteunzgtmjqumjegmtktndcumsaxos0zns4zmy0umdutnzuuntctmzeumtmtnzuuntctnzkuntr6bteyns42ms0umznjls4wos0ymy41mjctmtkundctndiuodm1ltqzltqyljgzns0ymy41osawltqzide5ljqxms00mya0m3yumty1yzagmjeuntkgmtkumya0mc44osa0mi44nia0mc44osaymy44nsawidqzlje0lte5ljmgndmumtqtndeumjj6ttk0ns43ocaymly0ac00mc4ym3yxntuumzlondaumjnwnzuunjzjmc0yns4xosaxmi40nc0zoc4ynyaznc0zoc4ynyaxljqzidagmi43os4xidqumtiumjnmotkxljm2ljexyy0ymc45ny4xms0zni4xnya3ljmtnduuntggmjeuodl6bs00mdqumjcumdf2lte4bc00mc4ymy4wos4zncaxntuumzcgndaumjmtlja5ls4ymi04my43mmmtlja2lti1lje4ideyljm1ltm4lji5idmzljkzltm4ljm0ideumzc2ljawncayljc1mi4wodegnc4xmi4ym0w1odcumsawyy0ymsaumtctmzyumjigny4zos00ns41osaymi4wmxpnmzm4ljg4idk5ljjwnc4wmwg0mc4ymly5nc4zyzagmtkuotugmteumtigmzeunzmgmzaundigmzeunzmgmjeuntkgmcaznc0xmy4wosaznc0zoc4yofy0ljaxadqwlji0dje1ns4zoggtndaumjf2lte4yy05ljq4ide0ljcylti0ljg2idixljkyltq2ljeyidixljkyltm1ljk4ljaxltu4lju1lti2lje2ltu4lju1lty0ljexem0zoteunzqtmtcundhjlja5ltqzljuxidmxljizltgwljc0idgwljyyltgwljy1idq1ljgumdkgnzgumtegmzyunzggnzggodagljaxidqumjczls4zmya4lju0ltegmtiunzzsltexoc40ms0umjjjnc41ncaxoc42nsaxos44osazmi4wosa0my4xmiazmi4xncaxnc4wniawidi5ljeyltuumtggmzgumy0xni45ngwyny40ncaymmmtmtqumtegmtkuotmtmzkgmzeunjytnjuundggmzeunjetndyunzutlje2ltgyljy3ltm1ljizltgylju5ltgwljd6btexoc4xmi0xni4xngmtmi4yni0xns43lte4lju5lti3ljg0ltm3ljg5lti3ljg3lte4ljy1idatmzmunzegmteumdytmzkunjmgmjcunznsnzcuntiumtr6bs0ynjeunca1os45ngwzns43ni0xoc43mmm1ljkxideyljgxide3ljczidiwljm2idm0ljq4idiwljm2ide1ljqzidagmjeumzqtnc45miayms4znc0xms44miawlti1ltg0ljcxltkuodutodqunzetnjcgmc0zms41miayny41oc00oc4ynia2ms43mi00oc4yniayns45ncawidq4ljkyidexljq5idyxljqgmziuodnsltm1ljq0ide4ljc1yy01lji1ltewljuxlte1ljetmtyunditmjcuntgtmtyunditmtiumtqgmc0xoc4wnia0lji3lte4lja2idexljq5idagmjqumya4nc43msa4ljg3idg0ljcxidy3idagmzaumjetmjqunjigndguntktnjqumzugndguntktmzmuoditljazltu3ljq2ltexlje5lty5lji3ltm2ljh6ttagodeuntrdmcazni43myazni42my43nca4mi40my43ngmyny45ndctlje5nia1nc4xodigmtmunzm3idy5ljy3idm3bc0znc4zncaxos45mme0mi45nzigndiuotcyidagmdatmzuumzmtmtgumzjjltizlju1idatndiuodugmtkunjmtndiuodugndiumiawidiylju3ide5ljmgndiumia0mi44nsa0mi4yytqyljuwmia0mi41mdigmcawmdm2ljmxltiwbdm0idiwlji4yy0xns4zmdcgmjmuotu1ltqxljkwmiazoc40mzetnzaumzmgmzgumjhdmzyunjmgmtyyljm0idagmti1ljy2idagodeuntr6iibmawxspsijmda1nkqyiibmawxslxj1bgu9im5vbnplcm8ilz48l3n2zz4=)](/)
+
+  * [browse](/browse)
+  * [top courses](/courses)
+  * [log in](/about/terms?authmode=login)
+  * [join for free](/about/terms?authmode=signup)
+
+list
+
+[![coursera](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0idxrmltgipz4kpcetlsbhzw5lcmf0b3i6iefkb2jlielsbhvzdhjhdg9yide2ljiumcwgu1zhiev4cg9ydcbqbhvnluluic4gu1zhifzlcnnpb246idyumdagqnvpbgqgmckgic0tpgo8iurpq1rzueugc3znifbvqkxjqyails8vvzndly9eveqgu1zhideums8vru4iicjodhrwoi8vd3d3lnczlm9yzy9hcmfwagljcy9tvkcvms4xl0rurc9zdmcxms5kdgqipgo8c3znihzpzxdcb3g9ijagmcaxmtu1ide2ncigeg1sbnm9imh0dha6ly93d3cudzmub3jnlziwmdavc3zniibmawxslxj1bgu9imv2zw5vzgqiignsaxatcnvszt0izxzlbm9kzcigc3ryb2tllwxpbmvqb2lupsjyb3vuzcigc3ryb2tllw1pdgvybgltaxq9ijiipjxwyxroigq9ik0xntkunzugodeuntrjmc00nc40osazni42my04mc40nya4mi40my04mc40nya0ni4xmiawidgyljc2idm2idgyljc2idgwljq3idagndqumtytmzyunjqgodauoc04mi43nia4mc44ltq1ljggmc04mi40my0zni42oc04mi40my04mc44em0xmjuunjegmgmwltiylji0lte5ljmtndeuodctndmumtgtndeuodctmjmuntugmc00mi44nsaxos42my00mi44nsa0ms44nyawidiylju3ide5ljmgndiumia0mi44nsa0mi4yidizljkyidagndmumtgtmtkunjmgndmumtgtndiumnptnza1ljyzideumzfjmc00oc43ncazos41oc04ms43oca3ns41ny04ms43ocaync41myawidm4ljygny41mia0oc4wocayms45mmwzljc3lte5adm2ljc5dje1ns40ac0zni43owwtnc43ns0xnmmtmtaunzkgmteunzgtmjqumjegmtktndcumsaxos0zns4zmy0umdutnzuuntctmzeumtmtnzuuntctnzkuntr6bteyns42ms0umznjls4wos0ymy41mjctmtkundctndiuodm1ltqzltqyljgzns0ymy41osawltqzide5ljqxms00mya0m3yumty1yzagmjeuntkgmtkumya0mc44osa0mi44nia0mc44osaymy44nsawidqzlje0lte5ljmgndmumtqtndeumjj6ttk0ns43ocaymly0ac00mc4ym3yxntuumzlondaumjnwnzuunjzjmc0yns4xosaxmi40nc0zoc4ynyaznc0zoc4ynyaxljqzidagmi43os4xidqumtiumjnmotkxljm2ljexyy0ymc45ny4xms0zni4xnya3ljmtnduuntggmjeuodl6bs00mdqumjcumdf2lte4bc00mc4ymy4wos4zncaxntuumzcgndaumjmtlja5ls4ymi04my43mmmtlja2lti1lje4ideyljm1ltm4lji5idmzljkzltm4ljm0ideumzc2ljawncayljc1mi4wodegnc4xmi4ym0w1odcumsawyy0ymsaumtctmzyumjigny4zos00ns41osaymi4wmxpnmzm4ljg4idk5ljjwnc4wmwg0mc4ymly5nc4zyzagmtkuotugmteumtigmzeunzmgmzaundigmzeunzmgmjeuntkgmcaznc0xmy4wosaznc0zoc4yofy0ljaxadqwlji0dje1ns4zoggtndaumjf2lte4yy05ljq4ide0ljcylti0ljg2idixljkyltq2ljeyidixljkyltm1ljk4ljaxltu4lju1lti2lje2ltu4lju1lty0ljexem0zoteunzqtmtcundhjlja5ltqzljuxidmxljizltgwljc0idgwljyyltgwljy1idq1ljgumdkgnzgumtegmzyunzggnzggodagljaxidqumjczls4zmya4lju0ltegmtiunzzsltexoc40ms0umjjjnc41ncaxoc42nsaxos44osazmi4wosa0my4xmiazmi4xncaxnc4wniawidi5ljeyltuumtggmzgumy0xni45ngwyny40ncaymmmtmtqumtegmtkuotmtmzkgmzeunjytnjuundggmzeunjetndyunzutlje2ltgyljy3ltm1ljizltgylju5ltgwljd6btexoc4xmi0xni4xngmtmi4yni0xns43lte4lju5lti3ljg0ltm3ljg5lti3ljg3lte4ljy1idatmzmunzegmteumdytmzkunjmgmjcunznsnzcuntiumtr6bs0ynjeunca1os45ngwzns43ni0xoc43mmm1ljkxideyljgxide3ljczidiwljm2idm0ljq4idiwljm2ide1ljqzidagmjeumzqtnc45miayms4znc0xms44miawlti1ltg0ljcxltkuodutodqunzetnjcgmc0zms41miayny41oc00oc4ynia2ms43mi00oc4yniayns45ncawidq4ljkyidexljq5idyxljqgmziuodnsltm1ljq0ide4ljc1yy01lji1ltewljuxlte1ljetmtyunditmjcuntgtmtyunditmtiumtqgmc0xoc4wnia0lji3lte4lja2idexljq5idagmjqumya4nc43msa4ljg3idg0ljcxidy3idagmzaumjetmjqunjigndguntktnjqumzugndguntktmzmuoditljazltu3ljq2ltexlje5lty5lji3ltm2ljh6ttagodeuntrdmcazni43myazni42my43nca4mi40my43ngmyny45ndctlje5nia1nc4xodigmtmunzm3idy5ljy3idm3bc0znc4zncaxos45mme0mi45nzigndiuotcyidagmdatmzuumzmtmtgumzjjltizlju1idatndiuodugmtkunjmtndiuodugndiumiawidiylju3ide5ljmgndiumia0mi44nsa0mi4yytqyljuwmia0mi41mdigmcawmdm2ljmxltiwbdm0idiwlji4yy0xns4zmdcgmjmuotu1ltqxljkwmiazoc40mzetnzaumzmgmzgumjhdmzyunjmgmtyyljm0idagmti1ljy2idagodeuntr6iibmawxspsijmda1nkqyiibmawxslxj1bgu9im5vbnplcm8ilz48l3n2zz4=)](/)
+
+[acceptable use policy](/about/terms#acceptable-use-policy)[copyright and
+trademark policy](/about/terms#copyright-and-trademark-policy)[refund
+policy](/about/terms#refund-policy)[honor code](/about/terms#honor-
+code)[revisions](/about/terms#revisions)
+
+* * *
+
+# terms of use
+
+* * *
+
+ _effective: january 1, 2021._
+
+## thank you for using coursera!
+
+coursera offers products and services provided by coursera, inc., our
+subsidiaries, and our international branches ("coursera," "us," "we," or
+"our"). these terms of use ("terms") govern your use of our website, apps, and
+other products and services ("services"). as some of our services may be
+software that is downloaded to your computer, phone, tablet, or other device,
+you agree that we may automatically update this software, and that these terms
+will apply to such updates. please read these terms carefully, and [contact
+us](https://www.coursera.org/about/contact) if you have any questions. by
+using our services, you agree to be bound by these terms, including the
+policies referenced in these terms.
+
+these terms include an arbitration agreement and class action waiver that
+apply to all claims brought against coursera. please read them carefully; they
+affect your legal rights.
+
+## using coursera
+
+#### who may use our services
+
+you may use our services only if you can form a binding contract with
+coursera, and only in compliance with these terms and all applicable laws.
+when you create your coursera account, and subsequently when you use certain
+features, you must provide us with accurate and complete information, and you
+agree to update your information to keep it accurate and complete. **any use
+or access by anyone under the age of 13 is prohibited, and certain regions and
+content offerings may have additional requirements and/or restrictions.**
+
+#### our license to you
+
+subject to these terms and our policies (including the acceptable use policy,
+honor code, course-specific eligibility requirements, and other terms), we
+grant you a limited, personal, non-exclusive, non-transferable, and revocable
+license to use our services. you may download content from our services only
+for your personal, non-commercial use, unless you obtain our written
+permission to otherwise use the content. you also agree that you will create,
+access, and/or use only one user account, unless expressly permitted by
+coursera, and you will not share access to your account or access information
+for your account with any third party. using our services does not give you
+ownership of or any intellectual property rights in our services or the
+content you access.
+
+## content offerings
+
+#### changes to content offerings
+
+coursera offers courses and content ("content offerings") from universities
+and other providers ("content providers"). while we seek to provide world-
+class content offerings from our content providers, unexpected events do
+occur. coursera reserves the right to cancel, interrupt, reschedule , or
+modify any content offerings, or change the point value or weight of any
+assignment, quiz, or other assessment, either solely, or in accordance with
+content provider instructions. content offerings are subject to the
+disclaimers and limitation of liability sections below.
+
+#### no academic credit
+
+unless otherwise explicitly indicated by a credit-granting institution,
+participation in or completion of content offerings does not confer any
+academic credit. even if credit is awarded by one institution, there is no
+presumption that other institutions will accept that credit. you agree not to
+accept credit for completing a content offering unless you have earned a
+course certificate or other equivalent documentation of your completion of the
+content offering. coursera, instructors, and the associated content providers
+have no obligation to have content offerings recognized by any educational
+institution or accreditation organization.
+
+#### disclaimer of student-content provider relationship
+
+except as described in the degree and mastertrack certificate programs section
+below, nothing in these terms or otherwise with respect to your participation
+in any content offerings by content providers : (a) establishes any
+relationship between you and any content provider; (b) enrolls or registers
+you in any content provider institution, or in any content offering offered by
+any content provider institution; or (c) entitles you to use the resources of
+any content provider institution beyond participation in the content offering.
+
+## your content
+
+#### user content
+
+the services enable you to share your content, such as homework, quizzes,
+exams, projects, other assignments you submit, posts you make in the forums,
+and the like ("user content"), with coursera, instructors, and/or other users.
+you retain all intellectual property rights in, and are responsible for, the
+user content you create and share. user content does not include course
+content or other materials made available on or placed on to the coursera
+platform by or on behalf of content providers or their instructors using the
+services or content offerings. as between coursera and content providers, such
+content offerings are governed by the relevant agreements in place between
+coursera and content providers.
+
+#### how coursera and others may use user content
+
+to the extent that you provide user content, you grant coursera a fully-
+transferable, royalty-free, perpetual, sublicensable, non-exclusive, worldwide
+license to copy, distribute, modify, create derivative works based on,
+publicly perform, publicly display, and otherwise use the user content. this
+license includes granting coursera the right to authorize content providers to
+use user content with their registered students, on-campus learners, or other
+learners independent of the services. nothing in these terms shall restrict
+other legal rights coursera may have to user content, for example under other
+licenses. we reserve the right to remove or modify user content for any
+reason, including user content that we believe violates these terms or other
+policies including our [acceptable use
+policy](https://www.coursera.org/about/terms#acceptable-use-policy) and [code
+of conduct](https://learner.coursera.help/hc/en-
+us/articles/208280036-coursera-code-of-conduct).
+
+#### feedback
+
+we welcome your suggestions, ideas, comments, and other feedback regarding the
+services ("feedback"). by submitting any feedback, you grant us the right to
+use the feedback without any restriction or any compensation to you. by
+accepting your feedback, coursera does not waive any rights to use similar or
+related feedback previously known to coursera, developed by our employees,
+contractors, or obtained from other sources.
+
+## security
+
+we care about the security of our users. while we work to protect the security
+of your account and related information, coursera cannot guarantee that
+unauthorized third parties will not be able to defeat our security measures.
+please notify us immediately of any compromise or unauthorized use of your
+account by emailing [security@coursera.org](mailto:security@coursera.org) or
+submitting via [hackerone](https://hackerone.com/coursera?type=team).
+
+## third party content
+
+through the services, you will have the ability to access and/or use content
+provided by instructors, other users, and/or other third parties and links to
+websites and services maintained by third parties. coursera cannot guarantee
+that such third party content, in the services or elsewhere, will be free of
+material you may find objectionable or otherwise inappropriate or of malware
+or other contaminants that may harm your computer, mobile device, or any files
+therein. coursera disclaims any responsibility or liability related to your
+access or use of, or inability to access or use, such third party content.
+
+## copyright and trademark
+
+coursera respects the intellectual property rights of our users, content
+providers, and other third parties and expects our users to do the same when
+using the services. we have adopted and implemented the coursera copyright and
+trademark policy below in accordance with applicable law, including the
+digital millennium copyright act.
+
+## education research
+
+coursera is committed to advancing the science of learning and teaching, and
+records of your participation in courses may be used for education research.
+in the interest of this research, you may be exposed to variations in the
+content offerings. research findings will typically be reported at the
+aggregate level. your personal identity will not be publicly disclosed in any
+research findings without your express consent.
+
+## paid services from coursera
+
+coursera offers paid services (e.g., course certificates for certain courses)
+for a fee. unless otherwise stated, all fees are quoted in u.s. dollars. you
+are responsible for paying all fees charged by or for coursera and applicable
+taxes in a timely manner with a payment mechanism associated with the
+applicable paid services. if your payment method fails or your account is past
+due, we may collect fees using other collection mechanisms. fees may vary
+based on your location and other factors, and coursera reserves the right to
+change any fees at any time at its sole discretion. any change, update, or
+modification will be effective immediately upon posting through the relevant
+services. refunds may be available for paid services as described in our
+refund policy below.
+
+#### degree and mastertrack certificate programs
+
+the services may allow you to enroll in degree and mastertrack certificate
+programs or similar programs offered by our content providers on the coursera
+platform. our content providers serve as the distance education providers of
+these programs and determine admissions, refunds, and graduation or completion
+policies and requirements. nothing in these terms shall restrict the
+applicability to you of any institutional policies established by our content
+provider in connection with these programs (e.g., student codes of conduct);
+such policies shall supplement these terms and to the extent there is a
+conflict between such policies and these terms, as between you and our content
+provider, our content providerâs policies shall govern.
+
+## modifying or terminating our services
+
+we are constantly changing and improving our services. we may add or remove
+functions, features, or requirements, and we may suspend or stop part of our
+services altogether. accordingly, coursera may terminate your use of any
+service for any reason. if your use of a paid service is terminated, a refund
+may be available under our refund policy. we may not be able to deliver the
+services to certain regions or countries for various reasons, including due to
+applicable export control requirements or internet access limitations and
+restrictions from governments. none of coursera, its content providers and
+instructors, its contributors, sponsors, and other business partners, and
+their employees, contractors, and other agents (the "coursera parties") shall
+have any liability to you for any such action. you can stop using our services
+at any time, although we'll be sorry to see you go.
+
+## disclaimers
+
+the services and all included content are provided on an "as is" basis without
+warranty of any kind, whether express or implied. the coursera parties
+specifically disclaim any and all warranties and conditions of
+merchantability, fitness for a particular purpose, and non-infringement, and
+any warranties arising out of course of dealing or usage of trade. the
+coursera parties further disclaim any and all liability related to your access
+or use of the services or any related content. you acknowledge and agree that
+any access to or use of the services or such content is at your own risk.
+
+## limitation of liability
+
+to the maximum extent permitted by law, the coursera parties shall not be
+liable for any indirect, incidental, special, consequential, or punitive
+damages, or any loss of profits or revenues, whether incurred directly or
+indirectly, or any loss of data, use, goodwill, or other intangible losses,
+resulting from: (a) your access to or use of or inability to access or use the
+services; (b) any conduct or content of any party other than the applicable
+coursera party, including without limitation, any defamatory, offensive, or
+illegal conduct; or (c) unauthorized access, use, or alteration of your
+content or information. in no event shall coursera's aggregate liability for
+all claims related to the services exceed twenty u.s. dollars ($20) or the
+total amount of fees received by coursera from you for the use of paid
+services during the past six months, whichever is greater.
+
+you acknowledge and agree that the disclaimers and the limitations of
+liability set forth in this terms of use reflect a reasonable and fair
+allocation of risk between you and the coursera parties, and that these
+limitations are an essential basis to coursera's ability to make the services
+available to you on an economically feasible basis.
+
+you agree that any cause of action related to the services must commence
+within one (1) year after the cause of action accrues. otherwise, such cause
+of action is permanently barred.
+
+## indemnification
+
+you agree to indemnify, defend, and hold harmless the coursera parties from
+any and all claims, liabilities, expenses, and damages, including reasonable
+attorneys' fees and costs, made by any third party related to: (a) your use or
+attempted use of the services in violation of these terms; (b) your violation
+of any law or rights of any third party; or (c) user content, including
+without limitation any claim of infringement or misappropriation of
+intellectual property or other proprietary rights.
+
+## governing law and venue
+
+the services are managed by coursera, which is located in santa clara county,
+california. you agree that any dispute related to these terms will be governed
+by the laws of the state of california, excluding its conflicts of law
+provisions. in the event of any dispute related to these terms that is not
+subject to binding arbitration, you and coursera will submit to the personal
+jurisdiction of and exclusive venue in the federal and state courts located in
+and serving santa clara county, california as the legal forum for any such
+dispute.
+
+## binding arbitration and class action waiver
+
+you and coursera agree to submit to binding arbitration any and all disputes,
+claims, or controversies of any kind, whether based on statute, regulation,
+constitution, common law, equity, or any other legal basis or theory, and
+whether pre-existing, present, or future, that arise out of or relate to our
+services, these terms, and/or any other relationship or dispute between you
+and us, including without limitation (i) the scope, applicability, or
+enforceability of these terms and/or this arbitration provision, and (ii)
+relationships with third parties who are not parties to these terms or this
+arbitration provision to the fullest extent permitted by applicable law (each
+a âclaim,â and collectively the âclaimsâ).
+
+any and all claims shall be submitted for binding arbitration in accordance
+with the consumer arbitration rules of the american arbitration association
+(the âaaa rulesâ), as amended, in effect at the time arbitration is
+initiated. the aaa rules are available online at www.adr.org or by calling
+(800) 778-7879, and are hereby incorporated by reference. in the event of any
+inconsistency between this arbitration provision and the aaa rules, such
+inconsistency shall be resolved in favor of this provision. if you decide to
+initiate arbitration, you agree to pay the initiation fee of $200 (or the
+amount otherwise required by the aaa rules), and we agree to pay the remaining
+arbitration initiation fee and any additional deposit required by aaa to
+initiate your arbitration. we will pay the costs of the arbitration
+proceeding, including the arbitratorâs fees; however, other fees, such as
+attorneyâs fees and expenses of travel to the arbitration, shall be paid in
+accordance with the aaa rules and applicable law. we will pay all costs
+associated with any arbitration that we commence. a single, neutral arbitrator
+selected in accordance with the aaa rules shall decide all claims.
+
+the arbitrator shall be an active member in good standing of the bar for any
+state in the continental united states and shall be either actively engaged in
+the practice of law for at least five years or a retired judge. the arbitrator
+shall honor claims of privilege recognized at law. unless inconsistent with
+applicable law, and except as otherwise provided herein, each party shall bear
+the expense of its respective attorney, expert, and witness fees, regardless
+of which party prevails in the arbitration. any arbitration proceedings shall
+be conducted in the federal judicial district of your residence, and you will
+be given the opportunity to attend the proceeding and be heard. the
+arbitratorâs decision will be final and binding upon the parties and may be
+enforced in any federal or state court that has jurisdiction. you and we agree
+that the arbitration shall be kept confidential and that the existence of the
+proceeding and any element of it (including, without limitation, any
+pleadings, briefs or other documents submitted or exchanged and any testimony
+or other oral submissions and awards) will not be disclosed beyond the
+arbitration proceedings, except as may lawfully be required in judicial
+proceedings relating to the arbitration or by applicable disclosure rules and
+regulations of governmental agencies.
+
+neither you nor coursera may act as a class representative, nor participate as
+a member of a class of claimants, with respect to any claim. the claims may
+not be arbitrated on a class or representative basis. the arbitrator can
+decide only your and/or coursera individual claims. the arbitrator may not
+consolidate or join the claims of other persons or parties who may be
+similarly situated. accordingly, you and we agree that the aaa supplementary
+rules for class arbitrations do not apply to our arbitration. this arbitration
+provision and the procedures applicable to the arbitration contemplated by
+this provision are governed by the federal arbitration act, notwithstanding
+any state law that may be applicable.
+
+this arbitration agreement does not preclude you or us from seeking action by
+federal, state, or local government agencies. you and we also have the right
+to exercise self-help remedies, such as set-off, or to bring qualifying claims
+in small claims court so long as the matter remains in such court and advances
+only on an individual (non-class, non-representative) basis. in addition, you
+and we retain the right to apply to any court of competent jurisdiction for
+provisional or ancillary relief, including pre-arbitral attachments or
+preliminary injunctions, and any such request shall not be deemed incompatible
+with any of these terms, nor a waiver of the right to have disputes submitted
+to arbitration as provided in this provision.
+
+a court may sever any portion of this binding arbitration and class action
+waiver section that it finds to be unenforceable, except for the prohibitions
+on any claim being handled on a class or representative basis, and the
+remaining portions of this arbitration provision will remain valid and
+enforceable. no waiver of any provision of this section will be effective or
+enforceable unless recorded in a writing signed by the party waiving such a
+right or requirement. such a waiver shall not waive or affect any other
+portion of these terms.
+
+this binding arbitration and class action waiver section limits certain
+rights, including the right to maintain a court action, the right to a jury
+trial, the right to participate in any form of class or representative claim,
+and the right to engage in discovery except as provided in the aaa rules.
+other rights that you or coursera would have in court also may not be
+available in arbitration.
+
+## general terms
+
+#### revisions to the terms
+
+we reserve the right to revise the terms at our sole discretion at any time.
+any revisions to the terms will be effective immediately upon posting by us.
+for any material changes to the terms, we will take reasonable steps to notify
+you of such changes, via a banner on the website, email notification, another
+method, or combination of methods. in all cases, your continued use of the
+services after publication of such changes, with or without notification,
+constitutes binding acceptance of the revised terms.
+
+#### severability; waiver
+
+if it turns out that a particular provision of these terms is not enforceable,
+this will not affect any other terms. if you do not comply with these terms,
+and we do not take immediate action, this does not indicate that we relinquish
+any rights that we may have (such as taking action in the future).
+
+#### content providers
+
+our content providers and integrated service providers are third party
+beneficiaries of the terms and may enforce those provisions of the terms that
+relate to them.
+
+#### notice for california users
+
+under california civil code section 1789.3, california website users are
+entitled to the following specific consumer rights notice: the complaint
+assistance unit of the division of consumer services of the california
+department of consumer affairs may be contacted in writing at 1625 n. market
+blvd., suite s-202, sacramento, california 95834, or by telephone at (800)
+952-5210.
+
+## referenced policies
+
+  * acceptable use policy
+  * copyright and trademark infringement policy
+  * refund policy
+  * honor code
+
+* * *
+
+# acceptable use policy
+
+* * *
+
+_effective: january 1, 2021_
+
+our mission is to provide universal access to the worldâs best education. we
+believe strongly in preserving free speech and expression for our users as
+well as academic freedom for our content providers and instructors. we also
+want to make sure that all of our users and instructors feel safe and
+comfortable while using our services. we have drafted this policy to ensure
+that people understand and follow the rules when participating in our online
+community and otherwise using our services.
+
+we may remove or edit inappropriate content or activity identified by or
+reported to us. we may separately suspend, disable, or terminate a user's
+access to all or part of the services.
+
+#### you are prohibited from using our services to share content that:
+
+  * contains illegal content or promotes illegal activities with the intent to commit such activities. please keep in mind that users who are as young as 13 use coursera, and we do not allow content that is inappropriate for these younger users.
+  * contains credible threats or organizes acts of real-world violence. we donât allow content that creates a genuine risk of physical injury or property damage, credibly threatens people or public safety, or organizes or encourages harm.
+  * harrasses others. we encourage commentary about people and matters of public interest, but abusive or otherwise inappropriate content directed at private individuals is not allowed.
+  * violates intellectual property, privacy, or other rights. do not share content that you do not have the right to share, claim content that you did not create as your own, or otherwise infringe or misappropriate someone elseâs intellectual property or other rights. always attribute materials used or quoted by you to the original copyright owner.
+  * spams others. do not share irrelevant or inappropriate advertising, promotional, or solicitation content.
+  * otherwise violates the coursera terms of use. 
+
+please note that specific content offerings may have additional rules and
+requirements.
+
+#### you also aren't allowed to:
+
+  * do anything that violates local, state, national, or international law or breaches any of your contractual obligations or fiduciary duties.
+  * share your password, let anyone besides yourself access your account, or do anything that might put your account at risk.
+  * attempt to access any other user's account.
+  * reproduce, transfer, sell, resell, or otherwise misuse any content from our services, unless specifically authorized to do so.
+  * access, tamper with, or use non-public areas of our systems, unless specifically authorized to do so.
+  * break or circumvent our authentication or security measures or otherwise test the vulnerability of our systems or networks, unless specifically authorized to do so.
+  * try to reverse engineer any portion of our services.
+  * try to interfere with any user, host, or network, for example by sending a virus, overloading, spamming, or mail-bombing.
+  * use our services to distribute malware.
+  * use our services or any functionality of the coursera platform for anything other than for completing online courses or for pedagogical purposes.
+  * impersonate or misrepresent your affiliation with any person or entity.
+  * encourage or help anyone do any of the things on this list.
+
+* * *
+
+# copyright and trademark policy
+
+* * *
+
+_effective as of january 1, 2021._
+
+coursera respects the intellectual property rights of our content providers,
+instructors, users, and other third parties and expects our users to do the
+same when using the services. we reserve the right to suspend, disable, or
+terminate the accounts of users who repeatedly infringe or are repeatedly
+charged with infringing the copyrights, trademarks, or other intellectual
+property rights of others.
+
+the digital millennium copyright act of 1998 (the "dmca") provides recourse
+for copyright owners who believe that material appearing on the internet
+infringes their rights under u.s. copyright law. if you would like to read the
+dmca, please visit the u.s. copyright office website at
+<http://www.copyright.gov/legislation/dmca.pdf>.
+
+if you believe in good faith that materials on the coursera platform infringe
+your copyright, the dmca provides that you (or your agent) may send us a
+notice requesting that the material be removed or access to it blocked.
+
+the notice must include the following information:
+
+  * the physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+  * identification of the copyrighted work claimed to have been infringed (or, if multiple copyrighted works located on the platform are covered by a single notification, a representative list of such works);
+  * identification of the material that is claimed to be infringing or the subject of infringing activity, and information reasonably sufficient to allow coursera to locate the material on the platform;
+  * the name, address, telephone number, and email address (if available) of the complaining party;
+  * a statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+  * a statement that the information in the notification is accurate and, under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+notices must meet the then-current statutory requirements imposed by the dmca.
+notices and counter-notices with respect to the services can either be sent:
+
+  * via mail: copyright agent, coursera 381 e. evelyn ave mountain view, ca 94041
+  * via email: [copyright@coursera.org](mailto:copyright@coursera.org)
+
+we suggest that you consult your legal advisor before filing a notice. also,
+be aware that there can be penalties for false claims under the dmca.
+
+coursera also respects the trademark rights of others. accounts with any other
+content that misleads others or violates another's trademark may be updated,
+suspended, disabled, or terminated by coursera in its sole discretion. if you
+are concerned that someone may be using your trademark without proper
+permission on our services, please email us at
+[copyright@coursera.org](mailto:copyright@coursera.org), and we will review
+your submission. if we deem appropriate, we may remove the offending content,
+warn the individual who posted the content, and/or temporarily or permanently
+suspend or disable the individualâs account.
+
+* * *
+
+# refund policy
+
+* * *
+
+ _effective as of january 1, 2021._
+
+for details on our refund deadlines and policies, please refer to the
+information below. please note that our policies differ between subscription
+payments and one-time payments made for course, specialization, and guided
+project purchases, and that payment options may vary from one offering to
+another. please also note that we treat violations of our terms of use and
+honor code very seriously, and we have no obligation to offer refunds to users
+who violate these or other coursera policies, even if their requests are made
+within the designated refund period. similarly, we have no obligation to offer
+late refunds to users who do not receive a passing mark in a content offering,
+or who are otherwise unsatisfied with their final grade.
+
+for more information about our refund process, including instructions for
+requesting a refund, please visit our [learner help
+center](https://learner.coursera.help/hc/articles/208280266).
+
+## for month-to-month subscriptions
+
+coursera does not offer refunds for payments made on a month-month
+subscription plan. to avoid being charged during a free trial promotion, you
+must cancel your subscription before your free trial ends. if you complete a
+course during the free trial period, coursera reserves the right to require
+you to pay for a one-month subscription in order to receive a course and/or
+specialization certificate.
+
+your subscription will continue on a month-to-month basis unless and until you
+[cancel](https://learner.coursera.help/hc/articles/216348123) or the
+subscription is suspended or discontinued by coursera. for subscriptions to
+individual specializations, coursera will automatically discontinue your
+subscription at the end of the monthly period during which you earn a
+specialization certificate for the specialization, unless you have subscribed
+through a third party marketplace that restricts our ability to do so -- e.g.,
+in-app purchases through the apple app store. please visit the third party
+marketplace for information regarding their policies. you must cancel your
+subscription before your monthly renewal date to avoid the next billing.
+
+if you cancel your subscription, cancellation will be effective at the end of
+the current monthly period; you will continue to have access to your
+subscription for the remainder of that period, but you will not receive a
+refund.
+
+## for coursera plus
+
+to get a full refund of your coursera plus subscription payment, submit a
+refund request via the [learner help
+center](https://learner.coursera.help/hc/en-us/articles/208280266-refund-
+policies) within 14 days of your payment. refunds will not be provided if
+requested after this 14-day period. some coursera plus subscriptions may have
+a free trial period instead of a refund period. if you do not cancel during
+the free trial, you will be billed the full amount for the subscription you
+signed up for and be unable to request a refund.
+
+your coursera plus subscription will continue for the subscription period
+identified at the time of your purchase and then automatically renew unless
+and until you cancel your subscription or the subscription is suspended or
+discontinued by coursera.
+
+if you cancel your subscription after the refund period of your subscription,
+you will continue to have access until the end of the subscription period and
+will not be billed for the next billing cycle.
+
+## for one-time course and specialization purchases
+
+if you cancel your paid enrollment for a standalone course, coursera will
+offer you a complete refund until 14 days after payment, or until you have
+earned your course certificate, whichever is earlier. if you [pre-enroll and
+pay for a course](https://learner.coursera.help/hc/articles/209818603),
+coursera will offer you a complete refund until 14 days after the course
+launches or until you have earned your course certificate, whichever is
+earlier. for avoidance doubt, once you have earned a course certificate with
+your payment, you are not eligible for a refund even if it is within 14 days.
+if you do not earn your course certificate within 180 days, your registration
+will expire and you will need to pay to re-enroll for the course. however, if
+youâre taking a course through your company, organization, or a coursera
+sponsored program (e.g. coursera for business, coursera for governments or
+organizations, coursera for refugees, or other coursera social good programs )
+then you can earn your certificate as long as your company's contract with
+coursera is active and your access has not expired in accordance with the
+terms of that contract or coursera is still running a sponsored program.
+similarly, refunds and cancellations will also be governed by the terms of
+that contract between your organization and coursera.
+
+if you cancel your one-time, paid enrollment for a specialization, coursera
+will offer you a complete refund until 14 days after payment, or until you
+earn a course certificate for any course in the specialization, whichever is
+earlier. if you [pre-enroll and pay for the
+specialization](https://learner.coursera.help/hc/articles/209818603), coursera
+will offer you a complete refund until 14 days after the first course in the
+specialization launches or until you have earned your first course certificate
+for any course in the specialization, whichever is earlier. if you earned your
+first course certificate for any course in the specialization within 14 days,
+you are not eligible for a refund. unless otherwise indicated as part of the
+sign-up process, you have one year after you purchase a specialization to
+complete the specialization.
+
+notwithstanding the foregoing, shorter refund periods may apply to specific
+courses and specializations (e.g., for courses that are part of certain
+programs, you will only be eligible for a full refund until seven days after
+your payment date). in these cases, the shorter period will be stated as part
+of the sign-up process for the course or specialization.
+
+## for guided projects
+
+coursera does not offer refunds for payments made for guided projects. if you
+do not earn your completion certificate within 180 days after registering for
+a guided project, your registration will expire and you will need to pay to
+re-enroll for the guided project in order to complete the guided project and
+earn your completion certificate. however, if youâre taking the guided
+project through your company, organization, or coursera sponsored program
+(e.g. coursera for business, coursera for governments or organizations,
+coursera for campus, coursera for refugees, or other coursera social good
+programs) then you can earn your certificate as long as your company's
+contract with coursera is active and your access and/or invitation has not
+expired or terminated in accordance with the terms of that contract or
+coursera is still running the sponsored program. similarly, refunds and
+cancellations will also be governed by the terms of that contract between your
+organization and coursera. if you have subscribed through a third party
+marketplace that restricts our ability to issue refunds -- e.g., in-app
+purchases through the apple app store, please visit the third party
+marketplace for information regarding their policies.
+
+## for degree and mastertrack certificate programs
+
+refund policies for degree and mastertrack certificate programs are
+established and administered by the content provider offering the program.
+refund policies are communicated to students by those content providers.
+
+## for other paid services
+
+except as described in this refund policy or as explicitly stated as part of
+the sign-up process for a service, coursera has no obligation to provide
+refunds or vouchers for any other services.
+
+## third party marketplaces
+
+notwithstanding the foregoing, if you purchase or subscribe for a course,
+specialization, guided project, or purchase any other paid service, through a
+third party marketplace (e.g., in-app purchases through the apple app store or
+purchases made through certain alternative payment services), the refund
+policy applicable to that third party marketplace will apply, unless otherwise
+explicitly stated by coursera. except as otherwise explicitly stated by
+coursera, the third party marketplace will be solely responsible for making
+refunds under its refund policy, and coursera will have no refund obligations.
+coursera disclaims any responsibility or liability related to any third party
+marketplace's refund policy or the third party's compliance or noncompliance
+with such policy.
+
+* * *
+
+# honor code
+
+* * *
+
+_effective as of january 1, 2021_
+
+all users participating in content offerings must agree to abide by the
+following code:
+
+  * i will register for only one account, unless expressly permitted to register for additional accounts by coursera.
+  * my answers to homework, quizzes, exams, projects, and other assignments will be my own work (except for assignments that explicitly permit collaboration) as specified in the coursera [plagiarism policy](https://learner.coursera.help/hc/en-us/articles/209818863-coursera-honor-code).
+  * i will not make solutions to homework, quizzes, exams, projects, and other assignments available to anyone else (except to the extent an assignment explicitly permits sharing solutions). this includes both solutions written by me, as well as any solutions provided by the course staff or others.
+  * i will not engage in any other activities that will dishonestly improve my results or dishonestly improve or hurt the results of others.
+
+any violation of this code may result in your access to all or part of the
+services being suspended, disabled, or terminated.
+
+* * *
+
+# revisions
+
+* * *
+
+below is a list of all the revisions made to the content of our terms, with
+links to view the difference between each revision.
+
+  * [2020-12-18: updated arbitration language and increased clarity of definitions](https://www.diffchecker.com/2jtcteuy)
+  * [2019-12-20: updated to reflect new product offerings including degrees, mastertrack, and coursera plus](https://www.diffchecker.com/svnlk3dr)
+  * [2018-07-11: updated introduction and reference policies for clarification purposes.](https://www.diffchecker.com/hnhrmdit)
+  * [2018-03-26: updated refund policy to clarify course and specialization purchases. added links to cookies policy](https://www.diffchecker.com/wyb7eq02)
+  * [2017-08-22: updated refund policy to reflect new products and policies](https://www.diffchecker.com/b9xcv6s6)
+  * [2017-08-08: updated refund policy to reflect new products and policies](https://www.diffchecker.com/67u8psoj)
+  * [2017-06-28: updated refund policy to reflect new products and policies](https://www.diffchecker.com/v9v2o3xn)
+  * [2017-04-11: updated refund policy to reflect new products and policies](https://www.diffchecker.com/np2lum3l)
+  * [2017-03-13: updated refund policy to reflect new products and policies](https://www.diffchecker.com/sulmrwbh)
+  * [2017-01-19: updated refund policy to reflect new products and policies](https://www.diffchecker.com/dbf5ayge)
+  * [2016-11-01: updated refund policy to reflect new products, and remove references to old platform courses](https://www.diffchecker.com/9dgdrnhv)
+  * [2015-03-24: updated refund policy to reflect new products and policies](https://www.diffchecker.com/ghik9hpr)
+  * [2015-08-24: updated refund policy and changed verified certificate to course certificate](https://www.diffchecker.com/vt1zwrhg)
+  * [2015-04-03: updated terms of use for specializations-on-demand, clarification and simplification](https://www.diffchecker.com/jc9vwihk)
+  * [2014-09-12: changed 'terms of service' to 'terms of use'](https://www.diffchecker.com/o1pm3cze)
+  * [2014-01-02: updated and moved privacy policy to a new page](https://www.coursera.org/about/privacy)
+  * [2013-08-17: added to rules of conduct and permission to use materials](https://www.diffchecker.com/ifvt4b79)
+  * [2013-06-13: added section on e-readers](https://www.diffchecker.com/wx9y570z)
+  * [2013-06-05: added section on partner sites](https://www.diffchecker.com/8t76slmm)
+  * [2013-05-22: revised online certifications section](https://www.diffchecker.com/grd3yv4r)
+  * [2013-04-30: reworded "universities" to "institutions"](https://www.diffchecker.com/x7s71waw)
+  * [2013-02-28: changed effective dates](https://www.diffchecker.com/himokno0)
+  * [2013-01-14: added sections on fees/taxes, refund policy, identity verification](https://www.diffchecker.com/gphp7zb0)
+  * [2012-12-22: removed section on minnesota students](https://www.diffchecker.com/xszjm56q)
+  * [2012-09-20: added to online certifications section](https://www.diffchecker.com/aqigp1md)
+  * [2012-09-10: revision to user materials submission section](https://www.diffchecker.com/bvdii4e4)
+  * [2012-08-30: added section on online education research](https://www.diffchecker.com/ewodcetj)
+  * [2012-08-28: minor fixes and typos](https://www.diffchecker.com/qxrjy8a4)
+  * [2012-08-20: added section on minnesota students](https://www.diffchecker.com/ogb9znep)
+  * [2012-08-02: added link to incommons agreement](https://www.diffchecker.com/rqmnhuq3)
+
+## coursera footer
+
+### top online courses
+
+  * [finding purpose & meaning in life](/learn/finding-purpose-and-meaning-in-life)
+  * [understanding medical research](/learn/medical-research)
+  * [japanese for beginners](/learn/japanese-1)
+  * [introduction to cloud computing](/learn/introduction-to-cloud)
+  * [foundations of mindfulness](/learn/foundations-of-mindfulness)
+  * [fundamentals of finance](/learn/finance-fundamentals)
+  * [machine learning](/learn/machine-learning)
+  * [machine learning using sas viya](/learn/machine-learning-sas)
+  * [the science of well being](/learn/the-science-of-well-being)
+  * [covid-19 contact tracing](/learn/covid-19-contact-tracing)
+  * [ai for everyone](/learn/ai-for-everyone)
+  * [financial markets](/learn/financial-markets-global)
+  * [introduction to psychology](/learn/introduction-psychology)
+  * [getting started with aws](/learn/aws-machine-learning)
+  * [international marketing](/specializations/international-marketing)
+  * [c++](/learn/c-plus-plus-a)
+  * [predictive analytics & data mining](/learn/predictive-analytics-data-mining)
+  * [ucsd learning how to learn](/learn/learning-how-to-learn)
+  * [michigan programming for everybody](/learn/python)
+  * [jhu r programming](/learn/r-programming)
+  * [google cbrs cpi training](/learn/google-cbrs-cpi-training)
+
+### top online specializations
+
+  * [natural language processing (nlp)](/specializations/natural-language-processing)
+  * [ai for medicine](/specializations/ai-for-medicine)
+  * [good with words: writing & editing](/specializations/good-with-words)
+  * [infections disease modeling](/specializations/infectious-disease-modelling)
+  * [the pronounciation of american english](/specializations/american-english-pronunciation)
+  * [software testing automation](/specializations/software-testing-automation)
+  * [deep learning](/specializations/deep-learning)
+  * [python for everybody](/specializations/python)
+  * [data science](/specializations/jhu-data-science)
+  * [business foundations](/specializations/wharton-business-foundations)
+  * [excel skills for business](/specializations/excel)
+  * [data science with python](/specializations/data-science-python)
+  * [finance for everyone](/specializations/finance-for-everyone)
+  * [communication skills for engineers](/specializations/leadership-communication-engineers)
+  * [sales training](/specializations/sales-training-high-performing-teams)
+  * [career brand management](/specializations/career-brand-management)
+  * [wharton business analytics](/specializations/business-analytics)
+  * [penn positive psychology](/specializations/positivepsychology)
+  * [washington machine learning](/specializations/machine-learning)
+  * [calarts graphic design](/specializations/graphic-design)
+
+### online certificates
+
+  * [professional certificates](/professional-certificates)
+  * [mastertrack certificates](/mastertrack)
+  * [google it support](/professional-certificates/google-it-support)
+  * [ibm data science](/professional-certificates/ibm-data-science)
+  * [google cloud data engineering](/professional-certificates/gcp-data-engineering)
+  * [ibm applied ai](/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
+  * [google cloud architecture](/professional-certificates/gcp-cloud-architect)
+  * [ibm cybersecurity analyst](/professional-certificates/ibm-cybersecurity-analyst)
+  * [google it automation with python](/professional-certificates/google-it-automation)
+  * [ibm z/os mainframe practitioner](/professional-certificates/ibm-z-mainframe)
+  * [uci applied project management](/professional-certificate/applied-project-management)
+  * [instructional design certificate](https://www.coursera.org/mastertrack/instructional-design-illinois)
+  * [construction engineering and management certificate](https://www.coursera.org/mastertrack/construction-engineering-management-umich)
+  * [big data certificate](https://www.coursera.org/mastertrack/big-data-asu)
+  * [machine learning for analytics certificate](https://www.coursera.org/mastertrack/machine-learning-analytics-chicago)
+  * [innovation management & entrepreneurship certificate](https://www.coursera.org/mastertrack/innovation-management-entrepreneurship-hec)
+  * [sustainabaility and development certificate](https://www.coursera.org/mastertrack/sustainability-development-umich)
+  * [social work certificate](https://www.coursera.org/mastertrack/social-work-umich)
+  * [ai and machine learning certificate](https://www.coursera.org/mastertrack/ai-machine-learning-asu)
+  * [spatial data analysis and visualization certificate](https://www.coursera.org/mastertrack/spatial-data-analysis-visualization-ucdavis)
+
+### online degree programs
+
+  * [computer science degrees](https://www.coursera.org/degrees/computer-science)
+  * [business degrees](https://www.coursera.org/degrees/business)
+  * [public health degrees](https://www.coursera.org/degrees/public-health)
+  * [data science degrees](https://www.coursera.org/degrees/data-science)
+  * [bachelor's degrees](/collections/bachelors-degrees)
+  * [bachelor of computer science](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london)
+  * [ms electrical engineering](https://www.coursera.org/degrees/msee-boulder)
+  * [bachelor completion degree](https://www.coursera.org/degrees/unt-online-bachelor-completion)
+  * [ms management](https://www.coursera.org/degrees/ms-management-illinois)
+  * [ms computer science](https://www.coursera.org/degrees/master-of-computer-science-asu)
+  * [mph](https://www.coursera.org/degrees/global-mph-imperial)
+  * [accounting master's degree](https://www.coursera.org/degrees/imsa)
+  * [mcit](https://www.coursera.org/degrees/mcit-penn)
+  * [mba online](https://www.coursera.org/degrees/imba)
+  * [master of applied data science](https://www.coursera.org/degrees/master-of-applied-data-science-umich)
+  * [global mba](https://www.coursera.org/degrees/global-mba-macquarie)
+  * [master's of innovation & entrepreneurship](https://www.coursera.org/degrees/omie)
+  * [mcs data science](https://www.coursera.org/degrees/masters-in-computer-data-science)
+  * [master's in computer science](https://www.coursera.org/degrees/master-of-computer-science-illinois)
+  * [master's in public health](https://www.coursera.org/degrees/mph-umich)
+
+### coursera
+
+  * [about](https://about.coursera.org/)
+  * [what we offer](https://about.coursera.org/how-coursera-works/)
+  * [leadership](https://about.coursera.org/leadership)
+  * [careers](/about/careers)
+  * [catalog](/browse)
+  * [coursera plus](/courseraplus)
+  * [certificates](/professional-certificate)
+  * [mastertrackâ¢ certificates](/mastertrack)
+  * [degrees](/degrees)
+  * [for enterprise](/business?utm_campaign=website&utm_content=corp-to-home-footer-for-enterprise&utm_medium=coursera&utm_source=enterprise)
+  * [for government](/government?utm_campaign=website&utm_content=corp-to-home-footer-for-government&utm_medium=coursera&utm_source=enterprise)
+  * [for campus](/campus?utm_campaign=website&utm_content=corp-to-home-footer-for-campus&utm_medium=coursera&utm_source=enterprise)
+
+### community
+
+  * [learners](https://www.coursera.community)
+  * [partners](https://www.coursera.org/about/partners)
+  * [developers](https://building.coursera.org/developer-program/)
+  * [beta testers](https://www.coursera.community/#beta-tester)
+  * [translators](https://www.coursera.community/#gtc)
+  * [blog](https://blog.coursera.org)
+  * [tech blog](https://medium.com/coursera-engineering)
+  * [teaching center](/teaching-center)
+
+### more
+
+  * [terms](/about/terms)
+  * [privacy](/about/privacy)
+  * [help](https://learner.coursera.help/hc)
+  * [accessibility](https://learner.coursera.help/hc/en-us/articles/360050668591-accessibility-statement)
+  * [press](/about/press)
+  * [contact](/about/contact)
+  * [articles](https://www.coursera.org/articles)
+  * [directory](/directory)
+  * [affiliates](https://about.coursera.org/affiliates)
+
+learn anywhere
+
+[![download on the app
+store](https://d3njjcbhbojbot.cloudfront.net/web/images/icons/download_on_the_app_store_badge_en.svg)](https://itunes.apple.com/app/apple-
+store/id736535961?pt=2334150&ct=coursera%20web%20promo%20banner&mt=8)[![get it
+on google
+play](https://d3njjcbhbojbot.cloudfront.net/web/images/icons/en_generic_rgb_wo_45.png)](http://play.google.com/store/apps/details?id=org.coursera.android)
+
+â© 2021 coursera inc. all rights reserved.
+
+  * [![coursera facebook](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/facebook.png?auto=format%2ccompress&dpr=1&w=28&h=28)](https://www.facebook.com/coursera)
+  * [![coursera linkedin](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/linkedin.png?auto=format%2ccompress&dpr=1&w=28&h=28)](https://www.linkedin.com/company/coursera)
+  * [![coursera twitter](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/twitter.png?auto=format%2ccompress&dpr=1&w=28&h=28)](https://twitter.com/coursera)
+  * [![coursera youtube](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/youtube.png?auto=format%2ccompress&dpr=1&w=28&h=28)](https://www.youtube.com/user/coursera)
+  * [![coursera instagram](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/instagram.png?auto=format%2ccompress&dpr=1&w=28&h=28)](https://www.instagram.com/coursera/)
+

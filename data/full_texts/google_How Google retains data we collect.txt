@@ -1,0 +1,235 @@
+[privacy & terms](/ "privacy & terms")
+
+[](https://www.google.com/intl/en/about/products)
+
+[sign
+in](https://accounts.google.com/servicelogin?passive=1209600&continue=https://policies.google.com/technologies/retention?hl%3den&followup=https://policies.google.com/technologies/retention?hl%3den&hl=en&ec=gazaoqq)
+
+  * [overview](?hl=en)
+  * [privacy policy](privacy?hl=en)
+  * [terms of service](terms?hl=en)
+  * [technologies](technologies?hl=en)
+  * [faq](faq?hl=en)
+
+#
+[![google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png)](https://www.google.com/?hl=en)
+
+# privacy & terms
+
+  * [overview](?hl=en)
+  * [privacy policy](privacy?hl=en)
+  * [terms of service](terms?hl=en)
+  * [technologies](technologies?hl=en)
+    * [advertising](technologies/ads?hl=en)
+    * [how google uses cookies](technologies/cookies?hl=en)
+    * [how google uses pattern recognition](technologies/pattern-recognition?hl=en)
+    * [how google uses location information](technologies/location-data?hl=en)
+    * [how google uses credit card numbers for payments](technologies/wallet?hl=en)
+    * [how google voice works](technologies/voice?hl=en)
+    * [google product privacy guide](technologies/product-privacy?hl=en)
+    * [how google retains data we collect](technologies/retention?hl=en)
+      * [how google anonymizes data](technologies/anonymization?hl=en)
+  * [faq](faq?hl=en)
+
+[privacy & terms](/ "privacy & terms")
+
+#
+[![google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png)](https://www.google.com/?hl=en)
+
+## [privacy & terms](?hl=en)
+
+  * [overview](?hl=en)
+  * [privacy policy](privacy?hl=en)
+  * [terms of service](terms?hl=en)
+  * [technologies](technologies?hl=en)
+  * [faq](faq?hl=en)
+  * [google account](https://myaccount.google.com/?hl=en)
+
+  * [technologies](technologies?hl=en)
+  * [advertising](technologies/ads?hl=en)
+  * [how google uses cookies](technologies/cookies?hl=en)
+  * [how google uses pattern recognition](technologies/pattern-recognition?hl=en)
+  * [how google uses location information](technologies/location-data?hl=en)
+  * [how google uses credit card numbers for payments](technologies/wallet?hl=en)
+  * [how google voice works](technologies/voice?hl=en)
+  * [google product privacy guide](technologies/product-privacy?hl=en)
+  * how google retains data we collect
+    * [how google anonymizes data](technologies/anonymization?hl=en)
+
+# how google retains data we collect
+
+we collect data as you use google services. what we collect, why we collect
+it, and how you can manage your information are described in our [privacy
+policy](privacy?hl=en#infocollect). this retention policy describes why we
+hold onto different types of data for different periods of time.
+
+some data you can delete whenever you like, some data is deleted
+automatically, and some data we retain for longer periods of time when
+necessary. when you delete data, we follow a deletion policy to make sure that
+your data is safely and completely removed from our servers or retained only
+in anonymized form. [how google anonymizes
+data](technologies/anonymization?hl=en)
+
+## information retained until you remove it
+
+we offer a range of services that allow you to correct or delete data stored
+in your google account. for example, you can:
+
+  * [edit your personal info](https://myaccount.google.com/personal-info?hl=en)
+  * delete [items from my activity](https://myactivity.google.com/myactivity?hl=en)
+  * delete content like [photos](https://support.google.com/photos/answer/6128858?hl=en) and [documents](https://support.google.com/docs/answer/6023494?hl=en)
+  * remove a [product from your google account](https://support.google.com/accounts/answer/81987?hl=en)
+  * [delete your google account](https://support.google.com/accounts/answer/32046?hl=en) entirely
+
+we’ll keep this data in your google account until you choose to remove it. and
+if you use our services without signing in to a google account, we also offer
+you the ability to delete some information linked to what you use to access
+our services, like a device, browser or app.
+
+## data that expires after a specific period of time
+
+in some cases, rather than provide a way to delete data, we store it for a
+predetermined period of time. for each type of data, we set retention
+timeframes based on the reason for its collection. for example, to ensure that
+our services display properly on many different types of devices, we may
+retain browser width and height for up to 9 months. we also take steps to
+anonymize certain data within set time periods. for example, we [anonymize
+advertising data](technologies/ads?hl=en) in server logs by removing part of
+the ip address after 9 months and cookie information after 18 months.
+
+## information retained until your google account is deleted
+
+we keep some data for the life of your google account if it’s useful for
+helping us understand how users interact with our features and how we can
+improve our services. for example, after you [delete a specific google
+search](https://support.google.com/accounts/answer/465?hl=en) from my
+activity, we might keep information about how often you search for things, but
+not what you searched for. when you delete your google account, the
+information about how often you search for things is also removed.
+
+## information retained for extended time periods for limited purposes
+
+sometimes business and legal requirements oblige us to retain certain
+information, for specific purposes, for an extended period of time. for
+example, when google processes a payment for you, or when you make a payment
+to google, we’ll retain this data for longer periods of time as required for
+tax or accounting purposes. reasons we might retain some data for longer
+periods of time include:
+
+  * [security, fraud & abuse prevention](technologies/retention?hl=en#purpose-security)
+  * [financial record-keeping](technologies/retention?hl=en#purpose-financial)
+  * [complying with legal or regulatory requirements](technologies/retention?hl=en#purpose-regulatory)
+  * [ensuring the continuity of our services](technologies/retention?hl=en#purpose-continuity)
+  * [direct communications with google](technologies/retention?hl=en#purpose-comms)
+
+## enabling safe and complete deletion
+
+when you delete data in your google account, we immediately start the process
+of removing it from the product and our systems. first, we aim to immediately
+remove it from view and the data may no longer be used to personalize your
+google experience. for example, if you delete a video you watched from your my
+activity dashboard, youtube will immediately stop showing your watch progress
+for that video.
+
+we then begin a process designed to safely and completely delete the data from
+our storage systems. safe deletion is important to protect our users and
+customers from accidental data loss. complete deletion of data from our
+servers is equally important for users’ peace of mind. this process generally
+takes around 2 months from the time of deletion. this often includes up to a
+month-long recovery period in case the data was removed unintentionally.
+
+each google storage system from which data gets deleted has its own detailed
+process for safe and complete deletion. this might involve repeated passes
+through the system to confirm all data has been deleted, or brief delays to
+allow for recovery from mistakes. as a result, deletion could sometimes take
+longer when extra time is needed to safely and completely delete the data.
+
+our services also use encrypted backup storage as another layer of protection
+to help recover from potential disasters. data can remain on these systems for
+up to 6 months.
+
+as with any deletion process, things like routine maintenance, unexpected
+outages, bugs, or failures in our protocols may cause delays in the processes
+and timeframes defined in this article. we maintain systems designed to detect
+and remediate such issues.
+
+### security, fraud & abuse prevention
+
+#### description
+
+to protect you, other people, and google from fraud, abuse, and unauthorized
+access.
+
+#### scenarios
+
+for example, when google suspects someone is committing ad fraud.
+
+### financial record-keeping
+
+#### description
+
+when google is a party to a financial transaction, including when google
+processes your payment or when you make a payment to google. lengthy retention
+of this information is often required for purposes such as accounting, dispute
+resolution and compliance with tax, escheatment, anti-money laundering, and
+other financial regulations.
+
+#### scenarios
+
+for example, when you purchase apps from the [play
+store](https://play.google.com/store?hl=en) or products from the [google
+store](https://store.google.com/?hl=en).
+
+### complying with legal or regulatory requirements
+
+#### description
+
+to meet any applicable law, regulation, legal process or enforceable
+governmental request, or is required to enforce applicable terms of service,
+including investigation of potential violations.
+
+#### scenarios
+
+for example, if google receives a lawful subpoena.
+
+### ensuring the continuity of our services
+
+#### description
+
+to ensure continuity of service for you and other users.
+
+#### scenarios
+
+for example, when you share information with other users (such as when you
+have sent an email to someone else), deleting it from your google account will
+not eliminate copies maintained by the recipients.
+
+### direct communications with google
+
+#### description
+
+if you have directly communicated with google, through a customer support
+channel, feedback form, or a bug report, google may retain reasonable records
+of those communications.
+
+#### scenarios
+
+for example, when you send feedback within a google app like gmail or drive.
+
+change language:afrikaansbahasa indonesiabahasa
+melayucatalàčeštinadanskdeutscheestienglishenglish (united
+kingdom)españolespañol (latinoamérica)euskarafilipinofrançaisfrançais
+(canada)galegohrvatskiisizuluíslenskaitalianokiswahililatviešulietuviųmagyarnederlandsnorskpolskiportuguês
+(brasil)português (portugal)românăslovenčinaslovenščinasrpskisuomisvenskatiếng
+việttürkçeελληνικάбългарскирусскийсрпскиукраїнська‫עברית‬‫اردو‬‫العربية‬‫فارسی‬አማርኛमराठीहिन्दीবাংলাગુજરાતીதமிழ்తెలుగుಕನ್ನಡമലയാളംไทย한국어中文
+(香港)中文（简体中文）中文（繁體中文）日本語
+
+  * [google](https://www.google.com/)
+  * [about google](https://about.google/)
+  * [privacy](privacy?hl=en)
+  * [terms](terms?hl=en)
+
+google apps
+
+main menu
+

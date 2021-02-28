@@ -1,0 +1,489 @@
+  * global nav open menu global nav close menu
+  * [ apple ](/)
+  * [ shopping bag ](/us/shop/goto/bag) +
+
+[ search apple.com cancel ](/us/search)
+
+  * [ apple ](/)
+  * [ mac ](/mac/)
+  * [ ipad ](/ipad/)
+  * [ iphone ](/iphone/)
+  * [ watch ](/watch/)
+  * [ tv ](/tv/)
+  * [ music ](/music/)
+  * [ support ](https://support.apple.com)
+  * [](/us/search)
+  * [ shopping bag ](/us/shop/goto/bag) +
+
+cancel
+
+[ privacy](/privacy/)
+
+local nav open menu local nav close menu
+
+  * [ overview](/privacy/)
+  * [ features ](/privacy/features/)
+  * [ control](/privacy/control/)
+  * [ transparency report](/legal/transparency/)
+  * privacy policy
+
+# apple privacy policy
+
+### updated december 14, 2020
+
+apple’s privacy policy describes how apple collects, uses, and shares your
+personal data.
+
+in addition to this privacy policy, we provide data and privacy information
+embedded in our products and certain features that ask to use your personal
+information. this product-specific information is accompanied by our data &
+privacy icon.
+
+![](https://www.apple.com/legal/images/icon_dataprivacy.png)
+
+you will be given an opportunity to review this product-specific information
+before enabling these features. you also can view this information at any
+time, either in settings related to those features and/or online at
+[apple.com/legal/privacy](/legal/privacy/).
+
+please take a moment to familiarize yourself with our privacy practices,
+accessible via the headings below, and [contact us](contact/) if you have any
+questions.
+
+[download a copy of this privacy policy](/legal/privacy/pdfs/apple-privacy-
+policy-en-ww.pdf)  
+  
+[your california privacy disclosures](/legal/privacy/california/)  
+[apple health research apps privacy policy](/legal/privacy/apple-health-
+studies/en-ww)  
+
+  * ## what is personal data at apple?
+
+at apple, we believe strongly in fundamental privacy rights — and that those
+fundamental rights should not differ depending on where you live in the world.
+**that’s why we treat any data that relates to an identified or identifiable
+individual or that is linked or linkable to them by apple as “personal data,”
+no matter where the individual lives.** this means that data that directly
+identifies you — such as your name — is personal data, and also data that does
+not directly identify you, but that can reasonably be used to identify you —
+such as the serial number of your device — is personal data.
+
+this privacy policy covers how [apple or an apple-affiliated
+company](https://www.apple.com/legal/privacy/en/affiliated-company/) handles
+personal data whether you interact with us on our websites, through apple apps
+(such as apple music or wallet), or in person (including by phone or when
+visiting our retail stores). apple may also link to third parties on our
+services or make third-party apps available for download in our app store.
+apple’s privacy policy does not apply to how third parties define personal
+data or how they use it. we encourage you to read their privacy policies and
+know your privacy rights before interacting with them.
+
+  * ## your privacy rights at apple
+
+at apple, we respect your ability to know, access, correct, transfer, restrict
+the processing of, and delete your personal data. we have provided these
+rights to our global customer base and if you choose to exercise these privacy
+rights, you have the right not to be treated in a discriminatory way nor to
+receive a lesser degree of service from apple. apple does not sell your data
+including as “sale” is defined in nevada and california.
+
+**to exercise your privacy rights and choices, visit the apple privacy portal
+at**[privacy.apple.com](https://privacy.apple.com) **for apple
+or**[shazam.com/privacy](https://shazam.com/privacy) **for shazam.** to help
+protect the security of your personal data, you must sign in to your account
+and your identity will be verified. if the privacy portal is not available in
+your region, you can make privacy rights requests at
+[apple.com/legal/privacy/contact](https://apple.com/legal/privacy/contact).
+
+there may be situations where we cannot grant your request — for example, if
+you ask us to delete your transaction data and apple is legally obligated to
+keep a record of that transaction to comply with law. we may also decline to
+grant a request where doing so would undermine our legitimate use of data for
+anti-fraud and security purposes, such as when you request deletion of an
+account that is being investigated for security concerns. other reasons your
+privacy request may be denied are if it jeopardizes the privacy of others, is
+frivolous or vexatious, or would be extremely impractical.
+
+_if you live in california,_ if you cannot access apple’s privacy portal, you
+or your authorized agent can make a request at
+[apple.com/legal/privacy/contact](https://apple.com/legal/privacy/contact) or
+by calling 1-800-275-2273.
+
+for more information on exercising your rights, visit
+[support.apple.com/ht208501](https://support.apple.com/ht208501).
+
+  * ## personal data apple collects from you
+
+at apple, we believe that you can have great products and great privacy. this
+means that we strive to **collect only the personal data that we need**. the
+personal data apple collects depends on how you interact with apple.
+descriptions of how apple handles personal data for certain individual
+services are available at
+[apple.com/legal/privacy/data](https://www.apple.com/legal/privacy/data).
+
+when you create an apple id, apply for commercial credit, purchase and/or
+activate a product or device, download a software update, register for a class
+at an apple store, connect to our services, contact us (including by social
+media), participate in an online survey, or otherwise interact with apple, we
+may collect a variety of information, including:
+
+    * **account information.** your apple id and related account details, including email address, devices registered, account status, and age
+    * **device information.** data from which your device could be identified, such as device serial number, or about your device, such as browser type
+    * **contact information**. data such as name, email address, physical address, phone number, or other contact information
+    * **payment information.** data about your billing address and method of payment, such as bank details, credit, debit, or other payment card information
+    * **transaction information.** data about purchases of apple products and services or transactions facilitated by apple, including purchases on apple platforms
+    * **fraud prevention information.** data used to help identify and prevent fraud, including a device trust score
+    * **usage data.** data about your activity on and use of our offerings, such as app launches within our services, including browsing history; search history; product interaction; crash data, performance and other diagnostic data; and other usage data
+    * [location information](https://developer.apple.com/support/app-privacy-on-the-app-store) **.** precise location only to support find my, and coarse location
+    * **health information.** data relating to the health status of an individual, including data related to one’s physical or mental health or condition. personal health data also includes data that can be used to make inferences about or detect the health status of an individual. if you participate in a study using an apple health research study app, the policy governing the privacy of your personal data is described in the [apple health study apps privacy policy](https://www.apple.com/legal/privacy/apple-health-studies/).
+    * **fitness information.** details relating to your fitness and exercise information where you choose to share them
+    * **financial information.** details including salary, income, and assets information where collected, and information related to apple-branded financial offerings
+    * **government id data.** in certain jurisdictions, we may ask for a government-issued id in limited circumstances, including when setting up a wireless account and activating your device, for the purpose of extending commercial credit, managing reservations, or as required by law
+    * **other information you provide to us.** details such as the content of your communications with apple, including interactions with customer support and contacts through social media channels  
+
+
+you are not required to provide the personal data that we have requested.
+however, if you choose not to do so, in many cases we will not be able to
+provide you with our products or services or respond to requests you may have.
+
+  * ## personal data apple receives from other sources
+
+apple may receive personal data about you from other **individuals** , from
+businesses or third parties acting **at your direction** , from our
+**partners** who work with us to provide our products and services and assist
+us in security and fraud prevention, and from other **** lawful sources.
+
+    * **individuals.** apple may collect data about you from other individuals — for example, if that individual has sent you a product or gift card, invited you to participate in an apple service or forum, or shared content with you. 
+    * **at your direction.** you may direct other individuals or third parties to share data with apple. for example, you may direct your mobile carrier to share data about your carrier account with apple for account activation, or for your loyalty program to share information about your participation so that you can earn rewards for apple purchases. 
+    * **apple partners.** we may also validate the information you provide — for example, when creating an apple id, with a third party for security, and for fraud-prevention purposes.  
+
+
+for research and development purposes, we may use datasets such as those that
+contain images, voices, or other data that could be associated with an
+identifiable person. when acquiring such datasets, we do so in accordance with
+applicable law, including law in the jurisdiction in which the dataset is
+hosted. when using such datasets for research and development, we do not
+attempt to reidentify individuals who may appear therein.
+
+  * ## apple’s use of personal data
+
+**apple uses personal data to power our services, to process your
+transactions, to communicate with you, for security and fraud prevention, and
+to comply with law. we may also use personal data for other purposes with your
+consent.  **
+
+**apple uses your personal data only when we have a valid legal basis to do
+so.** depending on the circumstance, apple may rely on your consent or the
+fact that the processing is necessary to fulfill a contract with you, protect
+your vital interests or those of other persons, or to comply with law. we may
+also process your personal data where we believe it is in our or others’
+legitimate interests, taking into consideration your interests, rights, and
+expectations. if you have questions about the legal basis, you can contact the
+data protection officer at
+[apple.com/legal/privacy/contact](https://www.apple.com/legal/privacy/contact/).
+
+    * **power our services.** apple collects personal data necessary to power our services, which may include personal data collected to personalize or improve our offerings, for internal purposes such as auditing or data analysis, or for troubleshooting. for example, if you would like to access a song through an apple music subscription, we collect data on what songs you play in order to provide you with the content requested and for royalty purposes.
+    * **process your transactions.** to process transactions, apple must collect data such as your name, purchase, and payment information.
+    * **communicate with you.** to respond to communications, reach out to you about your transactions or account, market our products and services, provide other relevant information, or request information or feedback. from time to time, we may use your personal data to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. because this information is important to your interaction with apple, you may not opt out of receiving these important notices. 
+    * **security and fraud prevention.** to protect individuals, employees, and apple and for loss prevention and to prevent fraud, including to protect individuals, employees, and apple for the benefit of all our users, and prescreening or scanning uploaded content for potentially illegal content, including child sexual exploitation material.
+    * **comply with law.** to comply with applicable law — for example, to satisfy tax or reporting obligations, or to comply with a lawful governmental request.  
+
+
+apple does not use algorithms or profiling to make any decision that would
+significantly affect you without the opportunity for human review.
+
+**apple retains personal data only for so long as necessary to fulfill the
+purposes for which it was collected, including as described in this privacy
+policy or in our service-specific privacy notices, or as required by law.** we
+will retain your personal data for the period necessary to fulfill the
+purposes outlined in this privacy policy and our service-specific privacy
+summaries. when assessing retention periods, we first carefully examine
+whether it is necessary to retain the personal data collected and, if
+retention is required, work to retain the personal data for the shortest
+possible period permissible under law.
+
+  * ## apple’s sharing of personal data
+
+apple may share personal data with **service providers** who act on our
+behalf, our **partners** , or others **at your direction**. further, apple
+does not share personal data with third parties for their own marketing
+purposes.
+
+    * **service providers.** apple may engage third parties to act as our service providers and perform certain tasks on our behalf, such as delivering products to customers. apple service providers are obligated to handle personal data consistent with this privacy policy and according to our instructions. they cannot use the personal data we share for their own purposes and must delete or return the personal data once they've fulfilled our request.
+    * **partners.** at times, apple may partner with third parties to provide services or other offerings. for example, apple financial offerings like apple card and apple cash are offered by apple and our partners. apple requires its partners to protect your personal data.
+    * **others.** apple may share personal data with others at your direction or with your consent, such as when we share information with your carrier to activate your account. we may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate. we may also disclose information about you where there is a lawful basis for doing so, if we determine that disclosure is reasonably necessary to enforce our terms and conditions or to protect our operations or users, or in the event of a reorganization, merger, or sale.   
+
+
+if you purchase a subscription in a third-party app or within apple news, we
+create a subscriber id that is unique to you and the developer or publisher.
+the subscriber id may be used to provide reports to the developer or
+publisher, which include information about the subscription you purchased and
+your country of residence. if you cancel all of your subscriptions with a
+particular developer or publisher, the subscriber id will reset after 180 days
+if you do not resubscribe. this information is provided to developers so that
+they can understand the performance of their subscriptions.
+
+  * ## protection of personal data at apple
+
+at apple, we believe that great privacy rests on great security. we use
+**administrative, technical, and physical safeguards** to protect your
+personal data, taking into account the nature of the personal data and the
+processing, and the threats posed. we are constantly working to improve on
+these safeguards to help keep your personal data secure. for more information,
+visit our [apple platform
+security](https://support.apple.com/guide/security/welcome/web) guide.
+
+  * ## children and personal data
+
+apple understands the importance of safeguarding the personal data of
+children, which we consider to be an **individuals under the age of 13 or the
+equivalent age as specified by law in your jurisdiction**. that is why apple
+has implemented additional processes and protections to help keep children's
+personal data safe.
+
+to access certain apple services, a child must have a child apple id. a child
+apple id may be created by the **parent** or, in the case of a managed apple
+id, by the **child's educational institution**.
+
+    * **parents.** to create a child account, parents must review the [family privacy disclosure for children](https://www.apple.com/legal/privacy/en-ww/parent-disclosure/), which describes how apple handles children's personal data. if they agree, the parent must provide apple with a verifiable parental consent. 
+    * **educational institutions.** educational institutions that participate in the apple school manager program may also create apple ids for students, called "managed apple ids.” these schools are required to agree to the [managed apple ids for students disclosure](https://www.apple.com/legal/education/apple-school-manager/) which is included as exhibit a to the apple school manager agreement.  
+
+
+if we learn that a child's personal data was collected without appropriate
+authorization, it will be deleted as soon as possible.
+
+**to exercise privacy rights for your child's information, visit the apple
+privacy portal at**[privacy.apple.com](https://privacy.apple.com) **and sign
+in to their account.**
+
+  * ## cookies and other technologies
+
+apple’s websites, online services, interactive applications, email messages,
+and advertisements may use [“cookies” and other
+technologies](https://www.apple.com/legal/privacy/en-ww/cookies/) such as
+pixel tags and web beacons. **these technologies help us to better understand
+user behavior including for security and fraud prevention purposes, tell us
+which parts of our websites people have visited, and facilitate and measure
+the effectiveness of advertisements and web searches.**
+
+    * **communications cookies.** these cookies are used to enable network traffic to and from apple’s systems, including by helping us detect any errors.
+    * **strictly necessary cookies.** these cookies are set as required to provide a specific feature or service that you have accessed or requested. for example, they allow us to display our websites in the proper format and language, to authenticate and verify your transactions, and to preserve the contents of your bag when shopping online at apple.com. 
+    * **other cookies.** these cookies are used to understand how visitors interact with our websites and online services, including by helping us to assess the effectiveness of advertisements and web searches. apple also uses these cookies to remember choices you make while browsing, so we can provide you with a customized experience.   
+
+
+if you prefer that apple not use cookies, we provide you with the means to
+disable their use. if you want to disable cookies and you’re using the safari
+web browser, choose “block all cookies” in safari’s privacy settings. if you
+are using a different browser, check with your provider to find out how to
+disable cookies. certain features of the apple website may not be available if
+all cookies are disabled.
+
+in addition to cookies, apple uses other technologies that help us achieve
+similar objectives.
+
+in some email messages apple sends to you, we provide a “click-through url”
+that links you to content on the apple website. when you click one of these
+urls, they pass through a separate server before arriving at the destination
+page on our website. we track this click-through to help us determine interest
+in particular topics and measure whether we are communicating with you
+effectively. if you prefer not to be tracked in this way, you should not click
+graphic or text links in email messages.
+
+pixel tags enable us to send email messages in a format that you can read, and
+they tell us whether mail has been opened. we may use this data to reduce or
+eliminate messages sent to customers.
+
+**apple generally treats data we collect using these cookies and similar
+technologies as nonpersonal data.** however, to the extent that internet
+protocol (ip) addresses or similar identifiers are considered personal data by
+local law, we also treat these identifiers as personal data. in addition,
+apple sometimes combines nonpersonal data collected from these technologies
+with other personal data apple holds. when we combine data in this way, we
+treat the combined data as personal data for purposes of this privacy policy.
+
+ads that are delivered by apple’s advertising platform may appear in apple
+news or the stocks app and in the app store. if you do not want to receive ads
+targeted to your interests from apple's advertising platform in those apps,
+you can choose to disable personalized ads, which will opt your apple id out
+of receiving such ads regardless of what device you are using. on your ios or
+ipados device, you can disable personalized ads by going to settings > privacy
+> apple advertising and tapping to turn off personalized ads. on your mac, you
+can disable personalized ads by choosing apple menu > system preferences >
+security & privacy, clicking privacy, clicking advertising, and deselecting
+personalized ads. you may still see ads in the app store or apple news based
+on context like your search query or the channel you are reading. if you
+disable allow apps to request to track, third-party apps cannot request to use
+the advertising identifier, a non personal identifier served by the operating
+system on your device, to track you across apps and websites owned by other
+companies.
+
+  * ## transfer of personal data between countries
+
+apple products and offerings connect you to the world. to make that possible,
+**your personal data may be transferred to or accessed by entities around the
+world.** apple complies with laws on the transfer of personal data between
+countries to help ensure your data is protected, wherever it may be.
+
+**the apple entity that controls your personal data may differ depending on
+where you live.** for example, retail store information is controlled by
+individual retail entities in each country and apple media services-related
+personal data may be controlled by various apple entities as reflected in the
+terms of service. if you do not reside in the u.s., your personal data may be
+processed by apple inc. on behalf of the apple entity controlling personal
+data for your jurisdiction. for example, imagery and associated data collected
+by apple around the world to improve apple maps and to support our look around
+feature is transferred to apple inc. in california.
+
+personal data relating to individuals in the european economic area, the
+united kingdom, and switzerland is controlled by apple distribution
+international limited in ireland. apple's international transfer of personal
+data collected in the european economic area, the united kingdom, and
+switzerland is governed by [standard contractual
+clauses](https://ec.europa.eu/info/law/law-topic/data-
+protection/international-dimension-data-protection/standard-contractual-
+clauses-scc_en). apple’s international transfer of personal data collected in
+participating asia-pacific economic cooperation (apec) countries abides by the
+[apec cross-border privacy rules (cbpr)
+system](http://www.apec.org/groups/committee-on-trade-and-
+investment/~/media/files/groups/ecsg/cbpr/cbpr-policiesrulesguidelines.ashx)
+and [privacy recognition for processors (prp)
+system](https://www.apec.org/~/media/files/groups/ecsg/2015/apec%20prp%20rules%20and%20guidelines.pdf)
+for the transfer of personal data. if you have questions or unresolved
+concerns about our apec cbpr or prp certifications, contact our [third-party
+dispute resolution provider](https://feedback-
+form.truste.com/watchdog/request).
+
+  * ## our companywide commitment to your privacy
+
+to make sure your personal data is secure, we communicate our privacy and
+security guidelines to apple employees and strictly enforce privacy safeguards
+within the company.
+
+  * ## privacy questions
+
+**if you have questions about apple’s privacy policy or privacy practices,
+would like to contact our data protection officer, or would like to submit a
+complaint, you can contact us
+at**[apple.com/legal/privacy/contact](https://www.apple.com/legal/privacy/contact/)
+**or call the**[apple support number](https://support.apple.com/ht201232)
+**for your country or region.** you can also ask us questions about how to
+submit a privacy complaint and we will endeavor to help.
+
+apple takes your privacy questions seriously. a dedicated team reviews your
+inquiry to determine how best to respond to your question or concern,
+including those inquiries received in response to an access or download
+request. in most cases, all substantive contacts receive a response within
+seven days. in other cases, we may require additional information or let you
+know that we need more time to respond.
+
+where your complaint indicates an improvement could be made in our handling of
+privacy issues, we will take steps to make such an update at the next
+reasonable opportunity. in the event that a privacy issue has resulted in a
+negative impact on you or another person, we will take steps to address that
+with you or that other person.
+
+if you are not satisfied with apple’s response, you may refer your complaint
+to the applicable regulator. if you ask us, we will endeavor to provide you
+with information about relevant complaint avenues which may be applicable to
+your circumstances.
+
+when there is a material change to this privacy policy, we’ll post a notice on
+this website at least a week in advance of doing so and contact you directly
+about the change if we have your data on file.
+
+apple inc. one apple park way, cupertino, california, usa, 95014
+
+[![truste](//privacy-policy.truste.com/privacy-
+seal/seal?rid=1580fe3d-f313-4354-8fa1-008e083ce49e)](//privacy.truste.com/privacy-
+seal/validation?rid=1580fe3d-f313-4354-8fa1-008e083ce49e)
+
+## apple footer
+
+[  apple ](https://www.apple.com)
+
+  1. [ legal](/legal/)
+  2. [ privacy policy](/legal/privacy/)
+  3. apple privacy policy
+
+### hardware and software
+
+open menu close menu
+
+  * [hardware warranties](/legal/warranty/)
+  * [software license agreements](/legal/sla/)
+  * [rf exposure](/legal/rfexposure/)
+
+### more resources
+
+open menu close menu
+
+  * [overview](/legal/more-resources/)
+  * [government information requests](https://www.apple.com/privacy/government-information-requests/)
+  * [contact apple legal](/legal/contact/)
+  * [global trade compliance](/legal/more-resources/gtc.html)
+  * [supplier provisions](/legal/more-resources/supplier-provisions.html)
+  * [filemaker legal information](http://www.filemaker.com/company/legal/trademark_guidelines.html)
+
+### sales & support
+
+open menu close menu
+
+  * [overview](/legal/sales-support/)
+  * [applecare](/legal/sales-support/)
+  * [repair terms and conditions](/legal/sales-support/terms/repair/)
+  * [express replacement service](/legal/sales-support/terms/iphonears/)
+  * [remote support terms and conditions](https://images.apple.com/legal/sales-support/applecare/docs/remotesupport_terms.pdf)
+  * [sales policies](/legal/sales-support/)
+  * [certification agreements and policies](/legal/sales-support/certification/)
+  * [training service terms and conditions](/legal/sales-support/terms/training/trainingservice.html)
+  * [support communities terms of use](https://discussions.apple.com/terms)
+
+### internet services
+
+open menu close menu
+
+  * [overview](/legal/internet-services/)
+  * [apple media services terms and conditions](/legal/internet-services/itunes/)
+  * [itunes gift cards and codes terms and conditions](/legal/internet-services/itunes/giftcards/)
+  * [game center terms and conditions](/legal/internet-services/itunes/gamecenter/)
+  * [icloud terms of service](/legal/internet-services/icloud/)
+  * [testflight terms and conditions](/legal/internet-services/testflight/)
+  * [privacy policy](/legal/privacy/)
+  * [website terms of use](/legal/internet-services/terms/site.html)
+
+### intellectual property
+
+open menu close menu
+
+  * [overview](/legal/intellectual-property/)
+  * [guidelines for using apple trademarks and copyrights](/legal/intellectual-property/guidelinesfor3rdparties.html)
+  * [trademarks](/legal/intellectual-property/trademark/appletmlist.html)
+  * [rights and permissions](/legal/contact/rights-permissions.html)
+  * [piracy prevention](/legal/intellectual-property/piracy.html)
+  * [unsolicited idea submission policy](/legal/intellectual-property/policies/ideas.html)
+
+### education
+
+open menu close menu
+
+  * [apple school manager](/legal/education/apple-school-manager/)
+
+###  enterprise
+
+open menu close menu
+
+  * [apple business manager](/legal/enterprise/apple-business-manager/)
+  * [data transfer agreements](/legal/enterprise/datatransfer/)
+
+more ways to shop: [find an apple store](/retail/) or [other
+retailer](https://locate.apple.com/) near you. or call 1-800-my-apple.
+
+[united states](/choose-country-region/ "choose your country or region")
+
+copyright © 2021 apple inc. all rights reserved.
+
+[privacy policy](/legal/privacy/) [terms of use](/legal/internet-
+services/terms/site.html) [sales and
+refunds](/us/shop/goto/help/sales_refunds) [legal](/legal/) [site
+map](/sitemap/)
+

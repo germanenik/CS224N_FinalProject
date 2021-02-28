@@ -1,0 +1,1114 @@
+[ ](https://ifttt.com/ "home")
+
+[ explore ](https://ifttt.com/explore "explore") [ plans
+](https://ifttt.com/plans "plans")
+
+[log in](https://ifttt.com/login?wp_=1) [ get started
+](https://ifttt.com/join)
+
+may 23rd, 2018
+
+#  trust  gdpr
+
+## building trust takes more than just legal compliance
+
+> ![our goal is help everyone benefit from and protect their
+> information.](//web-
+> assets.ifttt.com/assets/web/privacy/quotes-a2fcf44cf5ad8dbcf31f6fd37658d18108cecb197e885c1ceb7344b4cd5a8423.svg)
+>
+> our goal is help everyone benefit from and protect their information.  
+>  linden tibbets, ifttt ceo
+
+user trust is core to the ifttt experience. people trust us to get their
+services and devices talking with each other in a reliable way.
+
+we’re excited that the european general data protection regulation (gdpr)
+brought privacy and trust into the limelight. the gdpr created specific rights
+for european citizens with respect to their data. that’s great. but at ifttt,
+we believe everyone should have more control over their data. so we’ve built
+new controls to allow all ifttt users to interact in new ways with their data
+directly from our website and mobile apps.
+
+we’ll continue to add features that give you even more control over your data.
+
+## take your data anywhere
+
+![export your ifttt data in a machine readable format.](//web-
+assets.ifttt.com/assets/web/settings/control-your-
+data-29a991de1ba1bac176126c9740282e30d3ee316a180a749df48c66432635d064.svg)
+
+your data on ifttt is yours. you should be able to take it anywhere in a
+machine readable format and tinker with it.
+
+you will now be able to [export your ifttt data](/settings#control-your-data
+"export your ifttt data") directly from your user profile on our website and
+mobile apps. once you’ve clicked “export” we will email you a json file with
+your ifttt data.
+
+## delete your account
+
+our goal is to make it as simple as possible for you to control your data on
+ifttt.
+
+we’d love to provide useful functionality to you forever. but if ifttt stops
+being useful to you, we’ll be sad to see you go, but we won’t hoard your data.
+
+want to delete your data from ifttt? no problem. simply click the [“delete my
+account” link](/settings#control-your-data "“delete my account” link") in your
+profile. you will always be welcome back!
+
+## transparency
+
+to fully control your data, you need to know how it’s being used. we’re
+updating our privacy policy and terms of use to provide more granular
+information about how we use data.
+
+every service is different. meaningful transparency will mean different things
+depending on each service. you will get a relevant just-in-time notice every
+time you connect a new service to ifttt to use for a specific applet. the
+authentication flow will tell you which data is used from your account and the
+applet description tells you how that data will be used.
+
+we’ll continue to think about other ways to provide meaningful transparency to
+you. stay tuned!
+
+# privacy policy
+
+as of july 20th, 2018
+
+ifttt inc. ("ifttt") takes the private nature of your personal information
+very seriously. this privacy policy describes how we treat the information we
+collect when you visit and use the ifttt website located at ifttt.com (the
+"site") and the services offered by ifttt (the site, mobile apps, and services
+referred to as the "service"). please read this privacy policy to learn more
+about the ways in which ifttt uses and protects your personal information. by
+using the service you acknowledge and agree to be bound by the terms and
+conditions of this privacy policy. if you do not agree to the terms, please do
+not use the service or access our site.  
+  
+the ifttt service is not intended for use by children. if you are under 18,
+you may use the service only with involvement of a parent or guardian. we do
+not knowingly collect or solicit personal information from anyone under the
+age of 16. if you are under 16, please do not attempt to register for the
+services or send any personal information about yourself to us. if we learn
+that we have collected personal information from a child under age 16, we will
+delete that information as quickly as possible. if you believe that a child
+under 16 may have provided us personal information, please contact us at
+[privacy@ifttt.com](mailto:privacy@ifttt.com).
+
+###### information we collect automatically
+
+browsing the site does not require you to register for an account or provide
+any personal information to us. in general, ifttt will gather some generic
+information automatically. this generic information may include the internet
+address assigned to your computer, the number and frequency of visitors to the
+site, the url that you just came from (whether this url is on the site or
+not), which url you next go to (whether this url is on the site or not), and
+your computer browser information. generic information does not reveal the
+identity of the visitor. this type of aggregate data may enable us to figure
+out how often users use parts of the service, help us determine customer
+service and site needs, and do internal research on our users' demographics,
+interests, and behavior to better understand, protect and serve you and our
+community. ifttt may use this data in aggregate form, that is, as a
+statistical measure, but not in a manner that would identify you personally.
+as part of this use of information, we may provide aggregate information, not
+information about you personally, to our partners about how our users,
+collectively, use our service.  
+  
+we use analytics to help analyze how our users use the services. google
+analytics uses cookies to collect information such as how often our users
+visit the services, what pages they visit, and what other sites they used
+prior to coming to the services. we may use the information we get from google
+analytics to improve our services or to send you promotional messages about
+our services. google analytics collects the ip address assigned to you on the
+date you visit the services, but not your name or other personally identifying
+information. we do not combine the information generated through the use of
+google analytics with any personally identifying information. although google
+analytics plants a persistent cookie to identify you as a unique user the next
+time you visit the service, the cookie cannot be used by anyone but google.
+google’s ability to use and share information collected by google analytics
+about your visits to the service is restricted by the google analytics terms
+of use and the google privacy policy. you may find additional information
+about google analytics at
+[http://www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners/).
+
+###### information collected from other websites and do not track policy
+
+through cookies we place on your browser or device, we may collect information
+about your online activity after you leave our service. just like any other
+usage information we collect, this information allows us to improve the
+service and customize your online experience, and otherwise as described in
+this privacy policy. your browser may offer you a “do not track” option, which
+allows you to signal to operators of websites and web applications and
+services (including behavioral advertising services) that you do not wish such
+operators to track certain of your online activities over time and across
+different websites. our service does not support do not track requests at this
+time, which means that we collect information about your online activity both
+while you are using the service and after you leave our service.
+
+###### information you provide to us
+
+we receive and store any information you enter on the service or provide to us
+in any other way. you can choose not to provide us with certain information,
+though you may not be able to take advantage of many service features. the
+personal information you provide may be used for such purposes as responding
+to your questions or requests, customizing the content you see, and
+communicating with you about new service features. if you send us personal
+correspondence, such as emails or letters, or if other users or third parties
+send us correspondence about your activities or postings on the service, we
+may collect such information into a file specific to you. you agree that we
+may use your personal information to contact you as provided herein, though
+our intent is that email is the only channel we will use to contact you
+without your consent.  
+  
+also, once you install any mobile apps and enable specific platform services,
+you may be providing us with additional information, such as contacts and
+camera-photos on your device. additionally, we may collect information about
+your location and calendar in order to provide you with more personalized
+service. again, you can choose not to provide us with certain information,
+though you may not be able to take advantage of many service features.  
+  
+if you provide your third-party account credentials to us or otherwise sign in
+to the services through a third party site or platform service, you understand
+some content and/or information in those accounts (“third party account
+information”) may be transmitted into your account with us if you authorize
+such transmissions, and that third party account information transmitted to
+our services is covered by this privacy policy.  
+  
+one such service may include the ability for you to automatically transmit
+third party account information to your services profile or to automatically
+transmit information in your services profile to your third party account.  
+  
+in order for you to take full advantage of the service, you must provide
+registration information, including an e-mail address and password. we may
+also request demographic information and unique identifiers in order to
+provide you with a more personalized service, but this information is
+optional. once you register for the service, create applets, and/or give us
+your personal information, you are not anonymous to us. usernames and links to
+public accounts are only shown on your profile with your consent. you always
+have the option to not provide information by choosing not to register for the
+service or create any applets. our primary purpose in collecting personal
+information is to provide you with a safe, smooth, and efficient experience.
+we only collect personal information about you that we consider necessary for
+achieving this purpose. ifttt does not sell or rent your personal information
+to third parties without your explicit consent. ifttt may disclose information
+it has collected from you and/or that you have made available through the
+service when it believes in good faith that the law or legal process requires
+it, or when it is necessary to do so to protect the rights or property of
+ifttt or others. you are responsible for managing the flow of your private
+information from one third party platform service to another. if you post
+personal information online that is accessible to the public, that information
+becomes publicly available and can be collected and used by others and
+redistributed through the internet and other media channels. for example, if
+you push a private post on facebook to a public blog, the private post will no
+longer be private. you may receive unsolicited messages from other parties in
+return.
+
+###### is my information secure?
+
+we treat data as an asset that must be protected against loss and unauthorized
+access. we use industry-standard secure socket layer (ssl) software to protect
+the security of your personal information during transmission, which encrypts
+all of the information you input. all personal information collected from
+other platform services that you provide through the use of the service is
+stored securely. only employees who need personal information to perform a
+specific job (for example, a customer service representative) are granted
+access to it. all of our employees are kept up to date on our privacy and
+security practices.  
+  
+due to the existing regulatory environment, we cannot ensure that all of your
+private communications and other personal information will never be disclosed
+in ways not otherwise described in this privacy policy. by way of example, we
+may be forced to disclose personal information to the government or third
+parties under certain circumstances or third parties may unlawfully intercept
+or access transmissions or private communications.  
+  
+you need to work to protect against unauthorized access to your passwords and
+to your computer by signing off once you have finished using a shared
+computer. you are responsible for all actions taken with your user id and
+password. therefore we recommend that you do not disclose your password to any
+third parties. if you choose to share your user id and password or your
+personal information with third parties, you are responsible for all actions
+taken with your account and therefore you should review that third party's
+privacy policy. if you lose control of your password, you may lose substantial
+control over your personal information and may be subject to legally binding
+actions taken on your behalf such as if someone used your user and id password
+to forward libelous material through the service. therefore, if your password
+has been compromised for any reason, you should immediately change your
+password.
+
+###### what about cookies?
+
+when you visit the site, we may send one or more "cookies" to your computer
+hard drive through your web browser. a cookie is a small file containing a
+string of information that a website stores on a visitor's computer, and that
+the visitor's browser provides to the website each time the visitor returns.
+any use of cookies by us will be solely for the purposes of improving the
+quality of access to the site by storing user preferences, and tracking user
+trends, such as how people use the site, and their site access preferences.
+cookies tell us how and when pages in our site are visited and by how many
+people. we use cookies to allow you to enter your login information less
+frequently. to the extent ifttt uses cookies, such cookies do not collect
+personal information, and we do not combine information collected through
+cookies with other personal information to tell us who you are or what your
+username or e-mail address is. you are always free to decline our cookies if
+your browser permits, although in that case you may not be able to use certain
+features on the site and you may be required to reenter your password or login
+information more frequently. ifttt visitors who do not wish to have cookies
+placed on their computers should set their browsers to refuse cookies before
+using the site. most browsers are initially set up to accept cookies, but you
+can reset your browser to refuse all cookies or to indicate when a cookie is
+being sent. we recommend that you leave the cookies activated, however,
+because deleting cookies may reduce the functionality of ifttt. we do not
+control the use of cookies by third parties.
+
+###### will ifttt share any of the information it receives with other
+entities?
+
+we may use third party service providers to facilitate or outsource one or
+more aspects of our business and therefore we may provide some of your
+personal information directly to these service providers. these service
+providers are subject to confidentiality agreements with us and other legal
+restrictions that prohibit their use of the information we provide them for
+any other purpose except to facilitate the specific outsourced ifttt related
+operation, unless you have given your prior permission to them for additional
+uses. we may share our data, including personal information about you with our
+partners and joint ventures in furtherance of our business. to the extent that
+these entities have access to your information, they will treat it at least as
+protectively as they treat information they obtain from their other users. our
+partners and joint ventures follow privacy practices no less protective of all
+users than our practices described in this document, to the extent allowed by
+applicable law. in some cases, we may choose to buy or sell assets. in these
+types of transactions, customer information is typically one of the business
+assets that is transferred.  
+  
+moreover, if ifttt, or substantially all of its assets, were acquired, or in
+the unlikely event that ifttt goes out of business or enters bankruptcy,
+customer information would be one of the assets that may be transferred to or
+acquired by a third party. you acknowledge that such transfers may occur, and
+that any acquirer of ifttt may continue to use your personal information as
+set forth in this policy. ifttt cooperates with law enforcement inquiries, as
+well as other third parties to enforce laws and intellectual property rights.
+therefore, in response to a verified request by law enforcement or other
+government officials relating to a criminal investigation or alleged illegal
+activity, we can (and you authorize us to) disclose your name, city, state,
+telephone number, and email address. we will not otherwise disclose your
+personal information to law enforcement or other government officials without
+a subpoena, court order or substantially similar legal procedure, except when
+we believe in good faith that the disclosure of information is necessary to
+prevent imminent physical harm or financial loss; or report suspected illegal
+activity. this privacy policy applies to the ifttt service only. we do not
+exercise control over any sites that you may visit from a link on our site.
+these other sites may place their own cookies or other files on your computer,
+collect data or solicit personal information from you. since ifttt does not
+control the privacy policies of third parties, you are subject to the privacy
+policies of that third party. we encourage you to ask questions before you
+disclose your personal information to others.  
+  
+we may de-identify your personal information so that you are not identified as
+an individual, and provide that information to our partners. we may also
+provide aggregate usage information to our partners (or allow partners to
+collect that information from you), who may use such information to understand
+how often and in what ways people use our services, so that they, too, can
+provide you with an optimal online experience. however, we never disclose
+aggregate usage or de-identified information to a partner (or allow a partner
+to collect such information) in a manner that would identify you as an
+individual person.  
+  
+except as set forth above, you will be notified when your personal information
+may be shared with third parties, and you will be able to prevent the sharing
+of this information.
+
+###### accessing, reviewing and changing your personal information
+
+services can be disconnected at anytime though prior applets may remain in our
+electronic archive. you can change your email address and contact information
+by going to the settings page. you must promptly update your personal
+information if it changes or is inaccurate. you may be able to add or update
+certain additional information via the service. when you update information,
+however, we often maintain a copy of the unrevised information in our records.
+please note that information may remain in our records after deletion of your
+account. ifttt will only update your information on third party sites or send
+you information (phone, sms, etc.) with your specific consent, such as when
+you add applets to your account.
+
+###### user communications
+
+you may input your contact information into the service so that ifttt may
+contact you. when you enter your contact information or send an email or other
+communication to ifttt, we may retain those communications in order to process
+your inquiries and respond to your requests. we do not use your email address
+or contact information to send commercial or marketing messages nor do we give
+or sell this information to any third parties. to the extent your e-mail
+address is provided to ifttt, you may receive e-mail or other communications
+from us.
+
+###### your california privacy rights
+
+under california civil code sections 1798.83-1798.84, california residents are
+entitled to ask us for a notice identifying the categories of personal
+information which we share with our affiliates and/or third parties for
+marketing purposes, and providing contact information for such affiliates
+and/or third parties. if you are a california resident and would like a copy
+of this notice, please submit a written request to:
+[privacy@ifttt.com](mailto:privacy@ifttt.com) or ifttt inc., po box 590547,
+san francisco, ca 94159-0547, attn: legal
+
+###### changes to this policy
+
+please note that this privacy policy may change from time to time. we will not
+reduce your rights under this policy without your explicit consent, and we
+expect most such changes will be minor. regardless, we will post any policy
+changes on this page. we may amend this privacy policy at any time by posting
+the amend terms on the site. all amended terms shall automatically be
+effective thirty (30) days after they are initially posted on the site. each
+version of this policy will be identified at the top of the page by its
+effective date.
+
+###### contact us
+
+if you have any additional questions or concerns about this policy or the
+service in general, please feel free to contact us at
+[privacy@ifttt.com](mailto:privacy@ifttt.com).
+
+  
+
+# eu residents
+
+if you are a resident of the european union (“eu”), united kingdom,
+lichtenstein, norway, or iceland, you may have additional rights under the eu
+general data protection regulation (the “gdpr”) with respect to your personal
+data, as outlined below.  
+  
+for this section, we use the terms “personal data” and “processing” as they
+are defined in the gdpr, but “personal data” generally means information that
+can be used to individually identify a person, and “processing” generally
+covers actions that can be performed in connection with data such as
+collection, use, storage and disclosure. ifttt will be the controller of your
+personal data processed in connection with the service.  
+  
+if there are any conflicts between this section and any other provision of
+this privacy policy, the policy or portion that is more protective of personal
+data shall control to the extent of such conflict. if you have any questions
+about this section or whether any of the following applies to you, please
+contact us at [ifttt@gdpr-rep.com](mailto:ifttt@gdpr-rep.com).
+
+###### what personal data do we collect from you?
+
+we collect personal data about you when you provide such information directly
+to us, when third parties such as our business partners or service providers
+provide us with personal data about you, or when personal data about you is
+automatically collected in connection with your use of our service.  
+  
+information we receive directly from you: we receive personal data directly
+from you when you provide us with such personal data, including without
+limitation the following:
+
+  * first and last name
+  * email address
+  * mailing address
+  * telephone number
+  * transaction information (ifttt does not store your credit or debit card information)
+  * user content, for example, action ingredients that are displayed when an applet runs
+
+information we receive from third party sources includes applet trigger
+fields, ingredients, and action fields. this data is unique to your use of
+ifttt and can be found on the applet configuration panel for any of your
+applets: <https://ifttt.com/my_applets>.  
+  
+some third parties, such as our business partners and service providers,
+provide us with personal data about you, such as the following:
+
+  * account information for third party platform services: if you interact with a third party platform service when using our service, such as if you use a third party service to log-in to our service (e.g., facebook login or google sign-in), or if you share content from our service through a third party social media platform service, the third party service will send us information about you, such as information from your public profile, if the third party service and your account settings allow such sharing. the information we receive will depend on the policies and your account settings with the third party service. 
+  * information from our advertising partners: we receive information about you from some of our service providers who assist us with marketing or promotional services related to how you interact with our websites, applications, products, services, advertisements or communications. 
+  * information we automatically collect when you use our service: some personal data is automatically collected when you use our service, such as the following: 
+    * ip address
+    * device identifiers
+    * web browser information
+    * page view statistics
+    * browsing history
+    * usage information
+    * transaction information (e.g. transaction amount, date and time such transaction occurred)
+    * cookies and other tracking technologies (e.g. web beacons, pixel tags, sdks, etc.)
+    * location information (e.g. ip address, zip code)
+    * log data (e.g. access times, hardware and software information)
+
+###### how do we use your personal data?
+
+we process personal data to operate, improve, understand and personalize our
+service. for example, we use personal data to:
+
+  * create and manage user profiles
+  * communicate with you about the service
+  * process orders
+  * contact you about service announcements, updates or offers
+  * provide support and assistance for the service
+  * personalize website content and communications based on your preferences
+  * meet contract or legal obligations
+  * respond to user inquiries
+  * fulfill user requests
+  * comply with our legal or contractual obligations
+  * resolve disputes
+  * protect against or deter fraudulent, illegal or harmful actions
+  * enforce our terms of service
+
+we will only process your personal data if we have a lawful basis for doing
+so. lawful bases for processing include consent, contractual necessity and our
+“legitimate interests” or the legitimate interest of others, as further
+described below.
+
+  * contractual necessity: we process the following categories of personal data as a matter of “contractual necessity”, meaning that we need to process the data to perform under our terms of use with you, which enables us to provide you with the service. when we process data due to contractual necessity, failure to provide such personal data will result in your inability to use some or all portions of the service that require such data. 
+  * legitimate interest: we process the following categories of personal data when we believe it furthers the legitimate interest of us or third parties. examples of these legitimate interests include: 
+    * operation and improvement of our business, products and services
+    * marketing of our products and services
+    * provision of customer support
+    * protection from fraud or security threats
+    * compliance with legal obligations
+    * completion of corporate transactions
+  
+
+  * consent: in some cases, we process personal data based on the consent you expressly grant to us at the time we collect such data. when we process personal data based on your consent, it will be expressly indicated to you at the point and time of collection. 
+  
+
+  * other processing grounds: from time to time we may also need to process personal data to comply with a legal obligation, if it is necessary to protect the vital interests of you or other data subjects, or if it is necessary for a task carried out in the public interest. 
+
+###### how and with whom do we share your data?
+
+we share personal data with vendors, third party service providers and agents
+who work on our behalf and provide us with services related to the purposes
+described in this privacy policy or our terms of service. these parties
+include:
+
+  * payment processors
+  * fraud prevention service providers
+  * ad networks
+  * analytics service providers
+  * staff augmentation and contract personnel
+  * hosting service providers
+  * co-location service providers
+  * telecommunications service providers
+
+we also share personal data when necessary to complete a transaction initiated
+or authorized by you or provide you with a product or service you have
+requested. in addition to those set forth above, these parties also include:
+
+  * other users (where you post information publicly or as otherwise necessary to effect a transaction initiated or authorized by you through the service) 
+  * social media services (if you interact with them through your use of the service)
+  * third party business partners who you access through the service
+  * other parties authorized by you
+
+we also share personal data when we believe it is necessary to:
+
+  * comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies
+  * maintain the security of our products and services
+
+we also share information with third parties when you give us consent to do
+so.  
+  
+last, we share personal data with our affiliates or other members of our
+corporate family. furthermore, if we choose to buy or sell assets, user
+information is typically one of the transferred business assets. moreover, if
+we, or substantially all of our assets, were acquired, or if we go out of
+business or enter bankruptcy, user information would be one of the assets that
+is transferred or acquired by a third party, and we would share personal data
+with the party that is acquiring our assets. you acknowledge that such
+transfers may occur, and that any acquirer of us or our assets may continue to
+use your personal information as set forth in this policy.
+
+###### how long do we retain your personal data?
+
+we retain personal data about you for as long as you have an open account with
+us or as otherwise necessary to provide you service. in some cases we retain
+personal data for longer, if doing so is necessary to comply with our legal
+obligations, resolve disputes or collect fees owed, or is otherwise permitted
+or required by applicable law, rule or regulation. afterwards, we retain some
+information in a depersonalized or aggregated form but not in a way that would
+identify you personally.
+
+###### what security measures do we use?
+
+we seek to protect personal data using appropriate technical and
+organizational measures based on the type of personal data and applicable
+processing activity.  
+  
+personal data of children: we do not knowingly collect or solicit personal
+data from anyone under the age of 16. if you are under 16, please do not
+attempt to register for the service or send any personal data about yourself
+to us. if we learn that we have collected personal data from a child under age
+16, we will delete that information as quickly as possible. if you believe
+that a child under 16 may have provided us personal data, please contact us at
+[ifttt@gdpr-rep.com](mailto:ifttt@gdpr-rep.com).
+
+###### what rights do you have regarding your personal data?
+
+you have certain rights with respect to your personal data, including those
+set forth below. for more information about these rights, or to submit a
+request, please email [ifttt@gdpr-rep.com](mailto:ifttt@gdpr-rep.com). please
+note that in some circumstances, we may not be able to fully comply with your
+request, such as if it is frivolous or extremely impractical, if it
+jeopardizes the rights of others, or if it is not required by law, but in
+those circumstances, we will still respond to notify you of such a decision.
+in some cases, we may also need to you to provide us with additional
+information, which may include personal data, if necessary to verify your
+identity and the nature of your request.
+
+  * access: you can request more information about the personal data we hold about you and request a copy of such personal data. you can also access certain of your personal data by choosing to [export your data](https://ifttt.com/settings#control-your-data). 
+  * rectification: if you believe that any personal data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. you can also correct some of this information directly by editing your [account settings](https://ifttt.com/settings). you can correct some of this information directly by editing your [applets](https://ifttt.com/my_applets) or [platform services](https://ifttt.com/my_services). 
+  * erasure: you can [request that we erase](https://ifttt.com/settings#control-your-data) some or all of your personal data from our systems. 
+  * withdrawal of consent: if we are processing your personal data based on your consent (as indicated at the time of collection of such data), you have the right to withdraw your consent at any time. please note, however, that if you exercise this right, you may have to then provide express consent on a case-by-case basis for the use or disclosure of certain of your personal data, if such use or disclosure is necessary to enable you to utilize some or all of our service. 
+  * portability: you can [ask for a copy](https://ifttt.com/settings#control-your-data) of your personal data in a machine-readable format. you can also request that we transmit the data to another controller where technically feasible. 
+  * objection: you can contact us to let us know that you object to the further use or disclosure of your personal data for certain purposes, such as for direct marketing purposes. 
+  * restriction of processing: you can ask us to restrict further processing of your personal data. 
+  * right to file complaint: you have the right to lodge a complaint about ifttt’s practices with respect to your personal data with the supervisory authority of your country or eu member state. 
+  * transfers of personal data: the service is hosted and operated in the united states (“u.s.”) through ifttt and its service providers, and if you do not reside in the u.s., laws in the u.s. may differ from the laws where you reside. by using the service, you acknowledge that any personal data about you, regardless of whether provided by you or obtained from a third party, is being provided to ifttt in the u.s. and will be hosted on u.s. servers, and you authorize ifttt to transfer, store and process your information to and in the u.s., and possibly other countries. 
+
+###### what if you have questions regarding your personal data?
+
+if you have any questions about this section or our data practices generally,
+please contact us using the following information:  **name:** ifttt, inc.  
+**mailing address:** po box 590547, san francisco, ca 94159-0547  
+  
+**designated eu representative and contact information:**  
+dp-dock gmbh  
+ballindamm 39  
+20095 hamburg  
+germany  
+  
+**email:** [ifttt@gdpr-rep.com](mailto:ifttt@gdpr-rep.com)  
+**tel:** +49 (0) 40 99999 - 3430  
+**fax:** +49 (0) 40 99999 - 3332  
+[www.dp-dock.com](https://www.dp-dock.com)  
+**designated uk representative and contact information:**  
+dp data protection services uk ltd.  
+attn: ifttt inc.  
+16 great queen street  
+covent garden  
+london  
+wc2b 5ah  
+united kingdom  
+  
+**email:** [ifttt@gdpr-rep.com](mailto:ifttt@gdpr-rep.com)  
+[www.dp-dock.com](https://www.dp-dock.com)
+
+# terms of use
+
+as of september 8, 2020
+
+please read these terms carefully before using the services offered by ifttt
+inc. ("ifttt"). by using the website ifttt.com or other features, services,
+products, or applications offered by ifttt (collectively, the "service"), you
+(hereafter “user” or “you”) agree to be bound by these terms of use (the
+"terms").
+
+if you don’t agree with these new terms, you are free to reject them;
+unfortunately, that means you will no longer be able to use the service. if
+you use the service in any way after a change to the terms is effective, that
+means you agree to all of the changes. except for changes by us as described
+here, no other amendment or modification of these terms will be effective
+unless in writing and signed by both you and us.
+
+the individual who accepts these terms and conditions, must be of a legal age
+to form a binding contract (or if not, you’ve received your parent’s or
+guardian’s permission to use the service and gotten your parent or guardian to
+agree to these terms on your behalf).
+
+if you’re agreeing to these terms on behalf of an organization or entity, you
+represent and warrant that you are authorized to agree to these terms on that
+organization or entity’s behalf and bind them to these terms (in which case,
+the references to “you” and “your” in these terms, except for in this
+sentence, refer to that organization or entity). you hereby certify you are
+legally permitted to use the service, and take full responsibility for the
+selection, access, and use of the service.
+
+these terms are void where prohibited by law, and the right to access and use
+the service is revoked in such jurisdictions.
+
+we are constantly trying to improve our service, so these terms may need to
+change along with the service. we reserve the right to change the terms at any
+time, but if we do, we will bring it to your attention by placing a notice on
+ifttt.com website, by sending you an email, and/or by some other means.
+
+##### 1\. the service
+
+###### what are the basics of using the service?
+
+you may be required to sign up for an account, and select a password and user
+name (“ifttt user id”). as a condition to using the service or in order to
+create certain statements through the service, you may be required to supply
+ifttt with certain registration information, including a valid email address,
+registration information for mobile phones, other mobile devices, or third-
+party sites or services you access through ifttt.
+
+you promise to provide us with accurate, complete, and updated registration
+information about yourself. you may not (i) select or use as your username a
+name of another person with the intent to impersonate that person; or (ii) use
+as your username a name subject to any rights of a person other than you
+without appropriate authorization; or (iii) use as your username a name that
+is otherwise offensive, vulgar or obscene. ifttt reserves the right to refuse
+registration of, or cancel a username in its discretion. you shall not use
+another user's account or any other person's registration information for the
+service, any other mobile phones or other mobile devices, or any third party
+services you access through the service, without that person's permission.
+
+your right to use the service continues until it is terminated by either
+party. you may terminate by discontinuing use of the service. ifttt may
+terminate at any time for any reason. your use terminates automatically if (i)
+you violate any term of these terms, (ii) ifttt publicly posts a written
+notice of termination on the service, (iii) ifttt sends a written notice of
+termination to you, or (iv) ifttt ceases providing access to the service to
+you.
+
+ifttt will use reasonable efforts to ensure that the service is available
+twenty-four hours a day, seven days a week. however, there will be occasions
+when the service will be interrupted for maintenance, upgrades and emergency
+repairs. every reasonable step will be taken by ifttt to minimize such
+disruption where it is within ifttt's reasonable control. you agree that ifttt
+will not be liable in any event to you or any other party for any suspension,
+modification, discontinuance or lack of availability of the service.
+
+you shall be responsible for obtaining and maintaining any equipment or
+ancillary services needed to connect to, access or otherwise use the service,
+including, without limitation, mobile phones, modems, hardware, software, data
+plans, and long distance or local telephone service. you shall be responsible
+for ensuring that such equipment or ancillary services are compatible with the
+service.
+
+###### what are my rights in the service?
+
+the materials displayed or performed or available on or through the service,
+including, but not limited to, text, graphics, data, articles, photos, images,
+illustrations, user submissions (defined below), and so forth (all of the
+foregoing, the “content”) are protected by copyright and/or other intellectual
+property laws. you promise to abide by all copyright notices, trademark rules,
+information, and restrictions contained in any content you access through the
+service, and you won’t use, copy, reproduce, modify, translate, publish,
+broadcast, transmit, distribute, perform, upload, display, license, sell or
+otherwise exploit for any purpose any content not owned by you, (i) without
+the prior consent of the owner of that content or (ii) in a way that violates
+someone else’s (including ifttt’s) rights.
+
+you understand that ifttt owns the service. you won’t (except as permitted by
+applicable law) reverse engineer, modify, or create derivative works based on
+the service.
+
+the service may allow you to copy or download certain content; please remember
+that just because this functionality exists, doesn’t mean that all the
+restrictions above don’t apply – they do!
+
+###### what if i see something on the service that infringes my copyright?
+
+you may have heard of the digital millennium copyright act (the “dmca”), as it
+relates to online service providers, like ifttt, being asked to remove
+material that allegedly violates someone’s copyright. we respect others’
+intellectual property rights, and we reserve the right to delete or disable
+content alleged to be infringing, and to terminate the accounts of repeat
+alleged infringers; to review our complete copyright dispute policy and learn
+how to report potentially infringing content, [click
+here](https://ifttt.com/copyright_dispute). to learn more about the dmca,
+[click here](http://www.copyright.gov/legislation/dmca.pdf).
+
+###### who is responsible for what i see and do on the service?
+
+any information or content publicly posted or privately transmitted through
+the service is the sole responsibility of the person from whom such
+information or content originated, and you access all such information or
+content at your own risk. we aren’t liable for any errors or omissions in that
+information or content or for any damages or loss you might suffer in
+connection with it. we cannot control and have no duty to take any action
+regarding how you may interpret and use the information or content or what
+actions you may take as a result of having been exposed to the information or
+content, and you hereby release us from all liability for you having acquired
+or not acquired information or content through the service. we can’t guarantee
+the identity of any users with whom you interact in using the service and are
+not responsible for which users gain access to the service.
+
+you are responsible for all content you contribute, in any manner, to the
+service, and you represent and warrant you have all rights necessary to do so,
+in the manner in which you contribute it. you will keep all your registration
+information accurate and current. you are responsible for all your activity in
+connection with the service.
+
+the service may contain links or connections to third party websites or
+services that are not owned or controlled by ifttt. when you access third
+party websites or use third party services, you accept that there are risks in
+doing so, and that ifttt is not responsible for such risks. we encourage you
+to be aware when you leave the service and to read the terms and conditions
+and privacy policy of each third party website or service that you visit or
+utilize.
+
+ifttt has no control over, and assumes no responsibility for, the content,
+accuracy, privacy policies, or practices of or opinions expressed in any third
+party websites or by any third party that you interact with through the
+service. in addition, ifttt will not and cannot monitor, verify, censor or
+edit the content of any third party site or service. by using the service, you
+release and hold us harmless from any and all liability arising from your use
+of any third party website or service.
+
+your interactions with organizations and/or individuals found on or through
+the service, including payment and delivery of goods or services, and any
+other terms, conditions, warranties or representations associated with such
+dealings, are solely between you and such organizations and/or individuals.
+you should make whatever investigation you feel necessary or appropriate
+before proceeding with any online or offline transaction with any of these
+third parties. you agree that ifttt shall not be responsible or liable for any
+loss or damage of any sort incurred as the result of any such dealings.
+
+if there is a dispute between participants on this site, or between users and
+any third party, you agree that ifttt is under no obligation to become
+involved. in the event that you have a dispute with one or more other users,
+you release ifttt, its officers, employees, agents, and successors from
+claims, demands, and damages of every kind or nature, known or unknown,
+suspected or unsuspected, disclosed or undisclosed, arising out of or in any
+way related to such disputes and/or our service. if you are a california
+resident, you shall and hereby do waive california civil code section 1542,
+which says: "a general release does not extend to claims which the creditor
+does not know or suspect to exist in his or her favor at the time of executing
+the release, which, if known by him or her must have materially affected his
+or her settlement with the debtor."
+
+###### will ifttt ever change the service?
+
+we’re always trying to improve the service, so it may change over time. we may
+suspend or discontinue any part of the service, or we may introduce new
+features or impose limits on certain features or restrict access to parts or
+all of the service. we’ll try to give you notice when we make a material
+change to the service that would adversely affect you, but this isn’t always
+practical. similarly, we reserve the right to remove any content from the
+service at any time, for any reason (including, but not limited to, if someone
+alleges you contributed that content in violation of these terms), in our sole
+discretion, and without notice.
+
+##### privacy
+
+ifttt takes the privacy of its users very seriously.
+
+for the current ifttt privacy policy, please [click here](/privacy).
+
+the children’s online privacy protection act (“coppa”) requires that online
+service providers obtain parental consent before they knowingly collect
+personally identifiable information online from children who are under 13. we
+do not knowingly collect or solicit personally identifiable information from
+children under 13; if you are a child under 13, please do not attempt to
+register for the service or send any personal information about yourself to
+us. if we learn we have collected personal information from a child under 13,
+we will delete that information as quickly as possible. if you believe that a
+child under 13 may have provided us personal information, please contact us at
+[privacy@ifttt.com](mailto:privacy@ifttt.com).
+
+##### restrictions
+
+you may not use the service:  
+  
+(i) to post or transmit, or cause to be posted or transmitted, any
+communication or solicitation designed or intended to obtain password,
+account, or private information from any ifttt user;  
+  
+(ii) to violate the security of any computer network, crack passwords or
+security encryption codes, transfer or store material that is deemed
+threatening or obscene, or engage in any kind of illegal activity;  
+  
+(iii) to run maillist, listserv, any form of auto-responder, or spam through
+the service;  
+  
+(iv) in connection with or to promote any products, services, or materials
+that constitute, promote or are used primarily for the purpose of dealing in:
+spyware, adware, or other malicious programs or code, counterfeit goods, items
+subject to us embargo, hate materials or materials urging acts of terrorism or
+violence, goods made from protected animal/plant species, recalled goods, any
+hacking, surveillance, interception, or descrambling equipment, cigarettes,
+illegal drugs and paraphernalia, unlicensed sale of prescription drugs and
+medical devices, pornography, prostitution, body parts and bodily fluids,
+stolen products and items used for theft, fireworks, explosives, and hazardous
+materials, government ids, police items, unlicensed trade or dealing in stocks
+and securities, gambling items, professional services regulated by state
+licensing regimes, non-transferable items such as airline tickets or event
+tickets, non-packaged food items, weapons and accessories;  
+  
+(v) in any manner or for any purpose that violates any law or regulation, any
+right of any person, including but not limited to intellectual property
+rights, contract rights, rights of privacy, or rights of personality, or in
+any manner inconsistent with these terms or with any terms or conditions or
+obligations relating to any third party website, app, api or the like;  
+  
+(vi) in connection with life support systems, or other mission critical
+applications where human life or property may be at stake. you understand that
+the service is not designed for such purposes and that its failure in such
+cases could lead to death, personal injury, or severe property or
+environmental damage for which ifttt is not responsible; or  
+  
+(vii) to sell, lease, share, transfer, repurpose for sale or sublicense the
+service without ifttt's prior, express, written permission.
+
+##### user submissions
+
+anything you post, upload, share, store, or otherwise provide through the
+service is your “user submission.” some user submissions are viewable by other
+users. in order to display your user submissions on the service, and to allow
+other users to enjoy them (where applicable), you grant us certain rights in
+those user submissions. please note that all of the following licenses are
+subject to our [privacy policy](https://ifttt.com/privacy) to the extent they
+relate to user submissions that are also your personally-identifiable
+information.
+
+for all user submissions, you hereby grant ifttt a license to translate,
+modify (for technical purposes, for example making sure your content is
+viewable on an iphone as well as a computer) and reproduce and otherwise act
+with respect to such user submissions, in each case to enable us to operate
+the service, as described in more detail below. **this is a license only –
+your ownership in user submissions is not affected.**
+
+if you store a user submission in your own personal ifttt account, in a manner
+that is not viewable by any other user except you (a “personal user
+submission”), you grant ifttt the license above, as well as a license to
+display, perform, and distribute your personal user submission for the sole
+purpose of making that personal user submission accessible to you and
+providing the service necessary to do so.
+
+if you share a user submission only in a manner that only certain specified
+users can view (for example, a private message to one or more other users) (a
+“limited audience user submission”), then you grant ifttt the licenses above,
+as well as a license to display, perform, and distribute your limited audience
+user submission for the sole purpose of making that limited audience user
+submission accessible to such other specified users, and providing the service
+necessary to do so. also, you grant such other specified users a license to
+access that limited audience user submission, and to use and exercise all
+rights in it, as permitted by the functionality of the service.
+
+if you share a user submission publicly on the service and/or in a manner that
+more than just you or certain specified users can view, or if you provide us
+(in a direct email or otherwise) with any feedback, suggestions, improvements,
+enhancements, and/or feature requests relating to the service (each of the
+foregoing, a “public user submission”), then you grant ifttt the licenses
+above, as well as a license to display, perform, and distribute your public
+user submission for the purpose of making that public user submission
+accessible to all ifttt users and providing the service necessary to do so, as
+well as all other rights necessary to use and exercise all rights in that
+public user submission in connection with the service and/or otherwise in
+connection with ifttt’s business. also, you grant all other users of the
+service a license to access that public user submission, and to use and
+exercise all rights in it, as permitted by the functionality of the service.
+
+you agree that the licenses you grant are royalty-free, perpetual,
+sublicenseable, irrevocable, and worldwide, provided that when you delete your
+ifttt account, we will stop displaying your user submissions (other than
+public user submissions, which may remain fully available) to other users (if
+applicable), but you understand and agree that it may not be possible to
+completely delete that content from ifttt’s records, and that your user
+submissions may remain viewable elsewhere to the extent that they were copied
+or stored by other users.
+
+finally, you understand and agree that ifttt, in performing the required
+technical steps to provide the service to our users (including you), may need
+to make changes to your user submissions to conform and adapt those user
+submissions to the technical requirements of connection networks, devices,
+services, or media, and the foregoing licenses include the rights to do so.
+
+##### support
+
+ifttt may elect to provide you with support or modifications for the service
+(collectively, "support"), in its sole discretion, and may change, reduce or
+terminate such support at any time without notice to you. ifttt reserves the
+right to charge fees for support.
+
+##### fees
+
+if you subscribe to ifttt’s pro features, you (i) shall pay ifttt all
+applicable fees set forth on <https://ifttt.com/plans> (“fees”) and (ii)
+hereby authorize ifttt to charge your chosen payment method. ifttt offers no
+refund or credits. unless agreed to separately in writing, ifttt will
+automatically renew monthly subscriptions for an additional month and yearly
+subscription for an additional year at the then prevailing rates unless you
+cancel your subscription before the date of renewal. all fees are exclusive of
+taxes or duties imposed by governing authorities. you are responsible for all
+taxes or duties associated with your use of the ifttt.
+
+##### free trial period
+
+notwithstanding anything contained herein, any service provided during the
+free trial period is provided “as-is” without any representations, warranties
+or indemnities. upon the expiration of the free trial period, you will only be
+able to access and use those features of the service the use of which does not
+require the payment of a fee, unless you subsequently upgrade to a paid
+version of the service. all fees are exclusive of all taxes, levies, or duties
+imposed by taxing authorities, and you are solely responsible for payment of
+all such taxes, levies, or duties, excluding only united states (federal or
+state) taxes.
+
+##### warranty disclaimer
+
+users of the service may gain access to third party sites on the internet
+through hypertext or other computer links on the service. third party sites
+are not within the supervision or control of ifttt. ifttt does not make any
+representation or warranty whatsoever about any third party site that may be
+linked to or from or service.
+
+ifttt has no special relationship with or fiduciary duty to you. you
+acknowledge that ifttt has no control over, and no duty to take any action
+regarding: which users gain access to the service; what content you access via
+the service; what effects the content may have on you; how you may interpret
+or use the content; or what actions you may take as a result of having been
+exposed to the content. ifttt makes no representations concerning any content
+contained in or accessed through the service, and ifttt will not be
+responsible or liable for the accuracy, copyright compliance, legality or
+decency of material contained in or accessed through the service.
+
+ifttt does not represent or warrant that the service is free of inaccuracies,
+errors, bugs, or interruptions, or are reliable, accurate, complete, or
+otherwise valid.
+
+the service is provided "as is" with no warranty, express or implied, of any
+kind and ifttt expressly disclaims any and all warranties and conditions,
+including, but not limited to, any implied warranty of merchantability,
+fitness for a particular purpose, availability, security, title and/or non-
+infringement. your use of the site and the service is at your own discretion
+and risk, and you will be solely responsible for any damage that results from
+your use including, but not limited to, any damage to your computer system,
+mobile phone or loss of data.
+
+##### limitation of liability
+
+ifttt shall not, under any circumstances, be liable to you for any indirect,
+incidental, consequential, special or exemplary damages arising out of or in
+connection with use of the site or the service, whether such damages are based
+on breach of contract, breach of warranty, tort (including negligence, product
+liability or otherwise), or any other pecuniary loss, whether or not ifttt has
+been advised of the possibility of such damages. under no circumstances shall
+ifttt be liable to you for any amount. some jurisdictions do not allow the
+exclusion of certain warranties or the limitation or exclusion of liability
+for incidental or consequential damages. accordingly, some of the above
+limitations may not apply to you.
+
+##### indemnity
+
+to the maximum extent permitted by applicable law, you agree to hold harmless
+and indemnify ifttt, and its employees, officers, agents, or other partners
+from and against any third party claim arising from or in any way related to
+your access or use of the service (including anything you develop using
+ifttt), including any liability or expense arising from all claims, losses,
+damages (actual and/or consequential), suits, judgments, litigation costs and
+attorneys' fees, of every kind and nature. ifttt shall use good faith efforts
+to provide you with written notice of such claim, suit or action.
+
+##### general terms
+
+for all purposes of the terms, you and ifttt shall be and act independently
+and not as partner, joint venturer, agent, employee or employer of the other.
+you shall not have any authority to assume or create any obligation for or on
+behalf of ifttt, express or implied, and you shall not attempt to bind ifttt
+to any contract.
+
+if any provision of the terms is found by a court of competent jurisdiction to
+be invalid, the parties nevertheless agree that the court should endeavor to
+give effect to the parties' intentions as reflected in the provision and the
+other provisions of such documents remain in full force and effect.
+
+you will be responsible for paying, withholding, filing, and reporting all
+taxes, duties, and other governmental assessments associated with your
+activity in connection with the service, provided that the ifttt may, in its
+sole discretion, do any of the foregoing on your behalf or for itself as it
+sees fit.
+
+you may not assign, delegate or transfer these terms or your rights or
+obligations hereunder, or your service account, in any way (by operation of
+law or otherwise) without ifttt’s prior written consent. we may transfer,
+assign, or delegate these terms and our rights and obligations without
+consent.
+
+these terms are governed by and will be construed under the laws of the state
+of california, without regard to the conflicts of laws’ provisions thereof.
+any dispute arising from or relating to the subject matter of these terms
+shall be finally settled in san francisco county, california, in english, in
+accordance with the streamlined arbitration rules and procedures of judicial
+arbitration and mediation service, inc. ("jams") then in effect, by one
+commercial arbitrator with substantial experience in resolving intellectual
+property and commercial contract disputes, who shall be selected from the
+appropriate list of jams arbitrators in accordance with such rules. judgment
+upon the award rendered by such arbitrator may be entered in any court of
+competent jurisdiction. notwithstanding the foregoing obligation to arbitrate
+disputes, each party shall have the right to pursue injunctive or other
+equitable relief at any time, from any court of competent jurisdiction. for
+all purposes of this agreement, the parties consent to exclusive jurisdiction
+and venue in the state or federal courts located in, respectively, san
+francisco county, california, or the northern district of california. **any
+arbitration under these terms (including any against officers, directors, and
+employees of ifttt) will take place on an individual basis: class arbitrations
+and class actions are not permitted. you understand and agree that by entering
+into these terms, you and ifttt are each waiving the right to trial by jury or
+to participate in a class action.**
+
+ifttt's failure to exercise or enforce any right or provision of these terms
+shall not constitute a waiver of such right or provision. any notice to ifttt
+that is required or permitted by these terms shall be in writing and shall be
+deemed effective upon receipt, when sent by confirmed e-mail to
+legal@ifttt.com or when delivered by nationally recognized overnight courier
+or mailed by first class, registered or certified mail, postage prepaid, to
+ifttt inc., po box 590547, san francisco, ca 94159-0547, attn: legal.
+
+##### use of a mobile app downloaded through the apple app store
+
+these terms apply to your use of the service, including the iphone and ipad
+applications available via the apple, inc. (“apple”) app store, but the
+following additional terms also apply to the mobile app:  
+  
+(a) both you and ifttt acknowledge that the terms are concluded between you
+and ifttt only, and not with apple, and that apple is not responsible for the
+mobile app or the content;  
+  
+(b) the mobile app is licensed to you on a limited, non-exclusive, non-
+transferrable, non-sublicensable basis, solely to be used in connection with
+the service for your private, personal, non-commercial use, subject to all the
+terms and conditions of these terms as they are applicable to the service;  
+  
+(c) you will only use the mobile app in connection with an apple device that
+you own or control;  
+  
+(d) you acknowledge and agree that apple has no obligation whatsoever to
+furnish any maintenance and support services with respect to the mobile app;  
+  
+(e) in the event of any failure of the mobile app to conform to any applicable
+warranty, including those implied by law, you may notify apple of such
+failure; upon notification, apple’s sole warranty obligation to you will be to
+refund to you the purchase price, if any, of the mobile app;  
+  
+(f) you acknowledge and agree that ifttt, and not apple, is responsible for
+addressing any claims you or any third party may have in relation to the
+mobile app;  
+  
+(g) you acknowledge and agree that, in the event of any third party claim that
+the mobile app or your possession and use of the mobile app infringes that
+third party’s intellectual property rights, ifttt, and not apple, will be
+responsible for the investigation, defense, settlement and discharge of any
+such infringement claim;  
+  
+(h) you represent and warrant that you are not located in a country subject to
+a u.s. government embargo, or that has been designated by the u.s. government
+as a “terrorist supporting” country, and that you are not listed on any u.s.
+government list of prohibited or restricted parties;  
+  
+(i) both you and ifttt acknowledge and agree that, in your use of the mobile
+app, you will comply with any applicable third party terms of agreement which
+may affect or be affected by such use; and  
+  
+(j) both you and ifttt acknowledge and agree that apple and apple’s
+subsidiaries are third party beneficiaries of these terms, and that upon your
+acceptance of these terms, apple will have the right (and will be deemed to
+have accepted the right) to enforce these terms against you as the third party
+beneficiary hereof.
+
+  * [about](https://ifttt.com/about)
+  * [help](https://help.ifttt.com)
+  * [careers](https://ifttt.com/careers)
+  * [contact us](https://ifttt.com/contact)
+  * [terms & privacy](https://ifttt.com/terms)
+
+[
+
+####  for developers
+
+## connect your product to the world's best brands
+
+grow your business with our integrations platform.
+
+learn more  work with instagram, twitter, fitbit, slack and evernote
+](/developers)
+

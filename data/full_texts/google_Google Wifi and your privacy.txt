@@ -1,0 +1,371 @@
+[](/?tab=uu)
+
+[google wifi help](/wifi)
+
+[](https://www.google.com/intl/en/about/products?tab=uh)
+
+[sign
+in](https://accounts.google.com/servicelogin?hl=en&passive=true&continue=http://support.google.com/wifi/answer/6246642%3fhl%3den&ec=gazadq)
+
+[](/?tab=uu)
+
+[google help](/)
+
+[
+
+  * help center
+](/wifi/?hl=en)[
+
+    * learn about wifi products
+](/wifi/topic/9831836?hl=en&ref_topic=6243122,6164734,)[
+
+    * get started
+](/wifi/topic/6243113?hl=en&ref_topic=6243122,6164734,)[
+
+    * features and settings
+](/wifi/topic/6243120?hl=en&ref_topic=6243122,6164734,)[
+
+    * fix a problem
+](/wifi/topic/6243127?hl=en&ref_topic=6243122,6164734,)[
+
+    * warranty, manual & returns
+](/wifi/topic/7681483?hl=en&ref_topic=6243122,6164734,)[
+
+    * your privacy
+](/wifi/topic/9840700?hl=en&ref_topic=6243122,6164734,)[
+
+  * community
+](/wifi/community?hl=en)[
+
+  * google wifi
+](//madeby.google.com/wifi)
+
+[
+
+  * privacy policy
+](//www.google.com/intl/en/privacy.html)[
+
+  * terms of service
+](https://www.google.com/accounts/tos)
+
+  * submit feedback
+
+send feedback on...
+
+this help content & information
+
+general help center experience
+
+next
+
+[help center](/wifi/?hl=en)[community](/wifi/community?hl=en)
+
+[google wifi](//madeby.google.com/wifi)
+
+  * learn about wifi products
+
+[products](/wifi/topic/9831837?hl=en&ref_topic=9831836,6243122,6164734,)[technical
+info](/wifi/topic/9832039?hl=en&ref_topic=9831836,6243122,6164734,)
+
+  * get started
+
+[google nest
+wifi](/wifi/topic/9541517?hl=en&ref_topic=6243113,6243122,6164734,)[google
+wifi](/wifi/topic/7216602?hl=en&ref_topic=6243113,6243122,6164734,)
+
+  * features and settings
+
+[features](/wifi/topic/9832142?hl=en&ref_topic=6243120,6243122,6164734,)[settings](/wifi/topic/9832046?hl=en&ref_topic=6243120,6243122,6164734,)
+
+  * fix a problem
+
+[setup
+issues](/wifi/topic/6261534?hl=en&ref_topic=6243127,6243122,6164734,)[network
+issues](/wifi/topic/9832041?hl=en&ref_topic=6243127,6243122,6164734,)[devices
+can't connect to wi-fi
+network](/wifi/topic/9831943?hl=en&ref_topic=6243127,6243122,6164734,)
+
+  * [warranty, manual & returns](/wifi/topic/7681483?hl=en&ref_topic=6243122,6164734,)
+  * [your privacy](/wifi/topic/9840700?hl=en&ref_topic=6243122,6164734,)
+
+to get the most out of google wifi, choose your help center: [u.s. help
+center](https://support.google.com/wifi/?hl=en#topic=7216602), [u.k. help
+center](https://support.google.com/wifi/?hl=en-gb#topic=7216602), [canada help
+center](https://support.google.com/wifi/?hl=en-ca#topic=7216602), [australia
+help center](https://support.google.com/wifi/?hl=en-au#topic=7216602).
+
+# google nest wifi and your privacy
+
+when you use our products, we realize you’re trusting us with your
+information. we are committed to keeping your data private and safe.
+
+if you use google nest [connected home devices and
+services](https://support.google.com/googlehome/?p=connected-devices), google
+will handle this data as described in the [google privacy
+policy](https://policies.google.com/privacy/embedded), and as explained in
+more detail in the [google nest privacy
+faqs](https://support.google.com/googlenest/?p=privacyfaqs). please also read
+google’s [commitment to
+privacy](https://store.google.com/category/google_nest_privacy?utm_source=help_center&utm_medium=google_oo&utm_campaign=gs105341)
+in the home.
+
+this article sheds additional light on your privacy choices specific to our
+google wifi and nest wifi devices and services.
+
+last modified: october 15, 2019 ([view archived
+versions](https://support.google.com/googlenest/topic/6327057))
+
+## information collected
+
+the information your google wifi device, nest wifi device, google wifi app,
+and wifi features of the google home app collect helps us deliver the best wi-
+fi experience possible. **importantly, the google wifi app, wifi features of
+the google home app, and your google wifi and nest wifi devices do not track
+the websites you visit or collect the content of any traffic on your
+network.** however, your google wifi and nest wifi devices do collect data
+such as wi-fi channel, signal strength, and device types that are relevant to
+optimize your wi-fi performance. google policies and terms of services apply
+as normal to any google services you use (like gmail or google search),
+whether you’re using them on a google wifi or nest wifi network or not.
+
+with simple controls in the google wifi app’s 'privacy' settings, you can
+manage three types of data collected -- cloud services, wifi point stats, and
+app stats. examples of the kinds of data managed by these controls are given
+below. note: these controls are available from the google wifi app only if you
+have a standalone google wifi device that has not been factory reset or paired
+with a nest wifi device.
+
+if you choose to migrate your google wifi device to the google home app, or if
+you have a nest wifi device, you can manage two types of data collected in the
+google home app -- cloud services and wifi point stats. examples of data
+managed by those controls are given below.
+
+please note that some features may not function with certain privacy settings
+turned off, and some information (such as the association of your google
+account to your google wifi or nest wifi network) is stored by google even if
+all privacy controls are turned off.
+
+cloud services |
+
+  * **broadcast information from your connected devices.** for example, if your phone announces itself as “john’s iphone,” google wifi and nest wifi detects this and shows “john’s iphone” in your list of connected devices in the applicable google wifi app or google home app.
+  * **inferred information about your connected devices.** google wifi and nest wifi look at how devices establish a connection to your network. with this, your google wifi or nest wifi network can determine when certain types of devices connect to it. if, for example, your phone doesn't broadcast a name, but google wifi and nest wifi can determine that it was manufactured by "motorola," the applicable google wifi app or google home app will display "motorola" in your list of connected devices. examples of inferred signals include manufacturer oui, order of dhcp options, and order of wi-fi options in probe and association requests. 
+
+**note:** though google wifi and nest wifi rely on mac address information to
+help with this determination, your google wifi and nest wifi device do not
+store mac addresses in the cloud. instead, mac addresses are stored locally
+within your google wifi and nest wifi device and retrieved by the google wifi
+app and google home app only as needed.
+
+  * **network status.** this indicates if a device is currently connected to your network, its assigned ip address, and its signal strength.
+  * **data usage.**  historical data consumption. this allows you to see which devices are consuming network resources.
+  * **network settings.** these are encrypted and stored securely in the cloud. the exception is your wi-fi password, which is only stored in your google wifi and nest wifi device. storing these settings in the cloud allows you to access them from anywhere whether your google wifi or nest wifi network is online or not.
+  * **automatic channel selection.** google wifi and nest wifi gather information about your wireless environment. your google wifi and nest wifi devices scan for other routers in the area, collect their signal strength, wi-fi channel usage, and the set of 802.11 standards supported. the google wifi and nest wifi devices do not collect the content of any communications.  
+this data helps google wifi and nest wifi improve wi-fi performance for its
+users and their neighbors by reducing interference (due to channel
+congestion). the data allows google wifi and nest wifi to determine if there
+are better channels to use and automatically change those channels.
+
+**note:** per google’s location service access point opt-out option, data from
+network names ending in “_nomap” will not be collected.
+
+  
+---|---  
+**wifi point stats** |
+
+  * **anonymous usage data.** this helps us improve all google wifi and nest wifi products. examples of the types of data we collect include aggregated counts of wan type usage (dhcp, static ip, pppoe) and mean download time for update payloads.
+  * **crash reports.** these let us know when google wifi and nest wifi’s software stops working properly, so we can prevent it from happening in the future. reports can include information like stack traces, types of crashes, and which software version you’re running.
+  * **wifi point performance information.** this includes how long it takes to boot up, cpu utilization, and memory utilization.
+
+  
+**app stats  
+(google wifi app only)** |
+
+  * **anonymous google wifi app usage.** for example, how often each feature is used or each screen is viewed. this helps us improve the google wifi app experience. learn more about google analytics [data safeguarding](http://www.google.com/analytics/learn/privacy.html?hl=en).
+  * **google wifi app crash reports.** this includes information like how often your app crashes and what caused the crash. this is also stored in google analytics and helps us improve the google wifi app experience.
+
+  
+
+
+want to opt out of any of the above categories?
+
+**your nest wifi and your google assistant**
+
+the nest wifi point has the google assistant built in. learn more about data
+collected by devices that work with assistant and the controls available to
+you:
+
+  * [data security and privacy on nest and home devices with the google assistant](https://support.google.com/chromecast/answer/7072285)
+  * [guests & your google connected home device](https://support.google.com/googlenest/answer/7177221)
+  * [chromecast / google nest and your privacy ](https://support.google.com/chromecast/answer/9001232) 
+  * [faqs on privacy: google nest](https://support.google.com/googlenest/answer/9415830?p=privacyfaqs&visit_id=637040071671479043-4490727&rd=1)
+  * [assistant and your privacy](https://assistant.google.com/privacy)
+
+​ **sending feedback**
+
+you can choose to send feedback to us if you use the google wifi app. the
+information you share with google when you send feedback or a diagnostic
+report via the google wifi app includes:
+
+  * **google wifi device  logs. **these include messages from os and kernel level processes. the logs are sanitized before being sent to google to remove or redact personal information like mac addresses, email addresses, urls, and unique identifiers.
+  * note: when using the send feedback option (versus send diagnostic report), the google wifi app logs are also included.
+
+you can also choose to send us feedback via the google home app. if you are
+using the google home app and send feedback, learn more about the information
+you share with google
+[here](https://support.google.com/googlenest/answer/7071494).
+
+## how cloud services help you
+
+the majority of the data google wifi and nest wifi collects is used for cloud
+services, a group of features that helps google wifi and nest wifi keep your
+network operating at its best. to provide a smart wireless experience, data is
+gathered from your google wifi and nest wifi devices, the google wifi app, and
+wifi features of the google home app. this allows us to give you real-time
+information about your network and enables cloud services-dependent features
+like the following:
+
+  * **network checks:** test the download and upload speeds of your internet connection to provide insights and make sure everything is working properly.
+  * **more insight cards:** see updates on your network performance for each google wifi or nest wifi device. this lets you know when your network is offline or not at peak performance and provides steps to fix it.
+  * **list of connected devices:** see how many devices have connected to your network, what those devices are, and how much data each has historically used.
+  * **automatic channel selection:** google wifi and nest wifi collect information about your surrounding spectral environment and uses that to determine which wireless channels will deliver you optimal performance. as wireless environments become increasingly crowded (with more neighbors actively using wireless networks), picking the best channel becomes increasingly important.
+  * **wave control** : this lets you turn on priority device with a simple wave of your hand over your onhub from asus. once wave control is turned on, each wave over your onhub will automatically prioritize the pre-selected device for the preset amount of time.
+  * **more robust guest wi-fi:** create a special network just for your guests. guests will be able to get online and discover streaming devices that you make available from your main wi-fi network.
+  * **tailored wi-fi via device classification:** understanding the nitty gritty details of your devices helps us optimize google wifi and nest wifi so it performs in the best way possible. wi-fi isn't one-setting fits all, so to tailor your wi-fi, we need to understand the capabilities and nuances of the devices that connect to your google wifi and nest wifi network.
+
+data is shared according to the [google privacy
+policy](http://www.google.com/policies/privacy/). for example, we may share
+anonymized data (e.g. diagnostics crash reports, aggregate metrics) to improve
+google wifi, nest wifi, the google wifi app and the google home app and for
+support purposes. we do not share your personal information from your google
+wifi or nest wifi devices, the google wifi app or wifi features of the google
+home app for the purposes of advertising without your consent. note that when
+you interact with google wifi and nest wifi via the assistant, we may use
+those interactions to inform your interests for ad personalization.
+
+## change your privacy settings
+
+## google home app
+
+to change the privacy settings for nest wifi or google wifi (available only if
+you manage your google wifi device on the google home app):
+
+  1. open the google home app ![google home app](//lh3.googleusercontent.com/5e_3azgtk82bkui25omfbz4yibai69zjsugsiehwvua1xkoobox7pv6frrgak0fwaa=w18).
+  2. select **wi-fi  **![](//lh3.googleusercontent.com/w7jzn0qxzllk2qup_a7yojjcom1ufyy8fb61dhnqfy0fdheljw1my03hjoshjq3qdqit=h36).
+  3. select **settings** ![](//lh3.googleusercontent.com/3uhhfg9aro7pb7u1yclvt0z8vqe7b1g3k_nminrobmfjapijhajcrej3uor31w4rpsw=h36).
+  4. choose **privacy settings**.
+  5. toggle the desired options on or off.
+
+## google wifi app
+
+  1. open the google wifi app.
+  2. tap the ![](//lh3.googleusercontent.com/ikqearctahizy_yffml8qs5m0k5rarioeeziyyasq4a4h8or8fbf34rpk2_ie_xxxzo=h36) tab, then **network & general.**
+  3. tap **privacy**.
+  4. toggle the desired options on or off, then tap **save**.
+
+## data retention
+
+if you are the wi-fi network owner and you [factory reset your google wifi or
+nest wifi device](https://support.google.com/wifi/answer/6246619):
+
+  * it will clear settings and data from the device. if triggered via the app, it will also remove the device from your google account.
+  * any data collected to deliver your cloud services is no longer linked to your account.
+  * all google wifi and nest wifi device, google wifi app and wifi features of the google home app data related to your google account will be deleted in accordance with [google's privacy policy](http://www.google.com/policies/privacy/)
+
+when your google wifi is managed through the _google wifi app_ : if you are
+the wi-fi network owner and you [delete your google
+account](https://support.google.com/accounts/answer/32046), the following will
+occur:
+
+  * your google wifi device will factory reset. if it is not currently online, it will factory reset the next time it goes online.
+  * all google wifi device and google wifi app data related to your google account will be deleted in accordance with [google's privacy policy](https://policies.google.com/privacy).
+
+when your google wifi or nest wifi is managed through the google home app: if
+you are a member of a home that includes the google wifi or nest wifi device
+and you [delete your google
+account](https://support.google.com/accounts/answer/32046), learn more about
+what happens below:
+
+  * [how google retains data we collect](https://policies.google.com/technologies/retention)
+  * **google home search history and voice recordings** : see data deletion at data security & privacy on google home
+  * **google assistant activity** : see delete your google assistant activity
+
+## dns settings
+
+while google wifi and nest wifi don’t track the websites you visit, your dns
+provider may be able to associate your web traffic with your public ip
+address. google wifi and nest wifi set your default dns provider to google
+public dns. (this can be changed in the [advanced networking
+settings](https://support.google.com/onhub/answer/6274141) of the google wifi
+app or google home app as applicable.) google does not associate google public
+dns information with your google account. learn more about google public dns
+and its [privacy practices](https://developers.google.com/speed/public-
+dns/privacy).
+
+## updates and changes
+
+we are constantly working on new features and controls that help you get more
+out of google wifi and nest wifi. it’s possible that, in order to implement
+these new features, we may need to change the way it collects, stores, and
+uses data.
+
+for these types of features, our intent is to explain how they collect, store,
+or use data in a way that is different from what we describe here.
+
+if changes are made to this article (which should be rare), a revision history
+will be available on this page to let you know what has changed and why.
+
+[see archive](https://support.google.com/googlenest/topic/6327057)
+
+was this helpful?
+
+how can we improve it?
+
+yesno
+
+submit
+
+## need more help?
+
+### sign in for additional support options to quickly solve your issue
+
+[sign
+in](//accounts.google.com/servicelogin?continue=https://support.google.com/wifi/answer/6246642)
+
+true
+
+#### [help center](/wifi/?hl=en#topic=9840700)
+
+  * google nest wifi and your privacy
+
+  * ©2021 google 
+  * [privacy policy](//www.google.com/intl/en/privacy.html)
+  * [terms of service](https://www.google.com/accounts/tos)
+
+danskdeutschenglish (australia)english (canada)english (singapore)english
+(united kingdom)españolfilipinofrançaisfrançais
+(canada)italianonederlandsnorskportuguêssuomisvenska中文（香港）日本語 english
+
+enable dark mode
+
+send feedback on...
+
+this help content & information general help center experience
+
+search
+
+clear search
+
+close search
+
+google apps
+
+main menu
+
+search help center
+
+true
+
+98632
+
+false
+

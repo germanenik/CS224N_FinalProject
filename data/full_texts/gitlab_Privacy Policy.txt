@@ -1,0 +1,555 @@
+[ ](/)
+
+[ get free trial ](/free-trial/)
+
+  * [product](/stages-devops-lifecycle/)
+
+[![gitlab cogs icon svg](/images/nav/cogs-color.svg)
+
+gitlab professional services
+
+accelerate your software lifecycle with help from gitlab experts
+
+](/services/)
+
+popular gitlab use cases
+
+[enterprise](/enterprise/) [small business](/small-business/) [continuous
+integration (ci/cd)](/stages-devops-lifecycle/continuous-integration/) [source
+code management (scm)](/stages-devops-lifecycle/source-code-management/) [out-
+of-the-box pipelines (auto devops)](/stages-devops-lifecycle/auto-devops/)
+[security (devsecops)](/solutions/dev-sec-ops/) [agile
+development](/solutions/agile-delivery/) [value stream
+management](/solutions/value-stream-management/) [gitops](/solutions/gitops/)
+
+  * [pricing](/pricing/)
+  * [resources](/resources/)
+
+[all-remote](/company/culture/all-remote/) [community](/community/) [get
+started](/get-started/) [upcoming events](/events/) [is gitlab any good?](/is-
+it-any-good/) [customer case studies](/customers/) [2020 developer
+survey](/developer-survey/) [topics](/topics/) [gitlab
+docs](https://docs.gitlab.com/)
+
+  * [blog](/blog/)
+  * [partners](/partners/)
+  * [support](/support/)
+
+[contact support](/support/#contact-support) [licensing and
+subscriptions](/pricing/licensing-faq/) [caring for customers](/customer-
+care/) [support resources](/get-help/) [partners](/partners/) [channel
+partners](/resellers/)
+
+  * [install gitlab](/install/)
+  * [ explore ](https://gitlab.com/explore)
+  * [ sign in ](https://gitlab.com/users/sign_in)
+  * __
+
+[ get free trial ](/free-trial/)
+
+__
+
+![gitlab x icon svg](/images/icons/x.svg)
+
+  * [product](/stages-devops-lifecycle/)
+
+[![gitlab cogs icon svg](/images/nav/cogs-color.svg)
+
+gitlab professional services
+
+accelerate your software lifecycle with help from gitlab experts
+
+](/services/)
+
+popular gitlab use cases
+
+[enterprise](/enterprise/) [small business](/small-business/) [continuous
+integration (ci/cd)](/stages-devops-lifecycle/continuous-integration/) [source
+code management (scm)](/stages-devops-lifecycle/source-code-management/) [out-
+of-the-box pipelines (auto devops)](/stages-devops-lifecycle/auto-devops/)
+[security (devsecops)](/solutions/dev-sec-ops/) [agile
+development](/solutions/agile-delivery/) [value stream
+management](/solutions/value-stream-management/) [gitops](/solutions/gitops/)
+
+  * [pricing](/pricing/)
+  * [resources](/resources/)
+
+[all-remote](/company/culture/all-remote/) [community](/community/) [get
+started](/get-started/) [upcoming events](/events/) [is gitlab any good?](/is-
+it-any-good/) [customer case studies](/customers/) [2020 developer
+survey](/developer-survey/) [topics](/topics/) [gitlab
+docs](https://docs.gitlab.com/)
+
+  * [blog](/blog/)
+  * [partners](/partners/)
+  * [support](/support/)
+
+[contact support](/support/#contact-support) [licensing and
+subscriptions](/pricing/licensing-faq/) [caring for customers](/customer-
+care/) [support resources](/get-help/) [partners](/partners/) [channel
+partners](/resellers/)
+
+  * [install gitlab](/install/)
+  * [ explore ](https://gitlab.com/explore)
+  * [ sign in ](https://gitlab.com/users/sign_in)
+  * __
+
+[ get free trial ](/free-trial/)
+
+__ __
+
+![gitlab hero border pattern left svg](/images/home/icons-pattern-left.svg)
+![gitlab hero border pattern right svg](/images/home/icons-pattern-right.svg)
+
+#  gitlab privacy policy
+
+  1. you are here:
+  2. gitlab privacy policy
+
+_last updated: 21 january 2021_
+
+## introduction
+
+at gitlab, we take the privacy and security of your information seriously.
+this privacy policy (âprivacy policyâ) will explain how we collect, use
+and share your personal information, and how you may exercise your rights.
+this privacy policy applies to the gitlab websites (âwebsitesâ),
+gitlab.com (âsaasâ), and self-managed (âself-managedâ) products and
+services; collectively âservices.â
+
+âpersonal informationâ as used in this privacy policy is information that
+identifies or can reasonably be linked directly or indirectly to an
+identifiable person
+
+### what personal information does gitlab collect about me?
+
+#### information you provide directly
+
+we collect the personal information you provide to us, for example:
+
+_account information:_ when you register for an account with gitlab, we
+collect information that identifies you such as your name, username, email
+address and password.
+
+_profile information:_ we collect information that you voluntarily provide in
+your user profile; this may include your public avatar (which may be a photo),
+additional email addresses, company/organization name, job title, country,
+social media handles, and biography. please note this information may be
+visible to other users of the services and to the public depending on the
+privacy setting you apply.
+
+_payment information:_ if you purchase a paid subscription from gitlab, we
+will collect payment information from you that may include your name, billing
+address and credit card or bank information.
+
+_contact information:_ if you request gitlab to contact you, or sign up for
+marketing materials or events, gitlab may collect information such as name,
+address, email address, telephone number, company name, and size of company.
+
+_content you provide through the use of the services:_ when you use the saas
+service, we collect and store content that you post, send, receive and share.
+examples of content we collect and store include but are not limited to: the
+summary and description added to an issue, your repositories, commits, project
+contributions and comments. content also includes any code, files and links
+you upload to the saas service.
+
+if you are using our self-managed product, we do not host, store, transmit,
+receive or collect information about you (including your content), except in
+limited cases, where permitted by your administrator. see the section on
+âinformation about your use of the servicesâ for more details.
+
+we may also collect other content that you submit to our services. for
+example: feedback, comments and blog posts, or when you participate in any
+interactive features, surveys, contests, promotions, sweepstakes, activities
+or events.
+
+_customer support and professional services:_ if you contact gitlab customer
+support or receive professional services, we will collect information about
+you related to your account and to the requests you are making or the services
+being provided.
+
+#### information about your use of the services we collect automatically
+
+_device information and identifiers:_ when you access and use our services, we
+automatically collect information about your device, which may include: device
+type, your device operating system; browser type and version; language
+preference; ip address, cookie identifiers, hardware identifiers, and mobile
+ids.
+
+_license information:_ for our self-managed products we may automatically
+collect information about the number of active users, historical user count,
+licensee name, email address, ip address and similar information.
+
+_services usage data:_ gitlab may also collect information about how you use
+our saas and self-hosted products such as, activity data, feature usage, and
+product version data. this information may be aggregated or identifiable. for
+more information about the data collected, and how to set your preferences,
+please visit [services usage
+data](https://about.gitlab.com/handbook/legal/privacy/services-usage-data/)
+
+_website usage data:_ when you visit our websites, we automatically log
+information about how you interact with the sites, such as the referring site,
+data and time of visit, and the pages you have viewed or links clicked on.
+
+_cookies and similar tracking technologies:_ gitlab uses cookies and similar
+technologies to provide functionality, such as storing your settings, and to
+recognize you as you use our services. in addition, we use cookies to gather
+information to provide interest-based advertising which is tailored to you
+based on your online activity. please review our [cookie
+policy](https://about.gitlab.com/privacy/cookies/) to learn about our
+practices and the controls we provide you.
+
+_email marketing:_ when we send you emails, they may include technology such
+as a web beacon, that tells us your device type, email client, and whether you
+have received and opened an email, or clicked on any links contained in the
+email.
+
+_buttons, tools, and content from other companies:_ the services may include
+links or buttons to third party services such as facebook and twitter. we may
+collect information about your use of these features. in addition, when you
+see or interact with these buttons, tools, or content, some information from
+your browser may automatically be sent to the other company. please read that
+companyâs privacy policy for more information.
+
+#### information from third parties and partners
+
+we may also receive information about you from third parties such as vendors,
+resellers, partners, or affiliates. for example, we receive information from
+our resellers about you and your orders, or we may supplement the data we
+collect with demographic information licensed from third parties in order to
+personalize the services and our offers to you.
+
+_third party sign-in services:_ gitlab allows you to sign up for/in to our
+services using third party accounts, such as facebook or google. when you give
+permission for this to happen, gitlab will receive information about you from
+your third-party account, such as name, email address, location and
+demographic information.
+
+when you are asked to provide personal data, you may decline. and you may use
+web browser or operating system controls to prevent certain types of automatic
+data collection. but if you choose not to provide or allow information that is
+necessary for certain products or features, those products or features may not
+be available or function correctly.
+
+### how is your personal information used?
+
+gitlab uses your personal information for the following purposes:
+
+  * to create your account, identify and authenticate your access to the services and provide you with the services you have requested;
+  * to process your payment for the services you have purchased;
+  * to understand how our services are used and to improve our services;
+  * to provide personalized experiences;
+  * to conduct user research and development;
+  * to send you important information about the services;
+  * to send you information you have requested;
+  * to send you advertising, marketing content, offers, promotions, newsletters, surveys or other information;
+  * to respond to your requests for customer support;
+  * to improve the security of and troubleshoot our services, as necessary to perform the contract governing your use of our applications or to communicate with you;
+  * to detect, prevent, or otherwise address fraud and abuse to protect you, gitlab, and third parties;
+  * to enforce the legal terms that govern our services;
+  * to comply with our legal obligations;
+  * to protect the rights, safety and property of gitlab, you, or any third party; and
+  * for other purposes, for which we obtain your consent.
+
+#### legal basis for processing of your information
+
+if you are located in the european economic area (eea), united kingdom, or
+switzerland, we collect and process your personal information on the following
+legal bases set out by applicable law:
+
+_performance of a contract:_ we use your personal information to provide the
+services you have subscribed to, and to complete and administer the contract
+you have entered into with gitlab.
+
+_legitimate interests:_ we use your personal information for our legitimate
+interests, such as to provide you with relevant content, improve our products
+and services, and for administrative, security, fraud prevention and legal
+purposes. you may object to the processing of your personal information for
+these purposes at any time.
+
+_consent:_ we may use your personal information, with your consent, for
+specific purposes such as marketing, surveys, and research. you may withdraw
+your consent for the specific purpose or object to the processing of your
+personal information at any time.
+
+### who is your information shared with?
+
+we may share each of the categories of personal information we collect with
+the types of third parties described below, for the following business
+purposes:
+
+_sharing with users and the public:_ we may share your personal information
+with other users of the services and with the public if you choose to make
+your saas profile public. you have control over what information is public. to
+change your settings, go to [user settings](https://gitlab.com/-/profile) in
+your profile. you should also be aware that any information you share as part
+of a project, blog, website etc. may be publicly available and you should
+consider this carefully when interacting with the services.
+
+_sharing with managed accounts and administrators:_ if you have created a
+gitlab account with your corporate email address, we may share your personal
+information with your company if your company enters into a commercial
+relationship with gitlab. if this happens, then your use of the software and
+your account is subject to the terms and any data protection agreement between
+your company and gitlab.
+
+in addition, if you choose to become a member of a project, your username,
+email address, ip address, the date access was granted, the date access
+expires, and your access role will be shared with the group owners of that
+project.
+
+_sharing with service providers:_ we share your personal information with our
+service providers. these are companies who provide services on our behalf,
+such as hosting our services, marketing, advertising, social, analytics,
+support ticketing, credit card processing, security and other such similar
+services. these companies are subject to contractual requirements that govern
+the security and confidentiality of your information.
+
+for example, we use analytics providers, such as google analytics, to help us
+understand the operation and performance of our services. to learn about how
+google uses and shares data it collects through its services, please visit
+<https://www.google.com/policies/privacy/partners/>.
+
+_sharing with partners and resellers:_ gitlab works with third parties who
+provide sales, consulting, support and technical services for our services.
+where permitted and with your consent (if required), we may share your data
+with these partners and resellers.
+
+_sharing with affiliated companies:_ gitlab will share information collected
+with [companies owned and operated by
+us](https://about.gitlab.com/company/visiting/).
+
+_sharing for fraud and prevention abuse:_ we may share your information when
+we have a good faith belief that the disclosure is necessary to prevent fraud,
+abuse of our services, defend against attacks, and to protect the safety of
+gitlab and our users.
+
+_law enforcement:_ gitlab may disclose personal information or other
+information we collect about you to law enforcement if required in response to
+a valid subpoena, court order, search warrant, a similar government order, or
+when we believe in good faith that disclosure is necessary to comply with our
+legal obligations, to protect our property or rights, or those of third
+parties or the public at large.
+
+_merger or acquisition:_ we may share your personal information if we are
+involved in a merger, sale, or acquisition of corporate entities or business
+units. if any such change of ownership happens, we will ensure that it is
+under terms that preserve the confidentiality of your personal information,
+and we will notify you on our website or by email before any transfer of your
+personal information.
+
+### is your personal information transferred across national borders?
+
+our services are hosted in the united states and information we collect will
+be stored and processed on our servers in the united states. our employees,
+contractors, affiliated organizations and processors that process personal
+information may be located in the united states or other countries outside of
+your home country. if you reside in the european economic area, united
+kingdom, or switzerland, and we transfer information about you to a
+jurisdiction that has not been found by the european commission to have
+adequate data protections, we will use available safeguards and legal
+mechanisms to help ensure your rights and protections, including using
+standard contractual clauses or obtaining your consent.
+
+### security
+
+we work hard to protect your personal information. we employ administrative,
+technical, and physical security controls where appropriate, to protect your
+information. for more information on our security practices please see:
+[technical and organizational security measures for
+gitlab.com](https://about.gitlab.com/handbook/engineering/security/security-
+assurance/technical-and-organizational-measures.html).
+
+### data retention
+
+gitlab will retain your information for as long as your account is active or
+as needed to perform our contractual obligations, provide you the services,
+comply with legal obligations, resolve disputes, preserve legal rights, or
+enforce our agreements.
+
+we may delete inactive accounts and associated projects and repositories after
+a period of twelve (12) months.
+
+## rights and choices
+
+you have the right to access, correct, restrict or delete your personal
+information, and to port your personal information to another company. while
+these rights may vary by jurisdiction, gitlab provides you with the same
+rights and choices, no matter where you live.
+
+you may exercise your choices and rights as follows:
+
+_to opt out of email marketing:_ you may opt-out of email marketing by
+clicking the âunsubscribeâ link located at the bottom of any email you
+receive or by visiting our [preference
+center](https://about.gitlab.com/company/preference-center/) and
+unsubscribing. you may continue to receive transactional email messages about
+your account and the service after you have unsubscribed.
+
+_to opt-out of interest-based advertising:_ if you wish to opt-out of
+interest-based advertising, please visit the cookie policy to see your
+options.
+
+_request a copy of your information:_ you may [request a copy of the personal
+information](/handbook/gdpr/) that gitlab has about you.
+
+_update your information:_ if you already have an account, you may access,
+update, or alter your user profile information by logging into your account
+and updating profile settings.
+
+_to delete your account:_ you may delete your account by logging into your
+account and going to the âdelete my accountâ option in your profile
+settings.
+
+please note that due to the open source nature of our services, we may retain
+limited personal information indefinitely in order to provide a transactional
+history. for example, if you provide your information in connection with a
+blog post or comment, we may display that information even if you have deleted
+your account as we do not automatically delete community posts. also, if you
+contribute to a public project (not owned by gitlab), and you provide your
+personal information in connection with that contribution, your personal
+information will be embedded and publicly displayed with your contribution,
+and we will not be able to delete or erase it because doing so would break the
+project.
+
+if you contribute to a gitlab project by commenting in, or creating an issue
+or merge request and you provide your personal information in connection with
+that contribution, your personal information associated with your contribution
+will be deleted and attributed to a ghost user. however, please note that if
+the content of the contribution contains personal information, this
+information would remain and you will need to submit a specific request to
+have this information deleted.
+
+_to port your projects:_ you may port your projects by either using the
+[export
+functionality](https://docs.gitlab.com/12.10/ee/user/project/settings/import_export.html)
+provided within the saas product which will also include all metadata, or by
+cloning your repositories. to port your profile information, you may use the
+[api](https://docs.gitlab.com/ee/api/users.html#for-user).
+
+### california privacy rights
+
+under the california consumer privacy act (âccpaâ) you are entitled to
+certain rights such as access to your specific personal information, details
+about our processing of your personal information, and the right to delete
+your information. you may exercise all of these rights as described in the
+âyour rights and choicesâ section. gitlab does not sell your personal
+information, as defined under ccpa, and has not done so for the past 12
+months.
+
+you may designate, in writing or through a power of attorney, an authorized
+agent to make requests on your behalf to exercise your rights under the ccpa.
+before accepting such a request from an agent, we will require the agent to
+provide proof you have authorized it to act on your behalf, and we may need
+you to verify your identity directly with us. to provide or delete specific
+pieces of personal information we will need to verify your identity to the
+degree of certainty required by law. we will verify your request by using one
+of the methods set forth [here](https://about.gitlab.com/handbook/gdpr/).
+
+### information gitlab does not collect
+
+gitlab does not intentionally collect sensitive personal information, such as
+social security numbers, genetic data, health information, or religious
+information. although gitlab does not request or intentionally collect any
+sensitive personal information, we realize that users might store this kind of
+information in a gitlab repository. if you are a child under the age of 13,
+you may not have an account. gitlab does not knowingly collect information
+from, or direct any of our services to, children under 13. if we learn or have
+reason to suspect that a user is under the age of 13, we will close the
+childâs account.
+
+### policy changes
+
+gitlab may change its privacy policy from time to time. when we do, we will
+update the date at the top of this policy. if we decide to make a significant
+change to our privacy policy, we will post a notice of the update on the
+homepage of our website. we may also provide notification via email of any
+material changes to our privacy policy.
+
+### contact us
+
+your information is controlled by gitlab b.v. and gitlab inc. if you have
+questions or concerns about the way we are handling your information, please
+email us with the subject line "privacy concern" at `dpo@gitlab.com`.
+
+  * [__ twitter ](https://twitter.com/gitlab)
+  * [__ facebook ](https://www.facebook.com/gitlab)
+  * [__ youtube ](https://www.youtube.com/channel/ucnmgq8qhmanvisi3xjrihhg)
+  * [__ linkedin ](https://www.linkedin.com/company/gitlab-com)
+
+### why gitlab?
+
+  * [product](/stages-devops-lifecycle/)
+  * [solutions](/solutions/)
+  * [services](/services/)
+  * [devops lifecycle](/stages-devops-lifecycle/)
+  * [devops tools](/devops-tools/)
+  * [is it any good?](/is-it-any-good/)
+  * [releases](/releases/)
+  * [pricing](/pricing/)
+  * [get started](/get-started/)
+
+### resources
+
+  * [all resources](/resources/)
+  * [all-remote](/company/culture/all-remote/)
+  * [blog](/blog/)
+  * [newsletter](/company/contact/)
+  * [events](/events/)
+  * [webcasts](/webcast/)
+  * [topics](/topics/)
+  * [training](/training/)
+  * [docs](https://docs.gitlab.com/)
+  * [install](/install/)
+
+### community
+
+  * [customers](/customers/)
+  * [contribute](/community/contribute/)
+  * [community programs](/community/)
+  * [direction](/direction/)
+  * [technology partners](/partners/)
+  * [channel partners](/resellers/)
+  * [open source partners](/solutions/open-source/partners/)
+  * [gitlab for open source](/solutions/open-source/)
+  * [gitlab for education](/solutions/education/)
+  * [gitlab for startups](/solutions/startups/)
+  * [shop](https://shop.gitlab.com)
+  * [community forum](https://forum.gitlab.com/)
+
+### support
+
+  * [get help](/get-help/)
+  * [contact sales](/sales/)
+  * [contact support](/support/#contact-support)
+  * [support options](/support/)
+  * [status](https://status.gitlab.com/)
+  * [customers portal](https://customers.gitlab.com/)
+
+### company
+
+  * [about](/company/)
+  * [what is gitlab?](/what-is-gitlab/)
+  * [jobs](/jobs/)
+  * [culture](/company/culture/)
+  * [team](/company/team/)
+  * [press](/press/)
+  * [analysts](/analysts/)
+  * [handbook](/handbook/)
+  * [security](/security/)
+  * [contact](/company/contact/)
+  * [terms](/terms/)
+  * [privacy](/privacy/)
+  * [trademark](/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#trademark)
+
+git is a trademark of software freedom conservancy and our use of 'gitlab' is
+under license
+
+view [page source](https://gitlab.com/gitlab-com/www-gitlab-
+com/blob/master/sites/marketing/source/privacy/index.html.md) -- edit in [web
+ide](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-
+com/edit/master/-/sites/marketing/source/privacy/index.html.md) -- please
+[contribute](https://gitlab.com/gitlab-com/www-gitlab-
+com/blob/master/contributing.md). [ ![creative commons license](/images/by-
+sa.svg) ](https://creativecommons.org/licenses/by-sa/4.0/)
+

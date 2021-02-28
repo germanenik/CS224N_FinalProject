@@ -1,0 +1,267 @@
+[ ](/)
+
+[ get free trial ](/free-trial/)
+
+  * [product](/stages-devops-lifecycle/)
+
+[![gitlab cogs icon svg](/images/nav/cogs-color.svg)
+
+gitlab professional services
+
+accelerate your software lifecycle with help from gitlab experts
+
+](/services/)
+
+popular gitlab use cases
+
+[enterprise](/enterprise/) [small business](/small-business/) [continuous
+integration (ci/cd)](/stages-devops-lifecycle/continuous-integration/) [source
+code management (scm)](/stages-devops-lifecycle/source-code-management/) [out-
+of-the-box pipelines (auto devops)](/stages-devops-lifecycle/auto-devops/)
+[security (devsecops)](/solutions/dev-sec-ops/) [agile
+development](/solutions/agile-delivery/) [value stream
+management](/solutions/value-stream-management/) [gitops](/solutions/gitops/)
+
+  * [pricing](/pricing/)
+  * [resources](/resources/)
+
+[all-remote](/company/culture/all-remote/) [community](/community/) [get
+started](/get-started/) [upcoming events](/events/) [is gitlab any good?](/is-
+it-any-good/) [customer case studies](/customers/) [2020 developer
+survey](/developer-survey/) [topics](/topics/) [gitlab
+docs](https://docs.gitlab.com/)
+
+  * [blog](/blog/)
+  * [partners](/partners/)
+  * [support](/support/)
+
+[contact support](/support/#contact-support) [licensing and
+subscriptions](/pricing/licensing-faq/) [caring for customers](/customer-
+care/) [support resources](/get-help/) [partners](/partners/) [channel
+partners](/resellers/)
+
+  * [install gitlab](/install/)
+  * [ explore ](https://gitlab.com/explore)
+  * [ sign in ](https://gitlab.com/users/sign_in)
+  * __
+
+[ get free trial ](/free-trial/)
+
+__
+
+![gitlab x icon svg](/images/icons/x.svg)
+
+  * [product](/stages-devops-lifecycle/)
+
+[![gitlab cogs icon svg](/images/nav/cogs-color.svg)
+
+gitlab professional services
+
+accelerate your software lifecycle with help from gitlab experts
+
+](/services/)
+
+popular gitlab use cases
+
+[enterprise](/enterprise/) [small business](/small-business/) [continuous
+integration (ci/cd)](/stages-devops-lifecycle/continuous-integration/) [source
+code management (scm)](/stages-devops-lifecycle/source-code-management/) [out-
+of-the-box pipelines (auto devops)](/stages-devops-lifecycle/auto-devops/)
+[security (devsecops)](/solutions/dev-sec-ops/) [agile
+development](/solutions/agile-delivery/) [value stream
+management](/solutions/value-stream-management/) [gitops](/solutions/gitops/)
+
+  * [pricing](/pricing/)
+  * [resources](/resources/)
+
+[all-remote](/company/culture/all-remote/) [community](/community/) [get
+started](/get-started/) [upcoming events](/events/) [is gitlab any good?](/is-
+it-any-good/) [customer case studies](/customers/) [2020 developer
+survey](/developer-survey/) [topics](/topics/) [gitlab
+docs](https://docs.gitlab.com/)
+
+  * [blog](/blog/)
+  * [partners](/partners/)
+  * [support](/support/)
+
+[contact support](/support/#contact-support) [licensing and
+subscriptions](/pricing/licensing-faq/) [caring for customers](/customer-
+care/) [support resources](/get-help/) [partners](/partners/) [channel
+partners](/resellers/)
+
+  * [install gitlab](/install/)
+  * [ explore ](https://gitlab.com/explore)
+  * [ sign in ](https://gitlab.com/users/sign_in)
+  * __
+
+[ get free trial ](/free-trial/)
+
+__ __
+
+# gitlab trust center
+
+**at gitlab, we're committed to information security.** it's our mission to be
+the most transparent security organization in the world, while leading the
+industry in security and privacy best practices, regulatory compliance, and
+results.
+
+for the most current information on our security and compliance posture, see
+our [customer assurance
+package](https://about.gitlab.com/handbook/engineering/security/security-
+assurance/risk-field-security/customer-assurance-package.html). you can also
+subscribe to our [security release rss
+feed](https://about.gitlab.com/security-releases.xml) for regular updates.
+
+* * *
+
+## compliance at gitlab
+
+[we take compliance
+seriously](https://about.gitlab.com/handbook/engineering/security/security-
+assurance/security-compliance/sec-controls.html), because we know how much
+security and accessibility matters to our customers and stakeholders.
+
+### soc2 certification
+
+![](/images/risk-and-field-security/soc_noncpa.jpg)
+
+gitlab saas maintains [soc 2 type 2 and soc 3 type
+2](https://about.gitlab.com/handbook/engineering/security/security-
+assurance/security-compliance/certifications.html) reports for the security
+criteria
+
+### csa star
+
+![](/images/risk-and-field-security/csa-blue.jpg)
+
+[csa star](https://cloudsecurityalliance.org/star/registry/gitlab/) submitted
+april 14, 2020 documents the security and privacy controls of our saas
+offering
+
+### vpat compliance
+
+![](/images/risk-and-field-security/vpat.jpg)
+
+our [accessibility conformance
+report](https://design.gitlab.com/accessibility/vpat) shows our commitment to
+maintaining a product where everyone can contribute
+
+### gdpr compliance
+
+![](/images/risk-and-field-security/gdpr.jpg)
+
+gitlab is compliant with [gdpr requirements](/privacy/privacy-compliance/)
+
+### bitsight security rating
+
+![](/images/risk-and-field-security/bitsight_logo_tagline.png)
+
+gitlab maintains an advanced [bitsight
+security](https://about.gitlab.com/handbook/engineering/security/security-
+assurance/risk-field-security/customer-assurance-package.html#bitsight) rating
+
+#### security
+
+  * [frequently asked questions (faqs)](/security/faq/)
+  * [our security practices](https://about.gitlab.com/handbook/security/)
+  * [best practices for securing your gitlab instance](https://about.gitlab.com/blog/2020/05/20/gitlab-instance-security-best-practices/)
+  * [security blog](https://about.gitlab.com/blog/categories/security/)
+  * [security department overview](https://about.gitlab.com/handbook/engineering/security/)
+
+#### privacy
+
+  * [frequently asked questions (faqs)](/privacy/2021-update-faq/)
+  * [privacy policy](/privacy/)
+  * [personal data requests](https://about.gitlab.com/handbook/gdpr/)
+  * [responsible disclosure policy](/security/disclosure/)
+  * [gitlab privacy processes](https://about.gitlab.com/handbook/legal/privacy/)
+
+[contact our security team](mailto:%20security@gitlab.com)
+
+  * [__ twitter ](https://twitter.com/gitlab)
+  * [__ facebook ](https://www.facebook.com/gitlab)
+  * [__ youtube ](https://www.youtube.com/channel/ucnmgq8qhmanvisi3xjrihhg)
+  * [__ linkedin ](https://www.linkedin.com/company/gitlab-com)
+
+### why gitlab?
+
+  * [product](/stages-devops-lifecycle/)
+  * [solutions](/solutions/)
+  * [services](/services/)
+  * [devops lifecycle](/stages-devops-lifecycle/)
+  * [devops tools](/devops-tools/)
+  * [is it any good?](/is-it-any-good/)
+  * [releases](/releases/)
+  * [pricing](/pricing/)
+  * [get started](/get-started/)
+
+### resources
+
+  * [all resources](/resources/)
+  * [all-remote](/company/culture/all-remote/)
+  * [blog](/blog/)
+  * [newsletter](/company/contact/)
+  * [events](/events/)
+  * [webcasts](/webcast/)
+  * [topics](/topics/)
+  * [training](/training/)
+  * [docs](https://docs.gitlab.com/)
+  * [install](/install/)
+
+### community
+
+  * [customers](/customers/)
+  * [contribute](/community/contribute/)
+  * [community programs](/community/)
+  * [direction](/direction/)
+  * [technology partners](/partners/)
+  * [channel partners](/resellers/)
+  * [open source partners](/solutions/open-source/partners/)
+  * [gitlab for open source](/solutions/open-source/)
+  * [gitlab for education](/solutions/education/)
+  * [gitlab for startups](/solutions/startups/)
+  * [shop](https://shop.gitlab.com)
+  * [community forum](https://forum.gitlab.com/)
+
+### support
+
+  * [get help](/get-help/)
+  * [contact sales](/sales/)
+  * [contact support](/support/#contact-support)
+  * [support options](/support/)
+  * [status](https://status.gitlab.com/)
+  * [customers portal](https://customers.gitlab.com/)
+
+### company
+
+  * [about](/company/)
+  * [what is gitlab?](/what-is-gitlab/)
+  * [jobs](/jobs/)
+  * [culture](/company/culture/)
+  * [team](/company/team/)
+  * [press](/press/)
+  * [analysts](/analysts/)
+  * [handbook](/handbook/)
+  * [security](/security/)
+  * [contact](/company/contact/)
+  * [terms](/terms/)
+  * [privacy](/privacy/)
+  * [trademark](/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#trademark)
+
+git is a trademark of software freedom conservancy and our use of 'gitlab' is
+under license
+
+view [page source](https://gitlab.com/gitlab-com/www-gitlab-
+com/blob/master/sites/marketing/source/security/index.html.haml) -- edit in
+[web ide](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-
+com/edit/master/-/sites/marketing/source/security/index.html.haml) -- please
+[contribute](https://gitlab.com/gitlab-com/www-gitlab-
+com/blob/master/contributing.md). [ ![creative commons license](/images/by-
+sa.svg) ](https://creativecommons.org/licenses/by-sa/4.0/)
+
+try gitlab ultimate risk-free for 30 days.
+
+no credit card required. have questions? [contact us.](/sales/)
+
+[get your free trial today](/free-trial/)
+

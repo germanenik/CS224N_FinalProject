@@ -1,0 +1,1388 @@
+[privacy en voorwaarden](/ "privacy en voorwaarden")
+
+[](https://www.google.nl/intl/nl/about/products)
+
+[inloggen](https://accounts.google.com/servicelogin?passive=1209600&continue=https://policies.google.com/privacy?hl%3dnl%26gl%3dnl&followup=https://policies.google.com/privacy?hl%3dnl%26gl%3dnl&hl=nl&ec=gazaoqq)
+
+  * [overzicht](?hl=nl&gl=nl)
+  * [privacybeleid](privacy?hl=nl&gl=nl)
+  * [servicevoorwaarden](terms?hl=nl&gl=nl)
+  * [technologieën](technologies?hl=nl&gl=nl)
+  * [veelgestelde vragen](faq?hl=nl&gl=nl)
+
+#
+[![google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png)](https://www.google.com/?hl=nl)
+
+# privacy en voorwaarden
+
+  * [overzicht](?hl=nl&gl=nl)
+  * [privacybeleid](privacy?hl=nl&gl=nl)
+    * [kaders voor gegevensdoorgifte](privacy/frameworks?hl=nl&gl=nl)
+    * [belangrijke termen](privacy/key-terms?hl=nl&gl=nl)
+    * [partners](privacy/google-partners?hl=nl&gl=nl)
+    * [updates](privacy/archive?hl=nl&gl=nl)
+  * [servicevoorwaarden](terms?hl=nl&gl=nl)
+  * [technologieën](technologies?hl=nl&gl=nl)
+  * [veelgestelde vragen](faq?hl=nl&gl=nl)
+
+[privacy en voorwaarden](/ "privacy en voorwaarden")
+
+#
+[![google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png)](https://www.google.com/?hl=nl)
+
+## [privacy en voorwaarden](?hl=nl&gl=nl)
+
+  * [overzicht](?hl=nl&gl=nl)
+  * [privacybeleid](privacy?hl=nl&gl=nl)
+  * [servicevoorwaarden](terms?hl=nl&gl=nl)
+  * [technologieën](technologies?hl=nl&gl=nl)
+  * [veelgestelde vragen](faq?hl=nl&gl=nl)
+  * [google-account](https://myaccount.google.com/?hl=nl)
+
+  * privacybeleid
+    * [inleiding](privacy?hl=nl&gl=nl#intro)
+    * [gegevens die google verzamelt](privacy?hl=nl&gl=nl#infocollect)
+    * [waarom google gegevens verzamelt](privacy?hl=nl&gl=nl#whycollect)
+    * [uw privacyopties](privacy?hl=nl&gl=nl#infochoices)
+    * [uw gegevens delen](privacy?hl=nl&gl=nl#infosharing)
+    * [uw gegevens veilig houden](privacy?hl=nl&gl=nl#infosecurity)
+    * [uw gegevens exporteren en verwijderen](privacy?hl=nl&gl=nl#infodelete)
+    * [je gegevens bewaren](privacy?hl=nl&gl=nl#inforetaining)
+    * [naleving en samenwerking met regelgevende instanties](privacy?hl=nl&gl=nl#enforcement)
+    * [over dit beleid](privacy?hl=nl&gl=nl#about)
+    * [gerelateerde privacyprocedures](privacy?hl=nl&gl=nl#products)
+  * [kaders voor gegevensdoorgifte](privacy/frameworks?hl=nl&gl=nl)
+  * [belangrijke termen](privacy/key-terms?hl=nl&gl=nl)
+  * [partners](privacy/google-partners?hl=nl&gl=nl)
+  * [updates](privacy/archive?hl=nl&gl=nl)
+
+![](https://www.gstatic.com/identity/boq/policies/privacy/privacy_illustration.svg)
+
+# privacybeleid van google
+
+wanneer u onze services gebruikt, vertrouwt u ons uw gegevens toe. we
+begrijpen dat dit een grote verantwoordelijkheid is en werken er hard aan om
+uw gegevens te beschermen en u er de controle over te geven.
+
+dit privacybeleid is bedoeld om u inzicht te geven in de gegevens die we
+verzamelen, waarom we deze gegevens verzamelen en hoe u deze gegevens kunt
+updaten, beheren, exporteren en verwijderen.
+
+![](https://www.gstatic.com/identity/boq/policies/privacy/privacy_checkup_icon.svg)
+
+privacycheck
+
+wil je je privacyinstellingen wijzigen?
+
+[voer de privacycheck
+uit](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=promo-
+in-product&utm_campaign=pp_intro&hl=nl)
+
+datum van inwerkingtreding 4 februari 2021 | [gearchiveerde
+versies](privacy/archive?hl=nl&gl=nl) | [pdf
+downloaden](https://www.gstatic.com/policies/privacy/pdf/20210204/3jla0xz1/google_privacy_policy_nl_eu.pdf)
+
+## inhoudsopgave
+
+[inleiding](privacy?hl=nl&gl=nl#intro)
+
+[gegevens die google verzamelt](privacy?hl=nl&gl=nl#infocollect)
+
+[waarom google gegevens verzamelt](privacy?hl=nl&gl=nl#whycollect)
+
+[uw privacyopties](privacy?hl=nl&gl=nl#infochoices)
+
+[uw gegevens delen](privacy?hl=nl&gl=nl#infosharing)
+
+[uw gegevens veilig houden](privacy?hl=nl&gl=nl#infosecurity)
+
+[uw gegevens exporteren en verwijderen](privacy?hl=nl&gl=nl#infodelete)
+
+[je gegevens bewaren](privacy?hl=nl&gl=nl#inforetaining)
+
+[naleving en samenwerking met regelgevende
+instanties](privacy?hl=nl&gl=nl#enforcement)
+
+[over dit beleid](privacy?hl=nl&gl=nl#about)
+
+[gerelateerde privacyprocedures](privacy?hl=nl&gl=nl#products)
+
+we bouwen een reeks services waarmee miljoenen mensen dagelijks de wereld op
+nieuwe manieren kunnen verkennen en er interactie mee kunnen hebben. onze
+services bestaan onder meer uit:
+
+  * google-applicaties, -sites en -apparaten, zoals zoeken, youtube en google home;
+  * platforms, zoals de chrome-browser en het android-besturingssysteem;
+  * producten die zijn geïntegreerd in apps en sites van derden, zoals advertenties en ingesloten google maps.
+
+u kunt onze services op vele verschillende manieren gebruiken om uw privacy te
+beheren. u kunt zich bijvoorbeeld aanmelden voor een google-account als u
+content (zoals e-mails en foto's) wilt maken en beheren of als u relevantere
+zoekresultaten wilt krijgen. u kunt veel google-services ook gebruiken als u
+bent uitgelogd of zonder überhaupt een account te maken, zoals zoeken op
+google of youtube-video's bekijken. u kunt er ook voor kiezen privé te browsen
+op het web via chrome in de incognitomodus. in al onze services kunt u uw
+privacyinstellingen aanpassen om te beheren wat we verzamelen en hoe uw
+gegevens worden gebruikt.
+
+we willen alles graag zo duidelijk mogelijk uitleggen en daarom hebben we
+voorbeelden, video's met uitleg en definities toegevoegd voor [belangrijke
+termen](privacy/key-terms?hl=nl&gl=nl#key-terms). als u vragen heeft over dit
+privacybeleid, kunt u [contact met ons
+opnemen](https://support.google.com/policies?p=privpol_privts&hl=nl).
+
+# gegevens die google verzamelt
+
+we willen dat u inzicht krijgt in de typen gegevens die we verzamelen wanneer
+u onze services gebruikt.
+
+we verzamelen gegevens om betere services te kunnen leveren aan al onze
+gebruikers, van het vaststellen van basisinformatie (zoals de taal die u
+spreekt) tot meer complexe aspecten, zoals [welke advertenties u het nuttigst
+vindt](privacy?hl=nl&gl=nl#footnote-useful-ads), [welke mensen online het
+belangrijkst voor u zijn](privacy?hl=nl&gl=nl#footnote-people-online) of welke
+youtube-video's u mogelijk leuk vindt. de gegevens die google verzamelt en de
+manier waarop die gegevens worden gebruikt, zijn afhankelijk van de manier
+waarop u onze services gebruikt en hoe u de privacyopties beheert.
+
+als u niet bent ingelogd op een google-account, slaan we de gegevens die we
+verzamelen op met [unieke id's](privacy?hl=nl&gl=nl#footnote-unique-id) die
+zijn gekoppeld aan de browser of de app die of het
+[apparaat](privacy?hl=nl&gl=nl#footnote-device) dat u gebruikt. zo kunnen we
+bijvoorbeeld tijdens verschillende browsesessies onthouden wat uw
+taalvoorkeuren zijn.
+
+wanneer u bent ingelogd, verzamelen we ook gegevens die we opslaan in uw
+google-account en die we behandelen als [persoonlijke
+gegevens](privacy?hl=nl&gl=nl#footnote-personal-info).
+
+## bestanden die u maakt of gegevens die u aan ons verstrekt
+
+![](https://www.gstatic.com/policies/privacy/d1b68e2cd423aba52d74f02573df2d2d.svg)
+
+wanneer u een google-account maakt, verstrekt u [persoonlijke
+gegevens](privacy?hl=nl&gl=nl#footnote-personal-info) aan ons, zoals uw naam
+en een wachtwoord. u kunt er ook voor kiezen een
+[telefoonnummer](privacy?hl=nl&gl=nl#footnote-phone-number) of
+[betalingsgegevens](privacy?hl=nl&gl=nl#footnote-payment-info) toe te voegen
+aan uw account. zelfs als u niet bent ingelogd op een google-account kunt u
+ervoor kiezen ons gegevens te verstrekken, zoals een e-mailadres om updates
+over onze services te ontvangen.
+
+we verzamelen ook de content die u maakt, uploadt of van anderen ontvangt
+wanneer u onze services gebruikt. dit zijn onder meer de e-mails die u
+schrijft en ontvangt, foto's en video's die u opslaat, documenten en
+spreadsheets die u maakt en reacties die u achterlaat bij youtube-video's.
+
+## gegevens die we verzamelen terwijl u onze services gebruikt
+
+### uw apps, browsers en apparaten
+
+![](https://www.gstatic.com/policies/privacy/e79ea0ed464fc8952d5b5582f9f9ae53.svg)
+
+we verzamelen informatie over de apps, browsers en
+[apparaten](privacy?hl=nl&gl=nl#footnote-devices) die u gebruikt om toegang te
+krijgen tot google-services, waardoor we betere functies kunnen aanbieden,
+zoals automatische productupdates en het dimmen van uw scherm als uw batterij
+leeg raakt.
+
+de gegevens die we verzamelen, bestaan onder meer uit [unieke
+id's](privacy?hl=nl&gl=nl#footnote-unique-id), het browsertype en de
+instellingen ervan, het besturingssysteem, informatie over het mobiele netwerk
+(waaronder de naam van de provider en het telefoonnummer) en het versienummer
+van apps. we verzamelen ook informatie over de interactie van uw applicaties,
+browsers en apparaten met onze services, waaronder [ip-
+adressen](privacy?hl=nl&gl=nl#footnote-ip), crashrapporten, systeemactiviteit
+en de datum, tijd en verwijzende url van uw verzoek.
+
+we verzamelen deze gegevens wanneer een google-service op uw apparaat contact
+opneemt met onze servers, bijvoorbeeld wanneer u een app installeert uit de
+play store of wanneer een service controleert op updates of deze ontvangt. als
+u een [android-apparaat met google-apps](privacy?hl=nl&gl=nl#footnote-android-
+device) gebruikt, neemt uw apparaat periodiek contact op met google-servers om
+informatie te verstrekken over uw apparaat en verbinding met onze services.
+deze informatie bestaat onder meer uit het apparaattype, de naam van de
+provider, crashrapporten en welke apps u heeft geïnstalleerd.
+
+### uw activiteit
+
+![](https://www.gstatic.com/policies/privacy/39b031d352a2e1586cf50ac7f2bbc18b.svg)
+
+we verzamelen gegevens over uw activiteiten op onze services, die we gebruiken
+om bijvoorbeeld een youtube-video aan te raden die u mogelijk leuk vindt. de
+activiteitsgegevens die we verzamelen, kunnen onder meer bestaan uit:
+
+  * termen waarnaar u zoekt;
+  * video's die u bekijkt;
+  * [weergaven van en interacties met content en advertenties;](privacy?hl=nl&gl=nl#footnote-content-views)
+  * spraak- en audiogegevens als u audiofuncties gebruikt;
+  * aankoopactiviteiten;
+  * mensen met wie u communiceert of met wie u content deelt;
+  * activiteiten op sites en apps van derden die gebruikmaken van onze services;
+  * browsegeschiedenis op chrome die u heeft [gesynchroniseerd met uw google-account](privacy?hl=nl&gl=nl#footnote-chrome-sync).
+
+als u gebruikmaakt van onze [services om te bellen en om gesprekken te
+ontvangen of om berichten te sturen en te
+ontvangen](privacy?hl=nl&gl=nl#footnote-calls-messages), kunnen we loggegevens
+voor gesprekken en berichten verzamelen. voorbeelden hiervan zijn uw
+telefoonnummer, het nummer van de persoon die naar u belt, het nummer van de
+persoon naar wie u belt, doorschakelnummers, e-mailadres van afzender en
+ontvanger, tijd en datum van gesprekken en berichten, de duur van gesprekken,
+routinginformatie, en typen en aantallen gesprekken en berichten.
+
+u kunt naar uw google-account gaan voor informatie over en het beheer van
+activiteitsgegevens die zijn opgeslagen in uw account.
+
+![](https://www.gstatic.com/policies/privacy/0d6da8d8c44e7e3ee95c4d56c19f04e1.svg)
+
+[naar google-account](https://myaccount.google.com/?utm_source=pp&hl=nl)
+
+### uw locatiegegevens
+
+![](https://www.gstatic.com/policies/privacy/4c5ee41d52605ff6f43538d46a1c0d35.svg)
+
+we verzamelen gegevens over uw locatie wanneer u onze services gebruikt.
+daardoor kunnen we u functies aanbieden zoals een routebeschrijving voor uw
+weekendje weg of de aanvangstijden van films in een bioscoop bij u in de
+buurt.
+
+uw locatie kan met een verschillende mate van nauwkeurigheid worden bepaald
+door:
+
+  * gps;
+  * [ip-adres](privacy?hl=nl&gl=nl#footnote-ip)
+  * [sensorgegevens van uw apparaat.](privacy?hl=nl&gl=nl#footnote-sensor-data)
+  * [informatie over zaken in de buurt van uw apparaat](privacy?hl=nl&gl=nl#footnote-near-device), zoals wifi-toegangspunten, zendmasten en bluetooth-apparaten
+
+de soorten locatiegegevens die we verzamelen, zijn deels afhankelijk van uw
+apparaat- en accountinstellingen. u kunt bijvoorbeeld [de locatie van uw
+android-apparaat in- of
+uitschakelen](https://support.google.com/accounts?p=privpol_location&hl=nl)
+via de instellingen app van het apparaat. u kunt ook
+[locatiegeschiedenis](https://support.google.com/accounts?p=privpol_lochistory&hl=nl)
+inschakelen als u een privékaart wilt maken van waar u naartoe gaat met de
+apparaten waarbij u bent ingelogd.
+
+* * *
+
+in sommige omstandigheden verzamelt google ook gegevens over u via [openbaar
+toegankelijke bronnen](privacy?hl=nl&gl=nl#footnote-sources). als bijvoorbeeld
+uw naam wordt vermeld in de lokale krant, kan de zoekmachine van google dat
+artikel indexeren en weergeven aan anderen als ze op uw naam zoeken. we kunnen
+ook gegevens over u verzamelen die afkomstig zijn van vertrouwde partners,
+waaronder marketingpartners die ons informatie verstrekken over potentiële
+klanten of onze zakelijke services en beveiligingspartners die ons informatie
+verstrekken om te [beschermen tegen misbruik](privacy?hl=nl&gl=nl#footnote-
+against-abuse). we ontvangen ook informatie van [adverteerders om namens hen
+advertenties en onderzoeksservices te bieden](privacy?hl=nl&gl=nl#footnote-ad-
+services).
+
+we gebruiken verschillende technologieën om gegevens te verzamelen en op te
+slaan, waaronder [cookies](privacy?hl=nl&gl=nl#footnote-cookies),
+[pixeltags](privacy?hl=nl&gl=nl#footnote-pixel), lokale webopslag, zoals
+[browserwebopslag](privacy?hl=nl&gl=nl#footnote-browser-storage) of
+[gegevenscaches van apps](privacy?hl=nl&gl=nl#footnote-application-data-
+cache), databases en [serverlogbestanden](privacy?hl=nl&gl=nl#footnote-server-
+logs).
+
+# waarom google gegevens verzamelt
+
+we gebruiken gegevens om betere services te ontwikkelen
+
+we gebruiken de gegevens die we op al onze services verzamelen voor de
+volgende doeleinden:
+
+### onze services leveren
+
+![](https://www.gstatic.com/policies/privacy/b18d13e9ea8a362642b7d25bce665039.svg)
+
+we gebruiken uw gegevens om [onze services te
+leveren](privacy?hl=nl&gl=nl#footnote-deliver-services), zoals de verwerking
+van de termen waarnaar u zoekt om resultaten weer te geven of om u te helpen
+content te delen door ontvangers uit uw contacten voor te stellen.
+
+### onze services onderhouden en verbeteren
+
+![](https://www.gstatic.com/policies/privacy/4165cd3aa643abb80fe1953668f67551.svg)
+
+we gebruiken uw gegevens ook om [ervoor te zorgen dat onze services werken
+zoals de bedoeling is](privacy?hl=nl&gl=nl#footnote-ensure-working),
+bijvoorbeeld door storingen bij te houden of problemen op te lossen die u aan
+ons rapporteert. we gebruiken uw gegevens ook om [verbeteringen door te
+voeren](privacy?hl=nl&gl=nl#footnote-make-improvements) in onze services. zo
+helpt inzicht in zoektermen die vaak verkeerd worden gespeld ons bijvoorbeeld
+bij de verbetering van functies voor spellingcontrole in onze services.
+
+### nieuwe services ontwikkelen
+
+![](https://www.gstatic.com/policies/privacy/546f2b674b407304a2570e71a216e509.svg)
+
+we gebruiken de gegevens die we in bestaande services verzamelen om ons te
+helpen bij de ontwikkeling van nieuwe services. het inzicht dat we
+bijvoorbeeld kregen in de manier waarop mensen hun foto's organiseerden in
+picasa (de eerste foto-app van google), hielp ons bij het ontwerp en de
+introductie van google foto's.
+
+### gepersonaliseerde services leveren, waaronder content en advertenties
+
+![](https://www.gstatic.com/policies/privacy/51cd09d6239edc9652bc05ad1d149a5c.svg)
+
+we gebruiken de gegevens die we verzamelen om onze services voor u aan te
+passen, onder andere door aanbevelingen te doen, gepersonaliseerde content te
+bieden en [aangepaste zoekresultaten](privacy?hl=nl&gl=nl#footnote-customized-
+search) weer te geven. zo biedt de
+[beveiligingscheck](https://myaccount.google.com/security-
+checkup?utm_source=pp&hl=nl) bijvoorbeeld beveiligingstips die zijn aangepast
+aan de manier waarop u google-producten gebruikt. en google play gebruikt
+gegevens zoals apps die u al heeft geïnstalleerd en video's die u heeft
+bekeken op youtube om u suggesties te doen voor nieuwe apps die u mogelijk
+interessant vindt.
+
+afhankelijk van uw instellingen kunnen we u ook [gepersonaliseerde
+advertenties](privacy?hl=nl&gl=nl#footnote-personalized-ads) laten zien op
+basis van uw interesses. als u bijvoorbeeld zoekt naar 'mountainbikes', kunt u
+een advertentie te zien krijgen voor sportmateriaal wanneer u een site bekijkt
+waarop advertenties van google worden weergegeven. u bepaalt via uw
+advertentie-instellingen welke gegevens we gebruiken om u advertenties te
+laten zien.
+
+  * we laten geen gepersonaliseerde advertenties zien op basis van [gevoelige categorieën](privacy?hl=nl&gl=nl#footnote-sensitive-categories), zoals ras, religie, seksuele geaardheid of gezondheid.
+  * we delen geen gegevens waarmee u persoonlijk geïdentificeerd kunt worden door adverteerders, zoals uw naam of e-mailadres, tenzij u ons hierom verzoekt. als u bijvoorbeeld een advertentie ziet voor een bloemenzaak bij u in de buurt en de knop 'tik om te bellen' selecteert, verbinden we uw oproep door en kunnen we uw telefoonnummer delen met de bloemenzaak.
+
+![](https://www.gstatic.com/policies/privacy/900a793eae04f4bddd675f8d95c4a794.svg)
+
+[ga naar advertentie-
+instellingen](https://adssettings.google.com/?utm_source=pp&hl=nl)
+
+### prestaties meten
+
+![](https://www.gstatic.com/policies/privacy/a8e78fa7fa279aa946fe1a9d6a0508f2.svg)
+
+we gebruiken gegevens voor analyses en metingen om inzicht te krijgen in de
+manier waarop onze services worden gebruikt. zo analyseren we bijvoorbeeld
+gegevens over uw bezoeken aan onze sites om zo onder meer het productontwerp
+te optimaliseren. we gebruiken ook gegevens over de advertenties waarmee u
+interactie heeft om adverteerders inzicht te bieden in de prestaties van hun
+advertentiecampagnes. hiervoor gebruiken we verschillende tools, waaronder
+google analytics. als u sites bezoekt die google analytics gebruiken, kan een
+google analytics-klant google de mogelijkheid geven om informatie over uw
+activiteit op die site te [koppelen](privacy?hl=nl&gl=nl#footnote-link-info)
+aan activiteit op andere sites die onze advertentieservices gebruiken.
+
+### met u communiceren
+
+![](https://www.gstatic.com/policies/privacy/acad335ad7ba163209d8c3e671b2c445.svg)
+
+we gebruiken gegevens die we verzamelen (zoals uw e-mailadres) om rechtstreeks
+met u te communiceren. we kunnen u bijvoorbeeld een melding sturen als we
+verdachte activiteiten constateren, zoals een poging om vanaf een
+ongebruikelijke locatie in te loggen op uw google-account. we kunnen u ook
+informeren over aanstaande veranderingen of verbeteringen van onze services.
+en als u contact opneemt met google, houden we gegevens over uw verzoek bij om
+u te helpen eventuele problemen op te lossen.
+
+### google, onze gebruikers en het publiek beschermen
+
+![](https://www.gstatic.com/policies/privacy/02f8664b95445de6f27ba682f3c5f9ab.svg)
+
+we gebruiken informatie om de [veiligheid en
+betrouwbaarheid](privacy?hl=nl&gl=nl#footnote-safety-reliability) van onze
+services te helpen verbeteren. dit omvat onder meer het detecteren en
+voorkomen van en reageren op fraude, misbruik, beveiligingsrisico's en
+technische problemen die schade kunnen veroorzaken bij google, onze gebruikers
+of het publiek.
+
+* * *
+
+we maken gebruik van verschillende technologieën om uw gegevens voor deze
+doeleinden te verwerken. we gebruiken geautomatiseerde systemen die uw content
+analyseren om bijvoorbeeld aangepaste zoekresultaten, gepersonaliseerde
+advertenties of andere functies te bieden die zijn aangepast aan de manier
+waarop u onze services gebruikt. en we analyseren uw content om ons te helpen
+[misbruik te detecteren](privacy?hl=nl&gl=nl#footnote-detect-abuse), zoals
+spam, malware en illegale content. we maken ook gebruik van
+[algoritmen](privacy?hl=nl&gl=nl#footnote-algorithm) om patronen in gegevens
+te herkennen. google translate helpt bijvoorbeeld mensen in verschillende
+talen te communiceren door veelvoorkomende taalpatronen te detecteren in
+zinnen die u laat vertalen.
+
+we kunnen [de gegevens combineren die we
+verzamelen](privacy?hl=nl&gl=nl#footnote-combine-info) via onze services en op
+verschillende apparaten en deze gebruiken voor de hierboven beschreven
+doeleinden. als u bijvoorbeeld video's van gitaarspelers bekijkt op youtube,
+krijgt u mogelijk een advertentie te zien voor gitaarlessen op een site die
+onze advertentieproducten gebruikt. afhankelijk van uw accountinstellingen kan
+[uw activiteit op andere sites en in andere
+apps](privacy?hl=nl&gl=nl#footnote-other-sites) worden gekoppeld aan uw
+persoonlijke gegevens om de services van google en de door google geleverde
+advertenties te verbeteren.
+
+als andere gebruikers al beschikken over uw e-mailadres of andere gegevens
+waarmee u kunt worden geïdentificeerd, kunnen we aan deze gebruikers uw
+openbaar zichtbare google-accountgegevens weergeven, zoals uw naam en foto.
+daardoor kunnen mensen bijvoorbeeld aan een e-mail zien dat deze van u
+afkomstig is.
+
+we vragen om uw toestemming voordat we uw gegevens gebruiken voor een
+doeleinde dat niet in dit privacybeleid wordt beschreven.
+
+# uw privacyopties
+
+u beschikt over keuzes met betrekking tot de gegevens die we verzamelen en hoe
+deze worden gebruikt
+
+in dit gedeelte worden de belangrijkste opties beschreven waarmee u uw privacy
+kunt beheren in onze services. u kunt ook de
+[privacycheck](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=promo-
+in-product&utm_campaign=pp_body&hl=nl) doen, waarbij u belangrijke
+privacyinstellingen kunt bekijken en aanpassen. in aanvulling op deze tools
+bieden we ook specifieke privacyinstellingen in onze producten. meer
+informatie hierover vindt u in onze [privacyhandleiding voor
+producten](technologies/product-privacy?hl=nl&gl=nl).
+
+![](https://www.gstatic.com/policies/privacy/2951277d4c35389d7d304ed78d4fb6f6.svg)
+
+[naar de
+privacycheck](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=promo-
+in-product&utm_campaign=pp_body&hl=nl)
+
+## uw gegevens beheren, bekijken en updaten
+
+wanneer u bent ingelogd, kunt u altijd uw gegevens bekijken en updaten door
+naar de services te gaan die u gebruikt. foto's en drive zijn bijvoorbeeld
+beide ontworpen om u te helpen specifieke soorten content te beheren die u via
+google heeft opgeslagen.
+
+we hebben ook een plek ingebouwd waar u gegevens kunt bekijken en controleren
+die u heeft opgeslagen in uw google-account. uw [google-
+account](https://myaccount.google.com/?hl=nl) bevat onder meer:
+
+### privacyopties
+
+![](https://www.gstatic.com/policies/privacy/3394102be0315326fd760e503b31c7b6.svg)
+
+### activiteitsopties
+
+besluit welke typen activiteiten u wilt opslaan in uw account. u kunt
+bijvoorbeeld locatiegeschiedenis inschakelen als u verkeersprognoses wilt voor
+uw dagelijkse route van en naar het werk of u kunt uw youtube-kijkgeschiedenis
+opslaan om betere videosuggesties te krijgen.
+
+[ga naar
+activiteitsopties](https://myaccount.google.com/activitycontrols?utm_source=pp&hl=nl)
+
+![](https://www.gstatic.com/policies/privacy/900a793eae04f4bddd675f8d95c4a794.svg)
+
+### advertentie-instellingen
+
+beheer uw voorkeuren over advertenties die aan u worden weergegeven op google
+en op sites en apps die [samenwerken met google](privacy?hl=nl&gl=nl#footnote-
+partner) om advertenties weer te geven. u kunt uw interesses aanpassen, kiezen
+of uw persoonlijke gegevens worden gebruikt om advertenties relevanter voor u
+te maken en bepaalde advertentieservices in- en uitschakelen.
+
+[ga naar advertentie-
+instellingen](https://adssettings.google.com/?utm_source=pp&hl=nl)
+
+![](https://www.gstatic.com/policies/privacy/c1b97d74dace7e43a9ccb26841a7cae4.svg)
+
+### over u
+
+gegevens beheren die andere gebruikers over u te zien krijgen in google-
+services.
+
+[naar 'over u'](https://myaccount.google.com/profile?utm_source=pp&hl=nl)
+
+![](https://www.gstatic.com/policies/privacy/e28714c71f217892f72b2698ea5cefef.svg)
+
+### aanbevelingen uit uw kringen
+
+kies of uw naam en foto worden weergegeven naast uw activiteiten, zoals
+recensies en aanbevelingen, die worden weergegeven in advertenties.
+
+[naar 'aanbevelingen uit uw kringen'](https://myaccount.google.com/shared-
+endorsements?utm_source=pp&hl=nl)
+
+### manieren om gegevens te bekijken en te updaten
+
+![](https://www.gstatic.com/policies/privacy/5e7cd445f8861a262a3da876f855a4cc.svg)
+
+### mijn activiteit
+
+met 'mijn activiteit' kunt u gegevens bekijken en controleren die worden
+gemaakt wanneer u google-services gebruikt, zoals zoekopdrachten die u heeft
+uitgevoerd of uw bezoeken aan google play. u kunt browsen op datum en op
+onderwerp en uw activiteiten gedeeltelijk of volledig verwijderen.
+
+[naar 'mijn
+activiteit'](https://myactivity.google.com/myactivity?utm_source=pp&hl=nl)
+
+![](https://www.gstatic.com/policies/privacy/02698a3383765bd3c250471c53a86c5a.svg)
+
+### google dashboard
+
+met google dashboard kunt u gegevens beheren die aan specifieke producten zijn
+gekoppeld.
+
+[naar 'dashboard'](https://myaccount.google.com/dashboard?utm_source=pp&hl=nl)
+
+![](https://www.gstatic.com/policies/privacy/4f19891c43001db11efc8048f9bc7cdb.svg)
+
+### uw persoonlijke gegevens
+
+beheer uw contactgegevens, zoals uw naam, e-mailadres en telefoonnummer.
+
+[naar 'persoonlijke gegevens'](https://myaccount.google.com/personal-
+info?utm_source=pp&hl=nl)
+
+als u bent uitgelogd, kunt u gegevens beheren die aan uw browser of apparaat
+zijn gekoppeld, waaronder de volgende gegevenstypen:
+
+  * personalisatie van zoekresultaten als u bent uitgelogd: [selecteer](https://www.google.com/history/optout?utm_source=pp&hl=nl) of uw zoekactiviteiten worden gebruikt om u relevantere resultaten en aanbevelingen te tonen.
+  * instellingen voor youtube: pauzeer en verwijder uw [youtube-zoekgeschiedenis](https://www.youtube.com/feed/history/search_history?utm_source=pp&hl=nl) en uw [youtube-kijkgeschiedenis](https://www.youtube.com/feed/history?utm_source=pp&hl=nl).
+  * advertentie-instellingen: [beheer](https://adssettings.google.com/?utm_source=pp&hl=nl) uw voorkeuren voor de advertenties die aan u worden getoond op google en op sites en in apps die samenwerken met google voor weergave van advertenties.
+
+## uw gegevens exporteren, verwijderen en wissen
+
+u kunt een kopie van de content in uw google-account exporteren als u hier een
+reservekopie van wilt maken of de content wilt gebruiken in een service buiten
+google.
+
+![](https://www.gstatic.com/policies/privacy/5959e84c2197c8a27da0a717f1cd47d5.svg)
+
+[uw gegevens exporteren](https://takeout.google.com/?utm_source=pp&hl=nl)
+
+u kunt ook [verzoeken om verwijdering van
+content](https://support.google.com/legal?p=privpol_remove&hl=nl) van
+specifieke google-services op basis van de toepasselijke wetgeving.
+
+als u uw gegevens wilt verwijderen, kunt u het volgende doen:
+
+  * uw content verwijderen uit [specifieke google-services](privacy?hl=nl&gl=nl#footnote-delete-specific).
+  * specifieke items zoeken en deze vervolgens verwijderen uit uw account via [mijn activiteit](https://myactivity.google.com/?utm_source=pp&hl=nl).
+  * [specifieke google-producten verwijderen](https://myaccount.google.com/deleteservices?utm_source=pp&hl=nl), waaronder uw gegevens die aan deze producten zijn gekoppeld.
+  * [uw gehele google-account verwijderen.](https://myaccount.google.com/deleteaccount?utm_source=pp&hl=nl)
+
+![](https://www.gstatic.com/policies/privacy/1fa3e4ce8ac456f39ed02a6f9eb49b14.svg)
+
+[uw gegevens verwijderen.](https://myaccount.google.com/delete-services-or-
+account?utm_source=pp&hl=nl)
+
+en tot slot kunt u via
+[inactiviteitsvoorkeuren](https://myaccount.google.com/inactive?utm_source=pp&hl=nl)
+iemand anders toegang verlenen tot delen van uw google-account als u
+onverwacht niet in staat bent uw account te gebruiken.
+
+* * *
+
+er zijn andere manieren om te controleren welke gegevens google verzamelt,
+ongeacht of u bent ingelogd op een google-account. u kunt dit onder andere op
+de volgende plaatsen doen:
+
+  * browserinstellingen: u kunt uw browser bijvoorbeeld zodanig configureren dat een melding wordt weergegeven wanneer google een [cookie](privacy?hl=nl&gl=nl#footnote-cookies) heeft ingesteld in uw browser. u kunt uw browser ook zodanig configureren dat alle cookies van een specifiek domein of van alle domeinen worden geblokkeerd. denk er echter aan dat onze services [cookies nodig hebben om naar behoren te functioneren](privacy?hl=nl&gl=nl#footnote-rely-on-cookies), bijvoorbeeld voor zaken als het onthouden van uw taalvoorkeuren.
+  * instellingen op apparaatniveau: uw apparaat kan beschikken over opties waarmee u kunt bepalen welke gegevens we verzamelen. u kunt bijvoorbeeld [locatie-instellingen wijzigen](https://support.google.com/websearch?p=privpol_locserp&hl=nl) op uw android-apparaat.
+
+![](https://www.gstatic.com/policies/privacy/fa9e0e90d1e7ec399dad9f3257a9bb63.svg)
+
+# uw gegevens delen
+
+## wanneer u gegevens deelt
+
+in veel van onze services kunt u gegevens delen met andere mensen en zelf
+bepalen hoe u deze gegevens deelt. u kunt bijvoorbeeld video's openbaar delen
+op youtube of u kunt ervoor kiezen uw video's privé te houden. denk eraan dat
+als u gegevens openbaar deelt, uw content toegankelijk kan worden via
+zoekmachines, waaronder google zoeken.
+
+als je bent ingelogd en interactie hebt met bepaalde google-services (zoals
+reacties voor een youtube-video achterlaten of een app op play beoordelen),
+worden je naam en foto naast je activiteit weergegeven. we kunnen deze
+informatie ook weergeven in [advertenties afhankelijk van je instelling
+'aanbevelingen uit jouw
+kringen'](https://support.google.com/accounts?p=privpol_endorse&hl=nl).
+
+## wanneer google uw gegevens deelt
+
+we delen persoonlijke gegevens niet met bedrijven, organisaties en individuen
+buiten google, behalve in de volgende gevallen:
+
+### met uw toestemming
+
+we delen persoonlijke informatie buiten google als we uw toestemming hebben.
+als u bijvoorbeeld [een google home gebruikt om een reservering te
+maken](https://support.google.com/googlehome?p=privpol_homedata&hl=nl) via een
+boekingsservice, krijgen we uw toestemming voordat we uw naam of
+telefoonnummer delen met het restaurant. we vragen om uw uitdrukkelijke
+toestemming voordat we [gevoelige persoonlijke
+informatie](privacy?hl=nl&gl=nl#footnote-sensitive-info) delen.
+
+### met domeinbeheerders
+
+als u student bent of werkt voor een organisatie die gebruikmaakt van google-
+services, hebben uw
+[domeinbeheerder](https://support.google.com/a?p=privpol_admin&hl=nl) en
+resellers die uw account beheren toegang tot uw google-account. ze kunnen
+mogelijk het volgende doen:
+
+  * informatie bekijken en bewaren die is opgeslagen in uw account, zoals uw e-mail.
+  * statistieken over uw account bekijken, zoals bijvoorbeeld hoeveel apps u installeert.
+  * uw accountwachtwoord wijzigen.
+  * de toegang tot uw account opschorten of beëindigen.
+  * uw accountgegevens ontvangen om te voldoen aan de van toepassing zijnde wet- en regelgeving, wettelijke procedures of verzoeken van overheidsinstanties.
+  * uw mogelijkheden beperken om uw gegevens te verwijderen of te bewerken of uw privacyinstellingen aan te passen.
+
+### voor externe verwerking
+
+we leveren persoonlijke gegevens aan onze
+[partners](privacy?hl=nl&gl=nl#footnote-affiliates) en andere vertrouwde
+bedrijven of individuen zodat ze de gegevens voor ons kunnen verwerken, op
+basis van onze instructies en in overeenstemming met ons privacybeleid en
+andere passende vertrouwelijkheids- en beveiligingsmaatregelen. we maken
+bijvoorbeeld gebruik van dienstverleners om ons te helpen met
+klantenondersteuning.
+
+### om juridische redenen
+
+we delen persoonlijke gegevens buiten google als we te goeder trouw van mening
+zijn dat toegang, gebruik, behoud of openbaarmaking van de gegevens
+redelijkerwijs nodig is om:
+
+  * te voldoen aan de van toepassing zijnde wet- en regelgeving, [wettelijke procedures of verzoeken van overheidsinstanties](privacy?hl=nl&gl=nl#footnote-legal). we delen informatie over het aantal en het soort verzoeken dat we van overheden ontvangen in ons [transparantierapport](https://transparencyreport.google.com/user-data/overview?hl=nl);
+  * de van toepassing zijnde servicevoorwaarden af te dwingen, waaronder het onderzoeken van mogelijke schendingen;
+  * fraude en technische of beveiligingsproblemen te detecteren, te voorkomen of anderszins aan te pakken;
+  * de rechten, eigendom of veiligheid van google, onze gebruikers of het publiek te beschermen, zoals vereist of toegestaan volgens de wet.
+
+we kunnen [niet-persoonlijke gegevens](privacy?hl=nl&gl=nl#footnote-info)
+openbaar delen en met onze partners, zoals uitgevers, adverteerders,
+ontwikkelaars of houders van rechten. we delen gegevens bijvoorbeeld openbaar
+om [trends te laten zien](privacy?hl=nl&gl=nl#footnote-trends) voor het
+algemene gebruik van onze services. we staan ook [specifieke
+partners](privacy?hl=nl&gl=nl#footnote-specific-partners) toe gegevens te
+verzamelen uit uw browser of van uw apparaat voor advertentie- en
+meetdoeleinden via hun eigen cookies of soortgelijke technologieën.
+
+als google betrokken is bij een fusie, overname of verkoop van activa, blijven
+we de vertrouwelijkheid van uw persoonlijke gegevens waarborgen en stellen we
+de betreffende gebruikers op de hoogte voordat persoonlijke gegevens worden
+overgedragen of onderworpen aan een ander privacybeleid.
+
+![](https://www.gstatic.com/policies/privacy/fb61fc4bfc85ad86f11342e699d685e9.svg)
+
+# uw gegevens veilig houden
+
+we bouwen veiligheid in onze services in om uw gegevens te beschermen
+
+alle google-producten zijn voorzien van sterke beveiligingsfuncties die uw
+gegevens voortdurend beschermen. het inzicht dat we verkrijgen bij het
+onderhoud van onze services, helpt veiligheidsdreigingen te detecteren en
+automatisch te blokkeren, zodat deze u nooit bereiken. als we toch iets
+risicovols detecteren waarvan we denken dat u daarvan op de hoogte moet zijn,
+informeren we u daarover en begeleiden we u via stappen waarmee u beter
+beveiligd blijft.
+
+we werken er hard aan u en google te beschermen tegen ongeautoriseerde toegang
+tot of ongeautoriseerde aanpassing, openbaarmaking of vernietiging van
+gegevens die in ons bezit zijn. we nemen onder andere de volgende maatregelen:
+
+  * we gebruiken versleuteling om uw gegevens privé te houden tijdens de overdracht.
+  * we bieden een reeks beveiligingsfuncties, zoals [safe browsing](https://safebrowsing.google.com/?utm_source=pp&hl=nl), beveiligingscheck en [authenticatie in twee stappen](https://www.google.com/landing/2step/?utm_source=pp&hl=nl) om u te helpen uw account te beschermen.
+  * we evalueren onze handelswijzen op het gebied van verzameling, opslag en verwerking van gegevens, waaronder fysieke beveiligingsmaatregelen, om ongeautoriseerde toegang tot systemen te voorkomen.
+  * we beperken de toegang tot persoonlijke gegevens tot medewerkers van google, contractanten en vertegenwoordigers die deze gegevens moeten kennen om ze te verwerken. iedereen met deze toegang is onderworpen aan strenge contractuele vertrouwelijkheidsverplichtingen en kan worden bestraft of ontslagen als hij of zij niet aan deze verplichtingen voldoet.
+
+![](https://www.gstatic.com/policies/privacy/13062c65605335a46d14656c46af3868.svg)
+
+# uw gegevens exporteren en verwijderen
+
+u kunt altijd een kopie van uw gegevens exporteren of gegevens uit uw google-
+account verwijderen
+
+u kunt een kopie van de content in uw google-account exporteren als u hier een
+reservekopie van wilt maken of de content wilt gebruiken in een service buiten
+google.
+
+![](https://www.gstatic.com/policies/privacy/5959e84c2197c8a27da0a717f1cd47d5.svg)
+
+[uw gegevens exporteren](https://takeout.google.com/?utm_source=pp&hl=nl)
+
+als u uw gegevens wilt verwijderen, kunt u het volgende doen:
+
+  * uw content verwijderen uit [specifieke google-services](privacy?hl=nl&gl=nl#footnote-delete-specific).
+  * specifieke items zoeken en deze vervolgens verwijderen uit uw account via [mijn activiteit](https://myactivity.google.com/?utm_source=pp&hl=nl).
+  * [specifieke google-producten verwijderen](https://myaccount.google.com/deleteservices?utm_source=pp&hl=nl), waaronder uw gegevens die aan deze producten zijn gekoppeld.
+  * [uw gehele google-account verwijderen.](https://myaccount.google.com/deleteaccount?utm_source=pp&hl=nl)
+
+![](https://www.gstatic.com/policies/privacy/1fa3e4ce8ac456f39ed02a6f9eb49b14.svg)
+
+[uw gegevens verwijderen.](https://myaccount.google.com/delete-services-or-
+account?utm_source=pp&hl=nl)
+
+# je gegevens bewaren
+
+we bewaren de verzamelde gegevens voor kortere of langere perioden afhankelijk
+van wat de gegevens zijn, hoe we ze gebruiken en hoe je de instellingen
+configureert:
+
+  * sommige gegevens (zoals de content die u maakt of uploadt) kunt u op elk gewenst moment verwijderen. u kunt ook [activiteitsgegevens](https://myactivity.google.com/myactivity?hl=nl) verwijderen die in uw account zijn opgeslagen, of deze na een bepaalde periode [automatisch laten verwijderen](https://support.google.com/accounts/answer/465?authuser=0&hl=nl#auto-delete).
+  * andere gegevens (zoals [advertentiegegevens](technologies/ads?hl=nl&gl=nl) in serverlogboeken) worden na een bepaalde periode automatisch verwijderd of geanonimiseerd.
+  * we bewaren sommige gegevens totdat je je google-account verwijdert, zoals informatie over hoe vaak je onze services gebruikt.
+  * en sommige gegevens bewaren we voor een langere periode als dat nodig is voor rechtmatige zakelijke of juridische doeleinden, zoals beveiliging, fraude- en misbruikpreventie of financiële administratie.
+
+als je gegevens verwijdert, volgen we een verwijderingsprocedure om ervoor te
+zorgen dat je gegevens veilig en volledig worden verwijderd van onze servers
+of alleen in geanonimiseerde vorm worden bewaard. we proberen ervoor te zorgen
+dat onze services voorkomen dat gegevens per ongeluk of kwaadwillend worden
+verwijderd. daarom kan het zijn dat er enige vertraging zit tussen het moment
+waarop je iets verwijdert en het moment waarop kopieën worden verwijderd uit
+onze actieve en back-upsystemen.
+
+bekijk meer informatie over de [bewaarperioden voor
+gegevens](technologies/retention?hl=nl&gl=nl) die google hanteert, waaronder
+hoelang het duurt om je gegevens te verwijderen.
+
+![](https://www.gstatic.com/policies/privacy/e60586c0029adec0bacd3e48470ca6c6.svg)
+
+# naleving en samenwerking met regelgevende instanties
+
+we evalueren dit privacybeleid regelmatig en zorgen ervoor dat we uw gegevens
+verwerken op een manier die aan dit beleid voldoet.
+
+## gegevensdoorgiften
+
+we hebben [servers over de hele wereld](privacy?hl=nl&gl=nl#footnote-servers)
+en uw informatie kan worden verwerkt op servers die zich bevinden buiten het
+land waar u woont. gegevensbeschermingswetgeving verschilt per land en sommige
+landen bieden meer bescherming dan andere. ongeacht waar uw informatie wordt
+verwerkt, passen we dezelfde bescherming toe zoals beschreven in dit beleid.
+we voldoen ook aan bepaalde [juridische
+kaders](privacy/frameworks?hl=nl&gl=nl) die verband houden met de doorgifte
+van gegevens.
+
+wanneer we formele schriftelijke klachten ontvangen, reageren we door contact
+op te nemen met de persoon die de klacht heeft ingediend. we werken samen met
+de betreffende regelgevende instanties, waaronder lokale autoriteiten voor
+gegevensbescherming, om klachten over de overdracht van uw gegevens te
+verhelpen die we niet rechtstreeks met u kunnen oplossen.
+
+## europese vereisten
+
+indien de gegevensbeschermingswetgeving van de europese unie (eu) of het
+verenigd koninkrijk (vk) van toepassing is op uw gegevens, bieden we de in dit
+beleid beschreven opties, zodat u gebruik kunt maken van het recht op inzage
+om uw gegevens te updaten, te wissen en de verwerking ervan te beperken. u
+heeft ook het recht om bezwaar te maken tegen de verwerking van uw gegevens of
+om de gegevens te exporteren naar een andere service.
+
+voor gebruikers woonachtig in de europese economische ruimte of zwitserland is
+google ireland limited de verwerkingsverantwoordelijke voor uw informatie,
+tenzij anderszins aangegeven in een servicespecifieke privacyverklaring. met
+andere woorden, google ireland limited is de aangesloten google-entiteit die
+verantwoordelijk is voor de verwerking van uw informatie en de naleving van de
+toepasselijke privacywetgeving.
+
+we verwerken uw gegevens voor de doeleinden zoals beschreven in dit beleid op
+basis van de volgende rechtsgronden:
+
+### met uw toestemming
+
+we vragen om je toestemming voor de verwerking van je gegevens voor specifieke
+doeleinden en je hebt het recht om je toestemming op elk gewenst moment in te
+trekken. we vragen bijvoorbeeld om je toestemming om gepersonaliseerde
+services te bieden, zoals advertenties op basis van je interesses. we kunnen
+ook om je toestemming vragen om je spraak- en audioactiviteit te verzamelen
+voor spraakherkenning. je kunt deze instellingen beheren in je [google-
+account](https://myaccount.google.com/?hl=nl).
+
+### wanneer we gerechtvaardigde belangen nastreven
+
+we verwerken uw gegevens voor onze gerechtvaardigde belangen en die van
+[derden](privacy?hl=nl&gl=nl#footnote-third-parties) waarbij we [passende
+beschermingsmaatregelen](privacy?hl=nl&gl=nl#footnote-safeguards) toepassen
+die uw privacy beschermen. dit houdt in dat we uw gegevens onder meer kunnen
+verwerken voor het volgende:
+
+  * het aanbieden, onderhouden en verbeteren van onze services zodat ze voldoen aan de behoeften van onze gebruikers.
+  * de ontwikkeling van nieuwe producten en functies die nuttig zijn voor onze gebruikers.
+  * inzicht krijgen in de manier waarop mensen onze services gebruiken om de prestaties van onze services [te waarborgen en verbeteren](privacy?hl=nl&gl=nl#footnote-improve).
+  * [aanpassing van onze services](privacy?hl=nl&gl=nl#footnote-customizing) om u een betere gebruikerservaring te bieden.
+  * marketing om gebruikers te informeren over onze services.
+  * advertenties bieden, waardoor veel van onze services gratis blijven (en als advertenties worden gepersonaliseerd, vragen we om je toestemming)
+  * het detecteren, voorkomen of anderszins aanpakken van fraude, misbruik, beveiligings- of technische problemen met onze services.
+  * bescherming van de rechten, het eigendom of de veiligheid van google, onze gebruikers of het publiek, zoals vereist of toegestaan volgens de wet, waaronder gegevens vrijgeven aan overheidsinstanties
+  * uitvoering van onderzoek waarmee onze services worden verbeterd voor onze gebruikers en die het publiek tot voordeel strekken.
+  * voldoen aan verplichtingen jegens onze partners, zoals ontwikkelaars en houders van rechten.
+  * handhaving van juridische vorderingen, waaronder het onderzoeken van mogelijke schending van toepasselijke servicevoorwaarden.
+
+### wanneer we een service aanbieden
+
+we verwerken uw gegevens om een service te bieden waarom u op grond van een
+contract heeft verzocht. we verwerken bijvoorbeeld uw betalingsgegevens
+wanneer u extra opslag aanschaft voor google drive.
+
+### wanneer we voldoen aan wettelijke verplichtingen
+
+we verwerken uw gegevens wanneer we een wettelijke verplichting hebben dit te
+doen, bijvoorbeeld wanneer we reageren op [juridische procedures of
+afdwingbare verzoeken van overheidsinstanties](privacy?hl=nl&gl=nl#footnote-
+legal).
+
+* * *
+
+als u vragen heeft, [kunt u contact opnemen met google en ons bureau voor
+gegevensbescherming](https://support.google.com/policies/troubleshooter/7575787?hl=nl).
+u kunt ook contact opnemen met uw lokale gegevensbeschermingsautoriteit als u
+zorgen heeft over uw rechten op grond van de lokale wetgeving.
+
+# over dit beleid
+
+## wanneer dit beleid van toepassing is
+
+dit privacybeleid is van toepassing op alle services die worden verstrekt door
+google llc en haar [aangesloten entiteiten](privacy?hl=nl&gl=nl#footnote-
+affiliates), waaronder youtube, android en services die worden aangeboden op
+externe sites, zoals advertentieservices. dit privacybeleid is niet van
+toepassing op services met een afzonderlijk privacybeleid waarin dit algemene
+privacybeleid niet is opgenomen.
+
+dit privacybeleid is niet van toepassing op:
+
+  * het gegevensbeleid van andere bedrijven en organisaties die adverteren in onze services;
+  * services die worden aangeboden door andere bedrijven of individuen, waaronder producten of sites die onze google-services bevatten, die kunnen worden weergegeven in de zoekresultaten of waarnaar in onze services een link is opgenomen.
+
+## wijzigingen in dit beleid
+
+we kunnen dit privacybeleid van tijd tot tijd wijzigen. we beperken uw rechten
+onder dit privacybeleid niet zonder uw uitdrukkelijke toestemming. we
+vermelden altijd de datum waarop de laatste wijzigingen zijn aangebracht en we
+bieden toegang tot [gearchiveerde versies](privacy/archive?hl=nl&gl=nl) die u
+kunt bekijken. indien er aanzienlijke wijzigingen worden aangebracht, geven we
+een duidelijkere melding hiervan (waaronder, voor bepaalde services, een
+e-mailbericht met wijzigingen in het privacybeleid).
+
+# gerelateerde privacyprocedures
+
+## specifieke google-services
+
+de volgende privacyverklaringen bieden aanvullende informatie over enkele
+google-services:
+
+  * [chrome en het chrome-besturingssysteem](https://www.google.com/chrome/intl/nl/privacy.html)
+  * [payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=nl)
+  * [fiber](https://fiber.google.com/legal/privacy.html)
+  * [google fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
+  * [g suite for education](https://www.google.com/work/apps/terms/education_privacy.html)
+  * [read along](https://readalong.google/intl/nl_nl/privacy)
+  * [youtube kids](https://kids.youtube.com/privacynotice)
+  * [met family link beheerde google-accounts, voor kinderen die jonger zijn dan dertien jaar (of de toepasselijke leeftijd in uw land)](https://families.google.com/familylink/privacy/child-policy/)
+  * [verzameling van spraak- en audiogegevens uit functies voor kinderen via de google assistent](https://assistant.google.com/privacy-notice-childrens-features/?hl=nl)
+
+als u deel uitmaakt van een organisatie die google workspace of google cloud
+platform gebruikt, kunt u in de [privacyverklaring van google
+cloud](https://cloud.google.com/terms/cloud-privacy-notice?hl=nl) bekijken hoe
+deze services uw persoonlijke informatie verzamelen en gebruiken.
+
+## andere nuttige bronnen
+
+de volgende links leiden naar nuttige bronnen waar u meer informatie over
+procedures en privacyinstellingen kunt vinden.
+
+  * [uw google-account](https://myaccount.google.com/?hl=nl) is de plek waar u veel van de instellingen vindt waarmee u uw account kunt beheren
+  * de [privacycheck](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=promo-in-product&utm_campaign=pp_body&hl=nl) begeleidt u door de belangrijkste privacyinstellingen voor uw google-account
+  * in het [veiligheidscentrum van google](https://www.google.com/intl/nl/safetycenter/) vindt u meer informatie over onze ingebouwde beveiliging, privacyopties en tools die u helpen om online digitale basisregels voor uw gezin in te stellen
+  * de [privacyvoorwaarden](?hl=nl&gl=nl) bieden meer context met betrekking tot dit privacybeleid en onze servicevoorwaarden
+  * het gedeelte [technologieën](technologies?hl=nl&gl=nl) bevat meer informatie over:
+    * [hoe google cookies gebruikt](technologies/cookies?hl=nl&gl=nl)
+    * technologieën die worden gebruikt voor [advertenties](technologies/ads?hl=nl&gl=nl);
+    * [hoe google patroonherkenning gebruikt](technologies/pattern-recognition?hl=nl&gl=nl) om dingen te herkennen, zoals gezichten op foto's;
+    * [hoe google gegevens gebruikt van sites of apps die onze services gebruiken](technologies/partner-sites?hl=nl&gl=nl)
+
+## belangrijke termen
+
+### aangesloten bedrijven
+
+een aangesloten entiteit is een entiteit die behoort tot de google-groep van
+bedrijven, waaronder de volgende bedrijven die consumentenservices aanbieden
+in de eu: google ireland limited, google commerce ltd, google payment corp en
+google dialer inc. meer informatie over de [bedrijven die zakelijke services
+aanbieden in de eu](https://privacy.google.com/businesses/affiliates?hl=nl).
+
+### algoritme
+
+een proces dat of een verzameling regels die door een computer wordt gevolgd
+bij het uitvoeren van probleemoplossende activiteiten.
+
+### apparaat
+
+een apparaat is een computer die kan worden gebruikt om toegang tot google-
+services te krijgen. desktopcomputers, tablets, slimme luidsprekers en
+smartphones worden bijvoorbeeld allemaal beschouwd als apparaten.
+
+### applicatie-gegevenscache
+
+een applicatie-gegevenscache is een gegevensopslagplaats op een apparaat.
+hierdoor kan een webapplicatie bijvoorbeeld worden uitgevoerd zonder
+internetverbinding en kunnen de prestaties van de applicatie worden verbeterd
+door de inhoud sneller te laden.
+
+### browserwebopslag
+
+met browserwebopslag kunnen websites gegevens in een browser op een apparaat
+opslaan. bij gebruik in de modus voor lokale opslag kunnen gegevens worden
+opgeslagen voor meerdere sessies. zo kunnen gegevens worden opgehaald ook
+nadat de browser is gesloten en opnieuw is geopend. html 5 is een technologie
+die webopslag mogelijk maakt.
+
+### cookies
+
+een cookie is een bestandje met een tekenreeks dat bij uw bezoek aan een
+website naar uw computer wordt gestuurd. wanneer u de site opnieuw bezoekt,
+herkent de site uw browser dankzij de cookie. cookies kunnen
+gebruikersinstellingen en andere gegevens opslaan. u kunt uw browser zodanig
+instellen dat alle cookies worden geweigerd of dat een melding wordt gegeven
+wanneer een cookie wordt verzonden. sommige functies of services van een
+website functioneren wellicht niet goed zonder cookies. meer informatie over
+[hoe google cookies gebruikt](technologies/cookies?hl=nl&gl=nl) en hoe google
+gegevens (waaronder cookies) gebruikt [wanneer u gebruikmaakt van sites of
+apps van onze partners](technologies/partner-sites?hl=nl&gl=nl).
+
+### gevoelige persoonlijke gegevens
+
+dit is een specifieke categorie van persoonlijke gegevens met betrekking tot
+onderwerpen zoals vertrouwelijke medische feiten, ras of etnische afkomst,
+politieke of religieuze overtuigingen of seksualiteit.
+
+### google-account
+
+u kunt toegang krijgen tot sommige van onze services door u aan te melden voor
+een [google-account](https://myaccount.google.com/?hl=nl) en enkele
+persoonlijke gegevens aan ons te verstrekken (meestal uw naam, e-mailadres en
+een wachtwoord). deze accountgegevens worden gebruikt om uw identiteit te
+verifiëren wanneer u services van google gebruikt en om uw account te
+beschermen tegen ongeoorloofde toegang door anderen. u kunt uw account op elk
+moment bewerken of verwijderen via de google-accountinstellingen.
+
+### ip-adres
+
+elk apparaat dat is verbonden met internet, krijgt een nummer toegewezen. dit
+wordt een ip-adres (internet protocol) genoemd. deze nummers worden gewoonlijk
+in geografische blokken toegewezen. een ip-adres kan vaak gebruikt worden om
+de locatie te identificeren van waaruit een apparaat verbinding maakt met
+internet.
+
+### niet-persoonlijke gegevens
+
+dit zijn gegevens over gebruikers die zodanig worden opgeslagen dat deze
+gegevens niet meer naar een individueel identificeerbare gebruiker verwijzen.
+
+### persoonlijke gegevens
+
+dit is informatie die u aan ons verstrekt en waarmee u persoonlijk kunt worden
+geïdentificeerd, zoals uw naam, e-mailadres of factureringsgegevens of andere
+gegevens die redelijkerwijs aan dergelijke informatie kunnen worden gekoppeld
+door google, zoals informatie die we koppelen aan uw google-account.
+
+### pixeltag
+
+een pixeltag is een type technologie dat op een website of in het
+hoofdgedeelte van een e-mail wordt geplaatst om bepaalde activiteiten bij te
+houden, zoals de weergaven van een website of wanneer een e-mail wordt
+geopend. pixeltags worden vaak gebruikt in combinatie met cookies.
+
+### serverlogbestanden
+
+net als de meeste websites slaan onze servers automatisch uw paginaverzoeken
+op onze sites op. dergelijke ‘serverlogbestanden’ omvatten doorgaans
+informatie zoals uw zoekopdracht, ip-adres, browsertype, browsertaal, datum en
+tijd van uw zoekopdracht en een of meer cookies die uw browser kunnen
+herkennen.
+
+een typisch serverlogbestand voor een zoekopdracht naar 'auto's' ziet er als
+volgt uit:
+
+    
+    
+    123.45.67.89 - 25/mar/2003 10:15:32 -  
+    http://www.google.com/search?q=cars -  
+    firefox 1.0.7; windows nt 5.1 -  
+    740674ce2123e969
+
+  * `123.45.67.89` is het ip-adres dat de gebruiker van zijn internetprovider toegewezen heeft gekregen. afhankelijk van de afspraken die de gebruiker met zijn provider heeft gemaakt, kan de provider deze gebruiker voor elke internetsessie een nieuw adres toekennen.
+  * `25/mar/2003 10:15:32` zijn de datum en tijd van de zoekopdracht.
+  * `http://www.google.com/search?q=cars` is de gevraagde url, inclusief de zoekopdracht.
+  * `firefox 1.0.7; windows nt 5.1` zijn de gebruikte browser en het gebruikte besturingssysteem.
+  * `740674ce2123a969` is de unieke cookie-id die bij het eerste bezoek aan google aan deze specifieke computer is toegekend. (cookies kunnen door de gebruiker worden verwijderd. als gebruikers de cookie sinds hun laatste bezoek aan google hebben verwijderd, gaat het om de unieke cookie-id die aan hun apparaat wordt toegekend bij hun volgende bezoek aan google vanaf dat specifieke apparaat.)
+
+### unieke id's
+
+een unieke id is een tekenreeks die kan worden gebruikt om een browser, app of
+apparaat uniek te identificeren. verschillende id's variëren in hoe permanent
+deze zijn, of ze hersteld kunnen worden door gebruikers en hoe ze kunnen
+worden geopend.
+
+unieke id's kunnen worden gebruikt voor verschillende doeleinden, waaronder
+beveiliging en fraudedetectie, het synchroniseren van services zoals uw inbox,
+het onthouden van uw voorkeuren en het bieden van gepersonaliseerde
+advertenties. unieke id's die worden opgeslagen in cookies, helpen
+bijvoorbeeld sites met het weergeven van content in uw browser in uw
+voorkeurstaal. u kunt uw browser zodanig instellen dat alle cookies worden
+geweigerd of dat een melding wordt gegeven wanneer een cookie wordt verzonden.
+meer informatie over [hoe google cookies
+gebruikt](technologies/cookies?hl=nl&gl=nl).
+
+op andere platforms dan browsers worden unieke id's gebruikt om een specifiek
+apparaat of een specifieke app op dat apparaat te herkennen. een unieke id
+zoals de advertentie-id wordt bijvoorbeeld gebruikt om relevante advertenties
+te bieden op android-apparaten en kan worden
+[beheerd](technologies/ads?hl=nl&gl=nl) in uw apparaatinstellingen. unieke
+id's kunnen ook zijn ingebouwd in een apparaat door de fabrikant (dit wordt
+soms een universeel unieke id of uuid genoemd), zoals het imei-nummer van een
+mobiele telefoon. de unieke id van een apparaat kan bijvoorbeeld worden
+gebruikt om onze service aan te passen aan uw apparaat of om apparaatproblemen
+te analyseren die verband houden met onze services.
+
+### verwijzende url
+
+een verwijzende url (uniform resource locator) bevat informatie die een
+webbrowser overdraagt naar een bestemmingswebsite. dit gebeurt meestal wanneer
+u op een link naar die webpagina klikt. de verwijzende url bevat de url van de
+laatste webpagina die de browser heeft bezocht.
+
+## aanvullende context
+
+### aangepaste zoekresultaten
+
+als u bijvoorbeeld bent ingelogd op uw google-account en de optie 'web- en
+app-activiteit' heeft ingeschakeld, kunt u relevantere zoekresultaten te zien
+krijgen die zijn gebaseerd op uw eerdere zoekopdrachten en activiteiten in
+andere google-services. meer informatie [vindt u
+hier](https://support.google.com/websearch?p=privpol_searchactivity&hl=nl). u
+kunt ook aangepaste zoekresultaten ontvangen wanneer u bent uitgelogd. als u
+geen prijs stelt op dit niveau van aangepast zoeken, kunt u [privé zoeken en
+browsen](https://support.google.com/websearch?p=privpol_incognito&hl=nl) of
+[personalisatie van zoekresultaten als u bent
+uitgelogd](https://www.google.com/history/optout?utm_source=pp&hl=nl)
+uitschakelen.
+
+### aanpassing van onze services
+
+we kunnen bijvoorbeeld een google-doodle weergeven op de homepage van google
+zoeken om een gebeurtenis te vieren die specifiek is voor uw land.
+
+### advertenties die u het nuttigst vindt
+
+als u bijvoorbeeld bakvideo's bekijkt op youtube, kunt u meer advertenties met
+betrekking tot bakken te zien krijgen als u op internet browst. we kunnen ook
+uw ip-adres gebruiken om uw locatie bij benadering te bepalen, zodat we u
+advertenties kunnen tonen voor een pizzabezorgservice in de buurt als u naar
+'pizza' zoekt. meer informatie [over google-
+advertenties](https://support.google.com/accounts?p=privpol_whyad&hl=nl) en
+[waarom u bepaalde advertenties te zien kunt
+krijgen](https://support.google.com/accounts?p=privpol_whyad&hl=nl).
+
+### advertenties en onderzoeksservices namens adverteerders
+
+adverteerders kunnen bijvoorbeeld gegevens uploaden die afkomstig zijn van hun
+klantenkaartprogramma, zodat ze beter inzicht krijgen in de prestaties van hun
+advertentiecampagnes. we verstrekken alleen totaalrapporten aan adverteerders
+die geen informatie bevatten over afzonderlijke mensen.
+
+### android-apparaat met google-apps
+
+android-apparaten met google-apps omvatten apparaten die worden verkocht door
+google of een van onze partners en zijn onder meer telefoons, camera's,
+voertuigen, wearables en televisies. deze apparaten maken gebruik van google
+play-services en andere vooraf geïnstalleerde apps die services omvatten zoals
+gmail, maps, de camera en telefoonkiezer van uw telefoon, tekst-naar-
+spraakomzetting, toetsenbordinvoer en beveiligingsfuncties.
+
+### apparaten
+
+we kunnen gegevens van uw apparaten bijvoorbeeld gebruiken om u te helpen
+besluiten welk apparaat u wilt gebruiken om een app te installeren of een film
+te kopen op google play. we kunnen deze gegevens ook gebruiken om u te helpen
+uw account te beschermen.
+
+### beschermen tegen misbruik
+
+informatie over bijvoorbeeld beveiligingsdreigingen kan ons helpen u te
+informeren als wij vermoeden dat uw account gevaar loopt (waarna we u kunnen
+helpen stappen te nemen om uw account te beschermen).
+
+### betalingsgegevens
+
+als u bijvoorbeeld een creditcard of andere betaalmethode toevoegt aan uw
+google-account, kunt u deze gebruiken om items te kopen via onze services,
+zoals apps in de play store. we kunnen ook vragen om andere gegevens, zoals uw
+btw-nummer om uw betaling te helpen verwerken. in sommige gevallen moeten we
+ook uw identiteit verifiëren en kunnen we vragen om gegevens waarmee we dat
+kunnen doen.
+
+we kunnen ook betalingsgegevens gebruiken om te verifiëren of u voldoet aan
+leeftijdsvereisten, als u bijvoorbeeld een onjuiste geboortedatum invoert
+waaruit blijkt dat u niet oud genoeg bent om een google-account te hebben.
+[meer informatie](https://support.google.com/accounts?p=privpol_agereq&hl=nl)
+
+### combineren van de door ons verzamelde gegevens
+
+enkele voorbeelden van hoe we de door ons verzamelde informatie combineren:
+
+  * als u bent ingelogd op uw google-account en een zoekopdracht uitvoert op google, kunt u zoekresultaten van het openbare internet zien, samen met relevante informatie uit de content die u heeft in andere google-producten, zoals gmail of google agenda. hierbij kunt u denken aan de status van een aanstaande vlucht, restaurant- en hotelreserveringen of uw foto's. [meer informatie](https://support.google.com/websearch?p=privpol_privresults&hl=nl)
+  * als u met iemand heeft gecommuniceerd via gmail en deze persoon wilt toevoegen aan een google-document of een afspraak in google agenda, maakt google dit gemakkelijk door zijn of haar e-mailadres automatisch aan te vullen wanneer u de naam begint te typen. deze functie maakt het makkelijker om content of informatie te delen met mensen die u kent. [meer informatie](https://support.google.com/accounts?p=autocontacts&hl=nl)
+  * de google-app kan gegevens gebruiken die u heeft opgeslagen in andere google-producten om u gepersonaliseerde content te tonen, afhankelijk van uw instellingen. als u bijvoorbeeld zoekopdrachten heeft opgeslagen in uw web- en app-activiteit, kan de google-app u nieuwsartikelen en andere informatie laten zien over uw interesses, zoals sportuitslagen, op basis van uw activiteit. [meer informatie](https://support.google.com/websearch?p=privpol_feed&hl=nl)
+  * als u uw google-account aan google home linkt, kunt u gegevens beheren en zaken regelen via de google assistent. u kunt bijvoorbeeld afspraken toevoegen aan uw google-agenda of uw planning voor de dag ontvangen, vragen om statusupdates voor uw volgende vlucht of informatie zoals een routebeschrijving naar uw telefoon verzenden. [meer informatie](https://support.google.com/googlehome?p=privpol_actions&hl=nl)
+
+### derden
+
+we verwerken uw gegevens bijvoorbeeld om gebruikersstatistieken te rapporteren
+aan de houders van rechten over hoe hun content is gebruikt in onze services.
+we kunnen uw gegevens ook verwerken als mensen naar uw naam zoeken en we
+zoekresultaten weergeven voor sites die openbaar beschikbare informatie over u
+bevatten.
+
+### gepersonaliseerde advertenties
+
+u kunt ook gepersonaliseerde advertenties zien op basis van informatie van de
+adverteerder. als u bijvoorbeeld heeft gewinkeld op de website van een
+adverteerder, kan die deze informatie gebruiken om u advertenties te tonen.
+[meer informatie](https://support.google.com/accounts?p=privpol_whyad&hl=nl)
+
+### gesynchroniseerd met uw google-account
+
+uw chrome-browsegeschiedenis wordt alleen in uw account opgeslagen als u
+chrome-synchronisatie voor uw google-account heeft ingeschakeld. [meer
+informatie](https://support.google.com/chrome?p=privpol_chrsync&hl=nl)
+
+### gevoelige categorieën
+
+bij de weergave van gepersonaliseerde advertenties gebruiken we onderwerpen
+waarvan wij denken dat u deze interessant vindt op basis van uw activiteiten.
+u kunt bijvoorbeeld advertenties zien voor koken en recepten of voor
+vliegreizen. we gebruiken geen onderwerpen en laten geen gepersonaliseerde
+advertenties zien op basis van gevoelige categorieën, zoals ras, religie,
+seksuele geaardheid of gezondheid. en we [eisen dit ook van de
+adverteerders](https://support.google.com/adwordspolicy?p=privpol_p13nad&hl=nl)
+die onze services gebruiken.
+
+### informatie over zaken in de buurt van uw apparaat
+
+als u gebruikmaakt van de locatieservices van google op android, kunnen we de
+prestaties van apps verbeteren die gebruikmaken van uw locatie, zoals google
+maps. als u de locatieservices van google gebruikt, verzendt uw apparaat
+informatie naar google over zijn locatie, sensoren (zoals de
+versnellingsmeter) en zendmasten en wifi-toegangspunten (zoals mac-adres en
+signaalsterkte) in de buurt. al deze signalen helpen uw locatie te bepalen. u
+kunt uw apparaatinstellingen gebruiken om de locatieservices van google in te
+schakelen. [meer
+informatie](https://support.google.com/accounts?p=privpol_androidloc&hl=nl)
+
+### juridische procedures of afdwingbare verzoeken van overheidsinstanties
+
+net zoals andere technologie- en communicatiebedrijven ontvangt google
+regelmatig verzoeken van overheden en rechtbanken van over de hele wereld om
+gebruikersgegevens openbaar te maken. respect voor de privacy en beveiliging
+van de gegevens die u opslaat bij google, typeert de manier waarop we omgaan
+met deze juridische verzoeken. ons juridische team controleert elk verzoek,
+ongeacht het type, en we dienen regelmatig bezwaar in als een verzoek te breed
+is of niet de juiste procedure volgt. u kunt meer informatie vinden in ons
+[transparantierapport](https://transparencyreport.google.com/user-
+data/overview?hl=nl).
+
+### kan informatie linken
+
+google analytics maakt gebruik van eigen cookies, wat inhoudt dat de cookies
+worden ingesteld door de klant van google analytics. met behulp van onze
+systemen kunnen gegevens die via google analytics zijn gegenereerd, door de
+google analytics-klant en door google aan cookies van derden worden gelinkt
+die verband houden met bezoeken aan andere websites. zo wil een adverteerder
+mogelijk zijn google analytics-gegevens gebruiken om relevantere advertenties
+te maken of om zijn verkeer verder te analyseren. [meer
+informatie](https://support.google.com/analytics?p=privpol_data&hl=nl)
+
+### misbruik detecteren
+
+wanneer we spam, malware, illegale content en andere vormen van misbruik die
+ons beleid schenden, detecteren op onze systemen, kunnen we uw account
+uitschakelen of passende actie ondernemen. onder bepaalde omstandigheden
+kunnen we de schending ook melden bij de bevoegde autoriteiten.
+
+### onze services leveren
+
+voorbeelden van hoe we uw gegevens gebruiken om onze services te leveren:
+
+  * we gebruiken het aan uw apparaat toegewezen ip-adres om u de gegevens te sturen waarom u heeft verzocht, zoals het laden van een youtube-video.
+  * we maken gebruik van unieke id's die zijn opgeslagen in cookies op uw apparaat om ons te helpen u te verifiëren als de persoon die toegang mag krijgen tot uw google-account.
+  * foto's en video's die u uploadt naar google foto's, worden gebruikt om albums, animaties en andere creaties te maken die u kunt delen. [meer informatie](https://support.google.com/photos?p=privpol_manage&hl=nl)
+  * een bevestigingsmail voor een vlucht kan worden gebruikt om een knop inchecken te maken die wordt weergegeven in uw gmail.
+  * wanneer u services of fysieke producten bij ons koopt, kunt u informatie aan ons verstrekken zoals uw verzendadres of bezorginstructies. we gebruiken deze gegevens onder meer voor het verwerken, uitvoeren en bezorgen van uw bestelling en om ondersteuning te bieden voor het product dat of de service die u koopt.
+
+### openbaar toegankelijke bronnen
+
+we kunnen bijvoorbeeld informatie verzamelen die online openbaar beschikbaar
+is of die afkomstig is van andere openbare bronnen om taalmodellen van google
+te helpen trainen en functies zoals google translate uit te bouwen.
+
+### passende beschermingsmaatregelen
+
+we kunnen bijvoorbeeld gegevens anonimiseren of versleutelen om te waarborgen
+dat deze niet aan andere informatie over u kunnen worden gekoppeld. [meer
+informatie](technologies/anonymization?hl=nl&gl=nl)
+
+### samenwerken met google
+
+er zijn meer dan twee miljoen externe websites en apps die samenwerken met
+google voor de weergave van advertenties. [meer
+informatie](https://support.google.com/accounts?p=privpol_controlads&hl=nl)
+
+### sensorgegevens van uw apparaat.
+
+uw apparaat kan over sensoren beschikken die kunnen worden gebruikt om beter
+inzicht te krijgen in uw locatie en verplaatsingen. een versnellingsmeter kan
+bijvoorbeeld worden gebruikt om uw snelheid te bepalen en een gyroscoop om de
+reisrichting te bepalen.
+
+### servers over de hele wereld
+
+we maken bijvoorbeeld gebruik van datacenters die zich [over de hele
+wereld](https://www.google.com/about/datacenters/inside/locations?hl=nl)
+bevinden om onze producten voortdurend beschikbaar te stellen aan onze
+gebruikers.
+
+### services om oproepen te plaatsen en te ontvangen of sms'jes te verzenden
+en te ontvangen
+
+voorbeelden van deze services zijn onder meer:
+
+  * google voice, om te bellen en om gesprekken te ontvangen, om sms-berichten te sturen en voicemail te beheren
+  * google meet, om videogesprekken te starten en te ontvangen
+  * gmail, om e-mails te sturen en te ontvangen
+  * google chat, om berichten te sturen en te ontvangen
+  * google duo, om videogesprekken te starten en te ontvangen en om berichten te sturen en te ontvangen
+  * google fi, voor een telefoonabonnement
+
+### specifieke google-services
+
+u kunt bijvoorbeeld [uw
+blog](https://support.google.com/blogger?p=privpol_blog&hl=nl) verwijderen van
+blogger of [een google-site waarvan u de eigenaar
+bent](https://support.google.com/sites?p=privpol_delete&hl=nl) verwijderen van
+google sites. u kunt ook
+[reviews](https://support.google.com/googleplay?p=privpol_review&hl=nl)
+verwijderen die u heeft achtergelaten voor apps, games en andere content in de
+play store.
+
+### specifieke partners
+
+we staan bijvoorbeeld youtube-videomakers en adverteerders toe om samen te
+werken met meetbureaus om meer informatie te krijgen over de doelgroep van hun
+youtube-video's of advertenties met behulp van cookies of soortgelijke
+technologieën. een ander voorbeeld zijn verkopers op onze winkelpagina's, die
+cookies gebruiken om te ontdekken hoeveel verschillende gebruikers hun
+productvermeldingen hebben gezien. [meer informatie](privacy/google-
+partners?hl=nl&gl=nl) over deze partners en hoe ze uw gegevens gebruiken.
+
+### telefoonnummer
+
+als u uw telefoonnummer toevoegt aan uw account, kan dit worden gebruikt voor
+verschillende doeleinden in google-services, afhankelijk van uw instellingen.
+uw telefoonnummer kan bijvoorbeeld worden gebruikt om u te helpen toegang te
+krijgen tot uw account als u uw wachtwoord vergeet, om mensen te helpen u te
+vinden en contact te leggen en om de advertenties die u ziet relevanter voor u
+te maken. [meer
+informatie](https://support.google.com/accounts?p=privpol_phone&hl=nl)
+
+### trends weergeven
+
+wanneer veel mensen naar hetzelfde gaan zoeken, kan dit nuttige informatie
+leveren over bepaalde actuele trends. google trends analyseert google-
+zoekopdrachten om de populariteit van zoekopdrachten tijdens een bepaalde
+periode te schatten. die resultaten worden vervolgens in verzamelde vorm
+openbaar gedeeld. [meer
+informatie](https://support.google.com/trends?p=privpol_about&hl=nl)
+
+### uw activiteit op andere sites en in andere apps
+
+deze activiteit kan afkomstig zijn uit uw gebruik van google-services zoals de
+synchronisatie van uw account met chrome of van uw bezoeken aan sites en apps
+die samenwerken met google. veel websites en apps werken samen met google om
+hun content en services te verbeteren. een website kan bijvoorbeeld
+gebruikmaken van onze advertentieservices (zoals adsense) of analysetools
+(zoals google analytics), of er kan andere content (zoals video's van youtube)
+op de website zijn ingesloten. deze services delen informatie over uw
+activiteit met google. afhankelijk van uw
+[accountinstellingen](https://myaccount.google.com/?hl=nl) en de gebruikte
+producten (bijvoorbeeld wanneer een partner google analytics gebruikt in
+combinatie met onze advertentieservices) kunnen deze gegevens aan uw
+persoonlijke gegevens worden gekoppeld.
+
+[meer informatie](technologies/partner-sites?hl=nl&gl=nl) over hoe google
+gegevens gebruikt wanneer u sites of apps van onze partners gebruikt.
+
+### veiligheid en betrouwbaarheid
+
+enkele voorbeelden van hoe we uw gegevens gebruiken om onze services veilig en
+betrouwbaar te houden:
+
+  * de verzameling en analyse van ip-adressen en cookiegegevens om te beschermen tegen automatisch misbruik. dit misbruik neemt vele vormen aan, waaronder verzending van spam naar gmail-gebruikers, het stelen van geld van adverteerders door middel van frauduleuze klikken op advertenties of censurering van content door middel van een ddos-aanval (distributed denial of service).
+  * met behulp van de functie 'laatste accountactiviteit' in gmail kun u achterhalen of en wanneer iemand zonder dat u het wist toegang heeft gehad tot uw e-mail. deze functie laat u informatie zien over recente activiteit in gmail, zoals de ip-adressen die toegang hebben gehad tot uw e-mail, plus de bijbehorende locatie, datum en tijd van die toegang. [meer informatie](https://support.google.com/mail?p=privpol_signinactivity&hl=nl)
+
+### verbeteringen aanbrengen
+
+we gebruiken bijvoorbeeld cookies om te analyseren hoe mensen onze services
+gebruiken. die analyse helpt ons weer om betere producten te maken. zo kunnen
+we er bijvoorbeeld achter komen dat het te lang duurt voordat mensen een
+bepaalde taak kunnen voltooien of dat ze überhaupt problemen hebben om alle
+stappen te voltooien. vervolgens kunnen we die functie opnieuw ontwerpen en
+het product zo voor iedereen verbeteren.
+
+### vertrouwen op cookies om naar behoren te werken
+
+we gebruiken bijvoorbeeld de cookie 'lbcs' waarmee u veel google-documenten in
+één browser kunt openen. als deze cookie wordt geblokkeerd, kan het zijn dat
+google documenten niet werkt zoals verwacht. [meer
+informatie](technologies/cookies?hl=nl&gl=nl#types-of-cookies)
+
+### waarborgen dat onze services werken zoals bedoeld
+
+we houden onze systemen bijvoorbeeld voortdurend in de gaten om problemen te
+signaleren. en als we constateren dat er iets mis is met een specifieke
+functie, kunnen we de functie sneller repareren door activiteitsinformatie te
+bekijken die is verzameld voordat het probleem optrad.
+
+### waarborgen en verbeteren
+
+we analyseren bijvoorbeeld hoe mensen interactie hebben met advertenties om de
+prestaties van onze advertenties te verbeteren.
+
+### weergaven van en interacties met content en advertenties;
+
+we verzamelen bijvoorbeeld informatie over weergaven van en interactie met
+advertenties, zodat we totaalrapporten kunnen verstrekken aan adverteerders en
+hun kunnen laten weten of we hun advertentie op een pagina hebben weergegeven
+en of de advertentie waarschijnlijk door een kijker is gezien. we kunnen ook
+andere interacties meten, zoals hoe u uw muis over een advertentie beweegt en
+of u iets heeft gedaan met de pagina waarop de advertentie werd weergegeven.
+
+### welke mensen online het belangrijkst voor u zijn
+
+als u bijvoorbeeld een adres typt in het veld aan, cc of bcc van een e-mail
+die u opstelt, stelt gmail adressen voor op basis van de mensen waar u [het
+vaakst contact mee heeft](https://contacts.google.com?hl=nl).
+
+![](https://www.gstatic.com/images/icons/material/system/svg/keyboard_arrow_up_24px.svg)
+
+taal wijzigen:afrikaansbahasa indonesiabahasa
+melayucatalàčeštinadanskdeutscheestienglishenglish (united
+kingdom)españolespañol (latinoamérica)euskarafilipinofrançaisfrançais
+(canada)galegohrvatskiisizuluíslenskaitalianokiswahililatviešulietuviųmagyarnederlandsnorskpolskiportuguês
+(brasil)português (portugal)românăslovenčinaslovenščinasrpskisuomisvenskatiếng
+việttürkçeελληνικάбългарскирусскийсрпскиукраїнська‫עברית‬‫اردو‬‫العربية‬‫فارسی‬አማርኛमराठीहिन्दीবাংলাગુજરાતીதமிழ்తెలుగుಕನ್ನಡമലയാളംไทย한국어中文
+(香港)中文（简体中文）中文（繁體中文）日本語
+
+  * [google](https://www.google.com/)
+  * [over google](https://about.google/)
+  * [privacybeleid](privacy?hl=nl&gl=nl)
+  * [voorwaarden](terms?hl=nl&gl=nl)
+
+google-apps
+
+hoofdmenu
+

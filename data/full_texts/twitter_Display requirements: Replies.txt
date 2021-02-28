@@ -1,0 +1,112 @@
+developer terms
+
+##  display requirements: replies
+
+##### reply
+
+##### please follow the following guidelines for displaying replies.
+
+for a default reply:
+
+![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewbox='0 0
+980 561'%3e%3c/svg%3e)
+
+for a reply with social context:
+
+![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewbox='0 0
+980 701'%3e%3c/svg%3e)
+
+for a quote tweet:
+
+![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewbox='0 0
+980 861'%3e%3c/svg%3e)
+
+[ developer agreement, policy & terms ](/en/more/developer-terms.html
+"developer agreement, policy & terms")
+
+[ follow @twitterdev ](http://twitter.com/twitterdev "follow @twitterdev")
+
+[ subscribe to developer news ](https://developer.twitter.com/en/twitterdev-
+news-subscription)
+
+####  twitter platform
+
+  * [ twitter.com ](https://twitter.com/ "twitter.com")
+  * [ status ](https://status.twitterstat.us/ "status")
+  * [ card validator ](https://cards-dev.twitter.com/validator "card validator")
+  * [ privacy center ](https://privacy.twitter.com/ "privacy center")
+  * [ transparency center ](https://transparency.twitter.com/ "transparency center")
+
+####  twitter, inc.
+
+  * [ about the company ](https://about.twitter.com/en/who-we-are/our-company.html "about the company")
+  * [ twitter for good ](https://about.twitter.com/en/who-we-are/twitter-for-good.html "twitter for good")
+  * [ company news ](https://blog.twitter.com/ "company news")
+  * [ brand toolkit ](https://about.twitter.com/en/who-we-are/brand-toolkit.html "brand toolkit")
+  * [ jobs and internships ](https://careers.twitter.com/ "jobs and internships")
+  * [ investors ](https://investor.twitterinc.com/ "investors")
+
+####  help
+
+  * [ help center ](https://help.twitter.com/ "help center")
+  * [ using twitter ](https://help.twitter.com/en/using-twitter "using twitter")
+  * [ twitter media ](https://media.twitter.com/ "twitter media")
+  * [ ads help center ](https://business.twitter.com/en/help.html "ads help center")
+  * [ managing your account ](https://help.twitter.com/en/managing-your-account "managing your account")
+  * [ safety and security ](https://help.twitter.com/en/safety-and-security "safety and security")
+  * [ rules and policies ](https://help.twitter.com/en/rules-and-policies "rules and policies")
+  * [ contact us ](https://help.twitter.com/contact-us "contact us")
+
+####  developer resources
+
+  * [ developer home ](https://developer.twitter.com/en "developer home")
+  * [ documentation ](https://developer.twitter.com/en/docs "documentation")
+  * [ forums ](https://twittercommunity.com/ "forums")
+  * [ communities ](https://developer.twitter.com/en/community "communities")
+  * [ developer blog ](https://blog.twitter.com/developer/ "developer blog")
+  * [ engineering blog ](https://blog.twitter.com/engineering/en_us.html "engineering blog")
+  * [ developer terms ](https://developer.twitter.com/en/more/developer-terms "developer terms")
+
+####  business resources
+
+  * [ advertise ](https://business.twitter.com/en/advertising.html "advertise")
+  * [ twitter for business ](https://business.twitter.com/ "twitter for business")
+  * [ resources and guides ](https://business.twitter.com/en/resources.html "resources and guides")
+  * [ twitter for marketers ](https://marketing.twitter.com/ "twitter for marketers")
+  * [ marketing insights ](https://marketing.twitter.com/en/insights "marketing insights")
+  * [ brand inspiration ](https://marketing.twitter.com/en/success-stories "brand inspiration")
+  * [ twitter data ](https://data.twitter.com/ "twitter data")
+  * [ twitter flight school ](https://www.twitterflightschool.com/sl/382652bc "twitter flight school")
+
+(c) 2021 twitter, inc.
+
+[ cookies ](https://help.twitter.com/rules-and-policies/twitter-cookies
+"cookies")
+
+[ privacy ](https://twitter.com/privacy "privacy")
+
+[ terms and conditions ](https://twitter.com/tos "terms and conditions")
+
+language
+
+  * [ developer ](/en/developer-terms/reply-requirements)
+
+by using twitterâs services you agree to our [cookies
+use](https://help.twitter.com/en/rules-and-policies/twitter-cookies). we use
+cookies for purposes including analytics, personalisation, and ads.
+
+  * ok
+
+this page and certain other twitter sites place and read third party cookies
+on your browser that are used for non-essential purposes including targeting
+of ads. through these cookies,
+_[google](https://policies.google.com/privacy?hl=en)_ ,
+_[linkedin](https://www.linkedin.com/legal/privacy-policy)_ and
+_[demandbase](https://www.demandbase.com/privacy-policy/)_ collect personal
+data about you for their own purposes.  _[learn
+more](https://help.twitter.com/en/rules-and-policies/twitter-cookies)_.  
+  
+
+  * accept
+  * decline
+

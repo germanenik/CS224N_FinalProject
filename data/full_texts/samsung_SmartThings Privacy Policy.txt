@@ -1,0 +1,329 @@
+[](/)
+
+[works with smartthings](/products)[partners](/partners)[getting
+started](/getting-started)[support](https://support.smartthings.com/)
+
+[works with smartthings](/products)
+
+[partners](/partners)
+
+[getting started](/getting-started)
+
+[support](https://support.smartthings.com/)
+
+[privacy policy](/privacy)
+
+[terms of use](/terms)
+
+[report a vulnerability](/responsible-disclosure)
+
+![]()
+
+# privacy policy
+
+ **effective date: june 22, 2020**
+
+we at samsung electronics co., ltd. (âsamsungâ) respect your concerns
+about privacy. this u.s. privacy notice applies to the personal information we
+collect through the smartthings products and services, which include the
+smartthings website, mobile apps, and devices, appliances, and software that
+you connect to the smartthings services (collectively, âsmartthingsâ). the
+notice does not apply to information collected by other services, apps or
+websites provided by samsung or its affiliated entities.
+
+in this u.s. privacy notice, we describe the types of information collected
+through smartthings, how we may use the information, with whom we may share it
+and the choices available to you regarding our use of the information. we also
+describe the measures we take to safeguard the information and tell you how to
+contact us about our privacy practices.
+
+click on one of the links below to jump to the listed section:
+
+  * **information we obtain about you**
+
+    * **video and audio devices**
+  * **information we obtain by automated means**
+
+    * **third-party web analytics services**
+    * **online tracking and interest-based advertising**
+  * **how we use the information we obtain**
+  * **information sharing**
+  * **notice to california residents**
+  * **links to other devices, apps and features**
+  * **your choices**
+  * **how we protect personal information**
+  * **childrenâs personal information**
+  * **updates to this u.s. privacy notice**
+  * **how to contact us**
+
+### information we obtain about you
+
+through smartthings, we may obtain information about you in various ways. the
+types of personal information we may obtain include:
+
+  * contact information, such as name, email and postal address and phone number;
+  * payment card information, such as card number, expiration date and security code;
+  * samsung account information, such as nickname, samsung account id and password;
+  * username and password for participating third-party devices, apps, features or services;
+  * residence information, such as information about your home (e.g., the approximate square footage);
+  * with your permission, the geolocation of your mobile device and connected devices (please note that if you do not allow smartthings to collect your precise geolocation, you may not be able to use all of the features of smartthings);
+  * for users who connect samsung smart tv to smartthings, information about the smart tv content users purchase, usersâ coupon or gift card numbers, and information about usersâ samsung or third-party digital calendars;
+  * for users who choose to share their images and video clips (not recorded by the home monitoring camera) stored on your device with other smartthings users, smartthings will collect the images and video clips; and
+  * for users who connect samsung family hub to smartthings through smartthings cooking, with your permission, we may obtain information about your family hub interactions, including your touch interactions and other inputs (such as your dietary preferences), and the information you receive from family hub (such as responses, answers and content). if you submit information to family hub that is sensitive in nature (i.e., health information), that may also be collected and processed for the purposes set out below. we also may obtain other information related to your use of family hub, including the information (such as information related to the apps you use, the websites you visit and content and data from whisk and other samsung apps, websites and services) we receive from samsung and whisk apps and services that are accessed or used by family hub, including username and password for whisk apps, features or services, to provide you with family hub (such as social media, email and instant messaging apps).
+
+we also may collect other information about you, your devices/appliances and
+apps, and your use of smartthings in ways that we describe to you at the time
+of collection or otherwise with your consent.
+
+#### smartthings cooking
+
+any information you enter into smartthings cooking will override the existing
+information in your family hub. for example, if you input your dietary
+preferences through smartthings cooking, your family hub will be updated to
+include those dietary preferences. you can add, remove, or change your dietary
+preferences using either smartthings cooking or family hub.
+
+#### video and audio devices
+
+if you connect video or audio recording devices to smartthings, to provide you
+with our services, we may obtain content (and related information) that is
+captured and recorded by those devices, such as video or audio recordings,
+live video or audio streams, and images. in addition, for users who connect
+samsungâs bixby voice assistant to smartthings, we may obtain audio content
+from your communications with bixby (e.g.â¸ voice commands).
+
+privacy and video surveillance laws in your jurisdiction may apply to your use
+of our products and services, including but not limited to video and audio
+recordings made by your smartthings-connected devices, as well as audio
+content obtained through bixby. please ensure that you comply with applicable
+law when you use our products or services. for example, you may need to
+display a notice that alerts visitors to your home that you are using our
+products or services. capturing, recording or sharing video or audio content
+that involves other people may affect their privacy rights.
+
+### information we obtain by automated means
+
+when you interact with smartthings, we may obtain certain information through
+automated means, such as browser cookies, pixels, web server logs, web beacons
+and other technologies. among other purposes, these technologies help us (1)
+remember your information so you will not have to re-enter it; (2) track and
+understand how you use and interact with smartthings; (3) tailor smartthings
+around your preferences; (4) manage and measure the usability of smartthings;
+(5) understand the effectiveness of our communications; and (6) otherwise
+enhance smartthings.
+
+information we may obtain in this manner includes:
+
+  * information about your devices and appliances that are connected to smartthings, including device/appliance name, model and model number, group name and location name assigned to the device/appliance, settings and configurations, sensor data, error and malfunction logs, network environment information, current software version, os version, mobile country code, mobile network operator, serial number, ip address, imei number, mac address, sim card, wifi ssid and password, and device/appliance automation name and configuration information;
+  * information about your usage of samsung and third-party devices, appliances, and software that you choose to connect to smartthings (e.g., the length of time you use a connected device);
+  * data that the devices and appliances connected to smartthings collect from their surrounding environment to perform their functions (such as data about motion, events, temperature, and light); and
+  * information about your use of the smartthings website or mobile apps, including app settings, connections to other devices, your interactions with smartthings (such as the app and web pages you visit, search terms and features you use), clickstream data, the pages that led or referred you to the smartthings website or mobile apps, and dates and times of your use of the smartthings website or mobile apps.
+
+your web browser may tell you how to be notified when you receive certain
+types of cookies or how to restrict or disable certain types of cookies. you
+can find out how to do this for your particular browser by clicking âhelpâ
+on your browserâs menu or visiting
+[www.allaboutcookies.org/](https://www.allaboutcookies.org/). for mobile
+devices, you can manage how your device and browser share certain device data
+by adjusting the privacy and security settings on your device. smartthings is
+not designed to respond to âdo not trackâ signals received from browsers.
+please note that without cookies you may not be able to use or benefit from
+all of the features of smartthings.
+
+#### third-party web analytics services
+
+we may collect personal information about your online activities on websites
+and connected devices over time and across third-party websites, devices, apps
+and other online features and services. we may use third-party analytics
+services, such as google analytics. the information we obtain may be disclosed
+to or collected directly by these providers and other relevant third parties
+who use the information, for example, to evaluate use of smartthings and to
+help administer the smartthings website. to learn more about google analytics,
+please visit
+[www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/).
+
+#### online tracking and interest-based advertising
+
+we may collect information about your online activities to provide you with
+advertising about products and services tailored to your interests. you may
+see our ads on other websites or mobile apps because we engage in online
+advertising. this allows us to target our messaging to users considering
+demographic data, usersâ inferred interests, and browsing context. ad
+technology companies track usersâ online activities over time by collecting
+information through automated means, including through the use of cookies, web
+server logs, web beacons and other similar technologies. this information is
+used to show ads that may be tailored to individualsâ interests, to track
+usersâ browsers or devices across multiple websites, and to build a profile
+of usersâ online browsing activities. the information collected may include
+data about usersâ visits to websites that participate in the online ad
+ecosystem, such as the pages or ads viewed and the actions taken on the
+websites. this data collection takes place both on smartthings.com and on
+third-party websites that participate in the online ad ecosystem. this process
+also helps us track the effectiveness of our marketing efforts. to learn how
+to opt out of interest-based advertising, please visit
+[www.aboutads.info/choices](https://www.aboutads.info/choices) and
+[www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/).
+
+### how we use the information we obtain
+
+we may use the information we obtain through smartthings:
+
+  * to provide you with smartthings and other integrated products and services;
+  * to link your samsung account to connected third-party devices, apps, features or services;
+  * for samsung smart tv users, to (1) enable users to purchase smart tv digital content, (2) provide a history of purchased smart tv digital content, (3) enable users to set reminders for smart tv digital content and (4) enable users to receive calendar notifications on samsung smart tv;
+  * for users who connect video or audio recording devices to smartthings (e.g., video cameras), to enable access to such recordings;
+  * for users who connect to smartthings cooking through smartthings, to provide you with family hub services, such as viewing recipes, and creating and managing shopping lists, as smartthings and family hub are interconnected by samsung account;
+  * to respond to your requests and inquiries;
+  * to communicate with you about smartthings;
+  * to provide a remote management service for errors or malfunctions associated with the samsung home appliances connected to smartthings;
+  * to provide you with notifications, content, alerts, offers, customized recommendations, promotions, marketing information, communications and advertisements in connection with smartthings and other samsung products and services;
+  * to operate, evaluate and improve our business (including developing new products and services; enhancing and improving our products and services and smartthings; managing our communications; analyzing our products and services, consumer base and smartthings; aggregating and anonymizing data and performing data analytics; and performing accounting, auditing and other internal functions);
+  * to protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; and
+  * to comply with and enforce applicable legal requirements, relevant industry standards and our policies, including this smartthings u.s. privacy notice, the samsung privacy policy for the u.s. at <https://www.samsung.com/us/account/privacy-policy/> and the smartthings terms of service <https://terms.account.samsung.com/contents/legal/usa/eng/general.html>.
+
+through smartthings, we may collect personal information about your online
+activities on connected devices over time and across third-party devices, apps
+and other online features and services.
+
+### information sharing
+
+we may share your personal information with (1) our subsidiaries and
+affiliates and (2) our service providers who perform services on our behalf.
+we do not authorize our service providers to retain, use or disclose your
+personal information except as necessary to perform services on our behalf or
+comply with legal requirements. in addition, we may share your personal
+information with wireless carriers, as well as third parties that operate
+devices, apps and services that you connect to smartthings. if you create a
+smartthings location group, certain personal information you share with
+smartthings, including your geolocation data, may be shared with members of
+your location group.
+
+we also may disclose personal information about you (1) if we are required to
+do so by law or legal process (such as a court order or subpoena); (2) in
+response to requests by government agencies, such as law enforcement
+authorities; (3) to establish, exercise or defend our legal rights; (4) when
+we believe disclosure is necessary or appropriate to prevent physical or other
+harm or financial loss; (5) in connection with an investigation of suspected
+or actual illegal activity; or (6) otherwise with your consent. in addition,
+we may share personal information we collect through smartthings at your
+request.
+
+we reserve the right to transfer any personal information we have about you in
+the event we sell or transfer (or contemplate the sale or transfer of) all or
+a portion of our business or assets (including in the event of a merger,
+acquisition, joint venture, reorganization, divestiture, dissolution or
+liquidation).
+
+### notice to california residents
+
+if you are a california consumer, for more information about your privacy
+rights, please see the section of the samsung privacy policy called
+âcalifornia consumer privacy statementâ available at
+<https://www.samsung.com/us/account/privacy-policy>.
+
+### links to other devices, apps and features
+
+smartthings may provide the ability to connect to other devices, apps and
+features. these devices, apps and features may operate independently from us
+and may have their own privacy notices or policies, which we strongly suggest
+you review. to the extent any linked device, app or feature is not owned or
+controlled by us, we are not responsible for its content, any use of the
+device, app or feature, or the privacy practices of the operator of the
+device, app or feature.
+
+### your choices
+
+we offer you certain choices in connection with the personal information we
+obtain about you. to update your preferences, limit the communications you
+receive from us or submit a request, please contact us as specified in the how
+to contact us section of this u.s. privacy notice.
+
+please visit the settings on your samsung account for choices that may be
+available to you in connection with your use of smartthings. your samsung
+account offers choices related to sharing certain information with smartthings
+and receiving certain marketing information and communications about products,
+services and promotions from samsung. you also may update the personal
+information you share with smartthings through the smartthings settings,
+including your name, email address, samsung account id and password, user
+profile (including any content you uploaded), device/appliance automation name
+and configuration information, and location, group and device information.
+
+please note that if you decline to allow smartthings to collect or share
+certain information, you may not be able to use all of the features available
+through smartthings.
+
+### how we protect personal information
+
+we maintain administrative, technical and physical safeguards designed to
+protect personal information we obtain through smartthings against accidental,
+unlawful or unauthorized destruction, loss, alteration, access, disclosure or
+use.
+
+### childrenâs personal information
+
+certain smartthings products and services are intended for use by children
+under the age 13. through these smartthings products and services, samsung may
+collect device identifiers (e.g., device model, name, serial number, imei
+number, sim card number, wifi ssid and password, and mac address), device
+settings and logs, and geolocation information from children under age 13.
+samsung provides this information to the parent holder of the samsung account
+associated with the smartthings device. samsung may combine the information
+collected from children under age 13 with information associated with the
+parentâs smartthings app and the parentâs samsung account. samsung may
+share the geolocation information collected from children under age 13 with
+the parentâs wireless carrier to provide customer service. samsung also may
+share information collected from children under age 13 with its subsidiaries
+and affiliates, and with its service providers.
+
+a parent may review and/or request to have deleted the childâs personal
+information collected by samsung through smartthings, and may refuse to permit
+its further collection or use. to exercise these choices, please contact us as
+specified in the how to contact us section of this u.s. privacy notice.
+
+### updates to this u.s. privacy notice
+
+this u.s. privacy notice may be updated periodically and without prior notice
+to you to reflect changes in our personal information practices with respect
+to smartthings. we will post a notice on the smartthings app to notify you of
+significant changes to this u.s. privacy notice and indicate at the top of
+this notice when it was most recently updated.
+
+how to contact us
+
+to update your preferences, update or correct your information, submit a
+request or ask us questions about this u.s. privacy notice, please contact us
+at:
+
+privacy office  
+samsung electronics america, inc.  
+85 challenger road  
+ridgefield park, nj 07660
+
+or via email to [naprivacy@sea.samsung.com](mailto:naprivacy@sea.samsung.com).
+
+discover
+
+[works with smartthings](/products)[partners](/partners)[getting
+started](/getting-started)
+
+engage
+
+[developers](https://smartthings.developer.samsung.com/)[blog](https://blog.smartthings.com/)[press
+kit](/press-kit)
+
+help center
+
+[support](https://support.smartthings.com/)[community](https://community.smartthings.com/)[careers](
+https://smartthings.pinpointhq.com/)
+
+* * *
+
+[â© 2020 smartthings, inc.](/)
+
+[report vulnerability](/responsible-
+disclosure)[privacy](/privacy)[terms](/terms)
+
+[![icon](//images.ctfassets.net/5p6j3mtycvy3/kreqzgrsh1jdohiu1yjos/7350625ae3af231c660142eb4cbf7dca/logo_instagram.svg)](https://www.instagram.com/smartthings/
+"instagram")[![icon](//images.ctfassets.net/5p6j3mtycvy3/1l84zqudgnrb0ioo8moi60/4b9c97412030a812f2c693703fdc473c/logo_twitter.svg)](https://twitter.com/smartthings
+"twitter")
+

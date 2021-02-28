@@ -1,0 +1,10 @@
+# 404 not found
+
+  * code: nosuchkey
+  * message: the specified key does not exist.
+  * key: legals/eula
+  * requestid: 2ba4a78104562feb
+  * hostid: 5guoxt2hwrokmueasissrwebulzifrycuz1odtrzppddvrrco+g5pssg9pslmu8zlcrvtwvuitw=
+
+* * *
+

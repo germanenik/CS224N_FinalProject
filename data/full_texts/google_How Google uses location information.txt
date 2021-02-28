@@ -1,0 +1,269 @@
+[privacy & terms](/ "privacy & terms")
+
+[](https://www.google.com/intl/en/about/products)
+
+[sign
+in](https://accounts.google.com/servicelogin?passive=1209600&continue=https://policies.google.com/technologies/location-
+data?hl%3den&followup=https://policies.google.com/technologies/location-
+data?hl%3den&hl=en&ec=gazaoqq)
+
+  * [overview](?hl=en)
+  * [privacy policy](privacy?hl=en)
+  * [terms of service](terms?hl=en)
+  * [technologies](technologies?hl=en)
+  * [faq](faq?hl=en)
+
+#
+[![google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png)](https://www.google.com/?hl=en)
+
+# privacy & terms
+
+  * [overview](?hl=en)
+  * [privacy policy](privacy?hl=en)
+  * [terms of service](terms?hl=en)
+  * [technologies](technologies?hl=en)
+    * [advertising](technologies/ads?hl=en)
+    * [how google uses cookies](technologies/cookies?hl=en)
+    * [how google uses pattern recognition](technologies/pattern-recognition?hl=en)
+    * [how google uses location information](technologies/location-data?hl=en)
+    * [how google uses credit card numbers for payments](technologies/wallet?hl=en)
+    * [how google voice works](technologies/voice?hl=en)
+    * [google product privacy guide](technologies/product-privacy?hl=en)
+    * [how google retains data we collect](technologies/retention?hl=en)
+  * [faq](faq?hl=en)
+
+[privacy & terms](/ "privacy & terms")
+
+#
+[![google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png)](https://www.google.com/?hl=en)
+
+## [privacy & terms](?hl=en)
+
+  * [overview](?hl=en)
+  * [privacy policy](privacy?hl=en)
+  * [terms of service](terms?hl=en)
+  * [technologies](technologies?hl=en)
+  * [faq](faq?hl=en)
+  * [google account](https://myaccount.google.com/?hl=en)
+
+  * [technologies](technologies?hl=en)
+  * [advertising](technologies/ads?hl=en)
+  * [how google uses cookies](technologies/cookies?hl=en)
+  * [how google uses pattern recognition](technologies/pattern-recognition?hl=en)
+  * how google uses location information
+  * [how google uses credit card numbers for payments](technologies/wallet?hl=en)
+  * [how google voice works](technologies/voice?hl=en)
+  * [google product privacy guide](technologies/product-privacy?hl=en)
+  * [how google retains data we collect](technologies/retention?hl=en)
+
+# how google uses location information
+
+  * [why does google use location information?](technologies/location-data?hl=en#why-use)
+  * [how does google know my location?](technologies/location-data?hl=en#how-find)
+  * [how is location saved in my google account?](technologies/location-data?hl=en#how-save)
+  * [how is location used to show ads?](technologies/location-data?hl=en#show-ads)
+
+## why does google use location information?
+
+the [google privacy policy](privacy?hl=en) describes how we treat information
+when you use google’s products and services, including location information.
+this page provides additional information about the location information we
+collect and how you can control it.
+
+providing useful, meaningful experiences is at the core of what google does,
+and location information plays an important role in doing just that. from
+driving directions, to making sure your search results include things near
+you, to showing you when a restaurant is typically busy, location can make
+your experiences across google more relevant and helpful. location information
+also helps with some core product functionality, like providing a website in
+the right language or helping to keep google’s services secure.
+
+## how does google know my location?
+
+depending on the products you’re using and settings you choose, you may
+provide google with different types of location information that are critical
+to making some services work and making others more useful for you. location
+can come from real-time signals, like your ip address or device location, and
+also your past activity on google sites and services, to tailor experiences
+for your context. below are the primary ways we may get information about your
+location.
+
+### from the ip address of your internet connection
+
+an ip address (also called internet address) is assigned to your device by
+your internet service provider, and is a requirement to use the internet. ip
+addresses are used to make the connection between your device and the websites
+and services you use. ip addresses are roughly based on geography. this means
+that any website you use, including google.com, may get some information about
+your general area.
+
+like many other internet services, google can use information about the
+general area that you’re in to provide some basic services. estimating the
+general area that you’re in means for instance that google can give you
+relevant results, and keep your account safe by detecting unusual activity,
+such as signing in from a new city.
+
+### from your past activity
+
+as you use our services, we may infer that you’re interested in a place even
+if your device isn’t telling us exactly where you are. for example, if you
+search for “cafes in paris”, we may assume that you would like to see places
+near paris and show you results of cafes there. some items from your activity,
+such as previous searches, may also include the general area you were in at
+the time. depending on your settings, this type of information may be stored
+with your account and used as an input, for example to decide whether you
+might still be in paris when you do more searches at a later time.
+
+### from your labeled places
+
+you might also choose to tell us about places that are important to you, such
+as your home or your work. this could help you do things like pull up
+directions faster by automatically pulling up your home and work addresses.
+this information can also be used to influence the results that we provide to
+you. [learn more](https://support.google.com/maps/answer/3093979?hl=en)
+
+### from your devices
+
+many devices, like phones or computers, can work out their precise location.
+you can allow google and other apps to provide you with useful features based
+on where your device is located. for example, if you’re running late to meet
+your friends, you’ll probably want to use a navigation app to know the
+quickest way to get to your destination. to get turn-by-turn directions, you
+may need to turn on your device’s location and give the app the permission to
+access it. or for some searches like “coffee shop”, “bus stop” or “atm”,
+results will usually be more helpful when precise location is available.
+
+on your android device, if you choose to [turn
+on](https://support.google.com/accounts/answer/3467281?hl=en) your device
+location, you can use features like navigation, giving an app access to your
+current location, or find your phone. you can also choose which apps have
+permission to use your device’s location with simple controls that let you
+turn the permission on or off for individual apps. on android, you can see
+when an app is requesting to use your phone’s gps-based location when the top
+of your screen shows
+location![](https://www.gstatic.com/images/icons/material/system_gm/1x/location_on_black_24dp.png).
+[learn more](https://support.google.com/accounts/answer/3467281?hl=en)
+
+> #### google location services
+>
+> on most android devices, google, as the network location provider, provides
+> a location service called google location services (gls), known in android 9
+> and above as google location accuracy. this service aims to provide a more
+> accurate device location and generally improve location accuracy. most
+> mobile phones are equipped with gps, which uses signals from satellites to
+> determine a device’s location – however, with google location services,
+> additional information from nearby wi-fi, mobile networks, and device
+> sensors can be collected to determine your device’s location. it does this
+> by periodically collecting location data from your device and using it in an
+> anonymous way to improve location accuracy.
+>
+> you can disable google location services at any time in your device’s
+> location settings. your device’s location will continue to work even if gls
+> is turned off, but the device will rely only on gps to estimate device
+> location for apps with the necessary permission. google location services is
+> distinct from your device’s location setting. [learn
+> more](https://support.google.com/accounts/answer/3467281?hl=en)
+
+the settings and permissions on android control whether your device sensors
+(like gps) or network-based location (like gls) are used to determine your
+location and which apps have access to that location. they do not impact how
+websites and apps might estimate your location in other ways, such as from
+your ip address.
+
+## how is location saved in my google account?
+
+depending on the google products and services that you use and your settings,
+google may be saving location information to your google account. two of the
+most common places where this information may be saved is location history and
+web & app activity.
+
+### google location history
+
+if you opt in to location history and your device is reporting location, the
+precise location of your signed-in devices will be collected and stored, even
+when you’re not actively using a google product or service. this helps create
+your [timeline](https://www.google.com/maps/timeline?hl=en) where location
+history data is stored, and may be used to power future recommendations on
+google. you can review, edit, and delete what’s saved in your
+[timeline](https://www.google.com/maps/timeline?hl=en) at any time.
+
+turning on location history provides more personalized experiences across
+google—restaurants suggested in google maps based on dining spots you’ve
+visited, real-time information about the best time to leave for home or work
+in order to beat the traffic, and albums in google photos automatically
+created from places you’ve visited.
+
+to determine if you’ve turned on location history, visit your [activity
+controls](https://myaccount.google.com/activitycontrols?hl=en). you may be
+asked to sign in, and from there, you can view whether this control is on.
+while you may pause the collection of new location history data, your past
+location history data will continue to be stored until you delete it. [learn
+more](https://support.google.com/accounts/answer/3118687?hl=en)
+
+if you delete your location history data, you may still have other location
+data saved elsewhere—such as in web & app activity.
+
+### web & app activity
+
+if web & app activity is enabled, your searches and [activity from a number of
+other google services](https://myactivity.google.com/myactivity?hl=en) are
+saved to your google account. the activity saved to web & app activity may
+also include location information. as an example, if you type in “weather” in
+search and get weather results based on where you are, this activity,
+including the location used to provide this result, is saved to your web & app
+activity. the location used and stored with your web & app activity can come
+from signals like the device’s ip address, your past activity, or from your
+device, if you’ve chosen to turn on your device’s location settings.
+
+turning on your web & app activity setting helps us show you more useful
+search results, more relevant ads, and more tailored suggestions–like when you
+see your search automatically suggested based on past searches. you can review
+and delete what’s in your web & app activity, or pause it for your google
+account. pausing web & app activity will stop saving your future searches and
+activity from other google services. even if you delete your web & app
+activity data, you may still have location data saved elsewhere—such as in
+location history.
+
+to determine if you’ve turned on web & app activity, visit your [activity
+controls](https://myaccount.google.com/activitycontrols?hl=en). you may be
+asked to sign in, and from there, you can view whether this control is on.
+[learn more](https://support.google.com/websearch/answer/54068?hl=en)
+
+## how is location used to show ads?
+
+ads can be served based on your general location. this can include location
+derived from the device’s ip address. depending on your ads personalization
+settings, you may also see ads based on your activity in your google account.
+this includes activity stored in your web & app activity, which can be used
+for more useful ads. another example is if you have enabled location history
+and regularly frequent ski resorts, you might later see an ad for ski
+equipment when watching a video on youtube. google also uses [location
+history](https://support.google.com/accounts/answer/3118687?hl=en) in an
+anonymized and aggregated manner, for users who have chosen to opt-in to it,
+to [help advertisers measure](https://support.google.com/google-
+ads/answer/6100636?hl=en) how often an online ad campaign helps drive traffic
+to physical stores or properties. we do not share location history or any
+other identifying information with advertisers.
+
+you have control over the data stored in your google account, and can [turn
+off personalized ads](https://adssettings.google.com/?utm_source=ps-
+tech&hl=en) at any time. when ads personalization is off, google does not use
+the data stored in your google account to serve you more relevant ads.
+
+change language:afrikaansbahasa indonesiabahasa
+melayucatalàčeštinadanskdeutscheestienglishenglish (united
+kingdom)españolespañol (latinoamérica)euskarafilipinofrançaisfrançais
+(canada)galegohrvatskiisizuluíslenskaitalianokiswahililatviešulietuviųmagyarnederlandsnorskpolskiportuguês
+(brasil)português (portugal)românăslovenčinaslovenščinasrpskisuomisvenskatiếng
+việttürkçeελληνικάбългарскирусскийсрпскиукраїнська‫עברית‬‫اردو‬‫العربية‬‫فارسی‬አማርኛमराठीहिन्दीবাংলাગુજરાતીதமிழ்తెలుగుಕನ್ನಡമലയാളംไทย한국어中文
+(香港)中文（简体中文）中文（繁體中文）日本語
+
+  * [google](https://www.google.com/)
+  * [about google](https://about.google/)
+  * [privacy](privacy?hl=en)
+  * [terms](terms?hl=en)
+
+google apps
+
+main menu
+

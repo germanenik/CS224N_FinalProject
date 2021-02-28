@@ -1,0 +1,356 @@
+  * global nav open menu global nav close menu
+  * [ apple ](/)
+  * [ shopping bag ](/us/shop/goto/bag) +
+
+[ search apple.com cancel ](/us/search)
+
+  * [ apple ](/)
+  * [ mac ](/mac/)
+  * [ ipad ](/ipad/)
+  * [ iphone ](/iphone/)
+  * [ watch ](/watch/)
+  * [ tv ](/tv/)
+  * [ music ](/music/)
+  * [ support ](https://support.apple.com)
+  * [](/us/search)
+  * [ shopping bag ](/us/shop/goto/bag) +
+
+cancel
+
+[ privacy ](/privacy/)
+
+local nav open menu local nav close menu
+
+  * overview
+  * [features](/privacy/features/)
+  * [control](/privacy/control/)
+  * [transparency report](/legal/transparency/)
+  * [privacy policy](/legal/privacy/en-ww/)
+
+#
+
+privacy
+
+privacy is a fundamental human right. at apple, it’s also one of our core
+values. your devices are important to so many parts of your life. what you
+share from those experiences, and who you share it with, should be up to you.
+we design apple products to protect your privacy and give you control over
+your information. it’s not always easy. but that’s the kind of innovation we
+believe in.
+
+## your data.  
+your choice.
+
+starting in early 2021, you get greater control over how apps track you. learn
+about the practices of the data collection industry to see what having more
+choice means for you.
+
+[view a day in the life of your data
+(pdf)](/privacy/docs/a_day_in_the_life_of_your_data.pdf)
+
+## everyday apps. designed for your privacy.
+
+### safari throws trackers off your trail.
+
+intelligent tracking prevention helps stop advertisers that follow you from
+site to site.
+
+____ close more about safari
+
+## safari
+
+some websites allow hundreds of different data collection companies to watch
+you, build a profile of you, and serve you ads as you browse the web.
+intelligent tracking prevention in safari uses on-device machine learning to
+help block those trackers. and you can get a snapshot of all the cross-site
+trackers safari is blocking by visiting your privacy report in the safari
+toolbar.
+
+advertisers can also create a “fingerprint” of your device to target you based
+on characteristics like your browser configuration, and fonts and plug-ins
+you’ve installed. to help prevent this, safari has built-in fingerprinting
+defense, which shares a simplified system profile with websites you visit.
+making it even more difficult for data companies to identify you.
+
+### maps makes your location history, history.
+
+the maps app doesn’t associate your data with your apple id, and apple doesn’t
+keep a history of where you’ve been.
+
+____ close more about maps
+
+## maps
+
+where you go says a lot about you. maps delivers a great experience without
+apple knowing which stores, neighborhoods, or clinics you visit. and because
+maps doesn’t include a sign-in, where you go isn’t associated with your apple
+id at all.
+
+personalized features, like locating your parked car, are created right on
+your device. data used to improve navigation, such as routes and search terms,
+is not associated with your identity. instead, that information is based on
+random identifiers that are constantly changing.
+
+### photos protects your images from unwanted exposure.
+
+the photos app uses machine learning to organize photos right on your device.
+so you don’t need to share them with apple or anyone else.
+
+____ close more about photos
+
+## photos
+
+your photo and video albums are full of precious moments, friends, and your
+favorite things. apple devices are designed so those memories don’t leave your
+hands until you share them.
+
+some services process photos in the cloud, which gives them access to your
+photos. but we designed photos to process your images right on your mac,
+iphone, and ipad. in fact, the apple neural engine with the a13 and a14 bionic
+chips performs over 100 billion operations per photo to recognize faces and
+places without ever leaving your device. and when apps request access to your
+photos, you can share just the images you want — not your entire library.
+
+### messages are only seen by who you send them to.
+
+apple can’t read your imessages while they’re being sent between you and the
+person you’re texting.
+
+____ close more about messages
+
+## messages
+
+from inside jokes to invitations, a lot of life happens in text and video
+chats. every blue-bubble message, picture, animoji, and video is encrypted
+while being sent between devices.
+
+smart suggestions in messages, like pulling up photos to send based on who
+you’re messaging, are all done on your device.
+
+### siri learns what you need. not who you are.
+
+your apple id isn’t connected to siri, and your requests are associated with a
+random identifier. not you.
+
+____ close more about siri
+
+## siri
+
+siri was designed from the beginning to learn your preferences without sharing
+your identity with apple or anyone else. you don’t sign in with your apple id
+to use siri, and your device processes as much information as possible without
+sending it to apple’s servers.
+
+when apple does process or store data on our servers, it’s associated with a
+random identifier — a long string of letters and numbers. that data is used
+only to improve siri, and we never share or sell it. apple doesn’t retain
+audio of your requests unless you choose to share it with us to improve siri.
+
+### apple news leaves what you read off the record.
+
+apple news delivers content based on your interests, but it isn’t connected to
+your identity. so apple doesn’t know what you’ve read.
+
+____ close more about apple news
+
+## apple news
+
+many news sources keep track of your identity and create a profile of you.
+apple news delivers personalized content without knowing who you are. the
+content you read is associated with a random identifier, not your apple id.
+
+you get editor-curated content and a personalized newsfeed so you can stay up
+to date with the latest news and stories. and because apple news uses machine
+learning, the more you use it, the better your app gets to know what you like
+— without apple ever knowing what you’re into.
+
+### wallet and apple pay help hide what you buy.
+
+your credit and debit card numbers are hidden from apple, and apple doesn’t
+keep transaction information that can be tied back to you.
+
+____ close more about wallet and apple pay
+
+## wallet & apple pay
+
+what you buy, where you bought it, and how much you paid is sensitive
+information. apple doesn’t store, sell, or use that information.
+
+apple doesn’t store your credit or debit card numbers or share them with
+merchants. instead, a unique device account number is created every time you
+add a card to apple pay. and with apple card, your spending history is
+generated right on your iphone, so only the bank has that history.
+
+### health keeps your records under wraps.
+
+you control which information goes into the health app and who you share it
+with.
+
+____ close more about health
+
+## health
+
+from your heart rate to your menstrual cycle, apps and devices for your health
+can give you insight into some of your most personal details. with the health
+app, you’re in charge of what information you’d like to include, what not to,
+and who has access to it.
+
+all of your data is encrypted and only accessible with your passcode, touch
+id, or face id. so however you use the health app, you’re always in control of
+your data.
+
+new
+
+### app store shows you what’s in store for your data.
+
+easy-to-read summaries on the app store help you choose apps based on how they
+use your data and whether they track you.
+
+____ close more about app store
+
+## app store
+
+every one of the more than 1.8 million apps on the app store is required to
+follow strict privacy guidelines and report how it uses your data. and every
+app is rigorously reviewed by a team of experts at apple.
+
+when you're checking out an app, you’ll get a summary of privacy practices to
+help you decide if it works for you. apps you choose to download need your
+permission to access information like your photos or location — and you can
+always change your mind about what you share. starting in early 2021, ios 14
+and ipados 14 will require developers to get your permission before tracking
+your activity across other companies‘ apps and websites for ads or data
+brokers.
+
+## learn more about privacy at apple.
+
+  * [review privacy features](/privacy/features/)
+  * [control what you share](/privacy/control/)
+
+## apple footer
+
+[  apple ](/)
+
+  1. privacy
+
+### shop and learn
+
+open menu close menu
+
+  * [mac](/mac/)
+  * [ipad](/ipad/)
+  * [iphone](/iphone/)
+  * [watch](/watch/)
+  * [tv](/tv/)
+  * [music](/music/)
+  * [airpods](/airpods/)
+  * [homepod](/homepod/)
+  * [ipod touch](/ipod-touch/)
+  * [accessories](/us/shop/goto/buy_accessories)
+  * [gift cards](/us/shop/goto/giftcards)
+
+### services
+
+open menu close menu
+
+  * [apple music](/apple-music/)
+  * [apple tv+](/apple-tv-plus/)
+  * [apple fitness+](/apple-fitness-plus/)
+  * [apple news+](/apple-news/)
+  * [apple arcade](/apple-arcade/)
+  * [icloud](/icloud/)
+  * [apple one](/apple-one/)
+  * [apple card](/apple-card/)
+  * [apple books](/apple-books/)
+  * [app store](/app-store/)
+
+### account
+
+open menu close menu
+
+  * [manage your apple id](https://appleid.apple.com/us/)
+  * [apple store account](/us/shop/goto/account)
+  * [icloud.com](https://www.icloud.com)
+
+### apple store
+
+open menu close menu
+
+  * [find a store](/retail/)
+  * [shop online](/us/shop/goto/shop)
+  * [genius bar](/retail/geniusbar/)
+  * [today at apple](/today/)
+  * [apple camp](/today/camp/)
+  * [apple store app](https://apps.apple.com/us/app/apple-store/id375380948)
+  * [refurbished and clearance](/us/shop/goto/special_deals)
+  * [financing](/us/shop/goto/payment_plan)
+  * [apple trade in](/us/shop/goto/trade_in)
+  * [order status](/us/shop/goto/order/list)
+  * [shopping help](/us/shop/goto/help)
+
+### for business
+
+open menu close menu
+
+  * [apple and business](/business/)
+  * [shop for business](/retail/business/)
+
+### for education
+
+open menu close menu
+
+  * [apple and education](/education/)
+  * [shop for k-12](/education/k12/how-to-buy/)
+  * [shop for college](/us/shop/goto/educationrouting)
+
+### for healthcare
+
+open menu close menu
+
+  * [apple in healthcare](/healthcare/)
+  * [health on apple watch](/healthcare/apple-watch/)
+  * [health records on iphone](/healthcare/health-records/)
+
+### for government
+
+open menu close menu
+
+  * [shop for government](/r/store/government/)
+  * [shop for veterans and military](/us/shop/goto/eppstore/veteransandmilitary)
+
+### apple values
+
+open menu close menu
+
+  * [accessibility](/accessibility/)
+  * [education](/education/connected/)
+  * [environment](/environment/)
+  * [inclusion and diversity](/diversity/)
+  * [privacy](/privacy/)
+  * [racial equity and justice](/racial-equity-justice-initiative/)
+  * [supplier responsibility](/supplier-responsibility/)
+
+### about apple
+
+open menu close menu
+
+  * [newsroom](/newsroom/)
+  * [apple leadership](/leadership/)
+  * [job opportunities](/jobs/us/)
+  * [investors](https://investor.apple.com/)
+  * [ethics & compliance](/compliance/)
+  * [events](/apple-events/)
+  * [contact apple](/contact/)
+
+more ways to shop: [find an apple store](/retail/) or [other
+retailer](https://locate.apple.com/) near you. or call 1-800-my-apple.
+
+[united states](/choose-country-region/ "choose your country or region")
+
+copyright © 2021 apple inc. all rights reserved.
+
+[privacy policy](/legal/privacy/) [terms of use](/legal/internet-
+services/terms/site.html) [sales and
+refunds](/us/shop/goto/help/sales_refunds) [legal](/legal/) [site
+map](/sitemap/)
+

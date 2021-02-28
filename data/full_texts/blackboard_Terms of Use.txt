@@ -1,0 +1,920 @@
+skip to main content
+
+[**blackboard** help](/) [**bb** help](/)
+
+## language
+
+  * [english](/terms_of_use)
+  * [عربية](/ar-sa/terms_of_use)
+  * [català](/ca-es/terms_of_use)
+  * [cymraeg](/cy-gb/terms_of_use)
+  * [deutsch](/de-de/terms_of_use)
+  * [español](/es-es/terms_of_use)
+  * [suomi](/fi-fi/terms_of_use)
+  * [français](/fr-fr/terms_of_use)
+  * [hebrew](/he/terms_of_use)
+  * [italian](/it/terms_of_use)
+  * [日本語](/ja-jp/terms_of_use)
+  * [한국어](/ko-kr/terms_of_use)
+  * [nederlands](/nl-nl/terms_of_use)
+  * [norsk (bokmål)](/nb-no/terms_of_use)
+  * [português, brasil](/pt-br/terms_of_use)
+  * [русский](/ru-ru/terms_of_use)
+  * [svenska](/sv-se/terms_of_use)
+  * [türkçe](/tr-tr/terms_of_use)
+  * [ 简体中文](/zh-hans/terms_of_use)
+
+## breadcrumb
+
+  1. [home](/)
+
+  * [ally](/ally)
+    * [ally for lms](/ally/ally_for_lms)
+    * [ally for websites](/ally/ally_for_websites)
+    * [ally for wcm](/ally/ally_for_wcm)
+
+  * [blackboard app](/blackboard_app)
+    * [quick start](/blackboard_app/quick_start)
+    * [feature guide](/blackboard_app/feature_guide)
+    * [activity stream](/blackboard_app/activity_stream)
+    * [courses and organizations](/blackboard_app/course_list)
+    * [course content](/blackboard_app/course_content)
+    * [offline content](/blackboard_app/offline_content)
+    * [announcements](/blackboard_app/announcements)
+    * [collaborate](/blackboard_app/collaborate)
+    * [discussions](/blackboard_app/discussions)
+    * [due dates](/blackboard_app/due_dates)
+    * [grades](/blackboard_app/grades)
+    * [cloud storage](/blackboard_app/link_to_cloud_storage)
+    * [profile](/blackboard_app/profile)
+    * [push notifications](/blackboard_app/push_notifications)
+    * [tests and assignments](/blackboard_app/tests_and_assignments)
+    * [what's new](/blackboard_app/whats_new)
+    * [common questions](/blackboard_app/faqs)
+    * [accessibility](/blackboard_app/accessibility)
+    * [transition to new blackboard apps](/blackboard_app/transition_to_new_apps)
+    * [administrator info](/blackboard_app/administrator_info)
+
+  * [blackboard data](/blackboard_data)
+    * [administrator/developer](/blackboard_data/administrator)
+
+  * [blackboard instructor](/blackboard_instructor)
+    * [quick start](/blackboard_instructor/quick_start)
+    * [feature guide](/blackboard_instructor/feature_guide)
+    * [courses and organizations](/blackboard_instructor/course_list)
+    * [course content](/blackboard_instructor/course_content)
+    * [offline content](/blackboard_instructor/offline_content)
+    * [announcements](/blackboard_instructor/announcements)
+    * [collaborate](/blackboard_instructor/collaborate)
+    * [discussions](/blackboard_instructor/discussions)
+    * [grading](/blackboard_instructor/grading)
+    * [cloud storage](/blackboard_instructor/link_to_cloud_storage)
+    * [push notifications](/blackboard_instructor/push_notifications)
+    * [tests and assignments](/blackboard_instructor/tests_and_assignments)
+    * [what's new](/blackboard_instructor/whats_new)
+    * [accessibility](/blackboard_instructor/accessibility)
+    * [administrator info](/blackboard_instructor/administrator_info)
+
+  * [collaborate](/collaborate)
+    * [ultra experience](/collaborate/ultra)
+    * [original experience](/collaborate/v12)
+
+  * [community engagement](/community_engagement)
+    * [parent/community member](/community_engagement/parent_community_member)
+    * [student](/community_engagement/student)
+    * [teacher](/community_engagement/teacher)
+    * [administrator](/community_engagement/administrator)
+
+  * [connect](/connect)
+    * [connect 5](/connect/connect_5)
+
+  * [coursesites](/coursesites)
+    * [student](/coursesites/student)
+    * [instructor](/coursesites/instructor)
+    * [administrator](/coursesites/administrator)
+
+  * [learn](/learn)
+    * [student](/learn/student)
+    * [instructor](/learn/instructor)
+    * [administrator](/learn/administrator)
+
+  * [open education](/open_education)
+    * [instructor](/open_education/instructor)
+    * [administrator](/open_education/administrator)
+
+  * [predict](/predict)
+    * [student](/predict/student)
+    * [instructor](/predict/instructor)
+    * [advisor](/predict/advisor)
+
+  * [safeassign](/safeassign)
+    * [student](/safeassign/student)
+    * [instructor](/safeassign/instructor)
+    * [administrator](/safeassign/administrator)
+
+  * [smartview](/smartview)
+    * [logging in](/smartview/authentication_logging_in)
+    * [advisor desktop](/smartview/advisor_desktop_interface)
+    * [service desk](/smartview/service_desk_interface)
+
+  * [training & development manager](/training_and_development_manager)
+    * [student](/training_and_development_manager/student)
+    * [instructor](/training_and_development_manager/instructor)
+    * [administrator](/training_and_development_manager/administrator)
+
+  * [web community manager](/web_community_manager)
+    * [parent/community member](/web_community_manager/parent_community_member)
+    * [student](/web_community_manager/student)
+    * [teacher/editor](/web_community_manager/teacher_editor)
+    * [administrator](/web_community_manager/administrator)
+    * [section workspace](/web_community_manager/teacher_editor/section_workspace)
+    * [users & groups](/web_community_manager/administrator/users_and_groups/how_do_i)
+
+[home](/ "home") print
+
+# blackboard terms of use
+
+## welcome to blackboard®
+
+important--please read carefully. if you are a resident of or have your
+principal place of business in the european economic area, these terms of use
+("terms") are an agreement between you and blackboard international b.v., a
+private company formed and existing under the laws of the netherlands.
+otherwise, these terms are an agreement between you and blackboard inc., a
+delaware corporation. references to "us", "we", "our", and "blackboard" shall
+mean either blackboard international b.v. or blackboard inc., as appropriate.
+
+these terms govern your access to and use of blackboard software, products,
+and/or services (individually or collectively, the "products") and any
+information, content, text, graphics, photos or other materials uploaded,
+downloaded, purchased, or appearing on or through the products (collectively
+referred to as "content"). additional terms or product requirements may apply
+to our individual products and are available with the relevant product. these
+terms apply to all visitors, users, and others who access and use the products
+("users").
+
+by accessing or using the products you agree to be bound by these terms.
+
+please read these terms carefully to ensure that you understand each
+provision. these terms contain a mandatory individual arbitration and class
+action/jury trial waiver provision that, to the extent applicable to you,
+requires the use of arbitration on an individual basis to resolve disputes,
+rather than jury trials or class actions.
+
+notwithstanding the foregoing, nothing in these terms supersedes or limits
+your rights under (1) the terms and conditions of any written agreement you
+have entered into with blackboard regarding the use of products, or (2)
+applicable laws or regulations to the extent these terms are prohibited by
+such laws or regulations. in the event of any conflict between these terms and
+the terms and conditions of an applicable written agreement you have entered
+into with blackboard, the terms and conditions of the written agreement shall
+control.
+
+* * *
+
+## 1\. basic terms & accounts
+
+you are responsible for your use of the products. you may use the products
+only if you can form a binding contract with blackboard. your account with
+blackboard (and use of the product) gives you access to the services and
+functionality that we may establish and maintain from time to time and in our
+sole discretion. we may maintain different types of accounts for different
+types of users. if you are accepting these terms and using the products on
+behalf of a company, organization, government, or other legal entity, then (a)
+“you” includes you and that entity, and (b) you represent and warrant that you
+are an authorized representative of the entity with the authority to bind the
+entity to these terms, and that you agree to these terms on the entity’s
+behalf. you may use the products only in compliance with these terms, any
+agreement entered into by your institution relating to the products, and all
+applicable local, state, national, and international laws, rules and
+regulations.
+
+in cases where you have authorized or registered another individual, including
+a minor, to use your account(s), you are fully responsible for (i) the online
+conduct of such user; (ii) controlling the user’s access to and use of the
+products; and (iii) the consequences of any misuse. blackboard requires that
+the parents, guardian, or other authorized adult or educational institution of
+a minor affirmatively consent to the use of a blackboard product by such
+minor. blackboard reserves the right to provide access to the minor’s account
+to the minor’s parents, guardian or other authorized adult or educational
+institution, upon such adult’s request. for additional information on how we
+use your information, please see our [privacy policy](/privacy_statement).
+
+you are solely responsible for your interactions with other users. we reserve
+the right, but have no obligation, to monitor disputes between you and other
+users. blackboard shall have no liability for your interactions with other
+users, nor for any user’s acts or omissions.
+
+* * *
+
+## 2\. privacy & use of personal information
+
+any information that you provide to blackboard, including first name, last
+name, email address, and any other information including personal information
+you have provided, may provide, or may be collected by us in connection with
+your use of the products (“ **your information** ”), will be collected,
+maintained and used in order to provide the products to you or your
+institution, or in accordance with these terms, our privacy policy located
+[here](/privacy_statement) ("privacy policy"), any additional terms applicable
+to an individual product, and any agreement entered into by your institution
+relating to the product. you understand that, through your use of the
+products, you consent to the collection and use (as set forth in these terms,
+the privacy policy and any agreement entered into by your institution relating
+to the product) of your information, including the transfer of your
+information to the united states and/or other countries for storage, hosting,
+processing, and use by blackboard.
+
+for the avoidance of doubt, personal information that includes student data
+(defined below) provided to blackboard through the use of these products is
+governed by the terms of the agreement between blackboard and the educational
+institution relevant to your use of the products. as between blackboard and
+you, you and/or the educational institution own all right, title and interest
+to all student data you provide or otherwise make available to us, and we do
+not own, control, or license such student data, except so as to provide the
+products to you and to the educational institution that provides the products
+and controls student data from the educational records, if applicable, and as
+described herein. “student data” is any information (in any format) that is
+directly related to an identifiable current or former student that is
+maintained by a school, school district, or related entity or organization, or
+by us, as part of the provision of the products. student data may include
+“educational records” as defined by the family educational rights and privacy
+act (“ferpa”), 20 u.s.c. § 1232(g). blackboard agrees to treat student data as
+confidential and not to share it with third parties other than as described in
+blackboard’s agreement with the educational institution.
+
+if you have any questions regarding the privacy and use of your information,
+please contact us at [[email protected]](/cdn-cgi/l/email-
+protection#5525273c2334362c15373934363e373a3427317b363a38), or your
+educational institution.
+
+* * *
+
+## 3\. content & your rights
+
+you are responsible for content that you post to the products, and any
+consequences thereof. the content you submit, post, or display may be viewed
+by other users of the products. you may be able to control the content that
+other users of certain products may access through the privacy options in
+certain products.
+
+you retain your rights to any content you submit, post, or display on or
+through the products. by submitting, posting or displaying content on or
+through the products, you grant us a worldwide, non-exclusive, royalty-free
+license (with the right to sublicense) to use, host, store, copy, reproduce,
+process, adapt, modify, publish, transmit, create derivative works from,
+communicate, display, and/or distribute such content in any and all media or
+distribution methods (now known or later developed) as part of providing any
+of the products. you agree that this license includes the right for blackboard
+to provide, promote, and improve the products and to make content submitted to
+or through the products available to other institutions or individuals as part
+of providing the products (including after termination of your use of the
+products) and in accordance with your privacy settings. you represent and
+warrant that you have all the rights, power and authority necessary to grant
+the rights granted herein to any content that you submit.
+
+all content, whether publicly posted or privately transmitted, is the sole
+responsibility of the person who originated such content. we may not monitor
+or control the content posted via the products, and we do not take
+responsibility for such content. any use or reliance on any content or
+materials posted via the products or obtained by you through the products is
+at your own risk.
+
+further, in connection with content you submit, post, or display on or through
+the products, you affirm, represent, and warrant the following: (a) you have
+the written consent of each and every natural person who is identifiable in
+the content, if any, to use such person’s name or likeness in the manner
+contemplated by any product and these terms, and each such person has released
+you from any liability that may arise in relation to such use; (b) you have
+obtained and are solely responsible for obtaining all consents as may be
+required by law to post any content relating to third parties; (c) your
+content and blackboard’s use thereof as contemplated by these terms and any
+product will not violate any law or infringe any rights of any third party,
+including but not limited to any intellectual property rights and privacy
+rights; and (d) blackboard may exercise the rights to your content granted
+under these terms without liability for payment of any guild fees, residuals,
+payments, fees, or royalties payable under any collective bargaining
+agreement, licensing arrangement or otherwise.
+
+blackboard respects the intellectual property rights of others and expects
+users of the products to do the same. we will respond to notices of alleged
+copyright infringement that comply with applicable law and are properly
+provided to us. if you believe that your content has been copied in a way that
+constitutes copyright infringement, please provide us with the following
+information: (i) a physical or electronic signature of the copyright owner or
+a person authorized to act on their behalf; (ii) identification of the
+copyrighted work claimed to have been infringed; (iii) identification of the
+material that is claimed to be infringing or to be the subject of infringing
+activity and that is to be removed or access to which is to be disabled, and
+information reasonably sufficient to permit us to locate the material; (iv)
+your contact information, including your address, telephone number, and an
+email address; (v) a statement by you that you have a good faith belief that
+use of the material in the manner complained of is not authorized by the
+copyright owner, its agent, or the law; and (vi) a statement that the
+information in the notification is accurate, and, under penalty of perjury,
+that you are authorized to act on behalf of the copyright owner.
+
+we reserve the right to remove content alleged to be infringing without prior
+notice, at our sole discretion, and without liability to you. our designated
+copyright agent for notice of alleged copyright infringement appearing on the
+products is:
+
+blackboard inc.  
+attn: general counsel  
+1111 19th street, n.w.  
+washington, d.c. 20006  
+email: [[email protected]](/cdn-cgi/l/email-
+protection#a0e7c5cec5d2c1cce3cfd5ced3c5cce0c2ccc1c3cbc2cfc1d2c48ec3cfcd)
+
+* * *
+
+## 4\. your license to use the products
+
+### a. license
+
+blackboard gives you a personal, worldwide, royalty-free, non-assignable, and
+non-exclusive license to use the products, subject to these terms and any
+agreement entered into by your institution relating to the products, solely
+for the intended use of the products, and not for competitive intelligence,
+analysis, or demonstrations. you may not copy, modify, distribute, sell, or
+lease any part of our products, nor may you reverse engineer or attempt to
+extract the source code of any product, unless laws prohibit those
+restrictions or you have our written permission.
+
+### b. acceptable use
+
+when using the products you must not: (i) circumvent, disable or otherwise
+interfere with any security related features of the products or features that
+prevent or restrict use or copying of the content accessible via the products;
+(ii) create more than one account for use with a particular product (however,
+you may connect all your social networks or other product accounts, in each
+case that we support, to your account for use with such product); (iii) give
+any false or misleading information or permit another person to use a product
+under your name or on your behalf; (iv) impersonate any person, or
+misrepresent your identity or affiliation with any person or give the
+impression they are linked to blackboard, if this is not the case; (v) use a
+product if we have suspended or banned you from using it; (vi) send junk,
+spam, repetitive messages, unsolicited advertising or marketing email, call,
+or text messages, or engage in any activities that violate anti-spamming laws
+and regulations, including but not limited to, the can-spam act or 2003, the
+telephone consumer protection act, or other federal, state or local laws
+relating to emails, calls, or text messages; (vii) advocate, promote or engage
+in any illegal or unlawful conduct or conduct that causes damage or injury to
+any person or property; (viii) modify, interfere, intercept, disrupt or hack
+any product or collect any data from a product other than in accordance with
+these terms of use; (ix) misuse the products by knowingly introducing viruses,
+trojans, worms, logic bombs or other material which would harm the products or
+any user of the products' equipment; (x) submit or contribute any content that
+contains nudity or violence or is abusive, threatening, obscene, misleading,
+untrue or offensive (in each case unless such content is submitted or
+contributed for a predominantly educational purpose, such as, for example,
+historical materials contributed via a product for class discussion); (xi)
+submit or contribute any content without the permission of the content owner
+or otherwise infringe the copyright, trademark, privacy, publicity, or other
+rights of third parties; (xii) use any content in violation of any licensing
+terms specified by the owner; (xiii) submit or contribute any information or
+commentary about another person without that person's permission; (xiv)
+threaten, abuse or invade another's privacy, or cause annoyance, inconvenience
+or needless anxiety or take any action that is likely to harass, upset,
+embarrass, alarm or annoy any other person; or (xv) use any automated system,
+including without limitation "robots", "spiders" or "offline readers" to
+access a product in a manner that sends more request messages to the product
+than a human can reasonably produce in the same period of time.
+
+failure to comply with these rules of acceptable use constitutes a serious
+breach of these terms of use, and may result in our taking all or any of the
+following actions (with or without notice): (a) immediate, temporary or
+permanent withdrawal of your right to use our products; (b) immediate,
+temporary or permanent removal of any content; (c) issuing of a warning to
+you; (d) legal action against you including proceedings for reimbursement of
+all costs (including, but not limited to, reasonable administrative and legal
+costs) resulting from the breach; and (e) disclosure of such information to
+law enforcement authorities as we reasonably feel is necessary.
+
+the responses described in this section are not limited, and we may take any
+other action we reasonably deem appropriate.
+
+### c. changes to the products
+
+we may, without prior notice, change any product; stop providing any product
+or features of any product, to you or to users generally; or create usage
+limits for any product. we may permanently or temporarily terminate or suspend
+your access to any product without notice or liability for any reason,
+including if in our sole determination you violate any provision of these
+terms, or for no reason. upon termination for any reason or no reason, you
+continue to be bound by these terms.
+
+* * *
+
+## 5\. mobile software
+
+### a. mobile software
+
+we may make available software to access the products via a mobile device
+(“mobile software”). to use the mobile software you must have a mobile device
+that is compatible with the mobile software. blackboard does not warrant that
+the mobile software will be compatible with your mobile device. you may use
+mobile data in connection with the mobile software and may incur additional
+charges from your wireless provider for these services. you agree that you are
+solely responsible for any such charges. blackboard hereby grants you a non-
+exclusive, non-transferable, revocable license to use a compiled code copy of
+the mobile software for one account on one mobile device owned or leased
+solely by you, for your personal use. you may not: (i) modify, disassemble,
+decompile or reverse engineer the mobile software, except to the extent that
+such restriction is expressly prohibited by law; (ii) rent, lease, loan,
+resell, sublicense, distribute or otherwise transfer the mobile software to
+any third party or use the mobile software to provide time sharing or similar
+services for any third party; (iii) make any copies of the mobile software;
+(iv) remove, circumvent, disable, damage or otherwise interfere with security-
+related features of the mobile software, features that prevent or restrict use
+or copying of any content accessible through the mobile software, or features
+that enforce limitations on use of the mobile software; or (v) delete the
+copyright and other proprietary rights notices on the mobile software. you
+acknowledge that blackboard may from time to time issue upgraded versions of
+the mobile software, and may automatically electronically upgrade the version
+of the mobile software that you are using on your mobile device. you consent
+to such automatic upgrading on your mobile device, and agree that the terms
+and conditions of these terms will apply to all such upgrades. any third-party
+code that may be incorporated in the mobile software is covered by the
+applicable open source or third-party license eula, if any, authorizing use of
+such code. the foregoing license grant is not a sale of the mobile software or
+any copy thereof, and blackboard or its third-party partners or suppliers
+retain all right, title, and interest in the mobile software (and any copy
+thereof). any attempt by you to transfer any of the rights, duties or
+obligations hereunder, except as expressly provided for in these terms, is
+void. blackboard reserves all rights not expressly granted under these terms.
+the mobile software originates in the united states, and is subject to united
+states export laws and regulations. the mobile software may not be exported or
+re-exported to certain countries or those persons or entities prohibited from
+receiving exports from the united states. in addition, the mobile software may
+be subject to the import and export laws of other countries. you agree to
+comply with all united states and foreign laws related to use of the mobile
+software and the products.
+
+### b. mobile software from apple’s app store
+
+the following applies to any mobile software you acquire from the app store
+(“app store-sourced software”): you acknowledge and agree that these terms are
+solely between you and blackboard, not apple, inc. (“apple”) and that apple
+has no responsibility for the app store-sourced software or content thereof.
+your use of the app store-sourced software must comply with the app store
+terms of service. you acknowledge that apple has no obligation whatsoever to
+furnish any maintenance and support services with respect to the app store-
+sourced software. in the event of any failure of the app store-sourced
+software to conform to any applicable warranty, you may notify apple, and
+apple will refund the purchase price for the app store-sourced software to
+you; to the maximum extent permitted by applicable law, apple will have no
+other warranty obligation whatsoever with respect to the app store-sourced
+software, and any other claims, losses, liabilities, damages, costs or
+expenses attributable to any failure to conform to any warranty will be solely
+governed by these terms and any law applicable to blackboard as provider of
+the software. you acknowledge that apple is not responsible for addressing any
+of your claims or those of any third party relating to the app store-sourced
+software or your possession and/or use of the app store-sourced software,
+including, but not limited to: (i) product liability claims; (ii) any claim
+that the app store-sourced software fails to conform to any applicable legal
+or regulatory requirement; and (iii) claims arising under consumer protection
+or similar legislation; and all such claims are governed solely by these terms
+and any law applicable to blackboard as provider of the software. you
+acknowledge that, in the event of any third-party claim that the app store-
+sourced software or your possession and use of that app store-sourced software
+infringes that third party’s intellectual property rights, blackboard, not
+apple, will be solely responsible for the investigation, defense, settlement
+and discharge of any such intellectual property infringement claim to the
+extent required by these terms. you and blackboard acknowledge and agree that
+apple, and apple’s subsidiaries, are third-party beneficiaries of these terms
+as relates to your license of the app store-sourced software, and that, upon
+your acceptance of the terms, apple will have the right (and will be deemed to
+have accepted the right) to enforce these terms as relates to your license of
+the app store-sourced software against you as a third-party beneficiary
+thereof.
+
+### c. mobile software from google play store
+
+the following applies to any mobile software you acquire from the google play
+store (“google-sourced software”): (i) you acknowledge that the terms are
+between you and blackboard only, and not with google, inc. (“google”); (ii)
+your use of google-sourced software must comply with google’s then-current
+google play store terms of service; (iii) google is only a provider of the
+google play store where you obtained the google-sourced software; (iv)
+blackboard, and not google, is solely responsible for its google-sourced
+software; (v) google has no obligation or liability to you with respect to
+google-sourced software or the terms; and (vi) you acknowledge and agree that
+google is a third-party beneficiary to the terms as relates to blackboard’s
+google-sourced software.
+
+### d. mobile software from microsoft store
+
+the following applies to any mobile software you acquire from the microsoft
+store ("ms-sourced software"): (i) you acknowledge that these terms is between
+you and blackboard only, and not with microsoft corporation ("microsoft");
+(ii) your use of ms-sourced software must comply with microsoft's then-current
+microsoft store terms of service; (iii) microsoft is only a provider of the
+microsoft store where you obtained the ms-sourced software; (iv) blackboard,
+and not microsoft, is solely responsible for its ms-sourced software; (v)
+microsoft has no obligation or liability to you with respect to ms-sourced
+software or these terms; and (vi) you acknowledge and agree that microsoft is
+a third-party beneficiary to these terms as it relates to blackboard’s ms-
+sourced software.
+
+* * *
+
+## 6\. blackboard rights
+
+the products are always evolving and the form, nature, and/or functionality of
+the products may change from time to time without prior notice to you. in
+addition, blackboard may stop (permanently or temporarily) providing the
+products (or any features within the products) to you or to users generally
+and may not be able to provide you with prior notice. we also retain the right
+to create limits on use and storage at our sole discretion at any time without
+prior notice to you.
+
+all right, title, and interest in and to the products (excluding content
+provided by users or other third parties) are and will remain the exclusive
+property of blackboard and its licensors. the products are protected by
+copyright, trademark, and other laws of both the united states and foreign
+countries. nothing in the terms gives you a right to use the blackboard name
+or any of the blackboard trademarks, logos, domain names, and other
+distinctive brand features. any feedback, comments, or suggestions you may
+provide regarding blackboard, or the products is entirely voluntary and we
+will be free to use such feedback, comments or suggestions as we see fit and
+without any obligation to you.
+
+* * *
+
+## 7\. registration obligations & passwords
+
+you may never use another user’s account without permission from blackboard.
+in consideration of your use of the products, you agree (a) that your
+information will be true, accurate, current and complete, and (b) to maintain
+and promptly update your information to keep it true, accurate, current and
+complete. you are responsible for safeguarding any password that you use to
+access the products (including passwords used on other blackboard products
+that permit single sign-on to the products) and for any activities or actions
+under your password. we encourage you to use “strong” passwords (passwords
+that use a combination of upper and lower case letters, numbers and symbols,
+and have at least eight (8) characters) with your account. you agree to (a)
+notify blackboard of any unauthorized use of your password or user
+identification and any other breach of security, and (b) ensure that you exit
+from your account at the end of each session.
+
+* * *
+
+## 8\. export controls
+
+as required by the laws of the united states and other countries: (a) you
+understand that the products are subject to export controls under the u.s.
+commerce department's export administration regulations ("ear"); (b) you are
+not located in a prohibited destination country under the ear or u.s.
+sanctions regulations; and (c) you will not export, re-export, or transfer the
+products to any prohibited destination or persons or entities on the u.s.
+bureau of industry and security denied parties list or entity list, or the
+u.s. office of foreign assets control list of specially designated nationals
+and blocked persons, or any similar lists maintained by other countries,
+without the necessary export license(s) or authorization(s).
+
+* * *
+
+## 9\. termination
+
+we may suspend or terminate your accounts or cease providing you with all or
+part of the products at any time for any reason, including, but not limited
+to, if we reasonably believe: (i) you have violated these terms, (ii) you
+create risk or possible legal exposure for us; or (iii) our provision of the
+products is no longer commercially viable. in such a termination event, the
+license granted hereunder shall automatically terminate. in all such cases,
+the terms shall terminate, including, without limitation, your license to use
+the products, except that the following sections shall continue to apply: 2,
+3, 5, 6, 9, 10, and 11.
+
+further, if you stop using the products for more than 60 days, your accounts
+may be deleted and blackboard assumes no responsibility for content deleted
+following inactivity. if you wish to delete your blackboard product account(s)
+in their entirety(ies), you may contact us via [[email protected]](/cdn-
+cgi/l/email-
+protection#8dcae8e3e8ffece1cee2f8e3fee8e1cdefe1eceee6efe2ecffe9a3eee2e0) and
+specify which blackboard product account(s) you wish to delete. we will delete
+your specified accounts within a reasonable time, unless prohibited by law.
+
+nothing in this section shall affect blackboard’s rights to change, limit, or
+stop the provision of the products without prior notice, as provided elsewhere
+in these terms.
+
+## 10\. disclaimers & limitations of liability
+
+please read this section carefully since it limits the liability of blackboard
+and its parents, subsidiaries, affiliates, related companies, officers,
+directors, employees, agents, representatives, partners, and/or licensors
+(collectively, the “blackboard entities”). each of the subsections below only
+applies up to the maximum extent permitted under applicable law. nothing in
+this section is intended to limit any rights you may have which may not be
+lawfully limited.
+
+### a. the products are available “as-is”
+
+your access to and use of the products or any content are at your own risk.
+you understand and agree that the products are provided to you on an “as is”
+and “as available” basis. without limiting the foregoing, to the maximum
+extent permitted under applicable law, the blackboard entities disclaim all
+warranties and conditions, whether express or implied, of merchantability,
+fitness for a particular purpose, or non-infringement. no advice or
+information, whether oral or written, obtained from any of the blackboard
+entities or through the products will create any warranty not expressly made
+herein.
+
+### b. hipaa disclaimer
+
+blackboard does not warrant or provide any assurances that your use of the
+products will comply with the health insurance portability and accountability
+act of 1996, as amended (“hipaa”). if you are a health care provider, health
+plan, insurer, health care information clearinghouse or other entity that may
+be considered a “covered entity” under hipaa or a “business associate” of a
+“covered entity” under hipaa, you shall take all steps necessary to comply
+with hipaa and shall be responsible for any applicable compliance with hipaa.
+you agree that you will not provide blackboard with any protected health
+information (as that term is defined under hipaa) and that blackboard is
+therefore not deemed to be a business associate of you and/or your institution
+for purposes of compliance with hipaa.
+
+### c. third-party links and resources
+
+the products may contain links to third-party websites or resources. you
+acknowledge and agree that the blackboard entities are not responsible or
+liable for: (i) the availability or accuracy of such websites or resources; or
+(ii) the content, products, or services on or available from such websites or
+resources. links to such websites or resources do not imply any endorsement by
+the blackboard entities of such websites or resources or the content,
+products, or services available from such websites or resources. you
+acknowledge sole responsibility for and assume all risk arising from your use
+of any such websites or resources. if you access a third-party website or
+service from a product or share your content on or through any third-party
+website or service, you do so at your own risk, and you understand that these
+terms and the privacy policy do not apply to your use of such sites. in
+addition, to the extent you access services or content provided by youtube
+through the products, you agree to be bound by the youtube terms of service
+located at: <https://www.youtube.com/t/terms>.
+
+### d. limitation of liability
+
+to the maximum extent permitted by applicable law, the blackboard entities
+shall not be liable for any indirect, incidental, special, consequential or
+punitive damages, or any loss of profits or revenues, whether incurred
+directly or indirectly, or any loss of data, use, good-will, or other
+intangible losses, resulting from (i) your access to or use of or inability to
+access or use the products; (ii) any conduct or content of any user or other
+third party on, through, or associated with the products, including without
+limitation, any defamatory, offensive or illegal conduct of other users or
+third parties; (iii) any content obtained from the products; or (iv)
+unauthorized access, use or alteration of your transmissions or content.
+
+in no event shall the aggregate liability of the blackboard entities exceed
+the greater of one hundred u.s. dollars (u.s. $100.00) or the amount you paid
+blackboard, if any, in the past six months for the products giving rise to the
+claim.
+
+the limitations of this subsection shall apply to any theory of liability,
+whether based on warranty, contract, statute, tort (including negligence) or
+otherwise, and whether or not the blackboard entities have been informed of
+the possibility of any such damage, and even if a remedy set forth herein is
+found to have failed of its essential purpose.
+
+federal law, some states, provinces, and other jurisdictions do not allow the
+exclusion and limitations of certain implied warranties, so the above
+exclusions may not apply to you. these terms give you specific legal rights,
+and you may also have other rights which vary from jurisdiction to
+jurisdiction. further, some jurisdictions do not allow the exclusion or
+limitation of incidental or consequential damages, so the above limitations or
+exclusions may not apply to you. the disclaimers, exclusions, and limitations
+of liability under these terms will not apply to the extent prohibited by
+applicable law.
+
+### e. indemnity
+
+you agree to defend, indemnify and hold harmless blackboard and its
+subsidiaries, agents, licensors, managers, and other affiliated companies, and
+their employees, contractors, agents, officers and directors, from and against
+any and all claims, damages, obligations, losses, liabilities, costs or debt,
+and expenses (including but not limited to attorney’s fees) arising from: (i)
+your use of and access to a product, including any data or content transmitted
+or received by you; (ii) your violation of any provision of these terms,
+including without limitation your breach of any of the representations and
+warranties above; (iii) your violation of any third-party right, including
+without limitation any right of privacy or intellectual property rights; (iv)
+your violation of any applicable law, rule or regulation; (v) any content that
+is submitted via your user account including without limitation misleading,
+false, or inaccurate information; (vi) your willful misconduct; or (vii) any
+other party’s access and use of a product with your unique username, password
+or other appropriate security code.
+
+* * *
+
+## 11\. general terms
+
+### a. waiver & severability
+
+the failure of blackboard to enforce any right or provision of these terms
+will not be deemed a waiver of such right or provision. in the event that any
+provision of these terms is held to be invalid or unenforceable, then that
+provision will be limited or eliminated to the minimum extent necessary, and
+the remaining provisions of these terms will remain in full force and effect;
+except that in the event of unenforceability of the universal class
+action/jury trial waiver set forth in section 11(b)(iii) below, the entire
+arbitration agreement shall be unenforceable.
+
+### b. governing law; dispute resolution
+
+_(i) governing law._ these terms and any action related thereto will be
+governed by the laws of the state of new york without regard to or application
+of its conflict of law provisions or your state or country of residence. all
+claims, legal proceedings, or litigation arising in connection with the
+products will be brought solely in the federal or state courts located in
+washington, d.c., united states, and you consent to the jurisdiction of and
+venue in such courts and waive any objection as to inconvenient forum.  
+ _(ii) arbitration._ read this section carefully because it requires the
+parties to arbitrate their disputes and limits the manner in which you can
+seek relief from blackboard. for any dispute with blackboard, you agree to
+first contact us at [[email protected]](/cdn-cgi/l/email-
+protection#c88fada6adbaa9a48ba7bda6bbada488aaa4a9aba3aaa7a9baace6aba7a5) and
+attempt to resolve the dispute with us informally. in the unlikely event that
+blackboard has not been able to resolve a dispute it has with you after sixty
+(60) days, we each agree to resolve any claim, dispute, or controversy
+(excluding any claims for injunctive or other equitable relief as provided
+below) arising out of or in connection with or relating to these terms, or the
+breach or alleged breach thereof, by binding arbitration by jams, under the
+optional expedited arbitration procedures then in effect for jams, except as
+provided herein. jams may be contacted at
+[www.jamsadr.com](https://www.jamsadr.com/). the arbitration will be conducted
+in washington, d.c., united states, unless you and blackboard agree otherwise.
+if you are using the products for commercial purposes, each party will be
+responsible for paying any jams filing, administrative and arbitrator fees in
+accordance with jams rules, and the award rendered by the arbitrator shall
+include costs of arbitration, reasonable attorneys’ fees and reasonable costs
+for expert and other witnesses. if you are an individual using the products
+for non-commercial purposes: (i) jams may require you to pay a fee for the
+initiation of your case, unless you apply for and successfully obtain a fee
+waiver from jams; (ii) the award rendered by the arbitrator may include your
+costs of arbitration, your reasonable attorney’s fees, and your reasonable
+costs for expert and other witnesses; and (iii) you may sue in a small claims
+court of competent jurisdiction without first engaging in arbitration, but
+this does not absolve you of your commitment to engage in the informal dispute
+resolution process. any judgment on the award rendered by the arbitrator may
+be entered in any court of competent jurisdiction. nothing in this section
+shall be deemed as preventing blackboard from seeking injunctive or other
+equitable relief from the courts as necessary to prevent the actual or
+threatened infringement, misappropriation, or violation of our data security,
+intellectual property rights or other proprietary rights.  
+ _(iii) class action/jury trial waiver._ with respect to all person and
+entities, regardless whether they have obtained or used the products for
+personal, commercial, or other purposes, all claims must be brought in the
+parties’ individual capacity, and not as a plaintiff or class member in any
+purported class action, collective action, private attorney general action, or
+other representative proceeding. this waiver applies to class arbitration, and
+unless we agree otherwise, the arbitrator may not consolidate more than one
+(1) person’s claims. you agree that, by entering into these terms, you and
+blackboard are each waiving the right to a trial by jury or to participate in
+a class action, collective action, private attorney general action, or other
+representative proceeding of any kind relating to the products or these terms.  
+ _(iv) limited applicability of arbitration and class action/jury trial
+waiver._ certain laws, rules, and regulations that may apply to you may not
+allow you to pre-agree to binding arbitration or waive your rights to join in
+a representative proceeding or waive your rights to a jury trial. if such laws
+apply to you, the arbitration requirements set forth in subsection (ii) and/or
+the class action/jury trial waiver set forth in subsection (iii) do not apply
+to you.
+
+### c. u.s. government users & u.s. government restricted rights
+
+certain of the components that comprise the products are “commercial items” as
+that term is defined at 48 c.f.r. 2.101, consisting of “commercial computer
+software” and/or “commercial computer software documentation” as such terms
+are used in 48 c.f.r. 12.212. consistent with 48 c.f.r. 12.212 and 48 c.f.r.
+227.7202-1 through 227.7202-4, all u.s. government end users acquire the
+software with only those rights set forth herein.
+
+the products, any mobile software and all upgrades to the foregoing (if any)
+are provided with restricted rights. use, duplication, or disclosure by the
+u.s. government is subject to restrictions as set forth in subparagraph
+(c)(1)(ii) of the rights in technical data and computer software clause at
+dfars 252.227-7013 or subparagraphs (c)(1) and (2) of the commercial computer
+software-restricted rights at 48 cfr 52.227-19, as applicable.
+
+contractor/manufacturer is blackboard inc., 1111 19th street n.w., washington,
+d.c. 20036. all rights not specifically granted in these terms are reserved by
+blackboard.
+
+### d. entire agreement
+
+these terms and our [privacy policy](/privacy_statement) are the entire and
+exclusive agreement between blackboard and you regarding the products, and
+these terms supersede and replace any prior agreements between blackboard and
+you regarding the products. other than members of the group of companies of
+which blackboard inc. is the parent, no other person or company will be third
+party beneficiaries to the terms.
+
+notwithstanding the foregoing, nothing in these terms supersedes or limits
+your rights under (1) the terms and conditions of any written agreement you
+have entered into with blackboard regarding the use of products, or (2)
+applicable laws or regulations to the extent these terms are prohibited by
+such laws or regulations. in the event of any conflict between these terms and
+the terms and conditions of an applicable written agreement you have entered
+into with blackboard, the terms and conditions of the written agreement shall
+control.
+
+we may revise these terms from time-to-time, the most current version will
+always be linked to at https://www.blackboard.com/. if the revision, in our
+sole discretion, is material we will notify you through the products or
+through the email associated with your profile. by continuing to access or use
+the products after those revisions become effective, you agree to be bound by
+the revised terms.
+
+these products are operated and provided by blackboard:
+
+blackboard inc.  
+1111 19th street n.w.  
+washington, d.c. 20036 usa  
+ **or**  
+blackboard international b.v.  
+paleisstraat 1, 1012 rb  
+amsterdam, netherlands
+
+if you have any questions about these terms, please email: [[email
+protected]](/cdn-cgi/l/email-
+protection#1b5c7e757e697a7758746e75687e775b59777a787079747a697f35787476).
+
+effective: january 17, 2018
+
+* * *
+
+## 12\. blackboard connect
+
+blackboard connect is a mass notification system that lets you receive updates
+and urgent alerts through emails, phone calls, text messages, or social media
+channels. message frequency varies by account and preferences. depending on
+the service plan you have selected with your wireless carrier, message and
+data rates may apply. please consult your wireless carrier for detail.
+wireless carriers are not liable for delayed or undelivered messages. you may
+opt-out of receiving text messages by taking the following action:
+
+  * reply stop to “23177” to cancel
+  * reply stop to “53291” to cancel
+  * reply stop to “22898” to cancel
+
+contact [[email protected]](/cdn-cgi/l/email-
+protection#56153938383335222523262639242216343a37353d34393724327835393b) for
+customer support.
+
+### on this page
+
+![](/themes/blackboard/img/icon-print.svg)
+
+![](/themes/blackboard/img/icon-help_hc_dark.svg)
+
+![](/themes/blackboard/img/icon-notification_hc_dark.svg)
+
+### [visit blackboard.com](http://www.blackboard.com/)
+
+copyright©2021. blackboard inc.  
+[legal disclaimers](/copyright_notice)  
+[privacy statement](/1000en_us)  
+[do not sell my personal information](/ca_privacy_notice#your-california-
+consumer-privacy-rights_otp-4)
+
+[about help](/about_help)
+
+[accessibility](/accessibility)
+
+[client resources](/client_resources)
+
+[product security](/product_security)
+
+## user account menu
+
+  * [log in](/user/login)
+
+## help for blackboard products
+
+  * [ally](/ally)
+  * [analytics](http://www.blackboard.com/education-analytics/index.aspx)
+  * [blackboard app](/blackboard_app)
+  * [blackboard data](https://help.blackboard.com/blackboard_data)
+  * [blackboard instructor](/blackboard_instructor)
+  * [collaborate](/collaborate)
+  * [community engagement](/community_engagement)
+  * [connect](/connect)
+  * [coursesites](/learn)
+  * [drive](/drive)
+  * [learn](/learn)
+  * [open education](/open_education)
+  * [predict](/predict)
+  * [safeassign](/safeassign)
+  * [sis central - connect](/sis_central/connect)
+  * [smartview](/smartview)
+  * [web community manager](/web_community_manager)
+
+back to top
+
+## not sure which product?
+
+blackboard has many products. let us help you find what you need.
+
+[find my product](/ "find my product")
+

@@ -1,0 +1,269 @@
+skip to content
+
+[ ](https://github.com/)
+
+[ sign up
+](/join?ref_cta=sign+up&ref_loc=header+logged+out&ref_page=%2fsecurity&source=header)
+
+  * why github? 
+
+[features ->](/features)
+
+    * [mobile ->](/mobile)
+    * [actions ->](/features/actions)
+    * [codespaces ->](/features/codespaces)
+    * [packages ->](/features/packages)
+    * [security ->](/features/security)
+    * [code review ->](/features/code-review/)
+    * [project management ->](/features/project-management/)
+    * [integrations ->](/features/integrations)
+    * [github sponsors ->](/sponsors)
+    * [customer stories->](/customer-stories)
+    * [security ->](/security)
+
+  * [team](/team)
+  * [enterprise](/enterprise)
+  * explore 
+
+    * [explore github ->](/explore)
+
+#### learn and contribute
+
+    * [topics ->](/topics)
+    * [collections ->](/collections)
+    * [trending ->](/trending)
+    * [learning lab ->](https://lab.github.com/)
+    * [open source guides ->](https://opensource.guide)
+
+#### connect with others
+
+    * [the readme project ->](https://github.com/readme)
+    * [events ->](https://github.com/events)
+    * [community forum ->](https://github.community)
+    * [github education ->](https://education.github.com)
+    * [github stars program ->](https://stars.github.com)
+
+  * [marketplace](/marketplace)
+  * pricing 
+
+[plans ->](/pricing)
+
+    * [compare plans ->](/pricing#feature-comparison)
+    * [contact sales ->](https://enterprise.github.com/contact)
+    * [nonprofit ->](/nonprofit)
+    * [education ->](https://education.github.com)
+
+![](https://github.githubassets.com/images/search-key-slash.svg)
+
+  * [ ![]() search  all github  ↵ jump to ↵ ]()
+
+  * no suggested jump to results
+
+  * [ ![]() search  all github  ↵ jump to ↵ ]()
+  * [ ![]() search  all github  ↵ jump to ↵ ]()
+  * [ ![]() search  all github  ↵ jump to ↵ ]()
+
+[ sign in ](/login?return_to=%2fsecurity) [ sign up
+](/join?ref_cta=sign+up&ref_loc=header+logged+out&ref_page=%2fsecurity&source=header)
+
+{{ message }}
+
+[ security ](/security) [ trust and privacy ](/security/trust) [ team
+](/security/team) [ incident response ](/security/incident-response)
+
+## security
+
+# security at github
+
+millions of teams trust github to keep their work safe. our team of experts
+goes beyond industry standards to secure our platform. and builds features
+that help you do the same.
+
+[meet our team →](/security/team)
+
+[see how we earn your trust →](/security/trust)
+
+![security - two people close a secure
+vault](https://github.githubassets.com/images/modules/site/site-
+relaunch/feature/security.svg)
+
+[
+
+* * *
+
+### securing software, together
+
+introducing community-powered ways to discover, report, and prevent security
+vulnerabilities.
+
+learn more → ](/features/security)
+
+[
+
+* * *
+
+### github advisory database new
+
+browse a curated database of cves and security, mapped to packages tracked by
+the github dependency graph.
+
+learn more → ](/advisories)
+
+[
+
+* * *
+
+### security incident response
+
+our threat detection program provides investigation, response, and
+coordination for all security incidents at github.
+
+learn more → ](/security/incident-response)
+
+[
+
+* * *
+
+### the github bug bounty program
+
+we’ve invited the security research community to help make our product more
+secure since 2014.
+
+learn more → ](https://bounty.github.com/)
+
+![decorative shapes](https://github.githubassets.com/images/modules/site/site-
+relaunch/shapes/cluster-1.svg)
+
+##  features
+
+### secure code,  
+ _from blueprint to execution_
+
+#### accounts and access
+
+keep your github account secure—and review important changes along the way.
+
+  * two-factor authentication (2fa) (sms, totp) 
+  * universal second factor (u2f) 
+  * delegated account recovery 
+  * git over secure shell (ssh) and https 
+  * gpg commit-signing verification 
+  * email privacy controls 
+  * security audit log 
+
+#### teams and integrations
+
+manage teams, projects, and integrations to do your best work securely.
+
+  * fine-grained access controls 
+  * saml 
+  * ldap 
+  * repository access levels (read, write, and admin) 
+  * default repository permissions 
+  * oauth application whitelists 
+  * security monitoring through organization-wide webhooks 
+  * access controls for third-party integrations 
+
+#### projects and monitoring
+
+build confidently with exactly the right teams—and monitor security as you go.
+
+  * required reviews 
+  * required status checks 
+  * built-in continuous integration (ci) and testing 
+  * read only deploy keys 
+  * deployments api 
+  * monitoring and logging 
+  * evidence key controls 
+
+[
+
+* * *
+
+find a plan that meets your team’s security needs.
+
+compare plans → ](https://github.com/pricing)
+
+![hand unlocking
+lock](https://github.githubassets.com/images/modules/site/site-
+relaunch/spot/security.svg)
+
+* * *
+
+### questions about security?
+
+have a question, concern, or comment about github security? please contact
+github support.
+
+[contact github support](/contact)
+
+## news
+
+### stay up to date
+
+  * [github advisory database launched→](https://github.blog/2019-11-14-github-advisory-database/)
+  * [securing software, together→](https://github.blog/2019-09-18-securing-software-together/)
+  * [introducing new ways to keep your code secure→](https://github.blog/2019-05-23-introducing-new-ways-to-keep-your-code-secure/)
+  * [new improvements and best practices for account security and recoverability→](https://github.blog/2018-07-31-new-improvements-and-best-practices-for-account-security-and-recoverability/)
+  * [soft u2f→](https://githubengineering.com/soft-u2f/)
+  * [a glimpse into github's bug bounty workflow→](https://githubengineering.com/githubs-bug-bounty-workflow/)
+
+[
+![github](https://github.githubassets.com/images/modules/site/icons/footer/github-
+logo.svg) ](/)
+
+## product
+
+  * [features](/features)
+  * [security](/security)
+  * [team](/team)
+  * [enterprise](/enterprise)
+  * [customer stories](/customer-stories)
+  * [the readme project](/readme)
+  * [pricing](/pricing)
+  * [resources](https://resources.github.com)
+  * [roadmap](https://github.com/github/roadmap)
+
+## platform
+
+  * [developer api](https://docs.github.com)
+  * [partners](https://partner.github.com/)
+  * [atom](https://atom.io)
+  * [electron](https://www.electronjs.org)
+  * [github desktop](https://desktop.github.com/)
+
+## support
+
+  * [docs](https://docs.github.com)
+  * [community forum](https://github.community)
+  * [professional services](https://services.github.com/)
+  * [learning lab](https://lab.github.com/)
+  * [status](https://www.githubstatus.com/)
+  * [contact github](https://support.github.com)
+
+## company
+
+  * [about](https://github.com/about)
+  * [blog](https://github.blog)
+  * [careers](/about/careers)
+  * [press](/about/press)
+  * [social impact](https://socialimpact.github.com/)
+  * [shop](https://shop.github.com)
+
+  * [ ![twitter icon](https://github.githubassets.com/images/modules/site/icons/footer/twitter.svg) github on twitter ](https://twitter.com/github)
+  * [ ![facebook icon](https://github.githubassets.com/images/modules/site/icons/footer/facebook.svg) github on facebook ](https://www.facebook.com/github)
+  * [ ![youtube icon](https://github.githubassets.com/images/modules/site/icons/footer/youtube.svg) github on youtube ](https://www.youtube.com/github)
+  * [ ![linkedin icon](https://github.githubassets.com/images/modules/site/icons/footer/linkedin.svg) github on linkedin ](https://www.linkedin.com/company/github)
+  * [ ![github mark](https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg) github’s organization on github ](https://github.com/github)
+
+  * (c) 2021 github, inc.
+  * [terms](/site/terms)
+  * [privacy](/site/privacy)
+  * [site map](/site-map)
+  * [what is git?](/git-guides)
+
+you can’t perform that action at this time.
+
+you signed in with another tab or window. [reload]() to refresh your session.
+you signed out in another tab or window. [reload]() to refresh your session.
+

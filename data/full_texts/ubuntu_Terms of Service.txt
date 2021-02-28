@@ -1,0 +1,242 @@
+[ ](/)
+
+#####  [ legal ](/legal)
+
+jump to main content
+
+  * enterprise
+  * developer
+  * community
+  * download
+
+  * [openstack](/openstack)
+  * [kubernetes](/kubernetes)
+  * [desktop](/desktop)
+  * [iot](/internet-of-things)
+  * [support](/support)
+  * [downloads](/download)
+
+_clear_ _search_
+
+[
+
+#####  legal
+
+](/legal)
+
+  * [overview](/legal)
+  * [terms and policies](/legal/terms-and-policies)
+  * [data privacy](/legal/data-privacy)
+  * [trademarks](/legal/trademarks)
+  * [ubuntu advantage](/legal/ubuntu-advantage)
+  * [contributors](/legal/contributors)
+  * [service terms](/legal/ubuntu-advantage-service-terms)
+
+# legal terms and conditions
+
+we have a number of legal agreements to protect your personal data and the
+contributions you make to the projects we manage. we also have agreements that
+enable us to share intellectual property (which includes our trademarks and
+content as well as code), plus legal descriptions of exactly what our support
+services cover.
+
+![ubuntu legal
+docs](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_214,h_248/https://assets.ubuntu.com/v1/253da317-image-
+document-ubuntudocs.svg)
+
+###  [terms and policies ›](/legal/terms-and-policies)
+
+the main terms governing use of our software and websites, including links to
+privacy, intellectual property and copyright information.
+
+###  [data privacy ›](/legal/data-privacy)
+
+information about how we collect and process personal data, including links to
+privacy notices.
+
+###  [trademarks ›](/legal/trademarks)
+
+a list of trademarks used by canonical.
+
+###  [contributor agreement ›](/legal/contributors)
+
+details of the agreement you need to send to us before you begin contributing
+to projects at canonical.
+
+###  [ubuntu advantage terms ›](/legal/ubuntu-advantage)
+
+a legal description of the services included in the ubuntu advantage support
+package.
+
+###  [modern slavery
+statement](https://assets.ubuntu.com/v1/47d72a70-modern+slavery+statement+2019.pdf)
+
+this is canonical's modern slavery statement.
+
+###  [service terms ›](/legal/ubuntu-advantage-service-terms)
+
+this agreement sets out canonical's standard service terms for both ubuntu
+advantage and managed services customers.
+
+### want fully managed private cloud?
+
+canonical provides a managed services option for openstack. our experts take
+responsibility for the design, deployment and operations.
+
+[learn more ›](/openstack/managed)
+
+[contact us](/openstack/managed#get-in-touch)
+
+### get ubuntu
+
+the open source software platform that runs everywhere from the smartphone,
+the tablet and the pc to the server and the cloud.
+
+[download ubuntu ›](/download)
+
+### further reading
+
+  * _loading..._
+
+* back to top
+
+  * ##  [openstack](/openstack)
+
+    * [what is openstack](/openstack/what-is-openstack)
+    * [features](/openstack/features)
+    * [managed](/openstack/managed)
+    * [consulting](/openstack/consulting)
+    * [compare](/openstack/compare)
+    * [tco calculator](/openstack/tco-calculator)
+    * [install](/openstack/install)
+  * ##  [ceph](/ceph)
+
+    * [what is ceph](/ceph/what-is-ceph)
+    * [docs](/ceph/docs)
+    * [install](/ceph/install)
+  * ##  [managed](/managed)
+
+    * [kafka](/managed/kafka)
+    * [cassandra](/managed/cassandra)
+
+  * ##  [kubernetes](/kubernetes)
+
+    * [what is kubernetes](/kubernetes/what-is-kubernetes)
+    * [features](/kubernetes/features)
+    * [managed](/kubernetes/managed)
+    * [compare](/kubernetes/compare)
+    * [install](/kubernetes/install)
+    * [docs](/kubernetes/docs)
+  * ##  [ai / ml](/ai)
+
+    * [what is kubeflow](/ai/what-is-kubeflow)
+    * [install kubeflow](/ai/install-kubeflow)
+    * [services](/ai/services)
+
+  * ##  [iot](/internet-of-things)
+
+    * [digital signage](/internet-of-things/digital-signage)
+    * [robotics](/robotics)
+    * [gateways](/internet-of-things/gateways)
+    * [app store](/internet-of-things/appstore)
+    * [embedded linux](/embedded)
+    * [automotive](/automotive)
+    * [edgex](/internet-of-things/edgex)
+    * [networking](/internet-of-things/networking)
+  * ##  [raspberry pi](/raspberry-pi)
+
+    * [desktop](/raspberry-pi/desktop)
+    * [server](/raspberry-pi/server)
+  * ##  [core](/core)
+
+    * [docs](/core/docs)
+    * [tutorials](/tutorials?q=core)
+    * [features](/core/features)
+    * [success stories](/core/stories)
+    * [consulting](/core/smartstart)
+
+  * ##  [desktop](/desktop)
+
+    * [features](/desktop/features)
+    * [organisations](/desktop/organisations)
+    * [developers](/desktop/developers)
+    * [partners](/desktop/partners)
+    * [statistics](/desktop/statistics)
+  * ##  [server](/server)
+
+    * [hyperscale](/server/hyperscale)
+    * [docs](/server/docs)
+  * ##  [security](/security)
+
+    * [esm](/security/esm)
+    * [livepatch](/security/livepatch)
+    * [fips](/security/certifications#fips)
+    * [hardening](/security/certifications#cis)
+    * [certifications](/security/certifications)
+    * [cves](/security/cve)
+    * [notices](/security/notices)
+    * [oval](/security/oval)
+    * [docker images](/security/docker-images)
+
+  * ##  [downloads](/download)
+
+    * [cloud](/download/cloud)
+    * [iot](/download/iot)
+    * [raspberry pi](/download/raspberry-pi)
+    * [server](/download/server)
+    * [desktop](/download/desktop)
+    * [alternative downloads](/download/alternative-downloads)
+    * [ubuntu flavours](/download/flavours)
+  * ##  [appliance](/appliance)
+
+    * [about](/appliance/about)
+    * [portfolio](/appliance/portfolio)
+    * [community](/appliance/community)
+    * [hardware](/appliance/hardware)
+    * [virtual machines](/appliance/vm)
+
+  * ##  [support](/support)
+
+    * [your subscriptions](/advantage)
+    * [community support](/support/community-support)
+  * ##  [pricing](/pricing)
+
+    * [support](/pricing/infra)
+    * [consulting](/pricing/consulting)
+    * [devices](/pricing/devices)
+  * ##  sectors
+
+    * [industrial](/industrial)
+    * [telco](/telco)
+    * [finance](/financial-services)
+  *     * [public cloud](/public-cloud)
+    * [cloud](/cloud)
+    * [containers](/containers)
+    * [tutorials](/tutorials)
+
+* * *
+
+  * [contact us](/contact-us)
+  * [contact us](/contact-us)
+  * [about us](/about)
+  * [community](/community)
+  * [careers](http://www.canonical.com/careers)
+  * [blog](/blog)
+  * [resources](/engage)
+  * [press centre](/blog/press-centre)
+
+(c) 2021 canonical ltd. ubuntu and canonical are registered trademarks of
+canonical ltd.
+
+  * [legal information](/legal)
+  * [data privacy](/legal/data-privacy)
+  * [manage your tracker settings]()
+  * [ report a bug on this site ](https://github.com/canonical-websites/www.ubuntu.com/issues/new)
+
+  * [ ](https://twitter.com/ubuntu "follow ubuntu on twitter")
+  * [ ](https://www.facebook.com/ubuntulinux/ "follow ubuntu on facebook")
+  * [ ](https://www.linkedin.com/company/234280 "find canonical on linkedin")
+  * [ ](/blog/feed "use the ubuntu blog rss feed")
+
+go to the top of the page
+

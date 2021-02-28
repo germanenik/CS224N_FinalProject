@@ -1,0 +1,580 @@
+[ ](/about/ "google")
+
+[marketing platform](/about/)
+
+  * [for small businesses](/about/small-business/)
+  * [for enterprises](/about/enterprise/)
+  * [resources](/about/resources/)
+  * [blog](https://www.blog.google/products/marketingplatform/)
+
+  * [ partners](/about/partners/ "partners")
+  * [ support](/about/support/ "support")
+
+for small businesses
+
+free and easy-to-use solutions for businesses of every size.
+
+[learn more](/about/small-business/)
+
+for enterprises
+
+a single platform that integrates your advertising and analytics, so you can
+act on customer insights faster.
+
+[learn more](/about/enterprise/)
+
+  * [analytics
+
+understand your customers so you can deliver better experiences.
+
+](/about/analytics/)
+
+  * [data studio
+
+bring your data to life with engaging, customizable reports.
+
+](/about/data-studio/)
+
+  * [optimize
+
+test variations of your sites and apps.
+
+](/about/optimize/)
+
+  * [surveys
+
+get fast, reliable opinions from real people.
+
+](/about/surveys/)
+
+  * [tag manager
+
+manage all your tags without editing code.
+
+](/about/tag-manager/)
+
+advertising
+
+  * [campaign manager 360
+
+get a complete view of all your digital media campaigns.
+
+](/about/campaign-manager-360/)
+
+  * [display & video 360
+
+reach todayâs always-connected audiences wherever they are.
+
+](/about/display-video-360/)
+
+  * [search ads 360
+
+get real-time data and unified insights for your search campaigns.
+
+](/about/search-ads-360/)
+
+analytics
+
+  * [analytics 360
+
+use advanced tools to get a deeper understanding of your customers so you can
+deliver better experiences.
+
+](/about/analytics-360/)
+
+  * [data studio
+
+unlock insights from your data with engaging, customizable reports.
+
+](/about/data-studio/)
+
+  * [optimize 360
+
+test variations of your sites and apps with advanced tools for enterprise
+marketers.
+
+](/about/optimize-360/)
+
+  * [surveys 360
+
+get fast, reliable market research from real people.
+
+](/about/surveys-360/)
+
+  * [tag manager 360
+
+manage all your tags in one place for a smarter, simpler way to oversee your
+marketing.
+
+](/about/tag-manager-360/)
+
+[marketing platform](/about/)
+
+  * [for small businesses](/about/small-business/ "for small businesses")
+    * [analytics](/about/analytics/ "analytics")
+    * [data studio](/about/data-studio/ "data studio")
+    * [optimize](/about/optimize/ "optimize")
+    * [surveys](/about/surveys/ "surveys")
+    * [tag manager](/about/tag-manager/ "tag manager")
+  * [for enterprises](/about/enterprise/ "for enterprises")
+    * [campaign manager 360](/about/campaign-manager-360/ "campaign manager 360")
+    * [display & video 360](/about/display-video-360/ "display & video 360")
+    * [search ads 360](/about/search-ads-360/ "search ads 360")
+    * [analytics 360](/about/analytics-360/ "analytics 360")
+    * [data studio](/about/data-studio/ "data studio")
+    * [optimize 360](/about/optimize-360/ "optimize 360")
+    * [surveys 360](/about/surveys-360/ "surveys 360")
+    * [tag manager 360](/about/tag-manager-360/ "tag manager 360")
+  * [resources](/about/resources/ "resources")
+    * [success stories](/about/resources/success-stories/ "success stories")
+    * [insights](/about/resources/insights/ "insights")
+    * [community](/about/resources/community/ "community")
+  * [blog](https://www.blog.google/products/marketingplatform/ "blog")
+
+  * [ partners](/about/partners/ "partners")
+  * [ support](/about/support/ "support")
+
+##  google analytics terms of service
+
+these google analytics terms of service (this **"agreement"** ) are entered
+into by google llc ( **"google"** ) and the entity executing this agreement (
+**"you"** ). this agreement governs your use of the standard google analytics
+(the **"service"** ). by clicking the "i accept" button, completing the
+registration process, or using the service, you acknowledge that you have
+reviewed and accept this agreement and are authorized to act on behalf of, and
+bind to this agreement, the owner of this account. in consideration of the
+foregoing, the parties agree as follows:
+
+##  1\. definitions.
+
+_**"account"**_ refers to the account for the service. all profiles (as
+applicable) linked to a single property will have their hits aggregated before
+determining the charge for the service for that property.
+
+_**"confidential information"**_ includes any proprietary data and any other
+information disclosed by one party to the other in writing and marked
+"confidential" or disclosed orally and, within five business days, reduced to
+writing and marked "confidential". however, confidential information will not
+include any information that is or becomes known to the general public, which
+is already in the receiving party's possession prior to disclosure by a party
+or which is independently developed by the receiving party without the use of
+confidential information.
+
+_**"customer data"**_ or "google analytics data" means the data you collect,
+process or store using the service concerning the characteristics and
+activities of users.
+
+_**"documentation"**_ means any accompanying documentation made available to
+you by google for use with the processing software, including any
+documentation available online.
+
+_**"gamc"**_ means the google analytics measurement code, which is installed
+on a property for the purpose of collecting customer data, together with any
+fixes, updates and upgrades provided to you.
+
+_**"hit"**_ means a collection of interactions that results in data being sent
+to the service and processed. examples of hits may include page view hits and
+ecommerce hits. a hit can be a call to the service by various libraries, but
+does not have to be so (e.g., a hit can be delivered to the service by other
+google analytics-supported protocols and mechanisms made available by the
+service to you).
+
+_**"platform home"**_ means the user interface through which you can access
+certain google marketing platform-level functionality.
+
+_**"processing software"**_ means the google analytics server-side software
+and any upgrades, which analyzes the customer data and generates the reports.
+
+_**"profile"**_ means the collection of settings that together determine the
+information to be included in, or excluded from, a particular report. for
+example, a profile could be established to view a small portion of a web site
+as a unique report.
+
+_**"property"**_ means any web page, application, other property or resource
+under your control that sends data to google analytics.
+
+_**"privacy policy"**_ means the privacy policy on a property.
+
+_**"report"**_ means the resulting analysis shown at
+[www.google.com/analytics/](https://www.google.com/analytics/), some of which
+may include analysis for a profile.
+
+_**"servers"**_ means the servers controlled by google (or its wholly-owned
+subsidiaries) on which the processing software and customer data are stored.
+
+_**âsdksâ**_ mean certain software development kits, which may be used or
+incorporated into a property app for the purpose of collecting customer data,
+together with any fixes, updates, and upgrades provided to you.
+
+_**"software"**_ means the processing software, gamc and/or sdks.
+
+_**"third party"**_ means any third party (i) to which you provide access to
+your account or (ii) for which you use the service to collect information on
+the third party's behalf.
+
+_**"users"**_ means users and/or visitors to your properties.
+
+the words _**"include"**_ and _**"including"**_ mean "including but not
+limited to."
+
+##  2\. fees and service.
+
+subject to section 15, the service is provided without charge to you for up to
+10 million hits per month per account. google may change its fees and payment
+policies for the service from time to time including the addition of costs for
+geographic data, the importing of cost data from search engines, or other fees
+charged to google or its wholly-owned subsidiaries by third party vendors for
+the inclusion of data in the service reports. the changes to the fees or
+payment policies are effective upon your acceptance of those changes which
+will be posted at
+[www.google.com/analytics/](https://www.google.com/analytics/). unless
+otherwise stated, all fees are quoted in u.s. dollars. any outstanding balance
+becomes immediately due and payable upon termination of this agreement and any
+collection expenses (including attorneys' fees) incurred by google will be
+included in the amount owed, and may be charged to the credit card or other
+billing mechanism associated with your adwords account.
+
+##  3\. member account, password, and security.
+
+to register for the service, you must complete the registration process by
+providing google with current, complete and accurate information as prompted
+by the registration form, including your e-mail address (username) and
+password. you will protect your passwords and take full responsibility for
+your own, and third party, use of your accounts. you are solely responsible
+for any and all activities that occur under your account. you will notify
+google immediately upon learning of any unauthorized use of your account or
+any other breach of security. google's (or its wholly-owned subsidiaries)
+support staff may, from time to time, log in to the service under your
+customer password in order to maintain or improve service, including to
+provide you assistance with technical or billing issues.
+
+##  4\. nonexclusive license.
+
+subject to the terms and conditions of this agreement, (a) google grants you a
+limited, revocable, non-exclusive, non-sublicensable license to install, copy
+and use the gamc and/or sdks solely as necessary for you to use the service on
+your properties or third party's properties; and (b) you may remotely access,
+view and download your reports stored at
+[www.google.com/analytics/](https://www.google.com/analytics/). you will not
+(and you will not allow any third party to) (i) copy, modify, adapt, translate
+or otherwise create derivative works of the software or the documentation;
+(ii) reverse engineer, decompile, disassemble or otherwise attempt to discover
+the source code of the software, except as expressly permitted by the law in
+effect in the jurisdiction in which you are located; (iii) rent, lease, sell,
+assign or otherwise transfer rights in or to the software, the documentation
+or the service; (iv) remove any proprietary notices or labels on the software
+or placed by the service; (v) use, post, transmit or introduce any device,
+software or routine which interferes or attempts to interfere with the
+operation of the service or the software; or (vi) use data labeled as
+belonging to a third party in the service for purposes other than generating,
+viewing, and downloading reports. you will comply with all applicable laws and
+regulations in your use of and access to the documentation, software, service
+and reports.
+
+##  5\. confidentiality and beta features.
+
+neither party will use or disclose the other party's confidential information
+without the other's prior written consent except for the purpose of performing
+its obligations under this agreement or if required by law, regulation or
+court order; in which case, the party being compelled to disclose confidential
+information will give the other party as much notice as is reasonably
+practicable prior to disclosing the confidential information. certain service
+features are identified as "alpha," "beta," "experiment," (either within the
+service or elsewhere by google) or as otherwise unsupported or confidential
+(collectively, **"beta features"** ). you may not disclose any information
+from beta features or the terms or existence of any non-public beta features.
+google will have no liability arising out of or related to any beta features.
+
+##  6\. information rights and publicity.
+
+google and its wholly owned subsidiaries may retain and use, subject to the
+terms of its privacy policy (located at
+<https://www.google.com/policies/privacy/>), information collected in your use
+of the service. google will not share your customer data or any third party's
+customer data with any third parties unless google (i) has your consent for
+any customer data or any third party's consent for the third party's customer
+data; (ii) concludes that it is required by law or has a good faith belief
+that access, preservation or disclosure of customer data is reasonably
+necessary to protect the rights, property or safety of google, its users or
+the public; or (iii) provides customer data in certain limited circumstances
+to third parties to carry out tasks on google's behalf (e.g., billing or data
+storage) with strict restrictions that prevent the data from being used or
+shared except as directed by google. when this is done, it is subject to
+agreements that oblige those parties to process customer data only on google's
+instructions and in compliance with this agreement and appropriate
+confidentiality and security measures.
+
+##  7\. privacy.
+
+you will not and will not assist or permit any third party to, pass
+information to google that google could use or recognize as personally
+identifiable information. you will have and abide by an appropriate privacy
+policy and will comply with all applicable laws, policies, and regulations
+relating to the collection of information from users. you must post a privacy
+policy and that privacy policy must provide notice of your use of cookies,
+identifiers for mobile devices (e.g., android advertising identifier or
+advertising identifier for ios) or similar technology used to collect data.
+you must disclose the use of google analytics, and how it collects and
+processes data. this can be done by displaying a prominent link to the site
+"how google uses data when you use our partners' sites or apps", (located at
+[www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/),
+or any other url google may provide from time to time). you will use
+commercially reasonable efforts to ensure that a user is provided with clear
+and comprehensive information about, and consents to, the storing and
+accessing of cookies or other information on the userâs device where such
+activity occurs in connection with the service and where providing such
+information and obtaining such consent is required by law.
+
+you must not circumvent any privacy features (e.g., an opt-out) that are part
+of the service. you will comply with all applicable google analytics policies
+located at
+[www.google.com/analytics/policies/](https://www.google.com/analytics/policies/)
+(or such other url as google may provide) as modified from time to time (the
+**"google analytics policies"** ).
+
+you may participate in an integrated version of google analytics and certain
+google advertising services ("google analytics advertising features"). if you
+use google analytics advertising features, you will adhere to the google
+analytics advertising features policy (available at
+[support.google.com/analytics/bin/answer.py?hl=en&topic=2611283&answer=2700409](https://support.google.com/analytics/bin/answer.py?hl=en&topic=2611283&answer=2700409)).
+your access to and use of any google advertising service is subject to the
+applicable terms between you and google regarding that service.
+
+if you use the platform home, your use of the platform home is subject to the
+platform home additional terms (or as subsequently re-named) available at
+<https://support.google.com/marketingplatform/answer/9047313> (or such other
+url as google may provide) as modified from time to time (the "platform home
+terms").
+
+##  8\. indemnification.
+
+to the extent permitted by applicable law, you will indemnify, hold harmless
+and defend google and its wholly-owned subsidiaries, at your expense, from any
+and all third-party claims, actions, proceedings, and suits brought against
+google or any of its officers, directors, employees, agents or affiliates, and
+all related liabilities, damages, settlements, penalties, fines, costs or
+expenses (including, reasonable attorneys' fees and other litigation expenses)
+incurred by google or any of its officers, directors, employees, agents or
+affiliates, arising out of or relating to (i) your breach of any term or
+condition of this agreement, (ii) your use of the service, (iii) your
+violations of applicable laws, rules or regulations in connection with the
+service, (iv) any representations and warranties made by you concerning any
+aspect of the service, the software or reports to any third party; (v) any
+claims made by or on behalf of any third party pertaining directly or
+indirectly to your use of the service, the software or reports; (vi)
+violations of your obligations of privacy to any third party; and (vii) any
+claims with respect to acts or omissions of any third party in connection with
+the service, the software or reports. google will provide you with written
+notice of any claim, suit or action from which you must indemnify google. you
+will cooperate as fully as reasonably required in the defense of any claim.
+google reserves the right, at its own expense, to assume the exclusive defense
+and control of any matter subject to indemnification by you.
+
+##  9\. third parties.
+
+if you use the service on behalf of the third party or a third party otherwise
+uses the service through your account, whether or not you are authorized by
+google to do so, then you represent and warrant that (a) you are authorized to
+act on behalf of, and bind to this agreement, the third party to all
+obligations that you have under this agreement, (b) google may share with the
+third party any customer data that is specific to the third party's
+properties, and (c) you will not disclose third party's customer data to any
+other party without the third party's consent.
+
+##  10\. disclaimer of warranties.
+
+to the fullest extent permitted by applicable law, except as expressly
+provided for in this agreement, google makes no other warranty of any kind,
+whether express, implied, statutory or otherwise, including without limitation
+warranties of merchantability, fitness for a particular use and
+noninfringement.
+
+##  11\. limitation of liability.
+
+to the extent permitted by applicable law, google will not be liable for your
+lost revenues or indirect, special, incidental, consequential, exemplary, or
+punitive damages, even if google or its subsidiaries and affiliates have been
+advised of, knew or should have known that such damages were possible and even
+if direct damages do not satisfy a remedy. google's (and its wholly owned
+subsidiariesâ) total cumulative liability to you or any other party for any
+loss or damages resulting from claims, demands, or actions arising out of or
+relating to this agreement will not exceed $500 (usd).
+
+##  12\. proprietary rights notice.
+
+the service, which includes the software and all intellectual property rights
+therein are, and will remain, the property of google (and its wholly owned
+subsidiaries). all rights in and to the software not expressly granted to you
+in this agreement are reserved and retained by google and its licensors
+without restriction, including, google's (and its wholly owned
+subsidiariesâ) right to sole ownership of the software and documentation.
+without limiting the generality of the foregoing, you agree not to (and not to
+allow any third party to): (a) sublicense, distribute, or use the service or
+software outside of the scope of the license granted in this agreement; (b)
+copy, modify, adapt, translate, prepare derivative works from, reverse
+engineer, disassemble, or decompile the software or otherwise attempt to
+discover any source code or trade secrets related to the service; (c) rent,
+lease, sell, assign or otherwise transfer rights in or to the software,
+documentation or the service; (d) use, post, transmit or introduce any device,
+software or routine which interferes or attempts to interfere with the
+operation of the service or the software; (e) use the trademarks, trade names,
+service marks, logos, domain names and other distinctive brand features or any
+copyright or other proprietary rights associated with the service for any
+purpose without the express written consent of google; (f) register, attempt
+to register, or assist anyone else to register any trademark, trade name,
+serve marks, logos, domain names and other distinctive brand features,
+copyright or other proprietary rights associated with google (or its wholly
+owned subsidiaries) other than in the name of google (or its wholly owned
+subsidiaries, as the case may be); (g) remove, obscure, or alter any notice of
+copyright, trademark, or other proprietary right appearing in or on any item
+included with the service or software; or (h) seek, in a proceeding filed
+during the term of this agreement or for one year after such term, an
+injunction of any portion of the service based on patent infringement.
+
+##  13\. u.s. government rights.
+
+if the use of the service is being acquired by or on behalf of the u.s.
+government or by a u.s. government prime contractor or subcontractor (at any
+tier), in accordance with 48 c.f.r. 227.7202-4 (for department of defense
+(dod) acquisitions) and 48 c.f.r. 2.101 and 12.212 (for non-dod acquisitions),
+the government's rights in the software, including its rights to use, modify,
+reproduce, release, perform, display or disclose the software or
+documentation, will be subject in all respects to the commercial license
+rights and restrictions provided in this agreement.
+
+##  14\. term and termination.
+
+either party may terminate this agreement at any time with notice. upon any
+termination of this agreement, google will stop providing, and you will stop
+accessing the service. additionally, if your account and/or properties are
+terminated, you will (i) delete all copies of the gamc from all properties
+and/or (ii) suspend any and all use of the sdks within 3 business days of such
+termination. in the event of any termination (a) you will not be entitled to
+any refunds of any usage fees or any other fees, and (b) any outstanding
+balance for service rendered through the date of termination will be
+immediately due and payable in full and (c) all of your historical report data
+will no longer be available to you.
+
+##  15\. modifications to terms of service and other policies.
+
+google may modify these terms or any additional terms that apply to the
+service to, for example, reflect changes to the law or changes to the service.
+you should look at the terms regularly. google will post notice of
+modifications to these terms at <https://www.google.com/analytics/terms/>, the
+google analytics policies at
+[www.google.com/analytics/policies/](https://www.google.com/analytics/policies/),
+or other policies referenced in these terms at the applicable url for such
+policies. changes will not apply retroactively and will become effective no
+sooner than 14 days after they are posted. if you do not agree to the modified
+terms for the service, you should discontinue your use google analytics. no
+amendment to or modification of this agreement will be binding unless (i) in
+writing and signed by a duly authorized representative of google, (ii) you
+accept updated terms online, or (iii) you continue to use the service after
+google has posted updates to the agreement or to any policy governing the
+service.
+
+##  16\. miscellaneous, applicable law and venue.
+
+google will be excused from performance in this agreement to the extent that
+performance is prevented, delayed or obstructed by causes beyond its
+reasonable control. this agreement (including any amendment agreed upon by the
+parties in writing) represents the complete agreement between you and google
+concerning its subject matter, and supersedes all prior agreements and
+representations between the parties. if any provision of this agreement is
+held to be unenforceable for any reason, such provision will be reformed to
+the extent necessary to make it enforceable to the maximum extent permissible
+so as to effect the intent of the parties, and the remainder of this agreement
+will continue in full force and effect. this agreement will be governed by and
+construed under the laws of the state of california without reference to its
+conflict of law principles. in the event of any conflicts between foreign law,
+rules, and regulations, and california law, rules, and regulations, california
+law, rules and regulations will prevail and govern. each party agrees to
+submit to the exclusive and personal jurisdiction of the courts located in
+santa clara county, california. the united nations convention on contracts for
+the international sale of goods and the uniform computer information
+transactions act do not apply to this agreement. the software is controlled by
+u.s. export regulations, and it may be not be exported to or used by embargoed
+countries or individuals. any notices to google must be sent to: google llc,
+1600 amphitheatre parkway, mountain view, ca 94043, usa, with a copy to legal
+department, via first class or air mail or overnight courier, and are deemed
+given upon receipt. a waiver of any default is not a waiver of any subsequent
+default. you may not assign or otherwise transfer any of your rights in this
+agreement without google's prior written consent, and any such attempt is
+void. the relationship between google and you is not one of a legal
+partnership relationship, but is one of independent contractors. this
+agreement will be binding upon and inure to the benefit of the respective
+successors and assigns of the parties hereto. the following sections of this
+agreement will survive any termination thereof: 1, 4, 5, 6 (except the last
+two sentences), 7, 8, 9, 10, 11, 12, 14, 16, and 17.
+
+##  17\. google analytics for firebase.
+
+if you link a property to firebase ( **âfirebase linkageâ** ) as part of
+using the service, the following terms, in addition to sections 1-16 above,
+will also apply to you, and will also govern your use of the service,
+including with respect to your use of firebase linkage. other than as modified
+below, all other terms will stay the same and continue to apply. in the event
+of a conflict between this section 17 and sections 1-16 above, the terms in
+section 17 will govern and control solely with respect to your use of the
+firebase linkage.
+
+  1. the following definition in section 1 is modified as follows: 
+    1. "hit" means a collection of interactions that results in data being sent to the service and processed. examples of hits may include page view hits and ecommerce hits. a hit can be a call to the service by various libraries, but does not have to be so (e.g., a hit can be delivered to the service by other google analytics-supported protocols and mechanisms made available by the service to you). for the sake of clarity, a hit does not include certain events whose collection reflects interactions with certain properties capable of supporting multiple data streams, and which may include screen views and custom events (the collection of events, an **âenhanced packetâ** ). 
+  2. the following sentence is added to the end of section 7 as follows: 
+    1. if you link a property to a firebase project ( **âfirebase linkageâ** ) (i) certain data from your property, including customer data, may be made accessible within or to any other entity or personnel according to permissions set in firebase and (ii) that property may have certain service settings modified by authorized personnel of firebase (notwithstanding the settings you may have designated for that property within the service). 
+
+last updated june 17, 2019
+
+follow us
+
+  * [ ](https://www.blog.google/products/marketingplatform/)
+  * [ ](https://twitter.com/gmktgplatform)
+  * [ ](https://www.youtube.com/c/googlemarketingplatform)
+  * [ ](https://www.linkedin.com/showcase/googlemarketingplatform)
+
+####  about google marketing platform
+
+  * [overview](/about/ "overview")
+  * [for small businesses](/about/small-business/ "for small businesses")
+  * [for enterprise](/about/enterprise/ "for enterprise")
+
+####  learning & support
+
+  * [support](/about/support/ "support")
+  * [blog](https://www.blog.google/products/marketingplatform/ "blog")
+  * [analytics academy](https://analytics.google.com/analytics/academy/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2fabout%2fanalytics%2fterms%2fus%2f "analytics academy")
+  * [skillshop](https://skillshop.withgoogle.com/ "skillshop")
+  * [google primer](https://www.yourprimer.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2fabout%2fanalytics%2fterms%2fus%2f "google primer")
+
+####  developers & partners
+
+  * [google marketing platform partners](/about/partners/ "google marketing platform partners")
+  * [google measurement partners](https://measurementpartners.google.com/ "google measurement partners")
+  * [analytics for developers](https://developers.google.com/analytics/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2fabout%2fanalytics%2fterms%2fus%2f "analytics for developers")
+  * [tag manager for developers](https://developers.google.com/tag-manager/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2fabout%2fanalytics%2fterms%2fus%2f "tag manager for developers")
+  * [surveys for developers](https://developers.google.com/surveys/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2fabout%2fanalytics%2fterms%2fus%2f "surveys for developers")
+  * [campaign manager 360 for developers](https://developers.google.com/doubleclick-advertisers/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2fabout%2fanalytics%2fterms%2fus%2f "campaign manager 360 for developers")
+
+####  related products
+
+  * [google ads](https://ads.google.com/home/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2fabout%2fanalytics%2fterms%2fus%2f "google ads")
+  * [google adsense](https://www.google.com/adsense/start/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2fabout%2fanalytics%2fterms%2fus%2f "google adsense")
+  * [google ad manager](https://admanager.google.com/home/ "google ad manager")
+  * [google cloud](https://cloud.google.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2fabout%2fanalytics%2fterms%2fus%2f "google cloud")
+  * [firebase](https://firebase.google.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2fabout%2fanalytics%2fterms%2fus%2f "firebase")
+
+####  more from google
+
+  * [think with google](https://www.thinkwithgoogle.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2fabout%2fanalytics%2fterms%2fus%2f "think with google")
+  * [business solutions](https://www.google.com/services/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2fabout%2fanalytics%2fterms%2fus%2f "business solutions")
+  * [google workspace](https://workspace.google.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2fabout%2fanalytics%2fterms%2fus%2f "google workspace")
+
+[ ](https://www.google.com)
+
+  * [privacy](https://www.google.com/intl/en/policies/privacy/ "privacy")
+  * [terms](https://www.google.com/intl/en/policies/terms/ "terms")
+  * [about google](https://about.google/ "about google")
+  * [google products](https://about.google/products/ "google products")
+
+  * [ help](https://support.google.com/marketingplatform)
+
