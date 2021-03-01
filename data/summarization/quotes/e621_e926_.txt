@@ -1,0 +1,5 @@
+History. [CLS] [SEP] This is not a long Terms of Service page. [CLS] [SEP] It is short, neatly sectioned, readable in plain English, and uses bullet points for each part of the ToS policy. [CLS] [SEP] Initial report (pre-March 2020 version of the site):
+ 
+ Once an eSix account has been made, it cannot be deleted. [CLS] [SEP] Both regular users and the administration recommends that users change their account's usernames, passwords, and email address to completely random ones to make it harder for their account to be accessed again. [CLS] [SEP] However, accounts maintain their ID numbers (shown in the URL) and all of the account's undeleted posts, deleted post history, tag edits, wiki edits, unhidden comments, et cetera will remain visible to all users.
+ 
+ Update: As of March 2020, the site has been revamped with a new backend software and now allows users to delete their accounts. [CLS] [SEP] This feature was first added in a 2019 beta version of the new site (see new source) and has been kept in the current version. [CLS] [SEP] 

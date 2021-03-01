@@ -1,0 +1,563 @@
+skip to main content
+
+  * [about](/about)
+    * [contact](/about/contact)
+    * [press](/press/contact)
+    * [people](/about/staff "details and contact information for the eff's staff")
+    * [opportunities](/about/opportunities)
+    * [eff 30th anniversary](/tags/eff30)
+  * [issues](/work)
+    * [free speech](/issues/free-speech)
+    * [privacy](/issues/privacy)
+    * [creativity and innovation](/issues/innovation)
+    * [transparency](/issues/transparency)
+    * [international](/issues/international)
+    * [security](/issues/security)
+  * [our work](/updates)
+    * [deeplinks blog](/deeplinks)
+    * [press releases](/updates?type=press_release)
+    * [events](/updates?type=event)
+    * [legal cases](/updates?type=case)
+    * [whitepapers](/updates?type=whitepaper)
+  * [take action](https://act.eff.org/)
+    * [action center](https://act.eff.org/)
+    * [electronic frontier alliance](/fight)
+    * [volunteer](/about/opportunities/volunteer)
+  * [tools](/pages/tools)
+    * [privacy badger](https://privacybadger.org/)
+    * [https everywhere](/https-everywhere)
+    * [surveillance self-defense](https://ssd.eff.org/)
+    * [certbot](https://certbot.eff.org/)
+    * [atlas of surveillance](https://atlasofsurveillance.org/)
+    * [cover your tracks](https://panopticlick.eff.org/)
+    * [crocodile hunter](https://github.com/efforg/crocodilehunter)
+  * [donate](https://supporters.eff.org/donate/join-eff-today "donate to eff")
+    * [donate to eff](https://supporters.eff.org/donate/join-eff-today)
+    * [shop](https://supporters.eff.org/shop)
+    * [other ways to give](/helpout)
+    * [membership faq](/pages/membership-faq "frequently asked questions and other information about eff memberships.")
+  * [donate](https://supporters.eff.org/donate/site-m--h "donate to eff")
+    * [donate to eff](https://supporters.eff.org/donate/site-m--h)
+    * [shop](https://supporters.eff.org/shop)
+    * [other ways to give](/helpout)
+  * ## search form
+
+search
+
+* * *
+
+email updates on news, actions,  
+and events in your area. [CLS] [SEP]
+
+[join eff lists](https://supporters.eff.org/subscribe)
+
+  * [copyright (cc by)](/copyright)
+  * [trademark](/pages/trademark-and-brand-usage-policy "trademark and brand usage policy")
+  * [privacy policy](/policy)
+  * [thanks](/thanks)
+
+[electronic frontier foundation](/)
+
+[donate](https://supporters.eff.org/donate/site-m--m)
+
+[eff turns 30! learn more about us, and how you can help. [CLS] [SEP] ](/tags/eff30)[eff
+turns 30! learn more. [CLS] [SEP] ](/tags/eff30)[](/ "close")
+
+[electronic frontier foundation](/)
+
+  * [about](/about)
+    * [contact](/about/contact)
+    * [press](/press/contact)
+    * [people](/about/staff "details and contact information for the eff's staff")
+    * [opportunities](/about/opportunities)
+    * [eff 30th anniversary](/tags/eff30)
+  * [issues](/work)
+    * [free speech](/issues/free-speech)
+    * [privacy](/issues/privacy)
+    * [creativity and innovation](/issues/innovation)
+    * [transparency](/issues/transparency)
+    * [international](/issues/international)
+    * [security](/issues/security)
+  * [our work](/updates)
+    * [deeplinks blog](/deeplinks)
+    * [press releases](/updates?type=press_release)
+    * [events](/updates?type=event)
+    * [legal cases](/updates?type=case)
+    * [whitepapers](/updates?type=whitepaper)
+  * [take action](https://act.eff.org/)
+    * [action center](https://act.eff.org/)
+    * [electronic frontier alliance](/fight)
+    * [volunteer](/about/opportunities/volunteer)
+  * [tools](/pages/tools)
+    * [privacy badger](https://privacybadger.org/)
+    * [https everywhere](/https-everywhere)
+    * [surveillance self-defense](https://ssd.eff.org/)
+    * [certbot](https://certbot.eff.org/)
+    * [atlas of surveillance](https://atlasofsurveillance.org/)
+    * [cover your tracks](https://panopticlick.eff.org/)
+    * [crocodile hunter](https://github.com/efforg/crocodilehunter)
+  * [donate](https://supporters.eff.org/donate/join-eff-today "donate to eff")
+    * [donate to eff](https://supporters.eff.org/donate/join-eff-today)
+    * [shop](https://supporters.eff.org/shop)
+    * [other ways to give](/helpout)
+    * [membership faq](/pages/membership-faq "frequently asked questions and other information about eff memberships.")
+  * [donate](https://supporters.eff.org/donate/site-m--h "donate to eff")
+    * [donate to eff](https://supporters.eff.org/donate/site-m--h)
+    * [shop](https://supporters.eff.org/shop)
+    * [other ways to give](/helpout)
+  * ## search form
+
+search
+
+# privacy policy
+
+page
+
+![](https://www.eff.org/files/banner_library/eff-work-icons.png)
+
+# privacy policy
+
+(note that eff's technology projects, such as https everywhere, privacy
+badger, and certbot, have a different privacy policy, available
+[here](/code/privacy/policy))
+
+the electronic frontier foundation (eff) is committed to protecting the
+privacy of visitors to our website, as well as our members and volunteers. [CLS] [SEP] eff
+has established this privacy policy to explain what information we collect
+through our websites and how it is used, as well as protections for our
+members’ and donors’ personal information. [CLS] [SEP]
+
+in this policy, "eff" refers to eff staff, board members, cooperating
+attorneys, interns, volunteers, and consultants, all of whom are bound by law
+or contract to keep confidential information they receive as part of their
+assistance to eff. [CLS] [SEP]
+
+eff does not sell or rent member, donor or website visitor information under
+any circumstances, and we do not share member, donor or visitor information
+without prior consent except as compelled by law. [CLS] [SEP] this restriction applies to
+member and donors who join or donate both online and offline. [CLS] [SEP] (see discussion
+below.)  
+eff is located within the united states, and therefore will transfer, process,
+and store your information in the united states, which may not provide as much
+protection as your home country. [CLS] [SEP] (we’re
+[working](https://www.eff.org/issues/privacy) to make us practices better.)
+
+## information gathered by eff's site
+
+**logging:** for visitors to our website, we generally log requests to our
+website through a program called
+[cryptolog](https://www.eff.org/code/cryptolog) (cryptolog described [further
+below](https://www.eff.org/policy#cryptolog)) and do internal analytical
+logging (also described [further below](https://www.eff.org/policy#analytics))
+for up to seven days from when the data was collected. [CLS] [SEP]
+
+circumstances in which eff may need to log and retain technical information
+for longer than seven days include when we believe it is reasonably necessary
+for eff’s mission and functionality, including situations such as:
+
+  * site testing,
+
+  * diagnosis of technical problems,
+
+  * defending against attacks to the site,
+
+  * handling a spike in traffic or other abnormal, short-term circumstances, or
+
+  * research projects (in anonymized form) that serve our overall mission to defend freedom online. [CLS] [SEP]
+
+in those and similar situations we will delete the information as soon as it
+is apparent that the information is no longer needed for the purpose for which
+it was retained. [CLS] [SEP] for more information on eff's position on data logging and
+techniques we use to anonymize, obfuscate, aggregate and delete information,
+see our [best practices for online service
+providers](https://www.eff.org/wp/osp). [CLS] [SEP]
+
+**how cryptolog works:** cryptolog takes the ip address portion of the request
+getting logged and encrypts it, as well as a chunk of random data (the salt),
+using a cryptographic hash function. [CLS] [SEP] the salt changes every night, which
+should result in making it very difficult for us, or anyone else, to recover
+ip addresses from our logs. [CLS] [SEP]
+
+**how eff internal analytics works:** eff endeavors to gather sufficient
+information for analyzing our website and how visitors move within it without
+compromising the privacy of our visitors. [CLS] [SEP] eff’s internal analytical logging,
+which is separate from the cryptolog logs, involves logging for up to seven
+days a single byte of the ip address, as well as the referrer page, time
+stamp, page requested, user agent, language header, website visited, and a
+hash of all of this information. [CLS] [SEP] after seven days we keep only aggregate
+information from these logs. [CLS] [SEP] we also geolocate ip addresses before anonymizing
+them and store only the country. [CLS] [SEP]
+
+**cookies:** we do not use persistent id cookies on this site except where you
+click “remember me” or are logged in, as you can be for the action center. [CLS] [SEP] we
+use session cookies on certain portions of the website. [CLS] [SEP] session cookies expire
+when you close your browser. [CLS] [SEP] you can use [tor](https://www.torproject.org/) if
+you wish to keep your connection information anonymous, but please note that
+you can still be identified to eff if you log in. [CLS] [SEP]
+
+**voluntarily submitted information:** in addition, eff collects and retains
+information you voluntarily submit to us. [CLS] [SEP] it is up to you whether to submit
+information to us, and how much information to provide. [CLS] [SEP] if you choose to
+become an eff member, use the eff shop, otherwise donate to eff or use our
+action center, we may ask for identifying information such as your name, email
+address, mailing address and phone number and will retain that information. [CLS] [SEP]
+for online donors and shoppers, we also ask for your credit card number or
+other payment information. [CLS] [SEP] for the action center, we maintain aggregate
+information about participation in the action campaigns, and, if you agree, we
+will also maintain account-specific records of your use of the action center. [CLS] [SEP]
+if you use the eff shop, you are asked to provide personal information, such
+as a shipping address, necessary to complete your transaction. [CLS] [SEP]
+
+we may ask for additional personal information when you provide feedback or
+comments, or otherwise communicate with us. [CLS] [SEP] we are pleased to receive
+anonymous donations in the mail or in-person, but please note that your
+personal information may be required if you choose to donate using our online
+form, or if you choose to use a mobile payment processor for in-person
+donations (and the mobile payment processor will also receive your payment
+information, subject to their privacy policy.)
+
+from time to time, we may ask for personal information on other portions of
+the site, such as asking you to sign a petition, participate in a contest, or
+provide prior art for a patent busting project. [CLS] [SEP]
+
+**effector and other mailing lists:** if you choose to subscribe to effector,
+our free electronic newsletter or any of our other mailing lists, we collect
+your email address, and, if you choose to provide it, a zip or postal code. [CLS] [SEP]
+
+## eff's use of information
+
+in general, eff uses the information provided by you to further its mission,
+including to protect privacy, defend freedom and innovation, and to protect
+your rights in the digital world **.**
+
+**member and donor information:** we use member and donor information for our
+legitimate interest in processing and managing your membership or
+contribution, including fundraising reminders and renewals. [CLS] [SEP] if you agree, we
+will use your email address to send you updates and alerts on protecting your
+rights in the digital world, so you may take action, such as contacting your
+representative in congress or attending an event. [CLS] [SEP] if you choose to complete
+the "please tell us why you became a member of eff" field when donating, this
+information may be shared with the entire eff staff and board, and select
+unattributed quotes may be used to promote our mission, such as including a
+relevant quote in a grant proposal. [CLS] [SEP]
+
+action center: we use the information you supply in our action center to help
+you take action in support of digital civil liberties, such as contacting
+decision makers (e.g. [CLS] [SEP] a representative in congress) and their staff, signing a
+petition or sharing a message on social media. [CLS] [SEP] we may use action center
+information to assess the success of action campaigns and to improve the
+functionality and effectiveness of our site, and to allow you to see records
+of your activities.we, and our coalition partners, may publicize and share
+aggregate information about action campaigns, such as the number of people who
+participated in a particular location or region or through a type of action,
+as well as sharing or publicizing activity trends. [CLS] [SEP]
+
+**publication by eff:** if you provide information for publication we may use
+your name and contact information you have provided to us to provide you with
+attribution. [CLS] [SEP]
+
+**other activities:** we may run surveys, contests, or similar activities
+through this site. [CLS] [SEP] such information will be used for the purposes for which it
+was collected. [CLS] [SEP] we use the information provided through our online shop to
+fulfill your order, and address any problems that might arise. [CLS] [SEP] we also look at
+technical information to diagnose problems with or consider improvements to
+our servers or related technologies and to administer eff.org and other
+websites we host or provide. [CLS] [SEP]
+
+## third-party service providers to eff
+
+portions of the eff.org site, including some of our individual action alert
+webpages, are operated by third-parties, such as grassroots campaign service
+providers. [CLS] [SEP] when necessary and appropriate, eff uses the following categories
+of third party services:
+
+  * content delivery networks and cloud hosting providers (for example, hosting and handling traffic to our site). [CLS] [SEP]
+
+  * financial services and payment processors (for example, your credit card and online payments)
+
+  * cloud email providers (for example, sending you email, like the effector newsletter)
+
+  * shipping and fulfillment services (for example, shipping you our [great swag](https://supporters.eff.org/shop))
+
+where possible, we take steps to limit the ability of third parties to retain
+data about our users. [CLS] [SEP] these service providers may place session cookies on
+your computer. [CLS] [SEP] eff’s service providers may also log standard technical
+information, such as the numerical internet protocol (ip) address of the
+computer you are using; the browser software you use and your operating
+system; the date and time you access our site; and the internet address of the
+website from which you linked directly to our site. [CLS] [SEP] our service providers may
+also store and organize the personal information collected through this site
+on our behalf. [CLS] [SEP] eff’s third party providers primarily process information in
+the united states, but may process data in other jurisdictions. [CLS] [SEP] where
+applicable, we have entered into [general data protection
+regulation](https://en.wikipedia.org/wiki/general_data_protection_regulation)
+(gdpr) compliant data protection addendums with third-parties who process data
+on our behalf. [CLS] [SEP]
+
+in addition, for all of eff's service providers, hosting providers and credit
+card processors and any other providers we may use in the future, the
+information collected from eff users remains protected by the terms of our
+agreements with those providers and we will ensure that the information to be
+kept confidential and disclosed only to employees who require such access in
+the course of their assigned duties. [CLS] [SEP] eff also requires all of our third-party
+service providers to notify eff if they receive legal process seeking
+information about visitors to eff’s website. [CLS] [SEP]
+
+eff may change the specific third-party providers from time to time, and will
+transfer stored information to any new provider subject to similar
+restrictions and agreements. [CLS] [SEP] from time to time, eff may work with third-party
+consultants or other service providers who may have access to personally
+identifiable information. [CLS] [SEP] in such cases, we will restrict their use of
+personally identifiable information in accordance with their assigned tasks. [CLS] [SEP]
+
+## third-party services and apis
+
+eff’s site also provides links to or interacts with a wide variety of third-
+party websites, including interactive links to sites like social media,
+telephone calling services, mapping services, or video hosting websites, often
+via application programming interfaces
+([apis](https://en.wikipedia.org/wiki/api)). [CLS] [SEP] eff is not responsible for, and
+does not have any control over, the privacy practices or the content of such
+third parties. [CLS] [SEP]
+
+we encourage users to read the privacy policies of any website visited via
+links from or interactions with the eff website. [CLS] [SEP] where appropriate, we will
+provide specific notice of these third-party services at the point of
+interaction. [CLS] [SEP] it is our policy not to include third-party resources when users
+initially load our web pages, but we may dynamically include them later after
+giving the user a chance to choose to interact with them. [CLS] [SEP] if you believe a
+third-party resource is automatically loading, please let us know so we can
+address it. [CLS] [SEP]
+
+## disclosure of your information
+
+while eff endeavors to provide the highest level of protection for your
+information, we may disclose personally identifiable information about you to
+third parties in limited circumstances, including: (1) with your consent; or
+(2) when we have a good faith belief it is required by law, such as pursuant
+to a subpoena or other judicial or administrative order. [CLS] [SEP]
+
+if we are required by law to disclose the information that you have submitted,
+we will attempt to provide you with prior notice (unless we are prohibited or
+it would be futile) that a request for your information has been made in order
+to give you an opportunity to object to the disclosure. [CLS] [SEP] we will attempt to
+provide this notice by email, if you have given us an email address, or by
+postal mail if you have entered a postal address. [CLS] [SEP] if you do not challenge the
+disclosure request, we may be legally required to turn over your information. [CLS] [SEP]
+
+in addition, we will independently object to requests for access to
+information about users of our site that we believe to be improper and we have
+done so. [CLS] [SEP]
+
+## updating or removing your information
+
+you may choose to correct, update, access, or delete the membership
+information you have submitted to us by sending an email requesting changes to
+membership@eff.org. [CLS] [SEP] if you join the action center, you may correct, update,
+access, or delete the information provided on the account management page. [CLS] [SEP]
+
+your consent to our use of your information is very important to us. [CLS] [SEP] if you
+would like to withdraw your consent to receive the effector newsletter, action
+alerts and other bulk emails, you may use this [subscription management
+page](https://supporters.eff.org/account) to unsubscribe. [CLS] [SEP] if you would like to
+otherwise withdraw your consent, restrict or object to eff’s processing of
+your data, please email [privacypolicy@eff.org](mailto:privacypolicy@eff.org). [CLS] [SEP]
+
+## data storage and retention
+
+eff’s server logs are stored and retained as explained above in the section on
+logging. [CLS] [SEP]
+
+information submitted through our action center, including records of the
+actions you take, is retained until you choose to delete your account. [CLS] [SEP] email
+subscriptions information is retained until you unsubscribe from the mailing
+list(s). [CLS] [SEP]
+
+if you communicate with eff, such as through
+[info@eff.org](mailto:info@eff.org), we keep records of those communications
+indefinitely, pursuant to our document retention policy (described below). [CLS] [SEP]
+
+financial records of donations and other transactions are retained
+indefinitely, pursuant to our document retention policy. [CLS] [SEP] paper records of
+donations, such as event donation forms and signup sheets, are typically
+destroyed soon after entry. [CLS] [SEP] check copies and payment distribution details are
+normally kept up to seven years. [CLS] [SEP] accompanying donor information is kept
+indefinitely unless the individual requests that it be removed. [CLS] [SEP]
+
+our document retention policy provides that eff generally retains documents
+for the period of their immediate or current use, unless longer retention is
+necessary to comply with contractual or legal requirements. [CLS] [SEP] however, data
+storage periods are based on eff's assessment of its needs and might include
+retaining some documents for historical reference and retaining some documents
+because eff has insufficient organizational resources available to dedicate to
+their review and destruction, and/or other pertinent factors. [CLS] [SEP]
+
+if we inadvertently collect more personal information than intended, we
+endeavor to delete the extraneous information. [CLS] [SEP] when we no longer need to
+retain information or when deleting information on request, we endeavor to
+remove all copies. [CLS] [SEP] however, please understand that deleted information may
+continue to persist on backup media. [CLS] [SEP]
+
+## contacting eff
+
+if you have any questions about our privacy and data protection practices, you
+can reach eff at:
+
+electronic frontier foundation  
+815 eddy street  
+san francisco, ca 94109 usa  
+phone: +1-415-436-9333  
+fax: +1-415-436-9993  
+email: [privacypolicy@eff.org](mailto:privacypolicy@eff.org). [CLS] [SEP]
+
+if our processing of your personal data is covered by eu law, you may also
+lodge a complaint with the relevant [data protection supervisory
+authority](http://ec.europa.eu/justice/data-
+protection/bodies/authorities/index_en.htm) for your country of residence. [CLS] [SEP]
+
+## security
+
+eff employs industry standard security measures to protect the loss, misuse,
+and alteration of the information under our control, including appropriate
+technical and organizational measures to ensure a level of security
+appropriate to the risk, such as the pseudonymization and encryption of
+personal data, data backup systems, and engaging security professionals to
+evaluate our systems effectiveness. [CLS] [SEP] eff has turned on
+[https](https://en.wikipedia.org/wiki/http_secure) by default. [CLS] [SEP]
+
+although we make good faith efforts to store information collected by eff in a
+secure operating environment, we cannot guarantee complete security. [CLS] [SEP]
+
+## changes to our policies
+
+eff's privacy policy may change from time to time. [CLS] [SEP] however, any revised
+privacy policy will be consistent with eff's mission. [CLS] [SEP] if we make any
+substantive changes to our policies, we will place notice in effector and post
+notice of changes on this page. [CLS] [SEP]
+
+_updated may 25, 2018 to provide more transparency about our privacy practices
+and more detailed information about how you can access, correct and remove
+personal data stored with eff._
+
+_updated february 20, 2018 to clarify how eff works with third parties like
+content delivery networks and cloud service providers._
+
+_updated july 14, 2016 to clarify the use of information in the eff action
+center and protections for members who join eff offline._
+
+_updated_ _april 7, 2015 to reflect: 1) changes to the types of third-party
+service providers which may be used by eff websites; 2) that third-party
+service providers may be used by any eff site, not just those on the eff.org
+domain; and 3) to fix some typographical errors._
+
+_updated_ _june 12, 2014 to reflect: 1) changes to reflect eff’s new action
+center, including the consequences for logging in or clicking “remember me,”
+the identifying information we retain about logged in users and how to manage
+your account; 2) information use by purchasers in our shop; 3) a specific
+section addressing eff’s use of third party services and api’s._
+
+_also recently updated may 1, 2014 to reflect: 1) introduction of eff's
+separate technology projects privacy policy; 2) specifying that we will try to
+give prior notice to users when someone seeks their data from us and that we
+have actually challenged requests for access to our user information; 3)
+clarifying that we will ensure that information we give to third parties is
+protected, even if that is not through a specific agreement (it may, for
+example, be because the third party does not engage in logging)._
+
+### previous privacy policies
+
+  * [feb 26 2007 - jan 4 2009](https://www.eff.org/policy/2007/02/26)
+
+  * [jan 5 2009 - jan 25 2009](https://www.eff.org/policy/2009/01/05)
+
+  * [jan 26 2009 - jun 21 2011](https://www.eff.org/policy/2009/01/26)
+
+  * [jun 22 2011 - oct 18 2011](https://www.eff.org/policy/2011/06/22)
+
+  * [oct 19 2011 - jul 23 2012](https://www.eff.org/policy/2011/10/19)
+
+  * [jul 24, 2012 - apr 30, 2014](policy/2012/07/24)
+
+  * [apr 31, 2014 – jun 12, 2014](policy/2014/04/31)
+
+  * [jun 13, 2014 – apr 7, 2015](policy/2014/06/13)
+
+  * [apr 8, 2015 – jul 13, 2016](policy/2016/07/13)
+
+  * [jul 14, 2016 to feb 19, 2018](/policy/2018/02/19)
+
+  * [feb 20, 2018 to may 24, 2018](/policy/2018/05/24)
+
+back to top
+
+[![eff
+home](https://www.eff.org/sites/all/modules/custom/eff_library/images/eff-
+logo-1color-blue.svg)](https://www.eff.org)
+
+## follow eff:
+
+  * [twitter](https://twitter.com/eff "eff on twitter")
+  * [facebook](https://www.facebook.com/eff "eff on facebook")
+  * [instagram](https://www.instagram.com/efforg/ "eff on instagram")
+  * [youtube](https://www.youtube.com/efforg "eff on youtube")
+  * [flicker](https://www.flickr.com/photos/electronicfrontierfoundation)
+  * [rss](/rss)
+
+## contact
+
+  * [general](/about/contact)
+  * [legal](/pages/legal-assistance)
+  * [security](/security)
+  * [membership](/about/contact)
+  * [press](/press/contact)
+
+## about
+
+  * [calendar](/event)
+  * [volunteer](/about/opportunities/volunteer)
+  * [victories](/victories)
+  * [history](/about/history)
+  * [internships](/about/opportunities/interns)
+  * [jobs](/about/opportunities/jobs)
+  * [staff](/about/staff)
+  * [diversity & inclusion](/pages/effs-diversity-statement)
+
+## issues
+
+  * [free speech](/issues/free-speech)
+  * [privacy](/issues/privacy)
+  * [creativity & innovation](/issues/innovation)
+  * [transparency](/issues/transparency)
+  * [international](/issues/international)
+  * [security](/issues/security)
+
+## updates
+
+  * [blog](/updates?type=blog)
+  * [press releases](/updates?type=press_release)
+  * [events](/updates?type=event)
+  * [legal cases](https://www.eff.org/cases)
+  * [whitepapers](/updates?type=whitepaper)
+  * [effector newsletter](https://www.eff.org/effector)
+
+## press
+
+  * [press contact](/press/contact)
+
+## donate
+
+  * [join or renew membership online](https://supporters.eff.org/donate/donate-df)
+  * [one-time donation online](https://supporters.eff.org/donate/donate-df)
+  * [shop](https://supporters.eff.org/shop)
+  * [other ways to give](/helpout)
+
+  * [copyright (cc by)](/copyright)
+  * [trademark](/pages/trademark-and-brand-usage-policy "trademark and brand usage policy")
+  * [privacy policy](/policy)
+  * [thanks](/thanks)
+
+[javascript license information](/librejs/jslicense)
+
+![](https://anon-
+stats.eff.org/js/?idsite=1&rec=1&url=https%3a//www.eff.org/policy&action_name=privacy%20policy%20%7c%20electronic%20frontier%20foundation&dimension2=page&dimension3=79994)
+

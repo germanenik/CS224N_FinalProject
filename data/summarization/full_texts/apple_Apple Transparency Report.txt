@@ -1,0 +1,853 @@
+  * global nav open menu global nav close menu
+  * [ apple ](/)
+  * [ shopping bag ](/us/shop/goto/bag) +
+
+[ search apple.com cancel ](/us/search)
+
+  * [ apple ](/)
+  * [ mac ](/mac/)
+  * [ ipad ](/ipad/)
+  * [ iphone ](/iphone/)
+  * [ watch ](/watch/)
+  * [ tv ](/tv/)
+  * [ music ](/music/)
+  * [ support ](https://support.apple.com)
+  * [](/us/search)
+  * [ shopping bag ](/us/shop/goto/bag) +
+
+cancel
+
+[privacy](/privacy/)
+
+open menu close menu
+
+  * [overview](/privacy/)
+  * [features](/privacy/features/)
+  * [control](/privacy/control/)
+  * [transparency report](/legal/transparency/)
+  * [privacy policy](/legal/privacy/en-ww/)
+
+# transparency report
+
+apple is committed to your privacy and being transparent about government
+requests for customer data globally. [CLS] [SEP] this report provides information on
+government requests received. [CLS] [SEP]
+
+## government requests
+
+select date range and country/region. [CLS] [SEP]
+
+date range
+
+date range
+
+country / region
+
+country / region
+
+globe image credit: digitalglobe, nasa/noaa
+
+date range
+
+date range
+
+  * ## device
+
+device requests are based on device identifiers such as apple serial number,
+imei or meid. [CLS] [SEP]
+
+device requests generally seek information regarding customers associated with
+devices and device connections to apple services - for example, law
+enforcement investigations on behalf of customers regarding lost or stolen
+devices. [CLS] [SEP]
+
+additionally, apple regularly receives multi-device requests related to fraud
+investigations. [CLS] [SEP]
+
+[view device requests](/legal/transparency/device-requests.html)
+
+### device requests by year - worldwide
+
+  * ## financial identifier
+
+financial identifier requests are based on financial identifiers such as
+credit/debit card or itunes gift card. [CLS] [SEP]
+
+financial identifier requests generally seek information regarding suspected
+fraudulent transactions - for example, law enforcement investigations on
+behalf of customers in which a credit card was fraudulently used to purchase
+apple products or services. [CLS] [SEP]
+
+apple began reporting on financial identifier requests in transparency report
+period july 1 - december 31, 2016. [CLS] [SEP]
+
+[view financial identifier requests](/legal/transparency/financial-
+identifier.html)
+
+### financial identifier requests by year - worldwide
+
+  * ## account
+
+account requests are based on account identifiers such as an apple id or email
+address. [CLS] [SEP]  
+  
+account requests generally seek information regarding customers’ apple id
+accounts, such as account holder name and address and account connections to
+apple services - for example, law enforcement investigations where an account
+may have been used unlawfully. [CLS] [SEP] account requests may also seek customers’
+content data, such as photos, email, ios device backups, contacts or
+calendars. [CLS] [SEP]  
+
+[view account requests](/legal/transparency/account.html)
+
+### account requests by year - worldwide
+
+  * ## account preservation
+
+account preservation requests are based on account identifiers such as an
+apple id or email address. [CLS] [SEP]  
+
+account preservation requests ask apple to preserve a one-time copy of
+customer account data - for example, law enforcement investigations where an
+account may have been used unlawfully, and apple is requested to preserve
+account data while a valid legal request for the data is obtained. [CLS] [SEP]  
+
+apple began reporting on account preservation requests in transparency report
+period july 1 - december 31, 2016. [CLS] [SEP]
+
+[view account preservation requests](/legal/transparency/account-
+preservation.html)
+
+## account preservation requests by year - worldwide
+
+## requests received
+
+the number of account preservation requests received worldwide from government
+agencies. [CLS] [SEP]
+
+##
+
+## accounts where data preserved
+
+the number of accounts that resulted in apple preserving data in response to
+account preservation requests received worldwide. [CLS] [SEP]
+
+##
+
+year  |  requests received |  accounts where data preserved  
+---|---|---  
+  
+2019
+
+|
+
+5,383
+
+|
+
+10,077  
+  
+2018
+
+|
+
+3,402
+
+|
+
+6,765  
+  
+2017
+
+|
+
+2,322
+
+|
+
+3,500  
+  
+2016
+
+|  -not applicable |  -not applicable  
+  
+2015
+
+|  -not applicable |  -not applicable  
+  
+2014
+
+|  -not applicable |  -not applicable  
+  
+2013
+
+|  -not applicable |  -not applicable  
+  
+  * ## account restriction/deletion
+
+account restriction/deletion requests ask apple to restrict or delete a
+customer’s account, for example, law enforcement determines an account was
+used unlawfully and obtains a court order to restrict or delete the account. [CLS] [SEP]
+
+apple began reporting on account restriction requests in transparency report
+period july 1 - december 31, 2016. [CLS] [SEP]
+
+apple began reporting on account deletion requests in transparency report
+period july 1 - december 31, 2014. [CLS] [SEP]  
+
+[view account restriction/deletion requests](/legal/transparency/account-
+restriction.html)
+
+### account restriction/deletion requests by year - worldwide
+
+  * ## emergency
+
+emergency requests relate to circumstances involving imminent danger of death
+or serious physical injury to any person, and generally seek information
+regarding customers’ connections to apple services - for example, instances
+where law enforcement believe a person is missing and in danger. [CLS] [SEP]  
+
+apple began reporting on emergency requests as a separate category in
+transparency report period january 1 - june 30, 2015. [CLS] [SEP]  prior to this,
+emergency requests were reported in applicable account and/or device request
+categories. [CLS] [SEP]
+
+[view emergency requests](/legal/transparency/emergency-requests.html)
+
+### emergency requests by year - worldwide
+
+  * ## united states national security
+
+u.s. [CLS] [SEP] national security requests seek customer data in response to national
+security related investigations. [CLS] [SEP] national security requests include orders
+received under the foreign intelligence surveillance act (“fisa”) and national
+security letters (“nsls”). [CLS] [SEP] to date, apple has not received any orders for bulk
+data. [CLS] [SEP]
+
+apple reports national security requests received for apple users/accounts
+(nsls and orders received under fisa) within bands permissible by law pursuant
+to the usa freedom act of 2015 (“usa freedom”). [CLS] [SEP] though we want to be more
+specific, these are currently the ranges and level of detail permitted under
+usa freedom for reporting u.s. [CLS] [SEP] national security requests. [CLS] [SEP]  
+
+[view u.s. [CLS] [SEP] national security requests](/legal/transparency/us.html)
+
+## u.s. [CLS] [SEP] national security requests by period
+
+## report period
+
+h1 represents january 1 through june 30. [CLS] [SEP]
+
+h2 represents july 1 through december 31. [CLS] [SEP]
+
+##
+
+## request type
+
+national security requests: includes fisa court issued orders for non-content
+and content data as well as national security letters issued by the federal
+bureau of investigation. [CLS] [SEP]  
+  
+fisa non-content & content requests: fisa court issued orders for non-content
+or content data. [CLS] [SEP] non-content data is data such as subscriber or transactional
+information and connection logs. [CLS] [SEP] content data is data such as stored photos,
+email, ios device backups, contacts or calendars. [CLS] [SEP]  
+  
+national security letters (nsls): federal bureau of investigation issued
+requests for non-content data in national security investigations. [CLS] [SEP] non-content
+data is data such as subscriber data. [CLS] [SEP] apple does not produce transactional
+information and connection logs in response to national security letters. [CLS] [SEP]
+
+##
+
+## requests received
+
+the number of united states national security requests received. [CLS] [SEP]
+
+for report periods 2013 h1 - 2017 h2, we count each individual request
+received and report the total number of requests received within bands/ranges
+permissible by law. [CLS] [SEP]  
+  
+for report periods 2018 h1 and subsequent, we count each individual order and
+national security letter received for apple users/accounts and report the
+total number of orders and national security letters received within
+bands/ranges permissible by law. [CLS] [SEP] in order to report fisa non-content and
+content requests in separate categories, we are required by law, under the usa
+freedom act, to delay reporting by 6 months and report in bands/ranges of 500. [CLS] [SEP]
+
+reporting the number of requests received for the most current reporting
+period may be subject to this legally required 6-month reporting delay. [CLS] [SEP]
+
+##
+
+## users/accounts
+
+the number of accounts where apple provided data in response to united states
+national security requests. [CLS] [SEP] we count the number of accounts where we provide
+data and report the total number of accounts affected within bands/ranges
+permissible by law. [CLS] [SEP] reporting the number of users/accounts affected for the
+most current reporting period may be subject to a legally required 6-month
+reporting delay pursuant to usa freedom act of 2015. [CLS] [SEP]
+
+##
+
+report period |  request type |  requests received |  users/accounts  
+---|---|---|---  
+  
+2019 h2
+
+|
+
+fisa non-content
+
+|
+
+0 - 499
+
+|
+
+15,500 - 15,999  
+  
+2019 h2
+
+|
+
+fisa content
+
+|
+
+0 - 499
+
+|
+
+17,500 - 17,999  
+  
+2019 h2
+
+|
+
+nsls
+
+|
+
+2 - 499
+
+|
+
+1,505 - 1,999  
+  
+2019 h1
+
+|
+
+fisa non-content
+
+|
+
+0 - 499
+
+|
+
+11,000 - 11,499  
+  
+2019 h1
+
+|
+
+fisa content
+
+|
+
+0 - 499
+
+|
+
+18,000 - 18,499  
+  
+2019 h1
+
+|
+
+nsls
+
+|
+
+2 - 499
+
+|
+
+2,500 - 2,999  
+  
+2018 h2
+
+|
+
+fisa non-content
+
+|
+
+0 - 499
+
+|
+
+9,000 - 9,499  
+  
+2018 h2
+
+|
+
+fisa content
+
+|
+
+0 - 499
+
+|
+
+14,000 - 14,499  
+  
+2018 h2
+
+|
+
+nsls
+
+|
+
+4 - 499
+
+|
+
+1,507- 1,999  
+  
+2018 h1
+
+|
+
+fisa non-content
+
+|
+
+0 - 499
+
+|
+
+7,500 - 7,999  
+  
+2018 h1
+
+|
+
+fisa content
+
+|
+
+0 - 499
+
+|
+
+13,500 - 13,999  
+  
+2018 h1
+
+|
+
+nsls
+
+|
+
+1 - 499
+
+|
+
+1,001 - 1,499  
+  
+2017 h2
+
+|
+
+national security
+
+|
+
+16,002 - 16,249
+
+|
+
+8,006 - 8,249  
+  
+2017 h1
+
+|
+
+national security
+
+|
+
+13,252 - 13,499
+
+|
+
+9,002 - 9,249  
+  
+2016 h2
+
+|
+
+national security
+
+|
+
+5,750 - 5,999
+
+|
+
+4,750 - 4,999  
+  
+2016 h1
+
+|
+
+national security
+
+|
+
+2,750 - 2,999
+
+|
+
+2,000 - 2,249  
+  
+2015 h2
+
+|
+
+national security
+
+|
+
+1,250 - 1,499
+
+|
+
+1,000 - 1,249  
+  
+2015 h1
+
+|
+
+national security
+
+|
+
+751 - 999
+
+|
+
+250 - 499  
+  
+2014 h2
+
+|
+
+national security
+
+|
+
+250 - 499
+
+|
+
+0 - 249  
+  
+2014 h1
+
+|
+
+national security
+
+|
+
+0 - 249
+
+|
+
+0 - 249  
+  
+2013 h2
+
+|
+
+national security
+
+|
+
+0 - 249
+
+|
+
+0 - 249  
+  
+2013 h1
+
+|
+
+national security
+
+|
+
+0 - 249
+
+|
+
+0 - 249  
+  
+  * ## united states private party
+
+u.s. [CLS] [SEP] private party (non-government) requests generally seek information about
+connections to apple services, purchase transactions, or product registrations
+relating to an apple customer - for example, civil or criminal litigation case
+proceedings where a subpoena is issued for information. [CLS] [SEP]
+
+apple began reporting on u.s. [CLS] [SEP] private party requests in transparency report
+period july 1 - december 31, 2016. [CLS] [SEP]
+
+[view u.s. [CLS] [SEP] private party requests](/legal/transparency/us.html)
+
+### u.s. [CLS] [SEP] private party requests by year
+
+  * ## app removal
+
+app removal requests ask apple to remove an app from the app store. [CLS] [SEP]  these
+requests can be based on alleged/suspected violations of local law and/or of
+app store platform policies. [CLS] [SEP]  for example, law enforcement or regulatory
+agencies suspect an app may be unlawful or relate to/contain unlawful content,
+or may violate the app store platform policies or relate to/contain content
+violating platform policies. [CLS] [SEP]  
+
+apple began reporting on app removal requests in transparency report period
+july 1 - december 31, 2018. [CLS] [SEP]  
+
+[view app removal requests - legal violation](/legal/transparency/app-removal-
+requests-legal-violation.html)
+
+[view app removal requests - platform violation](/legal/transparency/app-
+removal-requests-platform-violation.html)
+
+## app removal requests - worldwide
+
+## report period
+
+h1 represents january 1 through june 30. [CLS] [SEP]
+
+h2 represents july 1 through december 31. [CLS] [SEP]
+
+##
+
+## request type
+
+legal violation requests: **** requests received from a government agency
+seeking to take down a third party application offered on the app store
+related to alleged/suspected legal violations. [CLS] [SEP]
+
+platform violation requests: requests received from a government agency
+seeking to take down a third party application offered on the app store
+related to alleged/suspected app store platform policy violations. [CLS] [SEP]
+
+##
+
+## requests received
+
+the number of app removal requests received worldwide from government agencies
+asking apple to remove an app from the app store. [CLS] [SEP]
+
+##
+
+## requests where app removed
+
+the number of app removal requests received worldwide from government agencies
+where apple proceeded with removal of app(s) from the app store. [CLS] [SEP]
+
+##
+
+## apps removed
+
+the number of apps removed from the app store in response to app removal
+requests received worldwide from government agencies. [CLS] [SEP]  
+
+##
+
+report period |  request type |  requests received |  requests where app
+removed |  apps removed  
+---|---|---|---|---  
+  
+2019 h2
+
+|
+
+legal violation
+
+|
+
+54
+
+|
+
+48
+
+|
+
+207  
+  
+2019 h2
+
+|
+
+platform violation
+
+|
+
+17
+
+|
+
+17
+
+|
+
+37  
+  
+2019 h1
+
+|
+
+legal violation
+
+|
+
+95
+
+|
+
+91
+
+|
+
+314  
+  
+2019 h1
+
+|
+
+platform violation
+
+|
+
+2
+
+|
+
+2
+
+|
+
+2  
+  
+2018 h2
+
+|
+
+legal violation
+
+|
+
+80
+
+|
+
+75
+
+|
+
+634  
+  
+2018 h2
+
+|
+
+platform violation
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0  
+  
+
+## more information
+
+[report pdfs](/legal/transparency/report-pdf.html)
+
+[about our transparency report](/legal/transparency/about.html)
+
+[choose your country or region](/legal/transparency/choose-country-
+region.html)
+
+[report csvs](/legal/zip/transparency/apple_transparency_report.zip)
+
+[government and law enforcement information](/legal/transparency/government-
+information.html)
+
+## apple footer
+
+[  apple ](https://www.apple.com)
+
+  1. [CLS] [SEP] transparency report
+
+### transparency report
+
+open menu close menu
+
+  * [overview](/legal/transparency/)
+  * [about apple’s transparency report](/legal/transparency/about.html)
+  * [choose your country or region](/legal/transparency/choose-country-region.html)
+  * [report pdfs](/legal/transparency/report-pdf.html)
+  * [report csvs](/legal/zip/transparency/apple_transparency_report.zip)
+
+### worldwide requests
+
+open menu close menu
+
+  * [device requests](/legal/transparency/device-requests.html)
+  * [financial identifier requests](/legal/transparency/financial-identifier.html)
+  * [account requests](/legal/transparency/account.html)
+  * [account preservation requests](/legal/transparency/account-preservation.html)
+  * [account restriction/deletion requests](/legal/transparency/account-restriction.html)
+  * [emergency requests](/legal/transparency/emergency-requests.html)
+  * [app removal requests - legal violation](/legal/transparency/app-removal-requests-legal-violation.html)
+  * [app removal requests - platform violation](/legal/transparency/app-removal-requests-platform-violation.html)
+
+### government information
+
+open menu close menu
+
+  * [government and law enforcement information](/legal/transparency/government-information.html)
+
+more ways to shop: [find an apple store](/retail/) or [other
+retailer](https://locate.apple.com/) near you. [CLS] [SEP] or call 1-800-my-apple. [CLS] [SEP]
+
+[united states](/choose-country-region/ "choose your country or region")
+
+copyright © 2021 apple inc. [CLS] [SEP] all rights reserved. [CLS] [SEP]
+
+[privacy policy](/legal/privacy/) [terms of use](/legal/internet-
+services/terms/site.html) [sales and
+refunds](/us/shop/goto/help/sales_refunds) [legal](/legal/) [site
+map](/sitemap/)
+

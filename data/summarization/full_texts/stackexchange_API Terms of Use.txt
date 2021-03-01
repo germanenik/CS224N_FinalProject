@@ -1,0 +1,314 @@
+[ stack overflow ](https://stackoverflow.com)
+
+  1. [CLS] [SEP] [about](/company)
+  2. [CLS] [SEP] products 
+  3. [CLS] [SEP] [for teams](/teams)
+
+  1. [CLS] [SEP] [ stack overflow public questions & answers ](/questions)
+  2. [CLS] [SEP] [ stack overflow for teams where developers & technologists share private knowledge with coworkers ](/teams)
+  3. [CLS] [SEP] [ jobs programming & related technical career opportunities ](/jobs?so_source=productsmenu&so_medium=stackoverflow)
+  4. [CLS] [SEP] [ talent recruit tech talent & build your employer brand ](https://stackoverflow.com/talent)
+  5. [CLS] [SEP] [ advertising reach developers & technologists worldwide ](https://stackoverflow.com/advertising)
+  6. [CLS] [SEP] [about the company](/company)
+
+loading…
+
+  1. [CLS] [SEP]   2. [CLS] [SEP] [log in](https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2flegal%2fapi-terms-of-use) [sign up](https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2fusers%2fstory%2fcurrent)
+  3. [CLS] [SEP] ###  [current community](https://stackoverflow.com)
+
+    * [ stack overflow  ](https://stackoverflow.com)
+
+[help](https://stackoverflow.com/help)
+[chat](https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com)
+
+    * [ meta stack overflow  ](https://meta.stackoverflow.com)
+
+###  your communities
+
+[sign
+up](https://stackoverflow.com/users/signup?ssrc=site_switcher&returnurl=%2fusers%2fstory%2fcurrent)
+or [log
+in](https://stackoverflow.com/users/login?ssrc=site_switcher&returnurl=https%3a%2f%2fstackoverflow.com%2flegal%2fapi-
+terms-of-use) to customize your list. [CLS] [SEP]
+
+### [more stack exchange communities](https://stackexchange.com/sites)
+
+[company blog](https://stackoverflow.blog)
+
+  1. [CLS] [SEP] [ home  ](/)
+  2. [CLS] [SEP]     1. [CLS] [SEP] public
+    2. [CLS] [SEP] [ stack overflow ](/questions)
+    3. [CLS] [SEP] [ tags  ](/tags)
+    4. [CLS] [SEP] [ users  ](/users)
+    5. [CLS] [SEP] find a job
+    6. [CLS] [SEP] [ jobs  ](/jobs?so_medium=stackoverflow&so_source=sitenav)
+    7. [CLS] [SEP] [ companies  ](/jobs/companies?so_medium=stackoverflow&so_source=sitenav)
+  3. [CLS] [SEP]     1. [CLS] [SEP] teams
+
+[ what's this? ](javascript:void\(0\))
+
+    2. [CLS] [SEP] [ create a team  ](https://stackoverflow.com/teams/create "stack overflow for teams is a private, secure spot for your organization's questions and answers.")
+
+**teams**
+
+q&a for work
+
+connect and share knowledge within a single location that is structured and
+easy to search. [CLS] [SEP]
+
+[ learn more ](https://stackoverflow.com/teams)
+
+  * [public network terms of service](/legal/terms-of-service/public)
+  * [stack overflow for teams terms of service](/legal/terms-of-service/teams)
+  * [stack overflow for teams on premise enterprise terms of service](/legal/terms-of-service/on-prem)
+    * [support services & sla for on-premises deployment](/legal/terms-of-service/on-prem/support)
+    * [deployment services for on-premises instances](/legal/terms-of-service/on-prem/deployment)
+  * [stack overflow business terms of service](/legal/terms-of-service/business)
+  * [api terms of use](/legal/api-terms-of-use)
+  * [privacy policy](/legal/privacy-policy)
+    * [public network](/legal/privacy-policy/public-network)
+    * [talent](/legal/privacy-policy/talent)
+    * [teams, basic](/legal/privacy-policy/teams-basic)
+    * [teams, business](/legal/privacy-policy/teams-business)
+    * [teams, enterprise](/legal/privacy-policy/teams-enterprise)
+    * [integrations](/legal/privacy-policy/integrations)
+      * [microsoft teams - teams, basic & business](/legal/privacy-policy/integrations/ms-teams/teams-basic-business)
+      * [microsoft teams - teams, enterprise](/legal/privacy-policy/integrations/ms-teams/teams-enterprise)
+      * [slack - teams, basic & business](/legal/privacy-policy/integrations/slack/teams-basic-business)
+      * [slack - teams, enterprise](/legal/privacy-policy/integrations/slack/teams-enterprise)
+      * [jira - teams, business](/legal/privacy-policy/integrations/jira/teams-business)
+      * [jira - teams, enterprise](/legal/privacy-policy/integrations/jira/teams-enterprise)
+  * [general data protection regulation (gdpr)](/legal/gdpr)
+    * [gdpr subprocessors](/legal/gdpr/subprocessors)
+  * [cookie policy](/legal/cookie-policy)
+  * [acceptable use policy](/legal/acceptable-use-policy)
+  * [trademark guidance](/legal/trademark-guidance)
+  * [contact](/legal/contact)
+
+## stack exchange, inc. [CLS] [SEP] api terms of use
+
+### accepting the terms of use
+
+the stack exchange application programming interfaces (the "api services") are
+a set of programming interfaces which allow you to programmatically query and
+connect to the stack exchange network. [CLS] [SEP] applications ("applications") are code,
+programs or other interfaces which connect to the api services. [CLS] [SEP] please read
+these terms of use ("api agreement") carefully before using the api services. [CLS] [SEP]
+by using or accessing the api services, you agree to become bound by all the
+terms and conditions of this api agreement as well as the [stack exchange
+terms of service](/legal/terms-of-service/public). [CLS] [SEP] if you do not agree to all
+the terms and conditions of this api agreement, do not use the api services. [CLS] [SEP]
+stack exchange reserves the right, at its discretion, to modify these api
+terms of use at any time by posting revised api terms of use. [CLS] [SEP] the api services
+are accessed by you ("subscriber" or "you") under the following terms and
+conditions:
+
+### api attribution
+
+all applications must ensure they visually indicate that the stack exchange
+network is the source of the content provided through the api services. [CLS] [SEP]
+applications which may in any way be indexed by search engines must adhere to
+all attribution rules defined in the [stack exchange terms of
+service](/legal/terms-of-service/public#licensing). [CLS] [SEP] for applications that lack
+access to web browsing services, simple text versions of urls (instead of
+hyperlinks) will be sufficient. [CLS] [SEP] exceptions to these attribution rules must be
+requested in advance of deploying any applications. [CLS] [SEP]
+
+### stack exchange trademark and brand guidelines
+
+stack exchange logos, branding, and other copyrighted content returned by the
+api may be used unmodified for the purposes of identification (ie. [CLS] [SEP] identifying
+content on stack overflow with the stack overflow logo). [CLS] [SEP] other uses of stack
+exchange inc. [CLS] [SEP] content are subject to the [stack exchange trademark
+guidelines](/legal/trademark-guidance). [CLS] [SEP]
+
+### termination
+
+stack exchange may terminate or suspend any and all access to api services
+immediately, without prior notice or liability, if you breach any of the terms
+or conditions of this api agreement. [CLS] [SEP] upon termination of access, your right to
+use the api services will immediately cease. [CLS] [SEP] all provisions of this api
+agreement which by their nature should survive termination shall survive
+termination, including, without limitation, ownership provisions, warranty
+disclaimers, and limitations of liability. [CLS] [SEP] termination of your access to and
+use of the api services shall not relieve you of any obligations arising or
+accruing prior to such termination or limit any liability which you otherwise
+may have to stack exchange or the api services, including without limitation
+any indemnification obligations contained herein. [CLS] [SEP]
+
+[](https://stackoverflow.com)
+
+##### [stack overflow](https://stackoverflow.com)
+
+  * [questions](/questions)
+  * [jobs](https://stackoverflow.com/jobs)
+  * [developer jobs directory](https://stackoverflow.com/jobs/directory/developer-jobs)
+  * [salary calculator](https://stackoverflow.com/jobs/salary)
+  * [help](/help)
+  * mobile
+
+##### [products](https://stackoverflowbusiness.com)
+
+  * [teams](https://stackoverflow.com/teams)
+  * [talent](https://stackoverflow.com/talent)
+  * [advertising](https://stackoverflow.com/advertising)
+  * [enterprise](https://stackoverflow.com/enterprise)
+
+##### [company](https://stackoverflow.com/company)
+
+  * [about](https://stackoverflow.com/company)
+  * [press](https://stackoverflow.com/company/press)
+  * [work here](https://stackoverflow.com/company/work-here)
+  * [legal](https://stackoverflow.com/legal)
+  * [privacy policy](https://stackoverflow.com/legal/privacy-policy)
+  * [terms of service](https://stackoverflow.com/legal/terms-of-service)
+  * [contact us](https://stackoverflow.com/company/contact)
+
+##### [stack exchange  
+network](https://stackexchange.com)
+
+  * technology
+  * life / arts
+  * culture / recreation
+  * science
+  * other
+
+  * [stack overflow](https://stackoverflow.com "professional and enthusiast programmers")
+  * [server fault](https://serverfault.com "system and network administrators")
+  * [super user](https://superuser.com "computer enthusiasts and power users")
+  * [web applications](https://webapps.stackexchange.com "power users of web applications")
+  * [ask ubuntu](https://askubuntu.com "ubuntu users and developers")
+  * [webmasters](https://webmasters.stackexchange.com "pro webmasters")
+  * [game development](https://gamedev.stackexchange.com "professional and independent game developers")
+
+  * [tex - latex](https://tex.stackexchange.com "users of tex, latex, context, and related typesetting systems")
+  * [software engineering](https://softwareengineering.stackexchange.com "professionals, academics, and students working within the systems development life cycle")
+  * [unix & linux](https://unix.stackexchange.com "users of linux, freebsd and other un*x-like operating systems")
+  * [ask different (apple)](https://apple.stackexchange.com "power users of apple hardware and software")
+  * [wordpress development](https://wordpress.stackexchange.com "wordpress developers and administrators")
+  * [geographic information systems](https://gis.stackexchange.com "cartographers, geographers and gis professionals")
+  * [electrical engineering](https://electronics.stackexchange.com "electronics and electrical engineering professionals, students, and enthusiasts")
+
+  * [android enthusiasts](https://android.stackexchange.com "enthusiasts and power users of the android operating system")
+  * [information security](https://security.stackexchange.com "information security professionals")
+  * [database administrators](https://dba.stackexchange.com "database professionals who wish to improve their database skills and learn from others in the community")
+  * [drupal answers](https://drupal.stackexchange.com "drupal developers and administrators")
+  * [sharepoint](https://sharepoint.stackexchange.com "sharepoint enthusiasts")
+  * [user experience](https://ux.stackexchange.com "user experience researchers and experts")
+  * [mathematica](https://mathematica.stackexchange.com "users of wolfram mathematica")
+
+  * [salesforce](https://salesforce.stackexchange.com "salesforce administrators, implementation experts, developers and anybody in-between")
+  * [expressionengine® answers](https://expressionengine.stackexchange.com "administrators, end users, developers and designers for expressionengine® cms")
+  * [stack overflow em portugues](https://pt.stackoverflow.com "programadores profissionais e entusiastas")
+  * [blender](https://blender.stackexchange.com "people who use blender to create 3d graphics, animations, or games")
+  * [network engineering](https://networkengineering.stackexchange.com "network engineers")
+  * [cryptography](https://crypto.stackexchange.com "software developers, mathematicians and others interested in cryptography")
+  * [code review](https://codereview.stackexchange.com "peer programmer code reviews")
+
+  * [magento](https://magento.stackexchange.com "users of the magento e-commerce platform")
+  * [software recommendations](https://softwarerecs.stackexchange.com "people seeking specific software recommendations")
+  * [signal processing](https://dsp.stackexchange.com "practitioners of the art and science of signal, image and video processing")
+  * [emacs](https://emacs.stackexchange.com "those using, extending or developing emacs")
+  * [raspberry pi](https://raspberrypi.stackexchange.com "users and developers of hardware and software for raspberry pi")
+  * [stack overflow на русском](https://ru.stackoverflow.com "программистов")
+  * [code golf](https://codegolf.stackexchange.com "programming puzzle enthusiasts and code golfers")
+
+  * [stack overflow en español](https://es.stackoverflow.com "programadores y profesionales de la informática")
+  * [ethereum](https://ethereum.stackexchange.com "users of ethereum, the decentralized application platform and smart contract enabled blockchain")
+  * [data science](https://datascience.stackexchange.com "data science professionals, machine learning specialists, and those interested in learning more about the field")
+  * [arduino](https://arduino.stackexchange.com "developers of open-source hardware and software that is compatible with arduino")
+  * [bitcoin](https://bitcoin.stackexchange.com "bitcoin crypto-currency enthusiasts")
+  * [software quality assurance & testing](https://sqa.stackexchange.com "software quality control experts, automation engineers, and software testers")
+  * [sound design](https://sound.stackexchange.com "sound engineers, producers, editors, and enthusiasts")
+
+  * [windows phone](https://windowsphone.stackexchange.com "enthusiasts and power users of windows phone os")
+  * [ **more (28)** ](https://stackexchange.com/sites#technology)
+
+  * [photography](https://photo.stackexchange.com "professional, enthusiast and amateur photographers")
+  * [science fiction & fantasy](https://scifi.stackexchange.com "science fiction and fantasy enthusiasts")
+  * [graphic design](https://graphicdesign.stackexchange.com "graphic design professionals, students, and enthusiasts")
+  * [movies & tv](https://movies.stackexchange.com "movie and tv enthusiasts")
+  * [music: practice & theory](https://music.stackexchange.com "musicians, students, and enthusiasts")
+  * [worldbuilding](https://worldbuilding.stackexchange.com "writers/artists using science, geography and culture to construct imaginary worlds and settings")
+  * [video production](https://video.stackexchange.com "engineers, producers, editors, and enthusiasts spanning the fields of video, and media creation")
+
+  * [seasoned advice (cooking)](https://cooking.stackexchange.com "professional and amateur chefs")
+  * [home improvement](https://diy.stackexchange.com "contractors and serious diyers")
+  * [personal finance & money](https://money.stackexchange.com "people who want to be financially literate")
+  * [academia](https://academia.stackexchange.com "academics and those enrolled in higher education")
+  * [law](https://law.stackexchange.com "legal professionals, students, and others with experience or interest in law")
+  * [physical fitness](https://fitness.stackexchange.com "physical fitness professionals, athletes, trainers, and those providing health-related needs")
+  * [gardening & landscaping](https://gardening.stackexchange.com "gardeners and landscapers")
+
+  * [parenting](https://parenting.stackexchange.com "parents, grandparents, nannies and others with a parenting role")
+  * [ **more (10)** ](https://stackexchange.com/sites#lifearts)
+
+  * [english language & usage](https://english.stackexchange.com "linguists, etymologists, and serious english language enthusiasts")
+  * [skeptics](https://skeptics.stackexchange.com "scientific skepticism")
+  * [mi yodeya (judaism)](https://judaism.stackexchange.com "those who base their lives on jewish law and tradition and anyone interested in learning more")
+  * [travel](https://travel.stackexchange.com "road warriors and seasoned travelers")
+  * [christianity](https://christianity.stackexchange.com "committed christians, experts in christianity and those interested in learning more")
+  * [english language learners](https://ell.stackexchange.com "speakers of other languages learning english")
+  * [japanese language](https://japanese.stackexchange.com "students, teachers, and linguists wanting to discuss the finer points of the japanese language")
+
+  * [chinese language](https://chinese.stackexchange.com "students, teachers, and linguists wanting to discuss the finer points of the chinese language")
+  * [french language](https://french.stackexchange.com "students, teachers, and linguists wanting to discuss the finer points of the french language")
+  * [german language](https://german.stackexchange.com "speakers of german wanting to discuss the finer points of the language and translation")
+  * [biblical hermeneutics](https://hermeneutics.stackexchange.com "professors, theologians, and those interested in exegetical analysis of biblical texts")
+  * [history](https://history.stackexchange.com "historians and history buffs")
+  * [spanish language](https://spanish.stackexchange.com "linguists, teachers, students and spanish language enthusiasts in general wanting to discuss the finer points of the language")
+  * [islam](https://islam.stackexchange.com "muslims, experts in islam, and those interested in learning more about islam")
+
+  * [русский язык](https://rus.stackexchange.com "лингвистов и энтузиастов русского языка")
+  * [russian language](https://russian.stackexchange.com "students, teachers, and linguists wanting to discuss the finer points of the russian language")
+  * [arqade (gaming)](https://gaming.stackexchange.com "passionate videogamers on all platforms")
+  * [bicycles](https://bicycles.stackexchange.com "people who build and repair bicycles, people who train cycling, or commute on bicycles")
+  * [role-playing games](https://rpg.stackexchange.com "gamemasters and players of tabletop, paper-and-pencil role-playing games")
+  * [anime & manga](https://anime.stackexchange.com "anime and manga fans")
+  * [puzzling](https://puzzling.stackexchange.com "those who create, solve, and study puzzles")
+
+  * [motor vehicle maintenance & repair](https://mechanics.stackexchange.com "mechanics and diy enthusiast owners of cars, trucks, and motorcycles")
+  * [board & card games](https://boardgames.stackexchange.com "people who like playing board games, designing board games or modifying the rules of existing board games")
+  * [bricks](https://bricks.stackexchange.com "lego® and building block enthusiasts")
+  * [homebrewing](https://homebrew.stackexchange.com "dedicated home brewers and serious enthusiasts")
+  * [martial arts](https://martialarts.stackexchange.com "students and teachers of all martial arts")
+  * [the great outdoors](https://outdoors.stackexchange.com "people who love being outdoors enjoying nature and wilderness, and learning about the required skills and equipment")
+  * [poker](https://poker.stackexchange.com "serious players and enthusiasts of poker")
+
+  * [chess](https://chess.stackexchange.com "serious players and enthusiasts of chess")
+  * [sports](https://sports.stackexchange.com "participants in team and individual sport activities")
+  * [ **more (16)** ](https://stackexchange.com/sites#culturerecreation)
+
+  * [mathoverflow](https://mathoverflow.net "professional mathematicians")
+  * [mathematics](https://math.stackexchange.com "people studying math at any level and professionals in related fields")
+  * [cross validated (stats)](https://stats.stackexchange.com "people interested in statistics, machine learning, data analysis, data mining, and data visualization")
+  * [theoretical computer science](https://cstheory.stackexchange.com "theoretical computer scientists and researchers in related fields")
+  * [physics](https://physics.stackexchange.com "active researchers, academics and students of physics")
+  * [chemistry](https://chemistry.stackexchange.com "scientists, academics, teachers, and students in the field of chemistry")
+  * [biology](https://biology.stackexchange.com "biology researchers, academics, and students")
+
+  * [computer science](https://cs.stackexchange.com "students, researchers and practitioners of computer science")
+  * [philosophy](https://philosophy.stackexchange.com "those interested in the study of the fundamental nature of knowledge, reality, and existence")
+  * [linguistics](https://linguistics.stackexchange.com "professional linguists and others with an interest in linguistic research and theory")
+  * [psychology & neuroscience](https://psychology.stackexchange.com "practitioners, researchers, and students in cognitive science, psychology, neuroscience, and psychiatry")
+  * [computational science](https://scicomp.stackexchange.com "scientists using computers to solve scientific problems")
+  * [ **more (10)** ](https://stackexchange.com/sites#science)
+
+  * [meta stack exchange](https://meta.stackexchange.com "meta-discussion of the stack exchange family of q&a websites")
+  * [stack apps](https://stackapps.com "apps, scripts, and development with the stack exchange api")
+  * [api](https://api.stackexchange.com "programmatic interaction with stack exchange sites")
+  * [data](https://data.stackexchange.com "querying stack exchange data using sql")
+
+  * [blog](https://stackoverflow.blog?blb=1)
+  * [facebook](https://www.facebook.com/officialstackoverflow/)
+  * [twitter](https://twitter.com/stackoverflow)
+  * [linkedin](https://linkedin.com/company/stack-overflow)
+  * [instagram](https://www.instagram.com/thestackoverflow)
+
+site design / logo (c) 2021 stack exchange inc; user contributions licensed
+under [cc by-sa](https://stackoverflow.com/help/licensing). [CLS] [SEP] rev
+2021.2.26.38670
+
+stack overflow works best with javascript enabled
+![](https://pixel.quantserve.com/pixel/p-c1rf4kxgluznc.gif)
+

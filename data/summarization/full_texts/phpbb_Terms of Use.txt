@@ -1,0 +1,316 @@
+# [phpbb • free and open source forum software](/)
+
+[![rss](/assets/images/icons/rss-20.png)](/feeds/rss/)
+[![facebook](/assets/images/icons/facebook-20.png)](http://www.facebook.com/phpbb)
+[![twitter](/assets/images/icons/twitter-20.png)](http://www.twitter.com/phpbb)
+
+menu
+
+  * [about](/about/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [features](/about/features/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[learn about the features that phpbb has to
+offer.](/about/features/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [demo](/demo/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[give phpbb a try with a fully-featured demo
+board.](/demo/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [showcase](/showcase/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[a showcase of popular and unique sites using
+phpbb.](/showcase/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [get involved](/get-involved/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[learn how you can get involved with the project.](/get-
+involved/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [3.3 new features](/about/launch/)
+
+[an overview of the new features and improvements in phpbb
+3.3.](/about/launch/)
+
+    * #### [the team](/about/team/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[find out who is responsible for all the
+mayhem.](/about/team/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [contact us](/about/contact_us.php?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[have a question the forums don't answer? come
+here.](/about/contact_us.php?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [advertising](/about/advertise/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[information if you want to advertise on
+phpbb.com.](/about/advertise/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[find out more about the project
+»](/about/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+  * [downloads](/downloads/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [latest version](/downloads/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[download the latest stable release of
+phpbb](/downloads/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [update packages](/downloads/?sid=0285bf2cdf36cef991be82f8d3a6e640#update)
+
+[automatic update packages for your phpbb
+release](/downloads/?sid=0285bf2cdf36cef991be82f8d3a6e640#update)
+
+    * #### [language packs](/languages/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[translate phpbb into (almost) any language you
+like](/languages/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [extensions](/customise/db/extensions-36?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[download extensions to enhance phpbb's
+functionality](/customise/db/extensions-36?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [styles](/customise/db/styles-2?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[your forums need a new look? browse our styles
+db](/customise/db/styles-2?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [official tools](/customise/db/official_tools-23?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[official tools by the phpbb team to assist you with your
+board](/customise/db/official_tools-23?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+  * [customise](/customise/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [customisation database](/customise/db/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+![customisation database](/assets/images/images/customisation-db-icon.png)
+
+[our customisation database contains just about everything you might need to
+customise your phpbb board to your liking. [CLS] [SEP] in it you will find extensions,
+mods (for 3.0.x), styles, language packs, bbcodes, as well as various
+tools.](/customise/db/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [extensions](/extensions/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[guides on how to use them and how to create your
+own.](/extensions/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [extensions db](/customise/db/extensions-36?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[download or submit extensions to our extensions
+database.](/customise/db/extensions-36?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [styles](/styles/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[guides on how to use them and to create your own
+styles.](/styles/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [styles db](/customise/db/styles-2?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[download or submit styles to our styles
+database.](/customise/db/styles-2?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[more resources on customising your board »]()
+
+  * [support](/support/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [documentation](/support/docs/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[installation guide and the complete
+documentation.](/support/docs/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [user guide](/support/docs/ug/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[detailed articles for common issues and tasks with phpbb
+forums.](/support/docs/ug/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [knowledge base](/support/docs/en/3.3/kb/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[team and user submitted ar­ticles covering support
+areas.](/support/docs/en/3.3/kb/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [support forums](/support/forums/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[the support related areas in our community
+forums.](/support/forums/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [discord / irc](/support/chat?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[visit our discord or irc support
+channels.](/support/chat?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [international support](/support/intl/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[find a 3rd party support site in your first
+language.](/support/intl/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[more information on support
+»](/support/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+  * [development](/development/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [area51 phpbb development](//area51.phpbb.com/)
+
+![area51 alien](/assets/images/images/area51/alien32.png?2014300900)
+
+[all development discussion takes place at area51. [CLS] [SEP] bug tracker, development
+wiki, continuous integration and other development tools are located here. [CLS] [SEP]
+find out how to get involved in phpbb development.](//area51.phpbb.com/)
+
+    * #### [phpbb bug tracker](http://tracker.phpbb.com/)
+
+[report problems with phpbb core and other sub-projects such as the website,
+customisation db, and team tools here.](http://tracker.phpbb.com/)
+
+    * #### [phpbb ideas](/community/ideas/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[suggest, vote on and comment on ideas for
+phpbb.](/community/ideas/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [security tracker](https://tracker.phpbb.com/secure/browseprojects.jspa#10020)
+
+[the tracker for security issues in phpbb or validated
+mods.](https://tracker.phpbb.com/secure/browseprojects.jspa#10020)
+
+    * #### [development wiki](//wiki.phpbb.com/)
+
+[share experience and learn more about the codebase.](//wiki.phpbb.com/)
+
+    * #### [gsoc](/development/gsoc/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[google summer of code is an annual program in which google awards stipends to
+students participating in coding projects for free and open source software
+projects.](/development/gsoc/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[participate in phpbb development now
+»](/development/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+  * [blog](//blog.phpbb.com/)
+  * [community](/community/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [support forums](/community/viewforum.php?f=551&sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[help with installation & running phpbb - search
+first!](/community/viewforum.php?f=551&sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [extensions forums](/community/viewforum.php?f=451&sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[discuss and view extensions that are available for
+download.](/community/viewforum.php?f=451&sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [styles forums](/community/viewforum.php?f=471&sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[discuss and view styles that are available for
+download.](/community/viewforum.php?f=471&sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [phpbb discussion](/community/viewforum.php?f=64&sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[discussions on all things phpbb: features, future,
+etc.](/community/viewforum.php?f=64&sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [general discussion](/community/viewforum.php?f=6&sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+[general discussion and intelligent
+conversations.](/community/viewforum.php?f=6&sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+    * #### [area51](//area51.phpbb.com/phpbb/)
+
+[bleeding edge testing and development discussion.](//area51.phpbb.com/phpbb/)
+
+[ and many more forums »](/community/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+  * [hosting](/hosting/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+  * __quick links
+
+    *     * [ __unanswered topics ](./search.php?search_id=unanswered&sid=0285bf2cdf36cef991be82f8d3a6e640)
+    * [ __active topics ](./search.php?search_id=active_topics&sid=0285bf2cdf36cef991be82f8d3a6e640)
+    *     * [ __search ](./search.php?sid=0285bf2cdf36cef991be82f8d3a6e640)
+    *   * [ __faq ](/community/help/faq?sid=0285bf2cdf36cef991be82f8d3a6e640 "frequently asked questions")
+  * [ __login ](./ucp.php?mode=login&sid=0285bf2cdf36cef991be82f8d3a6e640 "login")
+  * [ __register ](./ucp.php?mode=register&sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+  * [__board index](./index.php?sid=0285bf2cdf36cef991be82f8d3a6e640)
+  * [ __search ](./search.php?sid=0285bf2cdf36cef991be82f8d3a6e640 "view the advanced search options")
+
+## phpbb.com - terms of use
+
+by accessing “phpbb.com” (hereinafter “we”, “us”, “our”, “phpbb.com”,
+“https://www.phpbb.com/community”), you agree to be legally bound by the
+following terms. [CLS] [SEP] if you do not agree to be legally bound by all of the
+following terms then please do not access and/or use “phpbb.com”. [CLS] [SEP] we may
+change these at any time and we’ll do our utmost in informing you, though it
+would be prudent to review this regularly yourself as your continued usage of
+“phpbb.com” after changes mean you agree to be legally bound by these terms as
+they are updated and/or amended. [CLS] [SEP]  
+  
+our forums are powered by phpbb (hereinafter “they”, “them”, “their”, “phpbb
+software”, “www.phpbb.com”, “phpbb limited”, “phpbb teams”) which is a
+bulletin board solution released under the “[gnu general public license
+v2](http://opensource.org/licenses/gpl-2.0.php)” (hereinafter “gpl”) and can
+be downloaded from [www.phpbb.com](https://www.phpbb.com/). [CLS] [SEP] the phpbb software
+only facilitates internet based discussions; phpbb limited is not responsible
+for what we allow and/or disallow as permissible content and/or conduct. [CLS] [SEP] for
+further information about phpbb, please see: <https://www.phpbb.com/>. [CLS] [SEP]  
+  
+you agree not to post any abusive, obscene, vulgar, slanderous, hateful,
+threatening, sexually-orientated or any other material that may violate any
+laws be it of your country, the country where “phpbb.com” is hosted or
+international law. [CLS] [SEP] doing so may lead to you being immediately and permanently
+banned, with notification of your internet service provider if deemed required
+by us. [CLS] [SEP] the ip address of all posts are recorded to aid in enforcing these
+conditions. [CLS] [SEP] you agree that “phpbb.com” have the right to remove, edit, move,
+close or put on moderation queue any topic at any time should [we see fit
+based on the site wide rules](http://www.phpbb.com/rules/) as well as forum
+specific rules (published within the specific forums). [CLS] [SEP] **please note that
+currently any very first post is automatically placed in the moderation queue
+and will be approved/disapproved according to the[site wide
+rules](http://www.phpbb.com/rules/).**  
+  
+as a user you agree to any information you have entered to being stored in a
+database. [CLS] [SEP] while this information will not be disclosed to any third party
+without your consent, neither “phpbb.com” nor phpbb shall be held responsible
+for any hacking attempt that may lead to the data being compromised. [CLS] [SEP]
+
+  * [__board index](./index.php?sid=0285bf2cdf36cef991be82f8d3a6e640)
+  * all times are utc
+  * [ __delete cookies ](./ucp.php?mode=delete_cookies&sid=0285bf2cdf36cef991be82f8d3a6e640)
+  * [ __contact us ](./memberlist.php?mode=contactadmin&sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+### advertisements
+
+[need hosting?](https://www.phpbb.com/hosting/)
+
+**[ bluehost.com](https://www.phpbb.com/hosting/r/bluehost-footer/)** • [web
+hosting uk](http://www.webhosting.uk.com/) •
+[hostmonster](http://www.hostmonster.com/track/phpbbsoftwareltd/footer) •
+[fastdomain
+hosting](http://hosting.fastdomain.com/track/phpbbsoftwareltd/footer) •
+[_advertise on
+phpbb.com_](/about/advertise/?sid=0285bf2cdf36cef991be82f8d3a6e640)
+
+
+
+__
+
+###  
+
+__
+
+(c) 2000, 2002, 2003, 2007 [phpbb
+limited](/about/?sid=0285bf2cdf36cef991be82f8d3a6e640) • [contact
+us](/about/contact_us.php?sid=0285bf2cdf36cef991be82f8d3a6e640) • [advertise
+on www.phpbb.com](/about/advertise/?sid=0285bf2cdf36cef991be82f8d3a6e640)  
+header illustrations by [vlad gerasimov](http://www.vladstudio.com/) •
+designed by [phpbb](/?sid=0285bf2cdf36cef991be82f8d3a6e640) &
+[subblue](http://www.subblue.com/) • hosting donated by
+[osuosl](http://www.osuosl.org)  
+time: 0.127s | queries: 7 | peak memory usage: 2.05 mib | valid [xhtml 1.0
+**strict**](http://validator.w3.org/check/referer)
+
+  *[xhtml]: extensible hypertext markup language
+

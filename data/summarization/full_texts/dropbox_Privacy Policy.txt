@@ -1,0 +1,936 @@
+##
+
+[![](https://cfl.dropboxstatic.com/static/images/logo_catalog/glyph_m1.svg)](/)
+
+  * [terms of service](terms)
+  * [privacy policy](privacy)
+  * [business agreement](business_agreement)
+  * [dmca policy](dmca)
+  * [acceptable use](acceptable_use)
+  * [open source](open_source)
+
+## dropbox terms of service
+
+posted: july 25, 2019
+
+effective: september 24, 2019
+
+you can see your previous terms
+[here](https://www.dropbox.com/terms_april_2019). [CLS] [SEP]
+
+thanks for using dropbox! our mission is to create a more enlightened way of
+working by providing an intuitive, unified platform to keep your content safe
+and accessible while helping you and those you work with stay coordinated and
+in sync. [CLS] [SEP] these terms of service (" **terms** ") cover your use and access to
+our services, client software and websites (" **services** "). [CLS] [SEP] if you reside
+outside of the united states of america, canada and mexico (" **north
+america** ") your agreement is with dropbox international unlimited company. [CLS] [SEP]
+if you reside in north america your agreement is with dropbox, inc. [CLS] [SEP] our
+[privacy policy](https://www.dropbox.com/privacy) explains how we collect and
+use your information while our [acceptable use
+policy](https://www.dropbox.com/acceptable_use) outlines your responsibilities
+when using our services. [CLS] [SEP] by using our services, you're agreeing to be bound by
+these terms, our [privacy policy](https://www.dropbox.com/privacy), and
+[acceptable use policy](https://www.dropbox.com/acceptable_use). [CLS] [SEP]
+
+## your stuff & your permissions
+
+when you use our services, you provide us with things like your files,
+content, messages, contacts, and so on (" **your stuff** "). [CLS] [SEP] your stuff is
+yours. [CLS] [SEP] these terms don't give us any rights to your stuff except for the
+limited rights that enable us to offer the services. [CLS] [SEP]
+
+we need your permission to do things like hosting your stuff, backing it up,
+and sharing it when you ask us to. [CLS] [SEP] our services also provide you with features
+like commenting, sharing, searching, image thumbnails, document previews,
+optical character recognition (ocr), easy sorting and organization, and
+personalization to help reduce busywork. [CLS] [SEP] to provide these and other features,
+dropbox accesses, stores, and scans your stuff. [CLS] [SEP] you give us permission to do
+those things, and this permission extends to our affiliates and trusted third
+parties we work with. [CLS] [SEP]
+
+## your responsibilities
+
+your use of our services must comply with our [acceptable use
+policy](https://www.dropbox.com/acceptable_use). [CLS] [SEP] content in the services may
+be protected by others' intellectual property rights. [CLS] [SEP] please don't copy,
+upload, download, or share content unless you have the right to do so. [CLS] [SEP]
+
+dropbox may review your conduct and content for compliance with these terms
+and our [acceptable use policy](https://www.dropbox.com/acceptable_use). [CLS] [SEP] we
+aren't responsible for the content people post and share via the services. [CLS] [SEP]
+
+help us keep your stuff protected. [CLS] [SEP] safeguard your password to the services,
+and keep your account information current. [CLS] [SEP] don't share your account
+credentials or give others access to your account. [CLS] [SEP]
+
+you may use our services only as permitted by applicable law, including export
+control laws and regulations. [CLS] [SEP] finally, to use our services, you must be at
+least 13 (or older, depending on where you live). [CLS] [SEP]
+
+## software
+
+some of our services allow you to download client software (" **software** ")
+which may update automatically. [CLS] [SEP] so long as you comply with these terms, we
+give you a limited, nonexclusive, nontransferable, revocable license to use
+the software, solely to access the services. [CLS] [SEP] to the extent any component of
+the software may be offered under an open source license, we'll make that
+license available to you and the provisions of that license may expressly
+override some of these terms. [CLS] [SEP] unless the following restrictions are prohibited
+by law, you agree not to reverse engineer or decompile the services, attempt
+to do so, or assist anyone in doing so. [CLS] [SEP]
+
+## beta services
+
+we sometimes release products and features that we're still testing and
+evaluating ("beta services"). [CLS] [SEP] beta services are labeled "alpha," "beta,"
+"preview," "early access," or "evaluation" (or with words or phrases with
+similar meanings) and may not be as reliable as dropbox"s other services. [CLS] [SEP] beta
+services are made available so that we can collect user feedback, and by using
+our beta services, you agree that we may contact you to collect such feedback. [CLS] [SEP]
+
+beta services are confidential until official launch. [CLS] [SEP] if you use any beta
+services, you agree not to disclose any information about those services to
+anyone else without our permission. [CLS] [SEP]
+
+## our stuff
+
+the services are protected by copyright, trademark, and other us and foreign
+laws. [CLS] [SEP] these terms don't grant you any right, title, or interest in the
+services, others' content in the services, dropbox trademarks, logos and other
+brand features. [CLS] [SEP] we welcome feedback, but note that we may use comments or
+suggestions without any obligation to you. [CLS] [SEP]
+
+## copyright
+
+we respect the intellectual property of others and ask that you do too. [CLS] [SEP] we
+respond to notices of alleged copyright infringement if they comply with the
+law, and such notices should be reported using our [copyright
+policy](https://www.dropbox.com/dmca). [CLS] [SEP] we reserve the right to delete or
+disable content alleged to be infringing and terminate accounts of repeat
+infringers. [CLS] [SEP] our designated agent for notice of alleged copyright infringement
+on the services is:
+
+copyright agent  
+dropbox, inc. [CLS] [SEP]  
+1800 owens st  
+san francisco, ca 94158  
+copyright@dropbox.com
+
+## paid accounts
+
+_billing._ you can increase your storage space and add paid features to your
+account (turning your account into a "paid account"). [CLS] [SEP] we'll automatically bill
+you from the date you convert to a paid account and on each periodic renewal
+until cancellation. [CLS] [SEP] if you're on an annual plan, we'll send you a notice email
+reminding you that your plan is about to renew within a reasonable period of
+time prior to the renewal date. [CLS] [SEP] you're responsible for all applicable taxes,
+and we'll charge tax when required to do so. [CLS] [SEP] some countries have mandatory
+local laws regarding your cancellation rights, and this paragraph doesn't
+override these laws. [CLS] [SEP]
+
+_no refunds._ you may cancel your [dropbox paid
+account](https://www.dropbox.com/help/158) at any time. [CLS] [SEP] refunds are only
+issued if [required by law](https://www.dropbox.com/help/9069). [CLS] [SEP] for example,
+users living in the european union have the right to cancel their paid account
+subscriptions within 14 days of signing up for, upgrading to, or renewing a
+paid account. [CLS] [SEP]
+
+_downgrades._ your paid account will remain in effect until it's cancelled or
+terminated under these terms. [CLS] [SEP] if you don't pay for your paid account on time,
+we reserve the right to suspend it or remove paid account features. [CLS] [SEP]
+
+_changes._ we may change the fees in effect but will give you advance notice
+of these changes via a message to the email address associated with your
+account. [CLS] [SEP]
+
+## dropbox business teams
+
+_email address._ if you sign up for a dropbox account with an email address
+provisioned by your organization, your organization may be able to block your
+use of dropbox until you transition to an account on a dropbox business or
+education team (collectively, "dropbox business team") or you associate your
+dropbox account with a personal email address. [CLS] [SEP]
+
+_using dropbox business teams._ if you join a dropbox business team, you must
+use it in compliance with your organization's terms and policies. [CLS] [SEP] please note
+that dropbox business team accounts are subject to your organization's
+control. [CLS] [SEP] your administrators may be able to access, disclose, restrict, or
+remove information in or from your dropbox business team account. [CLS] [SEP] they may
+also be able to restrict or terminate your access to a dropbox business team
+account. [CLS] [SEP] if you convert an existing dropbox account into part of a dropbox
+business team, your administrators may prevent you from later disassociating
+your account from the dropbox business team. [CLS] [SEP]
+
+## termination
+
+you're free to stop using our services at any time. [CLS] [SEP] we reserve the right to
+suspend or terminate your access to the services with notice to you if:
+
+(a) you're in breach of these terms,
+
+(b) your use of the services would cause a real risk of harm or loss to us or
+other users, or
+
+(c) you don't have a paid account and haven't accessed our services for 12
+consecutive months. [CLS] [SEP]
+
+we'll provide you with reasonable advance notice via the email address
+associated with your account to remedy the activity that prompted us to
+contact you and give you the opportunity to export your stuff from our
+services. [CLS] [SEP] if after such notice you fail to take the steps we ask of you, we'll
+terminate or suspend your access to the services. [CLS] [SEP]
+
+we won't provide notice before termination where:
+
+(a) you're in material breach of these terms,
+
+(b) doing so would cause us legal liability or compromise our ability to
+provide the services to our other users, or
+
+(c) we're prohibited from doing so by law. [CLS] [SEP]
+
+## discontinuation of services
+
+we may decide to discontinue the services in response to unforeseen
+circumstances beyond dropbox's control or to comply with a legal requirement. [CLS] [SEP]
+if we do so, we'll give you reasonable prior notice so that you can export
+your stuff from our systems. [CLS] [SEP] if we discontinue the services in this way before
+the end of any fixed or minimum term you have paid us for, we'll refund the
+portion of the fees you have pre-paid but haven't received services for. [CLS] [SEP]
+
+## services "as is"
+
+we strive to provide great services, but there are certain things that we
+can't guarantee. [CLS] [SEP] to the fullest extent permitted by law, dropbox and its
+affiliates, suppliers and distributors make no warranties, either express or
+implied, about the services. [CLS] [SEP] the services are provided "as is." we also
+disclaim any warranties of merchantability, fitness for a particular purpose,
+and non-infringement. [CLS] [SEP] some places don't allow the disclaimers in this
+paragraph, so they may not apply to you. [CLS] [SEP]
+
+## limitation of liability
+
+we don't exclude or limit our liability to you where it would be illegal to do
+so--this includes any liability for dropbox's or its affiliates' fraud or
+fraudulent misrepresentation in providing the services. [CLS] [SEP] in countries where the
+following types of exclusions aren't allowed, we're responsible to you only
+for losses and damages that are a reasonably foreseeable result of our failure
+to use reasonable care and skill or our breach of our contract with you. [CLS] [SEP] this
+paragraph doesn't affect consumer rights that can't be waived or limited by
+any contract or agreement. [CLS] [SEP]
+
+in countries where exclusions or limitations of liability are allowed,
+dropbox, its affiliates, suppliers or distributors won't be liable for:
+
+i. [CLS] [SEP] any indirect, special, incidental, punitive, exemplary, or consequential
+damages, or
+
+ii. [CLS] [SEP] any loss of use, data, business, or profits, regardless of legal theory. [CLS] [SEP]
+
+these exclusions or limitations will apply regardless of whether or not
+dropbox or any of its affiliates has been warned of the possibility of such
+damages. [CLS] [SEP]
+
+if you use the services for any commercial, business, or re-sale purpose,
+dropbox, its affiliates, suppliers or distributors will have no liability to
+you for any loss of profit, loss of business, business interruption, or loss
+of business opportunity. [CLS] [SEP] dropbox and its affiliates aren't responsible for the
+conduct, whether online or offline, of any user of the services. [CLS] [SEP]
+
+other than for the types of liability we cannot limit by law (as described in
+this section), we limit our liability to you to the greater of $20 usd or 100%
+of any amount you've paid under your current service plan with dropbox. [CLS] [SEP]
+
+## resolving disputes
+
+_let 's try to sort things out first._ we want to address your concerns
+without needing a formal legal case. [CLS] [SEP] before filing a claim against dropbox,
+you agree to try to resolve the dispute informally by contacting dispute-
+notice@dropbox.com. [CLS] [SEP] we'll try to resolve the dispute informally by contacting
+you via email. [CLS] [SEP] if a dispute is not resolved within 15 days of submission, you
+or dropbox may bring a formal proceeding. [CLS] [SEP]
+
+_judicial forum for disputes._ you and dropbox agree that any judicial
+proceeding to resolve claims relating to these terms or the services will be
+brought in the federal or state courts of san francisco county, california,
+subject to the mandatory arbitration provisions below. [CLS] [SEP] both you and dropbox
+consent to venue and personal jurisdiction in such courts. [CLS] [SEP] if you reside in a
+country (for example, a member state of the european union) with laws that
+give consumers the right to bring disputes in their local courts, this
+paragraph doesn't affect those requirements. [CLS] [SEP]
+
+**if you 're a u.s. [CLS] [SEP] resident, you also agree to the following mandatory
+arbitration provisions:**
+
+_we both agree to arbitrate._ you and dropbox agree to resolve any claims
+relating to these terms or the services through final and binding arbitration
+by a single arbitrator, except as set forth under exceptions to agreement to
+arbitrate below. [CLS] [SEP] this includes disputes arising out of or relating to
+interpretation or application of this "mandatory arbitration provisions"
+section, including its enforceability, revocability, or validity. [CLS] [SEP]
+
+_opt-out of agreement to arbitrate._ you can decline this agreement to
+arbitrate by [clicking here](https://www.dropbox.com/arbitration_optout) and
+submitting the opt-out form within 30 days of first registering your account. [CLS] [SEP]
+however, if you agreed to a previous version of these terms that allowed you
+to opt out of arbitration, your previous choice to opt out or not opt out
+remains binding. [CLS] [SEP]
+
+_arbitration procedures._ the american arbitration association (aaa) will
+administer the arbitration under its commercial arbitration rules and the
+supplementary procedures for consumer related disputes. [CLS] [SEP] the arbitration will
+be held in the united states county where you live or work, san francisco
+(ca), or any other location we agree to. [CLS] [SEP]
+
+_arbitration fees and incentives._ the aaa rules will govern payment of all
+arbitration fees. [CLS] [SEP] dropbox will pay all arbitration fees for individual
+arbitration for claims less than $75,000. [CLS] [SEP] if you receive an arbitration award
+that is more favorable than any offer we make to resolve the claim, we will
+pay you $1,000 in addition to the award. [CLS] [SEP] dropbox will not seek its attorneys'
+fees and costs in arbitration unless the arbitrator determines that your claim
+is frivolous. [CLS] [SEP]
+
+_exceptions to agreement to arbitrate._ either you or dropbox may assert
+claims, if they qualify, in small claims court in san francisco (ca) or any
+united states county where you live or work. [CLS] [SEP] either party may bring a lawsuit
+solely for injunctive relief to stop unauthorized use or abuse of the
+services, or intellectual property infringement (for example, trademark, trade
+secret, copyright, or patent rights) without first engaging in arbitration or
+the informal dispute-resolution process described above. [CLS] [SEP] if the agreement to
+arbitrate is found not to apply to you or your claim, you agree to the
+exclusive jurisdiction of the state and federal courts in san francisco
+county, california to resolve your claim. [CLS] [SEP]
+
+_**no class actions**_. [CLS] [SEP] you may only resolve disputes with us on an individual
+basis, and may not bring a claim as a plaintiff or a class member in a class,
+consolidated, or representative action. [CLS] [SEP] class arbitrations, class actions,
+private attorney general actions, and consolidation with other arbitrations
+aren't allowed. [CLS] [SEP] if this specific paragraph is held unenforceable, then the
+entirety of this "mandatory arbitration provisions" section will be deemed
+void. [CLS] [SEP]
+
+## controlling law
+
+these terms will be governed by california law except for its conflicts of
+laws principles. [CLS] [SEP] however, some countries (including those in the european
+union) have laws that require agreements to be governed by the local laws of
+the consumer's country. [CLS] [SEP] this paragraph doesn't override those laws. [CLS] [SEP]
+
+## entire agreement
+
+these terms constitute the entire agreement between you and dropbox with
+respect to the subject matter of these terms, and supersede and replace any
+other prior or contemporaneous agreements, or terms and conditions applicable
+to the subject matter of these terms. [CLS] [SEP] these terms create no third party
+beneficiary rights. [CLS] [SEP]
+
+## waiver, severability & assignment
+
+dropbox's failure to enforce a provision is not a waiver of its right to do so
+later. [CLS] [SEP] if a provision is found unenforceable, the remaining provisions of the
+terms will remain in full effect and an enforceable term will be substituted
+reflecting our intent as closely as possible. [CLS] [SEP] you may not assign any of your
+rights under these terms, and any such attempt will be void. [CLS] [SEP] dropbox may
+assign its rights to any of its affiliates or subsidiaries, or to any
+successor in interest of any business associated with the services. [CLS] [SEP]
+
+## modifications
+
+we may revise these terms from time to time to better reflect:
+
+(a) changes to the law,
+
+(b) new regulatory requirements, or
+
+(c) improvements or enhancements made to our services. [CLS] [SEP]
+
+if an update affects your use of the services or your legal rights as a user
+of our services, we'll notify you prior to the update's effective date by
+sending an email to the email address associated with your account or via an
+in-product notification. [CLS] [SEP] these updated terms will be effective no less than 30
+days from when we notify you. [CLS] [SEP]
+
+if you don't agree to the updates we make, please cancel your account before
+they become effective. [CLS] [SEP] where applicable, we'll offer you a prorated refund
+based on the amounts you have prepaid for services and your account
+cancellation date. [CLS] [SEP] by continuing to use or access the services after the
+updates come into effect, you agree to be bound by the revised terms. [CLS] [SEP]
+
+if your organization signed a dropbox business or dropbox enterprise agreement
+with dropbox, that agreement may have modified the privacy policy below. [CLS] [SEP]
+please [contact your organization's admin](/help/9119) for details. [CLS] [SEP]
+
+# dropbox privacy policy
+
+posted: december 17, 2019
+
+effective: january 1, 2020
+
+you can see the previous privacy policy [here.](/privacy2019)
+
+thanks for using dropbox! here we describe how we collect, use, and handle
+your personal data when you use our websites, software, and services ("
+**services** "). [CLS] [SEP] for more information and details, please see our [frequently
+asked questions page](https://help.dropbox.com/accounts-
+billing/security/privacy-policy-faq). [CLS] [SEP]
+
+## what & why
+
+we collect and use the following information to provide, improve, protect, and
+promote our services. [CLS] [SEP]
+
+_account information._ we collect, and associate with your account, the
+information you provide to us when you do things such as sign up for your
+account, upgrade to a paid plan, and set up two-factor authentication (like
+your name, email address, phone number, payment info, and physical address). [CLS] [SEP]
+
+_your stuff._ our services are designed as a simple and personalized way for
+you to store your files, documents, photos, comments, messages, and so on ("
+**your stuff** "), collaborate with others, and work across multiple devices
+and services. [CLS] [SEP] to make that possible, we store, process, and transmit your
+stuff as well as information related to it. [CLS] [SEP] this related information includes
+your [profile information](/help/63) that makes it easier to collaborate and
+share your stuff with others, as well as things like the size of the file, the
+time it was uploaded, collaborators, and usage activity. [CLS] [SEP]
+
+_contacts._ you may choose to give us access to your contacts to make it easy
+for you to do things like share and collaborate on your stuff, send messages,
+and invite others to use the services. [CLS] [SEP] if you do, we'll store those contacts
+on our servers for you to use. [CLS] [SEP]
+
+_usage information._ we collect information related to how you use the
+services, including actions you take in your account (like sharing, editing,
+viewing, creating and moving files or folders). [CLS] [SEP] we use this information to
+provide, improve, and promote our services, and protect dropbox users. [CLS] [SEP] please
+refer to our [faq](https://help.dropbox.com/accounts-billing/security/privacy-
+policy-faq) for more information about how we use this usage information. [CLS] [SEP]
+
+_device information._ we also collect information from and about the devices
+you use to access the services. [CLS] [SEP] this includes things like ip addresses, the
+type of browser and device you use, the web page you visited before coming to
+our sites, and identifiers associated with your devices. [CLS] [SEP] your devices
+(depending on their settings) may also transmit location information to the
+services. [CLS] [SEP] for example, we use device information to detect abuse and identify
+and troubleshoot bugs. [CLS] [SEP]
+
+_cookies and other technologies._ we use technologies like [cookies and pixel
+tags](/terms/cookies) to provide, improve, protect, and promote our services. [CLS] [SEP]
+for example, cookies help us with things like remembering your username for
+your next visit, understanding how you are interacting with our services, and
+improving them based on that information. [CLS] [SEP] you can set your browser to not
+accept cookies, but this may limit your ability to use the services. [CLS] [SEP] if our
+systems receive a dnt:1 signal from your browser, we'll respond to that signal
+as outlined [here](/terms/cookies). [CLS] [SEP] we may also use third-party service
+providers that set cookies and similar technologies to promote dropbox
+services. [CLS] [SEP] you can learn more about how cookies and similar technologies work,
+as well as how to opt out of the use of them for advertising purposes,
+[here](/terms/cookies). [CLS] [SEP]
+
+_marketing._ we give users the option to use some of our services free of
+charge. [CLS] [SEP] these free services are made possible by the fact that some users
+upgrade to one of our paid services. [CLS] [SEP] if you register for our services, we
+will, from time to time, send you information about upgrades when permissible. [CLS] [SEP]
+users who receive these marketing materials can opt out at any time. [CLS] [SEP] if you
+don't want to receive a particular type of marketing material from us, click
+the 'unsubscribe' link in the corresponding emails, or update your preferences
+in the [notifications](/account/notifications) section of your personal
+account. [CLS] [SEP]
+
+we sometimes contact people who don't have a dropbox account. [CLS] [SEP] for recipients
+in the eu, we or a third party will obtain consent before reaching out. [CLS] [SEP] if you
+receive an email and no longer wish to be contacted by dropbox, you can
+unsubscribe and remove yourself from our contact list via the message itself. [CLS] [SEP]
+
+_bases for processing your data._ we collect and use the personal data
+described above in order to provide you with the services in a reliable and
+secure manner. [CLS] [SEP] we also collect and use personal data for our legitimate
+business needs. [CLS] [SEP] to the extent we process your personal data for other
+purposes, we ask for your consent in advance or require that our partners
+obtain such consent. [CLS] [SEP] for more information on the lawful bases for processing
+your data, please see our [faq](https://help.dropbox.com/accounts-
+billing/security/privacy-policy-faq). [CLS] [SEP]
+
+for more details on the categories of personal information that are included
+in the information above, please see our
+[faq](https://help.dropbox.com/accounts-billing/security/privacy-policy-faq). [CLS] [SEP]
+
+## with whom
+
+we may share information as discussed below, but we won't sell it to
+advertisers or other third parties. [CLS] [SEP]
+
+_others working for and with dropbox._ dropbox uses certain trusted third
+parties (for example, providers of customer support and it services) for the
+business purposes of helping us provide, improve, protect, and promote our
+services. [CLS] [SEP] these third parties will access your information to perform tasks on
+our behalf, and we'll remain responsible for their handling of your
+information per our instructions. [CLS] [SEP] for a list of trusted third parties that we
+use to process your personal data and more details on the categories of
+personal information that we've disclosed, please see our
+[faq](https://help.dropbox.com/accounts-billing/security/privacy-policy-faq). [CLS] [SEP]
+
+_other dropbox companies._ dropbox shares infrastructure, systems, and
+technology with other dropbox companies to provide, improve, protect, and
+promote dropbox company services. [CLS] [SEP] we process your information across the
+dropbox companies for these purposes, as permitted by applicable law and in
+accordance with their terms and policies. [CLS] [SEP] for more information on dropbox
+companies, dropbox company services, and how your data is used, please see our
+[faq](https://help.dropbox.com/accounts-billing/security/privacy-policy-faq). [CLS] [SEP]
+
+_other users._ our services display information like your name, profile
+picture, device, email address, and usage information to other users you
+collaborate or choose to share with. [CLS] [SEP] when you register your dropbox account
+with an email address on a domain owned by your employer or organization, we
+may help collaborators and administrators find you and your team by making
+some of your basic information—like your name, team name, profile picture, and
+email address—visible to other users on the same domain. [CLS] [SEP] this helps you sync
+up with teams you can join and helps other users share files and folders with
+you. [CLS] [SEP]
+
+certain features let you make additional information available to others. [CLS] [SEP]
+
+_other applications._ you can choose to connect your dropbox account with
+third-party services––for example, via [dropbox apis](/developers). [CLS] [SEP] by doing
+so, you're enabling dropbox and those third parties to exchange information
+about you and data in your account so that dropbox and those third parties can
+provide, improve, protect, and promote their services. [CLS] [SEP] please remember that
+third parties' use of your information will be governed by their own privacy
+policies and terms of service. [CLS] [SEP]
+
+_business team admins._ if you are a user of a dropbox business team
+(collectively, "dropbox business team"), your administrator may have the
+ability to access and control your dropbox business team account. [CLS] [SEP] please refer
+to your organization's internal policies if you have questions about this. [CLS] [SEP] if
+you aren't a dropbox business team user but interact with a dropbox business
+team user (for example, by joining a shared folder or accessing stuff shared
+by that user), members of that organization may be able to view the name,
+email address, profile picture, and ip address that was associated with your
+account at the time of that interaction. [CLS] [SEP] if you share your stuff with a
+dropbox team user, the administrator of the team account may have the ability
+to access and edit what you share. [CLS] [SEP]
+
+_law & order and the public interest._ we may disclose your information to
+third parties if we determine that such disclosure is reasonably necessary to:
+(a) comply with any applicable law, regulation, legal process, or appropriate
+government request; (b) protect any person from death or serious bodily
+injury; (c) prevent fraud or abuse of dropbox or our users; (d) protect
+dropbox's rights, property, safety, or interest; or (e) perform a task carried
+out in the public interest. [CLS] [SEP]
+
+stewardship of your data is critical to us and a responsibility that we
+embrace. [CLS] [SEP] we believe that your data should receive the same legal protections
+regardless of whether it's stored on our services or on your home computer's
+hard drive. [CLS] [SEP] we'll abide by the following [government request
+principles](/transparency) when receiving, scrutinizing, and responding to
+government requests (including national security requests) for your data:
+
+  * be transparent
+  * fight blanket requests
+  * protect all users, and
+  * provide trusted services. [CLS] [SEP]
+
+we publish a [transparency report](/transparency/reports) as part of our
+commitment to informing you about when and how governments ask us for
+information. [CLS] [SEP] this report details the types and numbers of requests we receive
+from law enforcement. [CLS] [SEP] we encourage you to review our [government request
+principles](/transparency) and [transparency report](/transparency) for more
+detailed information on our approach and response to government requests. [CLS] [SEP]
+
+## how
+
+_security._ we have a team dedicated to keeping your information secure and
+testing for vulnerabilities. [CLS] [SEP] we continue to work on features to keep your
+information safe in addition to things like two-factor authentication,
+encryption of files at rest, and alerts when new devices and apps are linked
+to your account. [CLS] [SEP] we deploy automated technologies to detect abusive behavior
+and content that may harm our services, you, or other users. [CLS] [SEP]
+
+_user controls._ you can access, amend, download, and delete your personal
+information by logging into your dropbox account and going to your [account
+settings page](/account). [CLS] [SEP] learn more [here](https://help.dropbox.com/accounts-
+billing/security/access-personal-information) about managing your account
+information generally, or click [here](https://help.dropbox.com/accounts-
+billing/settings-sign-in/change-profile-information) to learn how to change
+your [profile information](/help/63). [CLS] [SEP]
+
+_retention._ when you sign up for an account with us, we'll retain information
+you store on our services for as long as your account exists or as long as we
+need it to provide you the services. [CLS] [SEP] if you delete your account, we'll
+initiate deletion of this information after 30 days. [CLS] [SEP] learn more
+[here](https://help.dropbox.com/files-folders/restore-delete/data-retention-
+policy). [CLS] [SEP] but please note: (1) there might be some latency in deleting this
+information from our servers and back-up storage; and (2) we may retain this
+information if necessary to comply with our legal obligations, resolve
+disputes, or enforce our agreements. [CLS] [SEP]
+
+## where
+
+_around the world._ to provide you with the services, we may store, process,
+and transmit data in the united states and locations around the
+world—including those outside your country. [CLS] [SEP] data may also be stored locally on
+the devices you use to access the services. [CLS] [SEP]
+
+_eu-u.s. [CLS] [SEP] privacy shield and swiss-u.s. [CLS] [SEP] privacy shield._ when transferring data
+from the european union, the european economic area, the united kingdom, and
+switzerland, dropbox relies upon a variety of legal mechanisms, including
+contracts with our customers and affiliates. [CLS] [SEP] dropbox complies with the eu-u.s. [CLS] [SEP]
+and swiss–u.s. [CLS] [SEP] privacy shield frameworks as set forth by the u.s. [CLS] [SEP] department
+of commerce regarding the collection, use, and retention of personal data
+transferred from the european union, the european economic area, the united
+kingdom, and switzerland to the united states. [CLS] [SEP] dropbox has certified to the
+department of commerce that it adheres to the privacy shield principles with
+respect to such data you can find dropbox's privacy shield certification
+[here](https://www.privacyshield.gov/list). [CLS] [SEP] you can also learn more about
+privacy shield at <https://www.privacyshield.gov>. [CLS] [SEP]
+
+dropbox is subject to oversight by the u.s. [CLS] [SEP] federal trade commission. [CLS] [SEP] jams is
+the us-based independent organization responsible for reviewing and resolving
+complaints about our privacy shield compliance—free of charge to you. [CLS] [SEP] we ask
+that you first submit any such complaints directly to us via
+[privacy@dropbox.com](mailto:privacy@dropbox.com). [CLS] [SEP] if you aren't satisfied
+with our response, please contact jams at <https://www.jamsadr.com/eu-us-
+privacy-shield>. [CLS] [SEP] in the event your concern still isn't addressed by jams, you
+may be entitled to a binding arbitration under privacy shield and its
+principles. [CLS] [SEP]
+
+## your control and access of your data
+
+you have control over your personal data and how it's collected, used, and
+shared. [CLS] [SEP] for example, you can:
+
+  * _delete your stuff in your dropbox account._ you can learn more about how to delete files saved on dropbox [here](https://help.dropbox.com/files-folders/restore-delete/delete-files). [CLS] [SEP] 
+  * _change or correct personal data._ you can manage your account and the content contained in it, as well as edit some of your personal data, through your [account settings page](/account). [CLS] [SEP] 
+  * _access and take your data elsewhere._ you can access your personal data from your dropbox account and you can download a copy of your stuff in a machine readable format as outlined [here](https://help.dropbox.com/installs-integrations/sync-uploads/download-entire-folders). [CLS] [SEP] you can also ask us for a copy of personal data you provided to us or that we've collected, the business or commercial purpose for collecting it, the types of sources we got it from, and types of third parties we've shared it with. [CLS] [SEP] 
+  * _object to the processing of your personal data._ depending on the processing activity, you can request that we stop or limit processing of your personal data. [CLS] [SEP] 
+
+if you would like to submit a data access request, request that your personal
+data be deleted, or object to the processing of your personal data, please
+email us at [privacy@dropbox.com](mailto:privacy@dropbox.com). [CLS] [SEP] for more
+information on how to control and access your personal data, please see our
+[faq](https://help.dropbox.com/accounts-billing/security/privacy-policy-faq). [CLS] [SEP]
+
+_dropbox as controller or processor._ if you reside in north america (the
+united states, canada, and mexico), dropbox, inc. [CLS] [SEP] acts as your service
+provider. [CLS] [SEP] for all other users, dropbox international unlimited company acts as
+a controller of your personal data. [CLS] [SEP] if you are a dropbox business or education
+customer outside of north america, dropbox acts as a processor of your data. [CLS] [SEP]
+
+## changes
+
+if we're involved in a reorganization, merger, acquisition, or sale of our
+assets, your data may be transferred as part of that deal. [CLS] [SEP] we'll notify you
+(for example, via a message to the email address associated with your account)
+of any such deal and outline your choices in that event. [CLS] [SEP]
+
+we may revise this privacy policy from time to time, and will post the most
+current version on our website. [CLS] [SEP] if a revision meaningfully reduces your
+rights, we will notify you. [CLS] [SEP]
+
+## contact
+
+have questions or concerns about dropbox, our services, and privacy? contact
+our data protection officer at
+[privacy@dropbox.com](mailto:privacy@dropbox.com). [CLS] [SEP] if they can't answer your
+question, you have the right to contact your local data protection supervisory
+authority. [CLS] [SEP]
+
+this section of the agreement only applies to [dropbox business](/business)
+customers. [CLS] [SEP] if your organization signed a dropbox business or dropbox
+enterprise agreement with dropbox, that agreement may be different from the
+terms below. [CLS] [SEP] please [contact your organization's admin](/help/9119) for
+details. [CLS] [SEP]
+
+##  dropbox business agreement
+
+posted: july 20, 2020
+
+effective: august 19, 2020
+
+this dropbox business agreement (the " _business agreement_ ") is between
+dropbox international unlimited company if your organization is based outside
+the united states, its territories and possessions, canada and mexico ("
+_north america_ ") or, if your organization is based in north america, with
+dropbox, inc., a delaware corporation (each, " _dropbox_ ") and the
+organization agreeing to these terms (" _customer_ "). [CLS] [SEP] this business agreement
+governs access to and use of the services and beta services. [CLS] [SEP] by clicking "i
+agree," signing your contract for the services, or using the services, you
+agree to this business agreement as a customer. [CLS] [SEP]
+
+to the extent that dropbox, inc. [CLS] [SEP] is, on behalf of the customer, processing
+customer data that is subject to eu data protection laws, by clicking "i
+agree," you are also agreeing to the data processing agreement and eu standard
+contractual clauses, defined below, with dropbox, inc. [CLS] [SEP] for the transfer of
+personal data to processors. [CLS] [SEP]
+
+if you are agreeing to this business agreement and, if applicable, the data
+processing agreement, for use of the services by an organization, you are
+agreeing on behalf of that organization. [CLS] [SEP] you must have the authority to bind
+that organization to these terms, otherwise you must not sign up for the
+services. [CLS] [SEP]
+
+  1. [CLS] [SEP] _services_. [CLS] [SEP] 
+    1. [CLS] [SEP] _provision_. [CLS] [SEP] the agreement governs access to, and use of, the services and software purchased under an order form. [CLS] [SEP] customer and end users may access and use the services in accordance with the agreement. [CLS] [SEP] 
+    2. [CLS] [SEP] _modifications_. [CLS] [SEP] dropbox may update the services from time to time. [CLS] [SEP] if dropbox changes the services in a manner that materially reduces their functionality, dropbox will notify customer at the email address associated with the account, and customer may provide notice within thirty days of the change to terminate the agreement. [CLS] [SEP] this termination right will not apply to updates made to features provided on a beta or evaluation basis. [CLS] [SEP] for certain significant new features, dropbox may notify administrators or end users of the new features via email, provided that an option to unsubscribe from receiving such emails will be available to any potential recipient. [CLS] [SEP] 
+    3. [CLS] [SEP] _software_. [CLS] [SEP] 
+      1. [CLS] [SEP] _generally_. [CLS] [SEP] some of the services allow customer and end users to download software that may update automatically. [CLS] [SEP] if any component of the software is offered under an open source license, dropbox will make the license available to customer and to the extent the provisions of that license grant customer additional rights, those provisions will expressly override some terms of the agreement with respect to that component of the software. [CLS] [SEP] 
+      2. [CLS] [SEP] _license_. [CLS] [SEP] dropbox hereby grants to customer during the term a limited non-exclusive license to use the software solely in connection with the services and in accordance with the agreement. [CLS] [SEP] this license is non-transferable (subject to section 14.8), irrevocable (except as set forth in section 9), non-sublicensable, and will be fully paid up upon customer's payment of the fees. [CLS] [SEP] 
+    4. [CLS] [SEP] _customer domains_. [CLS] [SEP] prior to providing the services dropbox may require customer to verify that customer owns or controls the customer domains. [CLS] [SEP] if customer does not own or control the customer domains, then dropbox will have no obligation to provide customer with the services. [CLS] [SEP] 
+  2. [CLS] [SEP] _customer obligations_. [CLS] [SEP] 
+    1. [CLS] [SEP] _customer administration of the services_. [CLS] [SEP] customer may specify end users as administrators, including through multiple tiers of administrators, through the admin console. [CLS] [SEP] administrators may be able to: (a) access, disclose, restrict or remove customer data in or from end user accounts; and (b) monitor, restrict, or terminate access to end user accounts. [CLS] [SEP] the end user accounts administrators may manage as described in the preceding sentence may include end user accounts of lower tier administrators. [CLS] [SEP] customer is responsible for maintaining the confidentiality of passwords and admin accounts, and managing access to admin accounts. [CLS] [SEP] dropbox’s responsibilities do not extend to the internal management or administration of the services for customer. [CLS] [SEP] 
+    2. [CLS] [SEP] _third party administration_. [CLS] [SEP] the customer acknowledges that, if the customer purchases the services through a reseller and designates any of the reseller's personnel as administrators of the customer's services account, the reseller may be able to control account information, including customer data, and access the customer's services account as described above. [CLS] [SEP] 
+    3. [CLS] [SEP] _unauthorized use or access_. [CLS] [SEP] customer will prevent unauthorized use of the services by its end users and terminate any unauthorized use of or access to the services. [CLS] [SEP] end user accounts may only be provisioned, registered, and used by a single end user. [CLS] [SEP] the services are not intended for end users under the age of 13. [CLS] [SEP] customer will ensure that it does not allow any person under 13 to use the services. [CLS] [SEP] customer will promptly notify dropbox of any unauthorized use of or access to the services. [CLS] [SEP] 
+    4. [CLS] [SEP] _restrictions_. [CLS] [SEP] customer will not: (a) sell, resell, or lease the services or software; (b) use the services or software for activities where use or failure of the services or software could lead to physical damage, death, or personal injury; (c) reverse engineer the services or software, or attempt or assist anyone else to do so, unless this restriction is prohibited by law; (d) use the services or software, including the export or re-export of customer data, in violation of export control laws; (e) violate or circumvent any service limits of the services or otherwise configure the services to avoid service limits; or (f) establish a dropbox business account as an individual for personal, family, or household purposes. [CLS] [SEP] 
+    5. [CLS] [SEP] _compliance_. [CLS] [SEP] 
+      1. [CLS] [SEP] _generally_. [CLS] [SEP] customer and its end users must use the services in compliance with the acceptable use policy. [CLS] [SEP] customer will comply with laws and regulations applicable to customer's use of the services. [CLS] [SEP] customer must satisfy itself that: (i) the services are appropriate for its purposes, taking into account the nature of the customer data; and (ii) the technical and organizational requirements applicable to dropbox under eu data protection laws are satisfied by the security measures and the agreement. [CLS] [SEP] 
+      2. [CLS] [SEP] _end users_. [CLS] [SEP] customer is responsible for use of the services by its end users. [CLS] [SEP] customer will obtain and maintain from end users any consents necessary to allow administrators to engage in the activities described in the agreement and to allow dropbox to deliver the services. [CLS] [SEP] 
+      3. [CLS] [SEP] _customer actions_. [CLS] [SEP] customer will not take any action that would cause dropbox to violate eu data protection laws, the u.s. [CLS] [SEP] foreign corrupt practices act of 1977, as amended, the u.k. [CLS] [SEP] bribery act of 2010, or any other applicable anti-bribery, anti-corruption, or anti-money laundering law. [CLS] [SEP] 
+      4. [CLS] [SEP] _compliance assistance_. [CLS] [SEP] to assist customer with its compliance obligations under applicable privacy laws related to security, data protection impact assessments, and prior consultation with supervisory authorities, dropbox will make the following available during the term: (a) the audit reports described below; (b) the information contained in exhibits a and b of the data processing agreement; and (c) the information found at https://www.dropbox.com/business/trust/compliance/certificationscompliance and https://www.dropbox.com/security/gdpr. [CLS] [SEP] 
+      5. [CLS] [SEP] _audit reports_. [CLS] [SEP] dropbox has completed service organization control 2 (soc 2) type ii, service organization control 1 (soc 1) type ii, iso 27001 and iso 27018 audits for the services, which were conducted by an independent auditor that evaluated the design an effectiveness of dropbox security policies, procedures, and controls. [CLS] [SEP] dropbox will continue to undergo regular service organization control audits for the service during the term. [CLS] [SEP] at no cost to customer, upon customer’s written request, but no more than once per year, dropbox will provide customer a copy of the most recent soc 2 type 2 and iso reports (“audit reports”), subject to customer agreeing to treat the soc 2 report as dropbox’s confidential information pursuant to a non-disclosure agreement. [CLS] [SEP] 
+      6. [CLS] [SEP] _customer inspections._ if, after reviewing the materials in section 2.5.d above, customer reasonably believes it needs further information in order to meet its compliance obligations, dropbox will use commercially reasonable efforts to respond to written requests by customer regarding the materials. [CLS] [SEP] if customer is not satisfied with dropbox’s response to questions provided pursuant to this section 2.6.f, dropbox will permit customer, or an agreed upon customer representative, subject to appropriate confidentiality obligations, to visit dropbox’s premises and discuss dropbox’s responses with dropbox personnel. [CLS] [SEP] dropbox reserves the right to: (a) charge a separate fee for its reasonable costs associated with performing any of its obligations in this section 2.6.f, provided that dropbox will provide an estimate of these fees to customer prior to incurring the costs; or (b) object to any customer representative participating in an inspection on the basis that they are not qualified, are not bound by an adequate requirement to protect confidential dropbox information, or are a competitor of dropbox. [CLS] [SEP] for customer inspections pursuant to this section 2.6.f, the parties will first mutually agree on the scope, timing, and duration of the inspection. [CLS] [SEP] dropbox reserves the right to limit the scope and duration of an inspection to the extent reasonably necessary to avoid compromising the integrity of dropbox’s security or any dropbox customer’s or end user’s data. [CLS] [SEP] 
+      7. [CLS] [SEP] _hipaa_. [CLS] [SEP] customer will not store, transmit or otherwise process any information via the services that falls within the definition of “protected health information” under the hipaa privacy rule (45 c.f.r. [CLS] [SEP] section 164.051), unless customer and dropbox separately enter into a hipaa business associate agreement, which may be done via the admin console. [CLS] [SEP] 
+    6. [CLS] [SEP] _third-party apps and integrations_. [CLS] [SEP] if customer uses any third-party service or applications, such as a service that uses a dropbox api, with the services: (a) dropbox will not be responsible for any act or omission of the third-party, including the third-party’s access to or use of customer data; and (b) dropbox does not warrant or support any service provided by the third-party. [CLS] [SEP] customer will comply with any api limits associated with the services plan purchased by customer. [CLS] [SEP] 
+  3. [CLS] [SEP] _customer data_. [CLS] [SEP] 
+    1. [CLS] [SEP] _customer data limitations_. [CLS] [SEP] this agreement constitutes customer’s instructions to dropbox to process customer data. [CLS] [SEP] dropbox, dropbox personnel and its subcontractors will only process, access, use, store, and transfer customer data as customer instructs in order to deliver the services and to fulfill dropbox’s obligations in the agreement. [CLS] [SEP] the categories of personal data to be processed by dropbox and the processing activities to be performed under this agreement are set out in the data processing agreement. [CLS] [SEP] dropbox will inform customer of any legal requirement which prevents it from complying with customer’s instructions, unless prohibited from doing so by applicable law or on important grounds of public interest. [CLS] [SEP] any dropbox personnel who have access to customer data will be bound by appropriate confidentiality obligations. [CLS] [SEP] 
+    2. [CLS] [SEP] _security measures_. [CLS] [SEP] dropbox will use industry standard technical and organizational security measures to transfer, store, and process customer data that, at a minimum, will comply with the security measures. [CLS] [SEP] dropbox may update the security measures from time to time. [CLS] [SEP] dropbox will provide customer with at least sixty days prior notice if dropbox updates the security measures in a manner that materially diminishes the administrative, technical, or physical security features of the services taken as a whole. [CLS] [SEP] within five business days of receipt of this notice, customer may elect to terminate the agreement and associated order forms by providing written notice to dropbox. [CLS] [SEP] 
+    3. [CLS] [SEP] _third-party requests_. [CLS] [SEP] 
+      1. [CLS] [SEP] _customer responsibility_. [CLS] [SEP] customer is responsible for responding to third-party requests via its own access to information. [CLS] [SEP] customer will seek to obtain information required to respond to third-party requests and will contact dropbox only if it cannot comply with the third-party request despite diligent efforts. [CLS] [SEP] 
+      2. [CLS] [SEP] _dropbox responsibility_. [CLS] [SEP] if dropbox receives a third-party request, dropbox will make commercially reasonable efforts, to the extent allowed by law and by the terms of the third-party request, to: (i) promptly notify customer of dropbox's receipt of a third-party request; (ii) comply with customer's commercially reasonable requests regarding its efforts to oppose a third-party request; and (iii) provide customer with information or tools required for customer to respond to the third-party request, if customer is otherwise unable to respond to the third-party request. [CLS] [SEP] if dropbox is prohibited from notifying customer of a third-party request or customer fails to promptly respond to any third-party request, then dropbox may, but will not be obligated to do so, to the extent permitted by applicable law. [CLS] [SEP] 
+    4. [CLS] [SEP] _customer data sharing_. [CLS] [SEP] the services may enable end users to share customer data, including to other customer end users and to third parties. [CLS] [SEP] recipients of shared customer data may access, view, download, and share this customer data, including in and through their own services accounts. [CLS] [SEP] customer understands: (a) it is solely customer's, and its end users', choice to share customer data; (b) dropbox cannot control third parties with whom customer has shared customer data; and (c) customer and its end users are solely responsible for their use of the services, including any sharing of customer data through the services. [CLS] [SEP] 
+  4. [CLS] [SEP] _data transfers_. [CLS] [SEP] 
+    1. [CLS] [SEP] _data transfer_. [CLS] [SEP] customer agrees that dropbox and its subcontractors may transfer customer data to and access, use, and store customer data in locations other than customer's country. [CLS] [SEP] 
+    2. [CLS] [SEP] _data processing agreement_. [CLS] [SEP] to the extent customer data is subject to eu data protection laws and is processed by dropbox on customer's behalf, customer and dropbox agree to the data processing agreement. [CLS] [SEP] the data processing agreement applies only to the services, and does not apply to beta services. [CLS] [SEP] 
+    3. [CLS] [SEP] _eu-u.s. [CLS] [SEP] and swiss-u.s. [CLS] [SEP] privacy shield programs_. [CLS] [SEP] dropbox is certified and complies with the eu-u.s. [CLS] [SEP] and swiss-u.s. [CLS] [SEP] privacy shield programs, as set forth by the u.s. [CLS] [SEP] department of commerce regarding the collection, use, and retention of personal data transferred from the eea, switzerland, and the united kingdom (to the extent it is no longer part of the eea) to the united states in reliance on privacy shield. [CLS] [SEP] if the privacy shield programs are invalidated, dropbox will use commercially reasonable efforts to comply with alternate or successor data transfer mechanisms. [CLS] [SEP] 
+  5. [CLS] [SEP] _payment_. [CLS] [SEP] 
+    1. [CLS] [SEP] _fees_. [CLS] [SEP] customer will pay dropbox or customer's reseller all applicable fees for the services, in the currency and pursuant to the payment terms indicated on the order form, or in the applicable agreement between customer and customer’s reseller. [CLS] [SEP] customer authorizes dropbox, or customer's reseller, to charge customer for all applicable fees using customer's selected payment method, and customer will issue the required purchasing documentation. [CLS] [SEP] fees are non-refundable except as required by law or as otherwise specifically permitted in the agreement. [CLS] [SEP] 
+    2. [CLS] [SEP] _payment_. [CLS] [SEP] customer will pay dropbox invoices on the payment interval set forth in the order form. [CLS] [SEP] dropbox may suspend or terminate the services if fees are past due. [CLS] [SEP] customer will provide complete and accurate billing and contact information to dropbox or to customer's reseller. [CLS] [SEP] 
+    3. [CLS] [SEP] _taxes_. [CLS] [SEP] fees are exclusive of taxes and customer is responsible for all taxes. [CLS] [SEP] dropbox, or customer's reseller, will charge taxes when required to do so. [CLS] [SEP] if customer provides dropbox or its reseller with a valid exemption certificate, dropbox will not collect the taxes covered by that certificate. [CLS] [SEP] 
+    4. [CLS] [SEP] _withholding taxes_. [CLS] [SEP] customer will pay dropbox or its reseller net of any applicable withholding taxes. [CLS] [SEP] customer and dropbox, or customer's reseller if applicable, will work together to avoid any withholding tax if exemptions, or a reduced treaty withholding rate, are available. [CLS] [SEP] if dropbox or customer's reseller qualifies for a tax exemption, or a reduced treaty withholding rate, dropbox or customer's reseller will provide customer with reasonable documentary proof. [CLS] [SEP] customer will provide dropbox or customer's reseller reasonable evidence that it has paid the relevant authority for the sum withheld or deducted. [CLS] [SEP] 
+    5. [CLS] [SEP] _auto-renewals and trials_. [CLS] [SEP] if the customer's account is set to auto-renewal or is in a trial period and the customer has already provided a method of payment to dropbox for the services, dropbox (or the customer's reseller) may charge automatically at the end of the trial or for the renewal, unless the customer notifies dropbox (or the customer's reseller, as applicable) that the customer wants to cancel or disable auto-renewal. [CLS] [SEP] dropbox may revise services rates by providing the customer at least thirty days' notice prior to the next charge. [CLS] [SEP] 
+    6. [CLS] [SEP] _purchase orders_. [CLS] [SEP] if customer requires the use of a purchase order or purchase order number, customer: (i) must provide the purchase order number at the time of purchase; and (ii) agrees that any terms and conditions on a customer purchase order will not apply to this agreement and are null and void. [CLS] [SEP] if the customer is purchasing via a reseller, any terms and conditions from the customer's reseller or in a purchase order between the customer and its reseller that conflict with the agreement are null and void. [CLS] [SEP] 
+  6. [CLS] [SEP] _suspension_. [CLS] [SEP] 
+    1. [CLS] [SEP] _of end user accounts by dropbox_. [CLS] [SEP] if an end user: (a) violates the agreement; or (b) uses the services in a manner that dropbox reasonably believes will cause it liability, then dropbox may request that customer suspend or terminate the applicable end user account. [CLS] [SEP] if customer fails to promptly suspend or terminate the end user account, then dropbox may do so. [CLS] [SEP] 
+    2. [CLS] [SEP] _security emergencies_. [CLS] [SEP] notwithstanding anything in the agreement, if there is a security emergency, dropbox may automatically suspend use of the services. [CLS] [SEP] dropbox will make commercially reasonable efforts to narrowly tailor the suspension as needed to prevent or terminate the security emergency. [CLS] [SEP] 
+  7. [CLS] [SEP] _intellectual property rights_. [CLS] [SEP] 
+    1. [CLS] [SEP] _reservation of rights_. [CLS] [SEP] except as expressly set forth herein, the agreement does not grant: (a) dropbox any intellectual property rights in customer data; or (b) customer any intellectual property rights in the services or dropbox trademarks and brand features. [CLS] [SEP] 
+    2. [CLS] [SEP] _limited permission_. [CLS] [SEP] customer grants dropbox only the limited rights that are reasonably necessary for dropbox to deliver the services. [CLS] [SEP] this limited permission also extends to subcontractors or sub-processors. [CLS] [SEP] 
+    3. [CLS] [SEP] _suggestions_. [CLS] [SEP] dropbox may use, modify, and incorporate into its products and services, license and sublicense, any feedback, comments, or suggestions on the services that customer or end users may send dropbox or post in dropbox's forums without any obligation to customer. [CLS] [SEP] 
+  8. [CLS] [SEP] _term_. [CLS] [SEP] 
+    1. [CLS] [SEP] _agreement term_. [CLS] [SEP] the agreement will remain in effect for the term. [CLS] [SEP] 
+    2. [CLS] [SEP] _services term_. [CLS] [SEP] dropbox will deliver the services to customer for the services term. [CLS] [SEP] unless the parties agree otherwise in writing, end user accounts purchased during any services term will have a prorated term ending on the last day of the pre-existing services term. [CLS] [SEP] 
+    3. [CLS] [SEP] _automatic renewals_. [CLS] [SEP] unless otherwise specified on the order form, following the initial services term or a renewal term, the subscription to the services will automatically renew for a renewal term, unless either party gives the other written notice of termination at least thirty days prior to the expiration of the then-current services term. [CLS] [SEP] if customer has provided a payment method to dropbox for recurring charges as provided in section 5.5, customer may elect to terminate the agreement via the admin console prior to the day a renewal term begins. [CLS] [SEP] 
+  9. [CLS] [SEP] _termination_. [CLS] [SEP] 
+    1. [CLS] [SEP] _generally_. [CLS] [SEP] either party may terminate the agreement, including all order forms, if: (i) the other party is in material breach of the agreement and fails to cure that breach within thirty days after receipt of written notice; or (ii) the other party ceases its business operations or becomes subject to insolvency proceedings and the proceedings are not dismissed within ninety days. [CLS] [SEP] dropbox may terminate this agreement and suspend customer’s access to the services if required to do so by law or for an egregious violation by customer of the acceptable use policy. [CLS] [SEP] 
+    2. [CLS] [SEP] _effects of termination_. [CLS] [SEP] if the agreement terminates: (a) except as set forth in this section, the rights and licenses granted by dropbox to customer will cease immediately; (b) customer may, prior to termination, request reasonable additional time to export its stored data, provided that dropbox may charge customer for this extended access based on dropbox's then-current standard fees; and (c) dropbox will delete any end user accounts and stored data in customer's account in a commercially reasonable period of time following receipt of an administrator's request to do so prior to termination of the services. [CLS] [SEP] dropbox may make instructions available to customer regarding how to submit the administrator request described in clause (c) of the previous sentence and customer is responsible for following these instructions to initiate a deletion. [CLS] [SEP] 
+    3. [CLS] [SEP] _survival_. [CLS] [SEP] the following sections will survive expiration or termination of the agreement: 3.3 (third party requests), 5 (payment), 7 (intellectual property rights), 9.2 (effects of termination), 9.3 (survival), 10 (indemnification), 11 (disclaimers), 12 (limitation of liability), 13 (disputes), and 14 (miscellaneous). [CLS] [SEP] notwithstanding the foregoing, section 3.3 (third-party requests) shall not survive termination if dropbox has exercised a right to terminate the agreement. [CLS] [SEP] 
+  10. [CLS] [SEP] _indemnification_. [CLS] [SEP] 
+    1. [CLS] [SEP] _by customer_. [CLS] [SEP] customer will indemnify, defend, and hold harmless dropbox from and against all liabilities, damages, and costs (including settlement costs and reasonable attorneys' fees) arising out of any claim against dropbox and its affiliates regarding: (a) customer data; (b) customer domains; or (c) customer's, or customer's end users', use of the services in violation of the agreement. [CLS] [SEP] 
+    2. [CLS] [SEP] _by dropbox_. [CLS] [SEP] dropbox will indemnify, defend, and hold harmless customer from and against all liabilities, damages, and costs (including settlement costs and reasonable attorneys' fees) arising out of any claim against customer to the extent based on an allegation that dropbox's technology used to deliver the services to the customer infringes or misappropriates any copyright, trade secret, u.s. [CLS] [SEP] patent, or trademark right of the third party. [CLS] [SEP] in no event will dropbox have any obligations or liability under this section arising from: (a) use of any services in a modified form or in combination with materials not furnished by dropbox; and (b) any content, information, or data provided by customer, end users, or other third parties. [CLS] [SEP] 
+    3. [CLS] [SEP] _possible infringement_. [CLS] [SEP] if dropbox believes the services or software infringe or may be alleged to infringe a third party's intellectual property rights, then dropbox may: (a) obtain the right for customer, at dropbox's expense, to continue using the services or software; (b) provide a non-infringing functionally equivalent replacement; or (c) modify the services or software so that they no longer infringe. [CLS] [SEP] if dropbox does not believe the options described in this section are commercially reasonable, then dropbox may suspend or terminate customer's use of the affected services or software, with a pro-rata refund of prepaid fees for the services or software. [CLS] [SEP] 
+    4. [CLS] [SEP] _general_. [CLS] [SEP] the party seeking indemnification will promptly notify the other party of the claim and cooperate with the other party in defending the claim. [CLS] [SEP] the indemnifying party will have full control and authority over the defense, except that: (a) any settlement requiring the party seeking indemnification to admit liability requires prior written consent, not to be unreasonably withheld or delayed; and (b) the other party may join in the defense with its own counsel at its own expense. [CLS] [SEP] the indemnities above are dropbox and customer's only remedy under the agreement for violation by the other party of a third party's intellectual property rights. [CLS] [SEP] 
+  11. [CLS] [SEP] _disclaimers_. [CLS] [SEP] 
+    1. [CLS] [SEP] _generally_. [CLS] [SEP] the services and software are provided "as is." to the fullest extent permitted by law, except as expressly stated in the agreement, neither customer nor dropbox and its affiliates, suppliers, and distributors make any warranty of any kind, whether express, implied, statutory or otherwise, including warranties of merchantability, fitness for a particular use, or non-infringement. [CLS] [SEP] customer is responsible for using the services or software in accordance with the terms set forth herein and backing up any stored data on the services. [CLS] [SEP] 
+    2. [CLS] [SEP] _beta services_. [CLS] [SEP] 
+      1. [CLS] [SEP] _use in customer's discretion_. [CLS] [SEP] despite anything to the contrary in the agreement: (a) customer may choose to use beta services in its sole discretion; (b) beta services may not be supported and may be changed at any time without notice; (c) beta services may not be as reliable or available as the services; (d) beta services have not been subjected to the same security measures and auditing to which the services have been subjected; and (e) dropbox will have no liability arising out of or in connection with beta services - use at your own risk. [CLS] [SEP] 
+      2. [CLS] [SEP] _feedback_. [CLS] [SEP] dropbox offers beta services in order to get user feedback. [CLS] [SEP] in exchange for using beta services, customer agrees that dropbox may contact customer and its end users to obtain feedback regarding beta services. [CLS] [SEP] customer agrees to: (i) and hereby does, assign to dropbox all right, title, and interest in any feedback; and (ii) provide dropbox any reasonable assistance necessary to document and maintain dropbox's rights in the feedback. [CLS] [SEP] this feedback may include oral or written comments, suggestions, error reports, and analysis. [CLS] [SEP] 
+      3. [CLS] [SEP] _confidential_. [CLS] [SEP] beta services are confidential until officially launched by dropbox. [CLS] [SEP] customer will take reasonable measures to keep information regarding the beta services confidential, including at least those measures customer takes to protect its own confidential information of a similar nature. [CLS] [SEP] customer will not disclose information regarding beta services to any third parties, and will keep new features and functionality confidential until officially launched by dropbox. [CLS] [SEP] customer may disclose information regarding beta services to the extent required by law or regulation if customer gives dropbox reasonable advance written notice, to the extent permitted, so dropbox can seek to prevent or limit the disclosure. [CLS] [SEP] 
+  12. [CLS] [SEP] _limitation of liability_. [CLS] [SEP] 
+    1. [CLS] [SEP] _limitation on indirect liability_. [CLS] [SEP] to the fullest extent permitted by law, except for dropbox or customer's indemnification obligations, neither customer nor dropbox and its affiliates, suppliers, and distributors will be liable under the agreement for (i) indirect, special, incidental, consequential, exemplary, or punitive damages, or (ii) loss of use, data, business, revenues, or profits (in each case whether direct or indirect), even if the party knew or should have known that such damages were possible and even if a remedy fails of its essential purpose. [CLS] [SEP] 
+    2. [CLS] [SEP] _limitation on amount of liability_. [CLS] [SEP] to the fullest extent permitted by law, dropbox's aggregate liability under the agreement will not exceed the lesser of $100,000 or the amount paid by customer to dropbox hereunder during the twelve months prior to the event giving rise to liability. [CLS] [SEP] 
+  13. [CLS] [SEP] _disputes_. [CLS] [SEP] 
+    1. [CLS] [SEP] _informal resolution_. [CLS] [SEP] before filing a claim, each party agrees to try to resolve the dispute by contacting the other party through the notice procedures in section 14.6. [CLS] [SEP] if a dispute is not resolved within thirty days of notice, customer or dropbox may bring a formal proceeding. [CLS] [SEP] 
+    2. [CLS] [SEP] _arbitration_. [CLS] [SEP] customer and dropbox agree to resolve any claims relating to the agreement or the services through final and binding arbitration, except as set forth below. [CLS] [SEP] the [american arbitration association](https://www.adr.org/) (aaa) will administer the arbitration under its commercial arbitration rules. [CLS] [SEP] the arbitration will be held in san francisco (ca), or any other location both parties agree to in writing. [CLS] [SEP] 
+    3. [CLS] [SEP] _exception to arbitration_. [CLS] [SEP] either party may bring a lawsuit in the federal or state courts of san francisco county, california solely for injunctive relief to stop unauthorized use or abuse of the services or infringement of intellectual property rights without first engaging in the informal dispute notice process described above. [CLS] [SEP] both customer and dropbox consent to venue and personal jurisdiction there. [CLS] [SEP] 
+    4. [CLS] [SEP] _no class actions_. [CLS] [SEP] customer may only resolve disputes with dropbox on an individual basis and will not bring a claim in a class, consolidated or representative action. [CLS] [SEP] class arbitrations, class actions, private attorney general actions and consolidation with other arbitrations are not allowed. [CLS] [SEP] 
+  14. [CLS] [SEP] _miscellaneous_. [CLS] [SEP] 
+    1. [CLS] [SEP] _terms modification_. [CLS] [SEP] dropbox may revise this agreement from time to time and the most current version will always be posted on the dropbox business website. [CLS] [SEP] if a revision, in dropbox's sole discretion, is material, dropbox will notify customer (by, for example, sending an email to the email address associated with the applicable account). [CLS] [SEP] other revisions may be posted to dropbox's blog or terms page, and customer is responsible for checking these postings regularly. [CLS] [SEP] by continuing to access or use the services after revisions become effective, customer agrees to be bound by the revised agreement. [CLS] [SEP] if customer does not agree to the revised agreement terms, customer may terminate the services within thirty days of receiving notice of the change. [CLS] [SEP] 
+    2. [CLS] [SEP] _entire agreement_. [CLS] [SEP] the agreement supersedes any prior agreements or understandings between the parties, and constitutes the entire agreement between the parties related to this subject matter. [CLS] [SEP] all attachments to this business agreement, the data processing agreement, customer invoices, and order forms executed by the parties, are hereby incorporated into the agreement by this reference. [CLS] [SEP] 
+    3. [CLS] [SEP] _interpretation of conflicting terms_. [CLS] [SEP] if there is a conflict between the documents that make up the agreement, the documents will control in the following order: the invoice, the services addenda, order form, the business agreement. [CLS] [SEP] the terms and conditions of the agreement will be considered the confidential information of dropbox, and customer will not disclose the information to any third parties. [CLS] [SEP] customer agrees that any terms and conditions on a customer purchase order will not apply to the agreement and are null and void. [CLS] [SEP] if end users are required to click through terms of service in order to use the services, those click through terms are subordinate to this agreement and the agreement will control if there is a conflict. [CLS] [SEP] 
+    4. [CLS] [SEP] _governing law_. [CLS] [SEP] the agreement will be governed by california law except for its conflicts of laws principles. [CLS] [SEP] 
+    5. [CLS] [SEP] _severability_. [CLS] [SEP] unenforceable provisions will be modified to reflect the parties' intention and only to the extent necessary to make them enforceable, and the remaining provisions of the agreement will remain in full effect. [CLS] [SEP] 
+    6. [CLS] [SEP] _notice_. [CLS] [SEP] notices must be sent via email, first class, airmail, or overnight courier and are deemed given when received. [CLS] [SEP] notices to customer may also be sent to the applicable account email address and are deemed given when sent. [CLS] [SEP] notices to dropbox must be sent to dropbox legal at [contractnotices@dropbox.com](mailto:contractnotices@dropbox.com), with a copy to dropbox, inc., p.o. [CLS] [SEP] box 77767, san francisco, ca 94107, attn.: legal department. [CLS] [SEP] 
+    7. [CLS] [SEP] _waiver_. [CLS] [SEP] a waiver of any default is not a waiver of any subsequent default. [CLS] [SEP] 
+    8. [CLS] [SEP] _assignment_. [CLS] [SEP] customer may not assign or transfer the agreement or any rights or obligations under the agreement without the written consent of dropbox, except that customer may assign the agreement to the surviving entity in connection with a merger, acquisition, or sale of all or substantially all of its assets by providing written notice to dropbox. [CLS] [SEP] dropbox may not assign the agreement without providing notice to customer, except dropbox may assign the agreement or any rights or obligations under the agreement to an affiliate or in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets without providing notice. [CLS] [SEP] any other attempt to transfer or assign is void. [CLS] [SEP] 
+    9. [CLS] [SEP] _no agency_. [CLS] [SEP] dropbox and customer are not legal partners or agents, but are independent contractors. [CLS] [SEP] 
+    10. [CLS] [SEP] _subcontracting_. [CLS] [SEP] customer consents to dropbox’s appointment of subcontractors, including sub-processors, to perform the services. [CLS] [SEP] dropbox will remain liable for all acts or omissions of its subcontractors or sub-processors, and for any subcontracted obligations. [CLS] [SEP] dropbox will list its current sub-processors at: https://assets.dropbox.com/documents/en/legal/subprocessors-dfb-013118.pdf or another link provided by dropbox from time to time. [CLS] [SEP] dropbox may add or remove sub-processors from time to time. [CLS] [SEP] dropbox will inform customer in advance of new sub-processors via a subscription mechanism described in the list of sub-processors linked above. [CLS] [SEP] if customer objects to a change, it will provide dropbox with notice of its objection to privacy@dropbox.com including reasonable detail supporting customer’s concerns within sixty days of receiving notice of a change from dropbox or, if customer has not subscribed to receive this notice, within sixty days of dropbox publishing the change. [CLS] [SEP] dropbox will then use commercially reasonable efforts to review and respond to customer’s objection within thirty days of receipt of customer’s objection. [CLS] [SEP] dropbox’s response to customer’s objection will include, at a minimum, reasonable accommodations, if any, that customer or dropbox can take to limit or prevent a new sub-processor from acting as a processor of customer data when customer makes use of the services. [CLS] [SEP] if dropbox does not respond to a customer objection as described above, or cannot reasonably accommodate customer’s objection, customer may terminate the agreement by providing written notice to dropbox: (a) within thirty days of receipt of a dropbox response that does not comply with this section 14.10; or (b) if dropbox fails to respond, within thirty days of the date dropbox’s response was due. [CLS] [SEP] 
+    11. [CLS] [SEP] _force majeure_. [CLS] [SEP] except for payment obligations, neither dropbox nor customer will be liable for inadequate performance to the extent caused by a condition that was beyond the party's reasonable control (for example, natural disaster, act of war or terrorism, riot, labor condition, governmental action, and internet disturbance). [CLS] [SEP] 
+    12. [CLS] [SEP] _no third-party beneficiaries_. [CLS] [SEP] there are no third-party beneficiaries to the agreement. [CLS] [SEP] without limiting this section, a customer's end users are not third-party beneficiaries to customer's rights under the agreement. [CLS] [SEP] 
+  15. [CLS] [SEP] _definitions_. [CLS] [SEP] 
+    * " _acceptable use policy_ " means the dropbox acceptable use policy set forth at the following link, or other link that dropbox may provide: <https://www.dropbox.com/acceptable_use>. [CLS] [SEP] 
+    * " _account data_ " means the account and contact information submitted to the services by customer or end users. [CLS] [SEP] 
+    * " _administrator_ " means a customer-designated technical end user who administers the services to end users on customer's behalf, through multiple tiers. [CLS] [SEP] 
+    * " _admin account_ " means an administrative account provided to customer by dropbox for the purpose of administering the services. [CLS] [SEP] 
+    * " _admin console_ " means the online tool provided by dropbox to customer for use in administering the services. [CLS] [SEP] 
+    * " _affiliate_ " means any entity that controls, is controlled by or is under common control with a party, where "control" means the ability to direct the management and policies of an entity. [CLS] [SEP] 
+    * " _agreement_ " means, collectively, this business agreement, each applicable order form, the data processing agreement and, if applicable, the hipaa business associate agreement and any services addenda entered into by the parties. [CLS] [SEP]
+    * " _beta services_ " means services or features identified as alpha, beta, preview, early access, or evaluation, or words or phrases with similar meanings. [CLS] [SEP] 
+    * " _claim_ " means a claim by a third party, including a regulatory penalty. [CLS] [SEP] 
+    * " _customer data_ " means stored data, account data, and messages, comments, structured data, images, and other content submitted to the services by customer or end users. [CLS] [SEP] 
+    * " _customer domains_ " means customer's internet domain names. [CLS] [SEP] 
+    * " _data processing agreement_ " means the agreement with dropbox related to compliance with eu data protection laws set forth at the following link: <https://assets.dropbox.com/documents/en/legal/dfb-data-processing-agreement.pdf> or other link that dropbox may provide. [CLS] [SEP] 
+    * " _eea_ " means european economic area. [CLS] [SEP] 
+    * " _effective date_ " means the date this business agreement is last signed by a party. [CLS] [SEP] 
+    * " _end users_ " means users of customer's services account. [CLS] [SEP] end users may include customer's and its affiliate's employees and consultants. [CLS] [SEP] 
+    * " _end user account_ " means a dropbox hosted account established by customer through the services for an end user. [CLS] [SEP] 
+    * " _eu data protection laws_ " means, to the extent in force and applicable from time to time, those laws implementing the eu general data protection regulation (2016/679) and any implementing laws in each eu member state. [CLS] [SEP] 
+    * " _eu-us privacy shield program_ " means the eu-u.s. [CLS] [SEP] privacy shield program framework and its principles as set forth by the us department of commerce and the european commission regarding the collection, use, and retention of personal data from eu member states. [CLS] [SEP] 
+    * " _excluded features_ " means services or features listed here <https://assets.dropbox.com/documents/en-us/legal/dfb-services-exceptions.pdf>, which list may be updated from time to time by dropbox, provided that non-beta features incorporated in the services as of the effective date will not be transitioned to the excluded features list during the term. [CLS] [SEP] 
+    * " _export control laws_ " means all applicable export and re-export control laws and regulations, including the export administration regulations ("ear") maintained by the u.s. [CLS] [SEP] department of commerce, trade and economic sanctions maintained by the treasury department's office of foreign assets control, and the international traffic in arms regulations ("itar") maintained by the department of state. [CLS] [SEP] 
+    * " _fees_ " means the amounts invoiced to customer by dropbox for the services. [CLS] [SEP] 
+    * " _hipaa business associate agreement_ " means an agreement between customer and dropbox detailing each party's obligations regarding "protected health information" under the hipaa privacy rule (45 c.f.r. [CLS] [SEP] section 164.051). [CLS] [SEP] 
+    * " _initial services term_ " means the term for the applicable services beginning on the provisioning date and continuing for the duration set forth on the order form. [CLS] [SEP] 
+    * " _intellectual property rights_ " means current and future worldwide rights under patent, copyright, trade secret, trademark, moral rights, and other similar rights. [CLS] [SEP] 
+    * " _order form_ " means the ordering document, or order page, for the services. [CLS] [SEP] 
+    * " _personal data, "process," and "processing"_" have the meaning given to those terms in the eu data protection laws. [CLS] [SEP] 
+    * " _provisioning date_ " is the date upon which dropbox makes the services available to customer. [CLS] [SEP] 
+    * " _renewal term_ " means, unless otherwise agreed to in writing by the parties, the twelve-month renewal term following either the initial services term, or a previous renewal term. [CLS] [SEP] renewal terms are set forth on the order form. [CLS] [SEP] 
+    * " _security emergency_ " means: (i) use of the services that do or could disrupt the services, other customers' use of the services, or the infrastructure used to deliver the services; or (ii) unauthorized third-party access to the services. [CLS] [SEP] 
+    * " _security measures_ " means the technical and organizational security measures described at <https://assets.dropbox.com/documents/en/legal/security-measures.pdf> or other link that dropbox may provide. [CLS] [SEP] 
+    * " _services_ " means the services ordered by customer on the order form. [CLS] [SEP] if customer orders dropbox business, the services are described at <https://www.dropbox.com/business/plans-comparison>, or other link that dropbox may provide. [CLS] [SEP] any other services will be referenced in the applicable order form. [CLS] [SEP] 
+    * " _services addendum_ " means a document attached to an order form that lists particular services and includes terms and conditions specific to those services. [CLS] [SEP] 
+    * " _services term_ " means the initial services term and all renewal terms for the applicable services. [CLS] [SEP] 
+    * " _service limits_ " means rate, storage, end user or other limits on customers use of the services as described in the applicable order form. [CLS] [SEP] 
+    * " _software_ " means the client software provided as part of the services, either directly by dropbox or through third party distribution channels such as app stores. [CLS] [SEP] 
+    * " _stored data_ " means the files uploaded to the services using the software by customer or end users. [CLS] [SEP] 
+    * " _subcontractor_ " means an entity to whom dropbox subcontracts any of its obligations under the agreement. [CLS] [SEP] 
+    * " _sub-processor_ " means an entity who agrees to process customer data on dropbox's behalf, or on behalf of another dropbox sub-processor, in order to deliver the services. [CLS] [SEP] 
+    * " _taxes_ " means any sales, use, value added, goods and services, consumption, excise, local stamp, or other tax, (including but not limited to iss, cide, pis, confins), duty or other charge of any kind or nature excluding tax that is based on dropbox's net income, associated with the services or software, including any related penalties or interest. [CLS] [SEP] 
+    * " _term_ " means the term of the agreement, which will begin on the effective date and continue until the earlier of: (i) the end of all applicable services terms; or (ii) the agreement is terminated as set forth herein. [CLS] [SEP] 
+    * " _third-party request_ " means a request from a third-party for records relating to an end user's use of the services including information in or from an end user account, or from customer's services account. [CLS] [SEP] third-party requests may include valid search warrants, court orders, or subpoenas, or any other request for which there is written consent from end users, or an end user's authorized representative, permitting a disclosure. [CLS] [SEP] 
+    * " _withholding taxes_ " mean any income taxes that are imposed on dropbox or customer's reseller in which customer is required by law to withhold or deduct on the payment to dropbox or customer's reseller. [CLS] [SEP] 
+
+## dropbox dmca policy
+
+dropbox (“ ** _dropbox_** ”) respects the intellectual property rights of
+others and expects its users to do the same. [CLS] [SEP] in accordance with the digital
+millennium copyright act of 1998, the text of which may be found on the u.s. [CLS] [SEP]
+copyright office website at <http://www.copyright.gov/legislation/dmca.pdf>,
+dropbox will respond expeditiously to claims of copyright infringement
+committed using the dropbox service and/or the dropbox website (the “ **
+_site_** ”) if such claims are reported to dropbox’s designated copyright
+agent identified in the sample notice below. [CLS] [SEP]
+
+if you are a copyright owner, authorized to act on behalf of one, or
+authorized to act under any exclusive right under copyright, please report
+alleged copyright infringements taking place on or through the site by
+completing the following dmca notice of alleged infringement and delivering it
+to dropbox’s designated copyright agent. [CLS] [SEP] upon receipt of notice as described
+below, dropbox will take whatever action, in its sole discretion, it deems
+appropriate, including removal of the challenged content from the site. [CLS] [SEP]
+
+dmca notice of alleged infringement (“ **notice** ”)
+
+  1. [CLS] [SEP] identify the copyrighted work that you claim has been infringed, or - if multiple copyrighted works are covered by this notice - you may provide a representative list of the copyrighted works that you claim have been infringed. [CLS] [SEP]
+
+  2. [CLS] [SEP] identify the material or link you claim is infringing (or the subject of infringing activity) and to which access is to be disabled, including at a minimum, if applicable, the url of the link shown on the site or the exact location where such material may be found. [CLS] [SEP]
+
+  3. [CLS] [SEP] provide your company affiliation (if applicable), mailing address, telephone number, and, if available, email address. [CLS] [SEP]
+
+  4. [CLS] [SEP] include both of the following statements in the body of the notice: 
+    * “i hereby state that i have a good faith belief that the disputed use of the copyrighted material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use).”
+
+    * “i hereby state that the information in this notice is accurate and, under penalty of perjury, that i am the owner, or authorized to act on behalf of, the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed.”
+
+  5. [CLS] [SEP] provide your full legal name and your electronic or physical signature. [CLS] [SEP]
+
+deliver this notice, with all items completed, to dropbox’s designated
+copyright agent:  
+  
+
+copyright agent  
+dropbox inc. [CLS] [SEP]  
+1800 owens st  
+san francisco, ca 94158  
+
+[submit dmca notice](/copyright_complaint)
+
+## dropbox acceptable use policy
+
+dropbox is used by millions of people, and we're proud of the trust placed in
+us. [CLS] [SEP] in exchange, we trust you to use our services responsibly. [CLS] [SEP]
+
+you agree not to misuse the dropbox services ("services") or help anyone else
+to do so. [CLS] [SEP] for example, you must not even try to do any of the following in
+connection with the services:
+
+  * probe, scan, or test the vulnerability of any system or network, unless done in compliance with our [bug bounty program](https://hackerone.com/dropbox);
+  * breach or otherwise circumvent any security or authentication measures;
+  * access, tamper with, or use non-public areas or parts of the services, or shared areas of the services you haven't been invited to;
+  * interfere with or disrupt any user, host, or network, for example by sending a virus, overloading, flooding, spamming, or mail-bombing any part of the services;
+  * access, search, or create accounts for the services by any means other than our publicly supported interfaces (for example, "scraping" or creating accounts in bulk);
+  * send unsolicited communications, promotions or advertisements, or spam;
+  * send altered, deceptive or false source-identifying information, including "spoofing" or "phishing";
+  * promote or advertise products or services other than your own without appropriate authorization;
+  * abuse referrals or promotions to get more storage space than deserved or to sell storage space received from referrals or promotions;
+  * circumvent storage space limits;
+  * sell the services unless specifically authorized to do so;
+  * publish or share materials that are unlawfully pornographic or indecent, or that contain extreme acts of violence or terrorist activity, including terror propaganda;
+  * advocate bigotry or hatred against any person or group of people based on their race, religion, ethnicity, sex, gender identity, sexual orientation, disability, or impairment;
+  * harass or abuse dropbox personnel or representatives or agents performing services on behalf of dropbox;
+  * violate the law in any way, including storing, publishing or sharing material that's fraudulent, defamatory, or misleading; or
+  * violate the privacy or infringe the rights of others. [CLS] [SEP]
+
+## open source software at dropbox
+
+dropbox is an active participant in the open source community. [CLS] [SEP] we’ve open
+sourced many of our own projects
+([](https://opensource.dropbox.com)https://opensource.dropbox.com) , and we’re
+using open source software in a variety of ways across our products. [CLS] [SEP]
+attribution notices for open source software that may be included in our
+products can be found
+[](/static/docs/opensource/dropbox_open_source_notice.pdf)here. [CLS] [SEP]
+
+we thank the open source community for all of their contributions!
+
+  * # dropbox
+
+    * [desktop app](/install)
+    * [mobile apps](/mobile)
+    * [plans](/plans?trigger=homepagefoot)
+    * [security](/security)
+    * [features](/features?trigger=footer)
+  * # company
+
+    * [about us](/about)
+    *     * [jobs](https://bit.ly/dbxdotcomapps)
+    * [press](/news)
+    * [investor relations](https://investors.dropbox.com/)
+    * [blog](https://blogs.dropbox.com/dropbox)
+  * # support
+
+    * [help center](/help)
+    * [contact us](/contact)
+    * [cookies](/terms/cookies)
+    * [privacy & terms](/privacy)
+    *     * [sitemap](/sitemap)
+  * # community
+
+    * [developers](/developers)
+    * [referrals](/referrals)
+    * [forum](https://www.dropboxforum.com)
+  * # connect
+
+    * [twitter](https://twitter.com/dropbox)
+    * [facebook](https://www.facebook.com/dropbox)
+    * [youtube](https://www.youtube.com/user/dropbox)
+  * # products
+
+    * [plus](/plus?trigger=foot_global)
+    * [family](/family)
+    * [professional](/pro?trigger=foot_global)
+    * [business](/business)
+    * [enterprise](/enterprise)
+
+  * [![facebook](https://cfl.dropboxstatic.com/static/images/arbor/aspen/icons/icons-fb-vfly59xx8.svg)](http://www.facebook.com/dropbox)
+  * [![twitter](https://cfl.dropboxstatic.com/static/images/arbor/aspen/icons/icons-tw-vflyjhyn7.svg)](http://www.twitter.com/dropbox)
+  * [![linkedin](https://cfl.dropboxstatic.com/static/images/arbor/aspen/icons/icons-linkedin-vfly7pwoj.svg)](http://www.linkedin.com/company/dropbox)
+
+![](https://cfl.dropboxstatic.com/static/images/icons/icon_spacer-
+vfln3byt2.gif)english (united
+states)![](https://cfl.dropboxstatic.com/static/images/icons/icon_spacer-
+vfln3byt2.gif)
+
+the dropbox website requires javascript. [CLS] [SEP]
+
+![](https://dropbox.com/hstsping)
+

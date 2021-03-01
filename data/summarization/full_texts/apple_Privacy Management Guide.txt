@@ -1,0 +1,412 @@
+  * global nav open menu global nav close menu
+  * [ apple ](/)
+  * [ shopping bag ](/us/shop/goto/bag) +
+
+[ search apple.com cancel ](/us/search)
+
+  * [ apple ](/)
+  * [ mac ](/mac/)
+  * [ ipad ](/ipad/)
+  * [ iphone ](/iphone/)
+  * [ watch ](/watch/)
+  * [ tv ](/tv/)
+  * [ music ](/music/)
+  * [ support ](https://support.apple.com)
+  * [](/us/search)
+  * [ shopping bag ](/us/shop/goto/bag) +
+
+cancel
+
+[ privacy ](/privacy/)
+
+local nav open menu local nav close menu
+
+  * [overview](/privacy/)
+  * [features](/privacy/features/)
+  * control
+  * [transparency report](/legal/transparency/)
+  * [privacy policy](/legal/privacy/en-ww/)
+
+# you have control over what you share. [CLS] [SEP]
+
+privacy is built in from the beginning, from the moment you open your new
+device to every time you use an app. [CLS] [SEP] here are a few things to know so you can
+be even more secure. [CLS] [SEP]
+
+## learn about privacy settings and controls. [CLS] [SEP]
+
+settings have been carefully designed to put you in control of your data. [CLS] [SEP] you
+can adjust what information is shared, where you share it, and when it is
+backed up. [CLS] [SEP] and starting with ios 14 and ipados 14, you’re more in control of
+how apps use your personal data to track you. [CLS] [SEP]
+
+[view a day in the life of your data
+(pdf)](/privacy/docs/a_day_in_the_life_of_your_data.pdf)
+
+new
+
+### privacy information on the app store
+
+starting in december 2020, product pages on the app store feature a new
+section that provides developers’ self‑reported summaries of some of their
+privacy practices in a simple, easy‑to‑read format. [CLS] [SEP] this shows how developers
+are collecting and using your data, including information like your location,
+browsing history, and contacts. [CLS] [SEP] this is part of ongoing work to increase
+transparency and control over your data, and apple will continue to update
+this feature and work with developers to ensure that users can make informed
+choices. [CLS] [SEP]
+
+[learn more about privacy information on the app
+store](https://support.apple.com/kb/ht211970)
+
+coming soon
+
+### app tracking controls and transparency
+
+your devices carry the story of your life. [CLS] [SEP] we believe you should have a choice
+in how apps track and share your data with other companies for advertising or
+with data brokers. [CLS] [SEP]
+
+starting in early 2021, apps will be required to ask your permission when they
+want to track you across apps and websites owned by other companies. [CLS] [SEP] you’ll be
+able to change your preference for any app or prevent apps from asking for
+permission entirely in settings. [CLS] [SEP]
+
+### third-party apps and permissions
+
+apple gives you transparency and control over the data you share with apps. [CLS] [SEP]
+apps may request access to things such as your location, contacts, calendars,
+or photos. [CLS] [SEP] you’ll receive a prompt with an explanation the first time a third-
+party app wants to use this data, so you can make an informed decision about
+granting permission. [CLS] [SEP] even if you grant access once, you can always change it
+later in settings. [CLS] [SEP] starting in early 2021, ios 14 and ipados 14 will also
+require developers to get your permission before tracking you or your device
+across apps and websites owned by other companies for targeted ads or ad
+measurement purposes, or to share your data with data brokers. [CLS] [SEP]
+
+no app can access the microphone or camera without your permission. [CLS] [SEP] in ios 14
+and ipados 14, when an app uses the microphone or camera, your device displays
+an indicator to let you know they are being used –– whether you are in the
+app, in another app, or on the home screen. [CLS] [SEP] and control center shows you when
+an app has recently used the microphone or camera. [CLS] [SEP] in ios and ipados, access
+to the camera is disabled for an app when it is in the background. [CLS] [SEP]
+
+sometimes apps need to know what other devices are on your local network, like
+when you’re trying to connect to a smart tv or printer. [CLS] [SEP] starting with ios 14
+and ipados 14, apps need to ask your permission before scanning your local
+network. [CLS] [SEP]
+
+ios 14 and ipados 14 also let you know when an app accesses your clipboard, so
+you can confirm that it receives access to only the items you expect. [CLS] [SEP]
+
+### data and privacy information
+
+data and privacy information screens make it easy to understand how apple will
+use your personal information before you sign in or start using new features. [CLS] [SEP]
+when you see the data and privacy icon, you’ll find helpful information on
+what personal data may be shared and how it will be used to improve your
+experience. [CLS] [SEP]
+
+### location data
+
+sometimes it’s useful for your device to know your location, like when you’re
+setting up meetings in calendar or getting directions. [CLS] [SEP] location services on
+your device uses a combination of gps, bluetooth, and crowd-sourced wi-fi
+hotspots and mobile towers to figure out where you are. [CLS] [SEP] apple gives you
+control over the collection and use of this location data on all your devices. [CLS] [SEP]
+with ios 14, ipados 14, and watchos 7, you can choose whether apps have access
+to your approximate location — an area of about 10 square miles — rather than
+your precise location. [CLS] [SEP] location services is not on by default. [CLS] [SEP] you can enable
+it when you first set up your device, and you can always turn it off if you
+change your mind. [CLS] [SEP]
+
+[view the location services privacy white paper
+(pdf)](/privacy/docs/location_services_white_paper_nov_2019.pdf)
+
+### data and privacy page
+
+to give you more control over your personal information, we provide a set of
+dedicated privacy management tools on your data and privacy page. [CLS] [SEP] these tools
+give you the ability to get a copy of your data, request a correction to your
+data, deactivate your account, or delete your account. [CLS] [SEP]
+
+[learn more about taking control of your data](https://support.apple.com/en-
+us/ht208501) [visit your data and privacy page](https://privacy.apple.com/)
+
+### analytics
+
+if you choose to opt in, your ios and ipados devices can collect analytics
+about your device and any paired apple watch and send it to apple for
+analysis. [CLS] [SEP] this analysis helps apple improve products and reduce problems like
+apps crashing. [CLS] [SEP] the collected information does not identify you personally and
+can be sent to apple only with your explicit consent. [CLS] [SEP] analytics may include
+details about hardware and operating system specifications, performance
+statistics, and data about how you use your devices and applications. [CLS] [SEP] when
+it’s collected, personal data is either not logged at all, removed from
+reports before they’re sent to apple, or protected by techniques such as
+differential privacy. [CLS] [SEP]
+
+the information we gather using differential privacy helps us improve our
+services without compromising individual privacy. [CLS] [SEP] for example, this technology
+improves quicktype and emoji suggestions, as well as lookup hints in notes. [CLS] [SEP]
+
+we identify commonly used data types in the health app and web domains in
+safari that cause performance issues. [CLS] [SEP] this information allows us to work with
+developers to improve your experience without revealing anything about your
+individual behavior. [CLS] [SEP]
+
+if you give your explicit consent to share icloud analytics, apple can improve
+siri and other intelligent features by analyzing how you use icloud data from
+your account, such as text snippets from email messages. [CLS] [SEP] analysis happens only
+after the data has gone through privacy-enhancing techniques like differential
+privacy so that it cannot be associated with you or your account. [CLS] [SEP]
+
+### advertising
+
+apple is committed to delivering advertising in a way that respects your
+privacy. [CLS] [SEP] apple‑delivered ads may appear on the app store, apple news, and
+stocks. [CLS] [SEP] the apple advertising platform does not track you, nor does it buy or
+share your personal information with other companies. [CLS] [SEP] your apple pay
+transactions, health app data, and homekit app data are not used by the apple
+advertising platform to deliver ads. [CLS] [SEP] your app store search and download
+history may be used to to serve you relevant ads. [CLS] [SEP] in the apple news and stocks
+apps, ads are served based partly on what you read or follow. [CLS] [SEP] this includes
+the topics and categories of the stories you read and the publications you
+follow, subscribe to, or enable notifications from. [CLS] [SEP] the stories you read are
+not used to serve targeted ads to you outside these apps. [CLS] [SEP] you can view the
+information apple uses to deliver relevant ads to you in settings. [CLS] [SEP] you can
+also turn off personalized ads at any time in settings to stop receiving
+targeted ads on the app store, apple news, and stocks. [CLS] [SEP] turning off
+personalized ads will limit apple’s ability to deliver relevant ads to you but
+may not reduce the number of ads you receive. [CLS] [SEP] the apple advertising platform
+doesn’t serve ads to children under 13 years old and managed apple ids. [CLS] [SEP] in
+addition, apple has strong guidelines for apps in the kids category of the app
+store, including prohibiting apps in the category from including third-party
+analytics or third-party advertising. [CLS] [SEP]
+
+## secure your devices. [CLS] [SEP]
+
+prevent anyone except you from using your devices and accessing your
+information. [CLS] [SEP]
+
+### six-digit passcodes
+
+setting a passcode is the most important thing you can do to safeguard your
+device. [CLS] [SEP] the passcode on your touch id– or face id–enabled device is
+automatically set to six digits, creating a million possible combinations. [CLS] [SEP] you
+can also enable erase data in settings to have your device wipe itself clean
+after 10 incorrect guesses. [CLS] [SEP]
+
+[learn more about protecting your device with a
+passcode](https://support.apple.com/en-us/ht204060)
+
+### touch id and face id
+
+touch id and face id provide intuitive and secure authentication with the
+touch of a finger or a simple glance. [CLS] [SEP] your fingerprint or face data is
+converted into a mathematical representation that is encrypted and used only
+by the secure enclave in your mac, ipad, or iphone. [CLS] [SEP] since fingerprint and face
+data is so personal, your device takes extraordinary measures to protect it. [CLS] [SEP]
+this data can’t be accessed by the operating system on your device or by any
+applications running on it. [CLS] [SEP] and it is never stored on apple servers or backed
+up to icloud or anywhere else. [CLS] [SEP]
+
+[learn more about apple platform
+security](https://support.apple.com/guide/security/)
+
+### two-factor authentication
+
+two-factor authentication is the best way to keep your information safe
+because it adds a second layer of security to your apple id. [CLS] [SEP] it’s designed to
+ensure that even someone who knows your password can’t access your account. [CLS] [SEP]
+when you sign in on a new device or from the web, a verification code will be
+displayed automatically on all your trusted devices. [CLS] [SEP] enter this code along
+with your password and you’ll be signed in. [CLS] [SEP] anyone who can’t provide both your
+password and the verification code will be kept out. [CLS] [SEP] once signed in, you won’t
+be asked for a verification code on that device again unless you sign out
+completely, erase the device, or need to change your password for security
+reasons. [CLS] [SEP]
+
+[learn how to set up two-factor authentication](https://support.apple.com/en-
+us/ht204915)
+
+### find my
+
+enabling find my for iphone, ipad, and mac helps keep you connected to your
+device even if it’s lost or stolen, and find my is built in a way that
+protects your privacy. [CLS] [SEP] it’s enabled automatically when you sign in to icloud
+on a new device. [CLS] [SEP] you can see where your device is on a map — and where it has
+been — so you improve your chances of recovering it. [CLS] [SEP] if you’re unable to get
+your device back, you can remotely erase the personal data on it. [CLS] [SEP] apple
+receives this location information only when you locate your device, turn on
+lost mode, or enable send last location. [CLS] [SEP] location data is only retained for 24
+hours so we can display the last known location of your device. [CLS] [SEP] find my also
+automatically turns on activation lock, which requires your apple id to be
+entered before anyone can erase or reactivate your device. [CLS] [SEP]
+
+## more ways to keep your data safe. [CLS] [SEP]
+
+keep an eye out for fraudulent attempts to acquire your personal information. [CLS] [SEP]
+
+### pay attention to notifications. [CLS] [SEP]
+
+when you sign in for the first time on a new device, update your payment
+method, change your password, or make other changes to your account, apple
+notifies you with an email or a push notification. [CLS] [SEP] so if you receive a
+notification from us about a change that you don’t remember making, it could
+mean that someone has wrongfully accessed your account. [CLS] [SEP] if that happens, go to
+“manage your apple id” to change your password immediately. [CLS] [SEP] if you need
+additional help, contact apple support for assistance. [CLS] [SEP]
+
+[change your apple id password](https://support.apple.com/kb/ht5624) [contact
+apple id support](https://support.apple.com/apple-id)
+
+### beware of phishing. [CLS] [SEP]
+
+“phishing” refers to fraudulent attempts to get personal information from you,
+such as your apple id password or credit card information, usually through an
+email or text message. [CLS] [SEP] the request may appear to be from a legitimate company
+or individual, but it’s not. [CLS] [SEP] turning on two-factor authentication is the best
+way to protect yourself against phishing schemes designed to trick you into
+revealing your apple id account credentials. [CLS] [SEP] never provide your password,
+verification codes, or any other sensitive account information over email or
+text messages. [CLS] [SEP] if you receive what you believe to be a phishing email
+purporting to be from apple, send it to
+[reportphishing@apple.com](mailto:reportphishing@apple.com). [CLS] [SEP]
+
+[learn more about protecting yourself from phishing](/legal/more-
+resources/phishing/)
+
+## learn more about privacy at apple. [CLS] [SEP]
+
+  * [review privacy features](/privacy/features/)
+  * [go to privacy overview](/privacy/)
+
+## apple footer
+
+[  apple ](/)
+
+  1. [CLS] [SEP] [privacy](/privacy/)
+  2. [CLS] [SEP] control
+
+### shop and learn
+
+open menu close menu
+
+  * [mac](/mac/)
+  * [ipad](/ipad/)
+  * [iphone](/iphone/)
+  * [watch](/watch/)
+  * [tv](/tv/)
+  * [music](/music/)
+  * [airpods](/airpods/)
+  * [homepod](/homepod/)
+  * [ipod touch](/ipod-touch/)
+  * [accessories](/us/shop/goto/buy_accessories)
+  * [gift cards](/us/shop/goto/giftcards)
+
+### services
+
+open menu close menu
+
+  * [apple music](/apple-music/)
+  * [apple tv+](/apple-tv-plus/)
+  * [apple fitness+](/apple-fitness-plus/)
+  * [apple news+](/apple-news/)
+  * [apple arcade](/apple-arcade/)
+  * [icloud](/icloud/)
+  * [apple one](/apple-one/)
+  * [apple card](/apple-card/)
+  * [apple books](/apple-books/)
+  * [app store](/app-store/)
+
+### account
+
+open menu close menu
+
+  * [manage your apple id](https://appleid.apple.com/us/)
+  * [apple store account](/us/shop/goto/account)
+  * [icloud.com](https://www.icloud.com)
+
+### apple store
+
+open menu close menu
+
+  * [find a store](/retail/)
+  * [shop online](/us/shop/goto/shop)
+  * [genius bar](/retail/geniusbar/)
+  * [today at apple](/today/)
+  * [apple camp](/today/camp/)
+  * [apple store app](https://apps.apple.com/us/app/apple-store/id375380948)
+  * [refurbished and clearance](/us/shop/goto/special_deals)
+  * [financing](/us/shop/goto/payment_plan)
+  * [apple trade in](/us/shop/goto/trade_in)
+  * [order status](/us/shop/goto/order/list)
+  * [shopping help](/us/shop/goto/help)
+
+### for business
+
+open menu close menu
+
+  * [apple and business](/business/)
+  * [shop for business](/retail/business/)
+
+### for education
+
+open menu close menu
+
+  * [apple and education](/education/)
+  * [shop for k-12](/education/k12/how-to-buy/)
+  * [shop for college](/us/shop/goto/educationrouting)
+
+### for healthcare
+
+open menu close menu
+
+  * [apple in healthcare](/healthcare/)
+  * [health on apple watch](/healthcare/apple-watch/)
+  * [health records on iphone](/healthcare/health-records/)
+
+### for government
+
+open menu close menu
+
+  * [shop for government](/r/store/government/)
+  * [shop for veterans and military](/us/shop/goto/eppstore/veteransandmilitary)
+
+### apple values
+
+open menu close menu
+
+  * [accessibility](/accessibility/)
+  * [education](/education/connected/)
+  * [environment](/environment/)
+  * [inclusion and diversity](/diversity/)
+  * [privacy](/privacy/)
+  * [racial equity and justice](/racial-equity-justice-initiative/)
+  * [supplier responsibility](/supplier-responsibility/)
+
+### about apple
+
+open menu close menu
+
+  * [newsroom](/newsroom/)
+  * [apple leadership](/leadership/)
+  * [job opportunities](/jobs/us/)
+  * [investors](https://investor.apple.com/)
+  * [ethics & compliance](/compliance/)
+  * [events](/apple-events/)
+  * [contact apple](/contact/)
+
+more ways to shop: [find an apple store](/retail/) or [other
+retailer](https://locate.apple.com/) near you. [CLS] [SEP] or call 1-800-my-apple. [CLS] [SEP]
+
+[united states](/choose-country-region/ "choose your country or region")
+
+copyright © 2021 apple inc. [CLS] [SEP] all rights reserved. [CLS] [SEP]
+
+[privacy policy](/legal/privacy/) [terms of use](/legal/internet-
+services/terms/site.html) [sales and
+refunds](/us/shop/goto/help/sales_refunds) [legal](/legal/) [site
+map](/sitemap/)
+

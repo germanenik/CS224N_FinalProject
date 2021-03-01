@@ -1,0 +1,1 @@
+Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header. [CLS] [SEP] Terms include a table of contents and most, but not all, sections include a plain language summary. [CLS] [SEP] 

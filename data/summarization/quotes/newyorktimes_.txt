@@ -1,0 +1,5 @@
+The Terms of Service page of the New York Times website displays a last updated date on the top of the terms. [CLS] [SEP] 
+ For example: 
+ 
+ Last updated on May 24, 2018
+ This page describes the terms and conditions... [CLS] [SEP] 

@@ -1,0 +1,883 @@
+[ stack overflow ](https://stackoverflow.com)
+
+  1. [CLS] [SEP] [about](/company)
+  2. [CLS] [SEP] products 
+  3. [CLS] [SEP] [for teams](/teams)
+
+  1. [CLS] [SEP] [ stack overflow public questions & answers ](/questions)
+  2. [CLS] [SEP] [ stack overflow for teams where developers & technologists share private knowledge with coworkers ](/teams)
+  3. [CLS] [SEP] [ jobs programming & related technical career opportunities ](/jobs?so_source=productsmenu&so_medium=stackoverflow)
+  4. [CLS] [SEP] [ talent recruit tech talent & build your employer brand ](https://stackoverflow.com/talent)
+  5. [CLS] [SEP] [ advertising reach developers & technologists worldwide ](https://stackoverflow.com/advertising)
+  6. [CLS] [SEP] [about the company](/company)
+
+loading…
+
+  1. [CLS] [SEP]   2. [CLS] [SEP] [log in](https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2flegal%2fprivacy-policy) [sign up](https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2fusers%2fstory%2fcurrent)
+  3. [CLS] [SEP] ###  [current community](https://stackoverflow.com)
+
+    * [ stack overflow  ](https://stackoverflow.com)
+
+[help](https://stackoverflow.com/help)
+[chat](https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com)
+
+    * [ meta stack overflow  ](https://meta.stackoverflow.com)
+
+###  your communities
+
+[sign
+up](https://stackoverflow.com/users/signup?ssrc=site_switcher&returnurl=%2fusers%2fstory%2fcurrent)
+or [log
+in](https://stackoverflow.com/users/login?ssrc=site_switcher&returnurl=https%3a%2f%2fstackoverflow.com%2flegal%2fprivacy-
+policy) to customize your list. [CLS] [SEP]
+
+### [more stack exchange communities](https://stackexchange.com/sites)
+
+[company blog](https://stackoverflow.blog)
+
+  1. [CLS] [SEP] [ home  ](/)
+  2. [CLS] [SEP]     1. [CLS] [SEP] public
+    2. [CLS] [SEP] [ stack overflow ](/questions)
+    3. [CLS] [SEP] [ tags  ](/tags)
+    4. [CLS] [SEP] [ users  ](/users)
+    5. [CLS] [SEP] find a job
+    6. [CLS] [SEP] [ jobs  ](/jobs?so_medium=stackoverflow&so_source=sitenav)
+    7. [CLS] [SEP] [ companies  ](/jobs/companies?so_medium=stackoverflow&so_source=sitenav)
+  3. [CLS] [SEP]     1. [CLS] [SEP] teams
+
+[ what's this? ](javascript:void\(0\))
+
+    2. [CLS] [SEP] [ create a team  ](https://stackoverflow.com/teams/create "stack overflow for teams is a private, secure spot for your organization's questions and answers.")
+
+**teams**
+
+q&a for work
+
+connect and share knowledge within a single location that is structured and
+easy to search. [CLS] [SEP]
+
+[ learn more ](https://stackoverflow.com/teams)
+
+  * [public network terms of service](/legal/terms-of-service/public)
+  * [stack overflow for teams terms of service](/legal/terms-of-service/teams)
+  * [stack overflow for teams on premise enterprise terms of service](/legal/terms-of-service/on-prem)
+    * [support services & sla for on-premises deployment](/legal/terms-of-service/on-prem/support)
+    * [deployment services for on-premises instances](/legal/terms-of-service/on-prem/deployment)
+  * [stack overflow business terms of service](/legal/terms-of-service/business)
+  * [api terms of use](/legal/api-terms-of-use)
+  * [privacy policy](/legal/privacy-policy)
+    * [public network](/legal/privacy-policy/public-network)
+    * [talent](/legal/privacy-policy/talent)
+    * [teams, basic](/legal/privacy-policy/teams-basic)
+    * [teams, business](/legal/privacy-policy/teams-business)
+    * [teams, enterprise](/legal/privacy-policy/teams-enterprise)
+    * [integrations](/legal/privacy-policy/integrations)
+      * [microsoft teams - teams, basic & business](/legal/privacy-policy/integrations/ms-teams/teams-basic-business)
+      * [microsoft teams - teams, enterprise](/legal/privacy-policy/integrations/ms-teams/teams-enterprise)
+      * [slack - teams, basic & business](/legal/privacy-policy/integrations/slack/teams-basic-business)
+      * [slack - teams, enterprise](/legal/privacy-policy/integrations/slack/teams-enterprise)
+      * [jira - teams, business](/legal/privacy-policy/integrations/jira/teams-business)
+      * [jira - teams, enterprise](/legal/privacy-policy/integrations/jira/teams-enterprise)
+  * [general data protection regulation (gdpr)](/legal/gdpr)
+    * [gdpr subprocessors](/legal/gdpr/subprocessors)
+  * [cookie policy](/legal/cookie-policy)
+  * [acceptable use policy](/legal/acceptable-use-policy)
+  * [trademark guidance](/legal/trademark-guidance)
+  * [contact](/legal/contact)
+
+## stack exchange, inc. [CLS] [SEP] privacy policy
+
+updated 07 february 2020
+
+about stack overflow
+
+the stack overflow network (also referred to herein as “stack overflow” or
+“network”) is a set of related internet sites and other applications for
+questions and answers, owned and operated by stack exchange, inc. [CLS] [SEP] (“stack
+overflow”, “we” or “us”), a delaware corporation. [CLS] [SEP]
+
+stack overflow welcomes you to the network, the largest community of
+developers in the world, and invites you to participate in the community by
+sharing knowledge with your peers and colleagues. [CLS] [SEP]
+
+introduction to our privacy policy
+
+this privacy policy and our related privacy notices (see below) describe how
+we collect, use, protect and share information about you that we collect when
+you use any of our products and services, our websites, or apps or otherwise
+interact with us (services). [CLS] [SEP]
+
+we have set out below, an overview of how our privacy policies work. [CLS] [SEP] depending
+on how you interact with us, we will collect and process your personal
+information as shown in the table below. [CLS] [SEP]
+
+this statement should be read together with our related privacy notices, in
+particular our [privacy notice for the public network](/legal/privacy-
+policy/public-network), [privacy notice for stack overflow teams
+basic](/legal/privacy-policy/teams-basic), [privacy notice for stack overflow
+teams business](/legal/privacy-policy/teams-business), [privacy notice for
+stack overflow teams enterprise](/legal/privacy-policy/teams-enterprise),
+[privacy notice for stack overflow talent and jobs](/legal/privacy-
+policy/talent) and our employee privacy notice. [CLS] [SEP]
+
+if you interact with us through the public network | in addition, we will
+collect and process your personal information in accordance with the [stack
+overflow privacy notice for the public network](/legal/privacy-policy/public-
+network). [CLS] [SEP]  
+---|---  
+if you are a stack overflow for teams, basic customer | in addition, we will
+collect and process your personal information in accordance with the [stack
+overflow for teams basic privacy notice](/legal/privacy-policy/teams-basic). [CLS] [SEP]  
+if you are a stack overflow for teams, business customer | in addition, we
+will collect and process your personal information in accordance with the
+[stack overflow for teams, business privacy notice](/legal/privacy-
+policy/teams-business) and any other agreement that we may have with you. [CLS] [SEP]  
+if you are a stack overflow talent customer | this statement should be read
+together with our related privacy notices, in particular our [stack overflow
+talent privacy notice](/legal/privacy-policy/talent) and any other agreement
+that we may have with you. [CLS] [SEP]  
+if you are a stack overflow for teams, enterprise customer | in addition, we
+will collect and process your personal information in accordance with the
+[stack overflow for teams, enterprise privacy notice](/legal/privacy-
+policy/teams-enterprise) and any other agreement that we may have with you. [CLS] [SEP]  
+if you visit or register with any of our websites  |  we will collect and use
+your personal information in accordance with this privacy policy and the
+privacy notice for the public website if applicable. [CLS] [SEP] in particular, we may see
+how you use our websites and what content you interact with and for how long. [CLS] [SEP]
+this may involve the use of cookies which is explained in our [cookie
+policy](/legal/cookie-policy). [CLS] [SEP]  
+if you are a supplier and you or your company provides us with goods or
+services  |  we may collect your individual contact information in order to
+communicate with you and may use other information that we need in order to
+manage our account with your business. [CLS] [SEP] we will process such data in accordance
+with this privacy policy and any other agreement that we may have with you. [CLS] [SEP]  
+if you are employed by us  |  we will process your personal information in
+accordance with our employee privacy notice. [CLS] [SEP] this will be made available to
+you internally. [CLS] [SEP]  
+  
+how we collect information from you
+
+information that you give to us
+
+in the course of providing you access to the network, as well as products and
+services, stack overflow collects and receives personal information in a few
+ways, for example, when you set up a stack overflow account or register for a
+product, newsletter or service., e.g. [CLS] [SEP] a demo or make comments on our site. [CLS] [SEP]
+often, you can choose what information to provide, but sometimes we require
+personal information from you to carry out certain activities such as account
+verification or registration. [CLS] [SEP] this section details the ways in which we
+collect information from you and how that information is received. [CLS] [SEP]
+
+information we generate or collect automatically through your use of our
+services
+
+we use cookies, which are small text files that collect and track certain
+technical information, and similar technologies to help us operate and provide
+our services to you. [CLS] [SEP] this information includes:
+
+  * information about the systems and device(s) you use to access our services, including, ip address, browser type and version, time zone setting, operating system and platform, device type, and device identifiers; 
+  * information about your visits to the websites, including the full url clickstream to, through and from the websites (including date and time); 
+  * information about your use of our mobile apps, including the information you view in our mobile apps and the date and time you view it; 
+  * information to facilitate your use of our services (including to provide access to third-party websites and services), such as url requests, destination ip addresses, or device configuration details; and 
+  * pages you view or search for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), your engagement with certain variable/dynamic elements of a page and methods used to browse away from the page. [CLS] [SEP] 
+
+more information on cookies can be found [here](/legal/cookie-policy). [CLS] [SEP]
+
+information we collect about you from third parties
+
+our products and services may also, from time to time, contain links to and
+from social media platforms. [CLS] [SEP] if you choose to connect with us through a social
+media platform, we may, through the social media platform connection, collect
+additional information from you, such as your user names, profile picture,
+contact information, contact list, and the profile pictures of your contacts. [CLS] [SEP]
+similarly, the social media platforms may collect information about your
+interaction with our products and services. [CLS] [SEP] we do not have any control of the
+collection, use and sharing of your information when using any social media
+platforms. [CLS] [SEP] you should read any associated privacy policies before using them. [CLS] [SEP]
+
+information we collect from other sources, e.g.: information from third party
+providers, information that helps us to combat fraud or that relates to your
+social interactions (including your communications via social media, between
+individuals, organisations, prospects and other stakeholders acquired from
+companies that collect combined information);
+
+we may combine the information we collect about you from the various sources
+described above. [CLS] [SEP]
+
+why we collect your information (purposes)
+
+this section explains why we collect your information and what we need it for
+(purposes). [CLS] [SEP] this is set out below, by reference to what the information is
+required for. [CLS] [SEP]
+
+we collect and process your personal information in order to offer the
+network, and to offer you our products and services. [CLS] [SEP]
+
+if you decline to provide us with personal information when we ask you, you
+may not be able to access all or some of our services and you may not be able
+to use the network or certain products and services. [CLS] [SEP] for example, if you do
+not provide us with your email address or other information required for
+account registration, we will not be able to register you for certain account
+services. [CLS] [SEP]
+
+account registration information
+
+we need to collect your personal information for account registration
+purposes. [CLS] [SEP] although the network provides for anonymous and pseudonymous
+participation, in some instances in order to use certain products or services,
+we require account registration. [CLS] [SEP] this requires a name associated with your
+account, an email address at which we can contact you, and in some cases,
+additional information including, a contact address, a billing address, and a
+password to help secure your personal information. [CLS] [SEP]
+
+profile information
+
+when completing a public “profile”, whether it is for use with the network or
+our products and services, we may require you to share certain personally
+identifying information in required and optional profile fields. [CLS] [SEP] the name
+associated with your account, which you may review and change in your account
+settings, as well as reputation points are publicly displayed and connected to
+your activity on the stack overflow network and via certain products and
+services such as our talent and teams platforms. [CLS] [SEP]
+
+other profile information may also be publicly displayed if you choose to
+complete certain elective components of the account registration options
+including, e.g., your developer story, display picture, affiliated role and
+company, your location and your preferred technologies (javascript, swift,
+sql-server, etc.), and some information is publicly displayed and required,
+such as how long you have been a member. [CLS] [SEP]
+
+similarly, you may elect to share additional information that is not required
+but this will be displayed publicly at your election. [CLS] [SEP]
+
+if you are using the private network (e.g., stack overflow for teams), your
+account settings including, name, affiliated role and company, and other
+information may be shared with your private network team members designated as
+authorized users of your private network account. [CLS] [SEP] while some of the public and
+private network profile information is required, much of it is within your
+control as we describe herein and can be modified, updated, and restricted by
+you in your profile settings. [CLS] [SEP]
+
+information we use to identify and authenticate you. [CLS] [SEP] we need this information
+to be able to recognize you, for example, when you access your accounts. [CLS] [SEP] it
+also helps us to protect your details and keep them secure. [CLS] [SEP]
+
+marketing and sales information, e.g. [CLS] [SEP] details of the services you receive and
+your preferences; information about your device or the software you use, e.g. [CLS] [SEP]
+its ip address, technical specification and uniquely identifying data; cookies
+and similar technologies we use to recognize you, remember your preferences
+and tailor the content we provide to you – our [cookie policy](/legal/cookie-
+policy) contains more details about how we use cookies . [CLS] [SEP]
+
+device and browser information received automatically
+
+when you visit the network or use our apps, stack overflow automatically
+receives and records information from your browser or mobile device, such as
+your internet protocol (ip) address or unique device identifier. [CLS] [SEP] cookies and
+data about which pages you visit on our network allow us to operate and
+optimize the products and services we provide to you. [CLS] [SEP] this information is
+stored in secure logs and is collected automatically. [CLS] [SEP]
+
+we may combine this browser information with other information we collect
+about you. [CLS] [SEP] this information is used to keep the products and services secure,
+to analyze and understand how our products and services are used, optimize
+such usage, provide advertising across the network as well as certain products
+and services to personalize your experience, and to help connect you with
+potential job opportunities in the case of our recruiting products and
+services. [CLS] [SEP]
+
+location information
+
+when you use the stack overflow network, and certain of our products and
+services, we collect location information about you including your ip address,
+your location, browser information, and how you came to the stack overflow
+network. [CLS] [SEP] this is the case for individuals who have registered for an account,
+and non-members who engage with the stack overflow network by visiting our
+website(s) but who have not completed an account registration. [CLS] [SEP]
+
+this information is collected for various purposes, including advertising,
+analytics and to serve content as it relates to certain products or services
+(e.g., talent), as well as to provide you with localized content,
+recommendations, and marketing. [CLS] [SEP] you may revoke our permission to collect some
+of this data, including your location and browser information through your
+account settings, but this may limit functionality in some cases. [CLS] [SEP] certain
+location information we collect is required for security and site
+functionality. [CLS] [SEP] we share this information with certain third-parties (e.g.,
+talent recruiters, payment processors, and advertising providers) in order to
+provide you with our products and services. [CLS] [SEP]
+
+who we share your information with
+
+we may share personal information with third parties who provide services to
+stack overflow, such as payment processors, email delivery services, software
+providers, advertising providers and when we enter into product integrations
+with software providers. [CLS] [SEP] additionally, to improve user experience, we offer
+single sign-on solutions for account login and these third parties (including
+facebook and google) may receive information from these services when you
+elect to use them. [CLS] [SEP] when stack overflow shares your personal information and
+other collected information with third party service providers, we require
+that they use your information only for the purpose of providing services to
+us and consistent with this privacy policy. [CLS] [SEP]
+
+advertising and marketing partners
+
+when you register for an account, and when you interact with stack overflow,
+e.g., when you use the public network, we and authorized third parties place
+cookies on you and your account activity as described in more detail within
+our [cookie policy](/legal/cookie-policy). [CLS] [SEP] we use this information to serve
+you certain advertising content. [CLS] [SEP] similarly, we market our products and
+services to you and communicate important information, product and other
+opportunities to you. [CLS] [SEP] if you do not wish to receive direct marketing
+communications from us, you can tell us and remove yourself from our marketing
+communications via the unsubscribe and opt out options in our email
+communications and your account settings. [CLS] [SEP] for more information on how to
+control your account settings or to opt out of direct marketing campaigns,
+please visit your profile settings. [CLS] [SEP]
+
+analytics information
+
+stack overflow uses data analytics to ensure site functionality and to
+optimize our product and service offerings to you. [CLS] [SEP] we use web browser and
+mobile analytics to allow us to understand network and apps functionality. [CLS] [SEP] in
+doing so, we record information including, for example how often you visit the
+network, how often you contribute content, network and apps performance data,
+errors and debugging information, and the type of activity you engage in while
+on the network or in your use of our products and services. [CLS] [SEP] we may on occasion
+share this information with third parties for research or product and services
+optimization. [CLS] [SEP]
+
+billing information
+
+for products and services requiring payment, we collect a billing name, phone
+number, and email address. [CLS] [SEP] we also collect a billing and shipping address for
+invoicing purposes. [CLS] [SEP] if you elect to pay by credit card, stack overflow may
+engage a third party to securely process your payment. [CLS] [SEP] all payment processing
+is done through a pci dss compliant third party. [CLS] [SEP] if customers are paying by a
+credit card, their card details are vaulted through a third-party payment
+gateway. [CLS] [SEP] stack overflow will store an encrypted token along with the last four
+digits of the credit card and the expiration month and year of the card and
+will not store or retain any other billing information about you. [CLS] [SEP]
+
+developer survey
+
+as the world’s largest developer community, stack overflow publishes an annual
+developer survey to provide key insights into the developer community, as well
+as other surveys from time to time, all of which include demographic (e.g. [CLS] [SEP]
+gender, race, age etc) and certain personal information. [CLS] [SEP] your participation in
+the developer survey as well as any other stack overflow survey is entirely
+voluntary. [CLS] [SEP] in order to provide meaningful insights into the developer
+community, stack overflow may collect sensitive data about you, including, but
+not limited to your gender, race, sexual orientation, immigration status, and
+your location. [CLS] [SEP] we consider this data to be among our most sensitive, and have
+taken elevated measures to protect such data as well as to de-identify your
+name and other personal information from such data. [CLS] [SEP] we restrict such data
+within stack overflow on a privileged basis to only those that need to see it
+and while we may share your personal information with certain third parties
+such as researchers, we do so only after imposing contractual obligations of
+confidentiality on such third parties and only where absolutely necessary for
+limited research purposes. [CLS] [SEP]
+
+when we publish our surveys, they are published as a compilation of anonymized
+data, which means that we take every effort to ensure that your information is
+understood in a statistical narrative decoupled from your personal identity. [CLS] [SEP]
+
+if you have any questions concerning the developer survey or other survey and
+our security measures to protect your sensitive personal data, please contact
+us at: privacy@stackoverflow.com. [CLS] [SEP]
+
+legal basis for processing your information
+
+we will only use your information where we have a legal basis for using it,
+for example, where we have your consent, or where we need to carry out
+processing to provide you with a service you have requested. [CLS] [SEP] this section
+describes the legal bases we rely on for processing your information,
+including when we share it with third parties. [CLS] [SEP]
+
+when you access the stack overflow network and use the products and services
+we offer, we collect, display, store, share, transmit, and process your
+information in the manner described in this policy. [CLS] [SEP]
+
+in order to carry out these activities, stack overflow may rely on the
+following legal bases in order to process your personal data:
+
+  * where you have given us consent to process the information, which you can withdraw at any time. [CLS] [SEP] 
+  * where the processing is necessary: 
+    * to carry out the contractual obligations in the terms of service or to provide the products and services you have requested 
+    * to comply with a legal obligation or to defend legal claims 
+    * to protect the public interest or vital interest of others 
+  * where it is in our legitimate interests, or that of a third party to carry out the processing. [CLS] [SEP] 
+
+whenever we rely on legitimate interests for processing, we ensure that we
+consider and balance our interests against the individual’s interests before
+processing. [CLS] [SEP] we do not use your personal data on the basis of legitimate
+interest for activities where individuals’ interests override our interests. [CLS] [SEP]
+
+where we process your information on the basis of legitimate interests, we do
+so in order to:
+
+secure your personal data and information
+
+stack overflow is committed to the safety and security of your personal data
+and the information that you share with us and with the public. [CLS] [SEP] we treat your
+personal data and safety from harassment as top organizational priorities. [CLS] [SEP] at
+stack overflow we consider it necessary to pursue these legitimate interests
+in order to keep our community, you and your information safe from spam,
+harassment, intellectual property infringement, identity theft, and the
+scraping and unlawful collection of your information. [CLS] [SEP]
+
+provide and optimize products and services
+
+we use your information to provide and improve our products and services, for
+identification, verification, to provide support, for online and offline
+marketing including through third party tools such as google analytics, and
+for general research and analytics reporting. [CLS] [SEP] in doing so, we may learn which
+of our products and services you are using most, what you’re interested in,
+and to better enable you to use and access our products and services. [CLS] [SEP] as a
+core part of our business, stack overflow has a legitimate interest in
+enabling and customizing your experience of our product and services
+offerings. [CLS] [SEP]
+
+engage in commercial transactions
+
+as part of providing our core products and services, stack overflow may charge
+you for the use of some products and services, or certain features within
+these products and services. [CLS] [SEP] in order to process your payment, and to secure
+your financial information, we may facilitate the sharing of your information
+with third parties. [CLS] [SEP] we share your information only with third parties who have
+met strict security standards and consider the secure processing of your
+financial information to be a strict and legitimate business necessity. [CLS] [SEP]
+
+comply with regulatory and legal obligations
+
+stack overflow has a legitimate interest in complying with certain legal
+obligations and interests which, from time to time, may require the disclosure
+of your personal information. [CLS] [SEP] stack overflow will not disclose your personal
+information to legal authorities except where such disclosure is by lawful
+request, including to meet legitimate national security or law enforcement
+demands (including a subpoena, court order, or other lawful legal demand by a
+legal authority with lawful jurisdiction). [CLS] [SEP] in some cases, we may also release
+your personal information to defend our legitimate legal interests. [CLS] [SEP] we
+consider our obligation to protect the stack overflow community from imminent
+physical harm to be both a legitimate business interest as well as to be
+within the public interest and may disclose your personal information if we
+believe you or another individual may be in imminent danger of harm to
+yourself or to another. [CLS] [SEP]
+
+marketing and product communications
+
+from time to time, stack overflow may communicate with you about commercial
+and other product and services offerings. [CLS] [SEP] in doing so, we provide you with an
+opportunity to opt-out of such messages at any time you choose via your
+account settings. [CLS] [SEP] stack overflow will not sell your personal information to
+enhance our marketing opportunities or profitability (except as may relate to
+a corporate event such as a sale or merger), and as we are committed to
+preventing spam, our direct marketing efforts are limited in scope and
+frequency. [CLS] [SEP] we engage in such activities as a legitimate business interest in
+order to promote key products and service offerings and provide you with every
+opportunity to unsubscribe from such communications or to further limit their
+scope and frequency. [CLS] [SEP] in short, while we want to communicate some key
+commercial communications with you and have determined it to be a legitimate
+interest for us to be able to do so, you have the final say in whether or not
+you would like to receive such commercial communications from us. [CLS] [SEP] you can
+review or change your permissions in your profile settings. [CLS] [SEP]
+
+core business operations
+
+stack overflow may engage with third parties in business transactions
+including the buying and selling of assets, the auditing of our business
+practices and financials, and to engage in business development opportunities. [CLS] [SEP]
+these core activities may involve the processing and/or disclosure of some
+limited personal information which may be necessary and within our legitimate
+interests to develop the stack overflow brand and business. [CLS] [SEP] if we transfer any
+personal information in pursuing such a business transaction, we will always
+ensure that strict confidentiality measures are in place to protect your
+privacy interests. [CLS] [SEP]
+
+your choice and control of the information we collect on you
+
+privacy is a guiding principle of all stack overflow products and services and
+we value your privacy. [CLS] [SEP] to this end, we provide you with the ability to control
+how your information is stored, and what information is collected. [CLS] [SEP] you may
+change or correct your account settings and choose not to share certain
+information by creating a pseudonymous account. [CLS] [SEP] additionally, much of the data
+we collect is voluntary and your choice entirely to provide us or not. [CLS] [SEP] you may
+also remove certain optional information that you no longer wish to be
+publicly displayed, such as your photo, or job history. [CLS] [SEP] in the event stack
+overflow decides to provide additional opt-out or opt-in mechanisms under the
+privacy shield framework, the mechanisms will be clear, conspicuous, and
+readily available for you to exercise your choice. [CLS] [SEP] and of course, should you
+wish, you may also request the permanent deletion of your account, in which
+case all personal information collected on you will be removed from our
+servers and encrypted (except, in some cases your ip address required for
+security purposes, site maintenance, and spam protection). [CLS] [SEP]
+
+we also provide you additional data control options created by the gdpr, but
+provided to the stack overflow community regardless of geographic location
+with respect to your information, including data access and portability
+(including the right to obtain and download a copy of the personal data you
+provided to stack overflow), data correction (the ability to update the
+personal data we collect and display on you, in many cases via your account
+settings), data deletion (where stack overflow will delete personal
+information stored on you, which we are not required by necessity to
+maintain), and the ability to have us stop processing your personal data (with
+certain exceptions as may be necessary). [CLS] [SEP] you may submit data requests to
+privacy@stackoverflow.com. [CLS] [SEP]
+
+please also be aware that in order to respond to data requests and provide
+data choices to you, we may need to first verify your identity. [CLS] [SEP]
+
+you may additionally control the receipt of certain marketing and advertising
+communications from stack overflow. [CLS] [SEP] some messages that we send are required,
+and related to our legal obligations, or service related and mandatory. [CLS] [SEP] other
+messages, like marketing and advertising communications are provided by us to
+let you know how you can continue to share, learn, and build your knowledge
+within the stack overflow community, and are voluntary. [CLS] [SEP] we provide you with
+the opportunity to control which voluntary (non-mandatory/required) messages
+you would like to receive in your profile settings. [CLS] [SEP]
+
+additional information we collect on you when you use specific products
+
+when you register for our services or if you or your organization set up a
+private network, we may collect some additional information in connection with
+that service or product. [CLS] [SEP] this section describes in further detail the
+information we collect on you and how we use that information broken down by
+our products and services offerings. [CLS] [SEP]
+
+click below for links to the privacy notices for each of our products and
+service offerings:
+
+[privacy notice for the public network](/legal/privacy-policy/public-network)  
+[privacy notice for stack overflow teams, basic](/legal/privacy-policy/teams-
+basic)  
+[privacy notice for stack overflow teams, business](/legal/privacy-
+policy/teams-business)  
+[privacy notice for stack overflow teams, enterprise](/legal/privacy-
+policy/teams-enterprise)  
+[privacy notice for stack overflow talent and jobs](/legal/privacy-
+policy/talent)  
+
+children
+
+stack overflow network is not intended for children and we do not knowingly
+collect personal data pertaining to children. [CLS] [SEP]
+
+cookies
+
+in order to provide the stack overflow network along with the products and
+services described in this policy, we may place cookies on you as well as
+partner with third parties including advertising partners, who may use cookies
+or other similar technologies to provide you with advertising based on your
+browsing activities and interests. [CLS] [SEP] please see our [cookie
+policy](/legal/cookie-policy) for additional information on how we use cookies
+and what third party cookies we permit. [CLS] [SEP]
+
+online and other digital advertising
+
+when you access our websites, we may use your information to provide you with
+advertising content. [CLS] [SEP]
+
+we will only process your data for any online or digital advertising on the
+basis of your informed consent, which can be withdrawn at any time, or if we
+have a legitimate interest. [CLS] [SEP]
+
+where we process your information (location)
+
+stack overflow will process your information through, or on behalf of its
+entities located in canada, the united states, the united kingdom, the eea. [CLS] [SEP] we
+may transfer your information to companies working on our behalf and to other
+third parties and agents located outside the european economic area. [CLS] [SEP]
+
+please be aware that the privacy laws and standards in certain countries
+outside the eea, including the rights of authorities to access your personal
+information, may differ from those that apply in the country in which you
+reside. [CLS] [SEP] we will transfer personal information only to countries to which we
+are permitted by law to transfer personal information and we will continue to
+ensure that your personal information is appropriately safeguarded. [CLS] [SEP] more
+information on this is provided within the policy. [CLS] [SEP]
+
+international data transfers
+
+stack overflow is a global community and as such, you may access the stack
+overflow network from almost anywhere in the world. [CLS] [SEP] when you do this, you will
+also be subject to the local laws of your jurisdiction you are accessing it
+from. [CLS] [SEP] by accessing the stack overflow network and engaging with our products
+and services, you acknowledge that your personal data may be collected and
+transferred from your local jurisdiction (including member states to the
+european union) to the united states. [CLS] [SEP]
+
+where stack overflow transfers your personal data from your local jurisdiction
+(including member states to the european union) we rely on certain lawful
+transfer mechanisms to do so, including the following lawful bases for such
+transfers:
+
+privacy shield
+
+stack overflow complies with the eu - us privacy shield framework and swiss -
+us privacy shield framework as set forth by the u.s. [CLS] [SEP] department of commerce
+regarding the collection, use and retention of personal information
+transferred from the european union and switzerland to the united states. [CLS] [SEP]
+stack overflow has certified (note: certification under legal name stack
+exchange, inc.) to the department of commerce that it adheres to the privacy
+shield principles including onward transfer principles as amended by the gdpr
+where applicable. [CLS] [SEP] stack overflow acknowledges accountability under the onward
+transfer principles of the privacy shield framework when transferring data to
+third parties. [CLS] [SEP] if there is any conflict between the terms in this privacy
+policy and the privacy shield principles, the privacy shield principles shall
+govern. [CLS] [SEP] to learn more about the privacy shield program, and to view our
+certification, please visit
+[https://www.privacyshield.gov/](https://www.privacyshield.gov). [CLS] [SEP] stack
+exchange, inc. [CLS] [SEP] is subject to the investigative and enforcement powers of the
+federal trade commission. [CLS] [SEP] under certain circumstances, you may invoke binding
+arbitration to determine, for residual claims, whether stack overflow has
+violated its privacy shield obligations, and whether any such violation
+remains fully or partially unremedied. [CLS] [SEP] stack overflow has further committed to
+refer unresolved privacy shield complaints to the privacytrust shield program,
+an alternative dispute resolution provider located in the united kingdom. [CLS] [SEP] if
+you do not receive timely acknowledgement of your complaint from stack
+overflow, or if we have not addressed your concern to your satisfaction,
+please contact us: privacy@stackoverflow.com or visit
+<https://privacytrust.com/drs/stackexchange> or at the contact information
+provided below. [CLS] [SEP]
+
+standard contractual clauses
+
+the european commission has adopted standard contractual clauses (also
+referred to as model clauses), which provide safeguards to protect the
+transfer of personal information outside of the european union. [CLS] [SEP] we may use
+these standard contractual clauses when transferring personal information
+outside of the european union. [CLS] [SEP] you may review and request a copy of such
+standard contractual clauses as used by stack overflow by contacting us at
+legal@stackoverflow.com. [CLS] [SEP]
+
+our ongoing commitment to data security
+
+security is important to us and we know it is important to you. [CLS] [SEP] stack overflow
+follows generally accepted standards to protect your personal information when
+processing, transferring, and storing your personal information including
+transport layer security (“tls”), by restricting your personal data when we do
+not need to access it and by keeping your personal data only as necessary to
+perform our legitimate business interests. [CLS] [SEP]
+
+as the data subject, you too have an important role to play in helping us
+protect your personal information. [CLS] [SEP] we encourage you to protect yourself
+against unauthorized access to your personal information by choosing a
+password carefully and in accordance with industry best standards. [CLS] [SEP] do not
+share your password with anyone you do not trust, and make sure your computer
+accesses stack overflow via a secure network and that you do not leave your
+personal information vulnerable to hackers and other bad actors by leaving
+your computer unattended or by failing to logout of your account when you have
+ended your session activity. [CLS] [SEP]
+
+direct marketing opt out
+
+you may opt-out of receiving stack overflow email marketing materials by using
+the unsubscribe link in these communications or by changing your email
+settings. [CLS] [SEP]
+
+additional information for california consumers
+
+under the california consumer privacy act (“ccpa”), we are required to notify
+california consumers about our collection, use, and disclosure of their
+personal information (whether collected through this website or offline). [CLS] [SEP]
+please see more information about this in the legal section of our website. [CLS] [SEP]
+
+privacy policy amendments
+
+we may amend or update this policy from time to time and will notify you of
+any material changes to this policy. [CLS] [SEP] previous versions of this privacy policy
+are available upon request. [CLS] [SEP]
+
+contact us
+
+general contact information
+
+privacy officer
+
+  * privacy officer, 110 william street, floor 28, new york, ny 10038, privacy@stackoverflow.com, phone: 212-232-8280 
+
+privacy shield
+
+  * privacy trust, communications house, 26 york street, london, w1u 6pz 
+
+eu representative
+
+  * privacy officer, bentima house, 168-172 old street, london ec1v 9bp, privacy@stackoverflow.com, phone: +44 (0) 20 3349 1000 
+
+last update: february 07, 2020
+
+[](https://stackoverflow.com)
+
+##### [stack overflow](https://stackoverflow.com)
+
+  * [questions](/questions)
+  * [jobs](https://stackoverflow.com/jobs)
+  * [developer jobs directory](https://stackoverflow.com/jobs/directory/developer-jobs)
+  * [salary calculator](https://stackoverflow.com/jobs/salary)
+  * [help](/help)
+  * mobile
+
+##### [products](https://stackoverflowbusiness.com)
+
+  * [teams](https://stackoverflow.com/teams)
+  * [talent](https://stackoverflow.com/talent)
+  * [advertising](https://stackoverflow.com/advertising)
+  * [enterprise](https://stackoverflow.com/enterprise)
+
+##### [company](https://stackoverflow.com/company)
+
+  * [about](https://stackoverflow.com/company)
+  * [press](https://stackoverflow.com/company/press)
+  * [work here](https://stackoverflow.com/company/work-here)
+  * [legal](https://stackoverflow.com/legal)
+  * [privacy policy](https://stackoverflow.com/legal/privacy-policy)
+  * [terms of service](https://stackoverflow.com/legal/terms-of-service)
+  * [contact us](https://stackoverflow.com/company/contact)
+
+##### [stack exchange  
+network](https://stackexchange.com)
+
+  * technology
+  * life / arts
+  * culture / recreation
+  * science
+  * other
+
+  * [stack overflow](https://stackoverflow.com "professional and enthusiast programmers")
+  * [server fault](https://serverfault.com "system and network administrators")
+  * [super user](https://superuser.com "computer enthusiasts and power users")
+  * [web applications](https://webapps.stackexchange.com "power users of web applications")
+  * [ask ubuntu](https://askubuntu.com "ubuntu users and developers")
+  * [webmasters](https://webmasters.stackexchange.com "pro webmasters")
+  * [game development](https://gamedev.stackexchange.com "professional and independent game developers")
+
+  * [tex - latex](https://tex.stackexchange.com "users of tex, latex, context, and related typesetting systems")
+  * [software engineering](https://softwareengineering.stackexchange.com "professionals, academics, and students working within the systems development life cycle")
+  * [unix & linux](https://unix.stackexchange.com "users of linux, freebsd and other un*x-like operating systems")
+  * [ask different (apple)](https://apple.stackexchange.com "power users of apple hardware and software")
+  * [wordpress development](https://wordpress.stackexchange.com "wordpress developers and administrators")
+  * [geographic information systems](https://gis.stackexchange.com "cartographers, geographers and gis professionals")
+  * [electrical engineering](https://electronics.stackexchange.com "electronics and electrical engineering professionals, students, and enthusiasts")
+
+  * [android enthusiasts](https://android.stackexchange.com "enthusiasts and power users of the android operating system")
+  * [information security](https://security.stackexchange.com "information security professionals")
+  * [database administrators](https://dba.stackexchange.com "database professionals who wish to improve their database skills and learn from others in the community")
+  * [drupal answers](https://drupal.stackexchange.com "drupal developers and administrators")
+  * [sharepoint](https://sharepoint.stackexchange.com "sharepoint enthusiasts")
+  * [user experience](https://ux.stackexchange.com "user experience researchers and experts")
+  * [mathematica](https://mathematica.stackexchange.com "users of wolfram mathematica")
+
+  * [salesforce](https://salesforce.stackexchange.com "salesforce administrators, implementation experts, developers and anybody in-between")
+  * [expressionengine® answers](https://expressionengine.stackexchange.com "administrators, end users, developers and designers for expressionengine® cms")
+  * [stack overflow em portugues](https://pt.stackoverflow.com "programadores profissionais e entusiastas")
+  * [blender](https://blender.stackexchange.com "people who use blender to create 3d graphics, animations, or games")
+  * [network engineering](https://networkengineering.stackexchange.com "network engineers")
+  * [cryptography](https://crypto.stackexchange.com "software developers, mathematicians and others interested in cryptography")
+  * [code review](https://codereview.stackexchange.com "peer programmer code reviews")
+
+  * [magento](https://magento.stackexchange.com "users of the magento e-commerce platform")
+  * [software recommendations](https://softwarerecs.stackexchange.com "people seeking specific software recommendations")
+  * [signal processing](https://dsp.stackexchange.com "practitioners of the art and science of signal, image and video processing")
+  * [emacs](https://emacs.stackexchange.com "those using, extending or developing emacs")
+  * [raspberry pi](https://raspberrypi.stackexchange.com "users and developers of hardware and software for raspberry pi")
+  * [stack overflow на русском](https://ru.stackoverflow.com "программистов")
+  * [code golf](https://codegolf.stackexchange.com "programming puzzle enthusiasts and code golfers")
+
+  * [stack overflow en español](https://es.stackoverflow.com "programadores y profesionales de la informática")
+  * [ethereum](https://ethereum.stackexchange.com "users of ethereum, the decentralized application platform and smart contract enabled blockchain")
+  * [data science](https://datascience.stackexchange.com "data science professionals, machine learning specialists, and those interested in learning more about the field")
+  * [arduino](https://arduino.stackexchange.com "developers of open-source hardware and software that is compatible with arduino")
+  * [bitcoin](https://bitcoin.stackexchange.com "bitcoin crypto-currency enthusiasts")
+  * [software quality assurance & testing](https://sqa.stackexchange.com "software quality control experts, automation engineers, and software testers")
+  * [sound design](https://sound.stackexchange.com "sound engineers, producers, editors, and enthusiasts")
+
+  * [windows phone](https://windowsphone.stackexchange.com "enthusiasts and power users of windows phone os")
+  * [ **more (28)** ](https://stackexchange.com/sites#technology)
+
+  * [photography](https://photo.stackexchange.com "professional, enthusiast and amateur photographers")
+  * [science fiction & fantasy](https://scifi.stackexchange.com "science fiction and fantasy enthusiasts")
+  * [graphic design](https://graphicdesign.stackexchange.com "graphic design professionals, students, and enthusiasts")
+  * [movies & tv](https://movies.stackexchange.com "movie and tv enthusiasts")
+  * [music: practice & theory](https://music.stackexchange.com "musicians, students, and enthusiasts")
+  * [worldbuilding](https://worldbuilding.stackexchange.com "writers/artists using science, geography and culture to construct imaginary worlds and settings")
+  * [video production](https://video.stackexchange.com "engineers, producers, editors, and enthusiasts spanning the fields of video, and media creation")
+
+  * [seasoned advice (cooking)](https://cooking.stackexchange.com "professional and amateur chefs")
+  * [home improvement](https://diy.stackexchange.com "contractors and serious diyers")
+  * [personal finance & money](https://money.stackexchange.com "people who want to be financially literate")
+  * [academia](https://academia.stackexchange.com "academics and those enrolled in higher education")
+  * [law](https://law.stackexchange.com "legal professionals, students, and others with experience or interest in law")
+  * [physical fitness](https://fitness.stackexchange.com "physical fitness professionals, athletes, trainers, and those providing health-related needs")
+  * [gardening & landscaping](https://gardening.stackexchange.com "gardeners and landscapers")
+
+  * [parenting](https://parenting.stackexchange.com "parents, grandparents, nannies and others with a parenting role")
+  * [ **more (10)** ](https://stackexchange.com/sites#lifearts)
+
+  * [english language & usage](https://english.stackexchange.com "linguists, etymologists, and serious english language enthusiasts")
+  * [skeptics](https://skeptics.stackexchange.com "scientific skepticism")
+  * [mi yodeya (judaism)](https://judaism.stackexchange.com "those who base their lives on jewish law and tradition and anyone interested in learning more")
+  * [travel](https://travel.stackexchange.com "road warriors and seasoned travelers")
+  * [christianity](https://christianity.stackexchange.com "committed christians, experts in christianity and those interested in learning more")
+  * [english language learners](https://ell.stackexchange.com "speakers of other languages learning english")
+  * [japanese language](https://japanese.stackexchange.com "students, teachers, and linguists wanting to discuss the finer points of the japanese language")
+
+  * [chinese language](https://chinese.stackexchange.com "students, teachers, and linguists wanting to discuss the finer points of the chinese language")
+  * [french language](https://french.stackexchange.com "students, teachers, and linguists wanting to discuss the finer points of the french language")
+  * [german language](https://german.stackexchange.com "speakers of german wanting to discuss the finer points of the language and translation")
+  * [biblical hermeneutics](https://hermeneutics.stackexchange.com "professors, theologians, and those interested in exegetical analysis of biblical texts")
+  * [history](https://history.stackexchange.com "historians and history buffs")
+  * [spanish language](https://spanish.stackexchange.com "linguists, teachers, students and spanish language enthusiasts in general wanting to discuss the finer points of the language")
+  * [islam](https://islam.stackexchange.com "muslims, experts in islam, and those interested in learning more about islam")
+
+  * [русский язык](https://rus.stackexchange.com "лингвистов и энтузиастов русского языка")
+  * [russian language](https://russian.stackexchange.com "students, teachers, and linguists wanting to discuss the finer points of the russian language")
+  * [arqade (gaming)](https://gaming.stackexchange.com "passionate videogamers on all platforms")
+  * [bicycles](https://bicycles.stackexchange.com "people who build and repair bicycles, people who train cycling, or commute on bicycles")
+  * [role-playing games](https://rpg.stackexchange.com "gamemasters and players of tabletop, paper-and-pencil role-playing games")
+  * [anime & manga](https://anime.stackexchange.com "anime and manga fans")
+  * [puzzling](https://puzzling.stackexchange.com "those who create, solve, and study puzzles")
+
+  * [motor vehicle maintenance & repair](https://mechanics.stackexchange.com "mechanics and diy enthusiast owners of cars, trucks, and motorcycles")
+  * [board & card games](https://boardgames.stackexchange.com "people who like playing board games, designing board games or modifying the rules of existing board games")
+  * [bricks](https://bricks.stackexchange.com "lego® and building block enthusiasts")
+  * [homebrewing](https://homebrew.stackexchange.com "dedicated home brewers and serious enthusiasts")
+  * [martial arts](https://martialarts.stackexchange.com "students and teachers of all martial arts")
+  * [the great outdoors](https://outdoors.stackexchange.com "people who love being outdoors enjoying nature and wilderness, and learning about the required skills and equipment")
+  * [poker](https://poker.stackexchange.com "serious players and enthusiasts of poker")
+
+  * [chess](https://chess.stackexchange.com "serious players and enthusiasts of chess")
+  * [sports](https://sports.stackexchange.com "participants in team and individual sport activities")
+  * [ **more (16)** ](https://stackexchange.com/sites#culturerecreation)
+
+  * [mathoverflow](https://mathoverflow.net "professional mathematicians")
+  * [mathematics](https://math.stackexchange.com "people studying math at any level and professionals in related fields")
+  * [cross validated (stats)](https://stats.stackexchange.com "people interested in statistics, machine learning, data analysis, data mining, and data visualization")
+  * [theoretical computer science](https://cstheory.stackexchange.com "theoretical computer scientists and researchers in related fields")
+  * [physics](https://physics.stackexchange.com "active researchers, academics and students of physics")
+  * [chemistry](https://chemistry.stackexchange.com "scientists, academics, teachers, and students in the field of chemistry")
+  * [biology](https://biology.stackexchange.com "biology researchers, academics, and students")
+
+  * [computer science](https://cs.stackexchange.com "students, researchers and practitioners of computer science")
+  * [philosophy](https://philosophy.stackexchange.com "those interested in the study of the fundamental nature of knowledge, reality, and existence")
+  * [linguistics](https://linguistics.stackexchange.com "professional linguists and others with an interest in linguistic research and theory")
+  * [psychology & neuroscience](https://psychology.stackexchange.com "practitioners, researchers, and students in cognitive science, psychology, neuroscience, and psychiatry")
+  * [computational science](https://scicomp.stackexchange.com "scientists using computers to solve scientific problems")
+  * [ **more (10)** ](https://stackexchange.com/sites#science)
+
+  * [meta stack exchange](https://meta.stackexchange.com "meta-discussion of the stack exchange family of q&a websites")
+  * [stack apps](https://stackapps.com "apps, scripts, and development with the stack exchange api")
+  * [api](https://api.stackexchange.com "programmatic interaction with stack exchange sites")
+  * [data](https://data.stackexchange.com "querying stack exchange data using sql")
+
+  * [blog](https://stackoverflow.blog?blb=1)
+  * [facebook](https://www.facebook.com/officialstackoverflow/)
+  * [twitter](https://twitter.com/stackoverflow)
+  * [linkedin](https://linkedin.com/company/stack-overflow)
+  * [instagram](https://www.instagram.com/thestackoverflow)
+
+site design / logo (c) 2021 stack exchange inc; user contributions licensed
+under [cc by-sa](https://stackoverflow.com/help/licensing). [CLS] [SEP] rev
+2021.2.26.38670
+
+stack overflow works best with javascript enabled
+![](https://pixel.quantserve.com/pixel/p-c1rf4kxgluznc.gif)
+

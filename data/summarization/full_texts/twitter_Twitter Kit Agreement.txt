@@ -1,0 +1,527 @@
+developer terms
+
+##  twitter kit agreement
+
+effective: january 27, 2016
+
+please read this agreement carefully. [CLS] [SEP] by clicking the agree or get started
+button or by accessing or using the twitter kit technology, you agree to be
+bound by the terms of this agreement. [CLS] [SEP] if you do not agree to all the terms of
+this agreement, you may not access or use the twitter kit technology. [CLS] [SEP]
+
+if you are based in the united states, then this twitter kit agreement (â
+**agreement** â) is entered into by you (â **developer** âorâ â
+**you** â) and twitter, inc., 1355 market street, suite 900, san francisco,
+ca 94103 u.s.a. [CLS] [SEP] if you are based outside the united states, then this
+agreement is entered into by you and twitter international company (â
+**tic** â), an irish company with its registered office at the academy, 42
+pearse street, dublin 2, ireland. [CLS] [SEP] hereinafterâ â **twitter** ââ means
+twitter, inc. [CLS] [SEP] if you are based in the united states; otherwise it means tic. [CLS] [SEP]
+
+this agreement governs your access and use of the twitter kit technology
+(defined below). [CLS] [SEP] if you are accessing or using the twitter kit technology on
+behalf of a company or other legal entity, you represent and warrant that you
+are an authorized representative of that entity and have the authority to bind
+such entity to this agreement, in which case the termsâ â **developer** ââ
+andâ â **you** ââ shall refer to such entity. [CLS] [SEP] you and twitter hereby agree
+as follows:
+
+##### 1\. [CLS] [SEP] definitions
+
+in addition to terms defined elsewhere in this agreement, the terms set forth
+immediately below have the following meanings. [CLS] [SEP]
+
+â **application** ââ means any mobile application of developer into which
+twitter kit may be integrated. [CLS] [SEP]
+
+â **content** ââ means any material published via any twitter service,
+persistent identifiers associated with such material, profile information
+about users of any twitter service, and any other material or information made
+available by twitter via twitter kit. [CLS] [SEP]
+
+â **developer terms** ââ means the twitter developer agreement located atâ
+[/en/developer-terms/agreement](/en/developer-terms/agreement "developer
+agreement")â and the twitter developer policy located atâ [/en/developer-
+terms/policy](/en/developer-terms/policy "developer policy"), and all terms
+and conditions incorporated by reference therein. [CLS] [SEP]
+
+â **documentation** ââ means the documentation, instructions, user guides,
+and other documents made available by twitter that relate to twitter kit. [CLS] [SEP]
+
+â **end user** ââ means any end user of any twitter kit application. [CLS] [SEP]
+
+â **end user data** ââ means any data received by twitter about any end
+user or end user device via any twitter kit application, including the name
+and app store identifier of such twitter kit application, the bundle
+identifier and build version of that application, full ip addresses,
+timestamps, unique device identifiers (e.g. [CLS] [SEP] idfa (ios), advertising id
+(android), and android id (android)), device operating system and version
+number, device model name, any twitter service usernames, phone numbers,
+address book contact information, and specific event data (such as
+authentication attempts, impressions, and other end user interactions with
+twitter kit services). [CLS] [SEP]
+
+â **term** ââ means the term of this agreement, which commences on the
+date upon which you enter into this agreement and continues until terminated
+by you or twitter. [CLS] [SEP]
+
+â **twitter api** ââ means any twitter application programming interface
+(â **api** â) included within twitter kit and the related documentation,
+data, code, and other materials provided by twitter with such api, including
+any modifications or updates thereto. [CLS] [SEP]
+
+â **twitter service** ââ means any of twitterâs web sites and online
+services, including without limitation, online services offered by twitter
+viaâ [https://twitter.com](https://twitter.com/)â and any mobile application
+of twitter. [CLS] [SEP]
+
+â **twitter kit** ââ means the twitter software development kit made
+available for applications that enables access to twitter kit services,
+including any twitter api or other software, data, code, and other materials
+included therein, and any updates or modifications thereto. [CLS] [SEP]
+
+â **twitter kit application** ââ means any application into which twitter
+kit has been integrated. [CLS] [SEP]
+
+â **twitter kit services** ââ means any features or functionality made
+available by twitter via a twitter kit application, including any native
+content embedding, twitter account authentication, or other functionality. [CLS] [SEP]
+
+â **twitter kit technology** ââ means twitter kit, twitter kit services,
+and documentation. [CLS] [SEP]
+
+â **usage data** ââ means all information and data, not including any end
+user data, received by twitter in connection with developerâs access and use
+of the twitter kit technology, including without limitation uptime,
+reliability, traffic, network quality, and other developer usage statistics
+related to the twitter kit technology. [CLS] [SEP]
+
+##### 2\. [CLS] [SEP] licenses; restrictions
+
+**2.1 license grant.** â subject to developerâs compliance with the terms
+and conditions of this agreement (as a condition to the grants below), twitter
+grants developer, and developer accepts, a personal, nonexclusive, non-
+transferable, non-sublicensable and revocable license, during the term, to:
+(a) reproduce, install and use twitter kit solely for the purpose of enabling
+the provision of twitter kit services via an application; (b) reproduce,
+install, modify, and use the source code from twitter kit that is expressly
+identified by twitter in the documentation as sample code (â **sample code**
+â) solely for the purpose of enabling the provision of twitter kit services
+via an application; (c) incorporate twitter kit, including any sample code,
+into any of its applications and distribute (in object form only) twitter kit,
+including any sample code, solely as incorporated within a twitter kit
+application; and (d) make and use a reasonable number of copies of any
+documentation solely as necessary to exercise any of the licenses or rights
+granted to developer under this agreement. [CLS] [SEP]
+
+**2.2 restrictions.** â developer shall not directly or indirectly: (a) modify
+or create any derivative works of any component of any twitter kit technology
+(except as permitted in section 2.1(b)); (b) work around any technical
+limitations in the twitter kit technology or use the twitter kit technology in
+an attempt to, or in conjunction with any device, program, or service designed
+to, circumvent technical measures employed to control access to, or the rights
+in, a content, file, or other work; (c) reverse engineer, decompile, decipher,
+translate, disassemble or otherwise attempt to access source code of any
+twitter kit technology (except as permitted in section 2.1(b) and unless, and
+only to the extent that, the foregoing restriction is prohibited by applicable
+law); (d) publish, rent, lease, lend, sell, sublicense, distribute (except as
+permitted in section 2.1(c)), transfer, disclose, or otherwise make any
+twitter kit technology available to any third party; (e) provide use of the
+twitter kit technology on a service bureau, rental or managed services basis
+or permit other individuals or entities to create internet âlinksâ to the
+twitter kit technology or âframeâ or âmirrorâ the twitter kit
+technology on any other server, or wireless or internet-based device; (f)
+remove or alter any proprietary notices or labels on or in any twitter kit
+technology; (g) use any twitter kit technology in connection with the
+development or transmission of any virus, worms or malicious code; (h) use any
+twitter kit technology to infringe the rights of twitter or any third party,
+or in any way that does not comply with all applicable laws; or (i) use any
+twitter kit technology (including to create any application) in any way that
+interferes with, disrupts, damages, or accesses in an unauthorized manner the
+servers, networks, or other properties or services of twitter or any third
+party, including any mobile communications carrier. [CLS] [SEP]
+
+##### 3\. [CLS] [SEP] updates
+
+developer acknowledges that twitter may update or modify any component of the
+twitter kit technology at any time and in its sole discretion without prior
+notice to developer. [CLS] [SEP] developer acknowledges that future versions of twitter
+kit may be incompatible with applications developed using previous versions of
+twitter kit, which may adversely affect the manner in which developer accesses
+or communicates with twitter kit. [CLS] [SEP] twitter may provision any updates to twitter
+kit automatically or it may prompt developer to install such updates. [CLS] [SEP] if
+twitter prompts developer to install an updated version of twitter kit (â
+**updated version** â), the license granted under section 2.1 of this
+agreement (â **license** â) with respect to any previous version of
+twitter kit (â **previous version** â) will be revoked upon release of
+such updated version and developer will immediately discontinue all use of,
+and delete, such previous version unless such previous version has been
+incorporated within a twitter kit application that developer (a) has publicly
+distributed via an app store as of the date on which twitter released the
+updated version (â **release date** â), (b) has already submitted to an
+app store for distribution approval as of the release date, or (c) submits to
+an app store for distribution approval within fourteen (14) days of the
+release date. [CLS] [SEP] notwithstanding the foregoing, twitter reserves the right, at
+any time, to revoke the license to any previous version, regardless of the
+foregoing conditions, in which case developer shall immediately discontinue
+all use of, and delete, such previous version. [CLS] [SEP]
+
+##### 4\. [CLS] [SEP] security
+
+developer is fully responsible for all of its twitter kit applications,
+including for maintaining the security of all such twitter kit applications. [CLS] [SEP]
+developer will use industry standard security measures to prevent unauthorized
+access or use of any of the features and functionality of all such twitter kit
+applications, including access by viruses, worms, or any other harmful code or
+material. [CLS] [SEP] developer will immediately notify twitter if developer knows of or
+suspects any breach of security or potential vulnerability of any such
+application that may damage, interfere with or otherwise impact the twitter
+kit technology or any content. [CLS] [SEP] developer will promptly remedy such breach or
+potential vulnerability. [CLS] [SEP]
+
+##### 5\. [CLS] [SEP] compliance
+
+developer shall comply with (a) all applicable laws, rules, and regulations,
+(b) all instructions and requirements set forth in any applicable
+documentation, and (c) any applicable third-party terms, including any third-
+party terms applicable to developerâs development and distribution of its
+application via any relevant operating system platform. [CLS] [SEP] developer will not,
+directly or indirectly, export or re-export, or knowingly permit the export or
+re-export of, twitter kit or technical information obtained under this
+agreement, including without limitation any documentation: (y) without
+compliance with all laws applicable to the export or re-export of twitter kit
+or technical information obtained under this agreement, or (z) to any country
+to which the united states export administration act, any regulation
+thereunder, or any similar united states law or regulation, prohibits the
+export or re-export of twitter kit and/or technical information. [CLS] [SEP]
+
+##### 6\. [CLS] [SEP] additional terms
+
+**6.1 developer terms.** â the developer terms are hereby incorporated by
+reference and are part of this agreement. [CLS] [SEP] in the event of a conflict between
+the developer terms and this agreement, this agreement shall control. [CLS] [SEP]
+developer will comply with the developer terms, as may be modified by twitter
+from time to time, including without limitation any applicable terms related
+to developerâs access and use of content or twitter kit services. [CLS] [SEP]
+
+##### 7\. [CLS] [SEP] end users
+
+  1. [CLS] [SEP] developer shall maintain and comply with a privacy policy that (i) is conspicuously posted from all twitter kit applications and other services from which end user data are collected and/or made available to twitter (whether through the twitter kit technology or otherwise)í¾ (ii) complies with all applicable laws and regulationsí¾ (iii) fully and accurately discloses to end users what information is collected about them, including without limitation end user data, and how any of such information is used and shared by developerí¾ (iv) fully and accurately discloses to end users that third parties such as twitter may collect and use end user data to improve their products and services and for analytics purposesí¾ and (v) fully and accurately discloses that third parties such as twitter may disclose aggregated end user data. [CLS] [SEP] for developerâs users in the european union, developer shall provide such users with clear notice of, and obtain such usersâ consent to, the transfer, storage, and use of their information in the united states, ireland, and any other country where twitter operates, and shall further notify such users that the privacy and data protection laws in some of these countries may vary from the laws in the country where such users live. [CLS] [SEP]
+  2. [CLS] [SEP] developer shall not integrate twitter kit into any application (i) with end users who developer has actual knowledge are under the age of 13, or (ii) that may be deemed to be a âweb site or online service directed to childrenâ as defined under the childrenâs online privacy protection act of 1998 and the regulations promulgated thereunder. [CLS] [SEP]
+
+##### 8\. [CLS] [SEP] developer feedback
+
+from time to time, twitter may solicit from developer or developer may
+provide, in its sole discretion, suggestions for changes, modifications, or
+improvements or any other feedback related to any twitter kit technology or
+twitter (collectively,â â **developer feedback** â). [CLS] [SEP] all developer
+feedback shall be solely owned by twitter (including all intellectual property
+rights therein and thereto) and shall also be deemed twitterâs confidential
+information. [CLS] [SEP] developer hereby assigns all of its right, title, and interest in
+and to any developer feedback to twitter and acknowledges and agrees that
+twitter has the unrestricted right to use and exploit such developer feedback
+in any manner, without attribution, and without any obligations or
+compensation to developer. [CLS] [SEP]
+
+##### 9\. [CLS] [SEP] data processing
+
+**9.1 consent to data processing and transfer.** â irrespective of which
+country developer is based in, developer authorizes twitter to use its
+information (including without limitation usage data) in, and as a result to
+transfer it to and store it in, the united states, ireland, and any other
+country where twitter, or any third-party service providers acting on its
+behalf, operate. [CLS] [SEP] privacy and data protection laws in some of these countries
+may vary from the laws in the country where developer is based. [CLS] [SEP]
+
+**9.2 data processing by twitter, inc.** â some of the content that developer
+may access and use under this agreement may comprise user data controlled by
+tic. [CLS] [SEP] tic has authorized twitter, inc. [CLS] [SEP] to provide this access and use to the
+extent that it occurs pursuant to this agreement. [CLS] [SEP] to the extent that twitter,
+inc. [CLS] [SEP] acquires and processes any personal data about end users who live outside
+the united states, twitter, inc. [CLS] [SEP] shall at all times act as a data processor on
+behalf of tic, the data controller of this data. [CLS] [SEP]
+
+##### 10\. [CLS] [SEP] developer systems
+
+developer is solely responsible for providing all modems, servers, devices,
+storage, software, databases, network and communications equipment, and
+ancillary services needed to connect to, access or otherwise use the twitter
+kit technology (collectively,â â **developer systems** â). [CLS] [SEP] developer shall
+ensure that developer systems are compatible with any twitter kit technology
+and comply with all configurations and specifications described in the
+applicable documentation. [CLS] [SEP]
+
+##### 11\. [CLS] [SEP] suspension; discontinuance
+
+twitter reserves the right to discontinue or suspend (permanently or
+temporarily) the twitter kit technology or any features or portions thereof
+without prior notice. [CLS] [SEP] twitter will not be liable for any suspension or
+discontinuance of the twitter kit technology or any part thereof. [CLS] [SEP]
+
+##### 12\. [CLS] [SEP] confidentiality
+
+12.1â â **confidential information** ââ means any information disclosed by
+one party (â **discloser** â) to the other party (â **recipient** â)
+that is marked or otherwise identified as âconfidentialâ or
+âproprietary,â or by its nature or the circumstances of disclosure should
+reasonably be understood to be confidential. [CLS] [SEP] in particular, confidential
+information shall include the twitter kit technology and all related
+information, but does not include usage data or end user data. [CLS] [SEP] recipient may
+use the confidential information only as necessary in fulfilling its
+obligations or exercising its rights under this agreement. [CLS] [SEP] recipient may not
+disclose any confidential information to any third party without discloserâs
+prior written consent. [CLS] [SEP] recipient will protect confidential information from
+unauthorized use, access, and disclosure in the same manner that it protects
+its own confidential and proprietary information of a similar nature, but in
+no event with less than a reasonable degree of care. [CLS] [SEP] promptly upon
+discloserâs request at any time, recipient shall return all tangible
+confidential information, and/or permanently erase all confidential
+information from any storage media and destroy all information, records,
+copies, summaries, analyses, and materials developed therefrom. [CLS] [SEP]
+
+**12.2 limitations.â** the foregoing obligations shall not apply to any
+information that recipient can demonstrate is (a) already known by it without
+restriction, (b) rightfully furnished to it without restriction by a third
+party not in breach of any obligation of this agreement or any other
+applicable confidentiality obligation or agreement, (c) generally available to
+the public without breach of this agreement or wrongdoing by any party, or (d)
+independently developed by it without reference to or use of any information
+deemed confidential under this section and without any violation of any
+obligation of this agreement. [CLS] [SEP] recipient shall be responsible for any breach of
+confidentiality by its employees, contractors, and agents, as applicable. [CLS] [SEP]
+nothing herein shall prevent recipient from disclosing any confidential
+information as necessary pursuant to any court order or any legal, regulatory,
+law enforcement, or similar requirement or investigation; provided, however,
+prior to any such disclosure, recipient shall use reasonable efforts to
+promptly notify discloser in writing of such requirement to disclose where
+permitted by law and
+
+##### 13\. [CLS] [SEP] ownership; reservation of rights
+
+twitter retains all right, title, and interest in and to all usage data. [CLS] [SEP]
+developer acknowledges and agrees that twitter may use usage data for its own
+business purposes, including without limitation analyzing developerâs
+installation, use of, and engagement with, and the functionality of the
+services, as well as improving the functionality of the services and other
+products and services offered or developed by twitter, and may share such
+usage data with third-party service providers to assist with or conduct such
+activities on twitterâs behalf. [CLS] [SEP] twitter and its suppliers own all right,
+title, interest, copyright, and other intellectual property rights in the
+twitter kit technology (and any derivative works and enhancements thereof
+developed by or on behalf of twitter) and reserve all rights not expressly
+granted to developer in this agreement. [CLS] [SEP] the twitter kit technology (and any
+derivative works and enhancements thereof developed by or on behalf of
+twitter) are protected by copyright and other intellectual property laws and
+treaties. [CLS] [SEP] the twitter kit technology is licensed as set forth in section 2,
+not sold. [CLS] [SEP]
+
+##### 14\. [CLS] [SEP] representations and warranties
+
+  1. [CLS] [SEP] twitter represents and warrants that it has full right, power, and authority to enter into this agreement and to perform its obligations and duties under this agreement, and that the performance of such obligations and duties does not conflict with or result in a breach of any other agreement of twitter, or any judgment, order, or decree by which such party is bound. [CLS] [SEP] developerâs sole and exclusive remedy for any and all breaches of this provision is the remedy set forth in section 16.1. [CLS] [SEP]
+  2. [CLS] [SEP] developer represents and warrants to twitter that: (i) the twitter kit applications do not and will not infringe any intellectual property or other proprietary right of any third party or violate any right of or duty owed to any third party (including contract rights, privacy rights, and publicity rights); and (ii) the twitter kit applications and developerâs performance under this agreement (including use of the twitter kit technology) do not and will not violate any applicable law, rule, or regulation. [CLS] [SEP]
+
+##### 15\. [CLS] [SEP] twitter disclaimers
+
+the twitter kit technology is provided âas isâ, âas availableâ, with
+all faults and without warranty of any kind. [CLS] [SEP] without limiting the foregoing,
+twitter and its parents, subsidiaries, affiliates, related companies,
+officers, directors, employees, agents, representatives, partners, and
+licensors (collectively, theâ â **twitter entities** â) make no
+representation or warranty (i) that the twitter kit technology or results
+therefrom will meet developerâs requirements or be uninterrupted, error-
+free, or bug-free, (ii) regarding the reliability, timeliness, or performance
+of the twitter kit technology, or (iii) that any errors in the twitter kit
+technology can or will be corrected. [CLS] [SEP] the twitter entities hereby disclaim all
+warranties, whether express or implied, oral or written, including without
+limitation, all implied warranties of non-infringement, merchantability,
+title, or fitness for any particular purpose, and all warranties arising from
+any course of dealing, course of performance, or usage of trade. [CLS] [SEP]
+
+##### 16\. [CLS] [SEP] indemnification
+
+16.1 claims against developer.â twitter will defend the developer from all
+third party claims, actions, suits, or proceedings, whether actual or alleged
+(collectively,â â **developer claims** â), and will indemnify developer
+and hold developer harmless from any and all losses, liabilities, damages,
+costs, and expenses (including reasonable attorneyâs fees) resulting from
+such developer claims, that arise out of an allegation that the twitter kit
+technology, when used as expressly permitted by this agreement, infringes the
+intellectual property rights of such third party. [CLS] [SEP] notwithstanding the
+foregoing, twitter will have no obligation under this section 16.1 or
+otherwise with respect to any infringement claim based upon: (a) any use of
+the twitter kit technology not expressly permitted under this agreementí¾ (b)
+any use of the twitter kit technology in combination with products, equipment,
+software, or data not made available by twitter if such infringement would
+have been avoided without the combination with such other products, equipment,
+software, or dataí¾ (c) any modification of the twitter kit technology by any
+person other than twitter or its authorized agents or subcontractorsí¾ or (d)
+any claim not clearly based on the twitter kit technology itself. [CLS] [SEP] this section
+16.1 states twitterâs entire liability and developerâs sole and exclusive
+remedy for all third party claims. [CLS] [SEP]
+
+**16.2 claims against twitter.** â developer will defend twitter from all
+third party claims, actions, suits, or proceedings, whether actual or alleged
+(collectively,â â **twitter claims** â) and will indemnify twitter and
+hold twitter harmless from any and all losses, liabilities, damages, costs,
+and expenses (including reasonable attorneyâs fees) resulting from such
+twitter claims, that arise out of developerâs (a) access or use of the
+twitter kit technology; (b) actual or alleged infringement, misappropriation,
+or violation of the rights of any third party, including without limitation
+any intellectual property rights, privacy rights, or publicity rights; and (c)
+breach of any term of this agreement, including without limitation
+developerâs representations and warranties set forth in section 14 above. [CLS] [SEP]
+developer is solely responsible for defending any such twitter claims, subject
+to twitterâs right to participate with counsel of its own choosing, and for
+payment of all judgments, settlements, damages, losses, liabilities, costs,
+and expenses, including reasonable attorneysâ fees, resulting from such
+twitter claims, provided that developer will not agree to any settlement
+related to any such twitter claims without twitterâs prior express written
+consent regardless of whether or not such settlement releases twitter from any
+obligation or liability. [CLS] [SEP] if developer uses the twitter kit technology in an
+official capacity as an employee or representative of a united states federal,
+state or local government entity and is legally unable to accept this
+indemnification provision, then it does not apply to such entity, but only to
+the extent as required by applicable law. [CLS] [SEP]
+
+**16.3 procedure.â** the foregoing obligations are conditioned on the party
+seeking indemnification: (a) promptly notifying the other party in writing of
+such claim; (b) giving the other party sole control of the defense thereof and
+any related settlement negotiations; and (c) cooperating and, at other
+partyâs request and expense, assisting in such defense. [CLS] [SEP] neither party may
+make any public announcement of any claim, defense or settlement without the
+other partyâs prior written approval. [CLS] [SEP] the indemnifying party may not settle,
+compromise or resolve a claim without the consent of the indemnified party, if
+such settlement, compromise or resolution (x) causes or requires an admission
+or finding of guilt against the indemnified party, (y) imposes any monetary
+damages against the indemnified party, or (z) does not fully release the
+indemnified party from liability with respect to the claim. [CLS] [SEP]
+
+##### 17\. [CLS] [SEP] limitation of liability
+
+  1. [CLS] [SEP] in no event will either party be liable to the other for any indirect, special, incidental, exemplary, punitive or consequential damages arising out of or in connection with this agreement, or for any damages associated with any loss of use, business, profits, or goodwill, or for interruption, loss or corruption of data or networks. [CLS] [SEP]
+  2. [CLS] [SEP] in no event will either partyâs aggregate liability for any and all claims under this agreement exceed fifty($50.00) dollars (usd). [CLS] [SEP]
+  3. [CLS] [SEP] the foregoing limitations shall not apply to breaches of confidentiality obligations or for misappropriation or infringement of intellectual property rights, and shall apply notwithstanding the failure of any remedy provided herein. [CLS] [SEP] the foregoing limitations, exclusions and disclaimers shall apply to any and all claims, regardless of whether such liability arises from any claim based upon contract, warranty, tort (including negligence), strict liability or otherwise, and whether or not the party has been advised of the possibility of such loss or damage
+
+some states do not allow the exclusion or limitation of incidental or
+consequential damages, so the above limitation or exclusion may not apply to
+you. [CLS] [SEP] insofar as applicable law prohibits any limitation on liability herein,
+the parties agree that such limitation will be automatically modified, but
+only to the extent so as to make the limitation compliant with applicable law. [CLS] [SEP]
+
+##### 18\. [CLS] [SEP] termination
+
+either party may terminate this agreement with or without cause immediately
+upon providing notice to the other party. [CLS] [SEP] upon any termination of this
+agreement, (a) developer must discontinue accessing and using the twitter kit
+technology and delete all copies of twitter kit and any documentation; (b) the
+provisions in sections 6 (additional terms), 7 (end users), 8 (developer
+feedback), 12 (confidentiality), 13 (ownership; reservation of rights), 15
+(twitter disclaimers), 16 (indemnification), 17 (limitation of liability),
+this section 18 (termination) and section 19.5 (governing law; venue;
+prevailing fees) shall survive; (c) all obligations or liabilities that
+accrued prior to the effective date of termination and all remedies for breach
+of this agreement shall survive; and (d) all other rights, obligations, and
+licenses of the parties under this agreement shall terminate. [CLS] [SEP]
+
+##### 19\. [CLS] [SEP] miscellaneous
+
+  1. [CLS] [SEP] **entire agreement.** â this agreement constitutes the entire agreement, and supersedes all prior negotiations, understandings, or agreements (oral or written), between the parties about the subject matter of this agreement. [CLS] [SEP]
+  2. [CLS] [SEP] **amendments.** â twitter may amend this agreement from time to time. [CLS] [SEP] if twitter makes a change to this agreement that, in its sole discretion, is material, twitter will notify developer by providing notice of the change to the email address that developer provided to twitter upon signing up to access the twitter kit, or otherwise through the twitter kit technology. [CLS] [SEP] if developer does not agree to the modified terms of the agreement, developer shall notify twitter in writing within thirty (30) days, after which this agreement shall immediately terminate and the twitter entities shall have no further responsibility or liability to developer. [CLS] [SEP]
+  3. [CLS] [SEP] **waivers.** â the failure of either party to enforce its rights under this agreement at any time for any period will not be construed as a waiver of such rights. [CLS] [SEP]
+  4. [CLS] [SEP] **severability.** â if any provision of this agreement is determined to be illegal or unenforceable, that provision will be limited or eliminated to the minimum extent necessary so that this agreement will otherwise remain in full force and effect and enforceable. [CLS] [SEP]
+  5. [CLS] [SEP] **governing law; venue; prevailing fees.** â this agreement shall be governed by and construed in accordance with the laws of the state of california, without regard to its conflicts of law provisions. [CLS] [SEP] neither the united nations convention on contracts for the international sale of goods nor any implementation of the uniform computer information transactions act in any jurisdiction shall apply to this agreement. [CLS] [SEP] exclusive jurisdiction and venue for actions related to this agreement will be the state and federal courts located in san francisco county, california, united states, and both parties consent to the jurisdiction of such courts with respect to any such actions; provided, however, that the twitter entities may seek equitable or similar relief from any court of competent jurisdiction to prevent or restrain any breach or threatened breach of this agreement by developer. [CLS] [SEP] in any action or proceeding to enforce or interpret this agreement, the prevailing party will be entitled to recover from the other party its costs and expenses (including reasonable attorneysâ fees) incurred in connection with such action or proceeding and enforcing any judgment or order obtained. [CLS] [SEP]
+  6. [CLS] [SEP] **force majeure.â** in the event that either party is prevented from performing, or is unable to perform, any of its obligations under this agreement (except payment obligations) due to any cause beyond its reasonable control, the affected party shall give written notice thereof to the other party and its performance shall be extended for the period of delay or inability to perform due to such occurrence. [CLS] [SEP]
+  7. [CLS] [SEP] **notices.** â any notice or communication hereunder shall be in writing and either personally delivered or sent via confirmed facsimile, confirmed electronic transmission, recognized express delivery courier, or certified or registered mail, prepaid and return receipt requested, addressed to the other party, which, in the case of developer, shall be the email address that developer provided to twitter upon signing up for twitter kit, and, in the case of twitter, shall be twitter, inc. [CLS] [SEP] 1355 market street, suite 900, san francisco, ca 94103, attn: legal department, or at such other address for either party as is designated in a subsequent notice. [CLS] [SEP] all notices shall be in english, and deemed to have been received when they are hand delivered, or five business days of their mailing, or upon confirmed electronic transmission or confirmed facsimile transmission. [CLS] [SEP]
+  8. [CLS] [SEP] **assignment.** â this agreement and the rights and obligations hereunder may not be assigned, transferred, or delegated, in whole or in part, whether voluntarily or by operation of law, contract, merger (whether developer is the surviving or disappearing entity), stock or asset sale, consolidation, dissolution, through government action or otherwise, by developer without twitterâs prior written consent. [CLS] [SEP] any assignment or transfer in violation of the foregoing shall automatically be null and void, and twitter may immediately terminate this agreement upon such an attempt. [CLS] [SEP] this agreement shall be binding upon, and inure to the benefit of, any permitted successors, representatives, and permitted assigns of the parties hereto. [CLS] [SEP]
+  9. [CLS] [SEP] **independent contractors.** â the parties shall be independent contractors under this agreement, and nothing herein will constitute either party as the employer, employee, agent, or representative of the other party, or both parties as joint venturers or partners for any purpose. [CLS] [SEP] neither party will have the right or authority to assume or create any obligation or responsibility on behalf of the other party. [CLS] [SEP]
+  10. [CLS] [SEP] **no publicity.** â developer will not issue any press release or otherwise make any public announcement with respect to this agreement, any twitter kit technology, or developerâs relationship with twitter without twitterâs prior written consent. [CLS] [SEP]
+
+[ developer agreement, policy & terms ](/en/more/developer-terms.html
+"developer agreement, policy & terms")
+
+[ follow @twitterdev ](http://twitter.com/twitterdev "follow @twitterdev")
+
+[ subscribe to developer news ](https://developer.twitter.com/en/twitterdev-
+news-subscription)
+
+####  twitter platform
+
+  * [ twitter.com ](https://twitter.com/ "twitter.com")
+  * [ status ](https://status.twitterstat.us/ "status")
+  * [ card validator ](https://cards-dev.twitter.com/validator "card validator")
+  * [ privacy center ](https://privacy.twitter.com/ "privacy center")
+  * [ transparency center ](https://transparency.twitter.com/ "transparency center")
+
+####  twitter, inc. [CLS] [SEP]
+
+  * [ about the company ](https://about.twitter.com/en/who-we-are/our-company.html "about the company")
+  * [ twitter for good ](https://about.twitter.com/en/who-we-are/twitter-for-good.html "twitter for good")
+  * [ company news ](https://blog.twitter.com/ "company news")
+  * [ brand toolkit ](https://about.twitter.com/en/who-we-are/brand-toolkit.html "brand toolkit")
+  * [ jobs and internships ](https://careers.twitter.com/ "jobs and internships")
+  * [ investors ](https://investor.twitterinc.com/ "investors")
+
+####  help
+
+  * [ help center ](https://help.twitter.com/ "help center")
+  * [ using twitter ](https://help.twitter.com/en/using-twitter "using twitter")
+  * [ twitter media ](https://media.twitter.com/ "twitter media")
+  * [ ads help center ](https://business.twitter.com/en/help.html "ads help center")
+  * [ managing your account ](https://help.twitter.com/en/managing-your-account "managing your account")
+  * [ safety and security ](https://help.twitter.com/en/safety-and-security "safety and security")
+  * [ rules and policies ](https://help.twitter.com/en/rules-and-policies "rules and policies")
+  * [ contact us ](https://help.twitter.com/contact-us "contact us")
+
+####  developer resources
+
+  * [ developer home ](https://developer.twitter.com/en "developer home")
+  * [ documentation ](https://developer.twitter.com/en/docs "documentation")
+  * [ forums ](https://twittercommunity.com/ "forums")
+  * [ communities ](https://developer.twitter.com/en/community "communities")
+  * [ developer blog ](https://blog.twitter.com/developer/ "developer blog")
+  * [ engineering blog ](https://blog.twitter.com/engineering/en_us.html "engineering blog")
+  * [ developer terms ](https://developer.twitter.com/en/more/developer-terms "developer terms")
+
+####  business resources
+
+  * [ advertise ](https://business.twitter.com/en/advertising.html "advertise")
+  * [ twitter for business ](https://business.twitter.com/ "twitter for business")
+  * [ resources and guides ](https://business.twitter.com/en/resources.html "resources and guides")
+  * [ twitter for marketers ](https://marketing.twitter.com/ "twitter for marketers")
+  * [ marketing insights ](https://marketing.twitter.com/en/insights "marketing insights")
+  * [ brand inspiration ](https://marketing.twitter.com/en/success-stories "brand inspiration")
+  * [ twitter data ](https://data.twitter.com/ "twitter data")
+  * [ twitter flight school ](https://www.twitterflightschool.com/sl/382652bc "twitter flight school")
+
+(c) 2021 twitter, inc. [CLS] [SEP]
+
+[ cookies ](https://help.twitter.com/rules-and-policies/twitter-cookies
+"cookies")
+
+[ privacy ](https://twitter.com/privacy "privacy")
+
+[ terms and conditions ](https://twitter.com/tos "terms and conditions")
+
+language
+
+  * [ developer ](/en/developer-terms/twitter-kit-agreement)
+
+by using twitterâs services you agree to our [cookies
+use](https://help.twitter.com/en/rules-and-policies/twitter-cookies). [CLS] [SEP] we use
+cookies for purposes including analytics, personalisation, and ads. [CLS] [SEP]
+
+  * ok
+
+this page and certain other twitter sites place and read third party cookies
+on your browser that are used for non-essential purposes including targeting
+of ads. [CLS] [SEP] through these cookies,
+_[google](https://policies.google.com/privacy?hl=en)_ ,
+_[linkedin](https://www.linkedin.com/legal/privacy-policy)_ and
+_[demandbase](https://www.demandbase.com/privacy-policy/)_ collect personal
+data about you for their own purposes. [CLS] [SEP]  _[learn
+more](https://help.twitter.com/en/rules-and-policies/twitter-cookies)_. [CLS] [SEP]  
+  
+
+  * accept
+  * decline
+

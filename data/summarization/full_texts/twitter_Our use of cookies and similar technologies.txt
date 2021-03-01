@@ -1,0 +1,265 @@
+open menu
+
+[ help center ](/en)
+
+  * help topics
+    * [ using twitter ](https://help.twitter.com/en/using-twitter)
+    * [ managing your account ](https://help.twitter.com/en/managing-your-account)
+    * [ safety and security ](https://help.twitter.com/en/safety-and-security)
+    * [ rules and policies ](https://help.twitter.com/en/rules-and-policies)
+  * guides
+    * [ new user faq ](https://help.twitter.com/en/new-user-faq)
+    * [ glossary ](https://help.twitter.com/en/glossary)
+    * [ a safer twitter ](https://help.twitter.com/en/a-safer-twitter)
+    * [ our rules ](https://help.twitter.com/en/rules)
+    * [ my privacy ](https://help.twitter.com/en/how-you-can-control-your-privacy)
+    * [ getting started guide ](https://help.twitter.com/en/twitter-guide)
+  * [contact us](https://help.twitter.com/en/contact-us)
+  * provide feedback
+
+  * [ search ](/en/search)
+  *     *       * [go to twitter](https://twitter.com)
+      * [sign out](https://twitter.com/logout)
+[ sign in
+](https://twitter.com/login?redirect_after_login=https://help.twitter.com/en/rules-
+and-policies/twitter-cookies)
+
+search this site
+
+search
+
+goglobalwithtwitterbanner
+
+#####  general guidelines and policies
+
+search
+
+  * [ using twitter  ](https://help.twitter.com/en/using-twitter)
+    * [ tweets ](https://help.twitter.com/en/using-twitter#tweets)
+    * [ adding content to your tweet ](https://help.twitter.com/en/using-twitter#adding-content-to-your-tweet)
+    * [ search and trends ](https://help.twitter.com/en/using-twitter#search-and-trends)
+    * [ following and unfollowing ](https://help.twitter.com/en/using-twitter#following-people-and-groups)
+    * [ blocking and muting ](https://help.twitter.com/en/using-twitter#blocking-and-muting)
+    * [ direct messages ](https://help.twitter.com/en/using-twitter#direct-messages)
+    * [ twitter on your device ](https://help.twitter.com/en/using-twitter#twitter-on-your-device)
+    * [ website and app integrations ](https://help.twitter.com/en/using-twitter#website-and-app-integrations)
+    * [ using periscope ](https://help.twitter.com/en/using-twitter#using-periscope)
+    * [ twitter voices ](https://help.twitter.com/en/using-twitter#twitter-voices)
+    * [ fleets ](https://help.twitter.com/en/using-twitter#fleets)
+  * [ managing your account  ](https://help.twitter.com/en/managing-your-account)
+    * [ login and password ](https://help.twitter.com/en/managing-your-account#login-and-password)
+    * [ username, email, and phone ](https://help.twitter.com/en/managing-your-account#username-email-and-phone)
+    * [ account settings ](https://help.twitter.com/en/managing-your-account#account-settings)
+    * [ notifications ](https://help.twitter.com/en/managing-your-account#notifications)
+    * [ verified accounts ](https://help.twitter.com/en/managing-your-account#verified-accounts)
+    * [ suspended accounts ](https://help.twitter.com/en/managing-your-account#suspended-accounts)
+    * [ deactivate and reactivate accounts ](https://help.twitter.com/en/managing-your-account#deactivate-and-reactivate-accounts)
+  * [ safety and security  ](https://help.twitter.com/en/safety-and-security)
+    * [ security and hacked accounts ](https://help.twitter.com/en/safety-and-security#hacked-account)
+    * [ privacy ](https://help.twitter.com/en/safety-and-security#ads-and-data-privacy)
+    * [ spam and fake accounts ](https://help.twitter.com/en/safety-and-security#spam-and-fake-accounts)
+    * [ sensitive content ](https://help.twitter.com/en/safety-and-security#sensitive-content)
+    * [ abuse ](https://help.twitter.com/en/safety-and-security#abuse)
+  * [ rules and policies  ](https://help.twitter.com/en/rules-and-policies)
+    * [ twitter rules and policies ](https://help.twitter.com/en/rules-and-policies#twitter-rules)
+    * [ general guidelines and policies ](https://help.twitter.com/en/rules-and-policies#general-policies)
+    * [ law enforcement guidelines ](https://help.twitter.com/en/rules-and-policies#law-enforcement-guildelines)
+    * [ research and experiments ](https://help.twitter.com/en/rules-and-policies#research-and-experiments)
+
+  * [help center](https://help.twitter.com/en)
+  * [general guidelines and policies](https://help.twitter.com/en/rules-and-policies#general-policies)
+  * our use of cookies and similar technologies
+
+# our use of cookies and similar technologies
+
+our services use cookies and other similar technologies, such as pixels or
+local storage, to help provide you with a better, faster, and safer
+experience. [CLS] [SEP] here are some of the ways that our services, including our various
+websites, sms, apis, email notifications, applications, buttons, widgets, and
+ads, use these technologies: to log you into twitter and periscope, save your
+preferences, personalize the content you see, protect against spam and abuse,
+and show you more relevant ads. [CLS] [SEP]  
+
+below we explain how twitter, our partners, and other third parties use these
+technologies, your privacy settings, and the other options you have. [CLS] [SEP]
+
+### what are cookies, pixels, and local storage?
+
+cookies are small files that websites place on your computer as you browse the
+web. [CLS] [SEP] like many websites, twitter, periscope, and our other services use
+cookies to discover how people are using our services and to make them work
+better. [CLS] [SEP]
+
+a pixel is a small amount of code on a web page or in an email notification. [CLS] [SEP]
+as many services do, we use pixels to learn whether youâve interacted with
+certain web or email content. [CLS] [SEP] this helps us measure and improve our services
+and personalize your experience. [CLS] [SEP]
+
+local storage is an industry-standard technology that allows a website or
+application to store information locally on your computer or mobile device. [CLS] [SEP] we
+use local storage to customize what we show you based on your past
+interactions with our services. [CLS] [SEP]
+
+### why do our services use these technologies?  
+
+our services use these technologies to deliver, measure, and improve our
+services in various ways. [CLS] [SEP] these uses generally fall into one of the following
+categories:  
+
+  * **authentication and security:**
+    * to log you into twitterâ and periscope. [CLS] [SEP]  
+
+    * to protect your security. [CLS] [SEP]
+    * to let you to view content with limited distribution. [CLS] [SEP]
+    * to help us detect and fight spam, abuse, and other activities that violate the [twitter rules](/en/rules-and-policies/twitter-rules)â and the [periscope community guidelines](https://www.periscope.tv/content). [CLS] [SEP]
+    * for example, these technologies help authenticate your access to twitter and periscope and prevent unauthorized parties from accessing your account. [CLS] [SEP] they also let us show you appropriate content through our services. [CLS] [SEP]
+  * **preferences:**
+    * to remember information about your browser and your preferences. [CLS] [SEP]
+    * for example, cookies help us remember your preferred language or the country that you are in. [CLS] [SEP] we can then provide you with twitter and periscope content in your preferred language without having to ask you each time you visit twitter or periscope. [CLS] [SEP] on twitter, we can also customize content based on your country, such as showing you what topics are trending near you, or to withhold certain content based on applicable local laws. [CLS] [SEP] learn more about [trends](/en/using-twitter/twitter-trending-faqs) and [country withheld content](/en/rules-and-policies/tweet-withheld-by-country). [CLS] [SEP]
+  * **analytics and research:**
+    * to help us improve and understand how people use our services, including twitter buttons and widgets, and twitter ads. [CLS] [SEP]
+    * for example, cookies help us test different versions of our services to see which particular features or content users prefer. [CLS] [SEP] we might also optimize and improve your experience on twitterâ and periscope by using cookies to see how you interact with our services, such as when and how often you use them and what links you click on. [CLS] [SEP] we may use google analytics to assist us with this. [CLS] [SEP] [learn more](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) about the cookies you may encounter through our use of google analytics. [CLS] [SEP] we might also use cookies to count the number of users that have seen a particular embedded tweet or timeline. [CLS] [SEP] [learn more](https://dev.twitter.com/web/overview/privacy) about the analytics cookies used by twitter for websites widgets. [CLS] [SEP]
+  * **personalized content:**  
+
+    * to customize our services with more relevant content, like tailored trends, stories, ads, and suggestions for people to follow. [CLS] [SEP]
+    * for example, local storage tells us which parts of your twitter timelineâ or periscope global feed you have viewed already so that we can show you the appropriate new content. [CLS] [SEP] cookies can help us make smarter and more relevant suggestions about who you might enjoy following based on your visits to websites that have integrated twitter embeds, including embedded timelines. [CLS] [SEP]
+  * **advertising:**  
+
+    * to help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on twitter and visits to our ad partners' websites. [CLS] [SEP]
+    * for example, we use cookies and pixels to personalize ads and measure their performance. [CLS] [SEP] using these technologies, we can show you ads and evaluate their effectiveness based on your visits to our ad partners' websites. [CLS] [SEP] this helps advertisers provide high-quality ads and content that might be more interesting to you. [CLS] [SEP]
+    * we also work with third-party advertising partners, including google, to market our services and serve ads on behalf of our advertisers, including through the delivery of interest-based ads. [CLS] [SEP]  
+
+  * **personalization across devices:**
+    * by better understanding how devices are related, we can use information from one device to help personalize the twitter experience on another device. [CLS] [SEP]
+    * when you log in to twitter on a device, we associate that device with your twitter account. [CLS] [SEP] whether or not you are logged in to twitter, we may also receive information about your devices when, for example, that information is shared by a partner; you visit twitter.com; you visit third-party websites that integrate twitter content; or you visit a twitter advertiserâs website or mobile application. [CLS] [SEP] we may use this information, most commonly ip addresses and the time at which the information was received, to infer that certain devices are associated with one another, including the devices on which you log in to twitter. [CLS] [SEP] to learn more about the devices associated with your account, check out [your twitter data](https://twitter.com/your_twitter_data) while logged in. [CLS] [SEP] to learn more about the other devices associated with the device or browser you are currently using, visit [your twitter data](https://twitter.com/your_twitter_data) while logged out. [CLS] [SEP]
+
+### where are these technologies used?
+
+we (along with third parties) use these technologies on our websites,
+applications, and services and on other websites, applications, and services
+that have integrated our services, including third-party properties that
+incorporate our advertising technology. [CLS] [SEP] this includes our ad partnersâ
+websites and sites that use our embeds, including embedded timelines. [CLS] [SEP] third
+parties may also use these technologies, for example, when you click on links
+from our websites or applications, view or interact with third-party content
+from within our services, or visit third-party websites that incorporate our
+advertising technology. [CLS] [SEP]  
+
+### what are my privacy options?
+
+we are committed to offering you meaningful privacy choices. [CLS] [SEP] you have a number
+of options to control or limit how we, our partners, and other third parties
+use cookies:  
+
+  * to control whether [twitter stores information about other websites where youâve seen twitter content](/en/using-twitter/tailored-suggestions#), adjust the **track where you see twitter content across the web** setting in your **personalization and data** settings. [CLS] [SEP] if you have this setting turned off or are in the european union or efta states, twitter will not store or use such web page visits to improve your experience in the future. [CLS] [SEP] if weâve previously stored your web browsing history, your experience may continue to be personalized based on information already inferred from that history. [CLS] [SEP]
+  * if you do not want twitter to show you interest-based ads on and off of twitter, there are several ways to disable this feature:  
+
+    * using your twitter settings, visit the **personalization and data** settings and adjust the setting **personalize ads**. [CLS] [SEP]
+    * if you are on the web, you can visit the digital advertising allianceâs consumer choice tool at [optout.aboutads.info](http://optout.aboutads.info/#/) to opt out of seeing interest-based advertising from twitter in your current browser. [CLS] [SEP]
+    * on ios version 13 and earlier only, if you do not want twitter to show you interest-based ads in twitter for ios on your current mobile device, enable the **limit ad tracking** setting in your ios phoneâs settings (precise directions may be different on different ios versions).â 
+    * on android, if you do not want twitter to show you interest-based ads in twitter for android on your current mobile device, enableâ **opt out of ads personalization** â in your android phoneâs settings (precise directions and name of the setting may be different on different android versions and oem android variants). [CLS] [SEP]
+  * on ios version 14 and later only, if you do not want twitter to access your ios identifier for advertising, disable the **allow apps to request to track** setting in your ios settings (precise directions may be different on different ios versions).â 
+  * to control [personalization across devices](/en/about-personalization-across-your-devices)â on twitter, visit your **personalization and data** settings and adjust the **personalize across all your devices** setting. [CLS] [SEP] this will control whether we link your account to browsers or devices other than the ones you use to log into twitter (or if youâre logged out, whether we link the browser or device youâre currently using to any other browsers or devices). [CLS] [SEP]  
+
+  * to control interest-based advertising from certain third-party advertising partners, you can learn more about opting out of receiving interest-based ads at [optout.aboutads.info](http://optout.aboutads.info/#/) and [www.networkadvertising.org/choices](http://optout.networkadvertising.org/#/). [CLS] [SEP] if you are on the web, you can also opt out of google analytics by installing googleâs [opt-out browser add-on](https://tools.google.com/dlpage/gaoptout), and opt out of interest-based google ads using [googleâs ads settings](https://www.google.com/settings/u/0/ads/authenticated). [CLS] [SEP]
+  * to control cookies, you can modify your settings in most web browsers to accept or deny cookies or to request your permission each time a site attempts to set a cookie. [CLS] [SEP] although cookies are not required for some parts of our services, twitter and periscope may not work properly if you disablecookies entirely. [CLS] [SEP] for example, you cannot log into twitter.com or pscp.tv if you've turned off all cookie use. [CLS] [SEP]  
+
+note: please confirm that you are logged in if you want to view or change the
+web settings for your twitter account. [CLS] [SEP] changing your twitter settings in your
+web browser when you are logged out will only affect behavior on that browser
+while you are not logged in to twitter. [CLS] [SEP] [learn more](/en/personalization-data-
+settings) about how to access your personalization and data settings,
+including in your twitter mobile app. [CLS] [SEP]
+
+### bookmark or share this article
+
+  *   *   *   *   * 
+
+scroll to top
+
+twitter platform
+
+  * [ twitter.com ](https://twitter.com/ "twitter.com")
+  * [ status ](https://status.twitterstat.us/ "status")
+  * [ card validator ](https://cards-dev.twitter.com/validator "card validator")
+  * [ privacy center ](https://privacy.twitter.com/ "privacy center")
+  * [ transparency center ](https://transparency.twitter.com/ "transparency center")
+
+twitter, inc. [CLS] [SEP]
+
+  * [ about the company ](https://about.twitter.com/en/who-we-are/our-company.html "about the company")
+  * [ twitter for good ](https://about.twitter.com/en/who-we-are/twitter-for-good.html "twitter for good")
+  * [ company news ](https://blog.twitter.com/ "company news")
+  * [ brand toolkit ](https://about.twitter.com/en/who-we-are/brand-toolkit.html "brand toolkit")
+  * [ jobs and internships ](https://careers.twitter.com/ "jobs and internships")
+  * [ investors ](https://investor.twitterinc.com/ "investors")
+
+help
+
+  * [ help center ](https://help.twitter.com/ "help center")
+  * [ using twitter ](https://help.twitter.com/en/using-twitter "using twitter")
+  * [ twitter media ](https://media.twitter.com/ "twitter media")
+  * [ ads help center ](https://business.twitter.com/en/help.html "ads help center")
+  * [ managing your account ](https://help.twitter.com/en/managing-your-account "managing your account")
+  * [ safety and security ](https://help.twitter.com/en/safety-and-security "safety and security")
+  * [ rules and policies ](https://help.twitter.com/en/rules-and-policies "rules and policies")
+  * [ contact us ](https://help.twitter.com/contact-us "contact us")
+
+developer resources
+
+  * [ developer home ](https://developer.twitter.com/en "developer home")
+  * [ documentation ](https://developer.twitter.com/en/docs "documentation")
+  * [ forums ](https://twittercommunity.com/ "forums")
+  * [ communities ](https://developer.twitter.com/en/community "communities")
+  * [ developer blog ](https://blog.twitter.com/developer/ "developer blog")
+  * [ engineering blog ](https://blog.twitter.com/engineering/en_us.html "engineering blog")
+  * [ developer terms ](https://developer.twitter.com/en/more/developer-terms "developer terms")
+
+business resources
+
+  * [ advertise ](https://business.twitter.com/en/advertising.html "advertise")
+  * [ twitter for business ](https://business.twitter.com/ "twitter for business")
+  * [ resources and guides ](https://business.twitter.com/en/resources.html "resources and guides")
+  * [ twitter for marketers ](https://marketing.twitter.com/ "twitter for marketers")
+  * [ marketing insights ](https://marketing.twitter.com/en/insights "marketing insights")
+  * [ brand inspiration ](https://marketing.twitter.com/en/success-stories "brand inspiration")
+  * [ twitter data ](https://data.twitter.com/ "twitter data")
+  * [ twitter flight school ](https://www.twitterflightschool.com/sl/382652bc "twitter flight school")
+
+(c) 2021 twitter, inc. [CLS] [SEP]
+
+[ cookies ](https://help.twitter.com/rules-and-policies/twitter-cookies
+"cookies")
+
+[ privacy ](https://twitter.com/privacy "privacy")
+
+[ terms and conditions ](https://twitter.com/tos "terms and conditions")
+
+[ english  ](https://help.twitter.com/en/rules-and-policies/twitter-cookies)
+
+[ help center ](/en.html)
+
+  * [ english ](https://help.twitter.com/en/rules-and-policies/twitter-cookies)
+  * [ espaã±ol ](https://help.twitter.com/es/rules-and-policies/twitter-cookies)
+  * [ æ¥æ¬èª ](https://help.twitter.com/ja/rules-and-policies/twitter-cookies)
+  * [ íêµ­ì´ ](https://help.twitter.com/ko/rules-and-policies/twitter-cookies)
+  * [ portuguãªs ](https://help.twitter.com/pt/rules-and-policies/twitter-cookies)
+  * [ deutsch ](https://help.twitter.com/de/rules-and-policies/twitter-cookies)
+  * [ tã¼rkã§e ](https://help.twitter.com/tr/rules-and-policies/twitter-cookies)
+  * [ franã§ais ](https://help.twitter.com/fr/rules-and-policies/twitter-cookies)
+  * [ italiano ](https://help.twitter.com/it/rules-and-policies/twitter-cookies)
+  * [ ø§ùø¹ø±ø¨ùùø© ](https://help.twitter.com/ar/rules-and-policies/twitter-cookies)
+  * [ nederlands ](https://help.twitter.com/nl/rules-and-policies/twitter-cookies)
+  * [ bahasa indonesia ](https://help.twitter.com/id/rules-and-policies/twitter-cookies)
+  * [ ð ñññðºð¸ð¹ ](https://help.twitter.com/ru/rules-and-policies/twitter-cookies)
+  * [ à¤®à¤¦à¤¤ à¤à¥à¤à¤¦à¥à¤° ](https://help.twitter.com/mr/rules-and-policies/twitter-cookies)
+  * [ àª¸àª¹àª¾àª¯àª¤àª¾ àªà«àª¨à«àª¦à«àª° ](https://help.twitter.com/gu/rules-and-policies/twitter-cookies)
+  * [ à®à®¤à®µà®¿ à®®à¯à®¯à®®à¯ ](https://help.twitter.com/ta/rules-and-policies/twitter-cookies)
+  * [ à²¸à²¹à²¾à²¯ à²à³à²à²¦à³à²° ](https://help.twitter.com/kn/rules-and-policies/twitter-cookies)
+
+by using twitterâs services you agree to our [cookies
+use](https://help.twitter.com/en/rules-and-policies/twitter-cookies). [CLS] [SEP] we use
+cookies for purposes including analytics, personalisation, and ads. [CLS] [SEP]
+
+  * ok
+

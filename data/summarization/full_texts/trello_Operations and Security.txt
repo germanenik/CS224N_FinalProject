@@ -1,0 +1,651 @@
+[ ](/home)
+
+[log in](/login?returnurl=%2flegal%2fsecurity) [sign
+up](/signup?returnurl=%2flegal%2fsecurity)
+
+## trello operations and security*
+
+_*for users accessing trello through an atlassian account see theadditional
+policies and procedures below._
+
+### certifications and assessments
+
+trello, inc. [CLS] [SEP] (“we”, “us” or “our”) is soc2 type 2 certified—we receive and
+review our data hosting providers’ soc1 and soc2 reports every 6 months under
+nda. [CLS] [SEP] trello is iso/iec 27001 certified which validates our information
+security management system (isms) and the implementation of our security
+controls. [CLS] [SEP] more information is available on the [atlassian trust management
+system](https://www.atlassian.com/trust/security/security-management-program). [CLS] [SEP]
+trello is pci-dss certified. [CLS] [SEP]
+
+### gdpr and data transfers from europe to the us
+
+trello, as an atlassian company, invests significant resources in maintaining
+compliance with the gdpr and we also aim to help our customers comply with the
+processes and policies outlined. [CLS] [SEP] atlassian also adheres to standard
+contractual clauses as a means to transfer data from the eea and uk to the us. [CLS] [SEP]
+[learn more](https://www.atlassian.com/trust/privacy). [CLS] [SEP]
+
+### vulnerability detection and bug bounty program
+
+automated scans of trello's production site are conducted a minimum of every 7
+days. [CLS] [SEP] all changes are peer reviewed and vulnerability and security lists are
+actively monitored for cve and other vulnerability disclosures with
+appropriate actions taken. [CLS] [SEP] we participate in an active bug bounty program on
+[bugcrowd](https://bugcrowd.com/trello) and mitigate all material findings as
+appropriate. [CLS] [SEP]
+
+### data centers and location
+
+trello production services are hosted on amazon web services’ (“aws”) ec2
+platform. [CLS] [SEP] the physical servers are located in aws’s ec2 data centers. [CLS] [SEP] as of
+this date, aws (i) has certifications for compliance with iso/iec 27001:2013,
+27017:2015 and 27018:2014, (ii) is certified as a pci dss 3.2 level 1 service
+provider, and (iii) undergoes soc 1, soc 2 and soc 3 audits (with semi-annual
+reports). [CLS] [SEP] additional details about aws’ compliance programs, including fedramp
+compliance, can be found at aws’ website.1
+
+all user content is stored within us regions of aws and google cloud storage
+("gcs"). [CLS] [SEP] trello’s production environment is hosted on an aws ec2 platform. [CLS] [SEP]
+user content can also be found in trello backups, stored in aws ec2, s3,
+glacier, and gcs. [CLS] [SEP]
+
+we do not offer customers the option of hosting trello on a private server, or
+to otherwise use trello on a separate infrastructure. [CLS] [SEP]
+
+### production environment
+
+we maintain separate and distinct production, staging, and development
+environments for trello. [CLS] [SEP]
+
+to access trello’s production environment, authorized and trained members of
+trello's sre and select engineering team members (“authorized personnel”)
+authenticate to the vpn using unique strong passwords and totp based 2fa and
+then only access the production environment via ssh terminal connections using
+passphrase protected personal rsa certificates. [CLS] [SEP] an ids system is in place on
+all production servers, which includes real-time monitoring and alerting of
+any changes to the production system files or configuration and anomalous
+security events. [CLS] [SEP] for authorized personnel, any workstations running windows or
+macos must be running current and active anti-virus software. [CLS] [SEP] those members
+are also trained not to replicate non-public user data stored in trello’s
+production environment onto their workstations or mobile devices. [CLS] [SEP]
+
+### network security
+
+aws network acl and security groups are used to restrict access to trello’s
+systems as appropriate to their role. [CLS] [SEP] active monitoring of these security
+rules is in place with alerting mechanisms in place for any changes to the
+configuration. [CLS] [SEP] public access is restricted to port 443 and 80 on the network
+load balancers for public traffic. [CLS] [SEP] atlassian's workplace technology team
+protects our wireless networks by utilizing wpa2-aes authentication and peap-
+eap-mschapv2 encryption. [CLS] [SEP] we authenticate to our wireless network through
+802.1x utilizing our internal identity store. [CLS] [SEP] we scan for rogue wireless
+access points regularly, and maintain a list of rogue access points found. [CLS] [SEP]
+
+### login security
+
+saml 2.0 sso is supported for trello enterprise customers. [CLS] [SEP] all customers can
+enable 2fa on their accounts or use google oauth. [CLS] [SEP] if sso or oauth is used to
+access trello, trello will inherit the login security settings in the user's
+idp or google account. [CLS] [SEP]
+
+if logging in directly to trello using a username or email and password,
+trello requires a minimum of 8 characters. [CLS] [SEP] repeated failed login attempts
+trigger a 30 second lock before a user can retry. [CLS] [SEP] passwords are stored in a
+hashed form and will never be sent via email—upon account creation and
+password reset, trello will send a link to the email associated with the
+account that will enable the user to create a new password. [CLS] [SEP]
+
+password complexity and session length requirements cannot be customized
+within the app. [CLS] [SEP] however, these can be set within an idp for an sso-enforced
+team. [CLS] [SEP]
+
+### access control
+
+all user data stored in trello is protected in accordance with our obligations
+in the [atlassian cloud terms of
+service](https://www.atlassian.com/legal/cloud-terms-of-service), and access
+to such data by authorized personnel is based on the principle of least
+privilege. [CLS] [SEP] only authorized personnel have direct access to trello’s production
+systems. [CLS] [SEP] those who do have direct access to production systems are only
+permitted to view user data stored in trello in the aggregate, for
+troubleshooting purposes or as otherwise permitted in trello’s [privacy
+policy](/privacy). [CLS] [SEP]
+
+trello maintains a list of authorized personnel with access to the production
+environment. [CLS] [SEP] these members undergo criminal background checks and are approved
+by trello’s engineering management. [CLS] [SEP] trello also maintain a list of personnel
+who are permitted to access trello code, as well as the development and
+staging environments. [CLS] [SEP] these lists are reviewed quarterly and upon role change. [CLS] [SEP]
+
+trained members of the atlassian and trello customer support teams also have
+case-specific, limited access to user data stored in trello through restricted
+access customer support tools. [CLS] [SEP] customer support team members are not
+authorized to review non-public user data stored in trello for customer
+support purposes without explicit permission. [CLS] [SEP] when a trello user submits a
+support ticket, they have the option of authorizing the customer support team
+to view their data. [CLS] [SEP] the customer support team will only receive such access to
+the account if it is granted by the user, either by selecting the "give
+support staff temporary access to your account" option when submitting a help
+request, or by clicking a link sent to the user's email by the support team. [CLS] [SEP]
+the account owner can revoke such access at any time.2
+
+upon role change or leaving the company, the production credentials of
+authorized personnel are deactivated, and their sessions are forcibly logged
+out. [CLS] [SEP] thereafter, all such accounts are removed or changed. [CLS] [SEP]
+
+### public content and other permissions
+
+user data entered on public boards or included in public profile information
+may be viewed or accessed by anyone. [CLS] [SEP] in addition, notwithstanding anything to
+the contrary, data may be collected, shared, retained and used as described in
+trello’s [privacy policy](/privacy) or customer’s agreement(s) with trello. [CLS] [SEP]
+
+### third party access
+
+user data may be shared by trello with third-party service providers (a user's
+email address for an email delivery provider, for example) pursuant to
+trello’s [privacy policy](/privacy) and in compliance with trello’s applicable
+signed service agreements. [CLS] [SEP]
+
+### physical security
+
+in some instances our offices share buildings with other companies. [CLS] [SEP] for that
+reason, we require mandatory visitor check-in with the building security team
+and that visitors wear identification badges. [CLS] [SEP] additionally, visitors must
+check-in with our front desk and require an escort throughout the building at
+all times. [CLS] [SEP] employee access to physical facilities is protected by electronic
+badge readers and building security. [CLS] [SEP] cctv covers entry and exit points 24/7
+with logs made available to us internally. [CLS] [SEP]
+
+trello's production services are hosted on amazon web services’ (“aws”) ec2
+platform. [CLS] [SEP] the physical servers are located in aws’ secure data centers.3 we
+require that production critical data is never to be stored by those with
+privileged access on physical media outside of our data hosting provider's
+production environments. [CLS] [SEP] see above for information on aws’ compliance
+programs. [CLS] [SEP]
+
+### corporate environment and removable media
+
+strict firewall rules prohibit access to necessary ports for the usage of
+trello (e.g., 443), to help ensure limited access to the production
+environment to our vpn network and authorized systems. [CLS] [SEP] our corporate network
+has no additional access to the production environment, with authorized
+personnel required to connect to the vpn in order to access any special
+systems or environments. [CLS] [SEP]
+
+authorized personnel with access to trello’s production environment are
+trained as noted above. [CLS] [SEP] in addition, employee workstations are required to
+time out and lock after a maximum of one minute once sleep or the screen saver
+begins. [CLS] [SEP] we do not have a clean desk policy. [CLS] [SEP]
+
+### encryption in-transit
+
+trello uses industry standard transport layer security (“tls”) to create a
+secure connection using 128-bit advanced encryption standard (“aes”)
+encryption. [CLS] [SEP] this includes all data sent between the web, desktop, ios, and
+android apps and the trello servers. [CLS] [SEP] there is no non-tls option for connecting
+to trello. [CLS] [SEP] all connections are made securely over https. [CLS] [SEP]
+
+### encryption at-rest
+
+data drives on servers holding user data use full disk, industry-standard aes
+encryption with a unique encryption key for each server. [CLS] [SEP] file attachments to
+trello cards are stored in amazon’s s3 service. [CLS] [SEP] each such attachment is
+assigned a unique link with an unguessable, cryptographically strong random
+component, and are only accessible using a secure https connection. [CLS] [SEP] file
+attachments to trello cards uploaded after june 3, 2015 are encrypted using
+amazon s3 server side 256-bit aes encryption. [CLS] [SEP] the encryption, key management,
+and decryption process is inspected and verified internally by amazon on a
+regular basis as part of their existing audit process. [CLS] [SEP] at an enterprise
+customer’s request, attachments uploaded prior to june 3, 2015 can be
+retroactively encrypted within amazon s3. [CLS] [SEP] all trello backups are encrypted
+with aes encryption. [CLS] [SEP]
+
+### encryption keys
+
+encryption keys for trello attachments, stored in s3, are managed by amazon. [CLS] [SEP]
+the encryption, key management, and decryption process is inspected and
+verified internally by amazon on a regular basis as part of their existing
+audit process. [CLS] [SEP] encryption keys for trello attachments managed by our team are
+rotated upon relevant changes of roles or employment status. [CLS] [SEP] encryption keys
+managed by our team are not stored outside of trello’s production backup
+environment and are managed by the our sre team. [CLS] [SEP] trello backups are of the
+entire data set, so they are encrypted using a shared key. [CLS] [SEP]
+
+### data deletion - termination of agreement
+
+upon termination of a trello business class or enterprise contract, if
+requested by the trello customer’s administrator, the user content that is
+stored on the terminated team’s boards, lists and cards will be completely
+removed from the live trello production database. [CLS] [SEP] all file attachments
+uploaded directly to trello will be removed from the live trello production
+database within 30 days. [CLS] [SEP] the team’s data will remain in encrypted trello
+database backups until those backups fall out of the 90-day backup retention
+window and are destroyed in accordance with our data retention policy. [CLS] [SEP] in the
+event that a database restore is necessary within 90 days of a requested data
+deletion, we will re-delete the data as soon as reasonably possible after the
+live production system is fully restored. [CLS] [SEP]
+
+for clarity, if a customer continues to use trello pursuant to a free account
+or different plan following the termination of a business class or enterprise
+contract, such data may be retained for use in accordance with the terms and
+conditions applicable to such account or plan. [CLS] [SEP]
+
+### data deletion - user personal data
+
+in the case of a trello user account being deleted, upon deletion, trello
+deletes the user’s personal data, including items like name, email address and
+location, within 30 days of the request. [CLS] [SEP] after 30 days, such personal data
+will remain in encrypted trello database backups until those backups fall out
+of the 90-day retention window and are completely destroyed. [CLS] [SEP]
+
+in certain cases where trello has a legitimate business or legal purpose to do
+so, trello may keep user personal data. [CLS] [SEP] some examples of this include
+financial information related to things like purchases and billing records;
+records showing why the account was deleted; or data relating to a litigation
+or other legal inquiry. [CLS] [SEP]
+
+upon deletion of an individual user account, trello does not automatically
+delete the content that was created by individual users in trello. [CLS] [SEP] for
+example, items typed into cards like a comment or an added file will remain
+visible even if the removed user no longer exists. [CLS] [SEP] the applicable team’s
+administrators or users, depending on the permission settings, would need to
+delete that content manually. [CLS] [SEP]
+
+users may have installed third party applications or custom applications,
+e.g., power-ups, that add features to trello. [CLS] [SEP] these apps may have stored user
+personal data. [CLS] [SEP] to see a list of apps that may have stored personal data, users
+should navigate to their trello settings page (before deleting their account). [CLS] [SEP]
+
+### development, patch and configuration management
+
+all changes to the trello production system, be they code or system
+configuration changes, require review prior to deployment to the production
+environment. [CLS] [SEP] thousands of automated unit tests are run against all production
+code prior to deployment. [CLS] [SEP] production code is also subject to regularly
+conducted automated vulnerability scans. [CLS] [SEP] all changes to trello’s code are
+tested in a staging environment prior to deployment to production. [CLS] [SEP] patches to
+the trello web client are deployed on a rolling basis, usually several times
+per week. [CLS] [SEP] trello production servers are managed via a centralized
+configuration system. [CLS] [SEP] all trello system changes are peer reviewed and patches
+are deployed as relevant to their level of security and stability impact, with
+critical patches able to be deployed well within 24 hours of availability as
+appropriate. [CLS] [SEP]
+
+we restrict access as noted above and maintain separate lists of relevant
+roles with access to source code, development, staging, and production
+environments. [CLS] [SEP] these lists are reviewed quarterly and upon role change. [CLS] [SEP] we use
+source code management tools and repositories. [CLS] [SEP]
+
+all production servers are running a lts (long term support) distribution of
+their operating system to ensure timely updates are available. [CLS] [SEP] cve lists and
+notifications are actively monitored and any systems can be patched in a
+timeline relevant to the severity of the issue. [CLS] [SEP] a centralized configuration
+system is used for the management of production servers, and when needed a
+patch can be deployed within hours of its availability. [CLS] [SEP]
+
+### event logging
+
+certain user actions which manipulate user data are stored within trello and
+are available for the customer/user (e.g., when viewing the action history on
+a card, board, or team). [CLS] [SEP] this information is available within trello unless a
+card is deleted (not archived), at which point it cannot be restored. [CLS] [SEP]
+
+all trello api calls and application logs are kept for our internal purposes
+for at least 45 days without sensitive information (no full user tokens, no
+user generated content), and are available only for authorized employees as
+required by their role for monitoring of trello to ensure service availability
+and performance and to prevent abuse. [CLS] [SEP]
+
+application logs for trello are centrally collected in splunk for a minimum of
+45 days for monitoring and analysis. [CLS] [SEP] security, authentication, and intrusion
+detection system (ids) logs for trello are additionally retained in s3
+cloudwatch buckets with a 12 month lifecycle to ensure retention. [CLS] [SEP]
+
+### asset management
+
+atlassian maintains asset management policies and implementation guidelines. [CLS] [SEP]
+this policy is reviewed and updated in line with our policy management program
+(pmp). [CLS] [SEP] assets are transferred upon role change or leaving the company. [CLS] [SEP] for
+more information, see: [security management
+program](https://www.atlassian.com/trust/security/security-management-
+program). [CLS] [SEP] you can review the high level statements of each of our internal
+policies at: [ismp policies](https://www.atlassian.com/trust/security/ismp-
+policies)
+
+### data within trello
+
+trello validates files for well-formedness and the like, however, we have
+explicitly designed trello to support any type of content users may choose to
+store within trello. [CLS] [SEP] all attachments are stored and accessed from a completely
+separate domain to help prevent any potential access by such attachment to
+other user data or cookies. [CLS] [SEP]
+
+### user team management and access
+
+admins for a trello enterprise account will be set via the customer’s account
+manager. [CLS] [SEP] admin, regular, and observer roles can be assigned within trello. [CLS] [SEP]
+
+it is not possible to limit the geolocations allowed to access data within
+trello. [CLS] [SEP] data can be accessed by users who have access to such data within the
+app from any geolocation. [CLS] [SEP] all third-party developer access to user data stored
+in trello is via the api which includes strict authorization checks. [CLS] [SEP] all
+authorized personnel go through strict security group/firewall rules which
+limits access to authorized instance roles on authorized ports required for
+them to fulfill their role. [CLS] [SEP]
+
+power-ups cannot be restricted within a team. [CLS] [SEP] power-ups which connect trello
+to other services (such as evernote or dropbox) may require authentication
+with an existing account in that service before the power-up is active. [CLS] [SEP] if
+working within a corporate environment, the domain used to authenticate that
+account can be blocked in your environment's firewall. [CLS] [SEP]
+
+## backup, business continuity, and disaster recovery policy
+
+### backup policy
+
+data entered into trello is backed up regularly. [CLS] [SEP] all backups are encrypted and
+stored at multiple offsite locations to help ensure that they are available in
+the unlikely event that a restore is necessary. [CLS] [SEP]
+
+files uploaded to trello as card attachments are not backed up on the same
+schedule, and instead rely on amazon s3’s internal redundancy mechanism. [CLS] [SEP]
+
+files associated with trello cards from a supported cloud storage provider are
+also subject to the storage provider’s own backup procedures and policies. [CLS] [SEP]
+
+trello database backups are immediately encrypted with 256-bit aes encryption
+using gnu privacy guard (“gpg”) with a password-protected symmetric cipher. [CLS] [SEP]
+encrypted backups can only be decrypted by members of the trello operations
+team who have received training and have been authorized to decrypt the
+backups. [CLS] [SEP]
+
+because user data stored in trello is on a shared infrastructure, it is not
+possible for us to recover a subset of that information from backups. [CLS] [SEP] if any
+customer is particularly concerned with maintaining a complete record of their
+information in trello, we suggest that such customer frequently exports its
+data or use our api4 to connect a dlp tool to trello. [CLS] [SEP]
+
+### backup interval
+
+a rolling live replica of trello’s primary database is constantly being taken
+on a 1-hour delay. [CLS] [SEP] additionally, a full backup snapshot of the primary
+database is taken once every 24 hours. [CLS] [SEP]
+
+### backup storage
+
+all trello backups are retained on the following schedule:
+
+  * aws ec2 on a dedicated backup server for two days
+  * aws s3 for 7 days
+  * google cloud storage for 30 days
+  * aws glacier for 90 days
+
+only authorized members of the trello operations team have access to the
+backup locations, so that they are able to monitor the performance of the
+backup processes, and in the very unlikely event that a restore becomes
+necessary. [CLS] [SEP] after 90 days, the encrypted backup files are destroyed. [CLS] [SEP]
+
+attachments directly uploaded to trello are handled differently than the
+primary database backups. [CLS] [SEP] to backup file attachments, trello primarily relies
+on s3’s internal redundancy mechanism, which amazon states provides 99.99%
+yearly data durability. [CLS] [SEP] attachments are also backed up to google cloud storage
+for additional redundancy. [CLS] [SEP]
+
+### data portability
+
+trello board data is available for export by board members in json format via
+the trello rest api. [CLS] [SEP] file attachments can be individually retrieved directly
+from amazon s3 using the file’s unique hyperlink. [CLS] [SEP]
+
+trello personal data is available for export by individual users in json
+format and can be found by clicking this link. [CLS] [SEP] the “download personal data”
+button will export personal data and deliver it via an api endpoint in json
+format. [CLS] [SEP]
+
+trello business class and enterprise plans offer a simplified data export
+process for all team data and attachments. [CLS] [SEP] each business class and enterprise
+team includes one-click export of all boards within the team. [CLS] [SEP] optionally, file
+attachments uploaded directly to trello can be included in the export file. [CLS] [SEP]
+within the export, each board’s data is included in both json and comma
+separated values (“csv”) format. [CLS] [SEP]
+
+### business continuity
+
+the trello operations team has designed systems to keep the service running
+even if the underlying infrastructure experiences an outage or other
+significant issue. [CLS] [SEP] every critical trello service has a secondary, replicated
+service running simultaneously with mirrored data in a different aws
+availability zone than the primary server. [CLS] [SEP] additionally, each trello database
+server has a replicated service running in a third availability zone with data
+that is mirrored on a one hour delay. [CLS] [SEP]
+
+because it is critical to have reliable access to your business’ important
+projects and data, trello has been architected to survive a single
+availability zone outage without significant service interruptions. [CLS] [SEP]
+
+### disaster recovery
+
+in the unlikely event that two amazon ec2 availability zones have long-term
+service interruptions, trello has been designed to recover with limited
+service interruption and a target maximum of 1 hour of data loss. [CLS] [SEP]
+
+in the even more unlikely event that trello’s entire aws ec2 region is
+irrecoverably lost, we will restore servers using automated configuration
+systems. [CLS] [SEP] in this event, trello’s systems are designed to recover user data as
+quickly as reasonably possible, with a target of no more than of 24 hours of
+data loss. [CLS] [SEP]
+
+trello's sre team regularly tests the various components of its business
+continuity architecture to ensure continued operations. [CLS] [SEP] trello does not
+currently run anything like chaos monkey. [CLS] [SEP]
+
+trello does not have an sla or credit policy. [CLS] [SEP] trello had over 99.99% uptime in
+2018 and 2019, and any downtime is documented at trello's status page.5
+
+### incidents and response
+
+a trello problem impacting a trello enterprise customer will be assigned a
+severity level and handled according to the resolutions in table 1. [CLS] [SEP]
+
+table 1: incidents and response severity levels:
+
+level | description | resolution | examples  
+---|---|---|---  
+severity 1 | trello is not available or is unusable. [CLS] [SEP] | work begins within 1
+hour from report, temporary resolution within 4 hours, final resolution within
+7 hours. [CLS] [SEP] | the site is not responding; all text on the site is being
+translated into elven runes. [CLS] [SEP]  
+severity 2 | service or performance is substantially degraded in a way that
+prevents normal use. [CLS] [SEP] | work begins within 2 hours from report, temporary
+resolution within 48 hours, final resolution within 14 days. [CLS] [SEP] | search only
+finds cards with the search terms in the title; trello cannot be used with the
+new firefox version that came out today. [CLS] [SEP]  
+severity 3 | a service not essential to trello’s main functionality is
+unavailable or degraded. [CLS] [SEP] | work begins within 72 hours from report, temporary
+resolution within 7 days, final resolution within 30 days. [CLS] [SEP] | activity
+indicators are not showing who is active; updates are taking 30 seconds to
+propagate to other board viewers. [CLS] [SEP]  
+severity 4 | minor or cosmetic issues with trello services, and all feature
+requests. [CLS] [SEP] | resolution at trello team’s discretion. [CLS] [SEP] | board background images
+aren’t scaling properly; feature request for dependencies between cards. [CLS] [SEP]  
+  
+## employee policies
+
+### anti-virus
+
+trello has a centrally managed antivirus solution deployed across both our
+windows and macos environments. [CLS] [SEP] for authorized personnel, any workstations
+running windows or macos used for ssh terminal access to the production
+environment must be running update-to-date and active instances of our
+centrally deployed cylance antivirus software with real-time monitoring and
+at-least-daily updates. [CLS] [SEP]
+
+authorized personnel may choose to run linux as their workstation operating
+system. [CLS] [SEP] given the inadequate state of linux antivirus software and the lack of
+prevalence of viruses for that platform, our policy does not require those
+workstations to run antivirus. [CLS] [SEP] all of the existing controls for authorized
+personnel, including restricting access from those workstations to the
+production environment via ssh terminal connections only and with no
+replication of user data onto those workstations, still apply. [CLS] [SEP]
+
+### remote access
+
+many of trello’s team members work remotely. [CLS] [SEP] strict firewall rules are in
+place thus limiting access to the production environment to our vpn network
+and authorized systems. [CLS] [SEP] certain other controls described above, including
+authorized personnel and corporate environment controls, also apply to remote
+access as appropriate. [CLS] [SEP]
+
+### security awareness and confidentiality
+
+security awareness and user data access policies are covered during our
+employee onboarding as appropriate to the role and employees are updated as
+relevant policies or practices change. [CLS] [SEP] our employees also sign a
+confidentiality agreement. [CLS] [SEP]
+
+in the event that a security policy is breached by an employee, trello
+reserves the right to determine the appropriate response, which may include
+termination. [CLS] [SEP]
+
+### background checks
+
+all our employees undergo an extensive interview process before hiring. [CLS] [SEP] our
+employees with direct access to the production environment undergo a criminal
+background check. [CLS] [SEP] other employees may undergo a check depending on their role
+(e.g., academic for legal roles or credit for finance roles). [CLS] [SEP] appropriate ndas
+are in place with third parties as appropriate. [CLS] [SEP]
+
+## maintenance policy
+
+### planned maintenance
+
+when it is necessary to perform planned maintenance on trello services, the
+trello operations team will perform the work during one of two scheduled
+weekly maintenance windows. [CLS] [SEP] we will make reasonable efforts to announce
+maintenance procedures that could potentially impact users of trello on the
+@trellostatus twitter account6 at least 24 hours prior to the event, and via
+an in-app announcement at least 30 minutes prior to the event. [CLS] [SEP]
+
+### planned maintenance windows
+
+  * tuesday from 10:00 pm us eastern time through wednesday at 2:00 am us eastern time
+  * saturday from 10:00 pm us eastern time through sunday at 2:00 am us eastern time
+
+these windows have been selected with the goal of minimizing service downtime,
+slowness, or other impact to the people and businesses that rely on trello. [CLS] [SEP]
+
+we do our best to make outages as short as possible. [CLS] [SEP] additionally, our
+maintenance schedule will frequently be evaluated to ensure that we keep user
+impact as low as reasonably possible. [CLS] [SEP] should we need to reschedule these
+windows, the updated schedule will be announced on our status blog and twitter
+accounts with reasonable advance notice. [CLS] [SEP]
+
+### unplanned maintenance
+
+due to unforeseen events, we may have to infrequently perform unplanned
+maintenance on trello infrastructure or software components. [CLS] [SEP] this maintenance
+might cause some or all of the trello services to be inaccessible by our users
+for a period of time. [CLS] [SEP] it is our goal to do this as infrequently as possible. [CLS] [SEP]
+any unplanned or emergency maintenance that causes trello to be inaccessible
+will be announced on the trello status blog and in-app with as much advance
+notice as reasonably possible. [CLS] [SEP] as with planned maintenance, we do our best to
+minimize disruption caused by service outages. [CLS] [SEP]
+
+it is not possible for us to customize the maintenance window, as our users
+are on a shared infrastructure. [CLS] [SEP] however, we've used this maintenance window
+extremely rarely—about once a year, for under 15 minutes each time. [CLS] [SEP]
+
+## users who access trello through an atlassian account
+
+as part of trello's continued integration into atlassian, trello users will
+have to create atlassian accounts in order to access the trello service. [CLS] [SEP] for
+trello users accessing trello through an atlassian account, including accounts
+managed by organizations subscribing to atlassian access, the following
+policies and procedures, which may differ the policies and procedures above,
+shall apply. [CLS] [SEP]
+
+##### data centers and location
+
+as mentioned above, trello production services and associated user content
+(i.e., data stored to trello boards) are stored in aws’s and gcs’s united
+states regions. [CLS] [SEP] however, a limited amount of user information used for account
+authentication purposes may be stored in aws and gcs regions outside of the
+united states. [CLS] [SEP] for more information on how we secure and store data at
+atlassian, see our [trust page](https://www.atlassian.com/trust). [CLS] [SEP]
+
+##### login security
+
+if you login to trello using your atlassian account or if your account is
+managed by an organization that subscribes to atlassian access, login security
+(including single sign-on and two-step verification) and password features and
+policies for atlassian accounts differ from those of legacy trello accounts. [CLS] [SEP]
+more information about these features and policies is available at [your
+atlassian account](https://confluence.atlassian.com/cloud/your-atlassian-
+account-976161169.html) and [atlassian access policies and
+features](https://confluence.atlassian.com/cloud/apply-atlassian-access-
+policies-and-features-938859736.html). [CLS] [SEP]
+
+##### data deletion
+
+if a user accesses trello through an atlassian account, the processes and
+policies for deleting the user’s trello account and personal data, including
+deletion request cancellation grace periods and backup data retention periods
+may differ from the trello processes and policies outlined above. [CLS] [SEP] for more
+information, see [delete your atlassian
+account.](https://confluence.atlassian.com/cloud/delete-your-
+account-976161188.html)
+
+##### support and incident response
+
+the support policies and incident response procedures for atlassian access
+differ from those applicable to trello. [CLS] [SEP] more information regarding support for
+atlassian access is available at [atlassian access policies and
+features.](https://confluence.atlassian.com/cloud/apply-atlassian-access-
+policies-and-features-938859736.html)
+
+**footnotes:**
+
+1[http://aws.amazon.com/security/](http://aws.amazon.com/security)
+
+2<https://trello.com/your/account>
+
+3<http://aws.amazon.com/security/>
+
+4<http://developers.trello.com/>
+
+5<https://trello.status.atlassian.com/>
+
+6<https://twitter.com/trellostatus>
+
+## changelog
+
+  * **october 2020** – new section added to reflect current practices: gdpr and data transfers from europe to the us
+  * **january 2020** – updates to the following sections to reflect current practices: data centers and locations, atlassian access, atlassian accounts, network security, login security, event logging, asset management
+  * **january 2019** – updates to the following sections to reflect current practices: penetration testing and bug bounty program, production environment, network security, access control, third-party access, physical security, corporate environment and removable media, encryption on mobile devices, removing/deleting data from trello, event logging, data within trello, user team management and access and employee policies
+  * **february 2018** \- updates to links or cross-references in the following sections: data center, access control, physical security, encryption in-transit, development, patch and configuration management, backup policy, disaster recovery policy and planned maintenance. [CLS] [SEP]
+  * **september 2017** \- first version of page goes live. [CLS] [SEP] replaces previous operations & security guide pdf. [CLS] [SEP]
+
+select your language… čeština deutsch english english (au) english (uk)
+english (us) español français italiano magyar nederlands norsk (bokmål) polski
+português (brasil) suomi svenska tiếng việt türkçe русский українська ภาษาไทย
+中文 (简体) 中文 (繁體) 日本語
+
+  * [templates](/templates)
+  * [pricing](/pricing)
+  * [apps](/platforms)
+  * [jobs](https://www.atlassian.com/company/careers/trello)
+  * [blog](https://blog.trello.com/)
+  * [developers](http://developers.trello.com)
+  * [about](/about)
+  * [help](http://help.trello.com/)
+  * [legal](/legal)
+  * cookie settings
+  * [privacy](/privacy)
+
+![](https://d2k1ftgv7pobq7.cloudfront.net/meta/c/u/res/images/e4e8fa01ba058bce8e9f2bb7459516f9/atlassian-
+logo-white-small.svg)
+![](https://d2k1ftgv7pobq7.cloudfront.net/meta/c/u/res/images/6cdbcb3dcf82bba860f1768d184161ee/atlassian-
+logo-gray-small.svg)  © copyright 2021. [CLS] [SEP] all rights reserved. [CLS] [SEP]
+

@@ -1,0 +1,163 @@
+  * [researcher sign up](/user/sign_up)
+  * [login](/login/)
+
+[![bugcrowd
+logo](https://assets.bugcrowdusercontent.com/packs/media/images/logo-full.min-
+ffef5e4dc1c44a8705ad8947f770bdd4.svg) outhack them all™
+](https://www.bugcrowd.com)
+
+  * [who we are](https://www.bugcrowd.com/who-we-are)
+    * [crowdsourced security](https://www.bugcrowd.com/who-we-are/crowdsourced-security)
+    * [how it works](https://www.bugcrowd.com/who-we-are/how-it-works)
+    * [meet the crowd](https://www.bugcrowd.com/who-we-are/meet-the-crowd)
+    * [program management](https://www.bugcrowd.com/who-we-are/program-management)
+  * [products](https://www.bugcrowd.com/products)
+    * [attack surface management](https://www.bugcrowd.com/products/attack-surface-management)
+    * [bug bounty](https://www.bugcrowd.com/products/bug-bounty)
+    * [penetration testing](https://www.bugcrowd.com/products/penetration-test)
+    * [vulnerability disclosure](https://www.bugcrowd.com/products/vulnerability-disclosure)
+    * [platform](https://www.bugcrowd.com/products/platform)
+      * [vulnerability rating taxonomy](https://www.bugcrowd.com/products/platform/vulnerability-rating-taxonomy)
+      * [jira + bugcrowd](https://www.bugcrowd.com/products/platform/integrations)
+  * [resources](https://www.bugcrowd.com/resources)
+    * [for companies](https://www.bugcrowd.com/resources/for-companies)
+    * [bugcrowd university](https://www.bugcrowd.com/university)
+    * [for researchers](https://www.bugcrowd.com/resources/for-researchers)
+    * [events](https://www.bugcrowd.com/resources/events)
+    * [forum](https://forum.bugcrowd.com/)
+    * [glossary](https://www.bugcrowd.com/resources/glossary)
+  * [customers](https://www.bugcrowd.com/customers)
+  * [crowdstream](/crowdstream)
+  * [programs](/programs)
+    * [program search](/programs)
+    * [discovery](/programs/discovery/featured)
+  * [about](https://www.bugcrowd.com/about)
+    * [blog](https://www.bugcrowd.com/about/blog)
+    * [press](https://www.bugcrowd.com/about/press)
+    * [careers](https://www.bugcrowd.com/about/careers)
+    * [partners](https://www.bugcrowd.com/about/partners)
+    * [contact](https://www.bugcrowd.com/about/contact)
+
+[learn more](https://www.bugcrowd.com/who-we-are/crowdsourced-security)
+
+![smartthings vulnerability
+disclosure](https://logos.bugcrowdusercontent.com/logos/93ec/ae66/6158f5ed/75c033e8c94a29a0e9ffba67203e24e6_bmmbspuv_400x400.jpg)
+
+#  smartthings vulnerability disclosure
+
+updated
+
+add a little smartness to your things. [CLS] [SEP]
+
+  * points per vulnerability 
+  * partial safe harbor 
+  * managed by bugcrowd
+
+[submit report ](/smartthings/report)
+
+[follow program ](/user/sign_in)
+
+  * [program details](/smartthings)
+  * [hall of fame](/smartthings/hall-of-fame)
+
+[tweet](https://twitter.com/share)
+
+##  program stats
+
+**25** vulnerabilities rewarded
+
+validation within **14 days**  
+75% of submissions are accepted or rejected within 14 days
+
+##  latest hall of famers
+
+  * [ ](/balkrishna25)
+  * [ ](/maara)
+  * [ ](/amitkr_91221)
+  *   *   * [ ](/vishwas_c)
+  *   *   * [ ](/1cdcf8522fe57c9e5ad058cbd50ced)
+  * [ ](/hardik_rathod)
+
+[view all 91](/smartthings/hall-of-fame)
+
+##  recently joined this program
+
+  *   * [ ](/balkrishna25)
+  *   * [ ](/maara)
+  * [ ](/greyninja9619)
+  * [ ](/amitkr_91221)
+  *   *   * [ ](/badalsardhara)
+  * 
+150 total
+
+##  disclosure
+
+please note: this program does **not allow** disclosure. [CLS] [SEP] you may not release
+information about vulnerabilities found in this program to the public. [CLS] [SEP]
+
+**_smartthings lets you easily monitor, control, and secure your home from
+anywhere in the world._**
+
+* * *
+
+this program adheres to the [bugcrowd vulnerability rating
+taxonomy](https://bugcrowd.com/vulnerability-rating-taxonomy) for the
+prioritization/rating of findings. [CLS] [SEP]
+
+###  scope
+
+this program only awards points for vrt based submissions. [CLS] [SEP]
+
+###  program rules
+
+this program follows bugcrowd’s [standard disclosure
+terms](https://www.bugcrowd.com/resource/standard-disclosure-terms/). [CLS] [SEP]
+
+[learn more about bugcrowd’s vrt](/vulnerability-rating-taxonomy). [CLS] [SEP]
+
+back to top
+
+  * [who we are](https://www.bugcrowd.com/who-we-are)
+    * [crowdsourced security](https://www.bugcrowd.com/who-we-are/crowdsourced-security)
+    * [how it works](https://www.bugcrowd.com/who-we-are/how-it-works)
+    * [meet the crowd](https://www.bugcrowd.com/who-we-are/meet-the-crowd)
+    * [program management](https://www.bugcrowd.com/who-we-are/program-management)
+  * [product](https://www.bugcrowd.com/product)
+    * [bug bounty](https://www.bugcrowd.com/product/bug-bounty)
+    * [next-gen pen test](https://www.bugcrowd.com/product/next-gen-pentest)
+    * [vulnerability disclosure](https://www.bugcrowd.com/product/vulnerability-disclosure)
+    * [solution comparison](https://www.bugcrowd.com/product/solution-comparison)
+    * [platform](https://www.bugcrowd.com/product/platform)
+    * [vulnerability rating taxonomy](https://www.bugcrowd.com/product/platform/vrt)
+    * [jira + bugcrowd](https://www.bugcrowd.com/product/platform/jira-for-sdlc)
+  * [resources](https://www.bugcrowd.com/resources)
+    * [for companies](https://www.bugcrowd.com/resources/for-companies)
+    * [bugcrowd university](https://www.bugcrowd.com/university)
+    * [for researchers](https://www.bugcrowd.com/resources/for-researchers)
+    * [events](https://www.bugcrowd.com/resources/events)
+    * [forum](https://forum.bugcrowd.com/)
+    * [glossary](https://www.bugcrowd.com/resources/glossary)
+  * [customers](https://www.bugcrowd.com/customers)
+  * [about](https://www.bugcrowd.com/about/)
+    * [blog](https://www.bugcrowd.com/about/blog)
+    * [press](https://www.bugcrowd.com/about/press)
+    * [careers](https://www.bugcrowd.com/about/careers)
+    * [partners](https://www.bugcrowd.com/about/partners)
+    * [contact](https://www.bugcrowd.com/about/contact)
+  * [programs](/programs) [bug bounty list](https://www.bugcrowd.com/bug-bounty-list/)
+  * [join the crowd](https://www.bugcrowd.com/join-the-crowd/)
+
+[![bugcrowd
+logo](https://assets.bugcrowdusercontent.com/packs/media/images/logo-full.min-
+ffef5e4dc1c44a8705ad8947f770bdd4.svg) ](https://www.bugcrowd.com/)
+
+  * [terms & conditions](https://www.bugcrowd.com/terms-and-conditions/)
+  * [privacy policy](https://www.bugcrowd.com/privacy/)
+  * [do not sell my information](https://www.bugcrowd.com/privacy/do-not-sell-my-information/)
+  * copyright © 2021 bugcrowd
+
+  * [ ](https://www.linkedin.com/company/bugcrowd)
+  * [ ](https://twitter.com/bugcrowd)
+  * [ ](https://www.facebook.com/bugcrowd)
+  * [ ](https://www.youtube.com/channel/uco1nhk_bgbabdbc4jinrxww)
+
