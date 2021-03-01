@@ -9,7 +9,11 @@ def train_by_parts(args):
     if os.path.isdir(args.text_src):
         counter = 0
         dirpath = args.text_src
-        entries = sorted(os.listdir(dirpath))[args.start_file_pos:args.start_file_pos+args.num_files]
+        entries = sorted(os.listdir(dirpath))
+        if not args.num_files:
+            entries[args.start_file_pos]
+        else:
+            entries = entries[args.start_file_pos:args.start_file_pos+args.num_files]
         for entry in entries:
             if not entry.endswith(".txt"):
                 continue
@@ -130,8 +134,8 @@ def str2bool(v):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("-text_src", default='')  #if a directory, summarize all files
-    parser.add_argument("-start_file_pos", default=0, type=int)
-    parser.add_argument("-num_files", default=10, type=int)
+    parser.add_argument("-start_file_pos", nargs='?', const=0, default=0, type=int)
+    parser.add_argument("-num_files", nargs='?', const=None, default=None, type=int)
 
     parser.add_argument("-text_tgt", default='')
     parser.add_argument("-max_pos", default=512, type=int)
