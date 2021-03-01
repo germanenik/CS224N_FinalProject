@@ -132,8 +132,10 @@ def quotes_from_csv():
     for index, row in df.iterrows():
         quote_text = row['quote_text']
         tldr = row['tldr']
-        lines.append(quote_text if quote_text != "" and len(quote_text) >= len(tldr) else tldr)
-    with open('quotes.complex', 'a') as f:
+        line = quote_text if quote_text != "" and len(quote_text) >= len(tldr) else tldr
+        line = re.sub('\\n', ' ', line)
+        lines.append(line)
+    with open('quotes.complex', 'w') as f:
         f.writelines("%s\n" % i for i in lines)
 
 
