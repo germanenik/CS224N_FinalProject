@@ -6,6 +6,28 @@ from others.tokenization import BasicTokenizer
 from nltk.tokenize.treebank import TreebankWordDetokenizer
 
 def train_by_parts(args):
+    if os.path.isdir(args.text_src):
+        counter = 0
+        dirpath = args.text_src
+        entries = sorted(os.listdir(dirpath))[args.start_file_pos:args.start_file_pos+args.num_files]
+        for entry in entries:
+            if not entry.endswith(".txt"):
+                continue
+            file_path = f"{dirpath}/{entry}"
+
+            print("\n")
+            print("*"*120)
+            print(f"{counter} / {args.num_files}. ***** Summarizing file path {file_path} ******")
+            print("*"*120)
+            print("\n")
+
+            if not args.debug:
+                train_by_parts_singlefile(file_path, args.max_pos, args.debug)
+            counter += 1
+    else:
+        train_by_parts_singlefile(args.text_src, args.max_pos, args.debug)
+
+def train_by_parts_singlefile(text_src_path, max_pos, debug):
 
     #split file into chunks of size 512
     file_paths = []
@@ -14,12 +36,12 @@ def train_by_parts(args):
 
     print(f'\n\n STARTING TO SPLITTING INTO CHUNKS \n')
 
-    with open(args.text_src) as f:
+    with open(text_src_path) as f:
         text = f.read()
         tokenized = [tup[1] for tup in tokenizer.tokenize(text)] #just list of strings
 
         prev_endidx = 0
-        max_size = args.max_pos
+        max_size = max_pos
         file_name_counter = 0
         while prev_endidx < len(tokenized):
             curr_tokens = tokenized[prev_endidx:prev_endidx+max_size]
@@ -50,14 +72,14 @@ def train_by_parts(args):
     #eval on each file
     counter = 0
     for file_path in file_paths:
-        print(f'\n\n SUMMARIZING CHUNK {counter} \n')
+        print(f'\n\n SUMMARIZING CHUNK {counter} / {len(file_paths)} \n')
         counter += 1
         file_path_notxt = file_path[:-4]
         os.system(f"python train.py -task ext -mode test_text -text_src {file_path} -test_from ../models/bertext_cnndm_transformer.pt -log_file ../logs/cnndm.log -result_path {file_path_notxt}")
     
     #write to one file
     print(f'\n\n WRITING TO ONE SUMMARY FILE \n')
-    results_file_path = get_resultsfile_path(args.text_src) 
+    results_file_path = get_resultsfile_path(text_src_path) 
     with open(results_file_path, 'a') as final_file:
         final_file.truncate(0)
         for file_path in file_paths:
@@ -107,10 +129,14 @@ def str2bool(v):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument("-text_src", default='')
+    parser.add_argument("-text_src", default='')  #if a directory, summarize all files
+    parser.add_argument("-start_file_pos", default=0, type=int)
+    parser.add_argument("-num_files", default=10, type=int)
+
     parser.add_argument("-text_tgt", default='')
     parser.add_argument("-max_pos", default=512, type=int)
     parser.add_argument("-debug", type=str2bool, nargs='?', const=True, default=False, help="Debug mode (no trainig done).")
+
     args = parser.parse_args()
 
     train_by_parts(args)
