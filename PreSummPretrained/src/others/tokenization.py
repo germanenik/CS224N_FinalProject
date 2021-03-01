@@ -64,6 +64,7 @@ def load_vocab(vocab_file):
 
 def whitespace_tokenize(text):
     """Runs basic whitespace cleaning and splitting on a peice of text."""
+    #breakpoint()
     text = text.strip()
     if not text:
         return []
@@ -189,7 +190,9 @@ class BasicTokenizer(object):
         # words in the English Wikipedia.).
         text = self._tokenize_chinese_chars(text)
         orig_tokens = whitespace_tokenize(text)
+        #breakpoint()
         split_tokens = []
+        #breakpoint()
         for i,token in enumerate(orig_tokens):
             if self.do_lower_case and token not in self.never_split:
                 token = token.lower()
@@ -198,6 +201,7 @@ class BasicTokenizer(object):
             split_tokens.extend([(i,t) for t in self._run_split_on_punc(token)])
 
         # output_tokens = whitespace_tokenize(" ".join(split_tokens))
+        #breakpoint()
         return split_tokens
 
     def _run_strip_accents(self, text):
