@@ -124,6 +124,22 @@ def download_ToS_pages():
                 file.close()
 
 
+def quotes_from_csv():
+    """ Grab the quotes (whether it's quoteText or tldr) from the csv and put it in a .txt file """
+    df = pd.read_csv("parsed_tosdr_data.csv", encoding='utf-8-sig')
+    df.fillna("", inplace=True)
+    lines = []
+    for index, row in df.iterrows():
+        quote_text = row['quote_text']
+        tldr = row['tldr']
+        line = quote_text if quote_text != "" and len(quote_text) >= len(tldr) else tldr
+        line = re.sub('\\n', ' ', line)
+        lines.append(line)
+    with open('quotes.complex', 'w') as f:
+        f.writelines("%s\n" % i for i in lines)
+
+
 if __name__ == '__main__':
-    download_ToS_pages()
+    #download_ToS_pages()
     #tosdr_to_csv()
+    quotes_from_csv()
