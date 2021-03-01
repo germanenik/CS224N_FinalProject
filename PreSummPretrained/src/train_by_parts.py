@@ -83,12 +83,22 @@ def get_chunk_summary_path(path: str):
     #path is the path of original chunk
     return path[:-4] + '.candidate'
 
+def str2bool(v):
+    if isinstance(v, bool):
+       return v
+    if v.lower() in ('yes', 'true', 't', 'y', '1'):
+        return True
+    elif v.lower() in ('no', 'false', 'f', 'n', '0'):
+        return False
+    else:
+        raise argparse.ArgumentTypeError('Boolean value expected.')
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("-text_src", default='')
     parser.add_argument("-text_tgt", default='')
     parser.add_argument("-max_pos", default=512, type=int)
+    parser.add_argument("-debug", type=str2bool, nargs='?', const=True, default=False, help="Debug mode (no trainig done).")
     args = parser.parse_args()
 
     train_by_parts(args)
