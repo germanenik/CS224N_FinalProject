@@ -38,7 +38,7 @@ def train_by_parts(args):
             curr_tokens = curr_tokens[:chunk_len+1]
            # curr_text =  " ".join(curr_tokens) #figure out to how condense normally
             curr_text =  detokenizer.detokenize(curr_tokens)
-            chunk_file_path = get_chunkfile_name(f.name, file_name_counter) 
+            chunk_file_path = get_chunkfile_path(f.name, file_name_counter) 
             chunk_file = open(chunk_file_path, 'w')
             chunk_file.write(curr_text)
 
@@ -57,7 +57,7 @@ def train_by_parts(args):
     
     #write to one file
     print(f'\n\n WRITING TO ONE SUMMARY FILE \n')
-    results_file_path = get_chunkfile_name(args.text_src, -1) 
+    results_file_path = get_resultsfile_path(args.text_src) 
     with open(results_file_path, 'a') as final_file:
         final_file.truncate(0)
         for file_path in file_paths:
@@ -71,13 +71,25 @@ def rindex(lst, value):
     lst.reverse()
     return len(lst) - i - 1
 
-def get_chunkfile_name(path: str, file_name_counter: int):
+def get_chunkfile_path(path: str, file_name_counter: int):
     chunk_name = os.path.basename(path)
     chunk_name = chunk_name[:-4]
-    if file_name_counter != -1:
-        return f'../chunks/{chunk_name}-chunk{file_name_counter}.txt'
-    else:
-        return f'../chunks/{chunk_name}-SUMMARY.txt'
+    # Create target Directory if don't exist
+    if not os.path.exists(f'../chunks/{chunk_name}/'):
+        os.mkdir(f'../chunks/{chunk_name}/')
+    return f'../chunks/{chunk_name}/{chunk_name}-chunk{file_name_counter}.txt'
+
+def get_resultsfile_path(src_path: str):
+    directory = os.path.dirname(src_path)
+    target_dir = f'{directory}/summaries/'
+    if not os.path.exists(target_dir):
+        os.mkdir(target_dir)
+    
+    base_name = os.path.basename(src_path)
+    base_name = base_name[:-4]
+    base_name.replace(" ", "_")
+    return f'{target_dir}{base_name}-SUMMARY.txt'
+
 
 def get_chunk_summary_path(path: str):
     #path is the path of original chunk
