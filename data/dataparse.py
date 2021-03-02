@@ -103,9 +103,7 @@ def download_ToS_pages():
                 except requests.exceptions.ConnectionError as e:
                     print('FAILED: ', service_name, name)
                     continue
-
-                
-
+                    
                 rendered_content = html2text.html2text(html_content).lower()
                 # charset = page.headers.get_content_charset()
                 # rendered_content = html_content.decode(charset)
@@ -139,49 +137,5 @@ def quotes_from_csv():
         f.writelines("%s\n" % i for i in lines)
 
 
-def add_separators_to_texts(path_to_texts):
-    """ Add [CLS] [SEP] to the end of every sentence and/or paragraph """
-    #files = [file for file in os.scandir(path_to_texts)]
-    for filename in os.scandir(path_to_texts):
-        if filename.path.endswith('.txt'):
-            #print(filename)
-            with open(filename, 'r') as f:
-                lines = f.readlines()
-            with open(filename, 'w') as f:
-                for line in lines:
-                    line = line.replace('. ', '. [CLS] [SEP] ')
-                    # if line != "":
-                    #     print(line[-1])
-                    # if line.endswith(".\n"):
-                    #     line += '[CLS] [SEP]'
-                    line = line.replace('.\n', '. [CLS] [SEP]\n')
-                    f.write(line)
-
-
-def group_doc_quotes_together():
-    """ For summarization, coalesce the quotes from one ToS doc into one text file """
-    resulting_path = 'summarization/quotes/'
-    df = pd.read_csv("parsed_tosdr_data.csv", encoding='utf-8-sig')
-    df.fillna("", inplace=True)
-    for index, row in df.iterrows():
-        service = row['service']
-        docname = re.sub('/', '', row['source_doc'])
-        quote_text = row['quote_text']
-        tldr = row['tldr']
-        line = quote_text if quote_text != "" and len(quote_text) >= len(tldr) else tldr
-        line = re.sub('\\n', ' ', line)
-        if len(line) > 1:
-            if line.endswith('.'):
-                line += ' '
-            elif not line.endswith('. '):
-                line += '. '
-        filename = resulting_path + service + '_' + docname + '.txt'
-        with open(filename, 'a+') as f:
-            f.writelines("%s" % line)
-
-
-
 if __name__ == '__main__':
-    #group_doc_quotes_together()
-    #add_separators_to_texts('summarization/quotes/')
-    add_separators_to_texts('summarization/full_texts/')
+    
