@@ -224,9 +224,9 @@ class Trainer(object):
         if (not cal_lead and not cal_oracle):
             self.model.eval()
         stats = Statistics()
-
-        can_path = '%s_step%d.candidate' % (self.args.result_path, step)
-        gold_path = '%s_step%d.gold' % (self.args.result_path, step)
+        #breakpoint()
+        can_path = '%s.candidate' % (self.args.result_path)
+        gold_path = '%s.gold' % (self.args.result_path)
         with open(can_path, 'w') as save_pred:
             with open(gold_path, 'w') as save_gold:
                 with torch.no_grad():

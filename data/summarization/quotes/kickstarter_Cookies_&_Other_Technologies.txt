@@ -1,0 +1,1 @@
+some browsers have “do not track” features that allow you to tell a website not to track you. [CLS] [SEP] these features are not all uniform. [CLS] [SEP] we do not currently respond to those signals. [CLS] [SEP] 

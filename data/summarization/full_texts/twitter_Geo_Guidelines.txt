@@ -1,0 +1,166 @@
+developer terms
+
+##  geo guidelines
+
+last update: october 22, 2014. [CLS] [SEP]
+
+##### introduction
+
+tweeting with location is the geotagging feature in the twitter api. [CLS] [SEP] this
+feature helps to provide a more meaningful experience for users by making
+tweets more contextual. [CLS] [SEP] for instance, âfireworks!â is much more relevant
+when associated with a location: âfireworks!â from the soma neighborhood
+in san francisco, california. [CLS] [SEP] we look forward to working with the developer
+ecosystem to create great experiences around this functionality!
+
+##### user privacy and user control of their location information  
+
+to ensure a good and safe experience, developers should be sensitive to user
+privacy when dealing with their location as well as provide baseline
+consistency in the âtweeting with locationâ experience. [CLS] [SEP] here are someâ key
+things to keep in mind that help protect user privacy and ensure users
+understand the impact of their actions:
+
+##### general guidelines
+
+  * users must opt-in to use the tweeting with location feature (turn location âonâ). [CLS] [SEP]
+  * users must give explicit permission for their exact location to be displayed with their tweets. [CLS] [SEP] if the location feature on your client is âstickyâ â i.e. [CLS] [SEP] once location is turned on it always accompanies a tweet â you may wish to display only place names (place_ids) and allow users to further opt in to exact latitude and longitude on a per-tweet basis or as a specific alternative setting. [CLS] [SEP]
+  * when you access your usersâ location data to post a tweet, that information should not be stored by you apart from the tweet without the userâs explicit permission. [CLS] [SEP]
+  * it must be clear to users what level of location information, if any, will be displayed in association with their tweet. [CLS] [SEP] one way you can do this is by showing a map of how this information will be displayed before the tweet is published. [CLS] [SEP] if exact latitude and longitude is part of the information (or the only information) published by the user on the client, it should be clear to the user that their exact coordinates will be published. [CLS] [SEP]
+  * users should be able to turn on and off their location each time they compose a tweet. [CLS] [SEP]
+  * you must follow the terms of twitterâsâ [developer policy](/en/developer-terms/policy.html)â ââ including the requirement thatâ you may not aggregate, cache, or store location data and other geographic information from the twitter api, except as part of a tweet, and may not use such location data or geographic information on a standalone basis. [CLS] [SEP]
+
+##### specific examples
+
+example 1:â _no addition of explicit latitude and longitude (this is the
+current twitter web client ui)_
+
+  1. [CLS] [SEP] show a link to âadd your locationâ when a user composes a tweet;
+  2. [CLS] [SEP] in the background, use the twitterâ [reverse_geocode](/en/docs/geo/places-near-location/api-reference/get-geo-reverse_geocode.html)â api call and pass the latitude, longitude, accuracy of your fix, and the userâs preferred granularity (which, by default, is âneighborhoodâ);[](/en/docs/geo/places-near-location/api-reference/get-geo-reverse_geocode.html)
+  3. [CLS] [SEP] display the name for the default place (twitter will attempt to order these in a way that makes sense - the ordering is such that a twitter client can just display the list without a need for modification);
+  4. [CLS] [SEP] allow the user to select a different location from the list (e.g. [CLS] [SEP] change from âsoma, san franciscoâ to âsouth beach, san franciscoâ). [CLS] [SEP]
+  5. [CLS] [SEP] important: be transparent with the user if you will be displaying exact location information. [CLS] [SEP] make sure the user knows if exact location information will be displayed. [CLS] [SEP]
+  6. [CLS] [SEP] allow the user the choice to turn on or off location with every tweet compose. [CLS] [SEP]
+
+example 2:â _existing geotagging implementations_
+
+a number of twitter client apps have the original geotagging feature (which
+only broadcast lat/lons without providing place_ids) implemented. [CLS] [SEP] the default
+behavior of the api mimics this behaviorâ ââ i.e. [CLS] [SEP] as a developer you do not
+need to make any changes to your existing app in orderâ to maintain the
+behavior that exists today. [CLS] [SEP] indeed, if you simplyâ pass a lat/lon coordinate
+in to twitter, twitter will automatically reverse geocode that latitude and
+longitude and display the place_id in addition to lat/lon for areas where we
+have data available. [CLS] [SEP]
+
+ensure that it is transparent to your users that their exact coordinates are
+being used and displayed on twitter. [CLS] [SEP] a best practice for existing apps would
+be to allow users to turn on or off their location on a per-tweet basis. [CLS] [SEP] you
+can also enable your users to share only place_ids instead of exact
+coordinates as a default, âstickyâ setting. [CLS] [SEP]
+
+##### twitter storage of user location data
+
+twitter will store data passed by the clientâ as follows:
+
+  * twitter will save all the data that a user chooses to publicly display to his/her followers. [CLS] [SEP] this is similar to how twitter stores the time stamp that says when the tweet was made, meaning if a user tweets with their exact coordinates, twitter will store this exact location along with the tweet for as long as the tweet exists. [CLS] [SEP] users can clear location data from their tweets by clicking the âclear my location historyâ button on the settings page as describedâ [here](https://support.twitter.com/articles/122236-how-to-tweet-with-your-location)). [CLS] [SEP]
+
+##### summary
+
+the addition of location to a tweet adds an enormous amount of context and
+value from a user perspective. [CLS] [SEP] however, implementations of location in your
+client should be careful to take privacy and user transparency as a key
+consideration in designing a location-focused product. [CLS] [SEP]
+
+if you have any questions or comments about privacy, location, and other geo
+features, pleaseâ [contact us.](https://support.twitter.com/forms/platform)
+
+[ developer agreement, policy & terms ](/en/more/developer-terms.html
+"developer agreement, policy & terms")
+
+[ follow @twitterdev ](http://twitter.com/twitterdev "follow @twitterdev")
+
+[ subscribe to developer news ](https://developer.twitter.com/en/twitterdev-
+news-subscription)
+
+####  twitter platform
+
+  * [ twitter.com ](https://twitter.com/ "twitter.com")
+  * [ status ](https://status.twitterstat.us/ "status")
+  * [ card validator ](https://cards-dev.twitter.com/validator "card validator")
+  * [ privacy center ](https://privacy.twitter.com/ "privacy center")
+  * [ transparency center ](https://transparency.twitter.com/ "transparency center")
+
+####  twitter, inc. [CLS] [SEP]
+
+  * [ about the company ](https://about.twitter.com/en/who-we-are/our-company.html "about the company")
+  * [ twitter for good ](https://about.twitter.com/en/who-we-are/twitter-for-good.html "twitter for good")
+  * [ company news ](https://blog.twitter.com/ "company news")
+  * [ brand toolkit ](https://about.twitter.com/en/who-we-are/brand-toolkit.html "brand toolkit")
+  * [ jobs and internships ](https://careers.twitter.com/ "jobs and internships")
+  * [ investors ](https://investor.twitterinc.com/ "investors")
+
+####  help
+
+  * [ help center ](https://help.twitter.com/ "help center")
+  * [ using twitter ](https://help.twitter.com/en/using-twitter "using twitter")
+  * [ twitter media ](https://media.twitter.com/ "twitter media")
+  * [ ads help center ](https://business.twitter.com/en/help.html "ads help center")
+  * [ managing your account ](https://help.twitter.com/en/managing-your-account "managing your account")
+  * [ safety and security ](https://help.twitter.com/en/safety-and-security "safety and security")
+  * [ rules and policies ](https://help.twitter.com/en/rules-and-policies "rules and policies")
+  * [ contact us ](https://help.twitter.com/contact-us "contact us")
+
+####  developer resources
+
+  * [ developer home ](https://developer.twitter.com/en "developer home")
+  * [ documentation ](https://developer.twitter.com/en/docs "documentation")
+  * [ forums ](https://twittercommunity.com/ "forums")
+  * [ communities ](https://developer.twitter.com/en/community "communities")
+  * [ developer blog ](https://blog.twitter.com/developer/ "developer blog")
+  * [ engineering blog ](https://blog.twitter.com/engineering/en_us.html "engineering blog")
+  * [ developer terms ](https://developer.twitter.com/en/more/developer-terms "developer terms")
+
+####  business resources
+
+  * [ advertise ](https://business.twitter.com/en/advertising.html "advertise")
+  * [ twitter for business ](https://business.twitter.com/ "twitter for business")
+  * [ resources and guides ](https://business.twitter.com/en/resources.html "resources and guides")
+  * [ twitter for marketers ](https://marketing.twitter.com/ "twitter for marketers")
+  * [ marketing insights ](https://marketing.twitter.com/en/insights "marketing insights")
+  * [ brand inspiration ](https://marketing.twitter.com/en/success-stories "brand inspiration")
+  * [ twitter data ](https://data.twitter.com/ "twitter data")
+  * [ twitter flight school ](https://www.twitterflightschool.com/sl/382652bc "twitter flight school")
+
+(c) 2021 twitter, inc. [CLS] [SEP]
+
+[ cookies ](https://help.twitter.com/rules-and-policies/twitter-cookies
+"cookies")
+
+[ privacy ](https://twitter.com/privacy "privacy")
+
+[ terms and conditions ](https://twitter.com/tos "terms and conditions")
+
+language
+
+  * [ developer ](/en/developer-terms/geo-guidelines)
+
+by using twitterâs services you agree to our [cookies
+use](https://help.twitter.com/en/rules-and-policies/twitter-cookies). [CLS] [SEP] we use
+cookies for purposes including analytics, personalisation, and ads. [CLS] [SEP]
+
+  * ok
+
+this page and certain other twitter sites place and read third party cookies
+on your browser that are used for non-essential purposes including targeting
+of ads. [CLS] [SEP] through these cookies,
+_[google](https://policies.google.com/privacy?hl=en)_ ,
+_[linkedin](https://www.linkedin.com/legal/privacy-policy)_ and
+_[demandbase](https://www.demandbase.com/privacy-policy/)_ collect personal
+data about you for their own purposes. [CLS] [SEP]  _[learn
+more](https://help.twitter.com/en/rules-and-policies/twitter-cookies)_. [CLS] [SEP]  
+  
+
+  * accept
+  * decline
+

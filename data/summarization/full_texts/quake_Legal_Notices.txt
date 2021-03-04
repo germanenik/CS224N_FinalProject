@@ -1,0 +1,10 @@
+# 404 not found
+
+  * code: nosuchkey
+  * message: the specified key does not exist. [CLS] [SEP]
+  * key: legals/notices
+  * requestid: 2b955338551c3a34
+  * hostid: 9exx1ca1vqmcdbdljuue1cb1ffsvsiunrqqzbve3unzkzjvapnuhvffw2ttvxswh02xu+rxhkro=
+
+* * *
+

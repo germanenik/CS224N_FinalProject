@@ -1,0 +1,255 @@
+[![coursera](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0idxrmltgipz4kpcetlsbhzw5lcmf0b3i6iefkb2jlielsbhvzdhjhdg9yide2ljiumcwgu1zhiev4cg9ydcbqbhvnluluic4gu1zhifzlcnnpb246idyumdagqnvpbgqgmckgic0tpgo8iurpq1rzueugc3znifbvqkxjqyails8vvzndly9eveqgu1zhideums8vru4iicjodhrwoi8vd3d3lnczlm9yzy9hcmfwagljcy9tvkcvms4xl0rurc9zdmcxms5kdgqipgo8c3znihzpzxdcb3g9ijagmcaxmtu1ide2ncigeg1sbnm9imh0dha6ly93d3cudzmub3jnlziwmdavc3zniibmawxslxj1bgu9imv2zw5vzgqiignsaxatcnvszt0izxzlbm9kzcigc3ryb2tllwxpbmvqb2lupsjyb3vuzcigc3ryb2tllw1pdgvybgltaxq9ijiipjxwyxroigq9ik0xntkunzugodeuntrjmc00nc40osazni42my04mc40nya4mi40my04mc40nya0ni4xmiawidgyljc2idm2idgyljc2idgwljq3idagndqumtytmzyunjqgodauoc04mi43nia4mc44ltq1ljggmc04mi40my0zni42oc04mi40my04mc44em0xmjuunjegmgmwltiylji0lte5ljmtndeuodctndmumtgtndeuodctmjmuntugmc00mi44nsaxos42my00mi44nsa0ms44nyawidiylju3ide5ljmgndiumia0mi44nsa0mi4yidizljkyidagndmumtgtmtkunjmgndmumtgtndiumnptnza1ljyzideumzfjmc00oc43ncazos41oc04ms43oca3ns41ny04ms43ocaync41myawidm4ljygny41mia0oc4wocayms45mmwzljc3lte5adm2ljc5dje1ns40ac0zni43owwtnc43ns0xnmmtmtaunzkgmteunzgtmjqumjegmtktndcumsaxos0zns4zmy0umdutnzuuntctmzeumtmtnzuuntctnzkuntr6bteyns42ms0umznjls4wos0ymy41mjctmtkundctndiuodm1ltqzltqyljgzns0ymy41osawltqzide5ljqxms00mya0m3yumty1yzagmjeuntkgmtkumya0mc44osa0mi44nia0mc44osaymy44nsawidqzlje0lte5ljmgndmumtqtndeumjj6ttk0ns43ocaymly0ac00mc4ym3yxntuumzlondaumjnwnzuunjzjmc0yns4xosaxmi40nc0zoc4ynyaznc0zoc4ynyaxljqzidagmi43os4xidqumtiumjnmotkxljm2ljexyy0ymc45ny4xms0zni4xnya3ljmtnduuntggmjeuodl6bs00mdqumjcumdf2lte4bc00mc4ymy4wos4zncaxntuumzcgndaumjmtlja5ls4ymi04my43mmmtlja2lti1lje4ideyljm1ltm4lji5idmzljkzltm4ljm0ideumzc2ljawncayljc1mi4wodegnc4xmi4ym0w1odcumsawyy0ymsaumtctmzyumjigny4zos00ns41osaymi4wmxpnmzm4ljg4idk5ljjwnc4wmwg0mc4ymly5nc4zyzagmtkuotugmteumtigmzeunzmgmzaundigmzeunzmgmjeuntkgmcaznc0xmy4wosaznc0zoc4yofy0ljaxadqwlji0dje1ns4zoggtndaumjf2lte4yy05ljq4ide0ljcylti0ljg2idixljkyltq2ljeyidixljkyltm1ljk4ljaxltu4lju1lti2lje2ltu4lju1lty0ljexem0zoteunzqtmtcundhjlja5ltqzljuxidmxljizltgwljc0idgwljyyltgwljy1idq1ljgumdkgnzgumtegmzyunzggnzggodagljaxidqumjczls4zmya4lju0ltegmtiunzzsltexoc40ms0umjjjnc41ncaxoc42nsaxos44osazmi4wosa0my4xmiazmi4xncaxnc4wniawidi5ljeyltuumtggmzgumy0xni45ngwyny40ncaymmmtmtqumtegmtkuotmtmzkgmzeunjytnjuundggmzeunjetndyunzutlje2ltgyljy3ltm1ljizltgylju5ltgwljd6btexoc4xmi0xni4xngmtmi4yni0xns43lte4lju5lti3ljg0ltm3ljg5lti3ljg3lte4ljy1idatmzmunzegmteumdytmzkunjmgmjcunznsnzcuntiumtr6bs0ynjeunca1os45ngwzns43ni0xoc43mmm1ljkxideyljgxide3ljczidiwljm2idm0ljq4idiwljm2ide1ljqzidagmjeumzqtnc45miayms4znc0xms44miawlti1ltg0ljcxltkuodutodqunzetnjcgmc0zms41miayny41oc00oc4ynia2ms43mi00oc4yniayns45ncawidq4ljkyidexljq5idyxljqgmziuodnsltm1ljq0ide4ljc1yy01lji1ltewljuxlte1ljetmtyunditmjcuntgtmtyunditmtiumtqgmc0xoc4wnia0lji3lte4lja2idexljq5idagmjqumya4nc43msa4ljg3idg0ljcxidy3idagmzaumjetmjqunjigndguntktnjqumzugndguntktmzmuoditljazltu3ljq2ltexlje5lty5lji3ltm2ljh6ttagodeuntrdmcazni43myazni42my43nca4mi40my43ngmyny45ndctlje5nia1nc4xodigmtmunzm3idy5ljy3idm3bc0znc4zncaxos45mme0mi45nzigndiuotcyidagmdatmzuumzmtmtgumzjjltizlju1idatndiuodugmtkunjmtndiuodugndiumiawidiylju3ide5ljmgndiumia0mi44nsa0mi4yytqyljuwmia0mi41mdigmcawmdm2ljmxltiwbdm0idiwlji4yy0xns4zmdcgmjmuotu1ltqxljkwmiazoc40mzetnzaumzmgmzgumjhdmzyunjmgmtyyljm0idagmti1ljy2idagodeuntr6iibmawxspsijmda1nkqyiibmawxslxj1bgu9im5vbnplcm8ilz48l3n2zz4=)](/)
+
+  * [browse](/browse)
+  * [top courses](/courses)
+  * [log in](/about/cookies?authmode=login)
+  * [join for free](/about/cookies?authmode=signup)
+
+list
+
+[![coursera](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0idxrmltgipz4kpcetlsbhzw5lcmf0b3i6iefkb2jlielsbhvzdhjhdg9yide2ljiumcwgu1zhiev4cg9ydcbqbhvnluluic4gu1zhifzlcnnpb246idyumdagqnvpbgqgmckgic0tpgo8iurpq1rzueugc3znifbvqkxjqyails8vvzndly9eveqgu1zhideums8vru4iicjodhrwoi8vd3d3lnczlm9yzy9hcmfwagljcy9tvkcvms4xl0rurc9zdmcxms5kdgqipgo8c3znihzpzxdcb3g9ijagmcaxmtu1ide2ncigeg1sbnm9imh0dha6ly93d3cudzmub3jnlziwmdavc3zniibmawxslxj1bgu9imv2zw5vzgqiignsaxatcnvszt0izxzlbm9kzcigc3ryb2tllwxpbmvqb2lupsjyb3vuzcigc3ryb2tllw1pdgvybgltaxq9ijiipjxwyxroigq9ik0xntkunzugodeuntrjmc00nc40osazni42my04mc40nya4mi40my04mc40nya0ni4xmiawidgyljc2idm2idgyljc2idgwljq3idagndqumtytmzyunjqgodauoc04mi43nia4mc44ltq1ljggmc04mi40my0zni42oc04mi40my04mc44em0xmjuunjegmgmwltiylji0lte5ljmtndeuodctndmumtgtndeuodctmjmuntugmc00mi44nsaxos42my00mi44nsa0ms44nyawidiylju3ide5ljmgndiumia0mi44nsa0mi4yidizljkyidagndmumtgtmtkunjmgndmumtgtndiumnptnza1ljyzideumzfjmc00oc43ncazos41oc04ms43oca3ns41ny04ms43ocaync41myawidm4ljygny41mia0oc4wocayms45mmwzljc3lte5adm2ljc5dje1ns40ac0zni43owwtnc43ns0xnmmtmtaunzkgmteunzgtmjqumjegmtktndcumsaxos0zns4zmy0umdutnzuuntctmzeumtmtnzuuntctnzkuntr6bteyns42ms0umznjls4wos0ymy41mjctmtkundctndiuodm1ltqzltqyljgzns0ymy41osawltqzide5ljqxms00mya0m3yumty1yzagmjeuntkgmtkumya0mc44osa0mi44nia0mc44osaymy44nsawidqzlje0lte5ljmgndmumtqtndeumjj6ttk0ns43ocaymly0ac00mc4ym3yxntuumzlondaumjnwnzuunjzjmc0yns4xosaxmi40nc0zoc4ynyaznc0zoc4ynyaxljqzidagmi43os4xidqumtiumjnmotkxljm2ljexyy0ymc45ny4xms0zni4xnya3ljmtnduuntggmjeuodl6bs00mdqumjcumdf2lte4bc00mc4ymy4wos4zncaxntuumzcgndaumjmtlja5ls4ymi04my43mmmtlja2lti1lje4ideyljm1ltm4lji5idmzljkzltm4ljm0ideumzc2ljawncayljc1mi4wodegnc4xmi4ym0w1odcumsawyy0ymsaumtctmzyumjigny4zos00ns41osaymi4wmxpnmzm4ljg4idk5ljjwnc4wmwg0mc4ymly5nc4zyzagmtkuotugmteumtigmzeunzmgmzaundigmzeunzmgmjeuntkgmcaznc0xmy4wosaznc0zoc4yofy0ljaxadqwlji0dje1ns4zoggtndaumjf2lte4yy05ljq4ide0ljcylti0ljg2idixljkyltq2ljeyidixljkyltm1ljk4ljaxltu4lju1lti2lje2ltu4lju1lty0ljexem0zoteunzqtmtcundhjlja5ltqzljuxidmxljizltgwljc0idgwljyyltgwljy1idq1ljgumdkgnzgumtegmzyunzggnzggodagljaxidqumjczls4zmya4lju0ltegmtiunzzsltexoc40ms0umjjjnc41ncaxoc42nsaxos44osazmi4wosa0my4xmiazmi4xncaxnc4wniawidi5ljeyltuumtggmzgumy0xni45ngwyny40ncaymmmtmtqumtegmtkuotmtmzkgmzeunjytnjuundggmzeunjetndyunzutlje2ltgyljy3ltm1ljizltgylju5ltgwljd6btexoc4xmi0xni4xngmtmi4yni0xns43lte4lju5lti3ljg0ltm3ljg5lti3ljg3lte4ljy1idatmzmunzegmteumdytmzkunjmgmjcunznsnzcuntiumtr6bs0ynjeunca1os45ngwzns43ni0xoc43mmm1ljkxideyljgxide3ljczidiwljm2idm0ljq4idiwljm2ide1ljqzidagmjeumzqtnc45miayms4znc0xms44miawlti1ltg0ljcxltkuodutodqunzetnjcgmc0zms41miayny41oc00oc4ynia2ms43mi00oc4yniayns45ncawidq4ljkyidexljq5idyxljqgmziuodnsltm1ljq0ide4ljc1yy01lji1ltewljuxlte1ljetmtyunditmjcuntgtmtyunditmtiumtqgmc0xoc4wnia0lji3lte4lja2idexljq5idagmjqumya4nc43msa4ljg3idg0ljcxidy3idagmzaumjetmjqunjigndguntktnjqumzugndguntktmzmuoditljazltu3ljq2ltexlje5lty5lji3ltm2ljh6ttagodeuntrdmcazni43myazni42my43nca4mi40my43ngmyny45ndctlje5nia1nc4xodigmtmunzm3idy5ljy3idm3bc0znc4zncaxos45mme0mi45nzigndiuotcyidagmdatmzuumzmtmtgumzjjltizlju1idatndiuodugmtkunjmtndiuodugndiumiawidiylju3ide5ljmgndiumia0mi44nsa0mi4yytqyljuwmia0mi41mdigmcawmdm2ljmxltiwbdm0idiwlji4yy0xns4zmdcgmjmuotu1ltqxljkwmiazoc40mzetnzaumzmgmzgumjhdmzyunjmgmtyyljm0idagmti1ljy2idagodeuntr6iibmawxspsijmda1nkqyiibmawxslxj1bgu9im5vbnplcm8ilz48l3n2zz4=)](/)
+
+[privacy notice](/about/privacy)[ccpa notice](/about/privacy/ccpa)[data
+protection addendum](/about/privacy/data-protection-addendum)[cookies
+policy](/about/cookies)[terms of use](/about/terms)
+
+* * *
+
+# cookies policy
+
+* * *
+
+_effective: january 1, 2021._
+
+coursera ("us", "we", or "our") uses cookies on coursera.org and affiliated
+websites (collectively the "site"). [CLS] [SEP]
+
+our cookies policy explains what cookies are, how we use cookies, how third-
+parties we partner with may use cookies on the site, and your choices
+regarding cookies. [CLS] [SEP] please read this cookies policy in conjunction with our
+[privacy notice](https://www.coursera.org/about/privacy), which sets out
+additional details on how we use personally identifiable information and your
+various rights. [CLS] [SEP]
+
+## what are cookies
+
+cookies are small pieces of text sent by your web browser by a website you
+visit. [CLS] [SEP] a cookie file is stored in your web browser and allows the site or a
+third-party to recognize you and make your next visit easier and the site more
+useful to you. [CLS] [SEP] essentially, cookies are a userâs identification card for the
+coursera servers. [CLS] [SEP] web beacons are small graphic files linked to our servers
+that allow us to track your use of our site and related functionalities. [CLS] [SEP]
+cookies and web beacons allow coursera to serve you better and more
+efficiently, and to personalize your experience on our site. [CLS] [SEP]
+
+cookies can be "persistent" or "session" cookies. [CLS] [SEP]
+
+## how coursera uses cookies
+
+when you use and access the site, we may place a number of cookies files in
+your web browser. [CLS] [SEP]
+
+coursera uses or may use cookies and/or web beacons to help us determine and
+identify repeat visitors, the type of content and sites to which a user of our
+site links, the length of time each user spends at any particular area of our
+site, and the specific functionalities that users choose to use. [CLS] [SEP] to the extent
+that cookies data constitutes personally identifiable information, we process
+such data as set out in our privacy notice. [CLS] [SEP]
+
+we use both session and persistent cookies on the site and we use different
+types of cookies to run the site:
+
+  *  _essential cookies._ necessary for the operation of the site. [CLS] [SEP] we may use essential cookies to authenticate users, prevent fraudulent use of user accounts, or offer site features. [CLS] [SEP]
+  *  _analytical/performance cookies._ allow us to recognize and count the number of visitors and see how visitors move around the site when using it. [CLS] [SEP] this helps us improve the way the site works. [CLS] [SEP]
+  *  _functionality cookies._ used to recognise you when you return to the site. [CLS] [SEP] this enables us to personalise our content for you, greet you by name, and remember your preferences (for example, your choice of language or region). [CLS] [SEP]
+  *  _targeting cookies._ record your visit to the site, the pages you have visited, and the links you have followed. [CLS] [SEP] we will use this information to make the site and the content more relevant to your interests. [CLS] [SEP] we may also share this information with third parties for this purpose. [CLS] [SEP]
+
+to view a list of coursera cookies, please view our [cookies
+table](https://www.coursera.org/about/cookies-table). [CLS] [SEP]
+
+## third-party cookies
+
+in addition to our own cookies, we may also use various third-party cookies to
+report usage statistics of the site and refine marketing efforts. [CLS] [SEP]
+
+  *  _tracking cookies_. [CLS] [SEP] follow on-site behavior and tie it to other metrics allowing better understanding of usage habits. [CLS] [SEP]
+  *  _optimization cookies_. [CLS] [SEP] allow real-time tracking of user conversion from different marketing channels to evaluate their effectiveness. [CLS] [SEP]
+  *  _partner cookies_. [CLS] [SEP] provide marketing conversion metrics to our partners so they can optimize their paid marketing efforts. [CLS] [SEP]
+
+to view a list of coursera cookies, please view our [cookies
+table](https://www.coursera.org/about/cookies-table). [CLS] [SEP]
+
+## what are your choices regarding cookies
+
+if you'd like to delete cookies or instruct your web browser to delete or
+refuse cookies, please visit the help pages of your web browser. [CLS] [SEP] you can also
+use the âmanage preferencesâ link in the âhow coursera uses cookiesâ
+section above to change your settings. [CLS] [SEP] coursera does not currently recognize
+do-not-track signals from your web browser. [CLS] [SEP]
+
+please note, however, that if you delete cookies or refuse to accept them, you
+might not be able to use some or all of the features we offer. [CLS] [SEP] you may not be
+able to log in, store your preferences, and some of our pages might not
+display properly. [CLS] [SEP]
+
+california law requires us to let you know how we respond to web browser do
+not track (dnt) signals. [CLS] [SEP] because there is currently no industry or legal
+standard for recognizing or honoring dnt signals, we do not respond to them at
+this time. [CLS] [SEP]
+
+# revisions
+
+below is a list of all the revisions made to the content of our cookies
+policy, with links to view the difference between each revision. [CLS] [SEP]
+
+  * [2020-12-18: updated for clarity regarding the choices you have with respect to cookies](https://www.diffchecker.com/fgimmyfa)
+
+## coursera footer
+
+### top online courses
+
+  * [finding purpose & meaning in life](/learn/finding-purpose-and-meaning-in-life)
+  * [understanding medical research](/learn/medical-research)
+  * [japanese for beginners](/learn/japanese-1)
+  * [introduction to cloud computing](/learn/introduction-to-cloud)
+  * [foundations of mindfulness](/learn/foundations-of-mindfulness)
+  * [fundamentals of finance](/learn/finance-fundamentals)
+  * [machine learning](/learn/machine-learning)
+  * [machine learning using sas viya](/learn/machine-learning-sas)
+  * [the science of well being](/learn/the-science-of-well-being)
+  * [covid-19 contact tracing](/learn/covid-19-contact-tracing)
+  * [ai for everyone](/learn/ai-for-everyone)
+  * [financial markets](/learn/financial-markets-global)
+  * [introduction to psychology](/learn/introduction-psychology)
+  * [getting started with aws](/learn/aws-machine-learning)
+  * [international marketing](/specializations/international-marketing)
+  * [c++](/learn/c-plus-plus-a)
+  * [predictive analytics & data mining](/learn/predictive-analytics-data-mining)
+  * [ucsd learning how to learn](/learn/learning-how-to-learn)
+  * [michigan programming for everybody](/learn/python)
+  * [jhu r programming](/learn/r-programming)
+  * [google cbrs cpi training](/learn/google-cbrs-cpi-training)
+
+### top online specializations
+
+  * [natural language processing (nlp)](/specializations/natural-language-processing)
+  * [ai for medicine](/specializations/ai-for-medicine)
+  * [good with words: writing & editing](/specializations/good-with-words)
+  * [infections disease modeling](/specializations/infectious-disease-modelling)
+  * [the pronounciation of american english](/specializations/american-english-pronunciation)
+  * [software testing automation](/specializations/software-testing-automation)
+  * [deep learning](/specializations/deep-learning)
+  * [python for everybody](/specializations/python)
+  * [data science](/specializations/jhu-data-science)
+  * [business foundations](/specializations/wharton-business-foundations)
+  * [excel skills for business](/specializations/excel)
+  * [data science with python](/specializations/data-science-python)
+  * [finance for everyone](/specializations/finance-for-everyone)
+  * [communication skills for engineers](/specializations/leadership-communication-engineers)
+  * [sales training](/specializations/sales-training-high-performing-teams)
+  * [career brand management](/specializations/career-brand-management)
+  * [wharton business analytics](/specializations/business-analytics)
+  * [penn positive psychology](/specializations/positivepsychology)
+  * [washington machine learning](/specializations/machine-learning)
+  * [calarts graphic design](/specializations/graphic-design)
+
+### online certificates
+
+  * [professional certificates](/professional-certificates)
+  * [mastertrack certificates](/mastertrack)
+  * [google it support](/professional-certificates/google-it-support)
+  * [ibm data science](/professional-certificates/ibm-data-science)
+  * [google cloud data engineering](/professional-certificates/gcp-data-engineering)
+  * [ibm applied ai](/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
+  * [google cloud architecture](/professional-certificates/gcp-cloud-architect)
+  * [ibm cybersecurity analyst](/professional-certificates/ibm-cybersecurity-analyst)
+  * [google it automation with python](/professional-certificates/google-it-automation)
+  * [ibm z/os mainframe practitioner](/professional-certificates/ibm-z-mainframe)
+  * [uci applied project management](/professional-certificate/applied-project-management)
+  * [instructional design certificate](https://www.coursera.org/mastertrack/instructional-design-illinois)
+  * [construction engineering and management certificate](https://www.coursera.org/mastertrack/construction-engineering-management-umich)
+  * [big data certificate](https://www.coursera.org/mastertrack/big-data-asu)
+  * [machine learning for analytics certificate](https://www.coursera.org/mastertrack/machine-learning-analytics-chicago)
+  * [innovation management & entrepreneurship certificate](https://www.coursera.org/mastertrack/innovation-management-entrepreneurship-hec)
+  * [sustainabaility and development certificate](https://www.coursera.org/mastertrack/sustainability-development-umich)
+  * [social work certificate](https://www.coursera.org/mastertrack/social-work-umich)
+  * [ai and machine learning certificate](https://www.coursera.org/mastertrack/ai-machine-learning-asu)
+  * [spatial data analysis and visualization certificate](https://www.coursera.org/mastertrack/spatial-data-analysis-visualization-ucdavis)
+
+### online degree programs
+
+  * [computer science degrees](https://www.coursera.org/degrees/computer-science)
+  * [business degrees](https://www.coursera.org/degrees/business)
+  * [public health degrees](https://www.coursera.org/degrees/public-health)
+  * [data science degrees](https://www.coursera.org/degrees/data-science)
+  * [bachelor's degrees](/collections/bachelors-degrees)
+  * [bachelor of computer science](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london)
+  * [ms electrical engineering](https://www.coursera.org/degrees/msee-boulder)
+  * [bachelor completion degree](https://www.coursera.org/degrees/unt-online-bachelor-completion)
+  * [ms management](https://www.coursera.org/degrees/ms-management-illinois)
+  * [ms computer science](https://www.coursera.org/degrees/master-of-computer-science-asu)
+  * [mph](https://www.coursera.org/degrees/global-mph-imperial)
+  * [accounting master's degree](https://www.coursera.org/degrees/imsa)
+  * [mcit](https://www.coursera.org/degrees/mcit-penn)
+  * [mba online](https://www.coursera.org/degrees/imba)
+  * [master of applied data science](https://www.coursera.org/degrees/master-of-applied-data-science-umich)
+  * [global mba](https://www.coursera.org/degrees/global-mba-macquarie)
+  * [master's of innovation & entrepreneurship](https://www.coursera.org/degrees/omie)
+  * [mcs data science](https://www.coursera.org/degrees/masters-in-computer-data-science)
+  * [master's in computer science](https://www.coursera.org/degrees/master-of-computer-science-illinois)
+  * [master's in public health](https://www.coursera.org/degrees/mph-umich)
+
+### coursera
+
+  * [about](https://about.coursera.org/)
+  * [what we offer](https://about.coursera.org/how-coursera-works/)
+  * [leadership](https://about.coursera.org/leadership)
+  * [careers](/about/careers)
+  * [catalog](/browse)
+  * [coursera plus](/courseraplus)
+  * [certificates](/professional-certificate)
+  * [mastertrackâ¢ certificates](/mastertrack)
+  * [degrees](/degrees)
+  * [for enterprise](/business?utm_campaign=website&utm_content=corp-to-home-footer-for-enterprise&utm_medium=coursera&utm_source=enterprise)
+  * [for government](/government?utm_campaign=website&utm_content=corp-to-home-footer-for-government&utm_medium=coursera&utm_source=enterprise)
+  * [for campus](/campus?utm_campaign=website&utm_content=corp-to-home-footer-for-campus&utm_medium=coursera&utm_source=enterprise)
+
+### community
+
+  * [learners](https://www.coursera.community)
+  * [partners](https://www.coursera.org/about/partners)
+  * [developers](https://building.coursera.org/developer-program/)
+  * [beta testers](https://www.coursera.community/#beta-tester)
+  * [translators](https://www.coursera.community/#gtc)
+  * [blog](https://blog.coursera.org)
+  * [tech blog](https://medium.com/coursera-engineering)
+  * [teaching center](/teaching-center)
+
+### more
+
+  * [terms](/about/terms)
+  * [privacy](/about/privacy)
+  * [help](https://learner.coursera.help/hc)
+  * [accessibility](https://learner.coursera.help/hc/en-us/articles/360050668591-accessibility-statement)
+  * [press](/about/press)
+  * [contact](/about/contact)
+  * [articles](https://www.coursera.org/articles)
+  * [directory](/directory)
+  * [affiliates](https://about.coursera.org/affiliates)
+
+learn anywhere
+
+[![download on the app
+store](https://d3njjcbhbojbot.cloudfront.net/web/images/icons/download_on_the_app_store_badge_en.svg)](https://itunes.apple.com/app/apple-
+store/id736535961?pt=2334150&ct=coursera%20web%20promo%20banner&mt=8)[![get it
+on google
+play](https://d3njjcbhbojbot.cloudfront.net/web/images/icons/en_generic_rgb_wo_45.png)](http://play.google.com/store/apps/details?id=org.coursera.android)
+
+â© 2021 coursera inc. [CLS] [SEP] all rights reserved. [CLS] [SEP]
+
+  * [![coursera facebook](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/facebook.png?auto=format%2ccompress&dpr=1&w=28&h=28)](https://www.facebook.com/coursera)
+  * [![coursera linkedin](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/linkedin.png?auto=format%2ccompress&dpr=1&w=28&h=28)](https://www.linkedin.com/company/coursera)
+  * [![coursera twitter](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/twitter.png?auto=format%2ccompress&dpr=1&w=28&h=28)](https://twitter.com/coursera)
+  * [![coursera youtube](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/youtube.png?auto=format%2ccompress&dpr=1&w=28&h=28)](https://www.youtube.com/user/coursera)
+  * [![coursera instagram](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/instagram.png?auto=format%2ccompress&dpr=1&w=28&h=28)](https://www.instagram.com/coursera/)
+

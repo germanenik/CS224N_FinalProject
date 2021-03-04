@@ -1,0 +1,1002 @@
+[ ](/en) [github docs](/en)
+
+  * [ all products ](/en)
+  * [github.com](/en/github)
+  *     * [getting started](/en/github/getting-started-with-github)
+
+      * [quickstart](/en/github/getting-started-with-github/quickstart)
+        * [set up git](/en/github/getting-started-with-github/set-up-git)
+        * [create a repo](/en/github/getting-started-with-github/create-a-repo)
+        * [fork a repo](/en/github/getting-started-with-github/fork-a-repo)
+        * [be social](/en/github/getting-started-with-github/be-social)
+      * [learning about github](/en/github/getting-started-with-github/learning-about-github)
+        * [github's products](/en/github/getting-started-with-github/githubs-products)
+        * [about github advanced security](/en/github/getting-started-with-github/about-github-advanced-security)
+        * [exploring early access releases with feature preview](/en/github/getting-started-with-github/exploring-early-access-releases-with-feature-preview)
+        * [types of github accounts](/en/github/getting-started-with-github/types-of-github-accounts)
+        * [faq about changes to github’s plans](/en/github/getting-started-with-github/faq-about-changes-to-githubs-plans)
+        * [github cli](/en/github/getting-started-with-github/github-cli)
+        * [github desktop](/en/github/getting-started-with-github/github-desktop)
+        * [github for mobile](/en/github/getting-started-with-github/github-for-mobile)
+        * [access permissions on github](/en/github/getting-started-with-github/access-permissions-on-github)
+        * [github glossary](/en/github/getting-started-with-github/github-glossary)
+        * [git cheatsheet](/en/github/getting-started-with-github/git-cheatsheet)
+        * [git and github learning resources](/en/github/getting-started-with-github/git-and-github-learning-resources)
+      * [signing up for github](/en/github/getting-started-with-github/signing-up-for-github)
+        * [sign up for a new github account](/en/github/getting-started-with-github/signing-up-for-a-new-github-account)
+        * [verifying your email address](/en/github/getting-started-with-github/verifying-your-email-address)
+        * [setting up a trial of github enterprise cloud](/en/github/getting-started-with-github/setting-up-a-trial-of-github-enterprise-cloud)
+        * [setting up a trial of github enterprise server](/en/github/getting-started-with-github/setting-up-a-trial-of-github-enterprise-server)
+      * [exploring projects on github](/en/github/getting-started-with-github/exploring-projects-on-github)
+        * [finding ways to contribute to open source on github](/en/github/getting-started-with-github/finding-ways-to-contribute-to-open-source-on-github)
+        * [saving repositories with stars](/en/github/getting-started-with-github/saving-repositories-with-stars)
+        * [following people](/en/github/getting-started-with-github/following-people)
+      * [using github](/en/github/getting-started-with-github/using-github)
+        * [supported browsers](/en/github/getting-started-with-github/supported-browsers)
+        * [troubleshooting connectivity problems](/en/github/getting-started-with-github/troubleshooting-connectivity-problems)
+        * [keyboard shortcuts](/en/github/getting-started-with-github/keyboard-shortcuts)
+    * [user accounts](/en/github/setting-up-and-managing-your-github-user-account)
+
+      * [managing user account settings](/en/github/setting-up-and-managing-your-github-user-account/managing-user-account-settings)
+        * [about your personal dashboard](/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard)
+        * [managing your theme settings](/en/github/setting-up-and-managing-your-github-user-account/managing-your-theme-settings)
+        * [changing your github username](/en/github/setting-up-and-managing-your-github-user-account/changing-your-github-username)
+        * [merging multiple user accounts](/en/github/setting-up-and-managing-your-github-user-account/merging-multiple-user-accounts)
+        * [converting a user into an organization](/en/github/setting-up-and-managing-your-github-user-account/converting-a-user-into-an-organization)
+        * [deleting your user account](/en/github/setting-up-and-managing-your-github-user-account/deleting-your-user-account)
+        * [permission levels for a user account repository](/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository)
+        * [permission levels for user-owned project boards](/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-user-owned-project-boards)
+        * [managing the default branch name for your repositories](/en/github/setting-up-and-managing-your-github-user-account/managing-the-default-branch-name-for-your-repositories)
+        * [managing security and analysis settings for your user account](/en/github/setting-up-and-managing-your-github-user-account/managing-security-and-analysis-settings-for-your-user-account)
+        * [managing access to your user account's project boards](/en/github/setting-up-and-managing-your-github-user-account/managing-access-to-your-user-accounts-project-boards)
+        * [best practices for leaving your company](/en/github/setting-up-and-managing-your-github-user-account/best-practices-for-leaving-your-company)
+        * [what does the 'available for hire' checkbox do?](/en/github/setting-up-and-managing-your-github-user-account/what-does-the-available-for-hire-checkbox-do)
+      * [managing email preferences](/en/github/setting-up-and-managing-your-github-user-account/managing-email-preferences)
+        * [adding an email address to your github account](/en/github/setting-up-and-managing-your-github-user-account/adding-an-email-address-to-your-github-account)
+        * [changing your primary email address](/en/github/setting-up-and-managing-your-github-user-account/changing-your-primary-email-address)
+        * [setting a backup email address](/en/github/setting-up-and-managing-your-github-user-account/setting-a-backup-email-address)
+        * [setting your commit email address](/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address)
+        * [blocking command line pushes that expose your personal email address](/en/github/setting-up-and-managing-your-github-user-account/blocking-command-line-pushes-that-expose-your-personal-email-address)
+        * [remembering your github username or email](/en/github/setting-up-and-managing-your-github-user-account/remembering-your-github-username-or-email)
+        * [types of emails github sends](/en/github/setting-up-and-managing-your-github-user-account/types-of-emails-github-sends)
+        * [managing marketing emails from github](/en/github/setting-up-and-managing-your-github-user-account/managing-marketing-emails-from-github)
+      * [managing access to your personal repositories](/en/github/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories)
+        * [inviting collaborators to a personal repository](/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
+        * [removing a collaborator from a personal repository](/en/github/setting-up-and-managing-your-github-user-account/removing-a-collaborator-from-a-personal-repository)
+        * [removing yourself from a collaborator's repository](/en/github/setting-up-and-managing-your-github-user-account/removing-yourself-from-a-collaborators-repository)
+        * [maintaining ownership continuity of your user account's repositories](/en/github/setting-up-and-managing-your-github-user-account/maintaining-ownership-continuity-of-your-user-accounts-repositories)
+      * [managing your membership in organizations](/en/github/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations)
+        * [about organization membership](/en/github/setting-up-and-managing-your-github-user-account/about-organization-membership)
+        * [accessing an organization](/en/github/setting-up-and-managing-your-github-user-account/accessing-an-organization)
+        * [viewing people's roles in an organization](/en/github/setting-up-and-managing-your-github-user-account/viewing-peoples-roles-in-an-organization)
+        * [requesting organization approval for oauth apps](/en/github/setting-up-and-managing-your-github-user-account/requesting-organization-approval-for-oauth-apps)
+        * [publicizing or hiding organization membership](/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership)
+        * [managing your scheduled reminders](/en/github/setting-up-and-managing-your-github-user-account/managing-your-scheduled-reminders)
+        * [removing yourself from an organization](/en/github/setting-up-and-managing-your-github-user-account/removing-yourself-from-an-organization)
+    * [profiles](/en/github/setting-up-and-managing-your-github-profile)
+
+      * [customizing your profile](/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile)
+        * [about your profile](/en/github/setting-up-and-managing-your-github-profile/about-your-profile)
+        * [about your organization's profile](/en/github/setting-up-and-managing-your-github-profile/about-your-organizations-profile)
+        * [personalizing your profile](/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile)
+        * [managing your profile readme](/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
+        * [pinning items to your profile](/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
+      * [managing contribution graphs on your profile](/en/github/setting-up-and-managing-your-github-profile/managing-contribution-graphs-on-your-profile)
+        * [viewing contributions on your profile](/en/github/setting-up-and-managing-your-github-profile/viewing-contributions-on-your-profile)
+        * [showing an overview of your activity on your profile](/en/github/setting-up-and-managing-your-github-profile/showing-an-overview-of-your-activity-on-your-profile)
+        * [publicizing or hiding your private contributions on your profile](/en/github/setting-up-and-managing-your-github-profile/publicizing-or-hiding-your-private-contributions-on-your-profile)
+        * [sending your github enterprise server contributions to your github.com profile](/en/github/setting-up-and-managing-your-github-profile/sending-your-github-enterprise-server-contributions-to-your-githubcom-profile)
+        * [why are my contributions not showing up on my profile?](/en/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile)
+        * [troubleshooting commits on your timeline](/en/github/setting-up-and-managing-your-github-profile/troubleshooting-commits-on-your-timeline)
+    * [authentication](/en/github/authenticating-to-github)
+
+    * [managing subscriptions and notifications on github](/en/github/managing-subscriptions-and-notifications-on-github)
+
+    * [organizations and teams](/en/github/setting-up-and-managing-organizations-and-teams)
+
+    * [your enterprise](/en/github/setting-up-and-managing-your-enterprise)
+
+    * [billing and payments](/en/github/setting-up-and-managing-billing-and-payments-on-github)
+
+    * [writing on github](/en/github/writing-on-github)
+
+    * [creating, cloning, and archiving repositories](/en/github/creating-cloning-and-archiving-repositories)
+
+    * [using git](/en/github/using-git)
+
+    * [committing changes to your project](/en/github/committing-changes-to-your-project)
+
+    * [collaborating with issues and pull requests](/en/github/collaborating-with-issues-and-pull-requests)
+
+    * [managing your work on github](/en/github/managing-your-work-on-github)
+
+    * [codespaces](/en/github/developing-online-with-codespaces)
+
+    * [building a strong community](/en/github/building-a-strong-community)
+
+    * [searching for information on github](/en/github/searching-for-information-on-github)
+
+    * [importing your projects](/en/github/importing-your-projects-to-github)
+
+    * [administering a repository](/en/github/administering-a-repository)
+
+    * [visualizing repository data with graphs](/en/github/visualizing-repository-data-with-graphs)
+
+    * [managing security vulnerabilities](/en/github/managing-security-vulnerabilities)
+
+    * [finding vulnerabilities and coding errors](/en/github/finding-security-vulnerabilities-and-errors-in-your-code)
+
+    * [managing files in a repository](/en/github/managing-files-in-a-repository)
+
+    * [managing large files](/en/github/managing-large-files)
+
+    * [customizing your github workflow](/en/github/customizing-your-github-workflow)
+
+    * [extending github](/en/github/extending-github)
+
+    * [github pages](/en/github/working-with-github-pages)
+
+    * [github sponsors](/en/github/supporting-the-open-source-community-with-github-sponsors)
+
+    * [finding talent with github jobs](/en/github/finding-talent-with-github-jobs)
+
+    * [working with github support](/en/github/working-with-github-support)
+
+    * [understanding how github uses and protects your data](/en/github/understanding-how-github-uses-and-protects-your-data)
+
+    * [site policy](/en/github/site-policy)
+
+      * [github terms of service](/en/github/site-policy/github-terms-of-service)
+      * [github corporate terms of service](/en/github/site-policy/github-corporate-terms-of-service)
+      * [github privacy statement](/en/github/site-policy/github-privacy-statement)
+      * [global privacy practices](/en/github/site-policy/global-privacy-practices)
+      * [github insights and data protection for your organization](/en/github/site-policy/github-insights-and-data-protection-for-your-organization)
+      * [github sponsors additional terms](/en/github/site-policy/github-sponsors-additional-terms)
+      * [github additional product terms](/en/github/site-policy/github-additional-product-terms)
+      * [github logo policy](/en/github/site-policy/github-logo-policy)
+      * [github username policy](/en/github/site-policy/github-username-policy)
+      * [submitting content removal requests](/en/github/site-policy/submitting-content-removal-requests)
+      * [dmca takedown policy](/en/github/site-policy/dmca-takedown-policy)
+      * [guide to submitting a dmca takedown notice](/en/github/site-policy/guide-to-submitting-a-dmca-takedown-notice)
+      * [guide to submitting a dmca counter notice](/en/github/site-policy/guide-to-submitting-a-dmca-counter-notice)
+      * [github trademark policy](/en/github/site-policy/github-trademark-policy)
+      * [github sensitive data removal policy](/en/github/site-policy/github-sensitive-data-removal-policy)
+      * [github subprocessors and cookies](/en/github/site-policy/github-subprocessors-and-cookies)
+      * [github bug bounty program legal safe harbor](/en/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
+      * [responsible disclosure of security vulnerabilities](/en/github/site-policy/responsible-disclosure-of-security-vulnerabilities)
+      * [guidelines for legal requests of user data](/en/github/site-policy/guidelines-for-legal-requests-of-user-data)
+      * [github government takedown policy](/en/github/site-policy/github-government-takedown-policy)
+      * [github acceptable use policies](/en/github/site-policy/github-acceptable-use-policies)
+      * [github's notice about the california consumer privacy act](/en/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act)
+      * [github community guidelines](/en/github/site-policy/github-community-guidelines)
+      * [github community forum code of conduct](/en/github/site-policy/github-community-forum-code-of-conduct)
+      * [github registered developer agreement](/en/github/site-policy/github-registered-developer-agreement)
+      * [github marketplace terms of service](/en/github/site-policy/github-marketplace-terms-of-service)
+      * [github marketplace developer agreement](/en/github/site-policy/github-marketplace-developer-agreement)
+      * [github pre-release program](/en/github/site-policy/github-pre-release-program)
+      * [github research program terms](/en/github/site-policy/github-research-program-terms)
+      * [github open source applications terms and conditions](/en/github/site-policy/github-open-source-applications-terms-and-conditions)
+      * [github and trade controls](/en/github/site-policy/github-and-trade-controls)
+      * [github deceased user policy](/en/github/site-policy/github-deceased-user-policy)
+      * [github statement against modern slavery and child labor](/en/github/site-policy/github-statement-against-modern-slavery-and-child-labor)
+      * [github anti-bribery statement](/en/github/site-policy/github-anti-bribery-statement)
+      * [github gifts and entertainment policy](/en/github/site-policy/github-gifts-and-entertainment-policy)
+      * [github event terms](/en/github/site-policy/github-event-terms)
+      * [github event code of conduct](/en/github/site-policy/github-event-code-of-conduct)
+      * [github gpl cooperation commitment](/en/github/site-policy/github-gpl-cooperation-commitment)
+
+[ ](/en) [github docs](/en)
+
+#### explore by product
+
+github.com
+
+[ github.com ](/en/github) [ enterprise administrators ](/en/enterprise-
+server@3.0/admin) [ github discussions ](/en/discussions) [ github actions
+](/en/actions) [ github packages ](/en/packages) [ developers
+](/en/developers) [ rest api ](/en/rest) [ graphql api ](/en/graphql) [ github
+insights ](/en/enterprise-server@3.0/insights) [ education ](/en/education) [
+github desktop ](/en/desktop) [ github cli  ](https://cli.github.com/manual) [
+atom  ](https://atom.io/docs) [ electron  ](https://electronjs.org/docs)
+
+english
+
+[ english ](/en/github/site-policy/github-terms-of-service) [ 简体中文 (simplified
+chinese) ](/cn/github/site-policy/github-terms-of-service) [ 日本語 (japanese)
+](/ja/github/site-policy/github-terms-of-service) [ español (spanish)
+](/es/github/site-policy/github-terms-of-service) [ português do brasil
+(portuguese) ](/pt/github/site-policy/github-terms-of-service)
+
+[ github.com ](/en/github "product: github.com") [ site policy
+](/en/github/site-policy "category: site policy") [ github terms of service
+](/en/github/site-policy/github-terms-of-service "article: github terms of
+service")
+
+# github terms of service
+
+## in this article
+
+  * summary
+  * the github terms of service
+  * a. [CLS] [SEP] definitions
+  * b. [CLS] [SEP] account terms
+  * c. [CLS] [SEP] acceptable use
+  * d. [CLS] [SEP] user-generated content
+  * e. [CLS] [SEP] private repositories
+  * f. [CLS] [SEP] copyright infringement and dmca policy
+  * g. [CLS] [SEP] intellectual property notice
+  * h. [CLS] [SEP] api terms
+  * i. [CLS] [SEP] github additional product terms
+  * j. [CLS] [SEP] beta previews
+  * k. [CLS] [SEP] payment
+  * l. [CLS] [SEP] cancellation and termination
+  * m. [CLS] [SEP] communications with github
+  * n. [CLS] [SEP] disclaimer of warranties
+  * o. [CLS] [SEP] limitation of liability
+  * p. [CLS] [SEP] release and indemnification
+  * q. [CLS] [SEP] changes to these terms
+  * r. [CLS] [SEP] miscellaneous
+
+thank you for using github! we're happy you're here. [CLS] [SEP] please read this terms of
+service agreement carefully before accessing or using github. [CLS] [SEP] because it is
+such an important contract between us and our users, we have tried to make it
+as clear as possible. [CLS] [SEP] for your convenience, we have presented these terms in a
+short non-binding summary followed by the full legal terms. [CLS] [SEP]
+
+### summary
+
+section| what can you find there?  
+---|---  
+a. [CLS] [SEP] definitions| some basic terms, defined in a way that will help you
+understand this agreement. [CLS] [SEP] refer back up to this section for clarification. [CLS] [SEP]  
+b. [CLS] [SEP] account terms| these are the basic requirements of having an account on
+github. [CLS] [SEP]  
+c. [CLS] [SEP] acceptable use| these are the basic rules you must follow when using your
+github account. [CLS] [SEP]  
+d. [CLS] [SEP] user-generated content| you own the content you post on github. [CLS] [SEP] however,
+you have some responsibilities regarding it, and we ask you to grant us some
+rights so we can provide services to you. [CLS] [SEP]  
+e. [CLS] [SEP] private repositories| this section talks about how github will treat
+content you post in private repositories. [CLS] [SEP]  
+f. [CLS] [SEP] copyright & dmca policy| this section talks about how github will respond
+if you believe someone is infringing your copyrights on github. [CLS] [SEP]  
+g. [CLS] [SEP] intellectual property notice| this describes github's rights in the website
+and service. [CLS] [SEP]  
+h. [CLS] [SEP] api terms| these are the rules for using github's apis, whether you are
+using the api for development or data collection. [CLS] [SEP]  
+i. [CLS] [SEP] additional product terms| we have a few specific rules for github's
+features and products. [CLS] [SEP]  
+j. [CLS] [SEP] beta previews| these are some of the additional terms that apply to
+github's features that are still in development. [CLS] [SEP]  
+k. [CLS] [SEP] payment| you are responsible for payment. [CLS] [SEP] we are responsible for billing
+you accurately. [CLS] [SEP]  
+l. [CLS] [SEP] cancellation and termination| you may cancel this agreement and close your
+account at any time. [CLS] [SEP]  
+m. [CLS] [SEP] communications with github| we only use email and other electronic means to
+stay in touch with our users. [CLS] [SEP] we do not provide phone support. [CLS] [SEP]  
+n. [CLS] [SEP] disclaimer of warranties| we provide our service as is, and we make no
+promises or guarantees about this service. [CLS] [SEP] **please read this section
+carefully; you should understand what to expect.**  
+o. [CLS] [SEP] limitation of liability| we will not be liable for damages or losses
+arising from your use or inability to use the service or otherwise arising
+under this agreement. [CLS] [SEP] **please read this section carefully; it limits our
+obligations to you.**  
+p. [CLS] [SEP] release and indemnification| you are fully responsible for your use of the
+service. [CLS] [SEP]  
+q. [CLS] [SEP] changes to these terms of service| we may modify this agreement, but we
+will give you 30 days' notice of material changes. [CLS] [SEP]  
+r. [CLS] [SEP] miscellaneous| please see this section for legal details including our
+choice of law. [CLS] [SEP]  
+  
+### the github terms of service
+
+effective date: november 16, 2020
+
+### a. [CLS] [SEP] definitions
+
+**short version:** _we use these basic terms throughout the agreement, and
+they have specific meanings. [CLS] [SEP] you should know what we mean when we use each of
+the terms. [CLS] [SEP] there 's not going to be a test on it, but it's still useful
+information._
+
+  1. [CLS] [SEP] an "account" represents your legal relationship with github. [CLS] [SEP] a "user account" represents an individual user's authorization to log in to and use the service and serves as a user's identity on github. [CLS] [SEP] "organizations" are shared workspaces that may be associated with a single entity or with one or more users where multiple users can collaborate across many projects at once. [CLS] [SEP] a user account can be a member of any number of organizations. [CLS] [SEP]
+  2. [CLS] [SEP] the "agreement" refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the "terms of service" or the "terms") and all other operating rules, policies (including the github privacy statement, available at [github.com/site/privacy](https://github.com/site/privacy)) and procedures that we may publish from time to time on the website. [CLS] [SEP] most of our site policies are available at [docs.github.com/categories/site-policy](/en/categories/site-policy). [CLS] [SEP]
+  3. [CLS] [SEP] "beta previews" mean software, services, or features identified as alpha, beta, preview, early access, or evaluation, or words or phrases with similar meanings. [CLS] [SEP]
+  4. [CLS] [SEP] "content" refers to content featured or displayed through the website, including without limitation code, text, data, articles, images, photographs, graphics, software, applications, packages, designs, features, and other materials that are available on the website or otherwise available through the service. [CLS] [SEP] "content" also includes services. [CLS] [SEP] "user-generated content" is content, written or otherwise, created or uploaded by our users. [CLS] [SEP] "your content" is content that you create or own. [CLS] [SEP]
+  5. [CLS] [SEP] "github," "we," and "us" refer to github, inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees. [CLS] [SEP]
+  6. [CLS] [SEP] the "service" refers to the applications, software, products, and services provided by github, including any beta previews. [CLS] [SEP]
+  7. [CLS] [SEP] "the user," "you," and "your" refer to the individual person, company, or organization that has visited or is using the website or service; that accesses or uses any part of the account; or that directs the use of the account in the performance of its functions. [CLS] [SEP] a user must be at least 13 years of age. [CLS] [SEP] special terms may apply for business or government accounts (see section b(5): additional terms). [CLS] [SEP]
+  8. [CLS] [SEP] the "website" refers to github's website located at [github.com](https://github.com/), and all content, services, and products provided by github at or through the website. [CLS] [SEP] it also refers to github-owned subdomains of github.com, such as [education.github.com](https://education.github.com/) and [pages.github.com](https://pages.github.com/). [CLS] [SEP] these terms also govern github's conference websites, such as [githubuniverse.com](https://githubuniverse.com/), and product websites, such as [atom.io](https://atom.io/). [CLS] [SEP] occasionally, websites owned by github may provide different or additional terms of service. [CLS] [SEP] if those additional terms conflict with this agreement, the more specific terms apply to the relevant page or service. [CLS] [SEP]
+
+### b. [CLS] [SEP] account terms
+
+**short version:** _user accounts and organizations have different
+administrative controls; a human must create your account; you must be 13 or
+over; you must provide a valid email address; and you may not have more than
+one free account. [CLS] [SEP] you alone are responsible for your account and anything that
+happens while you are signed in to or using your account. [CLS] [SEP] you are responsible
+for keeping your account secure._
+
+#### 1\. [CLS] [SEP] account controls
+
+  * users. [CLS] [SEP] subject to these terms, you retain ultimate administrative control over your user account and the content within it. [CLS] [SEP]
+
+  * organizations. [CLS] [SEP] the "owner" of an organization that was created under these terms has ultimate administrative control over that organization and the content within it. [CLS] [SEP] within the service, an owner can manage user access to the organization's data and projects. [CLS] [SEP] an organization may have multiple owners, but there must be at least one user account designated as an owner of an organization. [CLS] [SEP] if you are the owner of an organization under these terms, we consider you responsible for the actions that are performed on or through that organization. [CLS] [SEP]
+
+#### 2\. [CLS] [SEP] required information
+
+you must provide a valid email address in order to complete the signup
+process. [CLS] [SEP] any other information requested, such as your real name, is optional,
+unless you are accepting these terms on behalf of a legal entity (in which
+case we need more information about the legal entity) or if you opt for a paid
+account, in which case additional information will be necessary for billing
+purposes. [CLS] [SEP]
+
+#### 3\. [CLS] [SEP] account requirements
+
+we have a few simple rules for user accounts on github's service. [CLS] [SEP]
+
+  * you must be a human to create an account. [CLS] [SEP] accounts registered by "bots" or other automated methods are not permitted. [CLS] [SEP] we do permit machine accounts:
+  * a machine account is an account set up by an individual human who accepts the terms on behalf of the account, provides a valid email address, and is responsible for its actions. [CLS] [SEP] a machine account is used exclusively for performing automated tasks. [CLS] [SEP] multiple users may direct the actions of a machine account, but the owner of the account is ultimately responsible for the machine's actions. [CLS] [SEP] you may maintain no more than one free machine account in addition to your free user account. [CLS] [SEP]
+  * one person or legal entity may maintain no more than one free account (if you choose to control a machine account as well, that's fine, but it can only be used for running a machine). [CLS] [SEP]
+  * you must be age 13 or older. [CLS] [SEP] while we are thrilled to see brilliant young coders get excited by learning to program, we must comply with united states law. [CLS] [SEP] github does not target our service to children under 13, and we do not permit any users under 13 on our service. [CLS] [SEP] if we learn of any user under the age of 13, we will terminate that user's account immediately. [CLS] [SEP] if you are a resident of a country outside the united states, your country's minimum age may be older; in such a case, you are responsible for complying with your country's laws. [CLS] [SEP]
+  * your login may only be used by one person -- i.e., a single login may not be shared by multiple people. [CLS] [SEP] a paid organization may only provide access to as many user accounts as your subscription allows. [CLS] [SEP]
+  * you may not use github in violation of export control or sanctions laws of the united states or any other applicable jurisdiction. [CLS] [SEP] you may not use github if you are or are working on behalf of a [specially designated national (sdn)](https://www.treasury.gov/resource-center/sanctions/sdn-list/pages/default.aspx) or a person subject to similar blocking or denied party prohibitions administered by a u.s. [CLS] [SEP] government agency. [CLS] [SEP] github may allow persons in certain sanctioned countries or territories to access certain github services pursuant to u.s. [CLS] [SEP] government authorizations. [CLS] [SEP] for more information, please see our [export controls policy](/en/articles/github-and-export-controls). [CLS] [SEP] 
+
+#### 4\. [CLS] [SEP] user account security
+
+you are responsible for keeping your account secure while you use our service. [CLS] [SEP]
+we offer tools such as two-factor authentication to help you maintain your
+account's security, but the content of your account and its security are up to
+you. [CLS] [SEP]
+
+  * you are responsible for all content posted and activity that occurs under your account (even when content is posted by others who have accounts under your account). [CLS] [SEP]
+  * you are responsible for maintaining the security of your account and password. [CLS] [SEP] github cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. [CLS] [SEP]
+  * you will promptly [notify github](https://support.github.com/contact) if you become aware of any unauthorized use of, or access to, our service through your account, including any unauthorized use of your password or account. [CLS] [SEP]
+
+#### 5\. [CLS] [SEP] additional terms
+
+in some situations, third parties' terms may apply to your use of github. [CLS] [SEP] for
+example, you may be a member of an organization on github with its own terms
+or license agreements; you may download an application that integrates with
+github; or you may use github to authenticate to another service. [CLS] [SEP] please be
+aware that while these terms are our full agreement with you, other parties'
+terms govern their relationships with you. [CLS] [SEP]
+
+if you are a government user or otherwise accessing or using any github
+service in a government capacity, this [government amendment to github terms
+of service](/en/articles/amendment-to-github-terms-of-service-applicable-to-u-
+s-federal-government-users) applies to you, and you agree to its provisions. [CLS] [SEP]
+
+if you have signed up for github enterprise cloud, the [enterprise cloud
+addendum](/en/articles/github-enterprise-cloud-addendum) applies to you, and
+you agree to its provisions. [CLS] [SEP]
+
+### c. [CLS] [SEP] acceptable use
+
+**short version:** _github hosts a wide variety of collaborative projects from
+all over the world, and that collaboration only works when our users are able
+to work together in good faith. [CLS] [SEP] while using the service, you must follow the
+terms of this section, which include some restrictions on content you can
+post, conduct on the service, and other limitations. [CLS] [SEP] in short, be excellent to
+each other._
+
+your use of the website and service must not violate any applicable laws,
+including copyright or trademark laws, export control or sanctions laws, or
+other laws in your jurisdiction. [CLS] [SEP] you are responsible for making sure that your
+use of the service is in compliance with laws and any applicable regulations. [CLS] [SEP]
+
+you agree that you will not under any circumstances violate our [acceptable
+use policies](/en/articles/github-acceptable-use-policies) or [community
+guidelines](/en/articles/github-community-guidelines). [CLS] [SEP]
+
+### d. [CLS] [SEP] user-generated content
+
+**short version:** _you own content you create, but you allow us certain
+rights to it, so that we can display and share the content you post. [CLS] [SEP] you still
+have control over your content, and responsibility for it, and the rights you
+grant us are limited to those we need to provide the service. [CLS] [SEP] we have the
+right to remove content or close accounts if we need to._
+
+#### 1\. [CLS] [SEP] responsibility for user-generated content
+
+you may create or upload user-generated content while using the service. [CLS] [SEP] you
+are solely responsible for the content of, and for any harm resulting from,
+any user-generated content that you post, upload, link to or otherwise make
+available via the service, regardless of the form of that content. [CLS] [SEP] we are not
+responsible for any public display or misuse of your user-generated content. [CLS] [SEP]
+
+#### 2\. [CLS] [SEP] github may remove content
+
+we have the right to refuse or remove any user-generated content that, in our
+sole discretion, violates any laws or [github terms or
+policies](/en/github/site-policy). [CLS] [SEP] user-generated content displayed on github
+for mobile may be subject to mobile app stores' additional terms. [CLS] [SEP]
+
+#### 3\. [CLS] [SEP] ownership of content, right to post, and license grants
+
+you retain ownership of and responsibility for your content. [CLS] [SEP] if you're posting
+anything you did not create yourself or do not own the rights to, you agree
+that you are responsible for any content you post; that you will only submit
+content that you have the right to post; and that you will fully comply with
+any third party licenses relating to content you post. [CLS] [SEP]
+
+because you retain ownership of and responsibility for your content, we need
+you to grant us -- and other github users -- certain legal permissions, listed
+in sections d.4 -- d.7. [CLS] [SEP] these license grants apply to your content. [CLS] [SEP] if you
+upload content that already comes with a license granting github the
+permissions we need to run our service, no additional license is required. [CLS] [SEP] you
+understand that you will not receive any payment for any of the rights granted
+in sections d.4 -- d.7. [CLS] [SEP] the licenses you grant to us will end when you remove
+your content from our servers, unless other users have forked it. [CLS] [SEP]
+
+#### 4\. [CLS] [SEP] license grant to us
+
+we need the legal right to do things like host your content, publish it, and
+share it. [CLS] [SEP] you grant us and our legal successors the right to store, archive,
+parse, and display your content, and make incidental copies, as necessary to
+provide the service, including improving the service over time. [CLS] [SEP] this license
+includes the right to do things like copy it to our database and make backups;
+show it to you and other users; parse it into a search index or otherwise
+analyze it on our servers; share it with other users; and perform it, in case
+your content is something like music or video. [CLS] [SEP]
+
+this license does not grant github the right to sell your content. [CLS] [SEP] it also
+does not grant github the right to otherwise distribute or use your content
+outside of our provision of the service, except that as part of the right to
+archive your content, github may permit our partners to store and archive your
+content in public repositories in connection with the [github arctic code
+vault and github archive program](https://archiveprogram.github.com/). [CLS] [SEP]
+
+#### 5\. [CLS] [SEP] license grant to other users
+
+any user-generated content you post publicly, including issues, comments, and
+contributions to other users' repositories, may be viewed by others. [CLS] [SEP] by
+setting your repositories to be viewed publicly, you agree to allow others to
+view and "fork" your repositories (this means that others may make their own
+copies of content from your repositories in repositories they control). [CLS] [SEP]
+
+if you set your pages and repositories to be viewed publicly, you grant each
+user of github a nonexclusive, worldwide license to use, display, and perform
+your content through the github service and to reproduce your content solely
+on github as permitted through github's functionality (for example, through
+forking). [CLS] [SEP] you may grant further rights if you [adopt a
+license](/en/articles/adding-a-license-to-a-repository/#including-an-open-
+source-license-in-your-repository). [CLS] [SEP] if you are uploading content you did not
+create or own, you are responsible for ensuring that the content you upload is
+licensed under terms that grant these permissions to other github users. [CLS] [SEP]
+
+#### 6\. [CLS] [SEP] contributions under repository license
+
+whenever you add content to a repository containing notice of a license, you
+license that content under the same terms, and you agree that you have the
+right to license that content under those terms. [CLS] [SEP] if you have a separate
+agreement to license that content under different terms, such as a contributor
+license agreement, that agreement will supersede. [CLS] [SEP]
+
+isn't this just how it works already? yep. [CLS] [SEP] this is widely accepted as the norm
+in the open-source community; it's commonly referred to by the shorthand
+"inbound=outbound". [CLS] [SEP] we're just making it explicit. [CLS] [SEP]
+
+#### 7\. [CLS] [SEP] moral rights
+
+you retain all moral rights to your content that you upload, publish, or
+submit to any part of the service, including the rights of integrity and
+attribution. [CLS] [SEP] however, you waive these rights and agree not to assert them
+against us, to enable us to reasonably exercise the rights granted in section
+d.4, but not otherwise. [CLS] [SEP]
+
+to the extent this agreement is not enforceable by applicable law, you grant
+github the rights we need to use your content without attribution and to make
+reasonable adaptations of your content as necessary to render the website and
+provide the service. [CLS] [SEP]
+
+### e. [CLS] [SEP] private repositories
+
+**short version:** _we treat the content of private repositories as
+confidential, and we only access it as described in our privacy statement
+--for security purposes, to assist the repository owner with a support matter,
+to maintain the integrity of the service, to comply with our legal
+obligations, if we have reason to believe the contents are in violation of the
+law, or with your consent._
+
+#### 1\. [CLS] [SEP] control of private repositories
+
+some accounts may have private repositories, which allow the user to control
+access to content. [CLS] [SEP]
+
+#### 2\. [CLS] [SEP] confidentiality of private repositories
+
+github considers the contents of private repositories to be confidential to
+you. [CLS] [SEP] github will protect the contents of private repositories from
+unauthorized use, access, or disclosure in the same manner that we would use
+to protect our own confidential information of a similar nature and in no
+event with less than a reasonable degree of care. [CLS] [SEP]
+
+#### 3\. [CLS] [SEP] access
+
+github personnel may only access the content of your private repositories in
+the situations described in our [privacy statement](/en/github/site-
+policy/github-privacy-statement#repository-contents). [CLS] [SEP]
+
+you may choose to enable additional access to your private repositories. [CLS] [SEP] for
+example:
+
+  * you may enable various github services or features that require additional rights to your content in private repositories. [CLS] [SEP] these rights may vary depending on the service or feature, but github will continue to treat your private repository content as confidential. [CLS] [SEP] if those services or features require rights in addition to those we need to provide the github service, we will provide an explanation of those rights. [CLS] [SEP]
+
+additionally, we may be [compelled by law](/en/github/site-policy/github-
+privacy-statement#for-legal-disclosure) to disclose the contents of your
+private repositories. [CLS] [SEP]
+
+github will provide notice regarding our access to private repository content,
+unless [for legal disclosure](/en/github/site-policy/github-privacy-
+statement#for-legal-disclosure), to comply with our legal obligations, or
+where otherwise bound by requirements under law, for automated scanning, or if
+in response to a security threat or other risk to security. [CLS] [SEP]
+
+### f. [CLS] [SEP] copyright infringement and dmca policy
+
+if you believe that content on our website violates your copyright, please
+contact us in accordance with our [digital millennium copyright act
+policy](/en/articles/dmca-takedown-policy). [CLS] [SEP] if you are a copyright owner and
+you believe that content on github violates your rights, please contact us via
+[our convenient dmca form](https://github.com/contact/dmca) or by emailing
+copyright@github.com. [CLS] [SEP] there may be legal consequences for sending a false or
+frivolous takedown notice. [CLS] [SEP] before sending a takedown request, you must
+consider legal uses such as fair use and licensed uses. [CLS] [SEP]
+
+we will terminate the accounts of [repeat infringers](/en/articles/dmca-
+takedown-policy/#e-repeated-infringement) of this policy. [CLS] [SEP]
+
+### g. [CLS] [SEP] intellectual property notice
+
+**short version:** _we own the service and all of our content. [CLS] [SEP] in order for
+you to use our content, we give you certain rights to it, but you may only use
+our content in the way we have allowed._
+
+#### 1\. [CLS] [SEP] github's rights to content
+
+github and our licensors, vendors, agents, and/or our content providers retain
+ownership of all intellectual property rights of any kind related to the
+website and service. [CLS] [SEP] we reserve all rights that are not expressly granted to
+you under this agreement or by law. [CLS] [SEP] the look and feel of the website and
+service is copyright (c) github, inc. [CLS] [SEP] all rights reserved. [CLS] [SEP] you may not
+duplicate, copy, or reuse any portion of the html/css, javascript, or visual
+design elements or concepts without express written permission from github. [CLS] [SEP]
+
+#### 2\. [CLS] [SEP] github trademarks and logos
+
+if you'd like to use github's trademarks, you must follow all of our trademark
+guidelines, including those on our logos page: <https://github.com/logos>. [CLS] [SEP]
+
+#### 3\. [CLS] [SEP] license to github policies
+
+this agreement is licensed under this [creative commons zero
+license](https://creativecommons.org/publicdomain/zero/1.0/). [CLS] [SEP] for details, see
+our [site-policy repository](https://github.com/github/site-policy#license). [CLS] [SEP]
+
+### h. [CLS] [SEP] api terms
+
+**short version:** _you agree to these terms of service, plus this section h,
+when using any of github 's apis (application provider interface), including
+use of the api through a third party product that accesses github._
+
+abuse or excessively frequent requests to github via the api may result in the
+temporary or permanent suspension of your account's access to the api. [CLS] [SEP] github,
+in our sole discretion, will determine abuse or excessive usage of the api. [CLS] [SEP] we
+will make a reasonable attempt to warn you via email prior to suspension. [CLS] [SEP]
+
+you may not share api tokens to exceed github's rate limitations. [CLS] [SEP]
+
+you may not use the api to download data or content from github for spamming
+purposes, including for the purposes of selling github users' personal
+information, such as to recruiters, headhunters, and job boards. [CLS] [SEP]
+
+all use of the github api is subject to these terms of service and the [github
+privacy statement](https://github.com/site/privacy). [CLS] [SEP]
+
+github may offer subscription-based access to our api for those users who
+require high-throughput access or access that would result in resale of
+github's service. [CLS] [SEP]
+
+### i. [CLS] [SEP] github additional product terms
+
+**short version:** _you need to follow certain specific terms and conditions
+for github 's various features and products, and you agree to the supplemental
+terms and conditions when you agree to this agreement._
+
+some service features may be subject to additional terms specific to that
+feature or product as set forth in the github additional product terms. [CLS] [SEP] by
+accessing or using the services, you also agree to the [github additional
+product terms](/en/github/site-policy/github-additional-product-terms). [CLS] [SEP]
+
+### j. [CLS] [SEP] beta previews
+
+**short version:** _beta previews may not be supported or may change at any
+time, you may receive confidential information through those programs that
+must remain confidential while the program is private, and we 'd love your
+feedback to make our beta previews better._
+
+#### 1\. [CLS] [SEP] subject to change
+
+beta previews may not be supported and may be changed at any time without
+notice. [CLS] [SEP] in addition, beta previews are not subject to the same security
+measures and auditing to which the service has been and is subject. [CLS] [SEP] **by using
+a beta preview, you use it at your own risk.**
+
+#### 2\. [CLS] [SEP] confidentiality
+
+as a user of beta previews, you may get access to special information that
+isn't available to the rest of the world. [CLS] [SEP] due to the sensitive nature of this
+information, it's important for us to make sure that you keep that information
+secret. [CLS] [SEP]
+
+**confidentiality obligations.** you agree that any non-public beta preview
+information we give you, such as information about a private beta preview,
+will be considered github's confidential information (collectively,
+"confidential information"), regardless of whether it is marked or identified
+as such. [CLS] [SEP] you agree to only use such confidential information for the express
+purpose of testing and evaluating the beta preview (the "purpose"), and not
+for any other purpose. [CLS] [SEP] you should use the same degree of care as you would
+with your own confidential information, but no less than reasonable
+precautions to prevent any unauthorized use, disclosure, publication, or
+dissemination of our confidential information. [CLS] [SEP] you promise not to disclose,
+publish, or disseminate any confidential information to any third party,
+unless we don't otherwise prohibit or restrict such disclosure (for example,
+you might be part of a github-organized group discussion about a private beta
+preview feature). [CLS] [SEP]
+
+**exceptions.** confidential information will not include information that is:
+(a) or becomes publicly available without breach of this agreement through no
+act or inaction on your part (such as when a private beta preview becomes a
+public beta preview); (b) known to you before we disclose it to you; (c)
+independently developed by you without breach of any confidentiality
+obligation to us or any third party; or (d) disclosed with permission from
+github. [CLS] [SEP] you will not violate the terms of this agreement if you are required
+to disclose confidential information pursuant to operation of law, provided
+github has been given reasonable advance written notice to object, unless
+prohibited by law. [CLS] [SEP]
+
+#### 3\. [CLS] [SEP] feedback
+
+we're always trying to improve of products and services, and your feedback as
+a beta preview user will help us do that. [CLS] [SEP] if you choose to give us any ideas,
+know-how, algorithms, code contributions, suggestions, enhancement requests,
+recommendations or any other feedback for our products or services
+(collectively, "feedback"), you acknowledge and agree that github will have a
+royalty-free, fully paid-up, worldwide, transferable, sub-licensable,
+irrevocable and perpetual license to implement, use, modify, commercially
+exploit and/or incorporate the feedback into our products, services, and
+documentation. [CLS] [SEP]
+
+### k. [CLS] [SEP] payment
+
+**short version:** _you are responsible for any fees associated with your use
+of github. [CLS] [SEP] we are responsible for communicating those fees to you clearly and
+accurately, and letting you know well in advance if those prices change._
+
+#### 1\. [CLS] [SEP] pricing
+
+our pricing and payment terms are available at
+[github.com/pricing](https://github.com/pricing). [CLS] [SEP] if you agree to a
+subscription price, that will remain your price for the duration of the
+payment term; however, prices are subject to change at the end of a payment
+term. [CLS] [SEP]
+
+#### 2\. [CLS] [SEP] upgrades, downgrades, and changes
+
+  * we will immediately bill you when you upgrade from the free plan to any paying plan. [CLS] [SEP]
+  * if you change from a monthly billing plan to a yearly billing plan, github will bill you for a full year at the next monthly billing date. [CLS] [SEP]
+  * if you upgrade to a higher level of service, we will bill you for the upgraded plan immediately. [CLS] [SEP]
+  * you may change your level of service at any time by [choosing a plan option](https://github.com/pricing) or going into your [billing settings](https://github.com/settings/billing). [CLS] [SEP] if you choose to downgrade your account, you may lose access to content, features, or capacity of your account. [CLS] [SEP] please see our section on cancellation for information on getting a copy of that content. [CLS] [SEP]
+
+#### 3\. [CLS] [SEP] billing schedule; no refunds
+
+**payment based on plan** for monthly or yearly payment plans, the service is
+billed in advance on a monthly or yearly basis respectively and is non-
+refundable. [CLS] [SEP] there will be no refunds or credits for partial months of service,
+downgrade refunds, or refunds for months unused with an open account; however,
+the service will remain active for the length of the paid billing period. [CLS] [SEP] in
+order to treat everyone equally, no exceptions will be made. [CLS] [SEP]
+
+**payment based on usage** some service features are billed based on your
+usage. [CLS] [SEP] a limited quantity of these service features may be included in your
+plan for a limited term without additional charge. [CLS] [SEP] if you choose to purchase
+paid service features beyond the quantity included in your plan, you pay for
+those service features based on your actual usage in the preceding month. [CLS] [SEP]
+monthly payment for these purchases will be charged on a periodic basis in
+arrears. [CLS] [SEP] see [github additional product terms for details](/en/github/site-
+policy/github-additional-product-terms). [CLS] [SEP]
+
+**invoicing** for invoiced users, user agrees to pay the fees in full, up
+front without deduction or setoff of any kind, in u.s. [CLS] [SEP] dollars. [CLS] [SEP] user must pay
+the fees within thirty (30) days of the github invoice date. [CLS] [SEP] amounts payable
+under this agreement are non-refundable, except as otherwise provided in this
+agreement. [CLS] [SEP] if user fails to pay any fees on time, github reserves the right,
+in addition to taking any other action at law or equity, to (i) charge
+interest on past due amounts at 1.0% per month or the highest interest rate
+allowed by law, whichever is less, and to charge all expenses of recovery, and
+(ii) terminate the applicable order form. [CLS] [SEP] user is solely responsible for all
+taxes, fees, duties and governmental assessments (except for taxes based on
+github's net income) that are imposed or become due in connection with this
+agreement. [CLS] [SEP]
+
+#### 4\. [CLS] [SEP] authorization
+
+by agreeing to these terms, you are giving us permission to charge your on-
+file credit card, paypal account, or other approved methods of payment for
+fees that you authorize for github. [CLS] [SEP]
+
+#### 5\. [CLS] [SEP] responsibility for payment
+
+you are responsible for all fees, including taxes, associated with your use of
+the service. [CLS] [SEP] by using the service, you agree to pay github any charge incurred
+in connection with your use of the service. [CLS] [SEP] if you dispute the matter, contact
+[github support](https://support.github.com/contact). [CLS] [SEP] you are responsible for
+providing us with a valid means of payment for paid accounts. [CLS] [SEP] free accounts
+are not required to provide payment information. [CLS] [SEP]
+
+### l. [CLS] [SEP] cancellation and termination
+
+**short version:** _you may close your account at any time. [CLS] [SEP] if you do, we 'll
+treat your information responsibly._
+
+#### 1\. [CLS] [SEP] account cancellation
+
+it is your responsibility to properly cancel your account with github. [CLS] [SEP] you can
+[cancel your account at any time](/en/articles/how-do-i-cancel-my-account) by
+going into your settings in the global navigation bar at the top of the
+screen. [CLS] [SEP] the account screen provides a simple, no questions asked cancellation
+link. [CLS] [SEP] we are not able to cancel accounts in response to an email or phone
+request. [CLS] [SEP]
+
+#### 2\. [CLS] [SEP] upon cancellation
+
+we will retain and use your information as necessary to comply with our legal
+obligations, resolve disputes, and enforce our agreements, but barring legal
+requirements, we will delete your full profile and the content of your
+repositories within 90 days of cancellation or termination (though some
+information may remain in encrypted backups). [CLS] [SEP] this information can not be
+recovered once your account is cancelled. [CLS] [SEP]
+
+we will not delete content that you have contributed to other users'
+repositories or that other users have forked. [CLS] [SEP]
+
+upon request, we will make a reasonable effort to provide an account owner
+with a copy of your lawful, non-infringing account contents after account
+cancellation, termination, or downgrade. [CLS] [SEP] you must make this request within 90
+days of cancellation, termination, or downgrade. [CLS] [SEP]
+
+#### 3\. [CLS] [SEP] github may terminate
+
+github has the right to suspend or terminate your access to all or any part of
+the website at any time, with or without cause, with or without notice,
+effective immediately. [CLS] [SEP] github reserves the right to refuse service to anyone
+for any reason at any time. [CLS] [SEP]
+
+#### 4\. [CLS] [SEP] survival
+
+all provisions of this agreement which, by their nature, should survive
+termination _will_ survive termination -- including, without limitation:
+ownership provisions, warranty disclaimers, indemnity, and limitations of
+liability. [CLS] [SEP]
+
+### m. [CLS] [SEP] communications with github
+
+**short version:** _we use email and other electronic means to stay in touch
+with our users._
+
+#### 1\. [CLS] [SEP] electronic communication required
+
+for contractual purposes, you (1) consent to receive communications from us in
+an electronic form via the email address you have submitted or via the
+service; and (2) agree that all terms of service, agreements, notices,
+disclosures, and other communications that we provide to you electronically
+satisfy any legal requirement that those communications would satisfy if they
+were on paper. [CLS] [SEP] this section does not affect your non-waivable rights. [CLS] [SEP]
+
+#### 2\. [CLS] [SEP] legal notice to github must be in writing
+
+communications made through email or github support's messaging system will
+not constitute legal notice to github or any of its officers, employees,
+agents or representatives in any situation where notice to github is required
+by contract or any law or regulation. [CLS] [SEP] legal notice to github must be in
+writing and [served on github's legal agent](/en/articles/guidelines-for-
+legal-requests-of-user-data/#submitting-requests). [CLS] [SEP]
+
+#### 3\. [CLS] [SEP] no phone support
+
+github only offers support via email, in-service communications, and
+electronic messages. [CLS] [SEP] we do not offer telephone support. [CLS] [SEP]
+
+### n. [CLS] [SEP] disclaimer of warranties
+
+**short version:** _we provide our service as is, and we make no promises or
+guarantees about this service. [CLS] [SEP] please read this section carefully; you should
+understand what to expect._
+
+github provides the website and the service "as is" and "as available,"
+without warranty of any kind. [CLS] [SEP] without limiting this, we expressly disclaim all
+warranties, whether express, implied or statutory, regarding the website and
+the service including without limitation any warranty of merchantability,
+fitness for a particular purpose, title, security, accuracy and non-
+infringement. [CLS] [SEP]
+
+github does not warrant that the service will meet your requirements; that the
+service will be uninterrupted, timely, secure, or error-free; that the
+information provided through the service is accurate, reliable or correct;
+that any defects or errors will be corrected; that the service will be
+available at any particular time or location; or that the service is free of
+viruses or other harmful components. [CLS] [SEP] you assume full responsibility and risk
+of loss resulting from your downloading and/or use of files, information,
+content or other material obtained from the service. [CLS] [SEP]
+
+### o. [CLS] [SEP] limitation of liability
+
+**short version:** _we will not be liable for damages or losses arising from
+your use or inability to use the service or otherwise arising under this
+agreement. [CLS] [SEP] please read this section carefully; it limits our obligations to
+you._
+
+you understand and agree that we will not be liable to you or any third party
+for any loss of profits, use, goodwill, or data, or for any incidental,
+indirect, special, consequential or exemplary damages, however arising, that
+result from
+
+  * the use, disclosure, or display of your user-generated content;
+  * your use or inability to use the service;
+  * any modification, price change, suspension or discontinuance of the service;
+  * the service generally or the software or systems that make the service available;
+  * unauthorized access to or alterations of your transmissions or data;
+  * statements or conduct of any third party on the service;
+  * any other user interactions that you input or receive through your use of the service; or
+  * any other matter relating to the service. [CLS] [SEP]
+
+our liability is limited whether or not we have been informed of the
+possibility of such damages, and even if a remedy set forth in this agreement
+is found to have failed of its essential purpose. [CLS] [SEP] we will have no liability
+for any failure or delay due to matters beyond our reasonable control. [CLS] [SEP]
+
+### p. [CLS] [SEP] release and indemnification
+
+**short version:** _you are responsible for your use of the service. [CLS] [SEP] if you
+harm someone else or get into a dispute with someone else, we will not be
+involved._
+
+if you have a dispute with one or more users, you agree to release github from
+any and all claims, demands and damages (actual and consequential) of every
+kind and nature, known and unknown, arising out of or in any way connected
+with such disputes. [CLS] [SEP]
+
+you agree to indemnify us, defend us, and hold us harmless from and against
+any and all claims, liabilities, and expenses, including attorneys' fees,
+arising out of your use of the website and the service, including but not
+limited to your violation of this agreement, provided that github (1) promptly
+gives you written notice of the claim, demand, suit or proceeding; (2) gives
+you sole control of the defense and settlement of the claim, demand, suit or
+proceeding (provided that you may not settle any claim, demand, suit or
+proceeding unless the settlement unconditionally releases github of all
+liability); and (3) provides to you all reasonable assistance, at your
+expense. [CLS] [SEP]
+
+### q. [CLS] [SEP] changes to these terms
+
+**short version:** _we want our users to be informed of important changes to
+our terms, but some changes aren 't that important -- we don't want to bother
+you every time we fix a typo. [CLS] [SEP] so while we may modify this agreement at any
+time, we will notify users of any material changes and give you time to adjust
+to them._
+
+we reserve the right, at our sole discretion, to amend these terms of service
+at any time and will update these terms of service in the event of any such
+amendments. [CLS] [SEP] we will notify our users of material changes to this agreement,
+such as price increases, at least 30 days prior to the change taking effect by
+posting a notice on our website or sending email to the primary email address
+specified in your github account. [CLS] [SEP] customer's continued use of the service
+after those 30 days constitutes agreement to those revisions of this
+agreement. [CLS] [SEP] for any other modifications, your continued use of the website
+constitutes agreement to our revisions of these terms of service. [CLS] [SEP] you can view
+all changes to these terms in our [site
+policy](https://github.com/github/site-policy) repository. [CLS] [SEP]
+
+we reserve the right at any time and from time to time to modify or
+discontinue, temporarily or permanently, the website (or any part of it) with
+or without notice. [CLS] [SEP]
+
+### r. [CLS] [SEP] miscellaneous
+
+#### 1\. [CLS] [SEP] governing law
+
+except to the extent applicable law provides otherwise, this agreement between
+you and github and any access to or use of the website or the service are
+governed by the federal laws of the united states of america and the laws of
+the state of california, without regard to conflict of law provisions. [CLS] [SEP] you and
+github agree to submit to the exclusive jurisdiction and venue of the courts
+located in the city and county of san francisco, california. [CLS] [SEP]
+
+#### 2\. [CLS] [SEP] non-assignability
+
+github may assign or delegate these terms of service and/or the [github
+privacy statement](https://github.com/site/privacy), in whole or in part, to
+any person or entity at any time with or without your consent, including the
+license grant in section d.4. [CLS] [SEP] you may not assign or delegate any rights or
+obligations under the terms of service or privacy statement without our prior
+written consent, and any unauthorized assignment and delegation by you is
+void. [CLS] [SEP]
+
+#### 3\. [CLS] [SEP] section headings and summaries
+
+throughout this agreement, each section includes titles and brief summaries of
+the following terms and conditions. [CLS] [SEP] these section titles and brief summaries
+are not legally binding. [CLS] [SEP]
+
+#### 4\. [CLS] [SEP] severability, no waiver, and survival
+
+if any part of this agreement is held invalid or unenforceable, that portion
+of the agreement will be construed to reflect the parties' original intent. [CLS] [SEP]
+the remaining portions will remain in full force and effect. [CLS] [SEP] any failure on
+the part of github to enforce any provision of this agreement will not be
+considered a waiver of our right to enforce such provision. [CLS] [SEP] our rights under
+this agreement will survive any termination of this agreement. [CLS] [SEP]
+
+#### 5\. [CLS] [SEP] amendments; complete agreement
+
+this agreement may only be modified by a written amendment signed by an
+authorized representative of github, or by the posting by github of a revised
+version in accordance with section q. [CLS] [SEP] changes to these terms. [CLS] [SEP] these terms of
+service, together with the github privacy statement, represent the complete
+and exclusive statement of the agreement between you and us. [CLS] [SEP] this agreement
+supersedes any proposal or prior agreement oral or written, and any other
+communications between you and github relating to the subject matter of these
+terms including any confidentiality or nondisclosure agreements. [CLS] [SEP]
+
+#### 6\. [CLS] [SEP] questions
+
+questions about the terms of service? [contact
+us](https://support.github.com/contact). [CLS] [SEP]
+
+##  did this doc help you?
+
+[privacy policy](/github/site-policy/github-privacy-statement)
+
+want to learn about new docs features and updates? sign up for updates!
+
+we're continually improving our docs. [CLS] [SEP] we'd love to hear how we can do better. [CLS] [SEP]
+
+let us know what we can do better optional
+
+can we contact you if we have more questions?  optional
+
+send
+
+thank you! your feedback has been submitted. [CLS] [SEP]
+
+## help us make these docs great!
+
+all github docs are open source. [CLS] [SEP] see something that's wrong or unclear? submit
+a pull request. [CLS] [SEP]
+
+[ make a contribution
+](https://github.com/github/docs/edit/main/content/github/site-policy/github-
+terms-of-service.md)
+
+or, [learn how to
+contribute.](https://github.com/github/docs/blob/main/contributing.md)
+
+###  still need help?
+
+[ ask the github community ](https://github.community) [ contact support
+](https://support.github.com/contact)
+
+  * (c) 2021 github, inc. [CLS] [SEP]
+  * [terms ](/github/site-policy/github-terms-of-service)
+  * [privacy ](/github/site-policy/github-privacy-statement)
+  * [security](https://github.com/security)
+  * [status](https://www.githubstatus.com/)
+  * [help](/)
+  * [contact github](https://support.github.com/contact)
+  * [pricing](https://github.com/pricing)
+  * [developer api](/developers)
+  * [training](https://services.github.com/)
+  * [about](https://github.com/about)
+

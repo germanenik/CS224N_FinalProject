@@ -1,0 +1,154 @@
+[privacy & terms](/ "privacy & terms")
+
+[](https://www.google.com/intl/en/about/products)
+
+[sign
+in](https://accounts.google.com/servicelogin?passive=1209600&continue=https://policies.google.com/technologies/partner-
+sites?hl%3den&followup=https://policies.google.com/technologies/partner-
+sites?hl%3den&hl=en&ec=gazaoqq)
+
+  * [overview](?hl=en)
+  * [privacy policy](privacy?hl=en)
+  * [terms of service](terms?hl=en)
+  * [technologies](technologies?hl=en)
+  * [faq](faq?hl=en)
+
+#
+[![google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png)](https://www.google.com/?hl=en)
+
+# privacy & terms
+
+  * [overview](?hl=en)
+  * [privacy policy](privacy?hl=en)
+  * [terms of service](terms?hl=en)
+  * [technologies](technologies?hl=en)
+    * [advertising](technologies/ads?hl=en)
+      * [how google uses information from sites or apps that use our services](technologies/partner-sites?hl=en)
+    * [how google uses cookies](technologies/cookies?hl=en)
+    * [how google uses pattern recognition](technologies/pattern-recognition?hl=en)
+    * [how google uses location information](technologies/location-data?hl=en)
+    * [how google uses credit card numbers for payments](technologies/wallet?hl=en)
+    * [how google voice works](technologies/voice?hl=en)
+    * [google product privacy guide](technologies/product-privacy?hl=en)
+    * [how google retains data we collect](technologies/retention?hl=en)
+  * [faq](faq?hl=en)
+
+[privacy & terms](/ "privacy & terms")
+
+#
+[![google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png)](https://www.google.com/?hl=en)
+
+## [privacy & terms](?hl=en)
+
+  * [overview](?hl=en)
+  * [privacy policy](privacy?hl=en)
+  * [terms of service](terms?hl=en)
+  * [technologies](technologies?hl=en)
+  * [faq](faq?hl=en)
+  * [google account](https://myaccount.google.com/?hl=en)
+
+  * [technologies](technologies?hl=en)
+  * [advertising](technologies/ads?hl=en)
+    * how google uses information from sites or apps that use our services
+  * [how google uses cookies](technologies/cookies?hl=en)
+  * [how google uses pattern recognition](technologies/pattern-recognition?hl=en)
+  * [how google uses location information](technologies/location-data?hl=en)
+  * [how google uses credit card numbers for payments](technologies/wallet?hl=en)
+  * [how google voice works](technologies/voice?hl=en)
+  * [google product privacy guide](technologies/product-privacy?hl=en)
+  * [how google retains data we collect](technologies/retention?hl=en)
+
+# how google uses information from sites or apps that use our services
+
+many websites and apps use google services to improve their content and keep
+it free. [CLS] [SEP] when they integrate our services, these sites and apps share
+information with google. [CLS] [SEP]
+
+for example, when you visit a website that uses advertising services like
+adsense, including analytics tools like google analytics, or embeds video
+content from youtube, your web browser automatically sends certain information
+to google. [CLS] [SEP] this includes the url of the page you’re visiting and your ip
+address. [CLS] [SEP] we may also [set cookies on your browser](technologies/cookies?hl=en)
+or read cookies that are already there. [CLS] [SEP] apps that use google advertising
+services also share information with google, such as the name of the app and a
+unique identifier for advertising. [CLS] [SEP]
+
+google uses the information shared by sites and apps to deliver our services,
+maintain and improve them, develop new services, measure the effectiveness of
+advertising, protect against fraud and abuse, and personalize content and ads
+you see on google and on our partners’ sites and apps. [CLS] [SEP] see our [privacy
+policy](privacy?hl=en) to learn more about how we process data for each of
+these purposes and our [advertising](technologies/ads?hl=en) page for more
+about google ads, how your information is used in the context of advertising,
+and how long google stores this information. [CLS] [SEP]
+
+our [privacy policy](privacy?hl=en) explains the legal grounds google relies
+upon to process your information — for example, we may process your
+information with your consent or to pursue legitimate interests such as
+providing, maintaining and improving our services to meet the needs of our
+users. [CLS] [SEP]
+
+sometimes, when processing information shared with us by sites and apps, those
+sites and apps will ask for your consent before allowing google to process
+your information. [CLS] [SEP] for example, a banner may appear on a site asking for
+consent for google to process the information that site collects. [CLS] [SEP] when that
+happens, we will respect the purposes described in the consent you give to the
+site or app, rather than the legal grounds described in the google privacy
+policy. [CLS] [SEP] if you want to change or withdraw your consent, you should visit the
+site or app in question to do so. [CLS] [SEP]
+
+## ad personalization
+
+if ad personalization is turned on, google will use your information to make
+your ads more useful for you. [CLS] [SEP] for example, a website that sells mountain bikes
+might use google's ad services. [CLS] [SEP] after you visit that site, you could see an ad
+for mountain bikes on a different site that shows ads served by google. [CLS] [SEP]
+
+if ad personalization is off, google will not collect or use your information
+to create an ad profile or personalize the ads google shows to you. [CLS] [SEP] you will
+still see ads, but they may not be as useful. [CLS] [SEP] ads may still be based on the
+topic of the website or app you're looking at, your current search terms, or
+on your general location, but not on your interests, search history, or
+browsing history. [CLS] [SEP] your information can still be used for the other purposes
+mentioned above, such as to measure the effectiveness of advertising and
+protect against fraud and abuse. [CLS] [SEP]
+
+when you interact with a website or app that uses google services, you may be
+asked to choose whether you want to see personalized ads from ad providers,
+including google. [CLS] [SEP] regardless of your choice, google will not personalize the
+ads you see if your ad personalization setting is off or your account is
+ineligible for personalized ads. [CLS] [SEP]
+
+you can see and control what information we use to show you ads by visiting
+your [ad settings](https://adssettings.google.com?utm_source=ps-tech&hl=en). [CLS] [SEP]
+
+## how you can control the information collected by google on these sites and
+apps
+
+here are some of the ways you can control the information that is shared by
+your device when you visit or interact with sites and apps that use google
+services:
+
+  * [ad settings](https://adssettings.google.com/?utm_source=ps-tech&hl=en) helps you control ads you see on google services (such as google search or youtube), or on non-google websites and apps that use google ad services. [CLS] [SEP] you can also [learn how](technologies/ads?hl=en) ads are personalized, opt out of ad personalization, and block specific advertisers. [CLS] [SEP]
+  * if you are signed in to your google account, and depending on your account settings, [my activity](https://myactivity.google.com/?hl=en) allows you to review and control data that’s created when you use google services, including the information we collect from the sites and apps you have visited. [CLS] [SEP] you can browse by date and by topic, and delete part or all of your activity. [CLS] [SEP]
+  * many websites and apps use google analytics to understand how visitors engage with their sites or apps. [CLS] [SEP] if you don’t want analytics to be used in your browser, you can [install the google analytics browser add-on](https://tools.google.com/dlpage/gaoptout?hl=en). [CLS] [SEP] learn more about [google analytics and privacy](https://support.google.com/analytics/answer/6004245?hl=en). [CLS] [SEP]
+  * [incognito mode in chrome](https://support.google.com/chrome/answer/95464?hl=en) allows you to browse the web without recording webpages and files in your browser or account history (unless you choose to sign in). [CLS] [SEP] cookies are deleted after you've closed all of your incognito windows and tabs, and your bookmarks and settings are stored until you delete them. [CLS] [SEP] learn more about [cookies](technologies/cookies?hl=en). [CLS] [SEP]
+  * many browsers, including chrome, allow you to block third-party cookies. [CLS] [SEP] you can also clear any existing cookies from within your browser. [CLS] [SEP] learn more about [managing cookies in chrome](https://support.google.com/chrome/answer/95647?hl=en). [CLS] [SEP]
+
+change language:afrikaansbahasa indonesiabahasa
+melayucatalàčeštinadanskdeutscheestienglishenglish (united
+kingdom)españolespañol (latinoamérica)euskarafilipinofrançaisfrançais
+(canada)galegohrvatskiisizuluíslenskaitalianokiswahililatviešulietuviųmagyarnederlandsnorskpolskiportuguês
+(brasil)português (portugal)românăslovenčinaslovenščinasrpskisuomisvenskatiếng
+việttürkçeελληνικάбългарскирусскийсрпскиукраїнська‫עברית‬‫اردو‬‫العربية‬‫فارسی‬አማርኛमराठीहिन्दीবাংলাગુજરાતીதமிழ்తెలుగుಕನ್ನಡമലയാളംไทย한국어中文
+(香港)中文（简体中文）中文（繁體中文）日本語
+
+  * [google](https://www.google.com/)
+  * [about google](https://about.google/)
+  * [privacy](privacy?hl=en)
+  * [terms](terms?hl=en)
+
+google apps
+
+main menu
+

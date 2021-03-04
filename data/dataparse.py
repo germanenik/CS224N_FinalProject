@@ -37,7 +37,7 @@ def tosdr_to_csv():
 
     # we need both the json and an index number so use enumerate()
     for index, js in enumerate(json_files):
-        service_name = json_files[index][:-5]
+        service_name = js[:-5]
         with open(os.path.join(path_to_json, js)) as json_file:
             json_text = json.load(json_file)
             #link_dict = get_link_dict(json_text)
@@ -103,9 +103,7 @@ def download_ToS_pages():
                 except requests.exceptions.ConnectionError as e:
                     print('FAILED: ', service_name, name)
                     continue
-
-                
-
+                    
                 rendered_content = html2text.html2text(html_content).lower()
                 # charset = page.headers.get_content_charset()
                 # rendered_content = html_content.decode(charset)
@@ -140,6 +138,4 @@ def quotes_from_csv():
 
 
 if __name__ == '__main__':
-    #download_ToS_pages()
-    #tosdr_to_csv()
-    quotes_from_csv()
+    

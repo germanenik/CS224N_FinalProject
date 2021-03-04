@@ -1,0 +1,1 @@
+two-factor authentication (2fa) two-factor authentication (2fa) can be used to help protect your account from unauthorized access by requiring you to enter an additional code when you sign in. [CLS] [SEP] the two-factor authentication feature currently supports the use of an authenticator app or an email address authentication method. [CLS] [SEP] 

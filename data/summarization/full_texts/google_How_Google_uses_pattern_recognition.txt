@@ -1,0 +1,126 @@
+[privacy & terms](/ "privacy & terms")
+
+[](https://www.google.com/intl/en/about/products)
+
+[sign
+in](https://accounts.google.com/servicelogin?passive=1209600&continue=https://policies.google.com/technologies/pattern-
+recognition?hl%3den&followup=https://policies.google.com/technologies/pattern-
+recognition?hl%3den&hl=en&ec=gazaoqq)
+
+  * [overview](?hl=en)
+  * [privacy policy](privacy?hl=en)
+  * [terms of service](terms?hl=en)
+  * [technologies](technologies?hl=en)
+  * [faq](faq?hl=en)
+
+#
+[![google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png)](https://www.google.com/?hl=en)
+
+# privacy & terms
+
+  * [overview](?hl=en)
+  * [privacy policy](privacy?hl=en)
+  * [terms of service](terms?hl=en)
+  * [technologies](technologies?hl=en)
+    * [advertising](technologies/ads?hl=en)
+    * [how google uses cookies](technologies/cookies?hl=en)
+    * [how google uses pattern recognition](technologies/pattern-recognition?hl=en)
+    * [how google uses location information](technologies/location-data?hl=en)
+    * [how google uses credit card numbers for payments](technologies/wallet?hl=en)
+    * [how google voice works](technologies/voice?hl=en)
+    * [google product privacy guide](technologies/product-privacy?hl=en)
+    * [how google retains data we collect](technologies/retention?hl=en)
+  * [faq](faq?hl=en)
+
+[privacy & terms](/ "privacy & terms")
+
+#
+[![google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png)](https://www.google.com/?hl=en)
+
+## [privacy & terms](?hl=en)
+
+  * [overview](?hl=en)
+  * [privacy policy](privacy?hl=en)
+  * [terms of service](terms?hl=en)
+  * [technologies](technologies?hl=en)
+  * [faq](faq?hl=en)
+  * [google account](https://myaccount.google.com/?hl=en)
+
+  * [technologies](technologies?hl=en)
+  * [advertising](technologies/ads?hl=en)
+  * [how google uses cookies](technologies/cookies?hl=en)
+  * how google uses pattern recognition
+  * [how google uses location information](technologies/location-data?hl=en)
+  * [how google uses credit card numbers for payments](technologies/wallet?hl=en)
+  * [how google voice works](technologies/voice?hl=en)
+  * [google product privacy guide](technologies/product-privacy?hl=en)
+  * [how google retains data we collect](technologies/retention?hl=en)
+
+# how google uses pattern recognition
+
+## how google uses pattern recognition to make sense of images
+
+computers don’t “see” photos and videos in the same way that people do. [CLS] [SEP] when
+you look at a photo, you might see your best friend standing in front of her
+house. [CLS] [SEP] from a computer’s perspective, that same image is simply a bunch of
+data that it may interpret as shapes and information about color values. [CLS] [SEP] while
+a computer won’t react like you do when you see that photo, a computer can be
+trained to recognize certain patterns of color and shapes. [CLS] [SEP] for example, a
+computer might be trained to recognize the common patterns of shapes and
+colors that make up a digital image of a landscape such as a beach or an
+object like a car. [CLS] [SEP] this technology helps google photos organize your photos
+and lets users find any photo with a simple search. [CLS] [SEP]
+
+a computer might also be trained to recognize the common patterns of shapes
+and colors that make up a digital image of a face. [CLS] [SEP] this process is known as
+face detection, and it’s the technology that helps google to protect your
+privacy on services like street view, where computers try to detect and then
+blur the faces of any people that may have been standing on the street as the
+street view car drove by. [CLS] [SEP]
+
+if you get a little more advanced, the same pattern recognition technology
+that powers face detection can help a computer to understand characteristics
+of the face it has detected. [CLS] [SEP] for example, there might be certain patterns that
+suggest a face is smiling or has its eyes closed. [CLS] [SEP] information like this can be
+used to help with features like google photos’ suggestions of movies and other
+effects created from your photos and videos. [CLS] [SEP]
+
+similar technology also powers the face grouping feature available in google
+photos in certain countries, which helps computers detect similar faces and
+group them together, making it easier for users to search and manage their
+photos. [CLS] [SEP] read more about [face grouping in the google photos help
+center](https://support.google.com/photos/answer/6128838?hl=en). [CLS] [SEP]
+
+## how voice search works
+
+voice search allows you to provide a voice query to a google search client
+application on a device instead of typing that query. [CLS] [SEP] it uses pattern
+recognition to transcribe spoken words to written text. [CLS] [SEP] we send the utterances
+to google servers in order to recognize what was said by you. [CLS] [SEP]
+
+for each voice query made to voice search, we store the language, the country
+and our system’s guess of what was said. [CLS] [SEP] we keep utterances to improve our
+services, including to train the system to better recognize the correct search
+query if you have given your consent to such data use. [CLS] [SEP] we do not send any
+utterances to google unless you have indicated an intent to use the voice
+search function (for example, pressing the microphone icon in the quick search
+bar or in the virtual keyboard or saying “google” when the quick search bar
+indicates that the voice search function is available). [CLS] [SEP]
+
+change language:afrikaansbahasa indonesiabahasa
+melayucatalàčeštinadanskdeutscheestienglishenglish (united
+kingdom)españolespañol (latinoamérica)euskarafilipinofrançaisfrançais
+(canada)galegohrvatskiisizuluíslenskaitalianokiswahililatviešulietuviųmagyarnederlandsnorskpolskiportuguês
+(brasil)português (portugal)românăslovenčinaslovenščinasrpskisuomisvenskatiếng
+việttürkçeελληνικάбългарскирусскийсрпскиукраїнська‫עברית‬‫اردو‬‫العربية‬‫فارسی‬አማርኛमराठीहिन्दीবাংলাગુજરાતીதமிழ்తెలుగుಕನ್ನಡമലയാളംไทย한국어中文
+(香港)中文（简体中文）中文（繁體中文）日本語
+
+  * [google](https://www.google.com/)
+  * [about google](https://about.google/)
+  * [privacy](privacy?hl=en)
+  * [terms](terms?hl=en)
+
+google apps
+
+main menu
+

@@ -1,0 +1,1 @@
+read the docs supports do not track (dnt) and respects users’ tracking preferences. [CLS] [SEP] regardless of dnt preference, our logs that contain ip addresses and user agent strings are deleted after 10 days unless a dnt exception applies. [CLS] [SEP] 

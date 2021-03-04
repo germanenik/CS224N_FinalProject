@@ -1,0 +1,580 @@
+[w3schools.com](//www.w3schools.com)
+
+log in
+
+the world's largest web developer site
+
+[](javascript:void\(0\); "menu") [](/default.asp "home")
+[html](/html/default.asp "html tutorial") [css](/css/default.asp "css
+tutorial") [javascript](/js/default.asp "javascript tutorial")
+[sql](/sql/default.asp "sql tutorial") [python](/python/default.asp "python
+tutorial") [php](/php/default.asp "php tutorial")
+[bootstrap](/bootstrap/bootstrap_ver.asp "bootstrap tutorial") [how
+to](/howto/default.asp "how to") [w3.css](/w3css/default.asp "w3.css
+tutorial") [jquery](/jquery/default.asp "jquery tutorial")
+[java](/java/default.asp "java tutorial") [more ____](javascript:void\(0\);
+"tutorials")[](javascript:void\(0\); "search w3schools")
+[](javascript:void\(0\); "translate w3schools") [](javascript:void\(0\);
+"toggle dark code") [shop](https://shop.w3schools.com)
+[courses](https://courses.w3schools.com "courses") [references
+____](javascript:void\(0\); "references")[exercises
+____](javascript:void\(0\); "exercises")
+
+×
+
+### html and css
+
+[learn html](/html/default.asp) [learn css](/css/default.asp) [learn
+bootstrap](/bootstrap/bootstrap_ver.asp) [learn w3.css](/w3css/default.asp)
+[learn colors](/colors/default.asp) [learn icons](/icons/default.asp) [learn
+graphics](/graphics/default.asp) [learn svg](/graphics/svg_intro.asp) [learn
+canvas](/graphics/canvas_intro.asp) [learn how to](/howto/default.asp) [learn
+sass](/sass/default.php)
+
+### artificial intelligence
+
+[learn ai](/ai/default.asp) [learn machine
+learning](/python/python_ml_getting_started.asp) [learn data
+science](/datascience/default.asp) [learn pandas](/python/pandas/default.asp)
+
+### xml
+
+[learn xml](/xml/default.asp) [learn xml ajax](/xml/ajax_intro.asp) [learn xml
+dom](/xml/dom_intro.asp) [learn xml dtd](/xml/xml_dtd_intro.asp) [learn xml
+schema](/xml/schema_intro.asp) [learn xslt](/xml/xsl_intro.asp) [learn
+xpath](/xml/xpath_intro.asp) [learn xquery](/xml/xquery_intro.asp)
+
+### javascript
+
+[learn javascript](/js/default.asp) [learn jquery](/jquery/default.asp) [learn
+react](/react/default.asp) [learn angularjs](/angular/default.asp) [learn
+json](/js/js_json_intro.asp) [learn ajax](/js/js_ajax_intro.asp) [learn
+appml](/appml/default.asp) [learn w3.js](/w3js/default.asp)
+
+### programming
+
+[learn python](/python/default.asp) [learn java](/java/default.asp) [learn
+c++](/cpp/default.asp) [learn c#](/cs/default.asp) [learn r](/r/default.asp)
+
+  
+  
+
+### server side
+
+[learn sql](/sql/default.asp) [learn php](/php/default.asp) [learn
+asp](/asp/default.asp) [learn node.js](/nodejs/default.asp) [learn raspberry
+pi](/nodejs/nodejs_raspberrypi.asp)
+
+### web building
+
+[web templates](/w3css/w3css_templates.asp) [web
+statistics](/browsers/default.asp) [web certificates](/cert/default.asp) [web
+editor](/tryit/default.asp) [web development](/whatis/default.asp) [test your
+typing speed](/typingspeed/default.asp)
+
+### artificial intelligence
+
+[learn ai](/ai/default.asp) [learn machine
+learning](/python/python_ml_getting_started.asp) [learn data
+science](/datascience/default.asp) [learn pandas](/python/pandas/default.asp)
+
+### xml
+
+[learn xml](/xml/default.asp) [learn xml ajax](/xml/ajax_intro.asp) [learn xml
+dom](/xml/dom_intro.asp) [learn xml dtd](/xml/xml_dtd_intro.asp) [learn xml
+schema](/xml/schema_intro.asp) [learn xslt](/xml/xsl_intro.asp) [learn
+xpath](/xml/xpath_intro.asp) [learn xquery](/xml/xquery_intro.asp)
+
+  
+
+×
+
+### html
+
+[html tag reference](/tags/default.asp) [html browser
+support](/tags/ref_html_browsersupport.asp) [html event
+reference](/tags/ref_eventattributes.asp) [html color
+reference](/colors/default.asp) [html attribute
+reference](/tags/ref_attributes.asp) [html canvas
+reference](/tags/ref_canvas.asp) [html svg
+reference](/graphics/svg_reference.asp) [html character
+sets](/charsets/default.asp) [google maps
+reference](/graphics/google_maps_reference.asp)
+
+### css
+
+[css reference](/cssref/default.asp) [css browser
+support](/cssref/css3_browsersupport.asp) [css selector
+reference](/cssref/css_selectors.asp) [bootstrap 3
+reference](/bootstrap/bootstrap_ref_all_classes.asp) [bootstrap 4
+reference](/bootstrap4/bootstrap_ref_all_classes.asp) [w3.css
+reference](/w3css/w3css_references.asp) [icon
+reference](/icons/icons_reference.asp) [sass
+reference](/sass/sass_functions_string.php)
+
+### javascript
+
+[javascript reference](/jsref/default.asp) [html dom
+reference](/jsref/default.asp) [jquery
+reference](/jquery/jquery_ref_overview.asp) [angularjs
+reference](/angular/angular_ref_directives.asp) [appml
+reference](/appml/appml_reference.asp) [w3.js
+reference](/w3js/w3js_references.asp)
+
+### programming
+
+[python reference](/python/python_reference.asp) [java
+reference](/java/java_ref_keywords.asp)
+
+### server side
+
+[sql reference](/sql/sql_ref_keywords.asp) [php
+reference](/php/php_ref_overview.asp) [asp
+reference](/asp/asp_ref_response.asp)
+
+### xml
+
+[xml reference](/xml/dom_nodetype.asp) [xml http reference](/xml/dom_http.asp)
+[xslt reference](/xml/xsl_elementref.asp) [xml schema
+reference](/xml/schema_elements_ref.asp)
+
+### character sets
+
+[html character sets](/charsets/default.asp) [html
+ascii](/charsets/ref_html_ascii.asp) [html ansi](/charsets/ref_html_ansi.asp)
+[html windows-1252](/charsets/ref_html_ansi.asp) [html
+iso-8859-1](/charsets/ref_html_8859.asp) [html
+symbols](/charsets/ref_html_symbols.asp) [html
+utf-8](/charsets/ref_html_utf8.asp)
+
+  
+
+×
+
+### exercises
+
+[html exercises](/html/html_exercises.asp) [css
+exercises](/css/css_exercises.asp) [javascript
+exercises](/js/js_exercises.asp) [sql exercises](/sql/sql_exercises.asp) [php
+exercises](/php/php_exercises.asp) [python
+exercises](/python/python_exercises.asp) [jquery
+exercises](/jquery/jquery_exercises.asp) [bootstrap
+exercises](/bootstrap/bootstrap_exercises.asp) [java
+exercises](/java/java_exercises.asp) [c++ exercises](/cpp/cpp_exercises.asp)
+[c# exercises](/cs/cs_exercises.asp)
+
+### quizzes
+
+[html quiz](/html/html_quiz.asp) [css quiz](/css/css_quiz.asp) [javascript
+quiz](/js/js_quiz.asp) [sql quiz](/sql/sql_quiz.asp) [php
+quiz](/php/php_quiz.asp) [python quiz](/python/python_quiz.asp) [jquery
+quiz](/jquery/jquery_quiz.asp) [bootstrap quiz](/bootstrap/bootstrap_quiz.asp)
+[java quiz](/java/java_quiz.asp) [c++ quiz](/cpp/cpp_quiz.asp) [c#
+quiz](/cs/cs_quiz.asp) [xml quiz](/xml/xml_quiz.asp)
+
+### [certificates](/cert/default.asp)
+
+[html certificate](/cert/cert_html_new.asp) [css
+certificate](/cert/cert_css.asp) [javascript
+certificate](/cert/cert_javascript.asp) [sql certificate](/cert/cert_sql.asp)
+[php certificate](/cert/cert_php.asp) [python
+certificate](/cert/cert_python.asp) [jquery
+certificate](/cert/cert_jquery.asp) [bootstrap
+certificate](/cert/cert_bootstrap.asp) [xml certificate](/cert/cert_xml.asp)
+
+  
+
+×
+
+## log in
+
+[why log in?](https://mypage.w3schools.com/mypage/index.php)
+
+username
+
+  
+
+password
+
+  
+
+log in
+
+new user? [sign up for
+free!](https://mypage.w3schools.com/mypage/login.php?logintyp=1)
+
+[forgot password?](https://mypage.w3schools.com/mypage/forgot_password.php)
+
+  
+
+## about us
+
+[about w3schools](default.asp) [about terms](about_copyright.asp) [about
+privacy](about_privacy.asp) [about advertising](about_advert.asp)  
+  
+
+# about privacy
+
+[❮ previous](about_copyright.asp) [next ❯](about_advert.asp)
+
+* * *
+
+## privacy statement for w3schools
+
+this privacy policy describes how your personal information is collected,
+used, and shared when you visit or make a purchase from w3schools.com (the
+"site"). [CLS] [SEP]
+
+* * *
+
+## personal information we collect
+
+when you visit the site, we automatically collect certain information about
+your device, including information about your web browser, ip address, time
+zone, and some of the cookies that are installed on your device. [CLS] [SEP] additionally,
+as you browse the site, we collect information about the individual web pages
+or products that you view, what websites or search terms referred you to the
+site, and information about how you interact with the site. [CLS] [SEP] we refer to this
+automatically-collected information as "device information". [CLS] [SEP]
+
+we collect device information using the following technologies:
+
+  * "cookies" are data files that are placed on your device or computer and often include an anonymous unique identifier. [CLS] [SEP] for more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org. [CLS] [SEP] 
+  * "log files", and user accounts, track actions occurring on the site, and collect data including your ip address, browser type, internet service provider, referring/exit pages, and date/time stamps. [CLS] [SEP] 
+  * "web beacons", "tags", and "pixels" are electronic files used to record information about how you browse the site. [CLS] [SEP] 
+
+additionally when you make a purchase or attempt to make a purchase through
+the site, we collect certain information from you, including your name,
+billing address, shipping address, payment information (including credit card
+numbers, email address, and phone number. [CLS] [SEP] we refer to this information as
+"order information". [CLS] [SEP]
+
+* * *
+
+## personal user information
+
+when we talk about "personal information" in this privacy policy, we are
+talking both about device information and order information. [CLS] [SEP]
+
+how do we use your personal information?  
+we use the order information that we collect generally to fulfill any orders
+placed through the site (including processing your payment information,
+arranging for shipping, and providing you with invoices and/or order
+confirmations). [CLS] [SEP] additionally, we use this order information to:
+
+  * communicate with you; 
+  * screen our orders for potential risk or fraud; and 
+  * when in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services. [CLS] [SEP] 
+
+we use the device information that we collect to help us screen for potential
+risk and fraud (in particular, your ip address), and more generally to improve
+and optimize our site (for example, by generating analytics about how our
+customers browse and interact with the site, and to assess the success of our
+marketing and advertising campaigns). [CLS] [SEP]
+
+we use your account information that we collect generally to generate
+statistics for you, and provide personalized roadmaps. [CLS] [SEP] additionally, we use
+this information to:
+
+  * communicate with you; 
+  * when in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services. [CLS] [SEP] 
+
+* * *
+
+## sharing you personal information
+
+we share your personal information with third parties to help us use your
+personal information, as described above. [CLS] [SEP]
+
+for example, we use google analytics to help us understand how our customers
+use the site -- you can read more about how google uses your personal
+information here: https://www.google.com/intl/en/policies/privacy/. [CLS] [SEP] you can
+also opt-out of google analytics here:
+https://tools.google.com/dlpage/gaoptout. [CLS] [SEP]
+
+we also use shopify to power our online store--you can read more about how
+shopify uses your personal information here: [
+https://www.shopify.com/legal/privacy](https://www.shopify.com/legal/privacy). [CLS] [SEP]
+
+we fund our site by showing adverts as you browse our site. [CLS] [SEP] these adverts are
+usually managed by a partner specializing in providing adverts for multiple
+sites. [CLS] [SEP] invariably these partners collect anonymous data about the websites you
+visits so they can personalize the adverts to you, ensure that you don't see
+the same adverts too frequently and ultimately report to advertisers on which
+adverts are working. [CLS] [SEP] we use a third-party to provide monetization technologies
+for our site. [CLS] [SEP] you can review their [privacy and cookie policy
+here](https://www.snigel.com/privacy-policy/). [CLS] [SEP]
+
+finally, we may also share your personal information to comply with applicable
+laws and regulations, to respond to a subpoena, search warrant or other lawful
+request for information we receive, or to otherwise protect our rights. [CLS] [SEP]
+
+* * *
+
+## behavioural advertising
+
+as described above, we use your personal information to provide you with
+targeted advertisements or marketing communications we believe may be of
+interest to you. [CLS] [SEP] for more information about how targeted advertising works,
+you can visit the network advertising initiative's ("nai") educational page at
+[ http://www.networkadvertising.org/understanding-online-advertising/how-does-
+it-work](http://www.networkadvertising.org/understanding-online-
+advertising/how-does-it-work). [CLS] [SEP]
+
+you can opt out of targeted advertising by using the links below:
+
+  * \- facebook: https://www.facebook.com/settings/?tab=ads 
+  * \- google: https://www.google.com/settings/ads/anonymous 
+  * \- bing: https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
+
+you can get a full list of the partners we use by accessing our ads.txt file. [CLS] [SEP]
+
+additionally, you can opt out of some of these services by visiting the
+digital advertising alliance's opt-out portal at:
+<http://optout.aboutads.info/>. [CLS] [SEP]
+
+you can learn more about online advertising, or opt-out of almost all
+advertising cookies at <https://www.youronlinechoices.com>. [CLS] [SEP]
+
+**note:** opting out will not disable ads, they will just no longer be
+tailored to you. [CLS] [SEP]
+
+* * *
+
+## manage consent
+
+if you want to change your choices regarding your personal information, you
+can use the button below:
+
+manage consent
+
+* * *
+
+## do not track
+
+please note that we do not alter our site's data collection and use practices
+when we see a do not track signal from your browser. [CLS] [SEP]
+
+* * *
+
+##  your rights
+
+if you are a european resident, you have the right to access personal
+information we hold about you and to ask that your personal information be
+corrected, updated, or deleted. [CLS] [SEP] if you would like to exercise this right,
+please contact us through the contact information below. [CLS] [SEP]
+
+additionally, if you are a european resident we note that we are processing
+your information in order to fulfill contracts we might have with you (for
+example if you make an order through the site), or otherwise to pursue our
+legitimate business interests listed above. [CLS] [SEP] additionally, please note that
+your information will be transferred outside of europe, including to canada
+and the united states. [CLS] [SEP]
+
+* * *
+
+## data retention
+
+when you place an order through the site, we will maintain your order
+information for our records unless and until you ask us to delete this
+information. [CLS] [SEP]
+
+* * *
+
+## changes
+
+we may update this privacy policy from time to time in order to reflect, for
+example, changes to our practices or for other operational, legal or
+regulatory reasons. [CLS] [SEP]
+
+* * *
+
+## using google drive in our tryit editor
+
+our tryit editor allows users to store code to, or import code from, google
+drive. [CLS] [SEP]
+
+this allows users to:
+
+  * store examples/code to their google drive
+  * share examples/code through google drive
+
+w3schools does not keep for ourselves, or share this information with third
+parties. [CLS] [SEP]
+
+* * *
+
+## links
+
+w3schools contains links to other sites. [CLS] [SEP] we are not responsible for the
+privacy practices or the content of such web sites. [CLS] [SEP] this privacy document
+applies only to w3schools. [CLS] [SEP]
+
+* * *
+
+## contact us
+
+for more information about our privacy practices, if you have questions, or if
+you would like to make a complaint, please contact us by e‑mail at
+help@w3schools.com or by mail using the details provided below:
+
+w3schools  
+[re: privacy compliance officer]  
+larsamyraa 18, 4313 sandnes, norway
+
+  
+
+[❮ previous](about_copyright.asp) [next ❯](about_advert.asp)
+
+  
+
+#### [color picker](/colors/colors_picker.asp)
+
+[ ![colorpicker](/images/colorpicker.gif)](/colors/colors_picker.asp)
+
+#### like us
+
+[](https://www.facebook.com/w3schoolscom/ "facebook")
+[](https://www.instagram.com/w3schools.com_official/ "instagram")
+[](https://www.linkedin.com/company/w3schools.com/ "linkedin")
+
+get certified  
+by completing  
+a course today!
+
+[ w3schools certified . [CLS] [SEP] 2021 ](https://courses.w3schools.com) [get
+started](https://courses.w3schools.com)
+
+#### [how to](/howto/default.asp)
+
+[tabs](/howto/howto_js_tabs.asp)  
+[dropdowns](/howto/howto_css_dropdown.asp)  
+[accordions](/howto/howto_js_accordion.asp)  
+[side navigation](/howto/howto_js_sidenav.asp)  
+[top navigation](/howto/howto_js_topnav.asp)  
+[modal boxes](/howto/howto_css_modals.asp)  
+[progress bars](/howto/howto_js_progressbar.asp)  
+[parallax](/howto/howto_css_parallax.asp)  
+[login form](/howto/howto_css_login_form.asp)  
+[html includes](/howto/howto_html_include.asp)  
+[google maps](/howto/howto_google_maps.asp)  
+[range sliders](/howto/howto_js_rangeslider.asp)  
+[tooltips](/howto/howto_css_tooltip.asp)  
+[slideshow](/howto/howto_js_slideshow.asp)  
+[filter list](/howto/howto_js_filter_lists.asp)  
+[sort list](/howto/howto_js_sort_list.asp)  
+
+##### [certificates](/cert/default.asp)
+
+[html](/cert/cert_html.asp) [css](/cert/cert_css.asp)
+[javascript](/cert/cert_javascript.asp) [python](/cert/cert_python.asp)
+[sql](/cert/cert_sql.asp) [php](/cert/cert_php.asp) [and
+more](/cert/default.asp)
+
+* * *
+
+* * *
+
+[report error](javascript:void\(0\);)
+
+[forum](/forum/default.asp)
+
+[about](/about/default.asp)
+
+[shop](https://shop.w3schools.com/)
+
+* * *
+
+×
+
+## report error
+
+if you want to report an error, or if you want to make a suggestion, do not
+hesitate to send us an e-mail:
+
+help@w3schools.com
+
+  
+
+×
+
+## thank you for helping us!
+
+your message has been sent to w3schools. [CLS] [SEP]
+
+#### top tutorials
+
+[html tutorial](/html/default.asp)  
+[css tutorial](/css/default.asp)  
+[javascript tutorial](/js/default.asp)  
+[how to tutorial](/howto/default.asp)  
+[sql tutorial](/sql/default.asp)  
+[python tutorial](/python/default.asp)  
+[w3.css tutorial](/w3css/default.asp)  
+[bootstrap tutorial](/bootstrap/bootstrap_ver.asp)  
+[php tutorial](/php/default.asp)  
+[java tutorial](/java/default.asp)  
+[c++ tutorial](/cpp/default.asp)  
+[jquery tutorial](/jquery/default.asp)  
+
+#### top references
+
+[html reference](/tags/default.asp)  
+[css reference](/cssref/default.asp)  
+[javascript reference](/jsref/default.asp)  
+[sql reference](/sql/sql_ref_keywords.asp)  
+[python reference](/python/python_reference.asp)  
+[w3.css reference](/w3css/w3css_references.asp)  
+[bootstrap reference](/bootstrap/bootstrap_ref_all_classes.asp)  
+[php reference](/php/php_ref_overview.asp)  
+[html colors](/colors/colors_names.asp)  
+[java reference](/java/java_ref_keywords.asp)  
+[angular reference](/angular/angular_ref_directives.asp)  
+[jquery reference](/jquery/jquery_ref_overview.asp)  
+
+#### top examples
+
+[html examples](/html/html_examples.asp)  
+[css examples](/css/css_examples.asp)  
+[javascript examples](/js/js_examples.asp)  
+[how to examples](/howto/default.asp)  
+[sql examples](/sql/sql_examples.asp)  
+[python examples](/python/python_examples.asp)  
+[w3.css examples](/w3css/w3css_examples.asp)  
+[bootstrap examples](/bootstrap/bootstrap_examples.asp)  
+[php examples](/php/php_examples.asp)  
+[java examples](/java/java_examples.asp)  
+[xml examples](/xml/xml_examples.asp)  
+[jquery examples](/jquery/jquery_examples.asp)  
+
+#### web courses
+
+[html course](https://courses.w3schools.com/courses/html)  
+[css course](https://courses.w3schools.com/courses/css)  
+[javascript course](https://courses.w3schools.com/courses/javascript)  
+[sql course](https://courses.w3schools.com/courses/sql)  
+[python course](https://courses.w3schools.com/courses/python)  
+[jquery course](https://courses.w3schools.com/courses/jquery)  
+[php course](https://courses.w3schools.com/courses/php)  
+[bootstrap course](https://courses.w3schools.com/courses/bootstrap)  
+[xml course](https://courses.w3schools.com/courses/xml)  
+[ get certified »](https://courses.w3schools.com/)
+
+* * *
+
+w3schools is optimized for learning and training. [CLS] [SEP] examples might be simplified
+to improve reading and learning. [CLS] [SEP] tutorials, references, and examples are
+constantly reviewed to avoid errors, but we cannot warrant full correctness of
+all content. [CLS] [SEP] while using w3schools, you agree to have read and accepted our
+[terms of use](/about/about_copyright.asp), [cookie and privacy
+policy](/about/about_privacy.asp). [CLS] [SEP]  
+  
+[copyright 1999-2021](/about/about_copyright.asp) by refsnes data. [CLS] [SEP] all rights
+reserved. [CLS] [SEP]  
+[w3schools is powered by w3.css](//www.w3schools.com/w3css/default.asp). [CLS] [SEP]  
+  
+[ ![w3schools.com](/images/w3schoolscom_gray.gif)](//www.w3schools.com)
+
+  
+  
+
