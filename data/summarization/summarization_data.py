@@ -38,10 +38,6 @@ def add_separators_to_texts(path_to_texts):
             with open(filename, 'w') as f:
                 for line in lines:
                     line = line.replace('. ', '. [CLS] [SEP] ')
-                    # if line != "":
-                    #     print(line[-1])
-                    # if line.endswith(".\n"):
-                    #     line += '[CLS] [SEP]'
                     line = line.replace('.\n', '. [CLS] [SEP]\n')
                     f.write(line)
 
@@ -56,6 +52,19 @@ def count_shared_filenames():
     print(intersection)
 
 
+def swap_separators(path_to_texts):
+    """ Swap the separators [CLS] [SEP] in all texts along this path """
+    for filename in os.scandir(path_to_texts):
+        if filename.path.endswith('.txt'):
+            with open(filename, 'r') as f:
+                lines = f.readlines()
+            with open(filename, 'w') as f:
+                for line in lines:
+                    line = line.replace('[CLS] [SEP]', '[SEP] [CLS]')
+                    line = line.replace('[SEP] [CLS]', '[CLS] [SEP]')
+                    f.write(line)
+
 
 if __name__ == '__main__':
-    count_shared_filenames()
+    swap_separators('full_texts/')
+    swap_separators('quotes/')
