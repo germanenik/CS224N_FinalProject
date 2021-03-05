@@ -25,9 +25,9 @@ def compute_rouge(args):
             ref_file_path = get_file_path(ref, ref_file_name)
             try:
                 rouge_score = compute_rouge_instance(cand_file_path, ref_file_path, args.debug)
-            except (RecursionError, AssertionError):
-                rouge_score = None
-            rouge_scores.append(rouge_score)
+                rouge_scores.append(rouge_score)
+            except (RecursionError, AssertionError) as e:
+                print(f"Error {e} encountered when calculating rouge for {cand_file_name} and {ref_file_name}")
 
     print("Length of rouge reports: ", len(rouge_scores))
     print(rouge_scores)
