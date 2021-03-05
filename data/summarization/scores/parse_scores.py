@@ -22,7 +22,7 @@ def print_averages_rouge(data):
                 i = rouges.index(rouge_type)
                 metrics[i][metric] += value
         count += 1
-    print({rouges[i]: {metric: value / count} for i in range(len(rouges)) for metric, value in metrics[i].items()})
+    print({rouges[i]: {metric: value / count for metric, value in metrics[i].items()} for i in range(len(rouges))})
 
 
 def str2bool(v):
