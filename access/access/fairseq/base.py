@@ -35,8 +35,14 @@ def fairseq_preprocess(dataset):
     with lock_directory(dataset_dir):
         preprocessed_dir = dataset_dir / 'fairseq_preprocessed'
         with create_directory_or_skip(preprocessed_dir):
+            src_dict = 'model/dict.complex.txt'
+            tgt_dict = 'model/dict.complex.txt'
             preprocessing_parser = options.get_preprocessing_parser()
             preprocess_args = preprocessing_parser.parse_args([
+                '--srcdict',
+                src_dict,
+                '--tgtdict',
+                tgt_dict,
                 '--source-lang',
                 'complex',
                 '--target-lang',
@@ -81,7 +87,8 @@ def fairseq_train(
         criterion='label_smoothed_cross_entropy',
         optimizer='nag',
         validations_before_sari_early_stopping=10,
-        fp16=False):
+        fp16=False,
+        restore_file_path='model/checkpoints/checkpoint_best.pt'):
     exp_dir = Path(exp_dir)
     with log_stdout(exp_dir / 'fairseq_train.stdout'):
         preprocessed_dir = Path(preprocessed_dir)
@@ -93,6 +100,8 @@ def fairseq_train(
         # if share_embeddings:
         #     assert encoder_decoder_dim_ratio == 1
         args = [
+            '--restore-file',
+            restore_file_path,
             '--task',
             'translation',
             preprocessed_dir,

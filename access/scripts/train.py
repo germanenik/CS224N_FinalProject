@@ -18,7 +18,7 @@ if __name__ == '__main__':
         'warmup_updates': 4000,
         'parametrization_budget': 256,
         'beam': 8,
-        'dataset': 'wikilarge',
+        'dataset': 'simplification',
         'dropout': 0.2,
         'fp16': False,
         'label_smoothing': 0.54,
