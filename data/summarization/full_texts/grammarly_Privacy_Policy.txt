@@ -83,9 +83,9 @@ logo](https://static.grammarly.com/assets/files/3a89d404f9db7ffd42e5fa9b8cd7d93e
 
 # privacy policy
 
-effective as of september 18, 2020
+effective as of march 1, 2021
 
-the previous version is [here](/privacy-policy-june-24-2020). [CLS] [SEP]
+the previous version is [here](/privacy-policy-sept-18-2020). [CLS] [SEP]
 
 at grammarly, we care about the privacy of your data and are committed to
 protecting it. [CLS] [SEP] this privacy policy explains what information we collect about
@@ -148,7 +148,7 @@ we collect this information as you use the site, software, and/or services:
 
   * user content. [CLS] [SEP] this consists of all text, documents, or other content or information uploaded, entered, or otherwise transmitted by you in connection with your use of the services and/or software. [CLS] [SEP]
 
-  * names of user contacts (if you are using the grammarly keyboard). [CLS] [SEP] the grammarly keyboard may request or obtain access to the names of your contacts on your device. [CLS] [SEP] this access helps the grammarly keyboard recognize when you are typing names so it can make appropriate suggestions (for example, if you misspell a name). [CLS] [SEP]
+  * names of user contacts in grammarly keyboard (on-device storage only). [CLS] [SEP] to make appropriate spelling suggestions, the grammarly keyboard may request or obtain access to your contacts' names on your device. [CLS] [SEP] for instance, grammarly will not try to autocorrect names that are in your contacts. [CLS] [SEP] these names will be stored solely on your device within the grammarly keyboard app and are never sent to grammarly servers. [CLS] [SEP]
 
 #### automatically collected information
 
@@ -183,7 +183,7 @@ contract with you and for our legitimate business interests, including:
 
   * to communicate with you about your use of our site, software, and/or services, product announcements, and software updates, as well as respond to your requests for assistance, including providing account verification support if you’re having difficulty accessing your account. [CLS] [SEP]
 
-  * to send you direct marketing emails and special offers about grammarly, from which you can unsubscribe at any time. [CLS] [SEP] for more information, please see the section titled, “will grammarly send me emails?” if you are located in the european economic area (eea), we will only send you marketing information if you consent to us doing so at the time you create your account or any point thereafter. [CLS] [SEP]
+  * to send you direct marketing emails and special offers about grammarly, from which you can unsubscribe at any time. [CLS] [SEP] for more information, please see the section titled, “will grammarly send me emails?” if you are located in the european economic area (eea), switzerland, or the uk, we will only send you marketing information if you consent to us doing so at the time you create your account or any point thereafter. [CLS] [SEP]
 
   * to display user content associated with your account and make sure it is available to you when you use our services. [CLS] [SEP]
 
@@ -279,8 +279,9 @@ preferences. [CLS] [SEP] all grammarly account holders will continue to receive
 transactional messages related to our services, even if you unsubscribe from
 promotional emails. [CLS] [SEP]
 
-for eea users: we only send marketing communications to users located in the
-eea with your prior consent. [CLS] [SEP] please see the section “for eea users” below. [CLS] [SEP]
+for eea, swiss, and uk users: we only send marketing communications to you
+with your prior consent. [CLS] [SEP] please see the section “for eea, swiss, and uk users”
+below. [CLS] [SEP]
 
 ### does grammarly ever make any of my personal data or user content public?
 
@@ -300,6 +301,10 @@ through the site, service, and/or software. [CLS] [SEP] we encourage parents and
 guardians to monitor their children’s internet usage and to help enforce this
 policy by instructing their children never to provide personal information
 through the site, service, and/or software without their permission. [CLS] [SEP]
+
+please note that in some countries the age of digital consent is older than
+13. [CLS] [SEP] if you are in one of those countries, you must be at least that age to use
+the site, software, and/or services. [CLS] [SEP]
 
 ## data storage, transfer, retention, and deletion
 
@@ -331,7 +336,7 @@ technical, physical, and logical security safeguards. [CLS] [SEP] the security o
 stored locally in any of our software installed on your computing device
 requires that you make use of the security features of your device. [CLS] [SEP] we
 recommend that you take the appropriate steps to secure all computing devices
-that you use in connection with our site, software, and services. [CLS] [SEP]
+that you use in connection with our site, software, and/or services. [CLS] [SEP]
 
 if grammarly learns of a security system breach, we may attempt to notify you
 and provide information on protective steps, if available, through the email
@@ -380,39 +385,10 @@ need to delete your grammarly account. [CLS] [SEP]
 
 ## eu-u.s. [CLS] [SEP] & swiss-u.s. [CLS] [SEP] privacy shield
 
-grammarly complies with the eu-u.s. [CLS] [SEP] privacy shield framework and swiss-u.s. [CLS] [SEP]
-privacy shield framework as set forth by the u.s. [CLS] [SEP] department of commerce
-regarding the collection, use, and retention of personal information
-transferred from the european union and switzerland to the united states. [CLS] [SEP]
-grammarly has certified to the department of commerce that it adheres to the
-privacy shield principles. [CLS] [SEP] if there is any conflict between the terms in this
-privacy policy and the privacy shield principles, the privacy shield
-principles shall govern. [CLS] [SEP] to learn more about the privacy shield program, and
-to view our certification, please visit <http://www.privacyshield.gov>. [CLS] [SEP]
-
-in compliance with the privacy shield principles, grammarly commits to resolve
-complaints about our collection or use of your personal information. [CLS] [SEP] eu and
-swiss individuals with inquiries or complaints regarding our privacy shield
-policy should first contact grammarly at the contact address below. [CLS] [SEP] if you
-have an unresolved privacy or data use concern that we have not addressed
-satisfactorily, dispute resolution is available through a third-party
-arbitrator by contacting our designated privacy shield independent recourse
-mechanism, [jams](https://www.jamsadr.com/eu-us-privacy-shield). [CLS] [SEP] in certain
-circumstances, the eu-u.s. [CLS] [SEP] privacy shield framework and swiss-u.s. [CLS] [SEP] privacy
-shield framework provide the right to invoke binding arbitration to resolve
-complaints not resolved by other means, as described in [annex
-i](https://www.privacyshield.gov/article?id=annex-i-introduction) to the
-privacy shield principles. [CLS] [SEP]
-
-the privacy shield principles describe grammarly’s accountability for personal
-data that it subsequently transfers to a third-party agent. [CLS] [SEP] under the
-principles, grammarly shall remain liable if third-party agents process the
-personal information in a manner inconsistent with the principles, unless
-grammarly proves it is not responsible for the event giving rise to the
-damage. [CLS] [SEP]
-
-the federal trade commission has jurisdiction over grammarly’s compliance with
-the privacy shield. [CLS] [SEP]
+grammarly, inc. [CLS] [SEP] participates in the eu-us and swiss-us privacy shield
+frameworks but does not rely on it. [CLS] [SEP] [learn
+more.](https://support.grammarly.com/hc/en-us/articles/360021115751-does-
+grammarly-participate-in-privacy-shield-)
 
 ## for eea, swiss, and uk
 users![](https://static.grammarly.com/assets/files/b86f6188f2d8b41348b078c4ceea0153/accordion_arrow.svg)
@@ -424,6 +400,10 @@ interests in order to provide the services. [CLS] [SEP] we rely on your consent 
 personal data to send promotional emails and to place cookies on your devices. [CLS] [SEP]
 in some cases, grammarly may process personal data pursuant to legal
 obligation or to protect your vital interests or those of another person. [CLS] [SEP]
+
+when grammarly transfers the personal data of eea, swiss, and uk residents
+outside of those regions it does so via appropriate safeguards of user
+privacy, such as standard contractual clauses. [CLS] [SEP]
 
 ### what rights do i have, and how can i exercise them?
 
@@ -437,30 +417,36 @@ switzerland, or the uk, you can:
 
   * have your personal data corrected or deleted. [CLS] [SEP] some personal data can be updated by you: you can update your name and email address, as well as language preference, through your grammarly account settings. [CLS] [SEP] if you registered for grammarly using google or facebook, or if you otherwise have problems updating this information, please [submit a support ticket](https://support.grammarly.com/hc/en-us/requests/new?showform). [CLS] [SEP] you can remove your personal data from grammarly by [deleting your account](https://support.grammarly.com/hc/en-us/articles/115000090052-delete-your-grammarly-account). [CLS] [SEP]
 
-  * object to us processing your personal data. [CLS] [SEP] you can ask us to stop using your personal data, including when we use your personal data to send you marketing emails. [CLS] [SEP] we only send marketing communications to users located in the eea with your prior consent, and you may withdraw your consent at any time by clicking the “unsubscribe” link found within grammarly emails and changing your contact preferences. [CLS] [SEP] please note you will continue to receive transactional messages related to our services, even if you unsubscribe from marketing emails. [CLS] [SEP]
+  * object to us processing your personal data. [CLS] [SEP] you can ask us to stop using your personal data, including when we use your personal data to send you marketing emails. [CLS] [SEP] we only send marketing communications to users located in the eea, switzerland, and the uk with your prior consent, and you may withdraw your consent at any time by clicking the “unsubscribe” link found within grammarly emails and changing your contact preferences. [CLS] [SEP] please note that you will continue to receive transactional messages related to our services, even if you unsubscribe from marketing emails. [CLS] [SEP]
 
-  * complain to a regulator. [CLS] [SEP] if you’re based in the eea and think that we haven’t complied with data protection laws, you have a right to lodge a complaint with your local supervisory authority. [CLS] [SEP]
+  * complain to a regulator. [CLS] [SEP] if you’re based in the eea, switzerland, or the uk and think that we haven’t complied with data protection laws, you have a right to lodge a complaint with your local supervisory authority. [CLS] [SEP]
 
 if you have other questions or do not have a grammarly account, contact us by
 [submitting a support ticket](https://support.grammarly.com/hc/en-
 us/requests/new?showform). [CLS] [SEP]
 
-### who is grammarly's eea representative?
+### who is grammarly’s eea representative?
 
-verasafe has been appointed as grammarly’s representative in the eea for data
-protection matters, pursuant to article 27 of the general data protection
-regulation of the european union. [CLS] [SEP] verasafe can be contacted in matters related
-to the processing of personal data. [CLS] [SEP] to make such an inquiry, please contact
-verasafe using this contact form: <https://www.verasafe.com/privacy-
-services/contact-article-27-representative>. [CLS] [SEP]
+verasafe has been appointed grammarly’s representative in the eea and the uk
+for data protection matters, pursuant to article 27 of the general data
+protection regulation of the european union and the uk general data protection
+regulation, respectively. [CLS] [SEP] verasafe can be contacted in matters related to the
+processing of personal data. [CLS] [SEP] to make such an inquiry, please contact verasafe
+using this contact form: <https://www.verasafe.com/privacy-services/contact-
+article-27-representative>. [CLS] [SEP]
 
 alternatively, verasafe can be contacted at:  
-verasafe ireland ltd  
-unit 3d north point house  
-north point business park  
-new mallow road  
-cork t23at2p  
-ireland
+for the eu: verasafe ireland ltd,  
+unit 3d north point house,  
+north point business park,  
+new mallow road,  
+cork t23at2p,  
+ireland  
+  
+for the uk: verasafe united kingdom ltd.,  
+37 albert embankment,  
+london se1 7tl,  
+united kingdom
 
 ### data transfers
 
@@ -506,9 +492,9 @@ account and profile data); commercial information (such as transaction data
 for a paid account); financial data (such as payment method or financial
 account information); internet or other network or device activity (such as ip
 address and usage information); location information (e.g., the general
-location where you use your device when interacting with the site, software or
-services); sensory information (such as audio recordings if you call our
-customer service); inference data about you; and other information that
+location where you use your device when interacting with the site, software,
+and/or services); sensory information (such as audio recordings if you call
+our customer service); inference data about you; and other information that
 identifies or can be reasonably associated with you. [CLS] [SEP] we collect these
 categories of personal information from different sources, as described in the
 section titled, “what information does grammarly collect about me?” above. [CLS] [SEP]
@@ -581,8 +567,6 @@ during the previous calendar year. [CLS] [SEP] this list also contains the types
 information shared. [CLS] [SEP] we provide this list at no cost. [CLS] [SEP] to make such a request,
 contact us at [support@grammarly.com](mailto:support%40grammarly.com). [CLS] [SEP]
 
-updated: september 18, 2020
-
 ## for nevada
 users![](https://static.grammarly.com/assets/files/b86f6188f2d8b41348b078c4ceea0153/accordion_arrow.svg)
 
@@ -609,21 +593,21 @@ activities under brazilian law, and takes effect on the lgpd’s effective date.
 if you’re a resident of brazil, you may have certain rights. [CLS] [SEP] brazilian law may
 permit you to request that we:
 
-  * confirm whether we process your data;
+  * confirm whether we process your data. [CLS] [SEP]
 
-  * provide access to and/or a copy of certain information we hold about you;
+  * provide access to and/or a copy of certain information we hold about you. [CLS] [SEP]
 
-  * correct incomplete, inaccurate, and outdated data;
+  * correct incomplete, inaccurate, and outdated data. [CLS] [SEP]
 
-  * anonymize, block, or delete data that is unnecessary, excessive, or not being processed in accordance with brazilian data protection law;
+  * anonymize, block, or delete data that is unnecessary, excessive, or not being processed in accordance with brazilian data protection law. [CLS] [SEP]
 
-  * port your personal data to another service or product vendor;
+  * port your personal data to another service or product vendor. [CLS] [SEP]
 
-  * delete personal data processed with your consent, when applicable;
+  * delete personal data processed with your consent, when applicable. [CLS] [SEP]
 
-  * provide you with information regarding the public and private entities with which we share data;
+  * provide you with information regarding the public and private entities with which we share data. [CLS] [SEP]
 
-  * provide you with information about the possibility of withdrawing consent and the consequences of such withdrawal, where applicable; and
+  * provide you with information about the possibility of withdrawing consent and the consequences of such withdrawal, where applicable. [CLS] [SEP]
 
   * withdraw your consent. [CLS] [SEP]
 
@@ -721,6 +705,6 @@ community
 
 2021 © grammarly inc. [CLS] [SEP]
 
-![](/api/tracking/load?userid=-13500722663261184&containerid=gjrfbvmqnp8s102&pageid=privacypolicy&isinitial=true&requestid=oqvha08w91mgithqcfwk)
-![](/api/tracking/noscript?userid=-13500722663261184&containerid=gjrfbvmqnp8s102&pageid=privacypolicy&isinitial=true&requestid=oqvha08w91mgithqcfwk)
+![](/api/tracking/load?userid=-13540712720959232&containerid=trqic0r6jdrq1o2&pageid=privacypolicy&isinitial=true&requestid=qougwsukyujmlwahfsmb)
+![](/api/tracking/noscript?userid=-13540712720959232&containerid=trqic0r6jdrq1o2&pageid=privacypolicy&isinitial=true&requestid=qougwsukyujmlwahfsmb)
 
