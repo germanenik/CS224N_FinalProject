@@ -11,6 +11,7 @@ def calc_quote_presence(args):
     full_files = os.listdir(full)
 
     ref_files = os.listdir(ref)
+    print(len(ref_files))
     if args.num_files:
         ref_files = ref_files[args.start_file_pos:args.start_file_pos+args.num_files]
     else:
@@ -56,7 +57,11 @@ def get_file_path(dir_path, file_name):
     return dir_path + "/" + file_name 
 
 def pretty_print(present, total):
-    return f"{present} / {total}  = {present / total * 100}%"
+    if total != 0:
+        return f"{present} / {total}  = {present / total * 100}%"
+    else:
+        return f"{present} / {total}  = 0%"
+
 
 def str2bool(v):
     if isinstance(v, bool):
