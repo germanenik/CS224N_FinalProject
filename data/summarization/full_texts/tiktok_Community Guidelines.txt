@@ -1,0 +1,753 @@
+[![tiktok](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0ivvrgltgipz4kphn2zyb3awr0ad0imjlwecigagvpz2h0psizmnb4iib2awv3qm94psiwidagmjkgmziiihzlcnnpb249ijeumsigeg1sbnm9imh0dha6ly93d3cudzmub3jnlziwmdavc3zniib4bwxuczp4bgluaz0iahr0cdovl3d3dy53my5vcmcvmtk5os94bgluayi+ciagica8is0tiedlbmvyyxrvcjogu2tldgnoidu1ljigkdc4mtgxksatigh0dhbzoi8vc2tldgnoyxbwlmnvbsatlt4kicagidx0axrszt7nvjbnu4qgmjwvdgl0bgu+ciagica8zgvzyz5dcmvhdgvkihdpdgggu2tldgnoljwvzgvzyz4kicagidxniglkpslpobxpnaixiibzdhjva2u9im5vbmuiihn0cm9rzs13awr0ad0imsigzmlsbd0ibm9uzsigzmlsbc1ydwxlpsjldmvub2rkij4kicagicagica8zybpzd0i57yw57ueltiiihryyw5zzm9ybt0idhjhbnnsyxrlkdauotc5mjm2lcawljawmdawmckiigzpbgwtcnvszt0ibm9uemvybyi+ciagicagicagicagidxwyxroigq9ik0xmc43ota3njq1ldeyljmziewxmc43ota3njq1ldexljexiemxmc4znjcynji5ldexlja0mjg4odcgos45mzk1mdy3ncwxms4wmdyxmjg0idkuntewnzy0ndgsmtauotk5otc4nibdns4zntk5nju0oswxmc45oteymji4ideunjg1mdk2nzksmtmunjgxmdiwnsawljqzody2nzy5ncwxny42ndaynju4iemtmc44mdc3njezotksmjeuntk5ntexmiawljy2mzuwntg0miwyns45mdkzodg3idqumdcwnzy0ndgsmjgumjggqzeunte4ndg0odqsmjuuntq4ndgxniawljgwotc5otu0nswyms41nziwodm0idiumjyxmjy4mtcsmtgumti3mda1mybdmy43mti3mzy3oswxnc42ode5mjczidcumduzmjk1ndusmtiundexntqyocaxmc43ota3njq1ldeyljmziewxmc43ota3njq1ldeyljmzifoiiglkpslot6/lvoqiigzpbgw9iimynuy0ruuipjwvcgf0ad4kicagicagicagicagphbhdgggzd0ittexljaymdc2ndusmjyumtugqzezljm0mtuyodcsmjyumtq2odc3niaxns4yndkxnjyyldi0ljmxodu0mtqgmtuumzuwnzy0nswymibmmtuumzuwnzy0nswxljmxiewxos4xmza3njq1ldeumzegqze5lja1mzywnjgsmc44nzc2odizmjigmtkumde2nzgxocwwljqzotezmdk5miaxos4wmja3njq1ldagtdezljg1mdc2ndusmcbmmtmuoduwnzy0nswymc42nybdmtmunzy0nzk4ldizljawmdmzodggmteuoduynjg1mywync44ndyymtigos41mja3njq0ocwync44nsbdoc44mjm5mdkxncwync44ndqwnjcgoc4xmzg0mjg4ncwync42nzi2oty5idcuntiwnzy0ndgsmjqumzugqzgumzmynjgyndusmjuundc0ote1nca5ljyzmzq2mjazldi2lje0mzg4nzggmteumdiwnzy0nswyni4xnsbaiibpzd0i6lev5b6eiibmawxspsijmjvgnevfij48l3bhdgg+ciagicagicagicagidxwyxroigq9ik0yni4xota3njq1ldgumzmgtdi2lje5mdc2ndusny4xocbdmjqunzk5njqsny4xoda0nzyynsaymy40mzkznzgxldyunzy5otyyndigmjiumjgwnzy0nsw2iemymy4yoty0ndq2ldcumtgwnze3njkgmjqunjy4otyymiw3ljk5odyxmtc3idi2lje5mdc2ndusoc4zmybmmjyumtkwnzy0nsw4ljmzifoiiglkpslot6/lvoqiigzpbgw9iimynuy0ruuipjwvcgf0ad4kicagicagicagicagphbhdgggzd0ittiylji4mdc2ndusnibdmjeumtm5ndy3nsw0ljcwmdmzmtyxidiwljuxmdi5njcsmy4wmjk2ntixniaymc41mta3njq1ldeumybmmtkumtmwnzy0nswxljmgqze5ljq5mdk4mtismy4ymzi2oduxosaymc42mzawmzgzldquotmymjmwnjcgmjiumjgwnzy0nsw2iewymi4yoda3njq1ldygwiigawq9iui3r+w+hcigzmlsbd0ii0zfmkm1nsi+pc9wyxropgogicagicagicagica8cgf0acbkpsjnos41mta3njq0ocwxni4xnybdny41mtkymtgxncwxni4xodaymtc4iduunzkwmje2mjysmtcuntq0ntkziduumze3mjeymdesmtkundc5mtgwmybdnc44ndqymdc3nywyms40mtm3njc3iduunzq4nja5ntysmjmundiymda2osa3ljuxmdc2ndq4ldi0ljm1iem2lju1ntk0odm0ldizljazmtc3mtggni40mjewnjg3mswyms4yodk0mzm2idcumtyxnji4odmsmtkuodm5otyxmybdny45mdixodg5niwxoc4zota0odg5idkumzkzmdy3mzqsmtcundc4nzc4miaxms4wmja3njq1lde3ljq4iemxms40ntq3nzuylde3ljq4ntqwodqgmteuodg1nzkwocwxny41nti3ntq2ideyljmwmdc2ndusmtcunjggtdeyljmwmdc2ndusmtiundigqzexljg3njk5mtksmtiumzu2nta1niaxms40ndkyntyyldeyljmymza4odcgmteumdiwnzy0nswxmi4zmibmmtaunzkwnzy0nswxmi4zmibmmtaunzkwnzy0nswxni4zmibdmtaumzcznjm2ocwxni4ymdgxntq0idkuotqyndq5mzqsmtyumtu3nji0nia5ljuxmdc2ndq4lde2lje3ifoiiglkpslot6/lvoqiigzpbgw9iingrtjdntuipjwvcgf0ad4kicagicagicagicagphbhdgggzd0itti2lje5mdc2ndusoc4zmybmmjyumtkwnzy0nswxmi4zmybdmjmunje1ndcsmtiumzi1mde5myayms4xmdcwmjusmteunta5odyymiaxos4wmja3njq1ldewiewxos4wmja3njq1ldiwljuxiemxos4wmdk3mzuyldi1ljc1ndqxntggmtqunzu1mtkxoswzmc4wmdawmte2idkuntewnzy0ndgsmzagqzcuntyzmti3odqsmzaumdazndu1nia1ljy2mjqwmzixldi5ljqwmjq5mtignc4wnza3njq0ocwyoc4yocbdni43mjy5ody3ncwzms4xmzy4mta4idewljg2mdgyntcsmziumdc3mtk4osaxnc40ote0nza2ldmwljy1mdu1odygqze4ljeymjexntusmjkumjizote4myaymc41mdk5mzc1ldi1ljcymdg4mjugmjauntewnzy0nswyms44mibmmjauntewnzy0nswxms4zncbdmjiunja0mdi0ldeyljgzotk2njmgmjuumte1ntcyncwxmy42ndq1mdezidi3ljy5mdc2ndusmtmunjqgtdi3ljy5mdc2ndusoc40osbdmjcumtg2ntkynsw4ljq4odm5ntm1idi2ljy4mzkzmtmsoc40mzq3nzgxniayni4xota3njq1ldgumzmgwiigawq9iui3r+w+hcigzmlsbd0ii0zfmkm1nsi+pc9wyxropgogicagicagicagica8cgf0acbkpsjnmtkumdiwnzy0nswymc41msbmmtkumdiwnzy0nswxmcbdmjeumteznda4nywxms41mdexodk4idizljyyntm2mjmsmtiumza1odu0niayni4ymda3njq1ldeyljmgtdi2ljiwmdc2ndusoc4ziemync42nzkyntqyldcuotc4nzeynjugmjmumzazndqwmyw3lje3mtq3ndkxidiylji4mdc2ndusnibdmjaunjmwmdm4myw0ljkzmjizmdy3ide5ljq5mdk4mtismy4ymzi2oduxosaxos4xmza3njq1ldeumybmmtuumzuwnzy0nswxljmgtde1ljm1mdc2ndusmjigqze1lji3nte1mjesmjmuodq2nzy2ncaxnc4wmzgxotkxldi1ljq0mzaymdegmtiumjy4nzy5ldi1ljk3nzizmdigqzewljq5otmzodksmjyuntexndqwmya4lju4ntcwotqyldi1ljg2njm4mtugny41mda3njq0ocwync4znybdns43mzg2mdk1niwymy40ndiwmdy5idquodm0mja3nzcsmjeundmznzy3nya1ljmwnzixmjaxlde5ljq5ote4mdmgqzuunzgwmje2mjysmtcunty0ntkzidcunta5mje4mtqsmtyumjawmje3oca5ljuwmdc2ndq4lde2lje5iem5ljkzndkwmywxni4xotm4njkzidewljm2njezodysmtyumjyxmjq5osaxmc43oda3njq1lde2ljm5iewxmc43oda3njq1ldeyljm5iem3ljaymjmznzksmtiunduznjy5msazljy1njuzoti5lde0ljczmtk3njggmi4ymda5ndu2mswxoc4xotc2nzyxiemwljc0ntm1mtkzocwyms42njmznzuzideundc0otq0otmsmjuunjyxnzq3nia0lja2mdc2ndq4ldi4ljm5iem1ljy2oda5ntqyldi5ljq3ntuwnjmgny41nze1odc4miwzmc4wmzc4mji0idkuntewnzy0ndgsmzagqze0ljc1nte5mtksmzaumdawmdexniaxos4wmdk3mzuyldi1ljc1ndqxntggmtkumdiwnzy0nswymc41msbaiibpzd0i6lev5b6eiibmawxspsijmdawmdawij48l3bhdgg+ciagicagicagpc9npgogicagpc9npgo8l3n2zz4=)![tiktok](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0ivvrgltgipz4kphn2zyb3awr0ad0iotdwecigagvpz2h0psiymnb4iib2awv3qm94psiwidagotcgmjiiihzlcnnpb249ijeumsigeg1sbnm9imh0dha6ly93d3cudzmub3jnlziwmdavc3zniib4bwxuczp4bgluaz0iahr0cdovl3d3dy53my5vcmcvmtk5os94bgluayi+ciagica8is0tiedlbmvyyxrvcjogu2tldgnoidu1ljigkdc4mtgxksatigh0dhbzoi8vc2tldgnoyxbwlmnvbsatlt4kicagidx0axrszt7nvjbnu4q8l3rpdgxlpgogicagpgrlc2m+q3jlyxrlzcb3axroifnrzxrjac48l2rlc2m+ciagica8zybpzd0i6ag16z2imsigc3ryb2tlpsjub25liibzdhjva2utd2lkdgg9ijeiigzpbgw9im5vbmuiigzpbgwtcnvszt0izxzlbm9kzci+ciagicagicagpgcgawq9iue8lue7hcigdhjhbnnmb3jtpsj0cmfuc2xhdguomc43nzawmdasidaumjgwmdawksigzmlsbc1ydwxlpsjub256zxjvij4kicagicagicagicagphbvbhlnb24gawq9iui3r+w+hcigzmlsbd0iizawmdawmcigcg9pbnrzpsizlju1mjcxmzy4zs0xnsawlja2ide2ljeyidaumdygmtqunjqgnc43miaxmc40nia0ljcyidewljq2idixljcyiduumjmgmjeunzigns4ymya0ljcyidaumdegnc43mii+pc9wb2x5z29upgogicagicagicagica8cg9sewdvbibpzd0i6lev5b6eiibmawxspsijmdawmdawiibwb2ludhm9ijqyljuyidaumdygntkumdegmc4wnia1ny41mya0ljcyiduyljk5idqunzigntiuotkgmjeunzigndcunzcgmjeunzigndcunzcgnc43mia0mi41mya0ljcyij48l3bvbhlnb24+ciagicagicagicagidxwb2x5z29uiglkpslot6/lvoqiigzpbgw9iimwmdawmdaiihbvaw50cz0imtcumsa2ljk1idiylji3idyuotugmjiumjcgmjeunzigmtcumtqgmjeunziipjwvcg9sewdvbj4kicagicagicagicagphbvbhlnb24gawq9iui3r+w+hcigzmlsbd0iizawmdawmcigcg9pbnrzpsiync4zmiawidi5ljq4idagmjkundggmtaumdkgmzqunia1lja5idqwljc2iduumdkgmzqumjkgmteumzcgndeuntqgmjeunzigmzuuodugmjeunzigmzeumdegmtquntmgmjkundggmtyumdegmjkundggmjeunzigmjqumzigmjeunziipjwvcg9sewdvbj4kicagicagicagicagphbvbhlnb24gawq9iui3r+w+hcigzmlsbd0iizawmdawmcigcg9pbnrzpsi3os4wmsawidg0ljizidagodqumjmgmtaumdkgodkumzqgns4wosa5ns41iduumdkgodkumdmgmteumzcgotyumjmgmjeunzigotauntqgmjeunzigoduunzegmtquntmgodqumjmgmtyumdegodqumjmgmjeunzignzkumdygmjeunziipjwvcg9sewdvbj4kicagicagicagicagpgnpcmnszsbpzd0i5qst5zyg5b2iiibmawxspsijmdawmdawiibjed0imtkunjkiign5psiyljy2iibypsiyljyipjwvy2lyy2xlpgogicagicagicagica8cgf0acbkpsjnntgumzusmtiuodggqzu4ljm1mtu4mtqsoc4ynjy1nzi2osa2ms45mda2ndc1ldqundmwmdk3ntggnjyunsw0lja3iem2ni4ynyw0lja3idy1ljk2ldqumdcgnjuunzmsnc4wnybdnjeumdu1njk0niw0ljm0mjy0otu3idu3ljqwndc1nzisoc4ymti3ndk1oca1ny40mdq3ntcyldeyljg5nsbdntcunda0nzu3miwxny41nzcynta0idyxlja1nty5ndysmjeundq3mzuwnca2ns43mywyms43mibdnjuuotysmjeunzignjyumjcsmjeunzignjyunswyms43mibdnjeuodg5mtmwnywyms4zntkwmjixidu4ljmzntg5mtqsmtcunta0otu2nca1oc4znswxmi44ocbaiibpzd0i6lev5b6eiibmawxspsijmjvgnevfij48l3bhdgg+ciagicagicagicagidxwyxroigq9ik02oc41msw0lja0iem2oc4ynyw0lja0idy3ljk2ldqumdqgnjcunzmsnc4wncbdnziumze0ndysnc40mtg2ntyznya3ns44ndizmzi1ldgumjq5oti4odkgnzuuodqymzmynswxmi44nsbdnzuuodqymzmynswxny40ntawnzexidcyljmxndq2ldixlji4mtm0mzygnjcunzmsmjeunjygqzy3ljk2ldixljy2idy4lji3ldixljy2idy4ljuxldixljy2iem3my4zotixotcyldixljy2idc3ljm1lde3ljcwmje5nzignzcumzusmtiuodigqzc3ljm1ldcuotm3odayodegnzmumzkymtk3miwzljk4idy4ljuxldmuotggtdy4ljuxldqumdqgwiigawq9iui3r+w+hcigzmlsbd0ii0zfmkm1nsi+pc9wyxropgogicagicagicagica8cgf0acbkpsjnnjcumtesmtcumtggqzy0ljcznte3ntysmtcumtggnjiuodesmtuumju0odi0nca2mi44mswxmi44ocbdnjiuodesmtaunta1mtc1nia2nc43mzuxnzu2ldguntggnjcumtesoc41ocbdnjkundg0odi0ncw4lju4idcxljqxldewljuwnte3ntygnzeundesmtiuodggqzcxljqwnduwmtysmtuumjuyntqzmia2os40odi1ndmylde3lje3nduwmtygnjcumtesmtcumtggtdy3ljexlde3lje4ifogtty3ljexldqumdqgqzyyljiynzgwmjgsnc4wnca1oc4ynyw3ljk5nzgwmjgxidu4lji3ldeyljg4iem1oc4ynywxny43njixotcyidyyljiynzgwmjgsmjeunzignjcumtesmjeunzigqzcxljk5mje5nzismjeunzignzuuotusmtcunzyymtk3mia3ns45nswxmi44ocbdnzuuotusmtauntm1ndg2mia3ns4wmtg2ndu1ldgumjg2otk3njqgnzmumzywodizosw2ljyyote3nja1iem3ms43mdmwmdi0ldquotcxmzu0ndcgnjkundu0ntezocw0lja0idy3ljexldqumdqgwiigawq9iuw9ouektiigzmlsbd0iizawmdawmci+pc9wyxropgogicagicagidwvzz4kicagidwvzz4kpc9zdmc+)**tiktok**](/
+"tiktok")
+
+### community guidelines
+
+![](https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-
+obj/e753f388a5f6bcc2459976545715dce3)
+
+  
+
+  
+
+##  **introduction**
+
+ _last updated, december 2020_
+
+tiktok's mission is to inspire creativity and bring joy. [CLS] [SEP] we are building a
+global community where people can create and share, discover the world around
+them, and connect with others across the globe. [CLS] [SEP] as we grow, we are committed
+to maintaining a supportive environment for our community. [CLS] [SEP] our community
+guidelines define a set of norms and common code of conduct for tiktok; they
+provide guidance on what is and is not allowed to make a welcoming space for
+everyone. [CLS] [SEP]
+
+at tiktok, we prioritize safety, diversity, inclusion, and authenticity. [CLS] [SEP] we
+encourage creators to celebrate what makes them unique and viewers to engage
+in what inspires them; and we believe that a safe environment helps everyone
+express themselves openly. [CLS] [SEP] we deeply value the global nature of our community,
+and we strive to take into account the breadth of cultural norms where we
+operate. [CLS] [SEP] we also aim to cultivate an environment for genuine interactions by
+only allowing authentic content on tiktok. [CLS] [SEP]
+
+our community guidelines apply to everyone and to everything on tiktok. [CLS] [SEP] we
+proactively enforce them using a mix of technology and human moderation before
+content gets reported to us. [CLS] [SEP] we also encourage our community members to use
+the [tools we provide on tiktok ](https://support.tiktok.com/en/safety-
+hc/report-a-problem)to report any content they believe violates our community
+guidelines. [CLS] [SEP]
+
+we will remove any content – including video, audio, livestream, images,
+comments, and text – that violates our community guidelines. [CLS] [SEP] individuals are
+notified of our decisions and can appeal if they believe no violation has
+occurred. [CLS] [SEP] we will suspend or ban accounts and/or devices that are involved in
+severe or repeated violations; we will consider information available on other
+platforms and offline in these decisions. [CLS] [SEP] when warranted, we will report the
+accounts to relevant legal authorities. [CLS] [SEP]
+
+our algorithms are designed with trust and safety in mind. [CLS] [SEP] for some content –
+such as spam, videos under review, or videos that could be considered
+upsetting or depict things that may be shocking to a general audience – we may
+reduce discoverability, including by redirecting search results or limiting
+distribution in the for you feed. [CLS] [SEP]
+
+we recognize that some content that would normally be removed per our
+community guidelines could be in the public interest. [CLS] [SEP] therefore, we may allow
+exceptions under certain circumstances, such as educational, documentary,
+scientific, or artistic content, satirical content, content in fictional
+settings, counterspeech, and content in the public interest that is newsworthy
+or otherwise enables individual expression on topics of social importance. [CLS] [SEP]
+
+in consultation with relevant stakeholders, we update our community guidelines
+from time to time to evolve alongside new behaviors and risks, as part of our
+commitment to keeping tiktok a safe place for creativity and joy. [CLS] [SEP]
+
+  
+
+##  **violent extremism**
+
+we take a firm stance against enabling violence on or off tiktok. [CLS] [SEP] we do not
+allow people to use our platform to threaten or incite violence, or to promote
+dangerous individuals or organizations. [CLS] [SEP] when there is a threat to public
+safety or an account is used to promote or glorify off-platform violence, we
+may suspend or ban the account. [CLS] [SEP] when warranted, we will report threats to
+relevant legal authorities. [CLS] [SEP] to effectively protect our community, we may
+consider information available on other platforms and offline to identify
+violent and extremist individuals and organizations on our platform. [CLS] [SEP] if we
+find such individuals or organizations on tiktok, we will close their
+accounts. [CLS] [SEP]
+
+### threats and incitement to violence
+
+we consider incitement to violence as advocating for, directing, or
+encouraging other people to commit violence. [CLS] [SEP] we do not allow threats of
+violence or incitement to violence on our platform that may result in serious
+physical harm. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:**
+
+  * statements of intent to inflict physical injuries on an individual or a group
+  * statements or imagery that encourage others to commit or that advocate for physical violence
+  * conditional or aspirational statements that encourage other people to commit violence
+  * calls to bring weapons to a location with the intent to intimidate or threaten an individual or group with violence
+  * instructions on how to make or use weapons with an intent to incite violence
+
+### dangerous individuals and organizations
+
+we do not allow individuals or organizations on our platform who promote or
+are engaged in violence. [CLS] [SEP] we remove such individuals and organizations,
+including mass murderers, serial killers and rapists, hate groups, criminal
+organizations, terrorist organizations, and other non-state armed groups that
+target civilians. [CLS] [SEP]
+
+terrorist organizations
+
+terrorists and terrorist organizations are non-state actors that threaten
+violence, use violence, and/or commit serious crimes (such as crimes against
+humanity) against civilian populations in pursuit of political, religious,
+ethnic, or ideological objectives. [CLS] [SEP]
+
+organized hate
+
+organized hate refers to those individuals and organizations who attack people
+based on protected characteristics, such as race, ethnicity, national origin,
+religion, caste, sexual orientation, sex, gender, gender identity, or
+immigration status. [CLS] [SEP] we consider attacks to include actions that incite
+violence or hatred, dehumanize individuals or groups, or embrace a hateful
+ideology. [CLS] [SEP]
+
+criminal organizations
+
+criminal organizations are transnational, national, or local groups that have
+engaged in serious crimes, including violent crimes (e.g., homicide, rape,
+robbery, assault), trafficking (e.g., human, organ, drug, weapons),
+kidnapping, financial crimes (e.g., extortion, blackmail, fraud, money
+laundering), or cybercrime. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:**
+
+  * content that praises, promotes, glorifies, or supports dangerous individuals and/or organizations
+  * content that encourages participation in, or intends to recruit individuals to, dangerous organizations
+  * content with names, symbols, logos, flags, slogans, uniforms, gestures, salutes, illustrations, portraits, songs, music, lyrics, or other objects meant to represent dangerous individuals and/or organizations
+
+  
+
+##  **hateful behavior**
+
+tiktok is a diverse and inclusive community that has no tolerance for
+discrimination. [CLS] [SEP] we do not permit content that contains hate speech or involves
+hateful behavior and we remove it from our platform. [CLS] [SEP] we suspend or ban
+accounts that engage in hate speech violations or which are associated with
+hate speech off the tiktok platform. [CLS] [SEP]
+
+### attacks on the basis of protected attributes
+
+we define hate speech or behavior as content that attacks, threatens, incites
+violence against, or otherwise dehumanizes an individual or a group on the
+basis of the following protected attributes:
+
+  * race 
+  * ethnicity
+  * national origin 
+  * religion
+  * caste 
+  * sexual orientation
+  * sex
+  * gender
+  * gender identity
+  * serious disease
+  * disability
+  * immigration status
+
+ **do not post, upload, stream, or share** :
+
+  * hateful content related to an individual or group, including:
+    * claiming that they are physically, mentally, or morally inferior
+    * calling for or justifying violence against them
+    * claiming that they are criminals 
+    * referring to them as animals, inanimate objects, or other non-human entities 
+    * promoting or justifying exclusion, segregation, or discrimination against them
+  * content that depicts harm inflicted upon an individual or a group on the basis of a protected attribute
+
+### slurs
+
+slurs are defined as derogatory terms that are intended to disparage an
+ethnicity, race, or any other protected attributes listed above. [CLS] [SEP] to minimize
+the spread of egregiously offensive terms, we remove all slurs from our
+platform, unless the terms are reappropriated, used self-referentially (e.g.,
+in a song), or do not disparage. [CLS] [SEP]
+
+ **do not post, upload, stream, or share** :
+
+  * content that uses or includes slurs
+
+### hateful ideology
+
+hateful ideologies are those that demonstrate clear hostility toward people
+because of their protected attributes. [CLS] [SEP] hateful ideologies are incompatible
+with the inclusive and supportive community that our platform provides and we
+remove content that promotes them. [CLS] [SEP]
+
+ **do not post, upload, stream, or share** :
+
+  * content that praises, promotes, glorifies, or supports any hateful ideology
+  * content that contains names, symbols, logos, flags, slogans, uniforms, gestures, salutes, illustrations, portraits, songs, music, lyrics, or other objects related to a hateful ideology
+  * content that denies well-documented and violent events have taken place affecting groups with protected attributes
+  * claims of supremacy over a group of people with reference to other protected attributes
+  * conspiracy theories used to justify hateful ideologies
+
+  
+
+##  **illegal activities and regulated goods**
+
+we work to ensure tiktok does not enable activities that violate laws or
+regulations. [CLS] [SEP] we prohibit the trade, sale, promotion, and use of certain
+regulated goods, as well as the depiction, promotion, or facilitation of
+criminal activities, including human exploitation. [CLS] [SEP] content may be removed if
+it relates to activities or goods that are regulated or illegal in the
+majority of the region or world, even if the activities or goods in question
+are legal in the jurisdiction of posting. [CLS] [SEP]
+
+### criminal activities
+
+criminal activities cover a wide spectrum of acts punishable by law, including
+theft, assault, human exploitation, counterfeiting, and other harmful
+behavior. [CLS] [SEP] to prevent such behavior from being normalized, imitated, or
+facilitated, we remove content that promotes or enables criminal activities. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:  **
+
+  * content that depicts or promotes acts of physical harm, such as assault or kidnapping
+  * content that risks the safety of others, including swatting
+  * content that depicts or promotes human exploitation, including human smuggling, bonded labor, domestic servitude, sex trafficking, or prostitution
+  * content that depicts or promotes the poaching or illegal trade of wildlife
+  * content that offers the purchase, sale, trade, or solicitation of unlawfully acquired or counterfeit goods
+  * content that provides instructions on how to conduct criminal activities
+
+### weapons
+
+we do not allow the depiction, promotion, or trade of firearms, ammunition,
+firearm accessories, or explosive weapons. [CLS] [SEP] we also prohibit instructions on
+how to manufacture those weapons. [CLS] [SEP] content as part of a museum's collection,
+carried by a police officer, in a military parade, or used in a safe and
+controlled environment such as a shooting range may be allowed. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:  **
+
+  * content that displays firearms, firearm accessories, ammunition, or explosive weapons
+  * content that offers the purchase, sale, trade, or solicitation of firearms, accessories, ammunition, explosive weapons, or instructions on how to manufacture them 
+
+### drugs, controlled substances, alcohol, and tobacco
+
+we do not allow the depiction, promotion, or trade of drugs or other
+controlled substances. [CLS] [SEP] the trade of tobacco and alcohol products is also
+prohibited on the platform. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:  **
+
+  * content that depicts or promotes drugs, drug consumption, or encourages others to make, use, or trade drugs or other controlled substances
+  * content that offers the purchase, sale, trade, or solicitation of drugs or other controlled substances, alcohol or tobacco products (including vaping products)
+  * content that provides information on how to buy illegal or controlled substances
+  * content that depicts or promotes the making of illicit alcohol products
+  * content that depicts or promotes the misuse of legal substances, or instruction on how to make homemade substances, in an effort to become intoxicated
+
+### frauds and scams
+
+we do not permit anyone to exploit our platform to take advantage of the trust
+of users and bring about financial or personal harm. [CLS] [SEP] we remove content that
+deceives people in order to gain an unlawful financial or personal advantage,
+including schemes to defraud individuals or steal assets. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:**
+
+  * content that depicts or promotes phishing
+  * content that depicts or promotes ponzi, multi-level marketing, or pyramid schemes
+  * content that depicts or promotes investment schemes with promise of high returns, fixed betting, or any other types of scams
+
+### gambling
+
+we do not allow content promoting gambling services, or that could be
+perceived as advertising for casinos, sports betting, or any other commercial
+gambling activity. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:**
+
+  * content that promotes casinos, sports betting, poker, lotteries, gambling-related software and apps, or other gambling services
+
+### privacy, personal data, and personally identifiable information (pii)
+
+we do not allow content that violates the confidentiality of personal data or
+personally identifiable information (e.g., social security information). [CLS] [SEP] we
+remove content that depicts personal data or personally identifiable
+information (pii) from the platform. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:**
+
+  * content that contains personal data or personally identifiable information (pii)
+
+  
+
+##  **violent and graphic content**
+
+tiktok is a platform that celebrates creativity but not shock-value or
+violence. [CLS] [SEP] we do not allow content that is gratuitously shocking, graphic,
+sadistic, or gruesome or that promotes, normalizes, or glorifies extreme
+violence or suffering on our platform. [CLS] [SEP] when there is a threat to public
+safety, we suspend or ban the account and, when warranted, we will report it
+to relevant legal authorities. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:**
+
+  * content of humans that depicts:
+    * violent or graphic deaths or accidents
+    * dismembered, mutilated, charred, or burned human remains
+    * gore in which an open wound or injury is the core focus
+    * real-world physical violence, fighting, or torture
+  * content of animals that depicts:
+    * the slaughter or other non-natural death of animals
+    * dismembered, mutilated, charred, or burned animal remains
+    * animal cruelty and gore
+
+  
+
+##  **suicide, self-harm, and dangerous acts**
+
+we care deeply about the health and well-being of the individuals that make up
+our community. [CLS] [SEP] we do not allow content depicting, promoting, normalizing, or
+glorifying activities that could lead to suicide, self-harm, or eating
+disorders. [CLS] [SEP] we also do not permit users to share content depicting them
+partaking in, or encouraging others to partake in, dangerous activities that
+may lead to serious injury or death. [CLS] [SEP]
+
+however, we do support members of our community sharing their personal
+experiences with these issues in a safe way to raise awareness and find
+community support. [CLS] [SEP] we also encourage individuals who are struggling with
+thoughts of self-harm or suicide, or who know someone is seriously considering
+suicide, to immediately contact local emergency services or a suicide
+prevention [hotline](https://www.tiktok.com/safety/resources/suicide-hotline-
+resources?lang=en). [CLS] [SEP] in the event that our intervention could help a user who
+may be at risk of harming themselves, the tiktok team may also alert local
+emergency services. [CLS] [SEP]
+
+### suicide
+
+we remove content that displays suicide, suicidal ideation, or content that
+might encourage participation in other self-injurious behavior. [CLS] [SEP] we also remove
+content that depicts attempted suicide or content featuring a person engaging
+in behavior or intending to engage in behavior that is likely to lead to self-
+inflicted death. [CLS] [SEP] we prohibit any form of content that promotes, normalizes, or
+glorifies suicide, provides instructions for suicide, or posts that portray a
+suicide as heroic or honorable. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:**
+
+  * content that provides instructions for suicide
+  * content that depicts, promotes, normalizes, or glorifies suicide
+  * suicide games, dares, pacts, or hoaxes
+
+### self-harm and eating disorders
+
+to avoid normalizing, encouraging, or triggering self-harm behavior, we do not
+allow imagery that depicts such behavior, regardless of the user's intention
+of posting it. [CLS] [SEP] we remove content that may encourage or normalize acts that are
+likely to lead to physical self-inflicted injury. [CLS] [SEP] content that promotes eating
+habits that are likely to cause adverse health outcomes is also not allowed on
+the platform. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:**
+
+  * content that depicts, promotes, normalizes, or glorifies self-harm or eating disorders
+  * content that provides instructions on how to engage in self-harm or eating disorders
+  * self-harm or eating disorder games, dares, pacts, or hoaxes
+  * content that depicts, promotes, normalizes, or glorifies eating disorders or other dangerous weight loss behaviors associated with eating disorders
+
+### dangerous acts
+
+we define risky activities or other dangerous behavior as acts conducted in a
+non-professional context or without the necessary skills and safety
+precautions that may lead to serious injury or death for the user or the
+public. [CLS] [SEP] we do not allow content that depicts, promotes, normalizes, or
+glorifies such behavior, including amateur stunts or dangerous challenges. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:**
+
+  * content that shows the potentially inappropriate use of dangerous tools, vehicles, or objects
+  * content that depicts or promotes ingesting substances that are not meant for consumption or could lead to severe harm
+  * dangerous games, dares, or stunts that might lead to injury
+
+  
+
+##  **harassment and bullying**
+
+we believe in an inclusive community and individualized expression without
+fear of abuse. [CLS] [SEP] we do not tolerate members of our community being shamed,
+bullied, or harassed. [CLS] [SEP] abusive content or behavior can cause severe
+psychological distress and will be removed from our platform. [CLS] [SEP]
+
+### abusive behavior
+
+we remove all expressions of abuse, including threats or degrading statements
+intended to mock, humiliate, embarrass, intimidate, or hurt an individual. [CLS] [SEP]
+this prohibition extends to the use of tiktok features. [CLS] [SEP] to enable expression
+about matters of public interest, critical comments of public figures may be
+allowed; however, serious abusive behavior against public figures is
+prohibited. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:**
+
+  * content that insults another individual, or disparages an individual on the basis of attributes such as intellect, appearance, personality traits, or hygiene
+  * content that encourages coordinated harassment
+  * content that disparages victims of violent tragedies
+  * content that uses tiktok interactive features (e.g., duet) to degrade others
+  * content that depicts willful harm or intimidation, such as cyberstalking or trolling
+  * content that wishes death, serious disease, or other serious harm on an individual or public figure
+
+### sexual harassment
+
+sexual harassment involves unwanted or inappropriate sexual behavior directed
+at another individual. [CLS] [SEP] we do not allow content, including comments or
+advances, that sexually harasses others, regardless of user's intent, as such
+actions can cause great distress to targeted individuals. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:**
+
+  * content that attempts to make unwanted sexual contact
+  * content that simulates sexual activity with another user, either verbally, in text (including emojis), or through the use of any in-app features
+  * content that disparages another person's sexual activity
+  * content that alters or morphs an image of another individual to portray or imply sexual suggestiveness or engagement in sexual activity
+  * content that reveals, or threatens to reveal a person's private sexual life, including threats to publicize digital content, sexual history, and names of previous sexual partners
+  * content that exposes, or threatens to expose, a person's sexual orientation without their consent or knowledge
+
+### threats of hacking, doxxing, and blackmail
+
+threatening to hack or dox with an intent to harass or blackmail another
+individual can cause serious emotional distress and other offline harm. [CLS] [SEP] we
+define doxxing as the act of collecting and publishing personal data or
+personally identifiable information (pii) for malicious purposes. [CLS] [SEP] we consider
+these online behaviors as forms of abuse and do not allow them on our
+platform. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:  **
+
+  * content that threatens to reveal personal data or personally identifiable information (pii), including residential address, private email address, private phone number, bank statement, social security number, or passport number
+  * threats of blackmail or hacking another individual's account
+  * content that incites or encourages others to hack or reveal another person's account, personal data, or personally identifiable information (pii)
+  * an individual's account, personal data, or personally identifiable information for others to abuse, troll, or harass
+
+  
+
+##  **adult nudity and sexual activities**
+
+we strive to create a platform that feels welcoming and safe. [CLS] [SEP] we do not allow
+nudity, pornography, or sexually explicit content on our platform. [CLS] [SEP] we also
+prohibit content depicting or supporting non-consensual sexual acts, the
+sharing of non-consensual intimate imagery, and adult sexual solicitation. [CLS] [SEP]
+
+### sexual exploitation
+
+sexual exploitation is defined as any actual or attempted abuse of a position
+of vulnerability, power, or trust for sexual purposes, including profiting
+monetarily, socially, or politically from the sexual exploitation of another. [CLS] [SEP]
+we do not permit sexually exploitative content. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:  **
+
+  * content that depicts, solicits, promotes, normalizes, or glorifies non-consensual sexual acts or non-consensual touching, including rape and sexual assault
+  * content that depicts, solicits, promotes, normalizes, or glorifies the sharing of non-consensual intimate imagery, including sexual images that are taken, created, or shared without consent
+  * content that depicts, promotes, normalizes, or glorifies sexual violence
+  * content that depicts, promotes, or glorifies sexual solicitation, including offering or asking for sexual partners, sexual chats or imagery, sexual services, premium sexual content, or sexcamming
+
+### nudity and sexual activity involving adults
+
+nudity and sexual activity include content that is overtly revealing of
+breasts, genitals, anus, or buttocks, or behaviors that mimic, imply, or
+display sex acts. [CLS] [SEP] we do not allow depictions, including digitally created or
+manipulated content, of nudity or sexual activity. [CLS] [SEP] we are mindful of content
+that may be offensive or culturally inappropriate in certain regions or may
+not be suitable for users of all ages. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:  **
+
+  * content that explicitly or implicitly depicts sexual activities including penetrative and non-penetrative sex, oral sex, or erotic kissing
+  * content that depicts sexual arousal or sexual stimulation
+  * content that depicts a sexual fetish 
+  * content that depicts exposed human genitalia, female nipples or areola, pubic regions, or buttocks
+  * content that contains sexually explicit language for sexual gratification
+
+  
+
+##  **minor safety**
+
+we are deeply committed to ensuring the safety of minors on our platform. [CLS] [SEP] we
+do not tolerate activities that perpetuate the abuse, harm, endangerment, or
+exploitation of minors on tiktok. [CLS] [SEP] any content, including animation or
+digitally created or manipulated media, that depicts abuse, exploitation, or
+nudity of minors is a violation on our platform and will be removed when
+detected. [CLS] [SEP] when warranted, we report violative content to the national center
+for missing & exploited children (ncmec) and/or other relevant legal
+authorities. [CLS] [SEP] tiktok considers a minor any person under the age of 18. [CLS] [SEP]
+
+users must meet the minimum age requirements to use tiktok, as stipulated in
+our [terms of service](https://www.tiktok.com/legal/terms-of-use). [CLS] [SEP] when
+underage account holders are identified, we will remove those accounts. [CLS] [SEP] our
+platform is designed with the safety of minors in mind and some of our
+features are age restricted. [CLS] [SEP] account holders who are under the age of 16
+cannot use direct messaging or host a livestream; the age thresholds may be
+higher in some regions. [CLS] [SEP] account holders who are under the age of 18 cannot
+send or receive gifts via our virtual gifting features. [CLS] [SEP]
+
+### sexual exploitation of minors
+
+sexual exploitation of minors is defined as any abuse of a position of power
+or trust for sexual purposes, including profiting financially, socially,
+sexually, or politically from the exploitation of a minor. [CLS] [SEP] child sexual abuse
+material (csam) is defined as any visual depiction of sexually explicit nudity
+or conduct, whether captured by predatory adults, peers, or self-generated by
+minors. [CLS] [SEP] tiktok will take action on any content or accounts involving sexual
+interactions and advances between an adult and a minor, or between minors with
+a significant age difference. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:**
+
+  * content that shares, reshares, offers to trade or sell, or directs users off platform to obtain or distribute csam
+  * content that engages with minors in a sexualized way, or otherwise sexualizes a minor (e.g., via product features like duets) 
+  * content that depicts, solicits, glorifies, or encourages child abuse imagery including nudity, sexualized minors, or sexual activity with minors
+  * content that depicts, promotes, normalizes, or glorifies pedophilia or the sexual assault of a minor
+  * content that revictimizes or capitalizes on minor victims of abuse by third party reshares or reenactments of assault or confessions
+
+### grooming behavior
+
+grooming behaviors are those in which an adult builds an emotional
+relationship with a minor in order to gain the minor's trust for the purposes
+of future or ongoing sexual contact, sexual abuse, trafficking, or other
+exploitation. [CLS] [SEP] these behaviors include: flattery, requests for contact on or
+off platform, requests for personal information, solicitation of minor sexual
+abuse material, sexual solicitations or comments, and gift-giving. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:**
+
+  * grooming advances
+  * content that depicts, promotes, normalizes, or glorifies grooming behaviors
+  * content that solicits real-world sexual contact between a minor and an adult or between minors with a significant age difference 
+  * content that displays or offers nudity to minors
+  * any solicitation of nude imagery or sexual contact, through blackmail or other means of coercion
+
+### nudity and sexual activity involving minors
+
+nudity and sexual activity involving minors include content that is overtly
+revealing of breasts, genitals, anus, or buttocks, or behaviors that mimic,
+imply, or display sex acts involving minors. [CLS] [SEP] we do not allow the depiction,
+including digitally created or manipulated content, of nudity or sexual
+activity. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:  **
+
+  * content that depicts or implies minor sexual activities including penetrative and non-penetrative sex, oral sex, or intimate kissing
+  * content that depicts sexual arousal or sexual stimulation involving a minor
+  * content that depicts a sexual fetish involving a minor
+  * content that depicts exposed human genitalia, female nipples or areola, pubic regions, or buttocks of a minor
+  * content that contains sexually explicit language depicting or describing a minor
+  * content depicting a minor that contains sexually explicit song lyrics
+  * content with sexually explicit dancing of a minor, including twerking, breast shaking, pelvic thrusting, or fondling the groin or breasts of oneself or another 
+  * content depicting a minor undressing
+  * content depicting a minor in minimal clothing that is not situationally relevant to the location
+  * sexualized comments, emojis, text, or other graphics used to veil or imply nudity or sexual activity of a minor
+
+### harmful activities by minors
+
+harmful minor activities include the possession or consumption of substances
+prohibited for minors, the misuse of legal substances, engagement in illegal
+activities, participation in activities, physical challenges, or dares that
+may threaten the well-being of minors. [CLS] [SEP] we remove any such content from our
+platform. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:**
+
+  * content that suggests, depicts, imitates, or promotes the possession or consumption of alcoholic beverages, tobacco, or drugs by a minor
+  * content that offers instruction targeting minors on how to buy, sell, or trade alcohol, tobacco, or controlled substances
+  * content that depicts or promotes activities that may jeopardize youth well-being, including physical challenges, dares, or stunts
+
+### physical and psychological harm of minors
+
+behaviors that place minors at risk of physical or psychological harm include
+physical abuse, neglect, endangerment, and psychological disparagement. [CLS] [SEP] we
+remove any such content from our platform. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:**
+
+  * content that depicts or promotes physical abuse, neglect, endangerment, or psychological disparagement of minors
+  * content that depicts or promotes survivalist techniques without a warning asserting the hazards of replication
+
+### crimes against children
+
+we do not allow users who have been convicted of crimes against children to
+have an account on our platform. [CLS] [SEP] these crimes include: sexual assault,
+molestation, murder, physical abuse or neglect, abduction, international
+parental kidnapping, trafficking, exploitation of minors for prostitution,
+live online sexual abuse of a minor, sexual exploitation of minors in the
+context of travel and tourism, attempts to obtain or distribute child sexual
+abuse material (csam), and the production, possession, or distribution of
+child sexual abuse material (csam). [CLS] [SEP] if we discover any such users, we ban the
+account. [CLS] [SEP] any self-disclosed user information that states the account holder is
+a pedophile or minor sex offender will be taken at face value and the account
+may be deleted. [CLS] [SEP]
+
+  
+
+##  **integrity and authenticity**
+
+we believe that trust forms the foundation of our community. [CLS] [SEP] we do not allow
+activities that may undermine the integrity of our platform or the
+authenticity of our users. [CLS] [SEP] we remove content or accounts that involve spam or
+fake engagement, impersonation, misleading information that causes harm, or
+that violate any intellectual property rights. [CLS] [SEP]
+
+### spam and fake engagement
+
+fake engagement includes any content or activity that seeks to artificially
+inflate popularity on the platform. [CLS] [SEP] we prohibit any attempts to manipulate the
+platform to increase interaction metrics. [CLS] [SEP]
+
+ **do not:**
+
+  * share instructions on how to artificially increase views, likes, followers, shares, or comments
+  * attempt to or engage in selling or buying views, likes, followers, shares, or comments
+  * promote artificial traffic generation services
+  * operate multiple tiktok accounts under false or fraudulent pretenses to distribute commercial spam
+
+### impersonation
+
+we do not allow accounts that pose as another person or entity in a deceptive
+manner. [CLS] [SEP] when we confirm a report of impersonation, we will ask the user to
+revise the profile or suspend or ban the account. [CLS] [SEP] we do allow parody,
+commentary, or fan accounts, as long as the user indicates in the bio and
+username that it is fan, commentary, or parody and not affiliated with the
+subject of the account. [CLS] [SEP]
+
+ **do not:  **
+
+  * pose as another person or entity by using someone else's name, biographical details, or profile picture in a misleading manner
+
+### misinformation
+
+misinformation is defined as content that is inaccurate or false. [CLS] [SEP] while we
+encourage our community to have respectful conversations about subjects that
+matter to them, we do not permit misinformation that causes harm to
+individuals, our community, or the larger public regardless of intent. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:**
+
+  * misinformation that incites hate or prejudice
+  * misinformation related to emergencies that induces panic
+  * medical misinformation that can cause harm to an individual's physical health
+  * content that misleads community members about elections or other civic processes 
+  * conspiratorial content that attacks a specific protected group or includes a violent call to action, or denies a violent or tragic event occurred
+  * digital forgeries (synthetic media or manipulated media) that mislead users by distorting the truth of events and cause harm to the subject of the video, other persons, or society
+
+ **do not:**
+
+  * engage in coordinated inauthentic behaviors (such as the creation of accounts) to exert influence and sway public opinion while misleading individuals and our community about the account's identity, location, or purpose
+
+### intellectual property violations
+
+copyright is a legal right that protects original works of authorship (e.g.,
+music, videos) and original expression of an idea (e.g., the specific way a
+video or music is expressed or created), although does not protect underlying
+ideas or facts. [CLS] [SEP] a trademark is a word, symbol, slogan, design that identifies
+and distinguishes the source of a product or service. [CLS] [SEP] we encourage everyone to
+create and share original content. [CLS] [SEP] content that infringes someone else's
+intellectual property rights is prohibited on our platform and will be removed
+if we become aware of it. [CLS] [SEP] the use of copyrighted work under certain
+circumstance, such as the fair use doctrine or other applicable laws, or the
+use of a trademark to reference, lawfully comment, criticize, parody, make a
+fan page, or review a product or service may not be considered a violation of
+our policies. [CLS] [SEP]
+
+ **do not post, upload, stream, or share:**
+
+  * content that violates or infringes someone else's copyrights, trademarks, or other intellectual property rights
+
+  
+
+##  **platform security**
+
+our policies prohibit any activities that undermine the security and
+reliability of the tiktok service:
+
+  * do not hack the tiktok website, app, or associated networks, or bypass its measures to restrict user access
+  * do not distribute files that contain viruses, trojan horses, worms, logic bombs, or other materials that are malicious or harmful
+  * do not modify, adapt, translate, reverse engineer, disassemble, decompile, or create any derivative products based on tiktok, including any files, tables or documentation, nor attempt to regenerate any source code, algorithms, methods, or techniques embodied in tiktok
+  * do not use automated scripts to collect information from tiktok
+
+thank you for being a part of our vibrant global community and working with us
+to maintain a welcoming space for all users. [CLS] [SEP] if you come across content or
+accounts that you believe may violate our community guidelines, please [let us
+know](https://support.tiktok.com/en/safety-hc/report-a-problem) so we can
+review and take appropriate action. [CLS] [SEP]
+
+![](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0ivvrgltgipz4kphn2zyb3awr0ad0imzrwecigagvpz2h0psizoxb4iib2awv3qm94psiwidagmzqgmzkiihzlcnnpb249ijeumsigeg1sbnm9imh0dha6ly93d3cudzmub3jnlziwmdavc3zniib4bwxuczp4bgluaz0iahr0cdovl3d3dy53my5vcmcvmtk5os94bgluayi+ciagica8is0tiedlbmvyyxrvcjogu2tldgnoidu3ljegkdgzmdg4ksatigh0dhbzoi8vc2tldgnolmnvbsatlt4kicagidx0axrszt5sb2dvpc90axrszt4kicagidxkzxnjpknyzwf0zwqgd2l0acbta2v0y2gupc9kzxnjpgogicagpgcgawq9iumhtemdoi0xiibzdhjva2u9im5vbmuiihn0cm9rzs13awr0ad0imsigzmlsbd0ibm9uzsigzmlsbc1ydwxlpsjldmvub2rkij4kicagicagica8zybpzd0ibg9nbyigzmlsbc1ydwxlpsjub256zxjvij4kicagicagicagicagphbhdgggzd0itte0lde1lju5odyxmjkgtde0lde0ljexmzm3njggqzezljq0otixmzqsmtqumdqwmzy4ideyljg5mzc2mdesmtqumdayndg4ncaxmi4zmzc0odi1lde0iem1ljuzndu4mdmxlde0idasmtkumtgwndq3nyawldi1lju0njk5mtigqzasmjkunduymzg1osaylja4ntywmja4ldmyljkwotuwnjigns4ynjcxmjm3ncwznsbdmy4xmzy4mjq0mywzmi44njc5ndu2ideuotuyndg5mjysmzaumdu3ntg1ideuotu0mjazntusmjcumtm4nji3iemxljk1ndiwmzu1ldiwljg2mjc4nsa3ljmzmti5mjaylde1ljc0ntezmdygmtqsmtuuntk4njeyosigawq9iui3r+w+hcigzmlsbd0iizawrjjfqsi+pc9wyxropgogicagicagicagica8cgf0acbkpsjnmtqumzi3mdeyncwzmibdmtcumjaynty0miwzmiaxos41ndgzodu5ldi5ljcynju2otggmtkunju1mje0ocwyni44otmzmzcgtde5ljy2ndkynjusms42mdezmtyxnsbmmjqumze0mtkxncwxljywmtmxnje1iemync4ymtq5mzy3ldeumdczmjm2ntkgmjqumty0njk1niwwljuznzixmzewmsaync4xnjqxmdeyldagtde3ljgxndqwmjusmcbmmtcuodazoda3oswyns4yoti4otgziemxny42otc4nje5ldi4ljeynti1mzygmtuumzuxmtu3mywzmc4zotc4mdy0ideyljq3njq4odqsmzaumzk3oda2ncbdmteunjezndi5niwzmc4zotgxndu4idewljc2mzmzmtqsmzaumtg5mte2osaxmcwyos43odg4njc2iemxmc45otk5ntq0ldmxlje3ntm0mjqgmtiunjewntcwncwzms45otgznzggmtqumzi3mdeyncwzmibnmziuotk5mte3mswxmc4xodyxmju2iewzmi45otkxmtcxldgunzgwndc3msbdmzeumjkwndg2miw4ljc4mja1nta5idi5ljyxoduzmdmsoc4yodgwndczmsayoc4xodgyodq1ldcumzu5mdm0odigqzi5ljq0mjiyntusoc43otm4otg0osazms4xmza1otu4ldkunzg1odg4otkgmzmsmtaumtg2mti1niigawq9iuw9ouektiigzmlsbd0iizawrjjfqsi+pc9wyxropgogicagicagicagica8cgf0acbkpsjnmjgsny43mtc4ndmznibdmjyunjaxnjq2nsw2ljeznduwote2idi1ljgzmtqyntmsnc4xmdi4mdk3myayns44mzizntq3ldigtdi0ljeznta1ntgsmibdmjquntc5mtuzldqumzq4nziymzmgmjuuotc1odq5nyw2ljqxntaxmtyzidi4ldcunze3odqzmzygtteyljmyntmwodmsmjaumdy1mjq3mibdos4zodu2mzaymiwymc4wnjg2mdk0idcumdazmzk3njmsmjiundi2mdi0idcsmjuumzm1mdc2nibdny4wmde5mdk2ocwyny4yotm4njg4idgumtawodmymdesmjkumdkwmje0nca5ljg1mzc4nzqzldmwiem5lje5odg5odqsmjkumta2mjkxmya4ljg0njiymjqyldi4ljazmdywotegoc44ndyxntm4nswyni45mjy2ntkyiem4ljg0ota2nje2ldi0ljaxnzi2njigmteumjmxndqwniwyms42ntkzmjezide0lje3mtq2mjesmjeunju1otu4mibdmtqunziwmtk5niwyms42ntu5ntgyide1lji0njaznjqsmjeunzq1nzm1myaxns43ndi4mdy4ldixljkwmdaxmjugtde1ljc0mjgwnjgsmtuundk5njg4nybdmtuumjiymji1nswxns40mjy3mjizide0ljy5nzizmzqsmtuumzg4ody0nyaxnc4xnze0njixlde1ljm4njm3nzggqze0lja3odk3odmsmtuumzg2mzc3ocaxmy45odgyntysmtuumzkxnja3nsaxmy44oty2ntmsmtuumzkzmzuwocbmmtmuodk2njuzldiwljmwotmwmtugqzezljm4odq4oswymc4xndkymjk1ideyljg1odu5mzusmjaumdy2oti4nsaxmi4zmjuzmdgzldiwlja2nti0nziiiglkpsllvalniryiigzpbgw9iingrjawneyipjwvcgf0ad4kicagicagicagicagphbhdgggzd0ittmylje1mziwodqsmteumdawodcznsbmmziumtuzmja4ncwxns44odm4odm0iemyoc44njgynjismtuuodgzodgzncayns44mju1mdm0lde0ljg0mtc2nyaymy4zndaymty4ldezlja3mjg3nybmmjmumzqwmje2ocwyns44ndeymduziemymy4zndaymty4ldmyljixnzk0ndugmtgumtewnzizmswzny40mdu4mtq5idexljy4mtczotusmzcunda1ode0osbdos4xotczmzm2niwzny40mdu4mtq5idyuodkzndy3nzysmzyunji4mzc2oca1ldm1ljmwotm1mjcgqzcumjawnjk1nswzny42njmzmdgxidewlji5mta4odmsmzkumdawnzg2niaxmy41mjc2nta0ldm5iemxos45nty2mzqsmzkgmjuumtg3mda4ncwzmy44mtixmjkyidi1lje4nzawodqsmjcundm2mjyznibmmjuumtg3mda4ncwxnc42njc5mzuziemyny43ntq0nda3lde2ljq5otexnjigmzauodm3nza4miwxny40odi1njazidm0lde3ljq3odk0mtcgtdm0ldexlje5ndc5njmgqzmzljm2ntkwodusmteumtk0nzk2myazmi43ndk0mza2ldexljeynjy2mtmgmziumtuzmja4ncwxmsigawq9iui3r+w+hcigzmlsbd0ii0zgmda0rii+pc9wyxropgogicagicagicagica8cgf0acbkpsjnmjmuotc4nju0nywyns40mtkwnty4iewymy45nzg2ntq3ldeyljyzmjy5otygqzi2ljywnjy3mzksmtqundy2njgwnsayos43nji5mdgylde1ljq1mtuznjegmzmsmtuundq3njc1mibmmzmsmtauntu3nzcwnsbdmzeumdkxmzc4nywxmc4xntgzndixidi5ljm2nzcynzqsos4xnjkwnzm3nyayoc4wodc3mdc2ldcunzm4ndixmibdmjyumde1otc1nyw2ljqzmdkwmdczidi0lju4njq0njksnc4zntcxnzuxidi0ljezmtkxmdmsmibmmtkumzg0ntkzldigtde5ljm3ndy3njusmjcumje0otm3nybdmtkumjy1ntk0niwzmc4wmzg2nja4ide2ljg3mdi5otgsmziumza1mtyymiaxmy45mzqxmdmsmziumza1mtyymibdmtiumtgxndk3niwzmi4zmdm0mda3idewljuznjk3nzgsmzeundgyota1nca5ljuxntgzndq3ldmwljewmdc2odcgqzcunzixmzizmiwyos4xodc5ndu3idyuntk2mtkymtcsmjcumzg1mdg4nca2lju5nda2mtcxldi1ljqxota1njggqzyuntk3ntm5mjesmjiundk5ntm0oca5ljazntc3mdgxldiwljezmzyznjigmtiumdq0ntuxnywymc4xmzaynje5iemxmi42mduyody5ldiwljezmdi2mtkgmtmumtqzndg0nswymc4ymtk0odczidezljy1mjgzmzksmjaumzc1mtk0nsbmmtmunjuyodmzoswxns40nde1nte5iem3ljiwmty3nta1lde1lju4oduxmtqgmiwymc43mje1otkyidismjcumde2mzy3mybdmiwzmc4wnja1mjk4idmumje4odmynywzmi44mze3njcziduumja0odq0odusmzquotaxndq3osbdny4ymdy5ntqzmywzni4ynjkwnty0idkuntk2mtayndesmzcumdaymdkwocaxmi4wndq1nte3ldm3iemxoc42mju1mjcxldm3idizljk3ody1ndcsmzeuoda0nzk5osaymy45nzg2ntq3ldi1ljqxota1njgiiglkpslot6/lvoqiigzpbgw9iingrkzgrkyipjwvcgf0ad4kicagicagica8l2c+ciagica8l2c+cjwvc3znpg==)![](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0ivvrgltgipz4kphn2zyb3awr0ad0imtiwchgiighlawdodd0imjdwecigdmlld0jved0imcawideymcaynyigdmvyc2lvbj0ims4xiib4bwxucz0iahr0cdovl3d3dy53my5vcmcvmjawmc9zdmciihhtbg5zonhsaw5rpsjodhrwoi8vd3d3lnczlm9yzy8xotk5l3hsaw5rij4kicagidwhls0gr2vuzxjhdg9yoibta2v0y2ggntcumsaoodmwodgpic0gahr0chm6ly9za2v0y2guy29tic0tpgogicagphrpdgxlpmxvz290zxh0pc90axrszt4kicagidxkzxnjpknyzwf0zwqgd2l0acbta2v0y2gupc9kzxnjpgogicagpgcgawq9iumhtemdoi0xiibzdhjva2u9im5vbmuiihn0cm9rzs13awr0ad0imsigzmlsbd0ibm9uzsigzmlsbc1ydwxlpsjldmvub2rkij4kicagicagica8zybpzd0ibg9nb3rlehqiigzpbgwtcnvszt0ibm9uemvybyi+ciagicagicagicagidxwyxroigq9ik0wldaumdc1mze4nju1osbmmjaumdk4odm3miwwlja3ntmxody1ntkgtde4lji1mzq4odqsns44mduzmzayncbmmtmumdm5ntm0osw1ljgwnde3mtq5iewxmy4wntexnji4ldi1ljc4otewnzggtdezlja1ldi2ljk4nja5nsbmni41nde4nja0nywyni45odywotugtdyuntqxodywndcsns44mduzmzayncbmmc43njyynzkwnyw1ljgwntmzmdi0iewwljawndy1mte2mjc5lduuode2ote3nzmgtdasmc4wnzy0nzc0mdq0iewwldaumdc1mze4nju1osbaie01my4wmju1ode0ldaumdc1mze4nju1osbmnzmuntg5ntm0oswwlja3ntmxody1ntkgtdcxljc0nde4niw1ljgwntmzmdi0iew2ni4wnjuxmtyzlduuoda0mtcxndkgtdy2lja3njc0ndismjuunzg5mta3ocbmnjyumdc1ntgxncwynybmntkunty3ndqxoswynybmntkunty3ndqxosw1ljgwntmzmdi0iew1my43ote4nja1lduuoda1mzmwmjqgtduzljazmdizmjysns44mty5mtc3mybmntmumdi1ntgxncwwlja3njq3nzqwndqgtduzljayntu4mtqsmc4wnzuzmtg2ntu5ifogttixljmyntu4mtqsos4ymjezmja5nybmmjeumzi1ntgxncw4ljyznje1mjk1iewyny43njk3njc0ldgunjm2mtuyotugtdi3ljc3mja5myw5ljiymtmymdk3iewyny43odezotuzldi1lji5nzc5odqgtdi3ljc2mjc5mdcsmjyuotg3mjuzocbmmjeumzyzotuznswyni45odcyntm4iewyms4znjm5ntm1ldi2lja3mtg0mjqgtdixljmyntu4mtqsos4ymjezmja5nybmmjeumzi1ntgxncw5ljiymtmymdk3ifogttmwljmyntu4mtqsms4ynjg4mjk2nibmmzaumzi1ntgxncwwiewzni42oty1mte2ldagtdm2ljy5njuxmtysms4xmde5njk4nybmmzyunzazndg4ncwxmi41mzqxodmxiew0my4xmzk1mzq5ldyumjk1ndgwodggtduwljgyndqxodysni4yotu0oda4ocbmndiunzu0njuxmiwxnc4wotk2nti0iew1ms43otmwmjmzldi2ljk4nja5nsbmndqunywyni45odywotugtdm4ljy2odywndcsmtgumduwotg0osbmmzyunzu2otc2nywxos44otkxodg5iewzni43nja0njuxldi3iewzmc4zndg4mzcyldi2ljk4nja5nsbmmzaumzq4odm3miwyni40mti1mtq1iewzmc4zmjmyntu4ldeumjy4odi5njygtdmwljmyntu4mtqsms4ynjg4mjk2nibaie05oc41mzaymzi2ldeumjy4odi5njygtdk4ljuzmdizmjysmcbmmta0ljkwmzq4ocwwiewxmdquotazndg4ldeumtaxoty5odcgtdewnc45mta0njusmtiuntm0mtgzmsbmmtexljm0njuxmiw2lji5ntq4mdg4iewxmtkumdmxmzk1ldyumjk1ndgwodggtdexmc45nje2mjgsmtqumdk5njuyncbmmtiwldi2ljk4nja5nsbmmteyljkwnjk3nywyni45odywotugtdewni44nzu1odesmtgumduwotg0osbmmta0ljk2mzk1mywxos44otkxodg5iewxmdquoty3ndqyldi3iew5oc41ntu4mtqsmjyuotg2mdk1iew5oc41ntu4mtqsmjyundeynte0nsbmotguntmwmjmyniwxlji2odgyoty2iew5oc41mzaymzi2ldeumjy4odi5njygwibnodguodu5mzaymywxny40mjc1nzgyiem4oc45odcymdkzlde2ljk2otg3mjugodkumdusmtyundkznji2osa4os4wnswxns45otuznjugqzg5lja1lde1lji0mzmznzigodguota5mzaymywxnc41ndu3nza2idg4ljyyota2otgsmtmuodk4mdmwmsbdodgumdg5otc4oswxmi42mjq3ode0idg3lja3mda4ndusmteunjezodqyosa4ns43odk1mzq5ldexlja4mzqyotkgqzg1ljiwmzg1ndmsmtauodm5mje4mia4nc41nzg2nze2ldewljcwmjywmzcgodmuotq0mtg2ldewljy4mde4ntqgtdg0ldewljy3nzg2nzkgtdgzljg0mzaymzmsmtaunjc0mzkxnybmodmunzgwmjmyniwxmc42nzu1nta0iew4my43mdu4mtqsmtaunjc0mzkxnybdodmumje5ote5nswxmc42nzq2otg5idgyljcznja5mdmsmtaunzm3ndaxnsa4mi4ynjyynzkxldewljg2mdk1mdigqzgxljgxnzm3otqsmtauotgwodg3msa4ms4zodu5mdm1ldexlje1oda5njqgodauotgyntu4mswxms4zodgxoda4iem4mc41odc1mdk1ldexljyxmzuznzmgodaumji0mju0ncwxms44otaxotq2idc5ljkwmjmyntysmtiumjewodkymibdnzkuntgwnda1nswxmi41mza5mdm3idc5ljmwmdk5nswxmi44ota3mzi5idc5lja3mdkzmdismtmumjgxntc1osbdnzguntg5mde5niwxnc4xmduwmzy1idc4ljmznzi3mdksmtuumdqymtexnca3oc4znde3otg4lde1ljk5ntm2nsbdnzgumzqxotu1mswxni45ndcwmde4idc4lju5ndy5mtcsmtcuodgxnjc1mia3os4wnzq0mtg2lde4ljcwnduxotegqzc5ljmwntgxncwxos4wotk2nti0idc5lju4mju1odesmtkundu3nza1nya3os45mdy5nzy3lde5ljc3otgznzggqzgwljy5odc5njksmjaunty5nzg1oca4ms43mjm2mzk5ldixlja4njmxndegodiuodmxmzk1mywyms4yntm3nju5iem4my4xmtc0nde5ldixljmwmdexntkgodmundewndy1mswyms4zmjq0ndk2idgzljcxmtyynzksmjeumzi0ndq5nibmodmunzc0nde4niwyms4zmjmyota4iew4my44ndg4mzcyldixljmyndq0otygqzgzljg5ntm0odgsmjeumzi0ndq5nia4my45mzgznzixldixljmymjezmjegodmuotg0odgznywyms4zmja5nzmziew4my45mtc0nde5ldixljmxody1ntkgqzg1lji2mjazmdismjeumjc5mze0msa4ni41nda1nde0ldiwljcyodcyndkgodcundkwnjk3nywxos43nzk4mzc4iem4oc4xndywndiylde5ljeyodk0odcgodgunje4mdm3mywxoc4zmtc3mtcyidg4ljg1otmwmjmsmtcundi3ntc4mibmodguodu5mzaymywxny40mjc1nzgyifogttkzljg1mjmyntysmteunjc0mzkxnybdotqundi5mdy5ocwxmy4wmdq2mzugotqunze3ndqxoswxnc40ndm4mda3idk0ljcxodywndcsmtuuotkwnzmgqzk0ljcxodywndcsmtcumde1mdyznya5nc41odgznzixlde3ljk5odg0mtmgotqumzi1ntgxncwxoc45mzg1odyziem5nc4wnze0mzuylde5ljg1ota5ndugotmunjk5mzgynywymc43ndmxnti2idkzljixodywndcsmjeunty4otq1nsbdotiumjcwotkzmywymy4xoti3otq2idkwljkxntiznzqsmjquntqynjm5nca4os4yodq4odm3ldi1ljq4ntuxntygqzg4lje5odgwmtqsmjyumteymzm4nsa4ny4wmtmwode3ldi2lju0otmxndegoduunzc5mdy5ocwyni43nzc1mjaziew4ns41njc0nde5ldi2ljgxndywmdigqzg1lji0mduzntysmjyuody3mju3msa4nc45mte1njc1ldi2ljkwnjmwmjmgodquntgxmzk1mywyni45mze2mzm4iem4nc4znjyynzkxldi2ljk0nzg1njmgodqumtusmjyuotu0oda4oca4my45mzaymzi2ldi2ljk1otq0mzggqzgzljg2mjc5mdcsmjyuotywnjaynsa4my43oty1mte2ldi2ljk2nda3odggodmunzi3ota3ldi2ljk2nda3odggqzgzljy1odezotusmjyuoty0mdc4oca4my41odgznzixldi2ljk2mdywmjugodmunte5nzy3ncwyni45ntk0ndm4iem4my4xmzi3nda5ldi2ljk1mjy1mjigodiunzq2mju3niwyni45mjc1mtc1idgyljm2mtyynzksmjyuodg0mti1msbdodiumza4mtm5nswyni44nzgzmze0idgylji1mzq4odqsmjyuodcwmjiwmia4mi4xotg4mzcyldi2ljg2mjewodkgqzgylja5mjgwmzesmjyuodq4njizmia4ms45ody5nzczldi2ljgzmzu1nzggodeuodgxmzk1mywyni44mty5mtc3iew4ms42otmwmjmzldi2ljc4ntyzmtugqzgxlju4otyzmtqsmjyunzy3mdywmsa4ms40ody1mtk0ldi2ljc0njk3mya4ms4zodm3mja5ldi2ljcyntm3njygtdgxljiyndqxodysmjyunjkxnzcyosbdodaumtmzodismjyundq5otq5osa3os4wody4mduyldi2lja0mze1mdkgnzgumte5nzy3ncwyns40odu1mtu2iem3ni40odc0nzg5ldi0lju0mze4mtmgnzuumti5nzewmywymy4xotmzmjc1idc0lje4mdizmjysmjeunty4otq1nsbdnzmunjk4mzy4ocwymc43ndm0mdc4idczljmyntuxnzismtkuodu5mza4mya3my4wnza5mzaylde4ljkzodu4njmgqzcyljgwnduzotksmtcuotc4ntcymsa3mi42nzexmzm2lde2ljk4njc2njegnziunjc0mzu5ncwxns45ota3mybdnziunjc0mzu5ncwxnc45njc1ntugnziuoda0njuxmiwxmy45ode0nia3my4wnjc0nde5ldezljazntkymtigqzczljmxodgymzksmtiumte0njq2mya3my42ota2mte4ldexljizmdi4odegnzqumtczmju1ocwxmc40mdu1njigqzc0ljy1ldkuntk3ote0mjugnzuumje5nzy3ncw4ljg2mzi2nzy3idc1ljg4ndg4mzcsoc4ymda0njm1iem3ni41ndc5odcxldcuntm5otc5mjqgnzcumjk1oty1niw2ljk2otkzodignzgumta5mzaymyw2ljuwntixndm3iem3os4xmjuzmduxlduuoti2nty3ndigodaumji2mzc2ocw1ljuxmdg5nzi3idgxljm3mja5myw1lji3mzq2ndy2iew4ms41odezotuzlduumjm0mdy3mjegqzgylje5odywmtgsns4xmtgxntc0mya4mi44mjqzodc5lduumduzndmymtqgodmunduymzi1niw1lja0mdu1njigqzgzljuzotuzndksns4wmzgymzg3idgzljyynjc0ndisns4wmzu5mjeymsa4my43mtyynzkxlduumdm1otixmjegqzgzljgxmdq2ntesns4wmzu5mjeymsa4my45mdq2nteylduumdm5mzk3ndugodmuotk4odm3miw1lja0mtcxndk1iem4nc41ndy4nzm1lduumdu0ndu4ntugoduumdkzmjy0lduumta2nzm4otkgoduunjmznziwosw1lje5ode0nibmoduunjy2mjc5msw1ljiwmjc4msbdoduuotg0odgznyw1lji1nzi0mje4idg2lji5odgznzisns4zmju2mdgznca4ni42mdkzmdizlduunda2nziwnzqgqzg2ljyznja0njusns40mtm2nzmymya4ni42njm5ntm1lduunde5ndy2otggodyunjkwnjk3nyw1ljqynzu3odiyiem4ni43nja0njuxlduundq2mte4mtkgodyuodmyntu4msw1ljq2odezndqxidg2ljkwmjmyntysns40odg5ote4osbdodcumtazmtyynsw1lju0ntk1otg1idg3ljmwmtc1ntmsns42mta1mtawnia4ny40otc2nzq0lduunjgyntayosbdodcunjy5mdg4ocw1ljc0mjgyotqyidg3ljgzodu1mjgsns44mdg1mjq0nsa4oc4wmdu4mtqsns44nzk0otaxnsbdodkumzewodazmsw2ljqxotu2njc5idkwljq5nzy1njcsny4ymdc5mja4idkxljusoc4ymda0njm1iem5mi40otk0nja0ldkumtk4mtc2mjkgotmumjk3otq4nswxmc4znzczodgxidkzljg1mjmyntysmteunjc0mzkxnybmotmuoduymzi1niwxms42nzqzote3ifogtti3ljc5nde4niwzljmwndc1mdg3iemyny43otqxodysns4wodgzmtcwmyayni4zndmynzyzldyuntm0mtgzmdggmjquntuzndg4ncw2ljuznde4mza4iemymi43njm3mda1ldyuntm0mtgzmdggmjeumzeynzkwnyw1lja4odmxnzazidixljmxmjc5mdcsmy4zmdq3nta4nybdmjeumzq2mjm4niwxlju0ntm0mzygmjiunzg3mdq1ncwwljeznjq4odyxocaync41nti5mdcsmc4xmzy0odg2mtggqzi2ljmxodc2odusmc4xmzy0odg2mtggmjcunzu5ntc1ncwxlju0ntm0mzygmjcunzkzmdizmywzljmwndc1mdg3iewyny43otqxodysmy4zmdq3nta4nybaiibpzd0i5b2i54q2iibmawxspsijrkzgrkzgij48l3bhdgg+ciagicagicagicagidxwyxroigq9ik05ni4xmdixnti2ldexljy2mdm2otqgqzk1ljuynzi0ntmsmtaumzu5mdi1osa5nc42otkyndk3ldkumtc1otu1ntmgotmunjyyotixnyw4lje3ntewnze4iem5mi42mjq0mty3ldcumtc5nduxntygoteumzk0nzqzniw2ljm4oduzmjm5idkwlja0mjy0mdisns44ndy1nje0mybdodgunjm0ntqzmiw1lji3odm0ntk3idg3ljeymtkzmdcsnc45ota0nzc1idg1lju5ntyymzqsns4wmdayndaynsbmoduundu0njiwncw1ljawmju2ntmxiew4ns40ntq2mja0lduumdaxndaynzggtdg0lduumdaxndaynzggtdg0ljexmdg3ndesns4wmdywnti5iem4nc42nzg4odm2lduumde4nzizosa4ns4ynduxodg4lduumdcxmtc1nya4ns44mduzmjaxlduumtyyotk0mzigqzg1ljgxnzm3mtcsns4xnji5otqzmia4ns44mjcwmti5lduumty1mze5mzggoduuodm5mdy0ncw1lje2nzy0ndq0iem4ni4xnjkynzy1lduumjiymjgzmzegodyundk1odczmsw1lji4otcwotk5idg2ljgxnjq0ncw1ljm3mji0otu2iem4ni44ndqxnji1lduumzc5mji0nzmgodyuodczmdg2miw1ljm4ntaznzm4idg2ljkwmdgwndgsns4zotmxnzuwocbdodyuotczmte0lduundexnzc1ntugodcumdq2nji4myw1ljqzmzg2mzygodcumtiwmtqynyw1ljq1ndc4oteyiem4ny4zmjgxmdu2lduunteyntq0oca4ny41mzm5mta5lduuntc3mjk4ndkgodcunzm3mtgxncw1ljy0odkzmtq4iew4ny44nzkzodk1lduunjk4otiwmjmgqzg5ljm4mje4mzisni4ymzk4nze4mya5mc43ndc5mzm0ldcumdg0mdgzmzygoteuodg1mziwmsw4lje3ntewnze4iem5mi45mjexotmsos4xnzywnzuxmsa5my43ndg3nze3ldewljm1otezndmgotqumzizmzq1oswxms42njaznjk0iem5nc45mjexmdixldeyljk5ndk1mjggotuumje5otgwmiwxnc40mzg4mtm5idk1ljiymte4ntmsmtuuotkwnzkwmibdotuumjiymzkwnswxny4wmtg0nju5idk1lja4njiwodesmtgumda0mjkwnia5nc44mtm4ndm0lde4ljk0odi2ndigqzk0lju1mdy0mtismtkuodcxodqznca5nc4xnjuwmjm0ldiwljc1odgxmdmgotmunjy2ntm3miwyms41odcymduyiem5mi42odq1mti2ldizljixnjgyodygoteumjc4odmxnywync41nzexodk5idg5lju4odi5nzmsmjuunte2ntuznsbdodguntk3nde0mywyni4wnza1ndmzidg3ljuynty1mtqsmjyundc3mzq0osa4ni40mdkxmdixldi2ljcymzi1odcgtdg2ljizntu2ldi2ljc1oti5nzegqzg1ljuxmzm2odesmjyuota0nduxnsa4nc43nzg1nzu0ldi2ljk4mzq2nya4nc4wnda5nzuyldi2ljk5nti5mdugtdg0ljazmjuzotesmjyuotk3nje1nibmoduumzk5mtgzmywyni45otc2mtu2iew4ns4zotc5nzgyldi2ljk5nti5mdugqzg1ljq2nzg3nzesmjyuotk2nduzmsa4ns41mzc3nzysmjcgoduunja4odgwmswynybdodcunjmxmde0miwyny4wmdyzndm4idg5ljyxodyxmjgsmjyundk0ndixosa5ms4znjgzmdkyldi1ljuxnju1mzugqzkzlja1nzgymtusmjquntcwmzaxnya5nc40nji4otg5ldizljixnjeymtggotuundq1mzqzoswyms41odcymduyiem5ns45ndm3mdk4ldiwljc1odc1mjygotyumzi5mziwoswxos44nze4mdegotyuntkynjuwmswxoc45ndgynjqyiem5ni44njuwmtq5lde4ljawndi5mdygotcumdaxmtk3miwxny4wmtg0nju5idk3lde1ljk5mdc5mdigqzk3lde0ljqzodgxmzkgotyunjk4nzaznywxmi45otq5nti4idk2ljewmje1mjysmteunjywmzy5ncigawq9iui3r+w+hcigzmlsbd0ii0zgmda0rii+pc9wyxropgogicagicagicagica8cgf0acbkpsjnodiunzkyndcwmywyni45mjawmdg0iew4mi42mjm5mje4ldi2ljg5nzkxotkgqzgyljm0mtm1mdmsmjyuodyymjuzoca4mi4wnjayndm1ldi2ljgxnjq5ntqgodeunzgxmtc5miwyni43nja3mzg3iew4ms42mtuwmzg1ldi2ljcynzayndygqzgwljq4ntgzmjksmjyundg0ntezidc5ljqwmtc2otusmjyumdc2mzcymya3oc40mda1nzc2ldi1ljuxnjgwnybdnzyunzexmdy1oswync41nza3mzc1idc1ljmwntqynjgsmjmumje2ntk5nca3nc4zmje3mdm2ldixlju4nzm3odigqzczljgymjg2odgsmjaunzu5mdk1mya3my40mzy4mzm3lde5ljg3mjewmjqgnzmumtczmty1ocwxoc45ndgzodmxiem3mi44otc3nzq5lde3ljk4nte1otygnziunzywmdu1nswxni45otaxmdazidcyljc2mzgzmzcsmtuuotkwodq4nsbdnziunzu0nzi5oswxnc4wmji5otcyidczlji5mda1nzksmtiumdg4nta1msa3nc4zmtq0odaxldewljm4nzm0mzqgqzc0ljgwoda4njqsos41nzcwndqwnca3ns4zotgwmdyyldguodm5otg1nsa3ni4wody2ndczldgumtc1mda1mjmgqzc2ljc3mza4mjysny41mtiymtg0idc3lju0nzuznjesni45ndayote1idc4ljm4otc0mjmsni40nzqxotazmibdodaumdc2ndqznsw1lju0mjk2mzkxidgxljk3otexotisns4wmzc1ntu4nca4my45mje3nduzlduumda0nzizndqgtdg0lduumdaxmjm1nzggtdgylju3otm3njgsns4wmdeymzu3ocbmodiuntc5mzc2ocw1ljawmjm5odmziew4mi40mzi0otg4ldugqzgwljm5nziyosw0ljk5mjk4mdy1idc4ljm5ntu5ntmsns41mdeyndgzmya3ni42mjcymdy0ldyundc0mtkwmzigqzc1ljc4ntezmzgsni45nda0odu1idc1ljaxmdcwntcsny41mtizotm2oca3nc4zmjqxmte0ldgumtc1mda1mjmgqzczljyzodixnzusoc44mzyynji1mia3my4wndmwmzu2ldkuntc5nzgwodcgnziuntuzmtq4mswxmc4zodczndm0iem3ms41mjc5oti4ldeylja4odmymdignzauotkxodm3nywxnc4wmji3otc1idcxlde1ljk5mdg0odugqzcxlde3ljaxotcwnzggnzeumtm3mzqwniwxoc4wmdqzotaxidcxljqwotqyniwxoc45ndgzodmxiem3ms42odi3mtu0lde5ljg5mjm3nia3mi4wnju1njezldiwljc3mzu5mtignziuntu5mty3nywyms41odcznzgyiem3nc4wntq2mzaxldi0lja2njywodugnzyunta1mtg2ocwyns44nzm3njc3idc5ljm3ntc1mtesmjyunje0mju3iem4mc40mzu1otmzldi2ljg4otiwotggodeuntmwmzezoswyny4wmtgznjqgodiunji3ntmznswyni45otc4otk1iew4my45otc1otiyldi2ljk5nzg5otugtdgzljk5mtu3mjysmjyuotk1ntc0mybdodmuntkwodi3mywyni45odk0nje0idgzlje5mdyzotismjyuoty0mjqyidgyljc5mjq3mdmsmjyuotiwmda4ncigawq9iui3r+w+hcigzmlsbd0iizawrjjfqsi+pc9wyxropgogicagicagidwvzz4kicagidwvzz4kpc9zdmc+)
+
+ **tiktok**
+
+#### company
+
+##### [about tiktok](/about?lang=en)
+
+##### [newsroom](https://newsroom.tiktok.com/en-us)
+
+##### [store](/store?lang=en)
+
+##### [contact](/about/contact?lang=en)
+
+##### [careers](https://careers.tiktok.com)
+
+##### [bytedance](https://www.bytedance.com)
+
+##### [creator directory](/directory?lang=en)
+
+#### programs
+
+##### [tiktok for good](/forgood?lang=en)
+
+##### [tiktok for developers](https://developers.tiktok.com/?refer=tiktok_web)
+
+##### [advertise on tiktok](https://ads.tiktok.com/?refer=tiktok_web)
+
+#### resources
+
+##### [help center](https://support.tiktok.com/en)
+
+##### [safety center](/safety?lang=en)
+
+##### [creator portal](https://www.tiktok.com/creators/creator-portal/en-us/)
+
+##### [community guidelines](https://www.tiktok.com/community-
+guidelines?lang=en)
+
+##### [transparency](https://www.tiktok.com/transparency?lang=en)
+
+#### legal
+
+##### [tiktok platform cookies policy](/legal/cookie-policy?lang=en)
+
+##### [privacy policy for younger users](/legal/privacy-policy-for-younger-
+users?lang=en)
+
+##### [intellectual property policy](/legal/copyright-policy?lang=en)
+
+##### [law enforcement](/legal/law-enforcement?lang=en)
+
+##### [privacy policy](/legal/privacy-policy?lang=en)
+
+##### [terms of service](/legal/terms-of-use?lang=en)
+
+english
+
+bahasa indonesiadeutschenglishespañolfrançaisitalianopolskiportuguêstiếng
+việtрусскийहिन्दी한국어日本語繁體中文العربيةاردوbahasa
+melayunederlandsमराठीবাংলাਪੰਜਾਬੀગુજરાતીଓଡ଼ିଆதமிழ்తెలుగుಕನ್ನಡമലയാളംภาษาไทยမြန်မာဘာသာភាសាខ្មែរ
+
+© 2021 tiktok
+
+![](https://www.tiktok.com/akam/11/pixel_3cca6fb1?a=dd0zywm4zmrhowiyzgeyywiwmduyntflywuwyzm1mtlhymm4mmvjnzm0jmpzpw9mzg==)
+

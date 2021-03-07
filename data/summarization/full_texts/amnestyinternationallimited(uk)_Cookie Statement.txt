@@ -1,0 +1,447 @@
+skip to main content  _
+
+amnesty international
+
+_
+
+[ amnesty international ](/en/)
+
+menu
+
+main menu
+
+main menu
+
+close
+
+  * [ who we are ](/en/who-we-are/)
+
+    * [ how we're run ](/en/who-we-are/how-were-run/)
+    * [ jobs & internships ](/en/who-we-are/jobs-and-internships/)
+
+  * [ what we do ](/en/what-we-do/)
+  * [ countries ](/en/countries/)
+  * [ get involved ](/en/get-involved/)
+
+    * [ take action ](/en/get-involved/take-action/)
+    * [ join ](/en/get-involved/join/)
+    * [ volunteer ](/en/get-involved/volunteer/)
+
+  * [ donate now ](/en/donate/)
+  * [ latest ](/en/latest/)
+
+    * [ news ](/en/latest/news/)
+    * [ campaigns ](/en/latest/campaigns/)
+    * [ education ](/en/latest/education/)
+    * [ research ](/en/latest/research/)
+    * [ impact ](/en/latest/impact/)
+
+en
+
+choose language
+
+  * [français](/languageselectorpartial/changelanguage?culturecode=fr&url=%2ffr%2fabout-us%2fcookie-statement%2f)
+  * [español](/languageselectorpartial/changelanguage?culturecode=es&url=%2fes%2fabout-us%2fcookie-statement%2f)
+  * [العربية](/languageselectorpartial/changelanguage?culturecode=ar&url=%2far%2fabout-us%2fcookie-statement%2f)
+
+search
+
+cookie statement
+
+# cookie statement
+
+amnesty international’s website, like most websites, uses small text files
+called cookies. [CLS] [SEP] this note provides information on what cookies are, which
+cookies amnesty international uses, and how they can be controlled. [CLS] [SEP]
+
+if you wish to restrict or block cookies you can set your internet browser to
+do so- click on the following link for further information:
+[www.aboutcookies.org](http://www.aboutcookies.org "www.aboutcookies.org")
+
+### 1\. [CLS] [SEP] what are cookies?
+
+cookies are text files containing small amounts of information which are
+downloaded to your device when you visit a website. [CLS] [SEP] cookies are then sent back
+to the originating website on each subsequent visit, or to another website
+that recognises that cookie. [CLS] [SEP] cookies are widely used because they allow a
+website to recognise a user’s device and therefore allow enhanced
+functionality. [CLS] [SEP]
+
+you can find out more information about cookies at:
+[www.allaboutcookies.org](http://www.allaboutcookies.org
+"www.allaboutcookies.org") some definitions used in this note are provided at
+part 5 below. [CLS] [SEP]
+
+### 2\. [CLS] [SEP] how does amnesty international use cookies?
+
+amnesty international uses cookies for the following purposes:
+
+to compile statistical data on the use of our website and its functioning, so
+that we can monitor and improve it;
+
+to facilitate users’ ability to navigate through our website, including to
+allow registered users to access secure parts of our website; and
+
+to allow us to share our web pages via social media platforms. [CLS] [SEP]
+
+### 3\. [CLS] [SEP] which cookies does amnesty international use?
+
+a full list of all the cookies we use is in the table at part 6 below. [CLS] [SEP]
+
+please note that we are auditing the use of these cookies and the table will
+be updated as we make ongoing changes. [CLS] [SEP]
+
+### 4\. [CLS] [SEP] how to control cookies
+
+if you do not wish to receive cookies you can set your web browser to restrict
+or block them. [CLS] [SEP] all modern browsers allow you to change your cookie settings,
+typically be found in the 'options' or 'preferences' menu of your browser. [CLS] [SEP] in
+order to understand these settings, the following link may be helpful:
+[www.aboutcookies.org](http://www.aboutcookies.org "www.aboutcookies.org")
+
+if you disable cookies you will not be able to use all the interactive
+features of our website. [CLS] [SEP]
+
+### 5\. [CLS] [SEP] definitions
+
+**first party/ third party cookies**
+
+refers to the web domain placing the cookie. [CLS] [SEP] first-party cookies are those set
+by a website that is being visited by the user at the time – the website
+displayed in the url window. [CLS] [SEP] third party cookies are cookies that are set by a
+domain other than that of the website being visited by the user. [CLS] [SEP] if a user
+visits a website and another entity sets the cookie through that website, this
+would be a third-party cookie. [CLS] [SEP]
+
+**persistent cookies**
+
+these cookies remain on a user’s device for the period of time specified in
+the cookie. [CLS] [SEP] they are activated each time that the user visits the website that
+created that particular cookie. [CLS] [SEP]
+
+**session cookies**
+
+these cookies allow website operators to link the actions of a user during a
+browser session. [CLS] [SEP] a browser session starts when a user opens the browser window
+and finishes when they close the browser window. [CLS] [SEP] session cookies are created
+temporarily. [CLS] [SEP] once you close the browser, all session cookies are deleted. [CLS] [SEP]
+
+**pixel tags**
+
+a pixel tag is not technically a cookie but is a similar type of technology
+placed on a website or within the body of an email for the purpose of tracking
+activity on websites, or when emails are opened or accessed, and is often used
+in combination with cookies. [CLS] [SEP] information collected is anonymous. [CLS] [SEP]
+
+### 6\. [CLS] [SEP] full list of cookies used by amnesty international
+
+below is a full list of cookies set by
+[www.amnesty.org](https://www.amnesty.org)
+
+#### a) cookies set by our website cms
+
+cookie | purpose / more information | names | expiry  
+---|---|---|---  
+cookie agreement | created when the 'ok to continue' button is clicked in the
+cookies notice at the top of page. [CLS] [SEP] hides cookies notice on future visits. [CLS] [SEP] |
+amnesty_  
+international_  
+wesbite | 1 week  
+  
+#### b) first party cookies set by our website
+
+amnesty decoders uses cookies to authenticate you as a user. [CLS] [SEP] this allows our
+amnesty decoder front-end to recieve the token, store it within your browser
+session and authenticate you as a user
+
+im_access_token
+
+7 days
+
+cookie | purpose / more information | names | expiry  
+---|---|---|---  
+  
+google analytics
+
+|
+
+amnesty international and amnesty decoders support the use of google analytics
+within the site so that we can monitor activity on our website. [CLS] [SEP]  
+  
+google analytics cookies collect standard internet log information and visitor
+behaviour information in an anonymous form. [CLS] [SEP] [more
+information](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-
+usage). [CLS] [SEP]
+
+|
+
+_ga
+
+|
+
+2 years  
+  
+_gat
+
+|
+
+10 minutes  
+  
+google tag manager
+
+| google analytics is deployed through google tag manager. [CLS] [SEP] [more
+information](https://www.google.co.uk/analytics/tag-manager/faq/) |
+
+_dc_gtm
+
+|
+
+10 minutes  
+  
+microsoft azure
+
+|
+
+ensures all requests are processed on the same cloud server instance. [CLS] [SEP]
+
+|
+
+arraffinity
+
+|
+
+session  
+  
+visual web optimizer
+
+|
+
+visual web optimizer allows us to trial design variations on our website. [CLS] [SEP] the
+cookies tell us which version of the website you have seen. [CLS] [SEP] all information is
+kept anonymous. [CLS] [SEP]
+
+[more information](https://vwo.com/knowledge/cookies-used-by-vwo/)
+
+|
+
+_vis_opt_exp
+
+|
+
+100 days  
+  
+_vis_opt_s
+
+|
+
+100 days. [CLS] [SEP]  
+  
+_vis_opt_test_cookie
+
+|
+
+session  
+  
+_vwo_uuid
+
+|
+
+100 days. [CLS] [SEP]  
+  
+_vis_opt_out
+
+|
+
+100 days. [CLS] [SEP]  
+  
+amnesty campaigns
+
+|
+
+amnesty campaigns use a cookie to temporarily retain the information that
+users enter to support a campaign action: name, email address and country
+selection. [CLS] [SEP] these cookies are retained so that users don't need to retype this
+information and can quickly support further actions. [CLS] [SEP] it is retained until
+users close their browser session. [CLS] [SEP]
+
+|
+
+campaignuserdetails
+
+|
+
+session  
+  
+amnesty decoders
+
+|
+
+amnesty decoders _**task manager**_ uses cookies for handling your session on
+the project task pages. [CLS] [SEP]
+
+|
+
+task_session
+
+|
+
+3 months  
+  
+amnesty decoders _**identity management**_ system uses cookies for handling
+your session in the site. [CLS] [SEP] these cookies are used to sign in and sign out of
+amnesty decoders identity management. [CLS] [SEP]
+
+|
+
+im_session
+
+|
+
+until the browser is closed  
+  
+amnesty decoders _**discussion forum**_ uses cookies for handling your session
+in the site. [CLS] [SEP] these cookies are used to sign in and sign out of amnesty
+decoders discussion forum. [CLS] [SEP]
+
+|
+
+_t
+
+|
+
+2 months  
+  
+amnesty decoders **_discussion forum’_** s software library stores its cookie
+session for operation purpose. [CLS] [SEP]
+
+|
+
+_forum_session
+
+|
+
+until the browser is closed  
+  
+amnesty decoders uses cookies to remember data entered in some text fields. [CLS] [SEP]
+these cookies are used so that users don't need to retype inputs that are
+likely to remain similar (e.g. [CLS] [SEP] username when logging in). [CLS] [SEP]
+
+|
+
+task_remember_token
+
+|
+
+3 months  
+  
+amnesty decoders uses cookies to remember if users want to accept amnesty
+international cookies or not. [CLS] [SEP] these cookies ensure that the platform retains
+user preferences for activating cookies or not. [CLS] [SEP]
+
+|
+
+amnesty international_accept_cookies
+
+|
+
+3 months  
+  
+amnesty decoders uses cookies to authenticate you as a user. [CLS] [SEP] this allows our
+amnesty decoder front-end to recieve the token, store it within your browser
+session and authenticate you as a user
+
+|
+
+im_access_token
+
+|
+
+7 days  
+  
+#### c) third party cookies set by our website
+
+cookie | purpose / more information | names  
+---|---|---  
+youtube | we sometimes embed videos from youtube. [CLS] [SEP] youtube's use of cookies is
+governed by google's privacy policy. [CLS] [SEP] [more
+information](http://www.google.co.uk/intl/en/policies/privacy/). [CLS] [SEP]  
+  
+expiry dates for these cookies vary from the session to 10 years. [CLS] [SEP] | visitor_  
+info1_live  
+demographics  
+use_hitbox  
+activity  
+sid  
+hsid  
+pref  
+  
+#### d) pixel tags
+
+we use both facebook and twitter pixel tags. [CLS] [SEP] pixel tags are used to track
+conversion from social media to our website. [CLS] [SEP] see more information on [facebook
+here](https://www.facebook.com/business/help/651294705016616) and [twitter
+here](https://business.twitter.com/help/conversion-tracking-for-websites). [CLS] [SEP]
+
+  * about us 
+    * [ contact us ](/en/about-us/contact/)
+    * [ how we're run ](/en/about-us/how-were-run/)
+    * [ modern slavery act statement ](/en/about-us/how-were-run/modern-slavery-act-transparency-statement/)
+    * [ finances and pay ](/en/about-us/how-were-run/finances-and-pay/)
+    * [ structure and people ](/en/about-us/how-were-run/structure-and-people/)
+
+  * resources 
+    * [ media centre ](/en/media-centre/)
+    * [ wire magazine ](/en/wire-magazine/)
+    * [ human rights education ](/en/human-rights-education/)
+    * [ human rights courses ](https://www.edx.org/school/amnesty-internationalx)
+
+  * get involved 
+    * [ join ](/en/get-involved/join/)
+    * [ take action ](/en/get-involved/take-action/)
+    * [ volunteer ](/en/get-involved/volunteer/)
+
+  * latest 
+    * [ news ](/en/latest/news/)
+    * [ campaigns ](/en/latest/campaigns/)
+    * [ research ](/en/latest/research/)
+
+  * work with us 
+    * if you are talented and passionate about human rights then amnesty international wants to hear from you. [CLS] [SEP] 
+
+[ jobs & internships ](/en/careers/)
+
+  * [ like us on facebook ](https://www.facebook.com/amnesty)
+  * [ follow us on twitter ](https://twitter.com/amnesty)
+  * [ subscribe to us on youtube ](https://www.youtube.com/user/amnestyinternational)
+  * [ follow us on instagram ](https://instagram.com/amnesty)
+
+[ privacy policy ](/en/about-us/privacy-policy/)   |   [ cookie statement
+](/en/about-us/cookie-statement/)   |   [ permissions ](/en/about-
+us/permissions/)   |   [ refunds of donations ](/en/about-us/refunds-of-
+donations/)
+
+(c) 2021 amnesty international
+
+quick search
+
+advanced search
+
+search
+
+keywords or title amnesty index number date (year) language
+
+english español français العربية русский portugues indonesia 中文 فارسى polski
+turkçe italiano 한국어 עברית romană українська deutsch 日本語 slovenščina සිංහල
+shqip தமிழ் ไทย srpski čeština ελληνικά नेपाली bahasa melayu magyar български
+nederlands o‘zbek ភាសាខ្មែរ dansk монгол хэл slovenčina тоҷикӣ azərbaycan dili
+বাংলা bosanski кыргыз tiéng việt አማርኛ қазақ тілі ਪੰਜਾਬੀ پښتو اُردو беларуская
+eesti հայերեն ქართული македонски മലയാളം svenska kiswahili ئۇيغۇرچە isizulu
+
+search
+
+**your choice regarding cookies on this site** we have placed cookies on your
+device to help make this website better. [CLS] [SEP] you can use this tool to change your
+cookie settings. [CLS] [SEP] otherwise, we'll assume you're ok to continue. [CLS] [SEP]
+
+settings
+

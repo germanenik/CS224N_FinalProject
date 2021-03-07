@@ -1,0 +1,68 @@
+[my.nextdns.io](https://my.nextdns.io)
+
+[nextdns](/)
+
+[pricing](/pricing)
+
+[privacy policy](/privacy)
+
+[changelog](https://headwayapp.co/nextdns-changelog)
+
+[help](https://help.nextdns.io)
+
+[](https://twitter.com/nextdns)
+
+[](https://www.reddit.com/r/nextdns)
+
+[](https://medium.com/nextdns)
+
+[](https://github.com/nextdns)
+
+privacy policy
+
+1\. [CLS] [SEP] we do not (and will never) sell, license, sublicense or share any of the
+data submitted directly or indirectly by our users with any person or entity. [CLS] [SEP]
+
+nextdns inc. [CLS] [SEP] is an independent company 100% funded, owned and controlled by
+its founders and will never engage in any data sharing or selling activities,
+now or in the future. [CLS] [SEP]
+
+2\. [CLS] [SEP] when the service comes into contact with user data that shall not be
+logged, it is discarded as quickly as possible. [CLS] [SEP]
+
+when answering a dns query, the server discards all request and response data
+immediately after sending back the response to you. [CLS] [SEP]
+
+3\. [CLS] [SEP] if not specifically requested by the user, no data is logged. [CLS] [SEP] some
+features require some sort of data retention; in that case, our users are
+given the option, control, and full access to what is logged and for how long. [CLS] [SEP]
+
+you can fine-tune what is logged, for how long and in which jurisdiction — the
+analytics and logs will gracefully adapt. [CLS] [SEP] we also follow a strict policy of
+“what you see is what we have” (wysiwwh), letting you see, export or delete
+every bit of your data at any time. [CLS] [SEP]
+
+4\. [CLS] [SEP] we protect our users from privacy exposure to other services that we must
+interact with in order to operate properly. [CLS] [SEP]
+
+we use an [innovative in-house implementation of edns client
+subnet](https://medium.com/nextdns/how-we-made-dns-both-fast-and-private-with-
+ecs-4970d70401e5) that does not expose your ip address to authoritative dns
+servers. [CLS] [SEP] we also enforce [query name
+minimisation](https://www.isc.org/blogs/qname-minimization-and-privacy). [CLS] [SEP]
+
+we use the following services as processors, as defined by the gdpr and
+similar regulations. [CLS] [SEP]
+
+stripe — for processing card payments
+
+paypal — for processing paypal payments
+
+bitpay — for processing cryptocurrency payments
+
+sendgrid — for sending transactional emails
+
+nextdns inc. [CLS] [SEP]
+
+as34939
+

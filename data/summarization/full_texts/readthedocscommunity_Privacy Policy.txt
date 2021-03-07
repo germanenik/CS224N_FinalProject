@@ -1,0 +1,506 @@
+[ ![logo](_static/logo.svg) ](index.html)
+
+first steps
+
+  * [getting started with sphinx](intro/getting-started-with-sphinx.html)
+  * [getting started with mkdocs](intro/getting-started-with-mkdocs.html)
+  * [importing your documentation](intro/import-guide.html)
+  * [read the docs features](features.html)
+  * [choosing between our two sites](choosing-a-site.html)
+
+getting started
+
+  * [configuration file](config-file/index.html)
+  * [incoming webhooks and automation](webhooks.html)
+  * [custom domains and white labeling](custom_domains.html)
+  * [versioned documentation](versions.html)
+  * [downloadable documentation](downloadable-documentation.html)
+  * [server side search](server-side-search.html)
+  * [preview documentation from pull requests](pull-requests.html)
+  * [documentation hosting features](hosting.html)
+  * [connecting your vcs account](connected-accounts.html)
+  * [build process](builds.html)
+  * [badges](badges.html)
+  * [site support](support.html)
+  * [frequently asked questions](faq.html)
+
+step-by-step guides
+
+  * [sphinx & mkdocs guides](guides/tools.html)
+  * [read the docs guides](guides/platform.html)
+  * [read the docs for business guides](guides/commercial.html)
+
+advanced features
+
+  * [subprojects](subprojects.html)
+  * [single version documentation](single_version.html)
+  * [localization of documentation](localization.html)
+  * [user-defined redirects](user-defined-redirects.html)
+  * [automatic redirects](automatic-redirects.html)
+  * [automation rules](automation-rules.html)
+  * [public api](api/index.html)
+
+about read the docs
+
+  * [contributing to read the docs](contribute.html)
+  * [developer documentation](development/index.html)
+  * [roadmap](roadmap.html)
+  * [google summer of code](gsoc.html)
+  * [code of conduct](code-of-conduct.html)
+  * [security](security.html)
+  * privacy policy
+    * the short version
+    * our services
+    * what information read the docs collects and why
+      * information from website browsers
+        * why do we collect this?
+      * information from users with accounts
+        * why do we collect this information?
+    * what information read the docs does not collect
+    * how we share the information we collect
+      * third party vendors
+        * payment processing
+        * site monitoring
+        * analytics
+        * support desk
+        * email newsletter
+      * public information on read the docs
+    * our use of cookies and tracking
+      * do not track
+      * cookies
+      * google analytics
+    * how read the docs secures your information
+    * read the docsâ global privacy practices
+    * resolving complaints
+    * how we respond to compelled disclosure
+    * how you can access and control the information we collect
+      * data retention and deletion
+    * changes to our privacy policy
+    * contacting read the docs
+  * [read the docs terms of service](terms-of-service.html)
+  * [dmca takedown policy](dmca/index.html)
+  * [policy for abandoned projects](abandoned-projects.html)
+  * [changelog](changelog.html)
+  * [about read the docs](about.html)
+  * [read the docs team](team.html)
+  * [read the docs open source philosophy](open-source-philosophy.html)
+  * [the story of read the docs](story.html)
+  * [advertising](advertising/index.html)
+  * [sponsors of read the docs](sponsors.html)
+  * [read the docs for business](commercial/index.html)
+  * [info about custom installs](custom_installs/index.html)
+
+__[read the docs](index.html)
+
+  * [](index.html) »
+  * privacy policy
+  * [ edit on github](https://github.com/readthedocs/readthedocs.org/blob/9d9441d061f723d1d410d66756f3057a3f1ab8a1/docs/privacy-policy.rst)
+
+* * *
+
+# privacy policyâ¶
+
+effective date: **september 30, 2019**
+
+welcome to read the docs. [CLS] [SEP] at read the docs, we believe in protecting the
+privacy of our users, authors, and readers. [CLS] [SEP]
+
+## the short versionâ¶
+
+we collect your information only with your consent; we only collect the
+minimum amount of personal information that is necessary to fulfill the
+purpose of your interaction with us; we donât sell it to third parties; and
+we only use it as this privacy policy describes. [CLS] [SEP]
+
+of course, the short version doesnât tell you everything, so please read on
+for more details!
+
+## our servicesâ¶
+
+read the docs is made up of:
+
+readthedocs.org (âread the docs communityâ)
+
+    
+
+this is a website aimed at documentation authors and project maintainers
+writing and distributing technical documentation. [CLS] [SEP] this privacy policy applies
+to this site in full without reservation. [CLS] [SEP]
+
+readthedocs.com (âread the docs for businessâ)
+
+    
+
+this website is a commercial hosted offering for hosting private documentation
+for corporate clients. [CLS] [SEP] this privacy policy applies to this site in full
+without reservation. [CLS] [SEP]
+
+readthedocs.io, readthedocs-hosted.com, and other domains (âdocumentation
+sitesâ)
+
+    
+
+these websites are where read the docs hosts documentation (â[user-generated
+content](terms-of-service.html#user-generated-content)â) on behalf of
+documentation authors. [CLS] [SEP] a best effort is made to apply this privacy policy to
+these sites but the documentation may contain content and files created by
+documentation authors. [CLS] [SEP]
+
+all use of read the docs is subject to this privacy policy, together with our
+[terms of service](terms-of-service.html). [CLS] [SEP]
+
+## what information read the docs collects and whyâ¶
+
+### information from website browsersâ¶
+
+if youâre **just browsing the website** , we collect the same basic
+information that most websites collect. [CLS] [SEP] we use common internet technologies,
+such as cookies and web server logs. [CLS] [SEP] we collect this basic information from
+everybody, whether they have an account or not. [CLS] [SEP]
+
+the information we collect about all visitors to our website includes:
+
+  * the visitorâs browser type
+
+  * language preference
+
+  * referring site
+
+  * the date and time of each visitor request
+
+we also collect potentially personally-identifying information like internet
+protocol (ip) addresses. [CLS] [SEP]
+
+#### why do we collect this?â¶
+
+we collect this information to better understand how our website visitors use
+read the docs, and to monitor and protect the security of the website. [CLS] [SEP]
+
+### information from users with accountsâ¶
+
+if you **create an account** , we require some basic information at the time
+of account creation. [CLS] [SEP] you will create your own user name and password, and we
+will ask you for a valid email account. [CLS] [SEP] you also have the option to give us
+more information if you want to, and this may include âuser personal
+information.â
+
+âuser personal informationâ is any information about one of our users
+which could, alone or together with other information, personally identify him
+or her. [CLS] [SEP] information such as a user name and password, an email address, a real
+name, and a photograph are examples of âuser personal information.â
+
+user personal information does not include aggregated, non-personally
+identifying information. [CLS] [SEP] we may use aggregated, non-personally identifying
+information to operate, improve, and optimize our website and service. [CLS] [SEP]
+
+#### why do we collect this information?â¶
+
+  * we need your user personal information to create your account, and to provide the services you request. [CLS] [SEP]
+
+  * we use your user personal information, specifically your user name, to identify you on read the docs. [CLS] [SEP]
+
+  * we use it to fill out your profile and share that profile with other users. [CLS] [SEP]
+
+  * we will use your email address to communicate with you but it is not shared publicly. [CLS] [SEP]
+
+  * we limit our use of your user personal information to the purposes listed in this privacy statement. [CLS] [SEP] if we need to use your user personal information for other purposes, we will ask your permission first. [CLS] [SEP] you can always see what information we have in your [user account](https://readthedocs.org/accounts/edit/). [CLS] [SEP]
+
+## what information read the docs does not collectâ¶
+
+we do not intentionally collect **sensitive personal information** , such as
+social security numbers, genetic data, health information, or religious
+information. [CLS] [SEP]
+
+documentation sites hosted on read the docs are public, anyone (including us)
+may view their contents. [CLS] [SEP] if you have included private or sensitive information
+in your documentation site, such as email addresses, that information may be
+indexed by search engines or used by third parties. [CLS] [SEP]
+
+read the docs for business may host [private projects](terms-of-
+service.html#private-projects) which we treat as confidential and we only
+access them for support reasons, with your consent, or if required to for
+security reasons
+
+if youâre a **child under the age of 13** , you may not have an account on
+read the docs. [CLS] [SEP] read the docs does not knowingly collect information from or
+direct any of our content specifically to children under 13. [CLS] [SEP] if we learn or
+have reason to suspect that you are a user who is under the age of 13, we will
+unfortunately have to close your account. [CLS] [SEP] we donât want to discourage you
+from writing software documentation, but those are the rules. [CLS] [SEP]
+
+## how we share the information we collectâ¶
+
+we **do not** share, sell, rent, or trade user personal information with third
+parties for their commercial purposes. [CLS] [SEP]
+
+we do not disclose user personal information outside read the docs, except in
+the situations listed in this section or in the section below on compelled
+disclosure. [CLS] [SEP]
+
+we **do** share certain aggregated, non-personally identifying information
+with others about how our users, collectively, use read the docs. [CLS] [SEP] for example,
+we may compile statistics on the prevalence of different types of
+documentation across read the docs for a blog post or popularity of
+programming languages for advertising partners. [CLS] [SEP]
+
+we **do** host advertising on documentation sites. [CLS] [SEP] this advertising is first-
+party advertising hosted by read the docs. [CLS] [SEP] we **do not** run any code from
+advertisers and all ad images are hosted on read the docsâ servers. [CLS] [SEP] for more
+details, see our document on [advertising details](advertising/advertising-
+details.html). [CLS] [SEP]
+
+we may use user personal information with your permission, so we can perform
+services you have requested. [CLS] [SEP] for example, if you request service on
+commercially hosted docs, we will ask your permission to sync your private
+repositories. [CLS] [SEP]
+
+we may share user personal information with a limited number of third party
+vendors who process it on our behalf to provide or improve our service, and
+who have agreed to privacy restrictions similar to our own privacy statement. [CLS] [SEP]
+for more details, see our next section on third parties. [CLS] [SEP]
+
+### third party vendorsâ¶
+
+as we mentioned, we may share some information with third party vendors or it
+may be collected by them on our behalf. [CLS] [SEP] the information collected and stored
+by third parties is subject to their policies and practices. [CLS] [SEP] this list will be
+updated from time to time and we encourage you to check back periodically. [CLS] [SEP]
+
+#### payment processingâ¶
+
+should you choose to become a
+[supporter](https://readthedocs.org/sustainability/), purchase a [gold
+membership](https://readthedocs.org/accounts/gold/), or become a subscriber to
+read the docsâ commercial hosting product, your payment information and
+details will be processed by stripe. [CLS] [SEP] read the docs does not store your payment
+information. [CLS] [SEP]
+
+#### site monitoringâ¶
+
+read the docs uses sentry and new relic to diagnose errors and improve the
+performance of our site. [CLS] [SEP] both companies take part in the eu-us privacy shield
+framework. [CLS] [SEP] we aim to minimize the amount of personal information shared, but
+the information may include your ip address. [CLS] [SEP]
+
+#### analyticsâ¶
+
+we go into detail on analytics in a separate section specific to analytics. [CLS] [SEP]
+
+#### support deskâ¶
+
+read the docs uses intercom to manage support requests for documentation
+hosted through read the docs for business. [CLS] [SEP] if you request support â
+typically via email â intercom may process your contact information. [CLS] [SEP]
+
+#### email newsletterâ¶
+
+if you sign up for the [read the docs email
+newsletter](http://readthedocs.us3.list-
+manage.com/subscribe?u=a6a22369cc2b356379cf789ca&id=a85a83a5a5), your email
+address and name will be stored by mailchimp. [CLS] [SEP] this newsletter is separate from
+creating a read the docs account and signing up for read the docs does not opt
+you in for the newsletter. [CLS] [SEP]
+
+you can manage your email subscription including unsubscribing and deleting
+your records with mailchimp. [CLS] [SEP] there is a link to do so in the footer of any
+newsletter you receive from us. [CLS] [SEP]
+
+### public information on read the docsâ¶
+
+most of read the docs is public-facing including user names, project names,
+and documentation sites. [CLS] [SEP] if your content is public-facing, third parties may
+access it. [CLS] [SEP] we do not sell that content; it is yours. [CLS] [SEP]
+
+## our use of cookies and trackingâ¶
+
+### do not trackâ¶
+
+read the docs supports do not track (dnt) and respects usersâ tracking
+preferences. [CLS] [SEP] specifically, we support the [w3câs tracking preference
+expression](https://www.w3.org/tr/tracking-dnt/) and the [effâs dnt
+policy](https://www.eff.org/issues/do-not-track). [CLS] [SEP]
+
+for read the docs, this means:
+
+  * we **do not** do behavioral ad targeting regardless of your dnt preference. [CLS] [SEP]
+
+  * when dnt is enabled, both logged-in and logged-out users are considered opted-out of analytics. [CLS] [SEP]
+
+  * regardless of dnt preference, our logs that contain ip addresses and user agent strings are deleted after 10 days unless a dnt exception applies. [CLS] [SEP]
+
+  * our full dnt policy is [available here](https://readthedocs.org/.well-known/dnt-policy.txt). [CLS] [SEP]
+
+our dnt policy applies without reservation to read the docs community and read
+the docs for business. [CLS] [SEP] a best effort is made to apply this to documentation
+sites, but we do not have complete control over the contents of these sites. [CLS] [SEP]
+
+for more details about dnt, visit [all about do not
+track](https://www.allaboutdnt.com). [CLS] [SEP]
+
+important
+
+due to the nature of our environment where documentation is built as
+necessary, the dnt analytics opt-out for documentation sites only applies for
+those sites generated after may 1, 2018. [CLS] [SEP]
+
+### cookiesâ¶
+
+read the docs uses cookies to make interactions with our service easy and
+meaningful. [CLS] [SEP] we use cookies to keep you logged in, remember your preferences,
+and provide information for future development of read the docs. [CLS] [SEP]
+
+a cookie is a small piece of text that our web server stores on your computer
+or mobile device, which your browser sends to us when you return to our site. [CLS] [SEP]
+cookies do not necessarily identify you if you are merely visiting read the
+docs; however, a cookie may store a unique identifier for each logged in user. [CLS] [SEP]
+the cookies read the docs sets are essential for the operation of the website,
+or are used for performance or functionality. [CLS] [SEP] by using our website, you agree
+that we can place these types of cookies on your computer or device. [CLS] [SEP] if you
+disable your browser or deviceâs ability to accept cookies, you will not be
+able to log in to read the docs. [CLS] [SEP]
+
+### google analyticsâ¶
+
+we use google analytics as a third party tracking service, but we donât use
+it to track you individually or collect your user personal information. [CLS] [SEP] we use
+google analytics to collect information about how our website performs and how
+our users, in general, navigate through and use read the docs. [CLS] [SEP] this helps us
+evaluate our usersâ use of read the docs; compile statistical reports on
+activity; and improve our content and website performance. [CLS] [SEP]
+
+google analytics gathers certain simple, non-personally identifying
+information over time, such as your ip address, browser type, internet service
+provider, referring and exit pages, time stamp, and similar data about your
+use of read the docs. [CLS] [SEP] we do not link this information to any of your personal
+information such as your user name. [CLS] [SEP]
+
+read the docs will not, nor will we allow any third party to, use the google
+analytics tool to track our users individually; collect any user personal
+information other than ip address; or correlate your ip address with your
+identity. [CLS] [SEP] google provides further information about its own privacy practices
+and offers a [browser add-on to opt out of google analytics
+tracking](https://tools.google.com/dlpage/gaoptout). [CLS] [SEP] you may also opt-out of
+analytics on read the docs by enabling do not track. [CLS] [SEP]
+
+## how read the docs secures your informationâ¶
+
+read the docs takes all measures reasonably necessary to protect user personal
+information from unauthorized access, alteration, or destruction; maintain
+data accuracy; and help ensure the appropriate use of user personal
+information. [CLS] [SEP] we follow generally accepted industry standards to protect the
+personal information submitted to us, both during transmission and once we
+receive it. [CLS] [SEP]
+
+no method of transmission, or method of electronic storage, is 100% secure. [CLS] [SEP]
+therefore, we cannot guarantee its absolute security. [CLS] [SEP]
+
+## read the docsâ global privacy practicesâ¶
+
+**information that we collect will be stored and processed in the united
+states** in accordance with this privacy policy. [CLS] [SEP] however, we understand that
+we have users from different countries and regions with different privacy
+expectations, and we try to meet those needs. [CLS] [SEP]
+
+we provide the same standard of privacy protection to all our users around the
+world, regardless of their country of origin or location, additionally, we
+require that if our vendors or affiliates have access to user personal
+information, they must comply with our privacy policies and with applicable
+data privacy laws. [CLS] [SEP]
+
+in particular:
+
+  * read the docs provides clear methods of unambiguous, informed consent at the time of data collection, when we do collect your personal data. [CLS] [SEP]
+
+  * we collect only the minimum amount of personal data necessary, unless you choose to provide more. [CLS] [SEP] we encourage you to only give us the amount of data you are comfortable sharing. [CLS] [SEP]
+
+  * we offer you simple methods of accessing, correcting, or deleting the data we have collected. [CLS] [SEP]
+
+  * we also provide our users a method of recourse and enforcement. [CLS] [SEP]
+
+## resolving complaintsâ¶
+
+if you have concerns about the way read the docs is handling your user
+personal information, please let us know immediately by emailing us at
+[privacy@readthedocs.org](mailto:privacy%40readthedocs.org). [CLS] [SEP]
+
+## how we respond to compelled disclosureâ¶
+
+read the docs may disclose personally-identifying information or other
+information we collect about you to law enforcement in response to a valid
+subpoena, court order, warrant, or similar government order, or when we
+believe in good faith that disclosure is reasonably necessary to protect our
+property or rights, or those of third parties or the public at large. [CLS] [SEP]
+
+in complying with court orders and similar legal processes, read the docs
+strives for transparency. [CLS] [SEP] when permitted, we will make a reasonable effort to
+notify users of any disclosure of their information, unless we are prohibited
+by law or court order from doing so, or in rare, exigent circumstances. [CLS] [SEP]
+
+## how you can access and control the information we collectâ¶
+
+if youâre already a read the docs user, you may access, update, alter, or
+delete your basic user profile information by [editing your user
+account](https://readthedocs.org/accounts/edit/). [CLS] [SEP]
+
+### data retention and deletionâ¶
+
+read the docs will retain user personal information for as long as your
+account is active or as needed to provide you services. [CLS] [SEP]
+
+we may retain certain user personal information indefinitely, unless you
+delete it or request its deletion. [CLS] [SEP] for example, we donât automatically
+delete inactive user accounts, so unless you choose to delete your account, we
+will retain your account information indefinitely. [CLS] [SEP]
+
+if you would like to delete your user personal information, you may do so in
+your [user account](https://readthedocs.org/accounts/delete/). [CLS] [SEP] we will retain
+and use your information as necessary to comply with our legal obligations,
+resolve disputes, and enforce our agreements, but barring legal requirements,
+we will delete your full profile. [CLS] [SEP]
+
+our web server logs for read the docs community, read the docs for business,
+and documentation sites are deleted after 10 days barring legal obligations. [CLS] [SEP]
+
+## changes to our privacy policyâ¶
+
+we reserve the right to revise this privacy policy at any time. [CLS] [SEP] if we change
+this privacy policy in the future, we will post the revised privacy policy and
+update the âeffective date,â above, to reflect the date of the changes. [CLS] [SEP]
+
+## contacting read the docsâ¶
+
+questions regarding read the docsâ privacy policy or information practices
+should be directed to
+[privacy@readthedocs.org](mailto:privacy%40readthedocs.org). [CLS] [SEP]
+
+[next ](terms-of-service.html "read the docs terms of service") [
+previous](security.html "security")
+
+* * *
+
+(c) copyright 2010-2021, read the docs, inc & contributors. [CLS] [SEP]  revision
+`9d9441d0`. [CLS] [SEP]
+
+built with [sphinx](https://www.sphinx-doc.org/) using a
+[theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [read the
+docs](https://readthedocs.org). [CLS] [SEP]
+
+read the docs v: stable
+
+versions
+
+    [latest](/en/latest/)
+    [stable](/en/stable/)
+    [no-ranking](/en/no-ranking/)
+
+downloads
+
+    [pdf](//docs.readthedocs.io/_/downloads/en/stable/pdf/)
+    [html](//docs.readthedocs.io/_/downloads/en/stable/htmlzip/)
+    [epub](//docs.readthedocs.io/_/downloads/en/stable/epub/)
+
+on read the docs
+
+     [project home](//readthedocs.org/projects/docs/?fromdocs=docs)
+     [builds](//readthedocs.org/builds/docs/?fromdocs=docs)
+

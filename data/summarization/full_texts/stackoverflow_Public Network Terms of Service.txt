@@ -1,0 +1,688 @@
+[ stack overflow ](https://stackoverflow.com)
+
+  1. [CLS] [SEP] [about](/company)
+  2. [CLS] [SEP] products 
+  3. [CLS] [SEP] [for teams](/teams)
+
+  1. [CLS] [SEP] [ stack overflow public questions & answers ](/questions)
+  2. [CLS] [SEP] [ stack overflow for teams where developers & technologists share private knowledge with coworkers ](/teams)
+  3. [CLS] [SEP] [ jobs programming & related technical career opportunities ](/jobs?so_source=productsmenu&so_medium=stackoverflow)
+  4. [CLS] [SEP] [ talent recruit tech talent & build your employer brand ](https://stackoverflow.com/talent)
+  5. [CLS] [SEP] [ advertising reach developers & technologists worldwide ](https://stackoverflow.com/advertising)
+  6. [CLS] [SEP] [about the company](/company)
+
+loading…
+
+  1. [CLS] [SEP]   2. [CLS] [SEP] [log in](https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2flegal%2fterms-of-service%2fpublic) [sign up](https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2fusers%2fstory%2fcurrent)
+  3. [CLS] [SEP] ###  [current community](https://stackoverflow.com)
+
+    * [ stack overflow  ](https://stackoverflow.com)
+
+[help](https://stackoverflow.com/help)
+[chat](https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com)
+
+    * [ meta stack overflow  ](https://meta.stackoverflow.com)
+
+###  your communities
+
+[sign
+up](https://stackoverflow.com/users/signup?ssrc=site_switcher&returnurl=%2fusers%2fstory%2fcurrent)
+or [log
+in](https://stackoverflow.com/users/login?ssrc=site_switcher&returnurl=https%3a%2f%2fstackoverflow.com%2flegal%2fterms-
+of-service%2fpublic) to customize your list. [CLS] [SEP]
+
+### [more stack exchange communities](https://stackexchange.com/sites)
+
+[company blog](https://stackoverflow.blog)
+
+  1. [CLS] [SEP] [ home  ](/)
+  2. [CLS] [SEP]     1. [CLS] [SEP] public
+    2. [CLS] [SEP] [ stack overflow ](/questions)
+    3. [CLS] [SEP] [ tags  ](/tags)
+    4. [CLS] [SEP] [ users  ](/users)
+    5. [CLS] [SEP] find a job
+    6. [CLS] [SEP] [ jobs  ](/jobs?so_medium=stackoverflow&so_source=sitenav)
+    7. [CLS] [SEP] [ companies  ](/jobs/companies?so_medium=stackoverflow&so_source=sitenav)
+  3. [CLS] [SEP]     1. [CLS] [SEP] teams
+
+[ what's this? ](javascript:void\(0\))
+
+    2. [CLS] [SEP] [ create a team  ](https://stackoverflow.com/teams/create "stack overflow for teams is a private, secure spot for your organization's questions and answers.")
+
+**teams**
+
+q&a for work
+
+connect and share knowledge within a single location that is structured and
+easy to search. [CLS] [SEP]
+
+[ learn more ](https://stackoverflow.com/teams)
+
+  * [public network terms of service](/legal/terms-of-service/public)
+  * [stack overflow for teams terms of service](/legal/terms-of-service/teams)
+  * [stack overflow for teams on premise enterprise terms of service](/legal/terms-of-service/on-prem)
+    * [support services & sla for on-premises deployment](/legal/terms-of-service/on-prem/support)
+    * [deployment services for on-premises instances](/legal/terms-of-service/on-prem/deployment)
+  * [stack overflow business terms of service](/legal/terms-of-service/business)
+  * [api terms of use](/legal/api-terms-of-use)
+  * [privacy policy](/legal/privacy-policy)
+    * [public network](/legal/privacy-policy/public-network)
+    * [talent](/legal/privacy-policy/talent)
+    * [teams, basic](/legal/privacy-policy/teams-basic)
+    * [teams, business](/legal/privacy-policy/teams-business)
+    * [teams, enterprise](/legal/privacy-policy/teams-enterprise)
+    * [integrations](/legal/privacy-policy/integrations)
+      * [microsoft teams - teams, basic & business](/legal/privacy-policy/integrations/ms-teams/teams-basic-business)
+      * [microsoft teams - teams, enterprise](/legal/privacy-policy/integrations/ms-teams/teams-enterprise)
+      * [slack - teams, basic & business](/legal/privacy-policy/integrations/slack/teams-basic-business)
+      * [slack - teams, enterprise](/legal/privacy-policy/integrations/slack/teams-enterprise)
+      * [jira - teams, business](/legal/privacy-policy/integrations/jira/teams-business)
+      * [jira - teams, enterprise](/legal/privacy-policy/integrations/jira/teams-enterprise)
+  * [general data protection regulation (gdpr)](/legal/gdpr)
+    * [gdpr subprocessors](/legal/gdpr/subprocessors)
+  * [cookie policy](/legal/cookie-policy)
+  * [acceptable use policy](/legal/acceptable-use-policy)
+  * [trademark guidance](/legal/trademark-guidance)
+  * [contact](/legal/contact)
+
+## public network terms of service
+
+  1. [CLS] [SEP] public network terms
+  2. [CLS] [SEP] contracts are binding and legally enforcable - please read!
+  3. [CLS] [SEP] age eligibility
+  4. [CLS] [SEP] access to the public network
+  5. [CLS] [SEP] user obligations
+  6. [CLS] [SEP] content permissions, restrictions, and creative commons licensing
+  7. [CLS] [SEP] disclaimer of warranties
+  8. [CLS] [SEP] indemnification
+  9. [CLS] [SEP] limitation of liability
+  10. [CLS] [SEP] general provisions
+
+by using our products, you agree to our terms of service. [CLS] [SEP]
+
+the stack overflow network is a set of related internet sites and other
+applications for questions and answers (also referred to herein as the
+“network”), owned and operated by stack exchange, inc. [CLS] [SEP] (“stack overflow”, “we”
+or “us”), a delaware corporation. [CLS] [SEP] stack overflow welcomes you to the network,
+the largest community of developers in the world, and invites you to
+participate in the community by sharing knowledge with your peers and
+colleagues. [CLS] [SEP] like all communities, we ask that you participate in a manner that
+respects your fellow community members. [CLS] [SEP] to that end, we provide you with these
+terms of service to advise you of the legal obligations you assume when you
+engage with the stack overflow community or otherwise access or use the public
+network or any services provided on the public network (collectively,
+“services”). [CLS] [SEP] these terms govern the use of the public network (the “public
+network terms”). [CLS] [SEP]
+
+to the extent you are accessing or using our other products on behalf of a
+company or team, including without limitation by registering for an account on
+behalf of a company or team, your use of those products (such as stack
+overflow for teams or stack overflow business) is governed by their relevant
+terms and conditions. [CLS] [SEP]
+
+### 1\. [CLS] [SEP] public network terms
+
+please read these public network terms carefully before accessing or using the
+public network. [CLS] [SEP] these public network terms constitute an agreement between
+stack overflow and you and governs your permitted use of the public network
+only, including any services or products that are part of the public network. [CLS] [SEP]
+by accessing or using the services or the public network in any manner,
+including without limitation by visiting or browsing the public network or
+registering for an account on the network, you affirm that you have read,
+understand, and agree to be bound by these public network terms, as well as
+the [acceptable use policy](/legal/content-policy) and [privacy
+policy](/legal/privacy-policy). [CLS] [SEP] stack overflow reserves the right, at its
+discretion, to modify these public network terms at any time by posting
+revised public network terms on the public network and by providing notice via
+e-mail, where possible, or on the public network. [CLS] [SEP] you shall be responsible for
+reviewing and becoming familiar with any such modifications. [CLS] [SEP] your access to or
+use of the services or public network following such modification constitutes
+your acceptance of the terms and conditions of these public network terms as
+modified. [CLS] [SEP] to reiterate, and for clarity, these public network terms apply to
+all who access or use the services or public network, including without
+limitation users who contribute content, information, and other materials or
+services, registered or otherwise. [CLS] [SEP]
+
+please be aware that by using the public network, except for certain types of
+disputes described in the section titled “mandatory arbitration” below, you
+agree that all disputes between you and us will be resolved by binding,
+individual arbitration and you waive your right to participate in a class
+action lawsuit or class-wide arbitration. [CLS] [SEP]
+
+### 2\. [CLS] [SEP] contracts are binding and legally enforceable -- please read!
+
+as stated above, these public network terms constitute an agreement between
+stack overflow and you and governs your use of the public network. [CLS] [SEP] these
+public network terms do not govern the use of our talent, enterprise and other
+stack overflow products and services that are not part of the public network. [CLS] [SEP]
+in the event of any conflict between the terms and conditions of these public
+network terms and any such service or licensing agreements, the terms and
+conditions of the public network terms shall prevail. [CLS] [SEP]
+
+### 3\. [CLS] [SEP] age eligibility
+
+you must be at least 13 years old to access or use the network or services,
+including without limitation to complete a stack overflow account
+registration. [CLS] [SEP] by accessing or using the services or the network in any manner,
+you represent and warrant that you are at least 13 years of age. [CLS] [SEP] if you are
+under 13 years old, you may not, under any circumstances or for any reason,
+access or use the services or network in any manner, and may not provide any
+personal information to or on the services or network (including, for example,
+a name, address, telephone number or email address). [CLS] [SEP]
+
+if you are located within the european union, you must be at least 16 years
+old to access or use the network or services, including without limitation to
+complete a stack overflow account registration. [CLS] [SEP] by accessing or using the
+services or the network in any manner, you represent and warrant that you are
+at least 16 years of age. [CLS] [SEP] if you are under 16 years old, you may not, under
+any circumstances or for any reason, access or use the services or network in
+any manner, and may not provide any personal information to or on the services
+or network (including, for example, a name, address, telephone number or email
+address). [CLS] [SEP]
+
+### 4\. [CLS] [SEP] access to the public network
+
+any user of the public network is welcome to participate in community
+discussions, to answer questions, and to share their hard earned knowledge
+with public network community participants, provided that they comply with the
+obligations set forth in these public network terms, and to the extent that
+use of the public network does not conflict with the applicable laws, rules
+and regulations of the user’s jurisdiction. [CLS] [SEP] stack overflow reserves the right
+to refuse, suspend or terminate your access to the public network if it
+determines, in its sole discretion, that you have in any way violated these
+public network terms or are otherwise ineligible to access or use the network
+or services. [CLS] [SEP] if your actions are determined by us to violate these public
+network terms, stack overflow may, in its sole discretion, try to remediate
+that violation by working with you individually, but is under no obligation to
+do so, and if any such remediation efforts are unsuccessful (in stack
+overflow’s sole discretion), then stack overflow may revoke your rights to the
+network. [CLS] [SEP] you are solely responsible for ensuring that these public network
+terms are in compliance with all laws, rules and regulations applicable to
+you, and the right to access the network or any services is revoked where
+these public network terms or use of the network or any services is prohibited
+or conflicts with any applicable law, rule or regulation. [CLS] [SEP]
+
+stack overflow will use reasonable efforts to make the public network
+available 24/7/365, but from time-to-time we will have scheduled outages for
+maintenance purposes and other upkeep. [CLS] [SEP] where feasible, we may, in our sole
+discretion, make efforts to inform you about any outages and report on the
+nature and reason for any outages that may occur in an open and transparent
+manner, though we are under no obligation to do so, and in any case will not
+be liable for any downtime. [CLS] [SEP]
+
+### 5\. [CLS] [SEP] user obligations
+
+  * to access some of the public network features you will need to register for an account as an individual and consent to these public network terms. [CLS] [SEP] if you do not consent to these public network terms, stack overflow reserves the right to refuse, suspend or terminate your access to the public network. [CLS] [SEP]
+  * you are solely responsible for ensuring that your account registration is complete and remains up to date. [CLS] [SEP] you have the right to discontinue use of, or terminate, your account whenever you like, and subject to our [privacy policy](/legal/privacy-policy), control the use and sharing of your account information. [CLS] [SEP] please note that any content or information you share publicly is governed by the terms described below in the section titled “content permissions, restrictions, and creative commons licensing,” and you should be aware that once you place content in the public sphere, you willingly give up some rights and control over such content. [CLS] [SEP]
+  * stack overflow strongly encourages you to review our [privacy policy](/legal/privacy-policy), which explains how we will handle, process, and use your personal data, and with whom, and how we will share this data. [CLS] [SEP]
+  * stack overflow is a community and we expect you to treat each member of the stack overflow community with respect. [CLS] [SEP] whether a community member is asking their first question, or is a reputation superstar, we respect you and welcome you, but we also require you to be kind to one another. [CLS] [SEP] to prevent bad actors from creating a negative community experience, we have outlined what we believe to be common sense rules for community participation and reserve the right to pause or terminate your account if you engage in disruptive, abusive, or nefarious behavior outside of stack overflow’s [acceptable use policy](/legal/content-policy), which is hereby incorporated into these public network terms. [CLS] [SEP]
+  * you are solely responsible for obtaining and maintaining any equipment or ancillary services needed to connect to or access the network or otherwise use the services, including without limitation modems, hardware, software, and long distance or local telephone service. [CLS] [SEP] you are solely responsible for ensuring that such equipment or ancillary services are compatible with the services and network. [CLS] [SEP]
+  * some premium or additional features of stack overflow (including without limitation stack overflow for teams) may require a payment obligation for access and use. [CLS] [SEP] you are solely responsible for ensuring that your payment obligations, if any, remain current and not in arrears. [CLS] [SEP] in the event stack overflow charges for features you will be clearly notified of the terms of any payment obligations and provided the opportunity to refuse such obligations before you incur any charges. [CLS] [SEP] please note, however, that your refusal to accept payment obligations may result in your inability to access or use certain premium or additional features of stack overflow. [CLS] [SEP]
+
+### 6\. [CLS] [SEP] content permissions, restrictions, and creative commons licensing
+
+#### stack overflow content
+
+all materials displayed or performed on the public network, including but not
+limited to text, graphics, logos, tools, photographs, images, illustrations,
+software or source code, audio and video, and animations (collectively
+“network content”) (other than network content posted by individual
+“subscriber content”) are the property of stack overflow and/or third parties
+and are protected by united states and international copyright laws (“stack
+overflow content”). [CLS] [SEP]
+
+the stack overflow api shall be used solely pursuant to the terms of the [api
+terms of use](/legal/api-terms-of-use). [CLS] [SEP]
+
+all trademarks, service marks, and trade names are proprietary to stack
+overflow and/or third parties and use of the network means you agree to abide
+by all copyright notices, information, and restrictions contained in any
+network content accessed through the services. [CLS] [SEP]
+
+the network is protected by copyright as a collective work and/or compilation,
+pursuant to u.s. [CLS] [SEP] copyright laws, international covenants, and other copyright
+laws. [CLS] [SEP] other than as expressly set forth in these public network terms, you may
+not copy, modify, publish, transmit, upload, participate in the transfer or
+sale of, reproduce (except as provided in this agreement), create derivative
+works based on, distribute, perform, display, or in any way exploit any of the
+network content, software, materials, or services in whole or in part. [CLS] [SEP] you may
+download or copy the public network content, and other items displayed on the
+public network for download or personal use provided that you maintain all
+copyright and other notices contained in such public content. [CLS] [SEP]
+
+from time to time, stack overflow may make available compilations of all the
+subscriber content on the public network (the “creative commons data dump”). [CLS] [SEP]
+the creative commons data dump is licensed under the cc by-sa license. [CLS] [SEP] by
+downloading the creative commons data dump, you agree to be bound by the terms
+of that license. [CLS] [SEP]
+
+any other downloading, copying, or storing of any public network content
+(other than subscriber content or content made available via the stack
+overflow api) for other than personal, noncommercial use is expressly
+prohibited without prior written permission from stack overflow or from the
+copyright holder identified in the copyright notice per the creative commons
+license. [CLS] [SEP] in the event you download software from the public network (other
+than subscriber content or content made available by the stack overflow api)
+the software including any files, images incorporated in or generated by the
+software, the data accompanying the software (collectively, the “software”) is
+licensed to you by stack overflow or third party licensors for your personal,
+noncommercial use, and no title to the software shall transfer to you. [CLS] [SEP] stack
+overflow or third party licensors retain full and complete title to the
+software and all intellectual property rights therein. [CLS] [SEP]
+
+#### subscriber content
+
+you agree that any and all content, including without limitation any and all
+text, graphics, logos, tools, photographs, images, illustrations, software or
+source code, audio and video, animations, and product feedback (collectively,
+“content”) that you provide to the public network (collectively, “subscriber
+content”), is perpetually and irrevocably licensed to stack overflow on a
+worldwide, royalty-free, non-exclusive basis pursuant to creative commons
+licensing terms ([cc by-sa 4.0](https://creativecommons.org/licenses/by-
+sa/4.0/)), and you grant stack overflow the perpetual and irrevocable right
+and license to access, use, process, copy, distribute, export, display and to
+commercially exploit such subscriber content, even if such subscriber content
+has been contributed and subsequently removed by you as reasonably necessary
+to, for example (without limitation):
+
+  * provide, maintain, and update the public network
+  * process lawful requests from law enforcement agencies and government agencies
+  * prevent and address security incidents and data security features, support features, and to provide technical assistance as it may be required
+  * aggregate data to provide product optimization
+
+this means that you cannot revoke permission for stack overflow to publish,
+distribute, store and use such content and to allow others to have derivative
+rights to publish, distribute, store and use such content. [CLS] [SEP] the cc by-sa 4.0
+license terms are explained in further detail by [creative
+commons](https://creativecommons.org/licenses/by-sa/4.0/), and the license
+terms applicable to content are [explained in further detail
+here](https://meta.stackexchange.com/questions/347758/creative-commons-
+licensing-ui-and-data-updates). [CLS] [SEP] you should be aware that all public content
+you contribute is available for public copy and redistribution, and all such
+public content must have appropriate attribution. [CLS] [SEP]
+
+as stated above, by agreeing to these public network terms you also agree to
+be bound by the terms and conditions of the acceptable use policy incorporated
+herein, and hereby acknowledge and agree that any and all public content you
+provide to the public network is governed by the acceptable use policy. [CLS] [SEP]
+
+### 7\. [CLS] [SEP] disclaimer of warranties
+
+to the maximum extent allowed by law, stack overflow disclaims all warranties
+and representations of any kind, including without limitation the implied
+warranties of merchantability, fitness for a particular purpose, and
+noninfringement, whether express, implied, or statutory. [CLS] [SEP] stack exchange
+provides no guarantees that the services or network will function without
+interruption or errors and provides the network, services, and any related
+content or products subject to these public network terms on an “as is” basis. [CLS] [SEP]
+
+### 8\. [CLS] [SEP] indemnification
+
+you will indemnify and hold stack overflow, its directors, officers,
+employees, agents, consultant, contractors, partners, vendors and service
+providers (including, without limitation, hosting and telecommunications
+providers) harmless, including costs and attorneys’ fees, from any claim or
+demand made by any third party due to or arising out of your access to the
+public network, use of stack overflow products or services made available on
+the public network, your violation of this agreement, or your infringement or
+any third party using your account, of any intellectual property right. [CLS] [SEP]
+
+### 9\. [CLS] [SEP] limitation of liability
+
+to the maximum extent permitted by law, stack overflow and its affiliates
+shall not be liable under contract, tort, strict liability, negligence or any
+other legal or equitable theory with respect to the network or services (i)
+for any indirect, incidental, special, consequential or punitive damages, or
+any loss of data, opportunities, reputation, profits or revenues, or (ii) for
+any direct damages in excess of one hundred dollars ($100) in the aggregate,
+even if stack overflow or its affiliates have been told of the possibility of
+such damage, and even if these remedies fail their essential purpose. [CLS] [SEP] nothing
+in this limitation of liability shall prevent stack overflow’s right to seek
+and obtain equitable relief. [CLS] [SEP] notwithstanding such right of equitable relief,
+to the extent that applicable law does not permit such limitation of liability
+or exclusion of liability, such limitation will apply to the maximum extent
+permitted by law. [CLS] [SEP]
+
+### 10\. [CLS] [SEP] general provisions
+
+#### a. [CLS] [SEP] assignment and jurisdiction
+
+stack overflow reserves the right to assign our rights and obligations under
+these public network terms (in whole or in part) without your consent to a
+corporate affiliate, or in connection with a merger, acquisition, corporate
+restructure or reorganization, or due to the sale of all or substantially all
+of our assets. [CLS] [SEP]
+
+these public network terms will be governed by and construed in accordance
+with the applicable laws of the state of new york, without giving effect to
+the principles of that state regarding conflicts of laws. [CLS] [SEP] both you and stack
+overflow hereby irrevocably agree to the sole and exclusive personal
+jurisdiction of the courts of the state of new york with respect to any
+action, suit, or proceeding brought by it or against it by the other party in
+connection with the network or services. [CLS] [SEP] notwithstanding the foregoing, these
+public network terms shall not prevent either party from seeking injunctive
+relief with respect to a violation of the confidentiality provisions and
+indemnification provisions contained in these public network terms. [CLS] [SEP] the
+uniform commercial code shall not apply to the provisions of these public
+network terms to the fullest extent permitted by law. [CLS] [SEP] no shrinkwrap or click-
+wrap terms contained in any purchase order or any company or team form shall
+apply to or supersede these public network terms. [CLS] [SEP] in the event of any conflict
+between the terms and conditions of these public network terms and any such
+shrinkwrap or click-wrap terms, the terms and conditions of the former shall
+prevail. [CLS] [SEP]
+
+#### b. [CLS] [SEP] mandatory arbitration
+
+you agree that with respect to all disputes between you and stack overflow or
+its affiliates or its officers, directors, or employees (whether or not such
+dispute involves a third party) with regard to your relationship with us,
+including without limitation disputes relating to these public network terms,
+your use of the network or services, and/or rights of privacy and/or
+publicity, you and stack overflow shall first consult with each other to
+attempt to resolve such dispute in a manner satisfactory to both parties, and
+that if a resolution is not reached within ninety (90) days, then the dispute
+shall be referred to and resolved by binding arbitration under jams, inc.’s
+rules for arbitration of consumer-related disputes and you and we hereby
+expressly waive trial by jury; provided, however, that to the extent that you
+have in any manner violated or threatened to violate our intellectual property
+rights, we may seek injunctive or other appropriate relief in any state or
+federal court in the state of new york. [CLS] [SEP] discovery and rights to appeal in
+arbitration are generally more limited than in a lawsuit, and other rights
+that you and we would have in court may not be available in arbitration. [CLS] [SEP] as an
+alternative, you may bring your claim in your local “small claims” court, if
+permitted by that small claims court’s rules and if within such court’s
+jurisdiction, unless such action is transferred, removed or appealed to a
+different court. [CLS] [SEP] you may bring claims only on your own behalf. [CLS] [SEP] neither you nor
+we will participate in a class action or class-wide arbitration for any claims
+covered by this agreement to arbitrate. [CLS] [SEP] you are giving up your right to
+participate as a class representative or class member on any class claim you
+may have against us including any right to class arbitration or any
+consolidation of individual arbitrations. [CLS] [SEP] you also agree not to participate in
+claims brought in a private or representative capacity, or consolidated claims
+involving another person’s account, if we are a party to the proceeding. [CLS] [SEP] this
+dispute resolution provision will be governed by the federal arbitration act
+and not by any state law concerning arbitration. [CLS] [SEP] in the event jams, inc. [CLS] [SEP] is
+unwilling or unable to set a hearing date within one hundred and sixty (160)
+days of filing the case, then either we or you can elect to have the
+arbitration administered instead by the american arbitration association. [CLS] [SEP]
+judgment on the award rendered by the arbitrator may be entered in any court
+having competent jurisdiction. [CLS] [SEP] any provision of applicable law
+notwithstanding, the arbitrator will not have authority to award damages,
+remedies or awards that conflict with these public network terms. [CLS] [SEP] you agree
+that regardless of any statute or law to the contrary, any claim or cause of
+action arising out of, related to or connected with the use of the public
+network or these public network terms must be filed within one (1) year after
+such claim of action arose or be forever banned. [CLS] [SEP]
+
+you agree that, notwithstanding anything in the foregoing, any arbitration
+proceeding between you and us will be conducted in new york, ny, usa, that the
+language of the arbitration shall be in english, and that all arbitration
+proceedings shall be considered confidential in nature. [CLS] [SEP]
+
+if you don’t want to be bound by the arbitration and class-action waiver
+provisions in this section, you must notify us in writing within thirty (30)
+days of the date that you first accept these public network terms (unless a
+longer period is required by applicable law), and then you must litigate any
+disputes against us in accordance with the “assignment and jurisdiction”
+section below. [CLS] [SEP] your written notification must be mailed to us at stack
+overflow, attn: legal department, 110 william street, floor 28, new york, ny
+10038 or by email notification at team (at) stackoverflow.com. [CLS] [SEP] if you do not
+notify us in accordance with this paragraph, you agree to be bound by the
+terms of this section, including, without limitation, the arbitration and
+class-action waiver provisions, and also including such provisions in any
+modifications we make to these public network terms after the date of your
+first acceptance. [CLS] [SEP] such notification must include: (i) your name; (ii) your
+email address and mailing address; and (iii) a statement that you do not wish
+to resolve disputes with us through arbitration or waive your ability to
+participate in a class action. [CLS] [SEP] if we make any changes to this section (other
+than a change to the address at which we will receive notices or rejections of
+future changes to this section), you may reject any such change by sending us
+written notice, within thirty (30) days of the change, to the address set out
+in the “notices” section. [CLS] [SEP] it is not necessary to send us a rejection of a
+future change to this section if you had properly opted out within the first
+thirty (30) days after you first accepted the provisions in this section. [CLS] [SEP] if
+you have not properly opted out, then by rejecting a future change, you are
+agreeing that you will arbitrate any dispute between us in accordance with the
+language of this section, as modified by any changes you did not reject. [CLS] [SEP] a
+notification sent pursuant to this paragraph solely affects these public
+network terms; if you previously entered into other arbitration or dispute
+resolution agreements with us or enter into other such agreements in the
+future, your notification that you are opting out of the provisions in this
+section shall not affect the other arbitration agreements between you and us. [CLS] [SEP]
+
+#### c. [CLS] [SEP] survival
+
+the sections entitled “public network terms”, “contracts are binding and
+legally enforceable - please read!”, “user obligations”, “content permissions,
+restrictions, and creative commons licensing”, “disclaimer of warranties”,
+“indemnification”, “limitation of liability”, “assignment and jurisdiction”,
+“mandatory arbitration”, “survival”, “merger and severability”, “notices”, “no
+waiver”, and “headings” shall survive any termination or expiration of these
+public network terms. [CLS] [SEP]
+
+#### d. [CLS] [SEP] modifications
+
+stack overflow reserves the right, in its sole discretion, to modify or
+replace these public network terms, as our business evolves over time and to
+better provide services and products to the stack overflow community, or to
+change, suspend, or discontinue the public network and/or any services or
+products at any time by posting a notice on the public network or by sending
+you notice via e-mail or by another appropriate means of electronic
+communication. [CLS] [SEP]
+
+#### e. [CLS] [SEP] merger and severability
+
+the parties to these public network terms are independent contractors and
+these public network terms shall not be construed to constitute any agency,
+partnership, joint venture, or employment relationship between you and stack
+overflow. [CLS] [SEP] these public network terms represent the entire agreement between
+you and stack overflow and supersede all prior or contemporaneous oral or
+written communications, proposals, and representations with respect to the
+public network or services or products contemplated hereunder. [CLS] [SEP] if any
+provision of these public network terms is held to be invalid, void,
+unenforceable, or contrary to public policy, that provision will be limited or
+eliminated to the minimum extent necessary so that the remaining provisions of
+these public network terms shall remain and continue in full force and effect. [CLS] [SEP]
+
+#### f. [CLS] [SEP] notices
+
+unless otherwise specified in these public network terms, all notices under
+these public network terms will be in writing and will be deemed to have been
+duly given when received, if personally delivered or sent by certified or
+registered mail, return receipt requested; when receipt is electronically
+confirmed, if transmitted by facsimile or e-mail; or the day after it is sent,
+if sent for next day delivery by recognized overnight delivery service. [CLS] [SEP]
+electronic notices should be sent to legal@stackoverflow.com. [CLS] [SEP]
+
+#### g. [CLS] [SEP] no waiver
+
+our failure to enforce any part of these public network terms shall not
+constitute a waiver of our right to later enforce that or any other part of
+these public network terms. [CLS] [SEP] waiver of compliance in any particular instance
+does not mean that we will waive compliance in the future. [CLS] [SEP] in order for any
+waiver of compliance with these public network terms to be binding, we must
+provide you with written notice of such waiver through one of our authorized
+representatives. [CLS] [SEP]
+
+#### h. [CLS] [SEP] headings
+
+the section and paragraph headings in these public network terms are for
+convenience only and shall not affect their interpretation. [CLS] [SEP]
+
+last update: may 13, 2020
+
+[](https://stackoverflow.com)
+
+##### [stack overflow](https://stackoverflow.com)
+
+  * [questions](/questions)
+  * [jobs](https://stackoverflow.com/jobs)
+  * [developer jobs directory](https://stackoverflow.com/jobs/directory/developer-jobs)
+  * [salary calculator](https://stackoverflow.com/jobs/salary)
+  * [help](/help)
+  * mobile
+
+##### [products](https://stackoverflowbusiness.com)
+
+  * [teams](https://stackoverflow.com/teams)
+  * [talent](https://stackoverflow.com/talent)
+  * [advertising](https://stackoverflow.com/advertising)
+  * [enterprise](https://stackoverflow.com/enterprise)
+
+##### [company](https://stackoverflow.com/company)
+
+  * [about](https://stackoverflow.com/company)
+  * [press](https://stackoverflow.com/company/press)
+  * [work here](https://stackoverflow.com/company/work-here)
+  * [legal](https://stackoverflow.com/legal)
+  * [privacy policy](https://stackoverflow.com/legal/privacy-policy)
+  * [terms of service](https://stackoverflow.com/legal/terms-of-service)
+  * [contact us](https://stackoverflow.com/company/contact)
+
+##### [stack exchange  
+network](https://stackexchange.com)
+
+  * technology
+  * life / arts
+  * culture / recreation
+  * science
+  * other
+
+  * [stack overflow](https://stackoverflow.com "professional and enthusiast programmers")
+  * [server fault](https://serverfault.com "system and network administrators")
+  * [super user](https://superuser.com "computer enthusiasts and power users")
+  * [web applications](https://webapps.stackexchange.com "power users of web applications")
+  * [ask ubuntu](https://askubuntu.com "ubuntu users and developers")
+  * [webmasters](https://webmasters.stackexchange.com "pro webmasters")
+  * [game development](https://gamedev.stackexchange.com "professional and independent game developers")
+
+  * [tex - latex](https://tex.stackexchange.com "users of tex, latex, context, and related typesetting systems")
+  * [software engineering](https://softwareengineering.stackexchange.com "professionals, academics, and students working within the systems development life cycle")
+  * [unix & linux](https://unix.stackexchange.com "users of linux, freebsd and other un*x-like operating systems")
+  * [ask different (apple)](https://apple.stackexchange.com "power users of apple hardware and software")
+  * [wordpress development](https://wordpress.stackexchange.com "wordpress developers and administrators")
+  * [geographic information systems](https://gis.stackexchange.com "cartographers, geographers and gis professionals")
+  * [electrical engineering](https://electronics.stackexchange.com "electronics and electrical engineering professionals, students, and enthusiasts")
+
+  * [android enthusiasts](https://android.stackexchange.com "enthusiasts and power users of the android operating system")
+  * [information security](https://security.stackexchange.com "information security professionals")
+  * [database administrators](https://dba.stackexchange.com "database professionals who wish to improve their database skills and learn from others in the community")
+  * [drupal answers](https://drupal.stackexchange.com "drupal developers and administrators")
+  * [sharepoint](https://sharepoint.stackexchange.com "sharepoint enthusiasts")
+  * [user experience](https://ux.stackexchange.com "user experience researchers and experts")
+  * [mathematica](https://mathematica.stackexchange.com "users of wolfram mathematica")
+
+  * [salesforce](https://salesforce.stackexchange.com "salesforce administrators, implementation experts, developers and anybody in-between")
+  * [expressionengine® answers](https://expressionengine.stackexchange.com "administrators, end users, developers and designers for expressionengine® cms")
+  * [stack overflow em portugues](https://pt.stackoverflow.com "programadores profissionais e entusiastas")
+  * [blender](https://blender.stackexchange.com "people who use blender to create 3d graphics, animations, or games")
+  * [network engineering](https://networkengineering.stackexchange.com "network engineers")
+  * [cryptography](https://crypto.stackexchange.com "software developers, mathematicians and others interested in cryptography")
+  * [code review](https://codereview.stackexchange.com "peer programmer code reviews")
+
+  * [magento](https://magento.stackexchange.com "users of the magento e-commerce platform")
+  * [software recommendations](https://softwarerecs.stackexchange.com "people seeking specific software recommendations")
+  * [signal processing](https://dsp.stackexchange.com "practitioners of the art and science of signal, image and video processing")
+  * [emacs](https://emacs.stackexchange.com "those using, extending or developing emacs")
+  * [raspberry pi](https://raspberrypi.stackexchange.com "users and developers of hardware and software for raspberry pi")
+  * [stack overflow на русском](https://ru.stackoverflow.com "программистов")
+  * [code golf](https://codegolf.stackexchange.com "programming puzzle enthusiasts and code golfers")
+
+  * [stack overflow en español](https://es.stackoverflow.com "programadores y profesionales de la informática")
+  * [ethereum](https://ethereum.stackexchange.com "users of ethereum, the decentralized application platform and smart contract enabled blockchain")
+  * [data science](https://datascience.stackexchange.com "data science professionals, machine learning specialists, and those interested in learning more about the field")
+  * [arduino](https://arduino.stackexchange.com "developers of open-source hardware and software that is compatible with arduino")
+  * [bitcoin](https://bitcoin.stackexchange.com "bitcoin crypto-currency enthusiasts")
+  * [software quality assurance & testing](https://sqa.stackexchange.com "software quality control experts, automation engineers, and software testers")
+  * [sound design](https://sound.stackexchange.com "sound engineers, producers, editors, and enthusiasts")
+
+  * [windows phone](https://windowsphone.stackexchange.com "enthusiasts and power users of windows phone os")
+  * [ **more (28)** ](https://stackexchange.com/sites#technology)
+
+  * [photography](https://photo.stackexchange.com "professional, enthusiast and amateur photographers")
+  * [science fiction & fantasy](https://scifi.stackexchange.com "science fiction and fantasy enthusiasts")
+  * [graphic design](https://graphicdesign.stackexchange.com "graphic design professionals, students, and enthusiasts")
+  * [movies & tv](https://movies.stackexchange.com "movie and tv enthusiasts")
+  * [music: practice & theory](https://music.stackexchange.com "musicians, students, and enthusiasts")
+  * [worldbuilding](https://worldbuilding.stackexchange.com "writers/artists using science, geography and culture to construct imaginary worlds and settings")
+  * [video production](https://video.stackexchange.com "engineers, producers, editors, and enthusiasts spanning the fields of video, and media creation")
+
+  * [seasoned advice (cooking)](https://cooking.stackexchange.com "professional and amateur chefs")
+  * [home improvement](https://diy.stackexchange.com "contractors and serious diyers")
+  * [personal finance & money](https://money.stackexchange.com "people who want to be financially literate")
+  * [academia](https://academia.stackexchange.com "academics and those enrolled in higher education")
+  * [law](https://law.stackexchange.com "legal professionals, students, and others with experience or interest in law")
+  * [physical fitness](https://fitness.stackexchange.com "physical fitness professionals, athletes, trainers, and those providing health-related needs")
+  * [gardening & landscaping](https://gardening.stackexchange.com "gardeners and landscapers")
+
+  * [parenting](https://parenting.stackexchange.com "parents, grandparents, nannies and others with a parenting role")
+  * [ **more (10)** ](https://stackexchange.com/sites#lifearts)
+
+  * [english language & usage](https://english.stackexchange.com "linguists, etymologists, and serious english language enthusiasts")
+  * [skeptics](https://skeptics.stackexchange.com "scientific skepticism")
+  * [mi yodeya (judaism)](https://judaism.stackexchange.com "those who base their lives on jewish law and tradition and anyone interested in learning more")
+  * [travel](https://travel.stackexchange.com "road warriors and seasoned travelers")
+  * [christianity](https://christianity.stackexchange.com "committed christians, experts in christianity and those interested in learning more")
+  * [english language learners](https://ell.stackexchange.com "speakers of other languages learning english")
+  * [japanese language](https://japanese.stackexchange.com "students, teachers, and linguists wanting to discuss the finer points of the japanese language")
+
+  * [chinese language](https://chinese.stackexchange.com "students, teachers, and linguists wanting to discuss the finer points of the chinese language")
+  * [french language](https://french.stackexchange.com "students, teachers, and linguists wanting to discuss the finer points of the french language")
+  * [german language](https://german.stackexchange.com "speakers of german wanting to discuss the finer points of the language and translation")
+  * [biblical hermeneutics](https://hermeneutics.stackexchange.com "professors, theologians, and those interested in exegetical analysis of biblical texts")
+  * [history](https://history.stackexchange.com "historians and history buffs")
+  * [spanish language](https://spanish.stackexchange.com "linguists, teachers, students and spanish language enthusiasts in general wanting to discuss the finer points of the language")
+  * [islam](https://islam.stackexchange.com "muslims, experts in islam, and those interested in learning more about islam")
+
+  * [русский язык](https://rus.stackexchange.com "лингвистов и энтузиастов русского языка")
+  * [russian language](https://russian.stackexchange.com "students, teachers, and linguists wanting to discuss the finer points of the russian language")
+  * [arqade (gaming)](https://gaming.stackexchange.com "passionate videogamers on all platforms")
+  * [bicycles](https://bicycles.stackexchange.com "people who build and repair bicycles, people who train cycling, or commute on bicycles")
+  * [role-playing games](https://rpg.stackexchange.com "gamemasters and players of tabletop, paper-and-pencil role-playing games")
+  * [anime & manga](https://anime.stackexchange.com "anime and manga fans")
+  * [puzzling](https://puzzling.stackexchange.com "those who create, solve, and study puzzles")
+
+  * [motor vehicle maintenance & repair](https://mechanics.stackexchange.com "mechanics and diy enthusiast owners of cars, trucks, and motorcycles")
+  * [board & card games](https://boardgames.stackexchange.com "people who like playing board games, designing board games or modifying the rules of existing board games")
+  * [bricks](https://bricks.stackexchange.com "lego® and building block enthusiasts")
+  * [homebrewing](https://homebrew.stackexchange.com "dedicated home brewers and serious enthusiasts")
+  * [martial arts](https://martialarts.stackexchange.com "students and teachers of all martial arts")
+  * [the great outdoors](https://outdoors.stackexchange.com "people who love being outdoors enjoying nature and wilderness, and learning about the required skills and equipment")
+  * [poker](https://poker.stackexchange.com "serious players and enthusiasts of poker")
+
+  * [chess](https://chess.stackexchange.com "serious players and enthusiasts of chess")
+  * [sports](https://sports.stackexchange.com "participants in team and individual sport activities")
+  * [ **more (16)** ](https://stackexchange.com/sites#culturerecreation)
+
+  * [mathoverflow](https://mathoverflow.net "professional mathematicians")
+  * [mathematics](https://math.stackexchange.com "people studying math at any level and professionals in related fields")
+  * [cross validated (stats)](https://stats.stackexchange.com "people interested in statistics, machine learning, data analysis, data mining, and data visualization")
+  * [theoretical computer science](https://cstheory.stackexchange.com "theoretical computer scientists and researchers in related fields")
+  * [physics](https://physics.stackexchange.com "active researchers, academics and students of physics")
+  * [chemistry](https://chemistry.stackexchange.com "scientists, academics, teachers, and students in the field of chemistry")
+  * [biology](https://biology.stackexchange.com "biology researchers, academics, and students")
+
+  * [computer science](https://cs.stackexchange.com "students, researchers and practitioners of computer science")
+  * [philosophy](https://philosophy.stackexchange.com "those interested in the study of the fundamental nature of knowledge, reality, and existence")
+  * [linguistics](https://linguistics.stackexchange.com "professional linguists and others with an interest in linguistic research and theory")
+  * [psychology & neuroscience](https://psychology.stackexchange.com "practitioners, researchers, and students in cognitive science, psychology, neuroscience, and psychiatry")
+  * [computational science](https://scicomp.stackexchange.com "scientists using computers to solve scientific problems")
+  * [ **more (10)** ](https://stackexchange.com/sites#science)
+
+  * [meta stack exchange](https://meta.stackexchange.com "meta-discussion of the stack exchange family of q&a websites")
+  * [stack apps](https://stackapps.com "apps, scripts, and development with the stack exchange api")
+  * [api](https://api.stackexchange.com "programmatic interaction with stack exchange sites")
+  * [data](https://data.stackexchange.com "querying stack exchange data using sql")
+
+  * [blog](https://stackoverflow.blog?blb=1)
+  * [facebook](https://www.facebook.com/officialstackoverflow/)
+  * [twitter](https://twitter.com/stackoverflow)
+  * [linkedin](https://linkedin.com/company/stack-overflow)
+  * [instagram](https://www.instagram.com/thestackoverflow)
+
+site design / logo (c) 2021 stack exchange inc; user contributions licensed
+under [cc by-sa](https://stackoverflow.com/help/licensing). [CLS] [SEP] rev 2021.3.5.38726
+
+stack overflow works best with javascript enabled
+![](https://pixel.quantserve.com/pixel/p-c1rf4kxgluznc.gif)
+

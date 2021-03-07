@@ -1,0 +1,157 @@
+  * toggle navigation
+  * english
+    * [català](https://ca.liberapay.com/about/privacy)
+    * [english](https://en.liberapay.com/about/privacy)
+    * [esperanto](https://eo.liberapay.com/about/privacy)
+    * [español](https://es.liberapay.com/about/privacy)
+    * [français](https://fr.liberapay.com/about/privacy)
+    * [italiano](https://it.liberapay.com/about/privacy)
+    * [melayu](https://ms.liberapay.com/about/privacy)
+    * [nederlands](https://nl.liberapay.com/about/privacy)
+    * [slovenčina](https://sk.liberapay.com/about/privacy)
+    * [türkçe](https://tr.liberapay.com/about/privacy)
+    * [українська](https://uk.liberapay.com/about/privacy)
+    * [deutsch](https://de.liberapay.com/about/privacy)
+    * [русский](https://ru.liberapay.com/about/privacy)
+    * [suomi](https://fi.liberapay.com/about/privacy)
+    * [dansk](https://da.liberapay.com/about/privacy)
+    * [português   (98% translated)](https://pt.liberapay.com/about/privacy)
+    * [polski   (97% translated)](https://pl.liberapay.com/about/privacy)
+    * [日本語   (97% translated)](https://ja.liberapay.com/about/privacy)
+    * [繁體中文   (96% translated)](https://zh.liberapay.com/about/privacy)
+    * [norsk bokmål   (93% translated)](https://nb.liberapay.com/about/privacy)
+    * [svenska   (92% translated)](https://sv.liberapay.com/about/privacy)
+    * [한국어   (77% translated)](https://ko.liberapay.com/about/privacy)
+    * [română   (75% translated)](https://ro.liberapay.com/about/privacy)
+    * [čeština   (72% translated)](https://cs.liberapay.com/about/privacy)
+    * [magyar   (61% translated)](https://hu.liberapay.com/about/privacy)
+    * [ελληνικά   (58% translated)](https://el.liberapay.com/about/privacy)
+    * [indonesia   (55% translated)](https://id.liberapay.com/about/privacy)
+    *     * [ help us translate liberapay](https://hosted.weblate.org/engage/liberapay/?utm_source=liberapay-navbar)
+  * log in or create account
+
+  * [ homepage ](/)
+  * [ homepage](/)
+  * [ explore ](/explore)
+    * [ overview](/explore/)
+    * [ teams](/explore/teams)
+    * [ organizations](/explore/organizations)
+    * [ individuals](/explore/individuals)
+    * [ unclaimed donations](/explore/pledges)
+    * [ repositories](/explore/repositories)
+    * [ social networks](/explore/elsewhere)
+    * [ communities](/explore/communities)
+
+  * [ search ](/search)
+
+go
+
+  * [ about ](/about)
+    * [ introduction](/about/)
+    * [ faq](/about/faq)
+    * [ global](/about/global)
+    * [ payment processors](/about/payment-processors)
+    * [ teams](/about/teams)
+    * [ stats](/about/stats)
+    * [ legal](/about/legal)
+    * [ privacy](/about/privacy)
+    * [ follow us](/about/feeds)
+    * [ contact](/about/contact)
+    * [ security](/about/security)
+    * [ logos](/about/logos)
+
+privacy
+
+  * [ introduction](/about/)
+  * [ faq](/about/faq)
+  * [ global](/about/global)
+  * [ payment processors](/about/payment-processors)
+  * [ teams](/about/teams)
+  * [ stats](/about/stats)
+  * [ legal](/about/legal)
+  * [ privacy](/about/privacy)
+  * [ follow us](/about/feeds)
+  * [ contact](/about/contact)
+  * [ security](/about/security)
+  * [ logos](/about/logos)
+
+we do our best to protect everyone's privacy: we do not attempt to track
+people who visit our website, we strive to collect only the personal
+information we actually need, and we don't sell it to anyone. [CLS] [SEP]
+
+### cookies
+
+the liberapay.com website only sets technical cookies which are required to
+authenticate the user or to perform a specific operation. [CLS] [SEP] these cookies are
+restricted to same-site requests, so we don't know who visits websites that
+contain liberapay widgets. [CLS] [SEP]
+
+visitors of the liberapay.com website can also receive cookies sent by
+cloudflare. [CLS] [SEP] please read [“understanding the cloudflare
+cookies”](https://support.cloudflare.com/hc/en-us/articles/200170156) if you
+want to learn more about them. [CLS] [SEP]
+
+on some payment pages, extra cookies may be set by the payment processor. [CLS] [SEP]
+please read these documents if you want more information: [stripe's cookie
+policy](https://stripe.com/cookies-policy/legal) and [paypal's cookie
+policy](https://www.paypal.com/webapps/mpp/ua/cookie-full). [CLS] [SEP]
+
+### social networks
+
+liberapay currently has integrations with github, twitter, mastodon, google,
+gitlab, youtube, facebook, twitch, openstreetmap, bitbucket, linuxfr.org, and
+pleroma. [CLS] [SEP] when an account from one of those platforms is connected to a
+liberapay profile, we retrieve and store some data from that platform, for
+example the unique identifier of the linked account. [CLS] [SEP] we only keep public
+information about the linked account, no private data. [CLS] [SEP]
+
+the primary purpose of these integrations is to confirm that a liberapay
+account hasn't been created by an impostor attempting to profit from someone's
+else work. [CLS] [SEP]
+
+the second purpose is to help patrons find the liberapay accounts of the
+creators they follow on other platforms. [CLS] [SEP]
+
+### payment processors
+
+the intermediaries involved in payment processing collect information for
+anti-fraud purposes, for example the name and ip address of the payer. [CLS] [SEP] please
+read these documents if you want more information: [stripe's privacy
+policy](https://stripe.com/privacy) and [paypal's privacy
+policy](https://www.paypal.com/webapps/mpp/ua/privacy-full). [CLS] [SEP]
+
+### personal information leaks
+
+liberapay does not tell creators who their patrons are. [CLS] [SEP] however, paypal allows
+the recipient of a payment to see the name and email address of the payer, so
+donors who don't want to reveal themselves should not choose paypal as the
+payment method. [CLS] [SEP]
+
+similarly, paypal allows a donor to see the name and email address of the
+recipient, and stripe may expose the recipient's phone number, so creators who
+do not want to reveal their identities should not use these payment
+processors, unless they have carefully configured their accounts to only leak
+nonsensitive information (a business name instead of the creator's name, a
+dedicated email address and phone number instead of the creator's personal
+contact details). [CLS] [SEP]
+
+### encryption
+
+all network connections are encrypted, except for some communications between
+machines located in the same datacenter. [CLS] [SEP]
+
+as a precaution against identity theft in case of data leak, the identity
+information of liberapay account owners is stored encrypted in our database. [CLS] [SEP]
+
+  * [about](/about/)
+  * [contact us](/about/contact)
+  * [faq](/about/faq)
+  * [legal](/about/legal)
+
+  * [ medium ](https://medium.com/liberapay-blog)
+  * [ mastodon ](https://mastodon.xyz/@liberapay)
+  * [ diaspora* ](https://framasphere.org/u/liberapay)
+  * [ github ](https://github.com/liberapay/liberapay.com)
+  * [ twitter ](https://twitter.com/liberapay)
+  * [ facebook ](https://www.facebook.com/liberapay-472128142945598/)
+

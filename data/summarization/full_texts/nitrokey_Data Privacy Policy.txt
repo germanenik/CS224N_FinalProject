@@ -1,0 +1,806 @@
+  * [en](/data-privacy-policy "data privacy policy")
+  * [de](/de/datenschutzerklaerung "datenschutz")
+  * fr
+  * ru
+
+[](https://twitter.com/nitrokey)[](https://social.nitrokey.com/@nitrokey)[](https://github.com/nitrokey)[](https://www.facebook.com/nitrokey)[](/newsletter)[](/rss.xml)[](https://www.youtube.com/nitrokey)[](https://www.linkedin.com/company/nitrokey)
+
+[ ![nitrokey | secure your digital
+life](https://www.nitrokey.com/sites/all/themes/nitrokey/logo.png) ](/
+"nitrokey | secure your digital life")
+
+  * company
+    * [about us](/about)
+    * [contact](/contact)
+    * [career](/career)
+    * [press](/press)
+    * [community program](/community-program)
+    * [affiliate program](/affiliate-program)
+  * [news](/news)
+  * products
+    * [nitrokeys](/#comparison)
+    * [nitropad](https://shop.nitrokey.com/shop)
+    * [nethsm](/products/nethsm)
+    * [nextbox](https://www.kickstarter.com/projects/nextbox/nextbox-your-own-private-cloud-for-home-and-office/)
+    * [nitrochat](/products/nitrochat)
+    * [nitrokey business subscription](/products/business-subscription)
+    * [nitrokey business fulfillment](/products/business-fulfillment)
+    * [nitroshred](https://shop.nitrokey.com/shop/product/nitroshred-data-media-destruction-on-demand-106)
+  * solutions
+    * [success stories](/solutions/success-stories)
+    * [passwordless login and two-factor authentication](/solutions/passwordless)
+    * [secure administration of servers and iot with ssh](/solutions/ssh)
+    * [phishing protection](/solutions/phishing)
+    * [crypto currency exchanges and bitcoin startups](/solutions/security-for-crypto-currency-exchanges-and-bitcoin-startups)
+  * [support](https://support.nitrokey.com/)
+    * [installation](/documentation/installation)
+    * [applications](/documentation/applications)
+    * [faq](/documentation/frequently-asked-questions-faq)
+    * [forum](https://support.nitrokey.com/c/nitrokey-support)
+    * [download](/download)
+  * [shop](https://shop.nitrokey.com/shop)
+
+# data privacy policy
+
+personal data (usually referred to just as "data" below) will only be
+processed by us to the extent necessary and for the purpose of providing a
+functional and user-friendly website, including its contents, and the services
+offered there. [CLS] [SEP]
+
+per art. [CLS] [SEP] 4 no. [CLS] [SEP] 1 of regulation (eu) 2016/679, i.e. [CLS] [SEP] the general data protection
+regulation (hereinafter referred to as the "gdpr"), "processing" refers to any
+operation or set of operations such as collection, recording, organization,
+structuring, storage, adaptation, alteration, retrieval, consultation, use,
+disclosure by transmission, dissemination, or otherwise making available,
+alignment, or combination, restriction, erasure, or destruction performed on
+personal data, whether by automated means or not. [CLS] [SEP]
+
+the following privacy policy is intended to inform you in particular about the
+type, scope, purpose, duration, and legal basis for the processing of such
+data either under our own control or in conjunction with others. [CLS] [SEP] we also
+inform you below about the third-party components we use to optimize our
+website and improve the user experience which may result in said third parties
+also processing data they collect and control. [CLS] [SEP]
+
+our privacy policy is structured as follows:
+
+i. [CLS] [SEP] information about us as controllers of your data  
+ii. [CLS] [SEP] the rights of users and data subjects  
+iii. [CLS] [SEP] information about the data processing
+
+### i. [CLS] [SEP] information about us as controllers of your data
+
+the party responsible for this website (the "controller") for purposes of data
+protection law is:
+
+**nitrokey gmbh  
+rheinstr. [CLS] [SEP] 10 c  
+14513 teltow  
+germany**
+
+**phone: +493012053434  
+email:  _email address protected by javascript. [CLS] [SEP]  
+please enable javascript to contact us._ **
+
+the controller's data protection officer is:
+
+**jan suhr**
+
+### ii. [CLS] [SEP] the rights of users and data subjects
+
+with regard to the data processing to be described in more detail below, users
+and data subjects have the right
+
+  * to confirmation of whether data concerning them is being processed, information about the data being processed, further information about the nature of the data processing, and copies of the data (cf. [CLS] [SEP] also art. [CLS] [SEP] 15 gdpr);
+  * to correct or complete incorrect or incomplete data (cf. [CLS] [SEP] also art. [CLS] [SEP] 16 gdpr);
+  * to the immediate deletion of data concerning them (cf. [CLS] [SEP] also art. [CLS] [SEP] 17 dsgvo), or, alternatively, if further processing is necessary as stipulated in art. [CLS] [SEP] 17 para. [CLS] [SEP] 3 gdpr, to restrict said processing per art. [CLS] [SEP] 18 gdpr;
+  * to receive copies of the data concerning them and/or provided by them and to have the same transmitted to other providers/controllers (cf. [CLS] [SEP] also art. [CLS] [SEP] 20 gdpr);
+  * to file complaints with the supervisory authority if they believe that data concerning them is being processed by the controller in breach of data protection provisions (see also art. [CLS] [SEP] 77 gdpr). [CLS] [SEP]
+
+in addition, the controller is obliged to inform all recipients to whom it
+discloses data of any such corrections, deletions, or restrictions placed on
+processing the same per art. [CLS] [SEP] 16, 17 para. [CLS] [SEP] 1, 18 gdpr. [CLS] [SEP] however, this obligation
+does not apply if such notification is impossible or involves a
+disproportionate effort. [CLS] [SEP] nevertheless, users have a right to information about
+these recipients. [CLS] [SEP]
+
+**likewise, under art. [CLS] [SEP] 21 gdpr, users and data subjects have the right to
+object to the controller's future processing of their data pursuant to art. [CLS] [SEP] 6
+para. [CLS] [SEP] 1 lit. [CLS] [SEP] f) gdpr. [CLS] [SEP] in particular, an objection to data processing for the
+purpose of direct advertising is permissible.**
+
+### iii. [CLS] [SEP] information about the data processing
+
+your data processed when using our website will be deleted or blocked as soon
+as the purpose for its storage ceases to apply, provided the deletion of the
+same is not in breach of any statutory storage obligations or unless otherwise
+stipulated below. [CLS] [SEP]
+
+#### server data
+
+for technical reasons, the following data sent by your internet browser to us
+or to our server provider will be collected, especially to ensure a secure and
+stable website: these server log files record the type and version of your
+browser, operating system, the website from which you came (referrer url), the
+webpages on our site visited, the date and time of your visit, as well as the
+ip address from which you visited our site. [CLS] [SEP]
+
+the data thus collected will be temporarily stored, but not in association
+with any other of your data. [CLS] [SEP]
+
+the basis for this storage is art. [CLS] [SEP] 6 para. [CLS] [SEP] 1 lit. [CLS] [SEP] f) gdpr. [CLS] [SEP] our legitimate
+interest lies in the improvement, stability, functionality, and security of
+our website. [CLS] [SEP]
+
+the data will be deleted within no more than seven days, unless continued
+storage is required for evidentiary purposes. [CLS] [SEP] in which case, all or part of
+the data will be excluded from deletion until the investigation of the
+relevant incident is finally resolved. [CLS] [SEP]
+
+#### cookies
+
+we use cookies on our website. [CLS] [SEP] cookies are small text files or other storage
+technologies stored on your computer by your browser. [CLS] [SEP] these cookies process
+certain specific information about you, such as your shopping cart and log-in
+information. [CLS] [SEP]
+
+this processing makes our website more user-friendly, efficient, and secure,
+allowing us, for example, to display our website in different languages or to
+offer a shopping cart function. [CLS] [SEP]
+
+the legal basis for such processing is art. [CLS] [SEP] 6 para. [CLS] [SEP] 1 lit. [CLS] [SEP] b) gdpr, insofar as
+these cookies are used to collect data to initiate or process contractual
+relationships. [CLS] [SEP]
+
+if the processing does not serve to initiate or process a contract, our
+legitimate interest lies in improving the functionality of our website. [CLS] [SEP] the
+legal basis is then art. [CLS] [SEP] 6 para. [CLS] [SEP] 1 lit. [CLS] [SEP] f) gdpr. [CLS] [SEP]
+
+some of the cookies we use are so-called temporary or transient session
+cookies. [CLS] [SEP] these store a so-called session id, which can be used to assign
+various requests from your web browser to the shared session. [CLS] [SEP] this allows your
+device to be recognized when you return to our website. [CLS] [SEP] session cookies are
+deleted after the end of the browser session, i.e. [CLS] [SEP] after closing your browser. [CLS] [SEP]
+
+other cookies used by us are so-called permanent or persistent cookies. [CLS] [SEP] these
+remain on your device and enable us to recognize your browser the next time
+you visit. [CLS] [SEP] these cookies are automatically deleted after a specified period,
+which may vary depending on the cookie. [CLS] [SEP] you can delete these cookies in your
+web browser settings at any time. [CLS] [SEP]
+
+##### disabling cookies
+
+you can refuse the use of cookies by changing the settings on your browser. [CLS] [SEP]
+likewise, you can use the browser to delete cookies that have already been
+stored. [CLS] [SEP] however, the steps and measures required vary, depending on the
+browser you use. [CLS] [SEP] if you have any questions, please use the help function or
+consult the documentation for your browser or contact its maker for support. [CLS] [SEP]
+
+if you prevent or restrict the installation of cookies, not all of the
+functions on our site may be fully usable. [CLS] [SEP]
+
+#### order processing
+
+the data you submit when ordering goods and/or services from us will have to
+be processed in order to fulfill your order. [CLS] [SEP] please note that orders cannot be
+processed without providing this data. [CLS] [SEP]
+
+the legal basis for this processing is art. [CLS] [SEP] 6 para. [CLS] [SEP] 1 lit. [CLS] [SEP] b) gdpr. [CLS] [SEP]
+
+after your order has been completed, your personal data will be deleted, but
+only after the retention periods required by tax and commercial law. [CLS] [SEP]
+
+in order to process your order, we will share your data with the shipping
+company responsible for delivery to the extent required to deliver your order
+and/or with the payment service provider to the extent required to process
+your payment. [CLS] [SEP] these include in particular:
+
+**web-hoster** : this provides us with infrastructure and platform services as
+well as technical maintenance and security services, computing capacity and
+storage space and database services, which we use for the purpose of operating
+this online offering. [CLS] [SEP]
+
+**commercial service providers** : these take care of the mailing of
+documents, especially invoices and reminders. [CLS] [SEP] transport companies: they take
+care of the packaging and packing of the orders, their dispatch and delivery
+to the recipient. [CLS] [SEP]
+
+**house bank** : this takes care of the processing of payment transactions for
+us with the exception of credit card payments and paypal, for which we use a
+separate payment service provider. [CLS] [SEP]
+
+**payment service provider** : the data processed by the payment service
+provider includes inventory data, such as the name and address, and bank data,
+such as account numbers or credit card numbers, as well as information
+relating to contracts, totals and recipients. [CLS] [SEP] this information is required to
+execute the transactions. [CLS] [SEP] however, the data entered will not be processed by
+us, but exclusively by the payment service provider and stored with him. [CLS] [SEP]
+
+we use the following external payment service providers:
+
+**paypal** (europe) s.à r.l. [CLS] [SEP] et cie, s.c.a., 22-24 boulevard royal, 2449
+luxembourg
+
+data protection information can be found at
+
+<https://www.paypal.com/de/webapps/mpp/ua/legalhub-full?locale.x=en_en>
+
+<https://www.paypal.com/de/webapps/mpp/ua/privacy-full?locale.x=en_en>
+
+**stripe** , inc., 510 townsend street, san francisco, ca 94103, usa
+
+<https://stripe.com/privacy>
+
+the legal basis for the transfer of this data is art. [CLS] [SEP] 6 para. [CLS] [SEP] 1 lit. [CLS] [SEP] b) gdpr. [CLS] [SEP]
+
+#### customer account/registration
+
+if you create a customer account with us via our website, we will use the data
+you entered during registration (e.g. [CLS] [SEP] your name, your address, or your email
+address) exclusively for services leading up to your potential placement of an
+order or entering some other contractual relationship with us, to fulfill such
+orders or contracts, and to provide customer care (e.g. [CLS] [SEP] to provide you with an
+overview of your previous orders or to be able to offer you a wishlist
+function). [CLS] [SEP] we also store your ip address and the date and time of your
+registration. [CLS] [SEP] this data will not be transferred to third parties. [CLS] [SEP]
+
+during the registration process, your consent will be obtained for this
+processing of your data, with reference made to this privacy policy. [CLS] [SEP] the data
+collected by us will be used exclusively to provide your customer account. [CLS] [SEP]
+
+if you give your consent to this processing, art. [CLS] [SEP] 6 para. [CLS] [SEP] 1 lit. [CLS] [SEP] a) gdpr is
+the legal basis for this processing. [CLS] [SEP]
+
+if the opening of the customer account is also intended to lead to the
+initiation of a contractual relationship with us or to fulfill an existing
+contract with us, the legal basis for this processing is also art. [CLS] [SEP] 6 para. [CLS] [SEP] 1
+lit. [CLS] [SEP] b) gdpr. [CLS] [SEP]
+
+you may revoke your prior consent to the processing of your personal data at
+any time under art. [CLS] [SEP] 7 para. [CLS] [SEP] 3 gdpr with future effect. [CLS] [SEP] all you have to do is
+inform us that you are revoking your consent. [CLS] [SEP]
+
+the data previously collected will then be deleted as soon as processing is no
+longer necessary. [CLS] [SEP] however, we must observe any retention periods required
+under tax and commercial law. [CLS] [SEP]
+
+#### newsletter
+
+if you register for our free newsletter, the data requested from you for this
+purpose, i.e. [CLS] [SEP] your email address and, optionally, your name, will be sent to
+us. [CLS] [SEP] we also store the ip address of your computer and the date and time of
+your registration. [CLS] [SEP] during the registration process, we will obtain your
+consent to receive this newsletter and the type of content it will offer, with
+reference made to this privacy policy. [CLS] [SEP] the data collected will be used
+exclusively to send the newsletter and will not be passed on to third parties. [CLS] [SEP]
+
+**tracking**
+
+our newsletters contain tracking pixels. [CLS] [SEP] a tracking pixel is a miniature
+graphic embedded in such emails, which are sent in html format to enable log
+file recording and analysis. [CLS] [SEP] this allows a statistical analysis of the success
+or failure of online marketing campaigns. [CLS] [SEP] based on the embedded tracking
+pixel, we may see if and when an email was opened, and which links in the
+email were called up by the recipient. [CLS] [SEP]
+
+such personal data collected in the tracking pixels contained in the
+newsletters are stored and analysed by us in order to optimise the sending of
+the newsletter, as well as to adapt the content of future newsletters even
+better to the interests of the recipients. [CLS] [SEP] this personal data will not be
+passed on to third parties. [CLS] [SEP] after a revocation, these personal data will be
+deleted by us. [CLS] [SEP]
+
+the legal basis for this is art. [CLS] [SEP] 6 para. [CLS] [SEP] 1 lit. [CLS] [SEP] a) gdpr. [CLS] [SEP]
+
+you may revoke your prior consent to receive this newsletter under art. [CLS] [SEP] 7
+para. [CLS] [SEP] 3 gdpr with future effect. [CLS] [SEP] all you have to do is inform us that you are
+revoking your consent or click on the unsubscribe link contained in each
+newsletter. [CLS] [SEP]
+
+#### contact
+
+if you contact us via email or the contact form, the data you provide will be
+used for the purpose of processing your request. [CLS] [SEP] we must have this data in
+order to process and answer your inquiry; otherwise we will not be able to
+answer it in full or at all. [CLS] [SEP]
+
+the legal basis for this data processing is art. [CLS] [SEP] 6 para. [CLS] [SEP] 1 lit. [CLS] [SEP] b) gdpr. [CLS] [SEP]
+
+your data will be deleted once we have fully answered your inquiry and there
+is no further legal obligation to store your data, such as if an order or
+contract resulted therefrom. [CLS] [SEP]
+
+#### user posts, comments, and ratings
+
+we offer you the opportunity to post questions, answers, opinions, and ratings
+on our website, hereinafter referred to jointly as "posts." if you make use of
+this opportunity, we will process and publish your post, the date and time you
+submitted it, and any pseudonym you may have used. [CLS] [SEP]
+
+the legal basis for this is art. [CLS] [SEP] 6 para. [CLS] [SEP] 1 lit. [CLS] [SEP] a) gdpr. [CLS] [SEP] you may revoke your
+prior consent under art. [CLS] [SEP] 7 para. [CLS] [SEP] 3 gdpr with future effect. [CLS] [SEP] all you have to do
+is inform us that you are revoking your consent. [CLS] [SEP]
+
+in addition, we will also process your ip address and email address. [CLS] [SEP] the ip
+address is processed because we might have a legitimate interest in taking or
+supporting further action if your post infringes the rights of third parties
+and/or is otherwise unlawful. [CLS] [SEP]
+
+in this case, the legal basis is art. [CLS] [SEP] 6 para. [CLS] [SEP] 1 lit. [CLS] [SEP] f) gdpr. [CLS] [SEP] our legitimate
+interest lies in any legal defense we may have to mount. [CLS] [SEP]
+
+#### follow-up comments
+
+if you make posts on our website, we also offer you the opportunity to
+subscribe to any subsequent follow-up comments made by third parties. [CLS] [SEP] in order
+to be able to inform you about these follow-up comments, we will need to
+process your email address. [CLS] [SEP]
+
+the legal basis for this is art. [CLS] [SEP] 6 para. [CLS] [SEP] 1 lit. [CLS] [SEP] a) gdpr. [CLS] [SEP] you may revoke your
+prior consent to this subscription under art. [CLS] [SEP] 7 para. [CLS] [SEP] 3 gdpr with future
+effect. [CLS] [SEP] all you have to do is inform us that you are revoking your consent or
+click on the unsubscribe link contained in each email. [CLS] [SEP]
+
+#### matomo (formerly: piwik)
+
+our website uses matomo (formerly: piwik). [CLS] [SEP] this is open-source software with
+which we can analyze the use of our site. [CLS] [SEP] data such as your ip address, the
+pages you visit, the website from which you came (referrer url), the duration
+of your visit, and the frequency of your visits is processed. [CLS] [SEP]
+
+matomo stores a cookie on your device via your browser in order to collect
+this data. [CLS] [SEP] this cookie is valid for one week. [CLS] [SEP]
+
+the legal basis is art. [CLS] [SEP] 6 para. [CLS] [SEP] 1 lit. [CLS] [SEP] f) gdpr. [CLS] [SEP] our legitimate interest lies
+in the analysis and optimization of our website. [CLS] [SEP]
+
+we use matomo with the "automatically anonymize visitor ips" function. [CLS] [SEP] this
+anonymization function truncates your ip address by two bytes so that it is
+impossible to assign it to you or to the internet connection you are using. [CLS] [SEP]
+
+if you do not agree to this processing, you have the option of preventing the
+installation of cookies by making the appropriate settings in your browser. [CLS] [SEP]
+further details can be found in the section about cookies above. [CLS] [SEP]
+
+in addition, you have the option of terminating the analysis of your usage
+behavior by opting out. [CLS] [SEP] by confirming the link  
+https://www.nitrokey.com/matomo/index.php?module=coreadminhome&action=optout&language=en  
+a cookie is stored on your device via your browser to prevent any further
+analysis. [CLS] [SEP] please note, however, that you must click the above link again if
+you delete the cookies stored on your end device. [CLS] [SEP]
+
+#### shariff social media buttons
+
+our website uses the plug-ins of the following social networks. [CLS] [SEP] to integrate
+these plug-ins, we use the shariff plug-in. [CLS] [SEP]
+
+the legal basis is art. [CLS] [SEP] 6 para. [CLS] [SEP] 1 lit. [CLS] [SEP] f) gdpr. [CLS] [SEP] our legitimate interest lies
+in improving the quality of our website. [CLS] [SEP]
+
+shariff is an open source program developed by c't and heise. [CLS] [SEP] by integrating
+this plug-in, linked graphics prevent the following social network plug-ins
+from automatically establishing a connection to the respective social networks
+server when you visit website(s) on which the plug-ins are integrated. [CLS] [SEP] only if
+you click on one of these linked graphics will you be forwarded to the service
+of the respective social network. [CLS] [SEP] only then will information about your use of
+our site be recorded by the respective social network. [CLS] [SEP] this information may
+include your ip address, the date and time you visited our site, as well as
+the pages you viewed. [CLS] [SEP]
+
+if you are logged in to one of the social network services while visiting one
+of our plugged-in websites, the information collected by the plug-in from your
+specific visit will be recognized by the provider of that social network and
+assigned to your personal user account there and/or publish information about
+your interaction with our site there. [CLS] [SEP] if, for example, you use the a share
+button for the social network, this information may be stored in your user
+account there and published on the platform of the respective social network
+provider. [CLS] [SEP] to prevent this, you must either log out of the social network
+before clicking the graphic or make the appropriate settings in your social
+network account. [CLS] [SEP]
+
+further information about shariff is available at
+
+<http://www.heise.de/ct/artikel/shariff-social-media-buttons-mit-
+datenschutz-2467514.html>
+
+the following social networks are integrated into our website:
+
+**facebook** operated by facebook inc, 1601 s. [CLS] [SEP] california ave, palo alto, ca
+94304, usa, operated within the eu by facebook ireland limited, 4 grand canal
+square, dublin 2, ireland. [CLS] [SEP]
+
+privacy information can be found at <https://www.facebook.com/policy.php>
+
+through certification according to the eu-us privacy shield
+
+[https://www.privacyshield.gov/participant?id=a2zt0000000gnywaac&status=active](https://www.privacyshield.gov/participant?id=a2zt0000000gnywaac&status=active)
+
+facebook guarantees that it will follow the eu's data protection regulations
+when processing data in the united states. [CLS] [SEP]
+
+**twitter** operated by twitter inc, 795 folsom st., suite 600, san francisco,
+ca 94107, usa. [CLS] [SEP]
+
+privacy information can be found at <https://twitter.com/privacy>
+
+through certification according to the eu-us privacy shield
+
+[https://www.privacyshield.gov/participant?id=a2zt0000000torzaao&status=active](https://www.privacyshield.gov/participant?id=a2zt0000000torzaao&status=active)
+
+twitter guarantees that it will follow the eu's data protection regulations
+when processing data in the united states. [CLS] [SEP]
+
+####  
+
+the above is based on [model data protection
+statement](https://www.ratgeberrecht.eu/leistungen/muster-
+datenschutzerklaerung.html) of [anwaltskanzlei weiß &
+partner](https://www.ratgeberrecht.eu/)
+
+### iv. [CLS] [SEP] information about the data processing for nitrochat
+
+this chapter applies to the matrix service provided at
+[https://nitro.chat](https://nitro.chat/). [CLS] [SEP]
+
+when you read 'the nitrochat homeserver', 'nitrochat' or 'the service' below,
+it refers to the services made available at nitro.chat which store your
+account and personal conversation history, provide services such as bots and
+bridges, and communicate via the open matrix decentralised communication
+protocol with the public matrix network. [CLS] [SEP]
+
+the public matrix network is a decentralized and openly federated
+communication network. [CLS] [SEP] this means that user messages are replicated on each
+participant's server and messages posted to a room are visible to all
+participants including in some cases any new joiners. [CLS] [SEP] this is further
+explained below. [CLS] [SEP]
+
+where you read nitrokey, nitrokey gmbh or we, our, or us below, all refer to
+the same company. [CLS] [SEP]
+
+**1\. [CLS] [SEP] right to erasure**
+
+you can request that we forget your copy of messages and files by instructing
+us to deactivate your account (using a matrix client such as
+[https://app.nitro.chat](https://app.nitro.chat/)) and selecting the option
+instructing us to forget your messages. [CLS] [SEP] what happens next depends on who else
+had access to the messages and files you had shared. [CLS] [SEP]
+
+any messages or files that were only accessible by your account will be
+deleted from our servers within 30 days. [CLS] [SEP]
+
+where you shared messages or files with another registered matrix user, that
+user will still have access to their copy of those messages or files. [CLS] [SEP] apart
+from state events (see below), these messages and files will not be shared
+with any unregistered or new users who view the room after we have processed
+your request to be forgotten. [CLS] [SEP]
+
+state events are processed differently to non-state events. [CLS] [SEP] state events are
+used by the service to record, amongst other things, your membership in a
+room, the configuration of room settings, your changing of another user's
+power level and your banning a user from a room. [CLS] [SEP] were we to erase these state
+events from a room entirely, it would be very damaging to other users'
+experience of the room, causing banned users to become unbanned, revoking
+legitimate administrator privileges, etc. [CLS] [SEP] we therefore share state events sent
+by your account with all non-essential data removed ('redacted'), even after
+we have processed your request to be forgotten. [CLS] [SEP] this means that your username
+will continue to be publicly associated with rooms in which you have
+participated, even after we have processed your request to be forgotten. [CLS] [SEP] we
+are actively working on a solution to work around this restriction and allow
+you to be fully forgotten while maintaining a high quality experience for
+other users. [CLS] [SEP] if this is not acceptable to you, please do not use the service. [CLS] [SEP]
+
+**2\. [CLS] [SEP] what information do you collect about me and why?**
+
+the information we collect is purely for the purpose of providing your
+communication service via matrix. [CLS] [SEP] we do **not** profile users or their data on
+the service. [CLS] [SEP]
+
+be aware that while we do not profile users on the service, third party matrix
+clients may gather usage data. [CLS] [SEP] this includes the matrix client riot provided
+at [https://app.nitro.chat](https://app.nitro.chat/) which optionally gathers
+opt-in anonymised usage data under new vector ltd.'s privacy notice at
+<https://riot.im/privacy>. [CLS] [SEP]
+
+**2.1 information you provide to us:**
+
+we collect information about you when you input it into the service or
+otherwise provide it directly to us. [CLS] [SEP]
+
+**account and profile information**
+
+we collect information about you when you register for an account. [CLS] [SEP] this
+information is kept to a minimum on purpose, and is restricted to:
+
+  * username
+
+  * password
+
+  * display name (if you choose to provide one)
+
+  * your email address (if you choose to provide it)
+
+  * your verified telephone number (if you choose to provide it)
+
+your username and password is used to authenticate your access to the service
+and to uniquely identify you within the service. [CLS] [SEP]
+
+your password is stored until you change it or your account is deactivated. [CLS] [SEP]
+your username is stored indefinitely to avoid account recycling. [CLS] [SEP]
+
+your email address and/or telephone number, if you choose to provide them, are
+used so that other users can look up your matrix id from these identifiers. [CLS] [SEP]
+these are stored and processed by the chosen 3rd party identity service such
+as vector.im. [CLS] [SEP] their privacy policy apply. [CLS] [SEP]
+
+we will also use your email address to let you reset your password if you
+forget it, and to send you notifications about missed messages from users
+trying to contact you on matrix if you enable the option. [CLS] [SEP] we may also send you
+infrequent urgent messages about platform updates. [CLS] [SEP]
+
+**content you provide through using the service**
+
+we store and distribute the messages and files you share using the service
+(and across the wider matrix ecosystem via federation) as described by the
+matrix protocol and according to the access rules configured within the
+system. [CLS] [SEP] storing and sharing this content is the reason the service exists. [CLS] [SEP]
+
+this content includes any information about yourself that you choose to share. [CLS] [SEP]
+
+**2.2 information we collect automatically as you use the service:**
+
+**device and connection information**
+
+each device you use to access the service is allocated a (user-configurable)
+identifier. [CLS] [SEP] when you access the service, we record the device identifier, the
+ip address it used to connect, user agent, and the time at which it last
+connected to the service. [CLS] [SEP]
+
+this information is gathered to help you to manage your devices - you can view
+and manage the list of devices by connecting to the service with a matrix
+client such as [https://app.nitro.chat](https://app.nitro.chat/)
+
+currently, we log the ip addresses of everyone who accesses the service. [CLS] [SEP] this
+data is used in order to mitigate abuse, debug operational issues, and monitor
+traffic patterns. [CLS] [SEP] our logs are kept for not longer than 7 days. [CLS] [SEP]
+
+**3\. [CLS] [SEP] what information is shared with third parties and why?**
+
+**3.1 sharing data with connected services**
+
+we may share your information when working with our suppliers in order to
+provide the service. [CLS] [SEP]
+
+in addition, nitrochat is a decentralised and open service. [CLS] [SEP] this means that,
+to support communication between users on different homeservers or different
+messaging platforms, your username, display name and messages and files are
+sometimes shared with other services that are connected with the nitrochat. [CLS] [SEP]
+these other services may be outside of the eu. [CLS] [SEP]
+
+**federation**
+
+matrix homeservers share user data with the wider ecosystem over federation. [CLS] [SEP]
+
+when you send messages or files in a room, a copy of the data is sent to all
+participants in the room, including (depending on room settings) participants
+who join the room in future. [CLS] [SEP] if these participants are on remote homeservers,
+your username, display name, messages and files may be replicated across each
+participating homeserver. [CLS] [SEP]
+
+we will forget your copy of your data upon your request. [CLS] [SEP] we will also forward
+your request to be forgotten onto federated homeservers. [CLS] [SEP] however - these
+homeservers are outside our span of control, so we cannot guarantee they will
+forget your data. [CLS] [SEP]
+
+federated homeservers can be located anywhere in the world, and are subject to
+local laws and regulations. [CLS] [SEP]
+
+access control settings are shared between homeservers, as well as any
+requests to remove messages by "redactions", or remove personal data under
+gdpr article 17 right to erasure (right to be forgotten). [CLS] [SEP] federated
+homeservers and matrix clients which respect the matrix protocol are expected
+to honour these controls and redaction/erasure requests, but other federated
+homeservers are outside of the span of control of nitrokey gmbh, and we cannot
+guarantee how this data will be processed. [CLS] [SEP] federated homeservers can also be
+located in any territory, and will be subject to the local regulations of that
+territory. [CLS] [SEP]
+
+**bridging**
+
+some matrix rooms are bridged to third-party services, such as irc networks,
+twitter or email. [CLS] [SEP] when a room has been bridged, your username, display name,
+messages and file transfers may be duplicated on the bridged service where
+supported. [CLS] [SEP]
+
+it may not be technically possible to support your management of your data
+once it has been copied onto a bridged service. [CLS] [SEP]
+
+bridged services can be located anywhere in the world, and are subject to
+local laws and regulations. [CLS] [SEP]
+
+access control settings, requests to remove messages by "redactions" or remove
+personal data under gdpr article 17 right to erasure (right to be forgotten)
+are shared to bridging services, which are expected to honour them to the best
+of their ability. [CLS] [SEP] be aware that not all bridged networks or bridges support
+the necessary technical capabilities to limit, remove or erase messages. [CLS] [SEP] if
+this is not acceptable to you, please do not use bridged rooms. [CLS] [SEP]
+
+**3.2 sharing data in compliance with enforcement requests and applicable
+laws; enforcement of our rights**
+
+in exceptional circumstances, we may share information about you with a third
+party if we believe that sharing is reasonably necessary to
+
+(a) comply with any applicable law, regulation, legal process or governmental
+request,
+
+(b) protect the security or integrity of our products and services (e.g. [CLS] [SEP] for a
+security audit),
+
+(c) protect nitrokey gmbh and our users from harm or illegal activities, or
+
+(d) respond to an emergency which we believe in good faith requires us to
+disclose information to assist in preventing the serious bodily harm of any
+person. [CLS] [SEP]
+
+**4\. [CLS] [SEP] how do you handle passwords?**
+
+we never store password data in plain text; instead they are stored hashed
+(with at least 4096 rounds of bcrypt, including both a salt and a server-side
+pepper secret). [CLS] [SEP] passwords sent to the server are encrypted using tls. [CLS] [SEP]
+
+it is your sole responsibility to keep your user name, password and other
+sensitive information confidential. [CLS] [SEP] actions taken using your credentials shall
+be deemed to be actions taken by you, with all consequences including service
+termination, civil and criminal penalties. [CLS] [SEP]
+
+if you become aware of any unauthorized use of your account or any other
+breach of security, you must notify nitrokey gmbh immediately by sending us an
+email. [CLS] [SEP] suspicious devices can be deleted using the user settings management
+tools in a matrix client such as
+[https://app.nitro.chat](https://app.nitro.chat/), and users should manage
+good password hygiene (e.g. [CLS] [SEP] using a password manager) and change their
+password if they believe their account is compromised. [CLS] [SEP]
+
+if you forget your password (and you have registered an email address) you can
+use the password reset facility to reset it. [CLS] [SEP]
+
+you can manage your account by using a matrix client such as
+[https://app.nitro.chat](https://app.nitro.chat/). [CLS] [SEP]
+
+we will never change a password for you. [CLS] [SEP]
+
+**5\. [CLS] [SEP] how can i access or correct my information?**
+
+you can access all your personally identifiable information that we collect by
+using any compatible matrix client (such as
+[https://app.nitro.chat](https://app.nitro.chat/)) and managing your user
+settings. [CLS] [SEP] you can get a copy of all your data. [CLS] [SEP]
+
+**6\. [CLS] [SEP] who can see my messages and files?**
+
+in unencrypted and encrypted rooms, users connecting to nitrochat (directly or
+over federation) will be able to see messages and files according to the
+access permissions configuration of the relevant room. [CLS] [SEP] this data is stored in
+the format it was received on our servers, and can be viewed by nitrokey
+engineers (employees and contractors) under the conditions outlined below. [CLS] [SEP]
+
+in encrypted rooms, the data is stored in our databases but the encryption
+keys are stored only on your devices or by yourself. [CLS] [SEP] users can optionally
+backup an encrypted copy of their keys on the service to aid recovery if they
+lose all their keys and devices. [CLS] [SEP] this key backup is encrypted by a recovery
+key that only the user has access to. [CLS] [SEP] this means that nobody, even nitrokey
+engineers (employees and contractors) can see your message content in our
+database, and if you lose access to your encryption keys you lose access to
+your messages forever. [CLS] [SEP]
+
+we use https to transfer all data. [CLS] [SEP] end-to-end encrypted messaging data is
+stored encrypted using aes-256, using message keys generated using the olm and
+megolm cryptographic ratchets. [CLS] [SEP]
+
+**7\. [CLS] [SEP] what are the guidelines nitrokey follows when accessing my data?**
+
+we restrict who at nitrokey gmbh (employees and contractors) can access user
+data to roles which require access in order to maintain the health of the
+service. [CLS] [SEP]
+
+we never share what we see with other users or the general public. [CLS] [SEP]
+
+**8\. [CLS] [SEP] who else has access to my data?**
+
+we host the service in hetzner's data centers in germany. [CLS] [SEP]
+
+we use secure private keys when accessing servers via ssh. [CLS] [SEP]
+
+we log application data (username, user ip and user agent). [CLS] [SEP] we keep logs for
+no longer than 7 days. [CLS] [SEP]
+
+this chapter is based on <https://matrix.org/docs/guides/privacy_notice.html>
+
+### v. [CLS] [SEP] nitrokey meet
+
+to provide the nitrokey meet service at https://meet.nitrokey.com, we process
+network and usage information including ip addresses for the meeting
+participants, the user specified url used to host the meeting, and information
+about the phone numbers that connect to the meeting (if audio connection is
+made via a telephone call). [CLS] [SEP] this information is stored in logs not longer than
+7 days. [CLS] [SEP] in some cases, meeting related content, which may contain personal
+information, is temporarily stored to enable user functionality in a nitrokey
+meet video meeting. [CLS] [SEP] examples include:
+
+  * if you use the chat function, chat content is stored during the meeting. [CLS] [SEP]
+  * if you record a meeting, the recording of the meeting is temporarily stored until it is uploaded to your file hosting service. [CLS] [SEP]
+  * if you livestream your meeting, video content is temporarily stored to buffer the livestream. [CLS] [SEP]
+  * in addition, users of nitrokey meet have the option of providing name, email address, and link to a picture that will be displayed to participants in the meeting. [CLS] [SEP]
+
+we don’t sell personal information to third parties. [CLS] [SEP] we use this information
+to deliver the nitrokey meet service, to identify and troubleshoot problems
+with the nitrokey meet service, and to improve the nitrokey meet service. [CLS] [SEP] in
+addition, we may use this information to investigate fraud or abuse. [CLS] [SEP]
+
+
+
+status: 8.7.2020
+
+![](/sites/all/themes/nitrokey/footer_logo.svg)
+
+## newsletter
+
+## keep in touch
+
+[twitter](https://twitter.com/nitrokey)[mastodon](https://social.nitrokey.com/@nitrokey)[github](https://github.com/nitrokey)[facebook](https://www.facebook.com/nitrokey)[newsletter](/newsletter)[blog
+feed](/rss.xml)[youtube](https://www.youtube.com/nitrokey)[linkedin](https://www.linkedin.com/company/nitrokey)
+
+## contact/legal
+
+  * [terms and conditions](/general-terms-and-conditions)
+  * [data privacy policy](/data-privacy-policy)
+  * [legal information](/legal-information)
+  * [contact](/contact)
+  * [withdrawal](/right-withdrawal-consumers)
+
+## be the first to know
+
+### stay informed about the nitrokey project, new models  
+and firmware updates. [CLS] [SEP]
+
+enter your e-mail address:
+
+## confirm e-mail address
+
+please re-enter your email address
+
+  * company
+    * [about us](/about)
+    * [contact](/contact)
+    * [career](/career)
+    * [press](/press)
+    * [community program](/community-program)
+    * [affiliate program](/affiliate-program)
+  * [news](/news)
+  * products
+    * [nitrokeys](/#comparison)
+    * [nitropad](https://shop.nitrokey.com/shop)
+    * [nethsm](/products/nethsm)
+    * [nextbox](https://www.kickstarter.com/projects/nextbox/nextbox-your-own-private-cloud-for-home-and-office/)
+    * [nitrochat](/products/nitrochat)
+    * [nitrokey business subscription](/products/business-subscription)
+    * [nitrokey business fulfillment](/products/business-fulfillment)
+    * [nitroshred](https://shop.nitrokey.com/shop/product/nitroshred-data-media-destruction-on-demand-106)
+  * solutions
+    * [success stories](/solutions/success-stories)
+    * [passwordless login and two-factor authentication](/solutions/passwordless)
+    * [secure administration of servers and iot with ssh](/solutions/ssh)
+    * [phishing protection](/solutions/phishing)
+    * [crypto currency exchanges and bitcoin startups](/solutions/security-for-crypto-currency-exchanges-and-bitcoin-startups)
+  * [support](https://support.nitrokey.com/)
+    * [installation](/documentation/installation)
+    * [applications](/documentation/applications)
+    * [faq](/documentation/frequently-asked-questions-faq)
+    * [forum](https://support.nitrokey.com/c/nitrokey-support)
+    * [download](/download)
+  * [shop](https://shop.nitrokey.com/shop)
+
+nitrokey - made in germany
+
+![](//www.nitrokey.com/piwik/piwik.php?idsite=1)
+

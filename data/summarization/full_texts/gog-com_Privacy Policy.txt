@@ -1,0 +1,769 @@
+a **system report** or other file containing a description of your computer's
+technical specification is required to submit this technical support request. [CLS] [SEP]  
+when submitting a system report, please be aware that it may contain your
+personal information, like your computer name. [CLS] [SEP] please consider reviewing and
+removing any personal information from the system report before submitting
+this file. [CLS] [SEP]  
+the detailed instructions on how to generate the report will be displayed
+under this message, once you select your **operating system** in the form
+above. [CLS] [SEP]
+
+**creating a dxdiag report**  
+  
+to launch the dxdiag application, press the windows key + r, type in
+**_dxdiag_** and press enter. [CLS] [SEP]  
+ **please do not swich to the 64-bit version** , as the 32-bit version is
+preferred. [CLS] [SEP]  
+in the dxdiag window, click "save all information...", then choose a location
+in which you want to save the file (your desktop, for instance). [CLS] [SEP] once you have
+created the file, please attach it to your support request using the "add
+file" button above. [CLS] [SEP]
+
+**creating a system profiler report**  
+  
+ **os x 10.7 or newer** :  
+go to applications -> utilities -> system information  
+click file -> save as... [CLS] [SEP]  
+save the file and attach it to your support request using the ""add file""
+button above. [CLS] [SEP]  
+  
+ **os x 10.6.x** :  
+go to applications -> utilities -> system profiler  
+click file -> save as... [CLS] [SEP]  
+save the file and attach it to your support request using the ""add file""
+button above. [CLS] [SEP]
+
+**creating a gog system report**  
+  
+if you have installed the game using our ***.sh** installer, open your default
+terminal emulator, and run the following commands _(don\'t forget to adapt the
+first command depending on the game and its location. [CLS] [SEP] use tab to auto-complete
+the location and prevent typos and mistakes, and return key - "enter" - to
+confirm)_ :  
+  
+ _cd ~/gog games/*your game*_  
+ _./start.sh --sysrep_  
+  
+the system report will be located in your desktop folder. [CLS] [SEP] please attach it to
+your support request using the "add file" button above
+
+search across all games and articles
+
+this field cannot be blank
+
+if you're having problems redeeming a code, try the following steps: ◘ always
+make sure to double- and triple-check the code, character by character. [CLS] [SEP] ◘ for
+**cyberpunk 2077 codes** , keep in mind that the letter 'o' should not be
+present in the code. [CLS] [SEP] only zeroes should be present. [CLS] [SEP] ◘ if you're using gog
+galaxy and encounter an issue, try aborting the process (click outside of the
+redeem window) and redeeming again. [CLS] [SEP] if that doesn't work, try redeeming via
+your browser at <https://www.gog.com/redeem> . [CLS] [SEP] ◘ if you're having problems
+redeeming via your browser, try using a different browser altogether, or
+redeeming via gog galaxy. [CLS] [SEP] to redeem via gog galaxy, click "+ add games &
+friends" and "redeem gog code", then follow the on-screen instructions. [CLS] [SEP]
+
+if you can't see your game in your library, try using this link
+https://www.gog.com/account/refresh to refresh your products list. [CLS] [SEP]
+
+if you have feedback / suggestions concerning cyberpunk 2077, please consider
+sharing them on the official forum:
+https://forums.cdprojektred.com/index.php?forums/cyberpunk.31/ or the game's
+social media pages. [CLS] [SEP]
+
+we are currently experiencing heavy support traffic, therefore response times
+are higher than usual. [CLS] [SEP] we appreciate your patience and understanding. [CLS] [SEP]
+
+if the game crashes and your pc meets the requirements, please try these
+steps: ◘ install the latest, cyberpunk 2077-ready graphics card drivers. [CLS] [SEP] ◘ in
+gog galaxy, use manage installation > verify / repair. [CLS] [SEP]
+
+if you would like to report cyberpunk 2077 in-game bugs or share feedback,
+please consider posting on the cd projekt red forums:
+https://forums.cdprojektred.com/index.php?forums/cyberpunk.21/ this way the
+developers will be able to see it. [CLS] [SEP]
+
+if you would like to report cyberpunk 2077 in-game bugs or share feedback,
+please consider posting on the cd projekt red forums:
+https://forums.cdprojektred.com/index.php?forums/cyberpunk.21/ this way the
+developers will be able to see it. [CLS] [SEP]
+
+if you would like to report cyberpunk 2077 in-game bugs or share feedback,
+please consider posting on the cd projekt red forums:
+https://forums.cdprojektred.com/index.php?forums/cyberpunk.21/ this way the
+developers will be able to see it. [CLS] [SEP]
+
+if you would like to report cyberpunk 2077 in-game bugs or share feedback,
+please consider posting on the cd projekt red forums:
+https://forums.cdprojektred.com/index.php?forums/cyberpunk.21/ this way the
+developers will be able to see it. [CLS] [SEP]
+
+if you would like to report cyberpunk 2077 in-game bugs or share feedback,
+please consider posting on the cd projekt red forums:
+https://forums.cdprojektred.com/index.php?forums/cyberpunk.21/ this way the
+developers will be able to see it. [CLS] [SEP]
+
+if you would like to report cyberpunk 2077 in-game bugs or share feedback,
+please consider posting on the cd projekt red forums:
+https://forums.cdprojektred.com/index.php?forums/cyberpunk.21/ this way the
+developers will be able to see it. [CLS] [SEP]
+
+[
+![logo](//theme.zdassets.com/theme_assets/987253/a0e6f9062a0581e2993338193058e44f5ce2c010.svg)
+](/hc/en-us "home")
+
+[
+![logo](//theme.zdassets.com/theme_assets/987253/b7b364aa822c95e1e2b333ec3fb58d2273084d9c.png)
+](/hc/en-us "home")
+
+gog.com
+
+gog galaxy 2.0
+
+english (us)  [ deutsch
+](/hc/change_language/de?return_to=%2fhc%2fde%2farticles%2f212632109-datenschutzrichtlinie%3fproduct%3dgog)
+[ français
+](/hc/change_language/fr?return_to=%2fhc%2ffr%2farticles%2f212632109-politique-
+de-confidentialit%25c3%25a9%3fproduct%3dgog) [ polski
+](/hc/change_language/pl?return_to=%2fhc%2fpl%2farticles%2f212632109-polityka-
+prywatno%25c5%259bci%3fproduct%3dgog) [ русский
+](/hc/change_language/ru?return_to=%2fhc%2fru%2farticles%2f212632109-%25d0%259f%25d0%25be%25d0%25bb%25d0%25b8%25d1%2582%25d0%25b8%25d0%25ba%25d0%25b0-%25d0%259a%25d0%25be%25d0%25bd%25d1%2584%25d0%25b8%25d0%25b4%25d0%25b5%25d0%25bd%25d1%2586%25d0%25b8%25d0%25b0%25d0%25bb%25d1%258c%25d0%25bd%25d0%25be%25d1%2581%25d1%2582%25d0%25b8%3fproduct%3dgog)
+[ 简体中文 ](/hc/change_language/zh-cn?return_to=%2fhc%2fzh-
+cn%2farticles%2f212632109-%25e9%259a%2590%25e7%25a7%2581%25e6%2594%25bf%25e7%25ad%2596%3fproduct%3dgog)
+
+[sign in](/hc/en-us/signin?return_to=https%3a%2f%2fsupport.gog.com%2fhc%2fen-
+us%2farticles%2f212632109-privacy-policy%3fproduct%3dgog&locale=en-us "opens a
+dialog")
+
+  1. [CLS] [SEP] [gog.com support center](/hc/en-us)
+  2. [CLS] [SEP] [policies & general info](/hc/en-us/categories/201526109-policies-general-info)
+  3. [CLS] [SEP] [policies](/hc/en-us/sections/115000136785-policies)
+
+#  privacy policy
+
+hello, gog user! this privacy policy is where we explain what information is
+collected when you’re using gog.com or the gog galaxy app, how it is
+collected, how we use that information, where we store it, and how we protect
+it. [CLS] [SEP] we will also explain your rights in relation to the information. [CLS] [SEP] like with
+our user agreement, we've put together both a full text version and a (non
+legally binding) summary version to make things simple. [CLS] [SEP] if you have any
+queries you can contact us at [privacy@gog.com](mailto:privacy@gog.com). [CLS] [SEP] here
+we go…
+
+california residents: click [here](https://support.gog.com/hc/en-
+us/articles/360004559077) for the california privacy notice. [CLS] [SEP]
+
+## full text
+
+## quick summary
+
+### 1\. [CLS] [SEP] who we are
+
+we are gog sp. [CLS] [SEP] z o.o., a company incorporated in poland (we will further call
+ourselves “gog”). [CLS] [SEP]
+
+you can contact us here, via email at privacy@gog.com or by traditional mail:
+data protection officer, gog sp. [CLS] [SEP] z o.o., jagiellońska 74, 03-301 warsaw,
+poland. [CLS] [SEP]
+
+hello, we're gog and we are based in poland. [CLS] [SEP] you can find our contact details
+here (see opposite). [CLS] [SEP]
+
+### 2\. [CLS] [SEP] what this privacy policy governs
+
+2.1 this privacy policy applies to www.gog.com, your gog user account, gog
+galaxy (including gog galaxy store), any games or videos or other content
+which you purchase, access or use via gog.com, the ‘gog wallet’, gog payment
+methods, the gog web forums, gog customer and technical support and any other
+services we provide to you (we'll just call all this “gog services” for
+short). [CLS] [SEP] gog services also include gwent: the witcher card game for pc's
+(“gwent”) from our related company cd projekt together with www.playgwent.com,
+any other gwent web sites or accounts and all services related to gwent,
+including (but not limited to) user accounts and customer and technical
+support provided by us. [CLS] [SEP]
+
+this privacy policy explains the different types of information that we
+collect while you use gog services or gwent. [CLS] [SEP] we and our trusted partners will
+comply with applicable privacy laws. [CLS] [SEP] btw geralt says hi. [CLS] [SEP]
+
+2.2 specifically, this privacy policy governs personal information and non-
+personal information which we collect from you when you're using gog services. [CLS] [SEP]
+("personal information" means information which, on its own or in combination
+with other information, can be used to identify you). [CLS] [SEP]
+
+2.3 we respect your right to privacy and will only process personal
+information in accordance with applicable data protection legislation in the
+eu, the usa (including the children's online privacy protection act) and
+elsewhere. [CLS] [SEP]
+
+we will comply with applicable data protection laws. [CLS] [SEP] this involves us being
+responsible for personal data which we use in connection with gog services and
+equally our trusted partners (see opposite) will be responsible for personal
+data which they use in connection with gog services. [CLS] [SEP]
+
+2.4 gog works with trusted partners, including our related company cd projekt,
+developers and publishers, payment providers, customer service software
+providers and others (“trusted partners”) – more on them later in this policy. [CLS] [SEP]
+
+2.5 for personal information contained in this privacy policy which is used by
+gog, gog is the data controller under eu data protection legislation. [CLS] [SEP]
+
+### 3\. [CLS] [SEP] protecting children
+
+3.1 we recognise we have a special obligation to protect personal information
+obtained from children. [CLS] [SEP] we do not and will not knowingly collect personal
+information from any child under the age of 16. [CLS] [SEP] if for any reason we decide to
+collect personal information of children between 13 and 16 we will ask for
+their parent or guardian consent. [CLS] [SEP] if you are a parent or guardian and are
+concerned about the transfer of personal information about your child, please
+contact privacy@gog.com
+
+we cannot and will not knowingly collect personal information about children
+under 16. [CLS] [SEP]  
+  
+
+### 4\. [CLS] [SEP] information we collect
+
+4.1 when you register a gog account with us, you will need to provide us: (a)
+your username; (b) your email address; and (c) a password (which is encrypted
+so that we don’t have access to it). [CLS] [SEP] this information is necessary for us to
+provide you with a gog account requested by you. [CLS] [SEP] in your gog account settings
+you can also set your date of birth, avatar, and your geographical location. [CLS] [SEP]
+this information will be protected by your gog account password. [CLS] [SEP] you are
+responsible for keeping it safe - please don't share it with anyone. [CLS] [SEP]
+
+to register a gog account, we will ask you for and collect some basic personal
+information, including username and email. [CLS] [SEP] we need this to provide you with a
+gog account. [CLS] [SEP] keep your gog account password safe. [CLS] [SEP]
+
+4.2 when you use gog services we may also collect the following information
+(how we use it is described later in this document):
+
+we may also collect additional information when you use other gog services
+(see opposite). [CLS] [SEP]
+
+  * (a) technical details about devices which you use to access gog services, including: internet and/or network connection (including your ip address); mobile device identifiers; your operating system, browser type or other software; your hardware details; or other technical details provided by your web browser. [CLS] [SEP] this is technical data about our users and their actions and patterns, which does not provide personal information;
+  * (b) details of your use of gog services including, but not limited to: metrics information about when and how you use gog services (such as what game(s) you are playing, your current status, your interactions with others); order status; order id; traffic data; your geographical location; your purchase history; game library; emails received; and links accessed; your preferences and choices such as subscriptions, preferred language and currency; your friend lists on gog; your communication via chat, game reviews, published posts on forum and other gog services;
+  * (c) other information required in order to help you with any queries/support you may need assistance with via the gog forums or customer support, including communications with you;
+  * (d) limited payment processing information, including as applicable your credit card number, name and email address (on a hashed/anonymised basis as applicable), payment methods, payment engine and transaction type; fraud risk score;
+  * (e) if you use facebook connect we may also collect limited information through facebook connect such as your facebook id, avatar, e-mail and friend list;
+  * (f) if you purchase content via a third party platform which uses our gog direct to account api, the platform may share data with us such as your platform id, order details or your ip address;
+  * (g) any other information which you supply us via our services;
+
+
+
+4.3 gog galaxy. [CLS] [SEP] if you use gog galaxy (including gog galaxy store) we will
+also collect technical logs, information about achievements in games you play
+and how long you play them; your multiplayer sessions and your activities in
+the gog galaxy app and on other platforms connected to your gog account for
+the general operational purposes of gog galaxy. [CLS] [SEP] if you choose to connect your
+accounts from other platforms with gog galaxy, depending on the features that
+the particular integration currently supports, gog will access personal and
+non-personal information such as your user name and user id, avatar, game
+list, gametime, game achievements, friend list (user name, user id, avatar)
+and their status, chat and conversation history. [CLS] [SEP] we will not store your
+account credentials. [CLS] [SEP] in addition, if you purchase games using gog galaxy
+store, we will collect information related to your transaction mentioned in
+point (d) above as well as the relevant product id and product entitlement id. [CLS] [SEP]
+you can read more about this optional account connecting feature in our gog
+galaxy privacy notice here. [CLS] [SEP] the privacy notice forms part of this privacy
+policy. [CLS] [SEP]
+
+when you use gog galaxy, gog collects personal and non-personal information
+about your activity (specific examples opposite). [CLS] [SEP] we need this to run gog
+galaxy and to provide you with its cool features. [CLS] [SEP]
+
+4.4 gwent. [CLS] [SEP] when you sign up for, download, use or play gwent then gog may
+collect and use basic data about you and your account activity for the general
+operational purposes of gwent. [CLS] [SEP] this data includes: (i) your email address;
+(ii) your name and surname; (iii) your date of birth; (iv) any username used
+to identify yourself as well as your avatars; (v) gwent-id; (vi) a log of user
+activity within gwent (including login time, logout time, log of matches
+played, number of wins and losses and gathered experience points); (vii) a
+record of your in-game virtual goods and currencies; (viii) your matchmaking
+rating (mmr); (ix) ip address; (x) your country of location (identified based
+on ip address); (xi) any other data which you supply us via gog services
+including data required to help you with any queries or support matters such
+as crash logs or the technical details of the device you use to play gwent. [CLS] [SEP]
+plus if you purchase gwent in-game content we may collect and use: (xii) your
+device/platform and records of any purchases made with virtual or real
+currency (including transaction dates, currencies, value and the relevant
+purchased products). [CLS] [SEP] in order for you to play gwent or access other related
+services, we need to process the data described above. [CLS] [SEP] if you do not agree to
+provide us with the above-mentioned data for the above purposes, you will not
+be able to play gwent or use other services related to it. [CLS] [SEP]
+
+when you play gwent, gog collects basic data about you and your account
+activity (specific examples opposite). [CLS] [SEP] we need this in order to run gwent and
+its related services. [CLS] [SEP] you can decline to provide your data but then equally
+you can’t play gwent. [CLS] [SEP]
+
+4.5 a quick word about bug reports and crash logs: gog software will generate
+bug or crash reports regarding gog services – these reports will not mention
+your personal information. [CLS] [SEP] you can decide whether to submit these reports to
+gog automatically. [CLS] [SEP] if you manually submit bug or crash reports to us, or if we
+contact you asking for feedback regarding crash or bug reports, then we may
+store them alongside your personal information. [CLS] [SEP]
+
+if gog services crash, we might ask you to send us crash logs/bug reports. [CLS] [SEP]
+
+4.6 a quick word about payment details (if/when you use them in gog services):
+this is a matter for the relevant payment method/platform/processor. [CLS] [SEP] we
+process only limited payment processing information on a hashed/anonymised
+basis as applicable. [CLS] [SEP] if you make any purchases within gog services, then we
+are notified by the payment processor once a transaction takes place and of
+course we make sure you receive your purchased item, but we will not receive
+any of your actual payment details. [CLS] [SEP]
+
+### 5 how we collect information from you
+
+5.1 we may collect, process and use information about you in the following
+ways (either directly or via our trusted partners as explained above): (a)
+information you give us via gog services; (b) information given when you
+contact us or report a problem with gog services; (c) through our api which
+allows third party platforms to sell content which is activated by gog (“gog
+direct to account api”) and (d) we may also ask you to complete surveys that
+we use for research purposes, although you don't have to respond to them. [CLS] [SEP] we
+may collect this information via gog services or trusted third parties
+connected with us for optional things like surveys or polls. [CLS] [SEP]
+
+5.2 facebook connect. [CLS] [SEP] when you register for gog services via facebook connect
+(of course, it's optional), facebook will provide us with certain information
+about you such as your facebook id, avatar, e-mail, gender, location and
+friend list. [CLS] [SEP] data is gathered strictly in accordance with the social
+network(s)’ terms and conditions, so check your privacy settings on facebook. [CLS] [SEP]
+
+5.3 gog connect. [CLS] [SEP] when you use our cool and optional feature gog connect we
+will be retrieving limited information from your steam account. [CLS] [SEP] we explain
+this in more detail in section 11.3 below
+
+we will collect the information ourselves or via third parties when it comes
+to optional things like surveys, gog connect or authentication services like
+facebook connect. [CLS] [SEP]
+
+5.4 gog galaxy. [CLS] [SEP] if you use gog galaxy and decide to connect your accounts from
+other platforms with gog galaxy application using gog official or community
+integrations, then we may also collect personal and non-personal information
+via such integrations (see section 4.3 above for details). [CLS] [SEP] this feature is
+totally optional. [CLS] [SEP] please know that community integrations may be governed by
+separate private policies and we are not responsible for their use of your
+personal and non-personal information (see further section 5 of the gog galaxy
+licence agreement). [CLS] [SEP]
+
+if you use gog galaxy and choose to link your accounts from other platforms to
+gog galaxy we may collect your personal and non-personal information from
+third parties via gog official or community integrations (see details
+opposite). [CLS] [SEP]  
+  
+
+### 6\. [CLS] [SEP] cookies
+
+we also collect information about you via cookies. [CLS] [SEP] you can find out more about
+this in our cookie policy
+[here](https://support.gog.com/hc/fr/articles/115000498685-politique-des-
+cookies). [CLS] [SEP] the cookie policy forms part of this privacy policy. [CLS] [SEP]
+
+read our cookie policy too (link opposite). [CLS] [SEP]
+
+### 7\. [CLS] [SEP] why do we use your data? (legal grounds for data processing)
+
+7.1. [CLS] [SEP] when we process information about you, we do so as necessary to provide
+gog services you use (i.e. [CLS] [SEP] to perform agreement between us, enable you to play
+gwent or use gog galaxy features), meet our legal obligations (f.ex. [CLS] [SEP] tax,
+accounting) or to fulfill the so-called “legitimate interests” of gog or other
+reasons described in the “how we use your data” section. [CLS] [SEP] to clarify, by
+legitimate interests we mean lawful purposes that could be reasonably expected
+(like informing you about games we distribute and making sure our marketing is
+relevant for you, protecting the security of our websites and systems,
+conducting anti-cheat analysis and anti-fraud checks). [CLS] [SEP] when we rely on the
+legitimate interest, we consider and balance any potential impact on you and
+your rights. [CLS] [SEP] for other purposes we will ask for your consent and you will be
+entitled to withdraw this consent any time, with no impact on the validity of
+the processing before your consent has been withdrawn. [CLS] [SEP]
+
+in essence, we process your data to provide you with gog services, to meet our
+legal obligations and for other reasons that are important for us like
+informing you about our games and ensuring security of our website. [CLS] [SEP] in other
+cases, we will ask for your consent in advance and you will always have the
+right to withdraw it anytime you like. [CLS] [SEP]
+
+7.2 when we transfer your data outside of the european economic area, we do so
+on the basis of a variety of legal mechanisms, as described in “trusted
+partners”. [CLS] [SEP]  
+  
+
+### 8\. [CLS] [SEP] how we handle your information
+
+8.1 all information you provide to us is stored on our secure servers or those
+of our trusted partners. [CLS] [SEP] we implement appropriate technical and organisational
+measures to protect your personal data against unauthorised or unlawful
+processing, accidental loss, destruction or damage. [CLS] [SEP]
+
+all information you provide to us is stored either on our secure servers or
+those of our trusted partners. [CLS] [SEP]
+
+8.2 how long are we going to keep your data? we will retain your personal
+information only for as long as we will be required in order to fulfil the
+purposes outlined in this privacy policy. [CLS] [SEP] in certain special cases, a longer
+retention period might be required by law e.g. [CLS] [SEP] tax, accounting purposes or
+other legal requirements and obligations. [CLS] [SEP] as soon as we will no longer require
+your personal data to provide our services for other purposes mentioned above,
+we will promptly delete or anonymize it. [CLS] [SEP] in particular:
+
+  * (a) we will keep information that is associated with your gog account for the duration of your agreement for the access to gog services (i.e. [CLS] [SEP] until you close your gog account). [CLS] [SEP] if you choose to close your gog account, limited data that we collect about you may still be retained for tax, legal and accounting purposes;
+  * (b) if you don’t have a gog account and contact us we will retain correspondence with you as long as necessary to help you out and then for the period necessary for legal or accountability purposes;
+  * (c) information that you post on our public forums and your game reviews will be retained until you decide that it should be removed as well. [CLS] [SEP] we don’t want to interfere with your posts and expressions without your permission. [CLS] [SEP]
+  * (d) we will keep data that is associated with your gwent account for the duration of the agreement to access gwent services (i.e. [CLS] [SEP] until you close your gwent account). [CLS] [SEP] following account closure, limited data that we collect about you will still be retained for an additional few years for tax, legal and accounting purposes. [CLS] [SEP]
+  * (e) if you use gog galaxy and connect your accounts from other platforms with gog galaxy we’ll be storing your imported data only as long as you stay connected with the relevant platform. [CLS] [SEP] this information will be deleted once you disconnect with the platform or anytime you ask us to delete your data. [CLS] [SEP] however, if you purchased any content via gog galaxy store, we will need to retain your payment history, product id and entitlement id for tax, legal and accounting purposes. [CLS] [SEP]
+
+in general, we’ll store your data until you close your gog account (or gwent
+account if applicable). [CLS] [SEP] if you do, we may still use limited information about
+you for tax, legal or accounting purposes. [CLS] [SEP]
+
+### 9\. [CLS] [SEP] how do we use your information
+
+9.1 we will use the above information in the following ways:
+
+  * (a) to carry out our obligations arising from any contracts between you and us, like providing access to your gog account, providing you with the games and technical support and in general allowing to use gog services and its functionalities when you choose to do so f. [CLS] [SEP] ex. [CLS] [SEP] your gog user profile, chat, forum or cloud saving and crossplay services in gog galaxy;
+  * (b) to ensure that gog services are presented in the most effective manner for you and for your computer or other device from which you access gog services;
+  * (c) to provide you with information, products or services that you request from us and which we feel may interest you - in particular, we may send you newsletters or emails about gog services, special and occasional offers like a welcome offer or provide you with ads, offers and product recommendations on the basis of your purchases or activity on our and third party websites and services, as well as about cd projekt’s games and services (of course, it’s optional)
+  * (d) to activate content on your gog account through our direct to account api;
+  * (e) to evaluate the effectiveness of our marketing actions and improve the quality of our marketing;
+  * (f) to notify you about changes to gog services and our legal documents;
+  * (g) to improve or modify gog services, f.ex. [CLS] [SEP] based on which games you like, how you play them, reported problems, your suggestions or satisfaction surveys;
+  * (h) to improve or modify gog services, for example based on which games you like more and how you play them;
+  * (i) to calculate conversion rates and other elements of gog.com performance;
+  * (j) in connection with the services of our trusted partners, such as payment processors, located in and outside the eu, but only to the extent necessary to provide those services;
+  * (k) to provide you with optional functionalities such as gog connect or authentication via facebook account;
+  * (l) to create a universal user’s profile based on information about your use of gog services and other platforms (we’ll rely on data made available when you merge your gog account with your account on other platforms) in order to make our services even more interesting for you;
+  * (m) to protect you from an unauthorized use of your account and against fraud;
+  * (n) for tax, legal and accounting purposes;
+  * (o) for the accountability purposes as defined by eu legislation (gdpr); and
+  * (p) to provide you with gog galaxy features if you decide to use it f.ex. [CLS] [SEP] to allow you to organize your game libraries as one master collection together with playtime and achievements, to create one list of your gaming friends with the ability to chat with them cross-platform and to activate your purchased content on that external platform;
+
+we will use your information to run gog and keep improving it as well as to
+communicate with you (e.g. [CLS] [SEP] with newsletters or emails). [CLS] [SEP] sometimes we may have
+to share anonymised, non-personal information like operating system types in
+order to run gog services. [CLS] [SEP]
+
+9.2. [CLS] [SEP] whenever we’re personalizing or targeting our marketing communications,
+offers and adverts, we may profile your personal information. [CLS] [SEP] we do not make
+however automated decisions (f.ex. [CLS] [SEP] via algorithms) that could affect your
+legal situation. [CLS] [SEP] if you decide that you no longer want to receive personalized
+offers, product recommendations from us, or no advertising news at all, you
+can object to this at any time. [CLS] [SEP] you can also choose whether to receive
+marketing communication from us, including personalized and targeted marketing
+emails by managing subscriptions on your gog account subscription page,
+following the link "unsubscribe" attached to our marketing emails or just
+contacting us directly here. [CLS] [SEP]
+
+9.3 gwent. [CLS] [SEP] if you sign up for, download, use or play gwent, we will also use
+your data to: (i) provide access and allow you to play gwent; (ii) ensure
+enjoyable gameplay through the analysis of players’ data; (iii) maintain the
+ranking of gwent players, (iv) calculate conversion rates and other elements
+of gwent performance; (v) maintain technical support services for game users;
+(vi) identify incidents of game misuse; (vii) target and personalize our
+marketing communication, offers and advertisements that we display on our
+websites and services (including in-game marketing) as well as those of third
+parties based on the combined data we have collected about you. [CLS] [SEP]
+
+we can use your data to help us operate and improve gwent (assuming you play
+it ofc – hey, it’s a great game you know :)!)
+
+9.4 non-personal data. [CLS] [SEP] we might process some aggregated and general non-
+personal data on user behaviour (e.g. [CLS] [SEP] sales per region, number of support
+tickets) and share it with trusted partners who work with us to provide gog
+services to you (for example, with games developers/publishers selling games
+on gog.com or with payment providers) in order to support, improve or amend
+gog services or to help them to improve their products, which you have bought. [CLS] [SEP]
+we may also share non-personal information with data analysis services to help
+us run gog.com. [CLS] [SEP] fear not, as mentioned above, everything’s anonymised, so you
+cannot be identified. [CLS] [SEP]
+
+### 10\. [CLS] [SEP] data sharings
+
+### other users
+
+10.1 some elements of your personal information and some information about
+your use of gog services are accessible to other gog users. [CLS] [SEP] for example: other
+users of gog services will be able to see your username and avatar (if you
+choose to have one). [CLS] [SEP] we may also display other information derived from your
+activity on gog services. [CLS] [SEP] we do this to help gog users to find gamers with
+similar tastes and to build the gog user community. [CLS] [SEP] you can manage the privacy
+settings of your gog user profile in your gog account. [CLS] [SEP]
+
+some information about you will be visible on gog.com as a part of your gog
+user profile, this can be managed via privacy settings for your gog account. [CLS] [SEP]
+
+10.2 gwent. [CLS] [SEP] when you create a gwent account, some basic data about you (namely
+your username, card collection, and statistics) will form a part of your
+public profile and it will be visible to everyone who views your profile. [CLS] [SEP] you
+can disable this function and manage the visibility of your profile through
+your gwent account settings at any time. [CLS] [SEP]
+
+limited data about you will be visible as a part of your public gwent profile,
+but it can be disabled at any time via the privacy settings in your account. [CLS] [SEP]
+
+10.3 how you use your information. [CLS] [SEP] please remember that any communications you
+have via gog services (e.g. [CLS] [SEP] via private messages, chat or the gog forums or
+via multiplayer games like gwent) may reveal your screen name, other details
+about you and the content of any communications by you with other users (see
+further section 10.2 above re gwent). [CLS] [SEP] also, any information and content you
+share publicly using gog services (e.g. [CLS] [SEP] on our forums or your gog user
+profile) will be accessible to gog users and others. [CLS] [SEP] consider carefully with
+whom you share your information and avoid sharing contact or private
+information about yourself. [CLS] [SEP]
+
+when you're using gog services you can choose to share your own personal
+information with others (e.g. [CLS] [SEP] in chat) but it's your responsibility. [CLS] [SEP]
+
+our trusted partners
+
+10.4. [CLS] [SEP] in general, we do not disclose information about you to third parties
+without your consent. [CLS] [SEP] we may share your data only with the following
+categories of third parties who were engaged by us to help deliver our
+services and functionalities to you (they are formally called “data
+processors”). [CLS] [SEP] when we provide your information to these trusted partners,
+their use and disclosure of it is subject to limitations in our agreements
+with them:
+
+  * customer support partners that provide us with software and support ticket system to help us managing your customer support requests (like zendesk inc.);
+  * advertising and advertising measurement partners to facilitate targeting, delivery and measurement of online advertising on third-party services (such as google adwords) or that provide us with email delivery tools (such as getresponse);
+  * gog’s subsidiaries and affiliates, including cd projekt s.a, who help us providing you with gwent and enable you to participate in gwent esports competition;
+  * anti-cheat companies: we may share the information required for our detection, investigation and prevention of cheating in gwent. [CLS] [SEP]
+  * third party vendors that provide us with analytical tools for gog.com and for gwent;
+  * third party vendors that provide us with error tracking and crash reporting tools;
+  * third party platforms that may sell content which is activated by gog using our direct to account api (more details of which can be found in our user agreement);
+  * if you purchase via gog galaxy store - third party platforms that you have chosen to connect your gog account to activate your purchased content on that external platform ;
+  * third party network providers to optimize delivery of gog content you requested (we share only your ip address and the identification of gog content you wish to access);
+  * data storage partners: we may store some of your information using third-party data storage services, e.g. [CLS] [SEP] for cloud saves, we may use google services to run surveys on gog.com;
+  * our professional advisors dealing f.ex. [CLS] [SEP] with legal, tax, audit or accounting matters. [CLS] [SEP]
+
+in general, we don’t share information about you with third parties. [CLS] [SEP] there are
+exceptions like our trusted partners that help us do our thing. [CLS] [SEP] they usually
+help us with things like data analytics, processing payments, internal tools
+or running a variety of marketing activities. [CLS] [SEP]
+
+10.5 during the payment process, we may also share information about you with
+the following categories of third partners who handle it independently as the
+so-called data controllers:
+
+  * payment-providers for payment processing purposes;
+  * banks and financial institutions to obtain payment;
+  * anti-fraud service providers;
+
+10.6 some forms on this site require the use of google's recaptcha service
+before they can be submitted. [CLS] [SEP] this plugin checks if you are a person in order
+to prevent certain website functions from being (ab)used by spam bots
+(particularly comments). [CLS] [SEP] use of the recaptcha service is subject to the google
+[privacy policy](https://policies.google.com/privacy) and [terms of
+use.](https://policies.google.com/terms)
+
+10.7 your information may be processed, stored and transferred outside your
+country of residence and beyond the european economic area (eea) and
+switzerland, such as the united states, canada or brazil. [CLS] [SEP] privacy laws in
+these countries may not offer the same level of protection as in your country
+or in the eea. [CLS] [SEP] but whenever we’re sharing your personal information outside
+the eea and switzerland, we will do so on the basis of the eu standard
+contractual clauses and/or other lawful measures to transfer your data and
+establish adequate protection of your personal information
+
+### 11\. [CLS] [SEP] third party information collection and external services
+
+11.1 gog services may, from time to time, contain links to and from the
+websites or services of third parties (e.g. [CLS] [SEP] to games developers whose games
+are on gog). [CLS] [SEP] in addition, third parties (e.g. [CLS] [SEP] games developers/publishers) may
+also collect personally identifiable information (e.g. [CLS] [SEP] your email address or
+name) if you want to access additional game services, but they can collect any
+such information only after you have been informed of it and consented to it. [CLS] [SEP]
+this may include saving information to your gog profile in relation to their
+games (such as, for example, saving game progress). [CLS] [SEP] our privacy policy does
+not extend to these external sites or companies, so please refer directly to
+their privacy policies. [CLS] [SEP] this also applies to gog galaxy integrations created
+by the community. [CLS] [SEP]
+
+you may find links on gog.com that lead outside our website. [CLS] [SEP] sometimes we
+might need to direct you elsewhere (like a developer’s website) if you want to
+access additional features built into your games. [CLS] [SEP] these sites might collect
+your information under their own privacy policies. [CLS] [SEP]
+
+11.2 gog services may also offer you easy and optional access to gog-approved
+trusted partners’ services, e.g. [CLS] [SEP] the websites and games provided by our
+related company cd projekt. [CLS] [SEP] in order to do this, we will need to share some of
+your personal information (e.g. [CLS] [SEP] your email address) with them, as long as you
+agree to it. [CLS] [SEP] this personal information will be protected under our trusted
+partner’s privacy policy. [CLS] [SEP]
+
+you can use gog services to access cool stuff from gog-approved trusted
+partners. [CLS] [SEP] we will need to share some personal information with them (which you
+control). [CLS] [SEP] it is up to you if you want to use your gog account for this or not. [CLS] [SEP]
+
+11.3 a quick word about gog connect (which you can read more about here). [CLS] [SEP] in
+order for us to provide this (optional) feature to you, we will need access to
+valve’s service allowing us to retrieve certain data regarding steam and games
+available via steam (“steam data”). [CLS] [SEP] we will treat the steam data consistent
+with this privacy policy. [CLS] [SEP] we will only retrieve steam data regarding your
+steam account as requested by you and we will notify you what if any steam
+data is stored by us. [CLS] [SEP] we will not intercept, store or use your steam password
+or login. [CLS] [SEP] in accordance with valve’s requirements, steam data is provided: (i)
+"as is," "with all faults" and "as available," and the entire risk as to
+satisfactory quality, performance, accuracy, and effort is with you. [CLS] [SEP] to the
+maximum extent permitted by applicable law, valve, steam game publishers and
+developers, and their suppliers make no representations, warranties or
+conditions, express or implied. [CLS] [SEP] valve, steam game publishers and developers,
+and their suppliers expressly disclaim any and all warranties or conditions,
+express, statutory and implied, including without limitation (a) warranties or
+conditions of merchantability, fitness for a particular purpose, workmanlike
+effort, accuracy, title, quiet enjoyment, no encumbrances, no liens and non-
+infringement, (b) warranties or conditions arising through course of dealing
+or usage of trade, and (c) warranties or conditions of uninterrupted or error-
+free access or use. [CLS] [SEP] (ii) in no event will valve or any supplier be liable for
+any damages, including without limitation any indirect, consequential,
+special, incidental, or punitive damages arising out of, based on, or
+resulting from its api terms of use or your use of steam web api, steam data,
+or valve brand & links, even if such party has been advised of the possibility
+of such damages. [CLS] [SEP] the exclusion of damages under this paragraph is independent
+of your exclusive remedy and survives in the event such remedy fails of its
+essential purpose or is otherwise deemed unenforceable. [CLS] [SEP] these limitations and
+exclusions apply without regard to whether the damages arise from (a) breach
+of contract, (b) breach of warranty, (c) negligence, or (d) any other cause of
+action, to the extent such exclusion and limitations are not prohibited by
+applicable law. [CLS] [SEP] if you do not agree with any part of the above, or you have
+any dispute or claim against valve or its suppliers with respect to the above,
+then your sole and exclusive remedy is to discontinue using the steam web api,
+steam data, and valve brand & links. [CLS] [SEP]
+
+if you’d like to use our gog connect feature, we’ll require access to your
+“steam data” (more info opposite). [CLS] [SEP] there are some legal rules that valve
+requires us to follow. [CLS] [SEP]  
+  
+
+### 12\. [CLS] [SEP] other stuff
+
+12.1 please be aware that we are subject to various laws and we may be
+required to release personal information to comply with law enforcement or
+other legal requirements. [CLS] [SEP]
+
+we might be required to comply with law enforcement requests to release
+personal information. [CLS] [SEP]
+
+12.2 in the unlikely event of a reorganisation or merger of gog or gog
+accounts we may transfer personally identifiable information to an involved
+third party who will protect this to at least the same level as we do in this
+privacy policy. [CLS] [SEP]
+
+regardless of any reorganisations, acquisitions, etc., your personal
+information will be protected the same way as it is right now. [CLS] [SEP] fear not!  
+  
+
+### 13\. [CLS] [SEP] your rights
+
+13.1 you have the right to object to the processing of your personal data in
+certain situations f.ex. [CLS] [SEP] for marketing purposes at any time. [CLS] [SEP] you can do so by
+contacting us at privacy@gog.com, here or by changing your email settings
+within your gog account, or
+[here](https://support.gog.com/hc/requests/new?form=other). [CLS] [SEP] also email
+communications from gog to you will contain an opt-out/unsubscribe option. [CLS] [SEP]
+
+know your rights! these include the right to know how your personal
+information is being used, access to the data itself, the right to alter it,
+transfer, restrict how we use it, or just have it all deleted. [CLS] [SEP] simply contact
+us at privacy@gog.com. [CLS] [SEP]
+
+13.2 depending on where you live, you may have additional privacy rights. [CLS] [SEP] for
+example, under eu laws you have the following additional rights:
+
+  * to access information we hold about you;
+  * to request that we delete your personal information from our system;
+  * to ask us to rectify/correct your personal information if appropriate. [CLS] [SEP]
+  * to ask us to restrict processing of your data
+  * to transmit your data to another entity;
+  * to lodge a complaint with a data protection authority. [CLS] [SEP]
+
+you can exercise these rights by contacting us f.ex. [CLS] [SEP]
+[here](https://support.gog.com/hc/requests/new?form=other) or at
+privacy@gog.com. [CLS] [SEP]
+
+you may have additional privacy rights (see opposite). [CLS] [SEP]
+
+13.3 if you have any concerns about your privacy please contact us first. [CLS] [SEP] if
+however you feel we have not dealt with your concern you can report this to
+your local data protection authority or the prezes urzędu ochrony danych
+osobowych ("puodo") in poland. [CLS] [SEP]
+
+### 14\. [CLS] [SEP] changes to this privacy policy
+
+14.1 we may change this privacy policy if we think it's necessary for legal
+reasons or to reflect changes in gog services. [CLS] [SEP] if so, we will make the changed
+privacy policy available online and (if you have a gog account) we'll email
+you to explain the changes. [CLS] [SEP] we will also update the “last updated” date. [CLS] [SEP]
+
+we might make changes to our privacy policy but whenever we do we’ll display
+the changes online. [CLS] [SEP] these usually take effect after 30 days. [CLS] [SEP] feel free to
+contact us if you have any questions about the changes. [CLS] [SEP]
+
+### 15\. [CLS] [SEP] user agreement
+
+15.1 we'd also like to remind you that our user agreement has more information
+about how we operate gog services and it has a number of sections which apply
+to this privacy policy too. [CLS] [SEP] you can read it at [user
+agreement](https://support.gog.com/hc/en-us/articles/212632089-gog-user-
+agreement). [CLS] [SEP]
+
+just a reminder to check our user agreement as well. [CLS] [SEP]
+
+last updated: 05.10.2020
+
+(see the previous version of the privacy policy
+[here](%20https://support.gog.com/hc/articles/360009921554))
+
+was this article helpful? 283 out of 305 found this helpful
+
+[](/hc/en-us/signin?return_to=https%3a%2f%2fsupport.gog.com%2fhc%2fen-
+us%2farticles%2f212632109-privacy-policy "yes") [](/hc/en-
+us/signin?return_to=https%3a%2f%2fsupport.gog.com%2fhc%2fen-
+us%2farticles%2f212632109-privacy-policy "no")
+
+  * [facebook](https://www.facebook.com/share.php?title=privacy+policy&u=https%3a%2f%2fsupport.gog.com%2fhc%2fen-us%2farticles%2f212632109-privacy-policy)
+  * [twitter](https://twitter.com/share?lang=en&text=privacy+policy&url=https%3a%2f%2fsupport.gog.com%2fhc%2fen-us%2farticles%2f212632109-privacy-policy)
+  * [linkedin](https://www.linkedin.com/sharearticle?mini=true&source=gog.com&title=privacy+policy&url=https%3a%2f%2fsupport.gog.com%2fhc%2fen-us%2farticles%2f212632109-privacy-policy)
+
+### articles in this section
+
+  * [gog user agreement](/hc/en-us/articles/212632089-gog-user-agreement)
+  * [gog voluntary refund policy](/hc/en-us/articles/360006129837-gog-voluntary-refund-policy)
+  * [gog galaxy store voluntary refund policy](/hc/en-us/articles/360013611798-gog-galaxy-store-voluntary-refund-policy)
+  * [gog galaxy® licence agreement](/hc/en-us/articles/360023617474-gog-galaxy-licence-agreement)
+  * [privacy policy](/hc/en-us/articles/212632109-privacy-policy)
+  * [cookie policy](/hc/en-us/articles/115000498685-cookie-policy)
+  * [copyright policy](/hc/en-us/articles/213224285-copyright-policy)
+  * [legal info](/hc/en-us/articles/360024977313-legal-info)
+  * [gog galaxy privacy notice](/hc/en-us/articles/360023620554-gog-galaxy-privacy-notice)
+  * [privacy statement for california residents](/hc/en-us/articles/360004559077-privacy-statement-for-california-residents)
+
+#### do you have more questions?
+
+![](//theme.zdassets.com/theme_assets/987253/8d8cc34cc323360e807142a66d64afebb25735f0.png)
+
+didn't find the answer you were looking for?
+
+if you were unable to find the answers you were looking for, please reach out
+and someone from our friendly and knowledgeable support team will be happy to
+help with their top-notch assistance! we know you want to get back to gaming,
+so we strive to answer all messages within 24 hours. [CLS] [SEP]
+
+[ contact us ](/hc/en-us/requests/new)
+
+![](//theme.zdassets.com/theme_assets/987253/e5104494e426ac28b8d5722e646d48131c9a8b99.png)
+
+want to get help and maybe make some new friends?
+
+we’ve got a great community here on gog, which is always eager to help out. [CLS] [SEP]
+please make sure not to share private data on public forums, though!
+
+[ ask our community ](https://www.gog.com/forum)
+
+part of [](https://www.cdprojekt.com/) group. [CLS] [SEP]
+
+[contact us](/hc/requests/new?form=other) [legal](/hc/sections/115000136785)
+[business and press inquiries](mailto:inquiries@gog.com)
+

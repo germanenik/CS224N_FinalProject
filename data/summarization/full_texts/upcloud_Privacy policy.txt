@@ -1,0 +1,613 @@
+  * [documentation](https://upcloud.com/docs/)
+  * [api](https://developers.upcloud.com/)
+  * [faq](https://upcloud.com/faq/)
+  * [contact sales](https://upcloud.com/contact/)
+
+[ upcloud brand guide-0 created with sketch. [CLS] [SEP] ](https://upcloud.com)
+
+  * [products](https://upcloud.com/products/)
+    * compute
+      * [cloud servers](https://upcloud.com/products/cloud-servers/)
+      * [private cloud](https://upcloud.com/products/private-cloud/)
+    * storage
+      * [maxiops](https://upcloud.com/products/maxiops-storage/)
+      * [object storage](https://upcloud.com/products/object-storage/)
+      * [simple backup](https://upcloud.com/products/backup/)
+    * networking
+      * [sdn private networks](https://upcloud.com/products/software-defined-networking/)
+      * [network transfer pool](https://upcloud.com/products/network-transfer-pool/)
+  * [pricing](https://upcloud.com/pricing/)
+  * [compare](https://upcloud.com/compare/)
+    * [aws ec2](https://upcloud.com/compare/aws-ec2/)
+    * [azure](https://upcloud.com/compare/azure/)
+    * [digitalocean](https://upcloud.com/compare/digitalocean/)
+    * [linode](https://upcloud.com/compare/linode/)
+    * [vultr](https://upcloud.com/compare/vultr/)
+  * [resources](https://upcloud.com/community/)
+    * community
+      * [overview](https://upcloud.com/community//)
+      * [use cases](https://upcloud.com/community//stories/)
+      * [events](https://upcloud.com/community//events/)
+    * resources
+      * [tutorials](https://upcloud.com/community//tutorials/)
+      * [resources](https://upcloud.com/community//resources/)
+      * [documentation](https://upcloud.com/docs)
+      * [data centres](https://upcloud.com/data-centres/)
+      * [faq](https://upcloud.com/faq/)
+      * [api](https://developers.upcloud.com/)
+  * [partners](https://upcloud.com/partners/)
+  * company
+    * [about us](https://upcloud.com/about/)
+    * [blog](https://upcloud.com/blog//)
+    * [careers](https://upcloud.com/careers/)
+    * [media centre](https://upcloud.com/media-centre/)
+    * [contact us](https://upcloud.com/contact/)
+    * [newsletter](https://upcloud.com/sign-up-newsletter/)
+
+[ log in](https://hub.upcloud.com) [ sign up](https://upcloud.com/signup/)
+
+  * [products](https://upcloud.com/products/)
+    * compute
+      * [cloud servers](https://upcloud.com/products/cloud-servers/)
+      * [private cloud](https://upcloud.com/products/private-cloud/)
+    * storage
+      * [maxiops](https://upcloud.com/products/maxiops-storage/)
+      * [object storage](https://upcloud.com/products/object-storage/)
+      * [simple backup](https://upcloud.com/products/backup/)
+    * networking
+      * [sdn private networks](https://upcloud.com/products/software-defined-networking/)
+      * [network transfer pool](https://upcloud.com/products/network-transfer-pool/)
+  * [pricing](https://upcloud.com/pricing/)
+  * [compare](https://upcloud.com/compare/)
+    * [aws ec2](https://upcloud.com/compare/aws-ec2/)
+    * [azure](https://upcloud.com/compare/azure/)
+    * [digitalocean](https://upcloud.com/compare/digitalocean/)
+    * [linode](https://upcloud.com/compare/linode/)
+    * [vultr](https://upcloud.com/compare/vultr/)
+  * [resources](https://upcloud.com/community/)
+    * community
+      * [overview](https://upcloud.com/community//)
+      * [use cases](https://upcloud.com/community//stories/)
+      * [events](https://upcloud.com/community//events/)
+    * resources
+      * [tutorials](https://upcloud.com/community//tutorials/)
+      * [resources](https://upcloud.com/community//resources/)
+      * [documentation](https://upcloud.com/docs)
+      * [data centres](https://upcloud.com/data-centres/)
+      * [faq](https://upcloud.com/faq/)
+      * [api](https://developers.upcloud.com/)
+  * [partners](https://upcloud.com/partners/)
+  * company
+    * [about us](https://upcloud.com/about/)
+    * [blog](https://upcloud.com/blog//)
+    * [careers](https://upcloud.com/careers/)
+    * [media centre](https://upcloud.com/media-centre/)
+    * [contact us](https://upcloud.com/contact/)
+    * [newsletter](https://upcloud.com/sign-up-newsletter/)
+
+[ log in](https://hub.upcloud.com) [ sign up](https://upcloud.com/signup/)
+
+# privacy policy
+
+this policy applies to all our all existing users as of 2018-05-17, and any
+new users as of 2018-04-17. [CLS] [SEP]
+
+**please note!** not everybody has a law degree or speak english natively, so
+we have added helpful **tl;dr** ("too long; didn't read") in plain english
+that summarize each term. [CLS] [SEP] these are only meant to help you understand the
+general meaning and are not legally binding terms of service!
+
+
+
+[upcloud](https://upcloud.com/about/) ltd ("upcloud", "we") might collect and
+process personal data of users of upcloud’s website and online services. [CLS] [SEP] this
+privacy policy applies to personal data we obtain from our customers and their
+representatives ("users") through our websites when the relevant user
+registers to upcloud’s cloud-based infrastructure and software services
+(collectively, the "services"). [CLS] [SEP] in addition, some of our services might be
+subject to a separate privacy policy. [CLS] [SEP] if a separate privacy policy applies to
+a particular service, we will post it on the relevant website or otherwise in
+connection with the service in question. [CLS] [SEP]
+
+**tl;dr** this privacy policy applies to the personal data of our users and
+visitors. [CLS] [SEP]
+
+our privacy policy explains what data we process, how we do that and how the
+data subjects, i.e. [CLS] [SEP] users, may use their rights (e.g. [CLS] [SEP] right to object, right
+of access). [CLS] [SEP]
+
+this privacy policy constitutes a description of the data file as set out in
+the finnish personal data act (sections 10 and 24). [CLS] [SEP]
+
+this privacy policy may be updated if required in order to reflect the changes
+in data processing practices or otherwise. [CLS] [SEP] the current version can be found on
+our website www.upcloud.com. [CLS] [SEP] we will not make substantial changes to this
+privacy policy or reduce the rights of users under this privacy policy without
+providing a notice thereof. [CLS] [SEP]
+
+**tl;dr** this policy might receive small updates, and if so, we’ll let you
+know. [CLS] [SEP]
+
+this privacy policy only covers data processing carried out by upcloud. [CLS] [SEP] the
+privacy policy does not address, and we are not responsible for, the privacy
+practices of any third parties. [CLS] [SEP] upcloud disclaims all responsibility for the
+processing carried out by third parties, also in cases where services include
+hyperlinks to third parties’ websites. [CLS] [SEP]
+
+**tl;dr** we take care of our users privacy but cannot be responsible for the
+privacy practices of any third parties. [CLS] [SEP]
+
+please note that this privacy policy applies to processing of personal data
+carried out by upcloud as a data controller. [CLS] [SEP] as regards the data upcloud’s
+customers or users insert into services while using the services, upcloud
+registers this personal data as a data processor and the relevant customer
+shall be considered to be the data controller with regard to this personal
+data. [CLS] [SEP]
+
+**tl;dr** we only control personal data of our users. [CLS] [SEP] if a user uploads
+personal data onto our services, they are the data controller and we only the
+data processor. [CLS] [SEP]
+
+privacy, security and online safety are important for us, and we process all
+personal data with due care and in accordance with applicable laws and
+regulations. [CLS] [SEP]
+
+### controller's contact details. [CLS] [SEP]
+
+**upcloud ltd.**  
+company id: 2431560-5  
+e-mail address: [[email protected]](/cdn-cgi/l/email-
+protection#731b161f1f1c330603101f1c06175d101c1e)  
+phone: +358-9-3158 4810  
+www.upcloud.com
+
+### personal data processed and sources of data. [CLS] [SEP]
+
+we collect two types of information from the users: (i) user data; and (ii)
+technical data. [CLS] [SEP] although we do not normally use technical data to identify
+individuals, sometimes individuals can be recognized from it, either alone or
+when combined or linked with user data. [CLS] [SEP] in such situations, technical data can
+also be considered to be personal data under applicable laws and we will treat
+the combined data as personal data. [CLS] [SEP]
+
+**tl;dr** we collect user data and technical data, both of which are
+considered users’ personal data and treated as such. [CLS] [SEP]
+
+upcloud may collect and process for example the following user data from
+users: (i) name and contact details; (ii) e-mail address; (iii) phone number;
+(iv) invoicing and billing information; (v) other personal data users provide
+themselves. [CLS] [SEP]
+
+the specific kind of user data collected will depend on the services used by
+the user. [CLS] [SEP] most of the user data is received directly from users at the point
+of registration or otherwise at beginning of and during the customer
+relationship. [CLS] [SEP]
+
+technical data we gather in connection with the use of our services includes
+for example the following data: (i) user’s ip address; (ii) browser type and
+version; (iii) preferred language; (iv) geographic location using ip address
+or the gps, wireless, or bluetooth technology on your device; (v) operating
+system and computer platform; (vi) the full uniform resource locator (url)
+clickstream to, through, and from our services, including date and time; (vii)
+products or services user viewed or searched for while using our services; and
+(viii) areas of our services user has visited. [CLS] [SEP]
+
+##### cookies. [CLS] [SEP]
+
+we use various technologies to collect and store technical data and other
+information when users visit our services, including cookies. [CLS] [SEP] cookies allow us
+to calculate the aggregate number of people visiting our services and monitor
+the use of the services. [CLS] [SEP] this helps us to improve our services and better
+serve our users. [CLS] [SEP] we may also use cookies that make the use of the services
+easier, for example by remembering usernames, passwords and preferences. [CLS] [SEP] we
+may use tracking and analytics cookies to see how well our services are being
+received by our users. [CLS] [SEP]
+
+**tl;dr** we use web browser cookies to maintain, improve, and make the use of
+our services easier. [CLS] [SEP]
+
+users may choose to set their web browser to refuse cookies, or to alert when
+cookies are being sent. [CLS] [SEP] this can usually be done through internet browser’s
+settings. [CLS] [SEP] information about how to manage cookies can be found online. [CLS] [SEP]
+
+for example, the following links provide information on how to adjust the
+cookie settings on some popular browsers:
+
+  * [google chrome](https://support.google.com/chrome/answer/95647?co=genie.platform%3ddesktop&hl=en)
+  * [internet explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [mozilla firefox](https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences)
+  * [safari](https://support.apple.com/kb/ph21411)
+
+please note that some parts of our services may not function properly if use
+of cookies is refused. [CLS] [SEP]
+
+**tl;dr** you may decline cookies but our services might not work correctly
+without them. [CLS] [SEP]
+
+##### web analytics services. [CLS] [SEP]
+
+our services use several web analytics services to compile technical data and
+reports on visitor usage and to help us improve our services. [CLS] [SEP]
+
+### purposes and legitimate grounds for processing of personal data. [CLS] [SEP]
+
+#### purposes
+
+there are several purposes for the processing of personal data by upcloud. [CLS] [SEP]
+personal data is processed by upcloud for managing the relationships with
+customers, facilitating transactions and payments, and for managing,
+developing and analysing our customer service. [CLS] [SEP] personal data is also used to
+direct marketing at special customer groups, and other business activities
+related to any of these activities. [CLS] [SEP]
+
+**tl;dr** we process personal data to provide you with our services. [CLS] [SEP]
+
+personal data is also processed by upcloud for the following purposes:
+
+##### to provide our services and carry out our contractual obligations. [CLS] [SEP]
+
+we process personal data in the first place to be able to offer the services
+to our customers and users and to run, maintain and develop our business. [CLS] [SEP] in
+some cases, personal data may be processed in order to carry out our
+contractual obligations towards the user. [CLS] [SEP] we may use the data for example to
+offer essential functionalities of the services and to provide access to the
+services. [CLS] [SEP] if user contacts our customer service, we will use the provided
+information for answering questions and solving possible issues. [CLS] [SEP]
+
+##### for customer communication. [CLS] [SEP]
+
+we may process personal data for the purpose of contacting users regarding our
+services and to inform users of changes in our services. [CLS] [SEP] data may also be used
+for research and analysis purposes in order to improve our services. [CLS] [SEP]
+
+##### for quality improvement and trend analysis. [CLS] [SEP]
+
+we may process information regarding the use of the services to improve the
+quality of our services e.g. [CLS] [SEP] by analysing any trends in the use of our
+services. [CLS] [SEP] when possible, we will do this using only aggregated, non-
+personally identifiable data. [CLS] [SEP]
+
+### legitimate grounds for processing. [CLS] [SEP]
+
+we process personal data to perform our contractual obligations towards users
+and to comply with legal obligations. [CLS] [SEP] furthermore, we process personal data to
+pursue our legitimate interest to run, maintain and develop our business. [CLS] [SEP]
+
+in some parts of the services, users may be requested to grant their consent
+for the processing of personal data. [CLS] [SEP] in this event, users may withdraw their
+consent at any time. [CLS] [SEP]
+
+#### transfer to countries outside of europe. [CLS] [SEP]
+
+we store the users’ personal data primarily within the european economic area. [CLS] [SEP]
+however, we have service providers in several geographical locations. [CLS] [SEP] as such,
+we and our service providers may transfer personal data to, or access it in,
+jurisdictions outside the european economic area or the user’s domicile. [CLS] [SEP]
+
+we will take steps to ensure that the users’ personal data receives an
+adequate level of protection in the jurisdictions in which it is processed. [CLS] [SEP] we
+provide adequate protection for the transfers of personal data to countries
+outside of the european economic area through a series of agreements with our
+service providers based on the standard contractual clauses or other similar
+arrangements. [CLS] [SEP]
+
+more information regarding the transfers of personal data may be obtained by
+contacting us on addresses mentioned in this privacy policy. [CLS] [SEP]
+
+**tl;dr** we usually keep your personal data within the eea but might need to
+transfer or access it elsewhere, if so we’ll make sure your data is kept safe. [CLS] [SEP]
+
+### recipients. [CLS] [SEP]
+
+we only share personal data within the organisation of upcloud if and as far
+as reasonably necessary to perform and develop our services. [CLS] [SEP] we do not share
+personal data with third parties outside of upcloud’s organization unless one
+of the following circumstances applies:
+
+##### it is necessary for the purposes set out in this privacy policy
+
+to the extent that third parties need access to personal data to perform the
+services, upcloud has taken appropriate contractual and organisational
+measures to ensure that personal data are processed exclusively for the
+purposes specified in this privacy policy and in accordance with all
+applicable laws and regulations. [CLS] [SEP]
+
+##### for legal reasons
+
+we may share personal data with third parties outside upcloud’s organization
+if we have a good-faith belief that access to and use of the personal data is
+reasonably necessary to: (i) meet any applicable law, regulation, and/or court
+order; (ii) detect, prevent, or otherwise address fraud, security or technical
+issues; and/or (iii) protect the interests, properties or safety of upcloud,
+our users or the public in accordance with the law. [CLS] [SEP] when possible, we will
+inform users about such transfer and processing. [CLS] [SEP]
+
+##### to authorized service providers
+
+we may share personal data to authorized service providers who perform
+services for us (including data storage, sales, marketing and customer support
+services). [CLS] [SEP] our agreements with our service providers include commitments that
+the service providers agree to limit their use of personal data and to comply
+with privacy and security standards at least as stringent as the terms of this
+privacy policy. [CLS] [SEP] please bear in mind that if you provide personal data directly
+to a third party, such as through a link on our website, the processing is
+typically based on their policies and standards. [CLS] [SEP]
+
+##### for other legitimate reasons
+
+if upcloud is involved in a merger, acquisition or asset sale, we may transfer
+personal data to the third party involved. [CLS] [SEP] however, we will continue to ensure
+the confidentiality of all personal data. [CLS] [SEP] we will give notice to all users
+concerned when the personal data are transferred or become subject to a
+different privacy policy as soon as reasonably possible. [CLS] [SEP]
+
+##### with explicit consent
+
+we may share personal data with third parties outside upcloud’s organization
+for other reasons than the ones mentioned before, when we have the user’s
+explicit consent to do so. [CLS] [SEP] the user has the right to withdraw this consent at
+all times. [CLS] [SEP]
+
+**tl;dr** we do not share your personal data with third-parties unless
+necessary to provide you with our services or for legal reasons. [CLS] [SEP]
+
+### storage period. [CLS] [SEP]
+
+upcloud does not store personal data longer than is legally permitted and
+necessary for the purposes of providing the services or the relevant parts
+thereof. [CLS] [SEP] the storage period depends on the nature of the information and the
+purposes of processing. [CLS] [SEP] the maximum period may therefore vary per use. [CLS] [SEP]
+
+typically, we will store user’s personal data for as long as the user or the
+relevant customer user represents is a registered subscriber or a registered
+user of our services or for as long as we have another purpose to do so and,
+thereafter, for no longer than is required or permitted by law or reasonably
+necessary for internal reporting and reconciliation purposes. [CLS] [SEP]
+
+in general, personal data of users are deleted within reasonable time after
+the user no longer uses any part of the services or when the user makes a
+request regarding deletion of user’s personal data. [CLS] [SEP]
+
+**tl;dr** we only store your personal data for while you are using our
+services. [CLS] [SEP] the data will be deleted within reasonable time after you’ve stopped
+using our services or request your personal data to be deleted. [CLS] [SEP]
+
+### users' rights. [CLS] [SEP]
+
+##### right to access
+
+upcloud offers access for the users to the personal data processed by upcloud. [CLS] [SEP]
+this means that users may contact us and we will inform what personal data we
+have collected and processed regarding the said user and the purposes such
+data are used for. [CLS] [SEP]
+
+### right to withdraw consent. [CLS] [SEP]
+
+in case the processing is based on a consent granted by user, user may
+withdraw the consent at any time. [CLS] [SEP] withdrawing a consent may lead to fewer
+possibilities to use our services. [CLS] [SEP]
+
+### right to correct. [CLS] [SEP]
+
+users have the right to have incorrect, imprecise, incomplete, outdated, or
+unnecessary personal data we have stored about the user corrected or
+completed. [CLS] [SEP]
+
+### right to deletion. [CLS] [SEP]
+
+users may also ask us to delete the user’s personal data from our systems. [CLS] [SEP] we
+will comply with such request unless we have a legitimate ground to not delete
+the data. [CLS] [SEP] we may not immediately be able to delete all residual copies from
+our servers and backup systems after the active data have been deleted. [CLS] [SEP] such
+copies shall be deleted as soon as reasonably possible. [CLS] [SEP]
+
+### right to object. [CLS] [SEP]
+
+users may object to certain use of personal data if such data are processed
+for other purposes than purposes necessary for the performance of our services
+to the user or for compliance with a legal obligation. [CLS] [SEP]
+
+users may also object any further processing of personal data after prior
+given consent. [CLS] [SEP] if user objects the further processing of personal data, this
+may lead to fewer possibilities to use our services. [CLS] [SEP]
+
+in the event and at the sole discretion of upcloud, if it is determined that
+the service can no longer be provided without customer acceptance of modified
+terms, a pro-rated refund of service will be paid back to the user. [CLS] [SEP]
+
+### right to restriction of processing. [CLS] [SEP]
+
+users may request us to restrict certain processing of personal data, this may
+however lead to fewer possibilities to use our services. [CLS] [SEP]
+
+### right to data portability. [CLS] [SEP]
+
+users have the right to receive their personal data from us in a structured
+and commonly used format and to independently transmit those data to a third
+party. [CLS] [SEP]
+
+### how to use the rights. [CLS] [SEP]
+
+the above mentioned rights may be used by sending a letter or an e-mail to us
+on the addresses set out above, including the following information: the full
+name, company name (if applicable), address, e-mail address and a phone
+number. [CLS] [SEP] we may request the provision of additional information necessary to
+confirm the identity of the user. [CLS] [SEP] we may reject requests that are unreasonably
+repetitive, excessive or manifestly unfounded. [CLS] [SEP]
+
+**tl;dr** as a user you have the right to access, correct, and delete your
+personal data. [CLS] [SEP] contact us for any requests to exercise your rights. [CLS] [SEP]
+
+### direct marketing. [CLS] [SEP]
+
+notwithstanding any consent granted beforehand for the purposes of direct
+marketing, user has the right to prohibit us from using user’s personal data
+for direct marketing purposes, market research and profiling by contacting us
+on the addresses indicated above or by using the functionalities of the
+services or the unsubscribe possibility offered in connection with any direct
+marketing messages. [CLS] [SEP]
+
+you have the right to opt out of receiving electronic direct marketing
+communications from us, and choosing not to receive marketing communications
+from us in the future. [CLS] [SEP] upcloud uses the users’ e-mail addresses on record to
+communicate of updates and important information regarding the upcloud
+infrastructure in the form of occasional newsletters. [CLS] [SEP] users have the
+possibility to opt out of these e-mails by unsubscribing through the e-mail
+itself. [CLS] [SEP]
+
+you also have the right to prohibit us from using your personal data for
+direct marketing purposes, market research and profiling by contacting us on
+the addresses indicated above. [CLS] [SEP] in case your personal data are processed based
+on your consent, you have the right to withdraw your consent for such
+processing. [CLS] [SEP]
+
+**tl;dr** you have the right to prohibit us from using your personal data for
+direct marketing and unsubscribe from any e-mail campaigns. [CLS] [SEP]
+
+### lodging a complaint. [CLS] [SEP]
+
+in case user considers our processing of personal data to be inconsistent with
+the applicable data protection laws, a complaint may be lodged with the local
+supervisory authority for data protection. [CLS] [SEP]
+
+### information security. [CLS] [SEP]
+
+we will take all reasonable and appropriate security measures to protect the
+personal data we store and process from unauthorised access or unauthorised
+alteration, disclosure or destruction. [CLS] [SEP] measures include for example, where
+appropriate, encryption, firewalls, secure facilities and access right
+systems. [CLS] [SEP]
+
+we maintain all personal data collected through industry standard safe
+mechanisms including, but necessarily limited to encryption of password data
+as well as api keys, ssl-encryption, passing of credit card information
+directly to our pci compliant merchant processor and encryption of any
+collected credit card information. [CLS] [SEP]
+
+we use administrative, organizational, technical, and physical safeguards to
+protect the personal data we collect and process. [CLS] [SEP] our security controls are
+designed to maintain an appropriate level of data confidentiality, integrity,
+and availability. [CLS] [SEP] we regularly test our websites, data centres, systems, and
+other assets for security vulnerabilities. [CLS] [SEP]
+
+should despite of the security measures, a security breach occur that is
+likely to have negative effects to the privacy of users, we will inform the
+relevant users and other affected parties, as well as relevant authorities
+when required by applicable data protection laws, about the breach as soon as
+reasonably possible. [CLS] [SEP]
+
+**tl;dr** we use appropriate security measures to keep your personal data
+safe. [CLS] [SEP] if a breach that might affect your privacy should occur, we’ll inform
+the relevant authorities and let you know. [CLS] [SEP]
+
+## locations
+
+  * helsinki (hq)
+  * london
+  * singapore
+  * seattle
+
+### helsinki (hq)
+
+in the capital city of finland, you will find our headquarters, and our first
+data centre. [CLS] [SEP] this is where we handle most of our development and innovation. [CLS] [SEP]
+
+### email
+
+general[[email protected]](/cdn-cgi/l/email-
+protection#a6cec3cacac9e6d3d6c5cac9d3c288c5c9cb)  
+sales[[email protected]](/cdn-cgi/l/email-
+protection#0172606d6472417471626d6e74652f626e6c)  
+support[[email protected]](/cdn-cgi/l/email-
+protection#85f6f0f5f5eaf7f1c5f0f5e6e9eaf0e1abe6eae8)  
+
+### london
+
+london was our second office to open, and a important step in introducing
+upcloud to the world. [CLS] [SEP] here our amazing staff can help you with both sales and
+support, in addition to host tons of interesting meetups. [CLS] [SEP]
+
+### email
+
+general[[email protected]](/cdn-cgi/l/email-
+protection#375f525b5b58774247545b5842531954585a)  
+sales[[email protected]](/cdn-cgi/l/email-
+protection#2053414c4553605550434c4f55440e434f4d)  
+support[[email protected]](/cdn-cgi/l/email-
+protection#64171114140b161024111407080b11004a070b09)  
+
+### singapore
+
+singapore was our 3rd office to be opened, and enjoys one of most engaged and
+fastest growing user bases we have ever seen. [CLS] [SEP]
+
+### email
+
+general[[email protected]](/cdn-cgi/l/email-
+protection#751d1019191a35000516191a00115b161a18)  
+sales[[email protected]](/cdn-cgi/l/email-
+protection#ddaebcb1b8ae9da8adbeb1b2a8b9f3beb2b0)  
+support[[email protected]](/cdn-cgi/l/email-
+protection#34474144445b464074414457585b41501a575b59)  
+
+### seattle
+
+seattle is our 4th and latest office to be opened, and our way to reach out
+across the pond to our many users in the americas. [CLS] [SEP]
+
+### email
+
+general[[email protected]](/cdn-cgi/l/email-
+protection#adc5c8c1c1c2edd8ddcec1c2d8c983cec2c0)  
+sales[[email protected]](/cdn-cgi/l/email-
+protection#96e5f7faf3e5d6e3e6f5faf9e3f2b8f5f9fb)  
+support[[email protected]](/cdn-cgi/l/email-
+protection#a6d5d3d6d6c9d4d2e6d3d6c5cac9d3c288c5c9cb)  
+
+  * [products](https://upcloud.com/products/)
+    * [cloud servers](https://upcloud.com/products/cloud-servers/)
+    * [maxiops storage](https://upcloud.com/products/maxiops-storage/)
+    * [object storage](https://upcloud.com/products/object-storage/)
+    * [simple backup](https://upcloud.com/products/backup/)
+    * [sdn private networks](https://upcloud.com/products/software-defined-networking/)
+    * [network transfer pool](https://upcloud.com/products/network-transfer-pool/)
+    * [private cloud](https://upcloud.com/products/private-cloud/)
+  * [compare](https://upcloud.com/compare/)
+    * [aws ec2](https://upcloud.com/compare/aws-ec2/)
+    * [azure](https://upcloud.com/compare/azure/)
+    * [digitalocean](https://upcloud.com/compare/digitalocean/)
+    * [linode](https://upcloud.com/compare/linode/)
+    * [vultr](https://upcloud.com/compare/vultr/)
+  * [community](https://upcloud.com/community/)
+    * [overview](https://upcloud.com/community/)
+    * [use cases](https://upcloud.com/community/stories/)
+    * [events](https://upcloud.com/community/events/)
+    * [newsletter](https://upcloud.com/sign-up-newsletter/)
+  * resources
+    * [resources](https://upcloud.com/community/resources/)
+    * [tutorials](https://upcloud.com/community/tutorials/)
+    * [documentation](https://upcloud.com/docs/)
+    * [api](https://developers.upcloud.com/1.3/)
+    * [status page](https://status.upcloud.com/)
+    * [faq](https://upcloud.com/faq/)
+  * company
+    * [about upcloud](https://upcloud.com/about/)
+    * [blog & news](https://upcloud.com/blog/)
+    * [partners](https://upcloud.com/partners/)
+    * [careers](https://upcloud.com/careers/)
+    * [media centre](https://upcloud.com/media-centre/)
+    * [brand assets](https://upcloud.com/brand-assets/)
+    * [contact us](https://upcloud.com/contact/)
+
+[ ](https://upcloud.com "upcloud")
+
+upcloud ltd (c) 2020\. [CLS] [SEP] all rights reserved. [CLS] [SEP]
+
+[terms of service](/terms-of-service/) [privacy policy](/privacy-policy/)
+
+[ ](https://www.facebook.com/upcloudltd) [ ](https://twitter.com/upcloud) [
+](https://github.com/upcloudltd) [
+](https://www.linkedin.com/company/upcloud/) [
+](https://www.instagram.com/upcloud/) [
+](https://www.youtube.com/channel/uckikxf5pbtblygyhxdiuuuw)
+

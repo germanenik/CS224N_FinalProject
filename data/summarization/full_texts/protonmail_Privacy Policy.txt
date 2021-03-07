@@ -1,0 +1,369 @@
+__ limited-time offer: black friday sale, get up to 50% off. [CLS] [SEP] limited-time
+offer: cyber monday sale, get up to 50% off. [CLS] [SEP] extended black friday sale, get
+up to 50% off. [CLS] [SEP] [select your deal
+now.](blackfriday?itm_content=bf2020banner_mail) [exclusive black friday
+deals](blackfriday?itm_content=bf2020banner_mail) [exclusive cyber monday
+deals](blackfriday?itm_content=bf2020banner_mail) [extended black friday
+deals](blackfriday?itm_content=bf2020banner_mail)
+
+[ __](https://facebook.com/protonmail "facebook") [
+__](https://twitter.com/protonmail "twitter") [
+__](https://reddit.com/r/protonmail "reddit") [
+__](https://instagram.com/protonmail "instagram") [ mastodon
+](https://mastodon.social/@protonmail "mastodon")
+
+  * català
+  * čeština
+  * dansk
+  * deutsch
+  * ελληνικά
+  * english
+  * español (españa)
+  * français
+  * hrvatski
+  * magyar
+  * bahasa (indonesia)
+  * íslenska
+  * italiano
+  * 日本語
+  * taqbaylit
+  * dutch
+  * polski
+  * português (brasil)
+  * português (portugal)
+  * română
+  * русский
+  * svenska
+  * türkçe
+  * українська
+  * 简体中文
+  * 繁體中文
+  * [help translate](https://protonmail.com/blog/translation-project/)
+
+toggle navigation [ ![protonmail](images/pm-logo-white.svg) ](./)
+
+  * [about](about)
+  * [security](security-details)
+  * [blog](/blog/)
+  * [careers](https://careers.protonmail.com/)
+  * [support](/support/)
+  * professional __
+    * [individual](professional)
+    * [business](business)
+  * [ vpn ](https://protonvpn.com)
+  * [log in](https://mail.protonmail.com/login)
+  * [sign up](signup)
+
+language: català čeština dansk deutsch ελληνικά english español (españa)
+français hrvatski magyar bahasa (indonesia) íslenska italiano 日本語 taqbaylit
+dutch polski português (brasil) português (portugal) română русский svenska
+türkçe українська 简体中文 繁體中文
+
+# privacy policy
+
+_last modified: february 15, 2021_
+
+in the following policy, protonmail refers to the service offered by proton
+technologies ag (the "company" or "we") through the protonmail.com website
+(the "service"). [CLS] [SEP] this privacy policy explains (i) what information we collect
+through your access and use of our service (ii) the use we make of such
+information; and (iii) the security level we provide for protecting such
+information. [CLS] [SEP]
+
+by visiting protonmail.com and using the services provided here, you agree to
+the terms outlined in this privacy policy. [CLS] [SEP]
+
+## legal framework
+
+the company is domiciled in switzerland at the following address:
+
+proton technologies ag, route de la galaise 32, 1228 plan-les-ouates geneva,
+switzerland
+
+all data storage infrastructure is also located solely within switzerland, and
+thus governed by the laws and regulations of switzerland. [CLS] [SEP] additional
+information about the legal framework can be found in our [transparency
+report](/blog/transparency-report/). [CLS] [SEP]
+
+## data related to the opening of an account
+
+any email address provided to protonmail through either our waiting list,
+optional email verification, or optional notification/recovery email setting
+in your account, is considered personal data as defined and protected by the
+swiss federal data protection act (dpa). [CLS] [SEP]
+
+such data will only be used to contact you with important notifications about
+protonmail, to send you information related to security, to send you an
+invitation link to create your protonmail account, to verify your protonmail
+account, or to send you password recovery links if you enable the option. [CLS] [SEP] we
+may also inform you about new proton products in which you might have an
+interest. [CLS] [SEP] you are free, at any given time, to opt-out of those features
+through the account settings panel. [CLS] [SEP]
+
+in order to maintain the integrity of the service, protonmail must take
+measures to avoid creation of accounts by spammers. [CLS] [SEP] this is because if
+spammers use protonmail to send messages, protonmail’s ip addresses can become
+blocked by major mail providers such as gmail, yahoo, outlook, etc. [CLS] [SEP]
+
+in order to pursue our legitimate interest of preventing the creation of
+accounts by spam bots or human spammers, protonmail uses a variety of human
+verification methods. [CLS] [SEP] you may be asked to verify using either recaptcha,
+email, or sms. [CLS] [SEP] ip addresses, email addresses, and phone numbers provided are
+saved temporarily in order to send you a verification code and to determine if
+you are a spammer. [CLS] [SEP] if this data is saved permanently, it is always saved as a
+cryptographic hash, which ensures that the raw values cannot be deciphered by
+us. [CLS] [SEP] [learn more](/support/knowledge-base/human-verification/)
+
+## data collection
+
+our company’s overriding policy is to collect as little user information as
+possible to ensure a completely private and anonymous user experience when
+using the service. [CLS] [SEP] we also have no technical means to access your encrypted
+message contents. [CLS] [SEP]
+
+service's user data collection is limited to the following:
+
+**visiting our website:** we employ a local installation of matomo, an open
+source analytics tool. [CLS] [SEP] analytics are anonymized whenever possible and stored
+locally (and not on the cloud). [CLS] [SEP]
+
+**account creation:** it is not necessary to provide personal information in
+order to create an account, but you may provide an external email address for
+notification or password recovery purposes. [CLS] [SEP] should you choose to provide it,
+we do associate another email address with your account (for password
+recovery, or notifications). [CLS] [SEP] the legal basis for processing is consent and you
+are free to remove that data in the account panel of your protonmail account. [CLS] [SEP]
+
+**account activity:** due to limitations of the smtp protocol, we have access
+to the following email metadata: sender and recipient email addresses, the ip
+address incoming messages originated from, message subject, and message sent
+and received times. [CLS] [SEP] we do not have access to encrypted message content but
+unencrypted messages sent from external providers to protonmail are scanned
+for spam and viruses to pursue the legitimate interest of the protection of
+our users. [CLS] [SEP] we also have access to the following records of account activity:
+number of messages sent, amount of storage space used, total number of
+messages, last login time. [CLS] [SEP]
+
+**communicating with protonmail:** your communications with the company, such
+as support requests, bug reports, or feature requests may be saved by our
+staff. [CLS] [SEP] the legal basis for processing is our legitimate interest to
+troubleshoot more efficiently and improve the quality of the protonmail
+service. [CLS] [SEP]
+
+**ip logging:** by default, protonmail does not keep permanent ip logs. [CLS] [SEP]
+however, ip logs may be kept temporarily to combat abuse and fraud, and your
+ip address may be retained permanently if you are engaged in activities that
+breach our terms and conditions (spamming, ddos attacks against protonmail
+infrastructure, brute force attacks, etc). [CLS] [SEP] the legal basis of this processing
+is our legitimate interest to protect our service against nefarious
+activities. [CLS] [SEP]  
+  
+your login ip address is also kept permanently (until you delete it) if you
+enable authentication logging for your account (by default this is off). [CLS] [SEP] the
+legal basis of this processing is consent, and you are free to opt-in or opt-
+out at any time in the security panel of your protonmail account. [CLS] [SEP]
+
+**payment information:** the company relies on third parties to process credit
+card, paypal, and bitcoin transactions so the company necessarily must share
+payment information with third parties. [CLS] [SEP] anonymous cash or bitcoin payments and
+donations are accepted however. [CLS] [SEP] the legal basis of this processing is the
+necessity to the execution of the contract between you and us. [CLS] [SEP]
+
+**native applications:** when you use our native applications, we (or the
+mobile app platform providers) may collect certain information in addition to
+the information mentioned elsewhere in this policy. [CLS] [SEP] we may use mobile
+analytics software (such as fabric.io app statistics and crash reporting, play
+store app statistics, app store app statistics, or self-hosted sentry crash
+reporting) to send crash information to our developers so that we can fix bugs
+rapidly. [CLS] [SEP] some platforms (such as the google play store or the apple app store)
+may also collect aggregate, anonymous statistics like which type of devices
+and operating systems that are most commonly used (like percentage of android
+6.x vs android 7.x), the total number of installs, total number of uninstalls,
+and the total number of active users, and may be governed by the privacy
+policy and terms and conditions of the google play store or the apple app
+store. [CLS] [SEP] none of the software on our apps will ever access or track any
+location-based information from your device at any time. [CLS] [SEP] any personal data
+acquired during this process is anonymized. [CLS] [SEP]
+
+**import assistant:** when using import assistant to transfer your data, you
+can choose from multiple options:  
+**import assistant with “sign in with google”:** when you use our import
+assistant tool to import your data from google and authenticate using the
+“sign in with google” option, import assistant’s use of information received
+from google apis will comply with the [google api services user data
+policy](https://developers.google.com/terms/api-services-user-data-
+policy#additional_requirements_for_specific_api_scopes), including the limited
+use requirements. [CLS] [SEP]
+
+**import assistant with a username and password combination:** when you use
+our import assistant tool to import your emails from another service provider,
+the credentials of the email account from which the importation is performed
+are stored by the company for the duration of the importation. [CLS] [SEP] once the
+importation is performed, those credentials are entirely deleted from our
+systems. [CLS] [SEP]
+
+## data use
+
+we do not have any advertising on our site. [CLS] [SEP] any data that we do have will
+never be shared except under the circumstances described below in the data
+disclosure section. [CLS] [SEP] we do not do any analysis on the limited data we do
+possess with two exceptions:
+
+  * emails sent unencrypted to protonmail accounts (e.g. [CLS] [SEP] gmail to protonmail) are scanned automatically pursuing the legitimate interest of detecting spam so we can block ips which are sending a lot of spam to protonmail users and place spam messages in a spam directory. [CLS] [SEP] inbound messages are scanned for spam in memory, and then encrypted and written to disk. [CLS] [SEP] we do not possess the technical ability to scan messages after they have been encrypted. [CLS] [SEP]
+  * emails sent by protonmail users to outside (e.g. [CLS] [SEP] gmail) users with encryption disabled are scanned automatically pursuing the legitimate interest of detecting spam in the same manner as incoming email. [CLS] [SEP] this is to ensure a protonmail account which is being used for spamming purposes can be detected and locked so email deliverability for legitimate users is not degraded. [CLS] [SEP]
+
+## data storage
+
+all servers used in connection with the provisioning of the service are
+located in switzerland and wholly owned and operated by the company. [CLS] [SEP] only
+employees of the company have physical or other access to the servers. [CLS] [SEP] data is
+always stored in encrypted format on our servers. [CLS] [SEP] offline backups may be
+stored periodically, but these are also encrypted. [CLS] [SEP] we do not possess the
+ability to access any user encrypted message content on either the production
+servers or in the backups. [CLS] [SEP]
+
+## third party networks
+
+proton's alternative routing technology allows proton apps to bypass many
+censorship blocks, but your network traffic may go through third party
+networks which we do not control. [CLS] [SEP] this could enable a third party to record
+your ip address or see that you are using proton apps (the same information
+that your internet service provider is able to see). [CLS] [SEP] these third parties
+cannot see your actual data, which remains encrypted. [CLS] [SEP] by default, alternative
+routing is not used for proton apps unless they detect that censorship
+measures are active on your network. [CLS] [SEP] alternative routing can also be
+completely disabled in the settings panel of all of our mobile and desktop
+applications. [CLS] [SEP] however, doing so may cause you to be unable to access your
+proton account if you are on a network that is censoring proton. [CLS] [SEP] [learn
+more](https://protonmail.com/blog/anti-censorship-alternative-routing)
+
+## right to access, rectification, erasure, portability, and right to lodge a
+complaint
+
+through the service, you can directly access, edit, delete or export personal
+data processed by the company in your use of the service. [CLS] [SEP]
+
+if your account has been suspended for a breach of our terms and conditions,
+and you would like to exercise the rights related to your personal data, you
+can make a request to our support team. [CLS] [SEP]
+
+in case of violation of your rights, you have the right to lodge a complaint
+to the competent supervisory authority. [CLS] [SEP]
+
+## data retention
+
+when a protonmail account is closed, data is immediately deleted from
+production servers. [CLS] [SEP] active accounts will have data retained indefinitely. [CLS] [SEP]
+deleted emails are also permanently deleted from production servers. [CLS] [SEP] deleted
+data may be retained in our backups for up to 14 days. [CLS] [SEP]
+
+## data disclosure
+
+we will only disclose the limited user data we possess if we are instructed to
+do so by a fully binding request coming from the competent swiss authorities
+(legal obligation). [CLS] [SEP] while we may comply with electronically delivered notices
+(see exceptions below), the disclosed data can only be used in court after we
+have received an original copy of the court order by registered post or in
+person, and provide a formal response. [CLS] [SEP]
+
+if a request is made for encrypted message content that protonmail does not
+possess the ability to decrypt, the fully encrypted message content may be
+turned over. [CLS] [SEP] if permitted by law, protonmail will always contact a user first
+before any data disclosure. [CLS] [SEP] under swiss law, it is obligatory to notify the
+target of a data request, although such notification may come from the
+authorities and not from the company. [CLS] [SEP]
+
+protonmail may from time to time, contest requests if there is a public
+interest in doing so. [CLS] [SEP] in such situations, the company will not comply with the
+request until all legal or other remedies have been exhausted. [CLS] [SEP] therefore, not
+all requests described in our transparency report will lead to data
+disclosure. [CLS] [SEP]
+
+## modifications to privacy policy
+
+protonmail reserves the right to periodically review and change this policy
+from time to time and we will notify users who have enabled the notification
+preference about changes to our privacy policy. [CLS] [SEP] continued use of the service
+will be deemed as acceptance of such changes. [CLS] [SEP]
+
+
+
+## protonmail
+
+  * [pricing](https://protonmail.com/pricing)
+  * [security](https://protonmail.com/security-details)
+  * [shop](https://shop.protonmail.com/)
+  * [press/media kit](https://protonmail.com/press)
+  * [onion site](https://protonmail.com/tor)
+  * [protonmail status](https://protonstatus.com/)
+
+## features
+
+  * [ios app](https://itunes.apple.com/us/app/protonmail-encrypted-email/id979659905)
+  * [android app](https://play.google.com/store/apps/details?id=ch.protonmail.android)
+  * [imap/smtp bridge](https://protonmail.com/bridge)
+  * [protonvpn](https://protonvpn.com/)
+  * [business email](https://protonmail.com/business/)
+  * [encrypted contacts](https://protonmail.com/support/knowledge-base/encrypted-contacts/)
+
+## legal
+
+  * [imprint](https://protonmail.com/imprint)
+  * [privacy policy](https://protonmail.com/privacy-policy)
+  * [terms & conditions](https://protonmail.com/terms-and-conditions)
+  * [transparency report](https://protonmail.com/blog/transparency-report/)
+  * [report abuse](mailto:abuse@protonmail.com)
+  * [gdpr compliance](https://protonmail.com/gdpr)
+
+## company
+
+  * [blog](https://protonmail.com/blog/)
+  * [team](https://protonmail.com/about)
+  * [careers](https://careers.protonmail.com/)
+  * [support](https://protonmail.com/support/)
+  * [donate](https://protonmail.com/donate)
+  * [open source](https://protonmail.com/blog/openpgpjs-3-release/)
+
+## social
+
+  * [__facebook](https://facebook.com/protonmail)
+  * [__twitter](https://twitter.com/protonmail)
+  * [__reddit](https://www.reddit.com/r/protonmail/)
+  * [__instagram](https://www.instagram.com/protonmail/)
+  * [ mastodon ](https://mastodon.social/@protonmail)
+  * [__feedback forum](https://protonmail.uservoice.com/)
+
+
+
+[![innosuisse - swiss innovation
+agency](/images/swiss.svg)](https://www.innosuisse.ch/inno/en/home.html)
+[![this project is supported by the european union's horizon 2020 program
+\(grant no 848554\)](/images/logo-gdpr-eu-
+white.svg)](https://ec.europa.eu/programmes/horizon2020/en)
+
+(c) $currentyear proton technologies ag. [CLS] [SEP] all rights reserved. [CLS] [SEP]
+
+[català](/ca/) | [čeština](/cs/) | [dansk](/da/) | [deutsch](/de/) |
+[ελληνικά](/el/) | [english](/) | [español (españa)](/es/) | [français](/fr/)
+| [hrvatski](/hr/) | [magyar](/hu/) | [bahasa (indonesia)](/id/) |
+[íslenska](/is/) | [italiano](/it/) | [日本語](/jp/) | [taqbaylit](/kab/) |
+[dutch](/nl/) | [polski](/pl/) | [português (brasil)](/pt_br/) | [português
+(portugal)](/pt/) | [română](/ro/) | [русский](/ru/) | [svenska](/sv/) |
+[türkçe](/tr/) | [українська](/ua/) | [简体中文](/zh-hans/) | [繁體中文](/zh-hant/)
+
+×
+
+#### general inquiries
+
+for customer support inquiries, please submit the following form for the
+fastest response:  
+<https://protonmail.com/support-form>
+
+for all other inquiries:  
+[contact@protonmail.com](mailto:contact@protonmail.com)
+
+you can also tweet to us:  
+[twitter.com/protonmail](https://twitter.com/protonmail)
+
+close
+

@@ -1,0 +1,461 @@
+
+
+skip to package search or skip to main content or skip to sign up or skip to
+sign in or skip to footer
+
+â¤neverending package mountain
+
+  * [products](/products)
+    * [pro](/products/pro)
+    * [teams](/products/teams)
+  * [pricing](/products)
+  * [documentation](https://docs.npmjs.com)
+  * [community](https://npm.community)
+
+# npm
+
+[](/)
+
+search
+
+[sign up](/signup)[sign in](/login)
+
+# npm open-source terms
+
+these npm open source terms of use (these _terms_ ) govern access to and use
+of <https://www.npmjs.com> (the _website_ ) as well as the "npm public
+registry" at <https://registry.npmjs.org> (the _public registry_ ), and the
+discussion forum at <https://npm.community> ( _npm.community_ ). [CLS] [SEP] npm, inc. [CLS] [SEP] (
+_npm_ ) operates each of those services. [CLS] [SEP] these terms refer to all of them
+together as _npm open source_. [CLS] [SEP]
+
+npm last updated these npm open source terms on december 16, 2019. [CLS] [SEP] you can
+review prior versions at <https://github.com/npm/policies/commits/master/open-
+source-terms.md>. [CLS] [SEP]
+
+## important terms
+
+**_these terms include a number of important provisions that affect your
+rights and responsibilities, such as the disclaimers in "disclaimers", limits
+on npm's liability to you in "limits on liability", and an agreement to
+arbitrate disputes individually in "arbitration"._**
+
+## other terms
+
+npm offers additional, paid services ( _paid services_ ) that are subject to
+additional terms:
+
+  * additional terms for npm paid services are available at <https://www.npmjs.com/policies/private-terms>. [CLS] [SEP]
+
+npm open source and any paid services you may agree to use are together called
+_npm services_ throughout these terms. [CLS] [SEP]
+
+## legal agreement
+
+you may only access or use npm services by agreeing to these terms. [CLS] [SEP] if npm
+adds any additional functionality to npm services, you must agree to these
+terms to use that new functionality, too. [CLS] [SEP] you show your agreement with npm on
+these terms by creating a user account (your _account_ ) or by accessing or
+using npm services without creating an account. [CLS] [SEP] the agreement between you and
+npm is a legally binding contract (this _agreement_ ). [CLS] [SEP]
+
+## changes
+
+npm may change these terms and the additional terms for paid services in the
+future. [CLS] [SEP] npm will post changes on the website with a new "last updated" date. [CLS] [SEP]
+if you have an account, npm will notify you of changes by email to the address
+provided for your account, by a message on the website, or both. [CLS] [SEP] if you do not
+have an account, npm may notify you of changes by a general announcement via
+the website, but it is up to you to check for changes to these terms. [CLS] [SEP] after
+receiving notice of changes to these terms, you must accept those changes to
+continue using npm services. [CLS] [SEP] you accept changes to these terms by continuing
+to use npm services. [CLS] [SEP] npm may change, suspend, or discontinue npm services at
+any time without notice or liability to you. [CLS] [SEP]
+
+## npm policies
+
+npm respects your privacy and limits use and sharing of information about you
+collected by npm services. [CLS] [SEP] the privacy policy at
+<https://www.npmjs.com/policies/privacy> (the _privacy policy_ ) describes
+these policies. [CLS] [SEP] npm will abide by the privacy policy and honor the privacy
+settings that you choose via npm services. [CLS] [SEP]
+
+npm respects the exclusive rights of copyright holders and responds to
+notifications about alleged infringement via npm services per the copyright
+policy at <https://www.npmjs.com/policies/dmca> (the _copyright policy_ ). [CLS] [SEP]
+
+npm resolves disputes about package names, user names, and organization names
+in the public registry per the policy at
+<https://www.npmjs.com/policies/disputes> ( _dispute policy_ ). [CLS] [SEP] this includes
+"package squatting". [CLS] [SEP]
+
+use of all npm services is governed by the code of conduct at
+<https://www.npmjs.com/policies/conduct> ( _code of conduct_ ). [CLS] [SEP]
+
+npm permits use of npm trademarks per the policy at
+<https://www.npmjs.com/policies/trademark>. [CLS] [SEP]
+
+## use of npm open source
+
+subject to these terms, npm grants you permission to use npm open source. [CLS] [SEP] that
+permission is not exclusive to you, and you cannot transfer it to anyone else. [CLS] [SEP]
+
+your permission to use npm open source entitles you to do the following:
+
+  1. [CLS] [SEP] you may search for, download, publish, and manage packages of computer code ( _packages_ ) in the public registry, and otherwise interact with the public registry, via the command-line tool published by npm at <https://www.github.com/npm/npm> (the _cli_ ). [CLS] [SEP]
+
+  2. [CLS] [SEP] you may search for, download, publish, and manage packages using software other than cli via application programming interfaces that npm publicly documents or makes available for public use ( _public apis_ ). [CLS] [SEP]
+
+  3. [CLS] [SEP] you may search for and manage packages in the public registry, and otherwise interact with the public registry, via the website. [CLS] [SEP]
+
+  4. [CLS] [SEP] you may update and manage your account via the website. [CLS] [SEP]
+
+  5. [CLS] [SEP] you may visit, create an account for, and participate in, discussions on npm.community. [CLS] [SEP]
+
+## conditions
+
+your permission to use npm open source, as well as any permission you may have
+to use paid services, are subject to the following conditions:
+
+  1. [CLS] [SEP] you must be at least 13 years of age to use npm services. [CLS] [SEP]
+
+  2. [CLS] [SEP] you may not use npm services after npm says you may not, such as by disabling your account. [CLS] [SEP]
+
+  3. [CLS] [SEP] you must use npm services only in accordance with "acceptable use". [CLS] [SEP]
+
+  4. [CLS] [SEP] you may access and use data about the security of packages, such as vulnerability reports, audit status reports, and supplementary security documentation, only for your own personal or internal business purposes. [CLS] [SEP] you may _not_ provide others access to, copies of, or use of npm data about the security of packages, directly or as part of other products or services. [CLS] [SEP]
+
+## acceptable use
+
+  1. [CLS] [SEP] you will abide by the [code of conduct](https://www.npmjs.com/policies/conduct) and the [dispute policy](https://www.npmjs.com/policies/disputes). [CLS] [SEP]
+
+  2. [CLS] [SEP] you will not submit material to npm as a package or in any other form that violates npm's _acceptable content_ , described below. [CLS] [SEP]
+
+  3. [CLS] [SEP] you will not disclose information that you do not have the right to disclose, such as confidential information of others. [CLS] [SEP]
+
+  4. [CLS] [SEP] you will not copy or share any personally identifiable information of any other person without their specific permission. [CLS] [SEP]
+
+  5. [CLS] [SEP] you will not violate any applicable law. [CLS] [SEP]
+
+  6. [CLS] [SEP] you will not use or attempt to use another person's account without their specific permission. [CLS] [SEP]
+
+  7. [CLS] [SEP] you will not buy, sell, or otherwise trade in user names, organization names, names for _packages_ , or any other names reserved on _npm services_ , for money or other compensation. [CLS] [SEP]
+
+  8. [CLS] [SEP] you will not use _npm services_ ' ability to send e-mail to send advertisements, chain letters, or other solicitations. [CLS] [SEP]
+
+  9. [CLS] [SEP] you will not automate access to, use, or monitor the website, such as with a web crawler, browser plug-in or add-on, or other computer program that is not a web browser. [CLS] [SEP] you may replicate data from the public registry using the public apis per this agreement. [CLS] [SEP]
+
+  10. [CLS] [SEP] you will not use npm services to send email to distribution lists, newsgroups, or group mail aliases. [CLS] [SEP]
+
+  11. [CLS] [SEP] you will not falsely imply that you are affiliated with or endorsed by npm. [CLS] [SEP]
+
+  12. [CLS] [SEP] you will not operate illegal schemes, such as pyramid schemes, via npm services. [CLS] [SEP]
+
+  13. [CLS] [SEP] you will not deep-hyperlink to images or other non-hypertext content served by npm services. [CLS] [SEP]
+
+  14. [CLS] [SEP] you will not remove any marking indicating proprietary ownership from any material got via npm services. [CLS] [SEP]
+
+  15. [CLS] [SEP] you will not display any portion of the website via an html iframe. [CLS] [SEP]
+
+  16. [CLS] [SEP] you will not disable, avoid, or circumvent any security or access restrictions of npm services, or access parts of npm services not intended for access by you. [CLS] [SEP]
+
+  17. [CLS] [SEP] you will not strain infrastructure of npm services with an unreasonable volume of requests, or requests designed to impose an unreasonable load on it systems underlying npm services. [CLS] [SEP] this rule is intentionally loose, to give npm the flexibility it needs to keep npm services working for the user community as a whole. [CLS] [SEP] but to draw one clear line, under no circumstances are five million requests to npm services in a single month-long period by any single individual, organization, or group of affiliated companies remotely reasonable. [CLS] [SEP] if you have a special need to make lots and lots of requests, [our sales team](mailto:sales@npmjs.com) can help. [CLS] [SEP]
+
+  18. [CLS] [SEP] you will not encourage or assist any other person in violation of "acceptable use". [CLS] [SEP]
+
+## acceptable content
+
+administrators at npm reserve the right to delete content hosted on the npm
+services that they deem unacceptable. [CLS] [SEP] unacceptable content can take the form
+of a package, a readme file, a user or organization name, or any other content
+submitted to npm services. [CLS] [SEP] a few examples of unacceptable content:
+
+  1. [CLS] [SEP] content that is illegal, offensive, or otherwise harmful. [CLS] [SEP] this includes content that is harassing, inappropriate, or abusive. [CLS] [SEP]
+
+  2. [CLS] [SEP] content in violation of law, infringing the intellectual property rights of others, violating the privacy or other rights of others, or in violation of any agreement with a third party. [CLS] [SEP] this includes code that violates a public license for others' work. [CLS] [SEP]
+
+  3. [CLS] [SEP] content containing malicious computer code, such as computer viruses, computer worms, rootkits, back doors, or spyware. [CLS] [SEP] this includes content submitted for research purposes unless agreed to in advance by npm. [CLS] [SEP] tools designed and documented explicitly to assist in security research are acceptable, but proof-of-concept exploits are not. [CLS] [SEP]
+
+  4. [CLS] [SEP] packages that are not functionally compatible with the npm command-line client. [CLS] [SEP] for example, a "package" cannot simply be a png or jpeg image, a movie file, or a text document uploaded directly to the registry. [CLS] [SEP] using the public registry as a general purpose database is not allowed. [CLS] [SEP]
+
+  5. [CLS] [SEP] content that exists only to "reserve" a name, whether a package name, user name, or organization name. [CLS] [SEP] the [dispute policy](https://www.npmjs.com/policies/disputes) governs how npm handles such cases of "squatting". [CLS] [SEP]
+
+to find out how to report violations of acceptable content, refer to the [code
+of conduct](https://www.npmjs.com/policies/conduct). [CLS] [SEP]
+
+## commercial content
+
+the npm public registry is about packages. [CLS] [SEP] all manner of useful packages are
+welcome, from hobby projects to competitive products, enterprise
+infrastructure and tooling to the latest fun hack or work of software art. [CLS] [SEP]
+
+at the same time, the npm public registry, the website, and important
+conventions like `readme` go beyond just code. [CLS] [SEP] developers use all of those
+channels to communicate more broadly about code, who is developing it, why,
+and how. [CLS] [SEP]
+
+that communication is important, and welcome, so long as it respects that the
+npm public registry, the website, and npm open source more generally remain
+neutral. [CLS] [SEP] you are free to use npm open source for commercial projects, to
+advance your career, and for other business purposes. [CLS] [SEP] but you may not leverage
+content or system conventions to make the npm public registry, website, or cli
+put business before code. [CLS] [SEP]
+
+these kinds of commercial content are generally acceptable in `readme` files
+and other documentation:
+
+  1. [CLS] [SEP] credits, acknowledgments, attributions, and other recognitions of contributions to packages. [CLS] [SEP]
+
+  2. [CLS] [SEP] information on how to pay, donate to, and otherwise support package development, package developers, and package steward organizations. [CLS] [SEP]
+
+  3. [CLS] [SEP] logos from, and links to, organizations developing, stewarding, or sponsoring package development. [CLS] [SEP]
+
+  4. [CLS] [SEP] information on paid products and services related to packages, such as enhanced versions, add-ons, commercial license terms, training, integration, or support. [CLS] [SEP]
+
+these kinds of commercial content generally _aren 't_ acceptable:
+
+  1. [CLS] [SEP] `readme`, `package.json`, or other content displaying advertisements. [CLS] [SEP]
+
+  2. [CLS] [SEP] packages that display ads at runtime, on installation, or at other stages of the software development lifecycle, such as via [npm scripts](https://docs.npmjs.com/misc/scripts). [CLS] [SEP] packages with code that can be used to display ads are fine. [CLS] [SEP] packages that themselves display ads are not. [CLS] [SEP]
+
+  3. [CLS] [SEP] packages that function primarily as ads, with only placeholder or negligible code, data, and other technical content. [CLS] [SEP]
+
+these examples are just examples. [CLS] [SEP] npm will continue to apply its judgment when
+deciding what content is acceptable. [CLS] [SEP] npm will continue to expect you to apply
+your own judgment when choosing what you share and how. [CLS] [SEP]
+
+## enforcement of acceptable use
+
+npm may investigate and prosecute violations of this agreement to the fullest
+legal extent. [CLS] [SEP] npm may notify and cooperate with law enforcement authorities in
+prosecuting violations of this agreement. [CLS] [SEP]
+
+## your account
+
+you must create and log into an account to access features of some npm
+services, including npm open source. [CLS] [SEP]
+
+to create an account, you must provide certain information about yourself, as
+required by the account creation form on the website or the cli. [CLS] [SEP] if you create
+an account, you will provide, at a minimum, a valid email address. [CLS] [SEP] you will
+keep that email address up-to-date. [CLS] [SEP] you will not impersonate any other
+individual. [CLS] [SEP] you may delete your account at any time by [contacting
+support](https://npmjs.com/support). [CLS] [SEP]
+
+you will be responsible for all action taken using your account, whether
+authorized by you or not, until you either close your account or give npm
+notice that the security of your account has been compromised. [CLS] [SEP] you will notify
+npm immediately if you suspect the security of your account has been
+compromised. [CLS] [SEP] you will select a secure password for your account. [CLS] [SEP] you will keep
+your password secret. [CLS] [SEP]
+
+npm may restrict, suspend, or terminate your account according to the
+copyright policy, if npm reasonably believes that you are in breach of these
+terms, or if npm reasonably believes that you have misused npm services. [CLS] [SEP]
+
+## your content
+
+nothing in this agreement gives npm any ownership rights in intellectual
+property that you share with npm services, such as your account information or
+any packages you share with npm services ( _your content_ ). [CLS] [SEP] nothing in this
+agreement gives you any ownership rights in npm intellectual property provided
+via npm services, like software, documentation, trademarks, service marks,
+logotypes, or other distinguishing graphics. [CLS] [SEP]
+
+between you and npm, you remain solely responsible for your content. [CLS] [SEP] you will
+not wrongly imply that your content is sponsored or approved by npm. [CLS] [SEP] npm will
+not be obligated to store, maintain, or provide copies of your content, except
+per the privacy policy. [CLS] [SEP]
+
+npm may remove your content from npm services without notice if npm suspects
+your content was submitted or used in violation of "acceptable use", as well
+as per the copyright policy. [CLS] [SEP]
+
+your content belongs to you. [CLS] [SEP] you decide whether and how to license it. [CLS] [SEP] but at
+a minimum, you license npm to provide your content to users of npm services
+when you share your content. [CLS] [SEP] that special license allows npm to copy, publish,
+and analyze your content, and to share its analyses with others. [CLS] [SEP] npm may run
+computer code in your content to analyze it, but npm's special license alone
+does not give npm the right to run code for its functionality in npm products
+or services. [CLS] [SEP]
+
+when your content is removed from npm services, whether by you or npm, npm's
+special license ends when the last copy disappears from npm's backups, caches,
+and other systems. [CLS] [SEP] other licenses, such as open source licenses, may continue
+after your content is removed. [CLS] [SEP] those licenses may give others, or npm itself,
+the right to share your content with npm services again. [CLS] [SEP]
+
+others who receive your content via npm services may violate the terms on
+which you license your content. [CLS] [SEP] you agree that npm will not be liable to you
+for those violations or their consequences. [CLS] [SEP]
+
+## feedback
+
+npm welcomes your feedback and suggestions for npm services. [CLS] [SEP] you agree that
+npm will be free to act on feedback and suggestions you provide without
+further notice, consent, or payment. [CLS] [SEP] you will not submit feedback or
+suggestions that you consider confidential or proprietary. [CLS] [SEP]
+
+## indemnity
+
+you will indemnify npm, its officers, directors, employees, representatives,
+and agents, and hold them harmless for, all liability, expenses, damages, and
+costs from any third-party claims, demands, lawsuits, or other proceedings
+alleging that your content, your use of npm services, or both, violate the
+intellectual property right of a third party, this agreement, or applicable
+law. [CLS] [SEP] you will not settle any such proceeding without the prior written consent
+of npm. [CLS] [SEP] npm will notify you of any such proceeding it becomes aware of. [CLS] [SEP]
+
+## disclaimers
+
+**_use of npm services is at your sole risk. [CLS] [SEP] npm services are provided on an
+"as is" and "as available" basis. [CLS] [SEP] npm expressly disclaims all warranties of
+any kind, whether express, implied, or statutory, including implied warranties
+of title, noninfringement, merchantability, and fitness for a particular
+purpose._**
+
+**_npm makes no warranty that npm services will meet your requirements,
+operate in an uninterrupted, timely, secure, or error-free manner, or that
+errors in npm services will be corrected._**
+
+**_you receive material via npm services at your sole risk. [CLS] [SEP] you will be solely
+responsible for any damage to your computer system and network, as well as any
+data loss that may result from use of npm services or material received via
+npm services._**
+
+npm services may provide information and software that is inaccurate,
+incomplete, misleading, illegal, offensive, or otherwise harmful. [CLS] [SEP] npm may, but
+does not promise to, review content provided by npm services. [CLS] [SEP]
+
+npm services provide information about ownership and licensing of packages, as
+provided by those packages' publishers. [CLS] [SEP] that information may be wrong. [CLS] [SEP] npm
+cannot and does not provide legal advice. [CLS] [SEP]
+
+### third-party services
+
+npm services may hyperlink to and integrate with third-party applications,
+websites, and other services. [CLS] [SEP] you decide whether and how to use and interact
+with such services. [CLS] [SEP] npm does not make any warranty regarding such services or
+content they may provide, and will not be liable to you for any damages
+related to such services. [CLS] [SEP] use of such third-party services may be governed by
+other terms and privacy notices that are not part of this agreement and are
+not controlled by npm. [CLS] [SEP]
+
+## limits on liability
+
+**_neither npm nor any third-party service provider used by npm to provide npm
+services will, under any circumstances, be liable to you for any indirect,
+incidental, consequential, special, or exemplary damages related to your use
+of npm services or this agreement, whether based on breach of contract, breach
+of warranty, tort (including negligence, product liability, or otherwise), or
+any other pecuniary loss, and whether or not npm has been advised of the
+possibility of such damages._**
+
+**_to the maximum extent permitted by law, npm 's liability to you for any
+damages related to this agreement, for any one or more causes and regardless
+of the form of action, will not exceed $50._**
+
+some jurisdictions do not allow exclusion of certain warranties or limits on
+liability for incidental or consequential damages. [CLS] [SEP] some of "disclaimers" and
+"limits on liability" may not apply to you. [CLS] [SEP]
+
+## termination
+
+either you or npm may terminate this agreement at any time with notice to the
+other. [CLS] [SEP]
+
+on termination of this agreement, your permission to use npm open source, as
+well any permission you may have to access paid services under additional
+terms, also terminate. [CLS] [SEP]
+
+the following provisions survive termination of this agreement: "your
+content", "feedback", "indemnity", "disclaimers", "limits on liability", and
+"general terms". [CLS] [SEP] users of npm services may continue to copy and share your
+content after termination of this agreement. [CLS] [SEP]
+
+## payment terms
+
+there is no charge for use of npm open source. [CLS] [SEP] if you use paid services from
+npm, our paid services terms at <https://www.npmjs.com/policies/private-terms>
+apply. [CLS] [SEP]
+
+## general terms
+
+if a provision of this agreement is unenforceable as written, but could be
+changed to make it enforceable, that provision should be modified to the
+minimum extent necessary to make it enforceable. [CLS] [SEP] otherwise, that provision
+should be removed. [CLS] [SEP]
+
+you may not assign this agreement. [CLS] [SEP] npm may assign this agreement to any
+affiliate of npm, any third party that obtains control of npm, or any third
+party that purchases assets of npm relating to npm services. [CLS] [SEP] any purported
+assignment of rights in breach of this provision is void. [CLS] [SEP]
+
+neither the exercise of any right under this agreement, nor waiver of any
+breach of this agreement, waives any other breach of this agreement. [CLS] [SEP]
+
+this agreement, together with the additional terms for paid services and npm
+software that you and npm agree to, embody all the terms of agreement between
+you and npm about npm services. [CLS] [SEP] this agreement supersedes any other agreements
+about npm services, written or not. [CLS] [SEP]
+
+## disputes
+
+the law of the state of california will govern any dispute, including any
+legal proceedings, relating to this agreement or your use of npm services (a
+_dispute_ ). [CLS] [SEP]
+
+you and npm will seek injunctions related to this agreement only in state or
+federal court in san francisco, california. [CLS] [SEP] neither you nor npm will object to
+jurisdiction, forum, or venue in those courts. [CLS] [SEP]
+
+**_other than to seek an injunction, you and npm will resolve any dispute by
+binding american arbitration association arbitration. [CLS] [SEP] arbitration will follow
+the aaa 's commercial arbitration rules and supplementary procedures for
+consumer related disputes. [CLS] [SEP] arbitration will happen in san francisco,
+california. [CLS] [SEP] you will settle any dispute as an individual, and not as part of a
+class action or other representative proceeding, whether as the plaintiff or a
+class member. [CLS] [SEP] no arbitrator will consolidate any dispute with any another
+arbitration without npm's permission._**
+
+any arbitration award will include costs of the arbitration, reasonable
+attorneys' fees, and reasonable costs for witnesses. [CLS] [SEP] you or npm can enter
+arbitration awards in any court with jurisdiction. [CLS] [SEP]
+
+## notices and questions
+
+you may send notice to npm and questions about the terms governing npm
+products and services to [legal@npmjs.com](mailto:legal@npmjs.com) or by mail
+to:
+
+github, inc  
+attn: npm legal department  
+88 colin p kelly jr st  
+san francisco, ca. [CLS] [SEP] 94107
+
+npm may send you notice using the email address you provide for your account
+or by posting a message to the homepage or your account page on the website. [CLS] [SEP]
+
+return to top of page
+
+### support
+
+  * [help](https://docs.npmjs.com)
+  * [community](https://npm.community)
+  * [advisories](https://www.npmjs.com/advisories)
+  * [status](http://status.npmjs.org/)
+  * [contact npm](/support)
+
+### company
+
+  * [about](/about)
+  * [blog](https://blog.npmjs.org/)
+  * [press](/press)
+
+### terms & policies
+
+  * [policies](/policies/)
+  * [terms of use](/policies/terms)
+  * [code of conduct](/policies/conduct)
+  * [privacy](/policies/privacy)
+

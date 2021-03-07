@@ -1,0 +1,177 @@
+  * [table of contents](./)
+  *   * [__**1** about](index.html)
+    * [__**1.1** project goals](index.html#project-goals)
+    * [__**1.2** code of conduct](index.html#code-of-conduct)
+    * [__**1.3** data availability](index.html#data-availability)
+    * [__**1.4** sources](index.html#sources)
+    * [__**1.5** code](index.html#code)
+    * [__**1.6** contact](index.html#contact)
+    * [__**1.7** open source sponsorships](index.html#open-source-sponsorships)
+    * [__**1.8** buy us a coffee](index.html#buy-us-a-coffee)
+  * [__**2** data processing](data-processing.html)
+    * [__**2.1** tidy data](data-processing.html#tidy-data)
+    * [__**2.2** filling gaps in our data](data-processing.html#filling-gaps-in-our-data)
+    * [__**2.3** data cleaning](data-processing.html#data-cleaning)
+      * [__**2.3.1** required packages](data-processing.html#required-packages)
+      * [__**2.3.2** cif-fob rate, commodity codes length and iso codes](data-processing.html#cif-fob-rate-commodity-codes-length-and-iso-codes)
+      * [__**2.3.3** read raw data](data-processing.html#read-raw-data)
+      * [__**2.3.4** clean data](data-processing.html#clean-data)
+      * [__**2.3.5** symmetric (clean) data](data-processing.html#symmetric-clean-data)
+    * [__**2.4** github repositories](data-processing.html#github-repositories)
+    * [__**2.5** software information](data-processing.html#software-information)
+    * [__**2.6** hardware information](data-processing.html#hardware-information)
+    * [__**2.7** reproducibility notes](data-processing.html#reproducibility-notes)
+    * [__**2.8** coding style and performant code](data-processing.html#coding-style-and-performant-code)
+    * [__**2.9** note for windows users](data-processing.html#note-for-windows-users)
+  * [__**3** the mathematics of economic complexity](the-mathematics-of-economic-complexity.html)
+    * [__**3.1** countries not included in rankings and indicators](the-mathematics-of-economic-complexity.html#countries-not-included-in-rankings-and-indicators)
+    * [__**3.2** revealed comparative advantage (rca)](the-mathematics-of-economic-complexity.html#revealed-comparative-advantage-rca)
+    * [__**3.3** smooth revealed comparative advantage (srca)](the-mathematics-of-economic-complexity.html#smooth-revealed-comparative-advantage-srca)
+    * [__**3.4** country-product matrix](the-mathematics-of-economic-complexity.html#country-product-matrix)
+    * [__**3.5** diversity and ubiquity](the-mathematics-of-economic-complexity.html#diversity-and-ubiquity)
+    * [__**3.6** reflections method](the-mathematics-of-economic-complexity.html#reflections-method)
+    * [__**3.7** country complexity index (cci)](the-mathematics-of-economic-complexity.html#country-complexity-index-cci)
+    * [__**3.8** product complexity index (pci)](the-mathematics-of-economic-complexity.html#product-complexity-index-pci)
+    * [__**3.9** eigenvalues method](the-mathematics-of-economic-complexity.html#eigenvalues-method)
+    * [__**3.10** fitness method](the-mathematics-of-economic-complexity.html#fitness-method)
+    * [__**3.11** product proximity](the-mathematics-of-economic-complexity.html#product-proximity)
+    * [__**3.12** country proximity](the-mathematics-of-economic-complexity.html#country-proximity)
+  * [__**4** accesing the data](accesing-the-data.html)
+    * [__**4.1** before downloading datasets](accesing-the-data.html#before-downloading-datasets)
+    * [__**4.2** api](accesing-the-data.html#api)
+      * [__**4.2.1** available tables](accesing-the-data.html#available-tables)
+      * [__**4.2.2** metadata](accesing-the-data.html#metadata)
+      * [__**4.2.3** api parameters](accesing-the-data.html#api-parameters)
+      * [__**4.2.4** available reporters](accesing-the-data.html#available-reporters)
+      * [__**4.2.5** yrpc (year, reporter, partner and product code)](accesing-the-data.html#yrpc-year-reporter-partner-and-product-code)
+      * [__**4.2.6** yrpc-ga (year - reporter - partner - product code, group code aggregated)](accesing-the-data.html#yrpc-ga-year---reporter---partner---product-code-group-code-aggregated)
+      * [__**4.2.7** yrpc-ca (year - reporter - partner - product code, community code aggregated)](accesing-the-data.html#yrpc-ca-year---reporter---partner---product-code-community-code-aggregated)
+      * [__**4.2.8** yrpc-gca (year - reporter - partner - product code, group code and community code aggregated)](accesing-the-data.html#yrpc-gca-year---reporter---partner---product-code-group-code-and-community-code-aggregated)
+      * [__**4.2.9** yrc (year, reporter and product code)](accesing-the-data.html#yrc-year-reporter-and-product-code)
+      * [__**4.2.10** yrp (year, reporter and partner)](accesing-the-data.html#yrp-year-reporter-and-partner)
+      * [__**4.2.11** yc (year and product code)](accesing-the-data.html#yc-year-and-product-code)
+      * [__**4.2.12** yr (year and reporter)](accesing-the-data.html#yr-year-and-reporter)
+      * [__**4.2.13** other group/community aggregated tables](accesing-the-data.html#other-groupcommunity-aggregated-tables)
+      * [__**4.2.14** country rankings](accesing-the-data.html#country-rankings)
+      * [__**4.2.15** product rankings](accesing-the-data.html#product-rankings)
+    * [__**4.3** r package](accesing-the-data.html#r-package)
+    * [__**4.4** dashboard (beta)](accesing-the-data.html#dashboard-beta)
+    * [__**4.5** rds datasets](accesing-the-data.html#rds-datasets)
+  * [__**5** references](references.html)
+  *   * [ ![](https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/poweredbydo/do_powered_by_badge_blue.svg) ](https://www.digitalocean.com/)
+
+#  __[open trade statistics](./)
+
+# open trade statistics
+
+_pachã¡ (mauricio vargas sepãºlveda)_
+
+_2020-03-21_
+
+# section 1 about
+
+## 1.1 project goals
+
+open trade statistics is an independent project that values reproducible
+research and provides tidy trade data. [CLS] [SEP] we are heavily inspired by r community
+values and open licenses views on freedom. [CLS] [SEP]
+
+we focus on commodities data and our added value, unlike many other good trade
+data projects, is that we focus on data processing and reproducibility instead
+of data visualization. [CLS] [SEP]
+
+we advocate for openness and collaboration, so our contribution is focused on:
+
+  * releasing all of our source code on github
+  * releasing snapshots of the software we use
+  * sharing curated data (direct download and api)
+
+besides open data we donât track users, we donât want your personal
+information and we use https to protect your navigation and our service. [CLS] [SEP]
+
+our goal is to ease data analysis, promote a reproducibility culture, and do
+something towards a better internet. [CLS] [SEP]
+
+## 1.2 code of conduct
+
+before you proceed to download the data, please read this carefully. [CLS] [SEP]
+
+no matter your gender, gender identity and expression, age, sexual
+orientation, disability, physical appearance, body size, race, ethnicity,
+religion (or lack thereof), or technology choices you are able to use this
+data for any non-commercial purpose, including academic. [CLS] [SEP]
+
+in general, our software is released under gnu license and our datasets and
+contents are released under creative commons license. [CLS] [SEP]
+
+commercial purposes are strictly out of the boundaries of what you can do with
+this data according to [un comtrade dissemination
+clauses](https://comtrade.un.org/db/help/policyonuseandredissemination.pdf). [CLS] [SEP]
+
+except where otherwise noted, content on this site is licensed under the
+[creative commons by-nc 4.0 license](https://creativecommons.org/licenses/by-
+nc/4.0/). [CLS] [SEP] besides cc-by-nc, when downloading datasets you also agree to the
+usage conditions explained both to [un comtrade online usage
+agreement](https://comtrade.un.org/db/help/licenseagreement.aspx). [CLS] [SEP]
+
+the dashboard and r package are released under [gnu general public license
+v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), which follow the license
+recommendations from [the r project](https://www.r-project.org/licenses/). [CLS] [SEP]
+
+## 1.3 data availability
+
+we used different trade classifications according to the data availability. [CLS] [SEP]
+
+classification | availability  
+---|---  
+hs rev 1992 | 1992 â 2017  
+hs rev 1996 | 1996 â 2017  
+hs rev 2002 | 2002 â 2017  
+hs rev 2007 | 2007 â 2017  
+sitc rev 1 | 1962 â 2017  
+sitc rev 2 | 1976 â 2017  
+  
+these datasets were used all together in order to create a unified data series
+for the period 1962-2017 with all products classified under hs rev 2007. [CLS] [SEP]
+
+## 1.4 sources
+
+all of the product data shown on the ots site is classified using either sitc
+(standard international trade classification) or hs (harmonized system), the
+raw data was obtained from [un comtrade](http://comtrade.un.org/) and its
+under their authorization that we share claned versions of the original raw
+datasets. [CLS] [SEP]
+
+## 1.5 code
+
+we made all the scripts available on
+[github](https://github.com/tradestatistics). [CLS] [SEP] pull requests and new ideas are
+always welcome!
+
+## 1.6 contact
+
+  * github: [tradestatistics](https://github.com/tradestatistics)
+  * twitter: [@opentradestats](https://twitter.com/opentradestats)
+  * email: [contact@tradestatistics.io](mailto:contact@tradestatistics.io)
+
+## 1.7 open source sponsorships
+
+this project is hosted on [digitalocean](https://digitalocean.com). [CLS] [SEP] under
+their open source sponsorships they are subsidizing 25% of the yearly server
+costs. [CLS] [SEP] thanks digitalocean!
+
+if you register with this [link](https://m.do.co/c/6119f0430dad), youâll get
+free credits to try digitalocean and we also get credits for the project:
+
+    
+    
+    referral link
+    https://m.do.co/c/6119f0430dad
+
+## 1.8 buy us a coffee
+
+if you like this work, [buy us a coffee](https://www.buymeacoffee.com/pacha),
+it shall be used to produce more of it. [CLS] [SEP] thank you for your support!
+
+[__](data-processing.html)
+

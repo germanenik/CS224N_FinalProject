@@ -1,0 +1,252 @@
+  * [home](/ "home")
+  * [about](/about "about")
+  * [case studies](/casestudies "case studies")
+  * [gallery](/gallery "gallery")
+  * [get started](/getstarted "get started")
+  * [contact](/contact "contact")
+
+englishâ â â cymraeg
+
+â© 2020 wigwam.design, all rights reserved. [CLS] [SEP]
+
+[![wigwam logo](/assets/images/svg/logo_wigwam_compact_100x35.svg)](/)
+
+  * 
+
+  * [home](/ "home")
+  * [about](/about "about")
+  * [case studies](/casestudies "case studies")
+  * [gallery](/gallery "gallery")
+  * [get started](/getstarted "get started")
+  * [contact](/contact "contact")
+
+# privacy policy
+
+version identifier: 1.2.1
+
+version effective date: 26/02/2021
+
+##### introduction
+
+this privacy notice sets out how any personal data we collect from you, or
+that you provide to us, will be processed by us. [CLS] [SEP] please read the following
+carefully to understand our views and practices regarding your sensitive
+information and how we will deal with it. [CLS] [SEP] for the purposes of the data
+protection act 2018 ('the dpa') and the eu general data protection regulation
+(âthe gdprâ), sensitive information includes what is defined as your
+'personal data'. [CLS] [SEP]
+
+by visiting https://www.wigwam.design (the 'website') you accept and consent
+to the practices described in this privacy policy. [CLS] [SEP]
+
+in this privacy policy, we seek to abide by the letter and spirit of the
+guidelines laid out by the uk information commissionerâs office. [CLS] [SEP] the
+guidelines can be found at the following link https://ico.org.uk/for-
+organisations/guide-to-data-protection/guide-to-the-general-data-protection-
+regulation-gdpr/individual-rights/right-to-be-informed/. [CLS] [SEP]
+
+in summary, our approach is to record only the absolute minimum data required
+to successfully operate the website. [CLS] [SEP]
+
+##### who we are
+
+we are 'wigwam design' a vat registered company in the united kingdom,
+registered number 283391288. [CLS] [SEP] if you have any concerns about the way we use
+your information or any questions about this privacy notice, please let us
+know. [CLS] [SEP] we can be contacted via email at sam@wigwam.design. [CLS] [SEP]
+
+##### what we do with your information - 'locations served'
+
+our 'locations served' feature requires only the `outward code` part of the
+postcode and the rest, or `inward code`, is discarded, if entered. [CLS] [SEP] the
+`outward code` part of a uk postcode contains only the area and district
+information. [CLS] [SEP] this is the minimum amount of data required to implement the
+feature. [CLS] [SEP] this data is processed entirely in the browser and is not persisted
+or transmitted outside of it. [CLS] [SEP]
+
+##### what we do with your information - 'gallery'
+
+your searches and tag choices on the gallery are handled entirely on your
+device. [CLS] [SEP] the state of your tag selection is only retained for the duration of
+your current visit. [CLS] [SEP] as mentioned elsewhere in this policy, this website makes
+no attempt to identify individual users and does not track users across
+multiple visits to the site. [CLS] [SEP] as such, if your tag choices require the download
+of extra images to facilitate your request then there is no mechanism to
+relate that request to any kind of user data, as no user identifying data
+exists on the system. [CLS] [SEP]
+
+##### what we do with your information - 'contact us'
+
+if you make use of our 'contact us' page we will use the information that you
+provide to instigate our initial conversation. [CLS] [SEP] providing your information to
+the form on this page indicates you wish for us to make direct contact with
+you. [CLS] [SEP] the form only records the data necessary to facilitate this. [CLS] [SEP]
+
+specifically, the form requires:
+
+data| required for  
+---|---  
+your name| addressing our contact to you personally  
+your email| sending our response as soon as we are available  
+your message| understanding the intent of your enquiry  
+  
+the information and content held on our website is deployed geographically,
+via a content delivery network (cdn), to increase the loading performance of
+the website from the perspective of an individual user. [CLS] [SEP] we will never share
+your user information with third parties for promotional purposes. [CLS] [SEP] the
+information you supply via our 'contact us' form is not recorded by this
+system. [CLS] [SEP]
+
+the data you supply to the form is transmitted to our local system and only
+your name and email address are recorded. [CLS] [SEP] this data is retained only for as
+long as it is necessary to provide any services that you request or for
+regulatory reasons outside the scope of the website. [CLS] [SEP] for example, if we are to
+go on and provide services to you, then that data will be retained for as long
+as it is required for us to retain records of those transactions. [CLS] [SEP] it is stored
+subject to our separate it security policy. [CLS] [SEP]
+
+if we do not provide services to you (or remain in contact for any other valid
+reason) then all the data you have supplied is erased. [CLS] [SEP]
+
+should we continue to provide services to you then your data will be retained
+for that purpose and that purpose alone and at this point becomes subject to
+our client terms and conditions and is outside the scope of the website and
+this policy. [CLS] [SEP]
+
+##### what we do with your information - 'visiting the website'
+
+all requests to the website are handled by our tls endpoint. [CLS] [SEP] requests sent in
+the plain are redirected to take place over tls. [CLS] [SEP] in other words, if you were
+to try to visit our website via an address beginning with `http://` it would
+be automatically redirected to the same address, but over `https`. [CLS] [SEP] only the
+currently accepted best practice ciphers are allowed. [CLS] [SEP] the choice of ciphers is
+also under continued review and is made for maximum security with the majority
+of browsers in use at the time. [CLS] [SEP] this means that a connection to our website
+with an old browser that does not support these best practices will be
+rejected. [CLS] [SEP] in these circumstances it is likely that the browser will show an
+error message that it has been unable to make a secure connection. [CLS] [SEP] it is
+suggested to take further external advice about upgrading to a more modern
+browser if you still wish to visit the website. [CLS] [SEP]
+
+when you visit the website (a 'request') technical data is recorded to
+facilitate the visit. [CLS] [SEP] this includes the internet protocol (ip) address of your
+machine and other information such as the browser and type of machine that is
+making the request. [CLS] [SEP] this information is obtained from the request sent from
+your web browser. [CLS] [SEP] no attempts are made to obtain any further information from
+your machine outside of the http protocol. [CLS] [SEP] this data is necessary for the
+ongoing operation and maintenance of the system, to enable us to understand
+how our website is being used and for later fault finding in the event of an
+error or other investigation. [CLS] [SEP]
+
+in summary, only the information that is required to enable the process of
+'visiting a website' is recorded. [CLS] [SEP] this data is aggregated and anonymised and
+we have no system in place to identify individual users from this information. [CLS] [SEP]
+we do not track users across multiple visits to the website and we do not make
+use of cookies. [CLS] [SEP] cookies are small text files that are used to store small
+amounts of data about a user, such as language settings, between visits to a
+website. [CLS] [SEP] every visit to our website is treated as a new request from a new
+user. [CLS] [SEP]
+
+we do not provide any of our logs to any third parties. [CLS] [SEP] if you are concerned
+about giving away this type of technical data then it is suggested to seek out
+advice and technology in this domain. [CLS] [SEP] such a discussion is outside the scope
+of this policy. [CLS] [SEP]
+
+##### javascript on this website
+
+javascript, along with html and css is one of the main technologies that
+enable this website to function. [CLS] [SEP] when enabled, javascript provides all the
+client side dynamic behaviour of the website, including navigating between
+pages and loading images. [CLS] [SEP] it is not used to track users or users behaviour. [CLS] [SEP]
+
+##### what we do to ensure the security of your personal information
+
+we treat our information and electronic security with the utmost priority. [CLS] [SEP] as
+such our approach to information security is continually reviewed and evolved
+to keep ahead of current and emerging risks. [CLS] [SEP]
+
+we have adopted industry best practices from both technological and business
+process perspectives in order to make the security of your data a key part of
+the way we do business. [CLS] [SEP]
+
+we have policies and practices in place that not only ensure our compliance
+under the dpa but also the gdpr. [CLS] [SEP]
+
+##### your rights regarding your personal information
+
+as described earlier in this policy, data that you supply to the website is
+not stored on a system covered by this policy. [CLS] [SEP] the data that is transmitted
+from this system (data that you have supplied in out 'contact us' form), is
+stored subject to our client terms and conditions. [CLS] [SEP] a copy of these terms and
+conditions is supplied to any user of our core business. [CLS] [SEP]
+
+##### version control
+
+our policies and procedures in relation to maintaining privacy for our users,
+as well as security in general, are continually under review. [CLS] [SEP] as such the
+wording of this policy is subject to change. [CLS] [SEP] when considering our usage of
+your data the version of the policy active at the time of the usage should be
+used. [CLS] [SEP] we retain all versions of this policy along with a list of all changes
+that are made to it. [CLS] [SEP] in order to verify the authenticity of a given copy of
+this policy a sha hash is generated at the time of creation and stored
+separately. [CLS] [SEP] subsequent checks can then be made to compare this hash against
+the copy of the file in question. [CLS] [SEP]
+
+##### verification of claims made in this policy
+
+all the claims made in this policy can be independently verified by the user
+by inspecting the network requests made by the site in the browser network
+tools. [CLS] [SEP] in addition to this manual process, many browsers, either via plugin or
+as standard, provide a simple user interface for the user to inspect what
+level of tracking any given website or service is implementing. [CLS] [SEP] these tools
+can be used to confirm the claims made in this policy. [CLS] [SEP]
+
+back to top
+
+##### contact us
+
+wigwam design  
+llangollen  
+denbighshire  
+ll20 7bj  
+  
+[sam@wigwam.design](mailto:sam@wigwam.design)  
+[07792 824902](tel:07792824902)
+
+  * [instagram](https://www.instagram.com/wigwam.design/)
+  * [twitter](https://twitter.com/wigwamdesign)
+  * [facebook](https://www.facebook.com/wigwamdesign/)
+
+[best of houzz for service
+2017](https://www.houzz.co.uk/pro/wigwamdesign/wigwam-design)| â | [best of
+houzz for service 2018](https://www.houzz.co.uk/pro/wigwamdesign/wigwam-
+design)| â | [best of houzz for service
+2019](https://www.houzz.co.uk/pro/wigwamdesign/wigwam-design)| â | [best of
+houzz for service 2020](https://www.houzz.co.uk/pro/wigwamdesign/wigwam-
+design)| â | [best of houzz for service
+2021](https://www.houzz.co.uk/pro/wigwamdesign/wigwam-design)  
+---|---|---|---|---|---|---|---|---  
+  
+##### sitemap
+
+[home](/ "home")
+
+[about](/about "about")
+
+[case studies](/casestudies "case studies")
+
+[gallery](/gallery "gallery")
+
+[get started](/getstarted "get started")
+
+[contact](/contact "contact")
+
+  
+[view our privacy policy](/privacy)  
+view in cymraeg
+
+* * *
+
+technology by [rase.rocks](https://www.rase.rocks) [â© 2020 wigwam.design](/),
+all rights reserved. [CLS] [SEP]
+

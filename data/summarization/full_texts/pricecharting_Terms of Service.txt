@@ -1,0 +1,464 @@
+[](https://www.pricecharting.com/)
+
+  * buy/sell games
+    * [buy games](/market)
+    * [sell games](/sell)
+    * [newest listings](/offers)
+  * nintendo
+    *       * ntsc (usa)
+      * [nintendo nes](/console/nes)
+      * [super nintendo](/console/super-nintendo)
+      * [nintendo 64](/console/nintendo-64)
+      * [gamecube](/console/gamecube)
+      * [wii](/console/wii)
+      * [wii u](/console/wii-u)
+      * [switch](/console/nintendo-switch)
+      * [gameboy](/console/gameboy)
+      * [gameboy color](/console/gameboy-color)
+      * [gameboy advance](/console/gameboy-advance)
+      * [nintendo ds](/console/nintendo-ds)
+      * [nintendo 3ds](/console/nintendo-3ds)
+      * [virtual boy](/console/virtual-boy)
+      * [game & watch](/console/game-&-watch)
+      * pal (europe)
+      * [pal nes](/console/pal-nes)
+      * [pal super nintendo](/console/pal-super-nintendo)
+      * [pal nintendo 64](/console/pal-nintendo-64)
+      * [pal gamecube](/console/pal-gamecube)
+      * [pal wii](/console/pal-wii)
+      * [pal wii u](/console/pal-wii-u)
+      * [pal switch](/console/pal-nintendo-switch)
+      * [pal gameboy](/console/pal-gameboy)
+      * [pal gameboy color](/console/pal-gameboy-color)
+      * [pal gameboy advance](/console/pal-gameboy-advance)
+      * [pal nintendo ds](/console/pal-nintendo-ds)
+      * [pal nintendo 3ds](/console/pal-nintendo-3ds)
+      * japan
+      * [famicom](/console/famicom)
+      * [super famicom](/console/super-famicom)
+      * [jp nintendo 64](/console/jp-nintendo-64)
+      * [jp gamecube](/console/jp-gamecube)
+      * [jp wii](/console/jp-wii)
+      * [jp wii u](/console/jp-wii-u)
+      * [jp switch](/console/jp-nintendo-switch)
+      * [jp gameboy](/console/jp-gameboy)
+      * [jp gameboy color](/console/jp-gameboy-color)
+      * [jp gameboy advance](/console/jp-gameboy-advance)
+      * [jp nintendo ds](/console/jp-nintendo-ds)
+      * [jp nintendo 3ds](/console/jp-nintendo-3ds)
+      * [jp virtual boy](/console/jp-virtual-boy)
+  * playstation sony
+    *       * ntsc (usa)
+      * [playstation 1](/console/playstation)
+      * [playstation 2](/console/playstation-2)
+      * [playstation 3](/console/playstation-3)
+      * [playstation 4](/console/playstation-4)
+      * [playstation 5](/console/playstation-5)
+      * [psp](/console/psp)
+      * [playstation vita](/console/playstation-vita)
+      * pal (europe)
+      * [pal playstation 1](/console/pal-playstation)
+      * [pal playstation 2](/console/pal-playstation-2)
+      * [pal playstation 3](/console/pal-playstation-3)
+      * [pal playstation 4](/console/pal-playstation-4)
+      * [pal playstation 5](/console/pal-playstation-5)
+      * [pal psp](/console/pal-psp)
+      * [pal playstation vita](/console/pal-playstation-vita)
+      * japan
+      * [jp playstation 1](/console/jp-playstation)
+      * [jp playstation 2](/console/jp-playstation-2)
+      * [jp playstation 3](/console/jp-playstation-3)
+      * [jp playstation 4](/console/jp-playstation-4)
+      * [jp playstation 5](/console/jp-playstation-5)
+      * [jp psp](/console/jp-psp)
+      * [jp playstation vita](/console/jp-playstation-vita)
+  * sega
+    *       * ntsc (usa)
+      * [sega master system](/console/sega-master-system)
+      * [sega genesis](/console/sega-genesis)
+      * [sega cd](/console/sega-cd)
+      * [sega 32x](/console/sega-32x)
+      * [sega saturn](/console/sega-saturn)
+      * [sega dreamcast](/console/sega-dreamcast)
+      * [sega game gear](/console/sega-game-gear)
+      * [sega pico](/console/sega-pico)
+      * pal (europe)
+      * [pal master system](/console/pal-sega-master-system)
+      * [pal mega drive](/console/pal-sega-mega-drive)
+      * [pal mega cd ](/console/pal-sega-mega-cd)
+      * [pal mega drive 32x](/console/pal-mega-drive-32x)
+      * [pal sega saturn](/console/pal-sega-saturn)
+      * [pal sega dreamcast](/console/pal-sega-dreamcast)
+      * [pal sega game gear](/console/pal-sega-game-gear)
+      * [pal sega pico](/console/pal-sega-pico)
+      * japan
+      * [jp sega mark iii](/console/jp-sega-mark-iii)
+      * [jp mega drive](/console/jp-sega-mega-drive)
+      * [jp mega cd](/console/jp-sega-mega-cd)
+      * [jp super 32x](/console/jp-super-32x)
+      * [jp sega saturn](/console/jp-sega-saturn)
+      * [jp sega dreamcast](/console/jp-sega-dreamcast)
+      * [jp sega game gear](/console/jp-sega-game-gear)
+      * [jp sega pico](/console/jp-sega-pico)
+  * xbox
+    *       * ntsc (usa)
+      * [xbox](/console/xbox)
+      * [xbox 360](/console/xbox-360)
+      * [xbox one](/console/xbox-one)
+      * [xbox series x](/console/xbox-series-x)
+      * pal (europe)
+      * [pal xbox](/console/pal-xbox)
+      * [pal xbox 360](/console/pal-xbox-360)
+      * [pal xbox one](/console/pal-xbox-one)
+      * [pal xbox series x](/console/pal-xbox-series-x)
+  * atari
+    * [atari 2600](/console/atari-2600)
+    * [atari 5200](/console/atari-5200)
+    * [atari 7800](/console/atari-7800)
+    * [atari 400/800](/console/atari-400)
+    * [atari lynx](/console/atari-lynx)
+    * [atari jaguar](/console/jaguar)
+  * figures
+    * [amiibo figures](/console/amiibo)
+    * [skylanders figures](/console/skylanders)
+    * [infinity figures](/console/disney-infinity)
+    * [lego dimensions figs](/console/lego-dimensions)
+  * neo geo
+    * [neo geo mvs](/console/neo-geo)
+    * [neo geo aes](/console/neo-geo-aes)
+    * [neo geo cd](/console/neo-geo-cd)
+    * [neo geo pocket color](/console/neo-geo-pocket-color)
+  * other
+    * [atari](/page/mobile-menu#atari-section)
+    * [figures](/page/mobile-menu#figures-section)
+    * [neo geo](/page/mobile-menu#neogeo-section)
+    * [sega](/page/mobile-menu#sega-section)
+    * [xbox](/page/mobile-menu#xbox-section)
+    * [other](/page/mobile-menu#other-section)
+    * [pokemon cards](/category/pokemon-cards)
+  * other systems
+    * [pc & ms-dos](/console/pc-games)
+    * [nintendo power](/console/nintendo-power)
+    * [amiibo figures](/console/amiibo)
+    * [skylanders figures](/console/skylanders)
+    * [infinity figures](/console/disney-infinity)
+    * [lego dimensions figs](/console/lego-dimensions)
+    * [3do](/console/3do)
+    * [amiga](/console/amiga)
+    * [amiga cd32](/console/amiga-cd32)
+    * [arcadia 2001](/console/arcadia-2001)
+    * [atari 2600](/console/atari-2600)
+    * [atari 5200](/console/atari-5200)
+    * [atari 7800](/console/atari-7800)
+    * [atari 400/800](/console/atari-400)
+    * [atari lynx](/console/atari-lynx)
+    * [atari jaguar](/console/jaguar)
+    * [bally astrocade](/console/bally-astrocade)
+    * [cd-i](/console/cd-i)
+    * [colecovision](/console/colecovision)
+    * [commodore 64](/console/commodore-64)
+    * [fairchild f](/console/fairchild-channel-f)
+    * [famicom disk system](/console/famicom-disk-system)
+    * [game.com](/console/gamecom)
+    * [gizmondo](/console/gizmondo)
+    * [intellivision](/console/intellivision)
+    * [mattel aquarius](/console/mattel-aquarius)
+    * [mini arcade](/console/mini-arcade)
+    * [msx](/console/pal-msx)
+    * [msx 2](/console/pal-msx2)
+    * [n-gage](/console/n-gage)
+    * [neo geo mvs](/console/neo-geo)
+    * [neo geo aes](/console/neo-geo-aes)
+    * [neo geo cd](/console/neo-geo-cd)
+    * [neo geo pocket color](/console/neo-geo-pocket-color)
+    * [odyssey](/console/magnavox-odyssey)
+    * [odyssey 2](/console/magnavox-odyssey-2)
+    * [odyssey 300](/console/magnavox-odyssey-300)
+    * [pokemon mini](/console/pokemon-mini)
+    * [sega master system](/console/sega-master-system)
+    * [sega genesis](/console/sega-genesis)
+    * [sega cd](/console/sega-cd)
+    * [sega 32x](/console/sega-32x)
+    * [sega saturn](/console/sega-saturn)
+    * [sega dreamcast](/console/sega-dreamcast)
+    * [sega game gear](/console/sega-game-gear)
+    * [sega pico](/console/sega-pico)
+    * [ti-99](/console/ti-99)
+    * [turbografx-16](/console/turbografx-16)
+    * [turbografx cd](/console/turbografx-cd)
+    * [vectrex](/console/vectrex)
+    * [vic-20](/console/vic-20)
+    * [wonderswan](/console/wonderswan)
+    * [wonderswan color](/console/wonderswan-color)
+    * [xbox](/console/xbox)
+    * [xbox 360](/console/xbox-360)
+    * [xbox one](/console/xbox-one)
+    * [xbox series x](/console/xbox-series-x)
+  * trading cards cards
+    * [pokemon cards](/category/pokemon-cards)
+  * tools
+    * [price guide](/price-guide?f=menu)
+    * [collection tracker](/page/collection-tracker)
+    * [lot value calculator](/lot-value-calculator)
+    * [lot value automater](/lot-value-automater)
+    * [ebay lot bot](/ebay-lot-bot)
+    * [ebay deal scanner](/snipe)
+    * [big movers](/big-movers)
+    * [game cover art](/page/video-game-cover-art)
+
+search prices market ![](/images/upc.gif)  
+
+# pricecharting terms of service
+
+this document contains the terms and conditions of use on pricecharting. [CLS] [SEP]  
+our [privacy policy](/page/privacy-policy) outlines how we handle and protect
+your personal information. [CLS] [SEP]
+
+this side is the actual terms of service. [CLS] [SEP] it is legally binding. [CLS] [SEP]
+
+this side is a summary. [CLS] [SEP] it is not legally binding. [CLS] [SEP]
+
+### acceptance of terms
+
+by accessing pricecharting.com ("site") or using any services available on the
+site you agree to be bound by these terms ("terms"). [CLS] [SEP] if you disagree with any
+part of the terms you may not access the site. [CLS] [SEP]
+
+### summary,
+
+by using pricecharting you agree to the terms and conditions on this page. [CLS] [SEP]
+
+### service offered
+
+the site is an online resource allowing users to view current and historic
+video game prices, track video game collections, and buy and sell video game
+in our marketplace ("services"). [CLS] [SEP]
+
+pricecharting provides information that you may decide to follow or not. [CLS] [SEP] on
+the marketplace, we help facilitate transactions but the contract for sale is
+between the buyer and seller. [CLS] [SEP] pricecharting does not guarantee the existence,
+quality, legality, accuracy, or content of listings or the the products in the
+listings. [CLS] [SEP] use caution and common sense when entering into transactions on the
+marketplace. [CLS] [SEP]
+
+### summary,
+
+we operate a site that helps you price, collect, buy, & sell video games. [CLS] [SEP]
+
+on the marketplace, you are making a contract with the other person in the
+transaction, not with us. [CLS] [SEP] use caution when making a transaction. [CLS] [SEP]
+
+### user conduct & marketplace acceptable use
+
+all listings or other content submitted on the site is the sole responsibility
+of the user and not pricecharting. [CLS] [SEP] you agree to maintain and provide accurate
+information when you submit content. [CLS] [SEP] pricecharting does not control or verify
+user submitted content. [CLS] [SEP]
+
+sellers on the marketplace agree to fulfill their sales in a timely fashion. [CLS] [SEP]
+buyers have an obligation to pay for the items they purchase. [CLS] [SEP]
+
+you will not use the service for any purpose that is illegal in the
+jurisdiction where you use the service. [CLS] [SEP] you will not use the service in ways
+prohibited by these terms. [CLS] [SEP] violations are grounds for closing your account
+and/or deleting your listings at the sole discretion of pricecharting. [CLS] [SEP]
+
+when using the service you will not:  
+
+  * post or upload items in inappropriate categories. [CLS] [SEP] 
+  * post inaccurate, misleading, or libellous content. [CLS] [SEP] 
+  * spam users on the site. [CLS] [SEP] 
+  * violate any laws. [CLS] [SEP] 
+  * collect information about users without their consent. [CLS] [SEP] 
+
+### summary,
+
+you can't use the site to do something illegal in your country. [CLS] [SEP] for example,
+selling bootlegged video games. [CLS] [SEP] if you sell a video game on the marketplace
+you will ship it. [CLS] [SEP]
+
+if you do something bad, we have the right to close your account. [CLS] [SEP]
+
+### content ownership
+
+when you submit content to the site you retain full ownership of the content. [CLS] [SEP]
+you promise that our use of this content will not violate the rights of any
+third party, including, but not limited to, copyrights, intellectual property
+rights, and privacy rights. [CLS] [SEP]
+
+you grant pricecharting the right to store, display, and use the content. [CLS] [SEP] this
+right is non-exclusive, perpetual, irrevocable, and royalty-free. [CLS] [SEP]
+
+### summary,
+
+you still own any content you upload. [CLS] [SEP] we just use it for the purposes of
+running our site and marketplace. [CLS] [SEP]
+
+### price data acceptable use
+
+all price data on the site is sole ownership of pricecharting. [CLS] [SEP] you may not
+republish, redistribute, or reuse the price data without explicitly citing
+pricecharting as the source. [CLS] [SEP]
+
+pricecharting price data may be integrated with pos (point of sale) systems
+that and marketed, sold, and distributed to third parties. [CLS] [SEP] pos integrations
+must verify that each store location accessing the data has a valid and
+current pricecharting premium subscription. [CLS] [SEP]
+
+### summary,
+
+you can use the price data for your personal needs or internal business
+purposes. [CLS] [SEP] you cannot resell the data or redistribute the data unless you cite
+us as the source. [CLS] [SEP]
+
+you can use our price data with any pos (point of sale) system but each store
+location using the pos must have pricecharting subscription. [CLS] [SEP]
+
+### payment
+
+some services on the site require payment. [CLS] [SEP] in order to use these services you
+must provide pricecharting with your credit card information. [CLS] [SEP] by submitting
+card info you warrant to pricecharting that you are authorized to use the
+credit card submitted. [CLS] [SEP] you agree to have your credit card charged on a monthly
+basis for any recurring services. [CLS] [SEP]
+
+all payments are facilitated through a third party payment service,
+[stripe](https://stripe.com/connect) and [paypal](https://www.paypal.com). [CLS] [SEP] you
+agree to the payment processor's terms of service when you pay pricecharting
+for our services, when you receive payment for a sale on the marketplace, or
+purchase something on the marketplace. [CLS] [SEP]
+
+### summary,
+
+if you choose to use premium services on the site you will pay for them. [CLS] [SEP]
+
+whenever money changes hands, you agree to our payment processor's terms of
+service. [CLS] [SEP]
+
+### closing accounts
+
+we may terminate any and all services and/or accounts immediately without
+prior notice or liability, for any reason, including without limitation if you
+breach the terms. [CLS] [SEP] upon termination you may no longer use the services. [CLS] [SEP]
+
+you may terminate your account by discontinuing use, or closing your account. [CLS] [SEP]
+all provisions which should survive termination shall survive, including,
+ownership provisions, warranty disclaimers, limitations of liability, and
+indemnity. [CLS] [SEP]
+
+### summary,
+
+we can stop providing services at any time. [CLS] [SEP] you can stop using our services at
+any time. [CLS] [SEP]
+
+### revision
+
+pricecharting retains the right to modify or replace terms in this agreement
+at any time at our sole discretion. [CLS] [SEP] we will notify you of material changes by
+posting on the site. [CLS] [SEP] what constitutes a material change is at our sole
+discretion. [CLS] [SEP] use of the site and services after material changes constitutes
+your acceptance of the terms as modified. [CLS] [SEP]
+
+### summary,
+
+some day we might need to change the terms. [CLS] [SEP] if we do we will let you know. [CLS] [SEP]
+
+### accessing the site
+
+your access to the site may be interrupted due to maintenance, malfunction,
+acts of god, or other causes. [CLS] [SEP] pricecharting reserves the right to suspend or
+discontinue the site for any reason without prior notice or liability. [CLS] [SEP]
+
+### summary,
+
+sometimes things go wrong and you might lose access to the site. [CLS] [SEP] potentially
+forever if things go really bad. [CLS] [SEP]
+
+### limitation of liability
+
+you hereby expressly and irrevocably release and forever discharge
+pricecharting, and its respective directors, officers, employees, agents,
+representatives, independent and dependent contractors, licensees, successors
+and assigns of and from any and all actions, causes of action, suits,
+proceedings, liability, debts, judgments, claims and demands whatsoever in law
+or equity which you ever had, now have, or hereafter can, shall or may have,
+for or by reason of, or arising directly or indirectly out of your use of the
+site and the services. [CLS] [SEP]
+
+in no event shall pricecharting be liable under contract, tort, strict
+liability, negligence or other legal theory with respect to the site or
+services for (i) any lost profit or indirect punitive, or consequential
+damages, {ii) to provide substitute goods or services, or (iii) for any direct
+damages. [CLS] [SEP]
+
+### summary,
+
+we are not liable if something bad happens because you used the site. [CLS] [SEP]
+
+### dispute resolution
+
+both parties agree that the terms shall be governed in accordance with the
+laws of carbon county, wyoming as if both parties were residents thereof. [CLS] [SEP] both
+parties submit to the exclusive jurisdiction of carbon county, wyoming courts. [CLS] [SEP]
+
+### summary,
+
+if there is a dispute, we will resolve it where we are based, in carbon
+county, wyoming. [CLS] [SEP]
+
+
+
+  * categories
+  * [video game prices](https://www.pricecharting.com)
+  * [pokemon card prices](https://www.pricecharting.com/category/pokemon-cards)
+  * [sports card prices](https://www.sportscardpro.com)
+  * [basketball card prices](https://www.sportscardpro.com/category/basketball-cards)
+  * [football card prices](https://www.sportscardpro.com/category/football-cards)
+
+  * tools
+  * [video game price guide](https://www.pricecharting.com/price-guide?f=footer)
+  * [collection tracker](https://www.pricecharting.com/page/collection-tracker)
+  * [lot value calculator](https://www.pricecharting.com/lot-value-calculator)
+  * [lot value automater](https://www.pricecharting.com/lot-value-automater)
+  * [ebay lot bot](https://www.pricecharting.com/ebay-lot-bot)
+  * [ebay game sniper](https://www.pricecharting.com/snipe)
+
+  * navigation
+  * [home](https://www.pricecharting.com)
+  * [pricecharting pro](https://www.pricecharting.com/pricecharting-pro)
+  * [about us](https://www.pricecharting.com/page/about)
+  * [contact us](https://www.pricecharting.com/page/contact-us)
+  * [request features](https://www.pricecharting.com/page/feature-requests)
+
+  * other links
+  * [faq/help](/faq)
+  * [blog & changelog](http://blog.pricecharting.com)
+  * [api documentation](https://www.pricecharting.com/api-documentation)
+  * [edit/contribute](/contribute)
+  * [pricecharting app](/page/app)
+
+  * policies
+  * [terms of service](https://www.pricecharting.com/page/terms-of-service)
+  * [privacy policy](https://www.pricecharting.com/page/privacy-policy)
+  * [return policy](/return-policy)
+
+pricecharting (c) 2007-2021  
+
+[](https://www.pricecharting.com/)
+
+[login](https://www.pricecharting.com/login?return=https%3a%2f%2fwww.pricecharting.com%2fpage%2fterms-
+of-service) | [create account](https://www.pricecharting.com/create-
+account?return=https%3a%2f%2fwww.pricecharting.com%2fpage%2fterms-of-service)
+|
+
+  * usd __|
+    * usd
+    * cad
+    * eur
+    * gbp
+    * aud
+    * mxn
+    * brl
+
+[faq](/faq)
+

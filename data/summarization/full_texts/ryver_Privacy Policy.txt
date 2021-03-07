@@ -1,0 +1,374 @@
+[ ![ryver](https://ryver.com/wp-content/themes/bridge-child/images/logo-
+dark-2017.svg) ](https://ryver.com)
+
+[log in](https://signup.ryver.com/login) [start for
+free](http://signup.ryver.com/)
+
+[ __](javascript:void\(0\))
+
+  * __why ryver
+
+    * [__why ryver](https://ryver.com/why-ryver/)
+    * [__about](https://ryver.com/about/)
+    * [__features](https://ryver.com/features/)
+    * [__ryver vs slack](https://ryver.com/ryver-vs-slack/)
+    * [__ryver vs trello](https://ryver.com/ryver-vs-trello/)
+
+  * __solutions
+
+    * [__for teams](https://ryver.com/for-teams/)
+    * [__for enterprises](https://ryver.com/for-enterprises/)
+
+  * [__reviews](https://ryver.com/reviews/)
+  * [__pricing](https://ryver.com/pricing/)
+  * [__log in](https://signup.ryver.com/login)
+  * [__start for free](http://signup.ryver.com/)
+
+![close](https://ryver.com/wp-content/themes/bridge-
+child/images/close-24px.svg)
+
+__
+
+# privacy policy
+
+**last updated: january 7, 2019.**
+
+ryver llc, a delaware corporation (“ryver” or “we” or “us” or “our”) is
+committed to the protection of your privacy. [CLS] [SEP] we have established this privacy
+statement (the ‘statement’) as a means of disclosing to you how we collect,
+utilize, distribute, and protect your personal information. [CLS] [SEP] this privacy
+statement covers both the site www.ryver.com (the “site”) and the services and
+applications (the “service”) that ryver llc provides. [CLS] [SEP] for the purposes of this
+privacy statement, “customer” shall mean any past, current, or prospective
+customer of ryver, including any visitor to the site. [CLS] [SEP] this privacy statement
+governs the manner in which ryver collects, uses, maintains and discloses
+information collected from customers in connection with ryver’s site,
+services, and applications. [CLS] [SEP] ryver is committed to safeguarding the information
+its customers entrust to it. [CLS] [SEP] capitalized terms that are not defined in this
+privacy policy have the meaning given them in our terms of service. [CLS] [SEP] by
+accessing or using the service, you agree to this privacy statement. [CLS] [SEP]
+
+#### collecting and using information
+
+ryver uses information we collect to operate, maintain, and provide you the
+features and functionality of the service, to analyze how the service is used,
+diagnose service or technical problems, maintain security, personalize
+content, remember information to help you efficiently access your account,
+monitor aggregate metrics such as total number of visitors, traffic, and
+demographic patterns, and track content and users as necessary to comply with
+the digital millennium copyright act and other applicable laws. [CLS] [SEP]
+
+**organization owners:** when a person signs up for a new ryver organization,
+they are the owner, or primary administrator, of that organization. [CLS] [SEP] as an
+organization owner, we may send you service, technical, and other
+administrative emails, messages, and other types of communications  in lieu of
+communication by postal mail. [CLS] [SEP] we may also contact you to inform you about
+changes in our services, our services offerings, and important services-
+related notices, such as security and fraud notices. [CLS] [SEP] in addition, we may need
+to contact you for invoicing, account management, and similar reasons, and we
+use account data to administer accounts and keep track of billing and
+payments. [CLS] [SEP] these communications are considered part of the services and you may
+not opt out of them. [CLS] [SEP] finally, we sometimes send emails about new product
+features, promotional communications, or other news about ryver, which you can
+opt out of receiving by unsubscribing via a link provided in the email or by
+writing to us at privacy@ryver.com. [CLS] [SEP]
+
+**user profiles:** when a member or guest is invited to a ryver organization,
+they fill out a user profile, which includes an email address, display name,
+and other optional information. [CLS] [SEP] ryver will use the email address for directly
+providing application services such as offline notifications. [CLS] [SEP] additionally, we
+may use the email address to send tips on using the product. [CLS] [SEP] you can opt out
+of receiving these emails by unsubscribing via a link provided in the email or
+by writing to us at privacy@ryver.com. [CLS] [SEP]
+
+**error log data:** if you encounter an error in the ryver application, we
+will provide a feedback form so you can report the problem to our customer
+support. [CLS] [SEP] the error report includes the operating system, browser, device
+information, and records the action that was being performed at the time the
+error occurred. [CLS] [SEP] this information is used to help diagnose and solve the
+customer problem. [CLS] [SEP]
+
+**third party service integration:** ryver connects to third party services
+such as google drive and dropbox, to facilitate document attachments and
+google hangout integration. [CLS] [SEP] ryver connects to these services via oauth, and
+does not directly capture or store your username or password for these
+external services. [CLS] [SEP]
+
+**ryver usage metrics:** ryver tracks application usage and stores it in a
+metrics database, from which we create charts and spreadsheets for analysis,
+allowing us to understand what parts of the ryver service are and are not
+being used, and to what extent. [CLS] [SEP] data tracked includes number of invites,
+number of teams created, number of chat messages, posts and comments, etc. [CLS] [SEP]
+this data does not include actual content such as team names, message content,
+or user names. [CLS] [SEP]
+
+#### content
+
+**your content:** when you post content into ryver, that content is private to
+you and the other users in your ryver organization. [CLS] [SEP] who exactly can see what
+content depends on the configuration of the teams and users in your
+organization. [CLS] [SEP]
+
+**ryver employees:** we have taken steps at ryver to ensure that your content
+remains private. [CLS] [SEP] while we are a technology company providing a service, and
+certain employees need to have access to customer data stores, we minimize
+that access, even amongst the engineering staff. [CLS] [SEP] by taking advantage of
+amazon’s identity and access management (iam) configuration
+([https://aws.amazon.com/iam/](https://aws.amazon.com/iam/)), we ensure that
+most of the ryver employees are unable to access customer content data stores. [CLS] [SEP]
+
+**disclosure:** as outlined in section 5 (acceptable user of ryver) in the
+ryver terms of service, there may be certain cases where ryver is required to
+access, remove, preserve, or disclose information as necessary to comply with
+legal obligations and/or protect our users. [CLS] [SEP] as long as we are legally
+permitted, we will provide notice of any situation where accessing content
+becomes necessary. [CLS] [SEP] we will also request permission before accessing content to
+provide customer support. [CLS] [SEP]
+
+#### cookies and log files
+
+when you use the service, we may send one or more “cookies” (a small data
+file) to your computer to uniquely identify your browser and assist ryver to
+help you log in faster and improve your navigation through the site. [CLS] [SEP] a cookie
+may convey anonymous information to us about how you browse the service. [CLS] [SEP] a
+persistent cookie remains on your hard drive after you close your browser so
+that it can be used by your browser on subsequent visits to the site. [CLS] [SEP]
+persistent cookies can be removed by following your browser’s directions. [CLS] [SEP] a
+session cookie is temporary and disappears after you close your browser. [CLS] [SEP] you
+can reset your browser to refuse all cookies or to indicate when a cookie is
+being sent. [CLS] [SEP] however, certain features of the service may not function properly
+if you disable the ability to accept cookies. [CLS] [SEP]
+
+#### device identifiers and geo-location information
+
+ryver does not currently collect precise gps information with our mobile
+client. [CLS] [SEP] should that change in the future, we will update our privacy policy,
+and take steps in the application to ensure that users are aware of such use
+of location information in order to provide our service. [CLS] [SEP] should we add such a
+feature in the future, please note that a device identifier or location data
+does not collect or share any personally identifiable information about you. [CLS] [SEP]
+
+#### third party analytics
+
+ryver may use third party analytics tools, such as google analytics, to help
+understand use of the service or the ryver web site. [CLS] [SEP] many of these tools
+collect the information sent by your browser as part of a web page request,
+including cookies, and your ip address. [CLS] [SEP] these analytics tools also receive
+this information and their use of it is governed by their privacy policy or
+statement. [CLS] [SEP]
+
+#### third party website remarketing
+
+the ryver web site may use third-party remarketing services to advertise on
+third-party websites (including google, facebook, and twitter) to previous
+visitors to our site. [CLS] [SEP] these 3rd party sites use tracking cookies to serve ads
+based on someone’s past visits to our website. [CLS] [SEP] this means we might continue to
+show ads to you across the internet, specifically on the google content
+network (gcn), facebook, and twitter. [CLS] [SEP] as always, we respect your privacy, and
+we are not collecting any personally identifiable information through the use
+of google’s, facebook’s, twitter’s, or any other 3rd party remarketing system. [CLS] [SEP]
+you can set preferences for how google advertises to you using the google ad
+preferences page
+([http://www.google.com/settings/ads/onweb/](http://www.google.com/settings/ads/onweb/)). [CLS] [SEP]
+if you do not want twitter to match your account to information shared by ad
+partners to tailor ads for you, you can uncheck the box next to “promoted
+content” in your account settings at any time. [CLS] [SEP] (read more
+([https://support.twitter.com/articles/20170405](https://support.twitter.com/articles/20170405))
+for details.) and, you can set preferences for how facebook advertises to you
+by editing your privacy settings
+([https://www.facebook.com/help/155389304528852](https://www.facebook.com/help/155389304528852))
+on facebook. [CLS] [SEP]
+
+#### protecting information
+
+ryver makes diligent efforts to maintain accurate information on our
+customers. [CLS] [SEP] ryver has put stringent security procedures in place to protect
+such information collected about our customers. [CLS] [SEP] we constantly monitor our
+systems, which are protected using industry-standard security measures. [CLS] [SEP] secure
+sockets layer (“ssl”) connections are used to communicate to our system to
+protect customer information as well as encrypting vital information that
+customers input through the site. [CLS] [SEP] while ryver cannot guarantee that the
+information submitted to, maintained on, or transmitted from our systems will
+be 100% secure, we take security very seriously and follow industry best
+practices. [CLS] [SEP] we have also paid for third party security audits in the past, and
+will continue to do so in the future. [CLS] [SEP]
+
+#### access to your personal data
+
+we will display your personal identifiable information in your profile page
+and elsewhere on the service according to the preferences you set for your
+user account. [CLS] [SEP] any information you choose to provide should reflect how much
+you want others to know about you. [CLS] [SEP] please carefully consider what information
+you disclose in your profile page and your desired level of anonymity. [CLS] [SEP] you can
+review and revise your profile information at any time by going to **_my
+settings > profile_**. [CLS] [SEP] we may also share or disclose your information with
+your consent, for example, if you use a third party application to access your
+account (see below). [CLS] [SEP] if you want to have your profile information completely
+removed (for example, after you leave a ryver organization), please contact
+[privacyshield@ryver.com](http://privacyshield@ryver.com) and we will delete
+your personal information completely from our system. [CLS] [SEP]
+
+#### service providers and third party services
+
+ryver may share your personally identifiable information or certain content
+with other third parties for the purpose of providing the service to you. [CLS] [SEP] if
+we do this, such third parties’ use of your information will be bound by this
+privacy statement. [CLS] [SEP]
+
+ryver may share your information with a third party application with your
+consent, for example, when you choose to access our service through such an
+application, and you provide that application with your ryver login
+credentials. [CLS] [SEP] ryver is not responsible for what those third parties do with
+your information, so you should make sure you trust the application and that
+it has a privacy policy or statement acceptable to you. [CLS] [SEP]
+
+#### business transfers
+
+as we develop our business, we may buy or sell assets or business offerings. [CLS] [SEP]
+customers, email, and visitor information is generally one of the business
+assets transferred in these types of transactions. [CLS] [SEP] we may also transfer or
+assign such information in the course of corporate divestitures,
+consolidations, mergers, or dissolution. [CLS] [SEP]
+
+#### compliance with laws, law enforcement requests, and protection of ryver
+
+ryver may disclose your personal information if required to do so by law, law
+enforcement, or subpoena. [CLS] [SEP] ryver may disclose your personal information if
+ryver believes that it is reasonably necessary in order (i) to comply with
+law, regulation, or legal request; (ii) to protect the safety of any person;
+(iii) to address fraud, security, or technical issues; or (iv) to protect
+ryver’s rights or property. [CLS] [SEP]
+
+#### children's privacy
+
+protecting the privacy of young children is especially important. [CLS] [SEP] our service
+is not directed to persons under 13. [CLS] [SEP] ryver does not knowingly collect or
+solicit personal information from anyone under the age of 13 or knowingly
+allow such persons to register with the service. [CLS] [SEP] if we become aware that we
+have collected personal information from a child under age 13 without
+verification of parental consent, we will take steps to remove that
+information. [CLS] [SEP] if you believe that we might have any information from or about a
+child under 13, please contact us at
+[feedback@ryver.com](mailto:feedback@ryver.com). [CLS] [SEP]
+
+#### eu-us privacy shield framework
+
+ryver complies with the eu-u.s. [CLS] [SEP] privacy shield framework regarding the
+collection, use, and retention of personal information transferred from the
+european union to the united states, respectively. [CLS] [SEP] ryver has certified that it
+adheres to the privacy shield principles. [CLS] [SEP] if there is any conflict between the
+terms in this privacy policy and the privacy shield principles, the privacy
+shield principles shall govern. [CLS] [SEP] to learn more about the privacy shield
+program, please visit https://www.privacyshield.gov/. [CLS] [SEP]
+
+ryver is subject to the investigatory and enforcement powers of the federal
+trade commission (ftc) with regard to the privacy shield frameworks. [CLS] [SEP]
+
+#### eu-us privacy complaints
+
+in compliance with the us-eu privacy shield principles, ryver commits to
+resolve complaints about your privacy and our collection or use of your
+personal information. [CLS] [SEP] european union individuals with inquiries or complaints
+regarding this privacy policy should first contact jeff hershauer at ryver at
+privacyshield@ryver.com, or by mail at ryver llc, 9035 east pima center
+parkway, suite 5, scottsdale, az 85258 usa. [CLS] [SEP]
+
+ryver has further committed to refer unresolved privacy complaints under the
+eu-us privacy shield principles to an independent dispute resolution
+mechanism. [CLS] [SEP] if you are a resident of any european country that’s part of
+privacy shield and are not satisfied by our response to your grievance, you
+can seek independent recourse mechanism with eu data protection authorities
+(dpa). [CLS] [SEP]
+
+please note that if your complaint is not resolved through these channels,
+under limited circumstances, a binding arbitration option may be available
+before a privacy shield panel. [CLS] [SEP]
+
+#### eu gdpr
+
+see **eu-us privacy shield framework** and **eu-us privacy complaints**
+sections above, as well as our [gdpr page](https://ryver.com/gdpr/). [CLS] [SEP]
+
+**liability in case of onward transfer**
+
+ryver complies with the privacy shield principles for all onward transfers of
+personal data from the eu, including the onward transfer liability provisions. [CLS] [SEP]
+
+#### conditions of use and concerns
+
+by choosing to visit and interact with ryver, customers agree that their visit
+and any dispute regarding the protection of their privacy during such visit is
+subject to this privacy statement including, but not limited to, the
+provisions regarding limitations on damages and the application of the law of
+the state of delaware. [CLS] [SEP] please note that if customers enter into other
+contractual agreements with ryver, privacy terms and conditions of such other
+agreements may supplement or supersede this policy. [CLS] [SEP] questions and concerns
+about privacy at ryver should be directed to
+[feedback@ryver.com](mailto:feedback@ryver.com). [CLS] [SEP]
+
+by mail:  
+ryver llc  
+9035 east pima center parkway, suite 5  
+scottsdale, az 85258  
+
+**changes to ryver 's privacy statement**
+
+ryver reserves the right to change this privacy statement and other policies
+prospectively at any time, subject to applicable laws and regulations, by
+posting notice of such changes on the site. [CLS] [SEP] regardless of later updates or
+changes to our privacy statement, we will never use the information you submit
+under our current privacy statement in a new way without first providing you
+an opportunity to opt-out or otherwise prevent that use. [CLS] [SEP] in such an event of a
+material change, we shall notify you by email, or a prominent notice on the
+site. [CLS] [SEP]
+
+
+
+##### why ryver
+
+  * [why ryver](https://ryver.com/why-ryver/)
+  * [features](https://ryver.com/features/)
+  * [ryver vs slack](https://ryver.com/ryver-vs-slack/)
+  * [ryver vs trello](https://ryver.com/ryver-vs-trello/)
+  * [pricing](https://ryver.com/pricing/)
+
+##### solutions
+
+  * [for enterprises](https://ryver.com/for-enterprises/)
+  * [for teams](https://ryver.com/for-teams/)
+
+##### company
+
+  * [about](https://ryver.com/about/)
+  * [blog](http://ryver.com/blog)
+
+##### resources
+
+  * [downloads](https://ryver.com/downloads/)
+  * [developers](http://api.ryver.com)
+  * [support](http://support.ryver.com)
+
+[ ![ryver](https://ryver.com/wp-content/themes/bridge-child/images/logo-
+dark-2017.svg) ](https://ryver.com)
+
+[![facebook](https://ryver.com/wp-content/uploads/2018/12/social-
+facebook.svg)](https://www.facebook.com/ryverapp)
+[![twitter](https://ryver.com/wp-content/uploads/2018/12/social-
+twitter.svg)](https://twitter.com/ryverapp) [![linkedin](https://ryver.com/wp-
+content/uploads/2018/12/social-
+linkedin.svg)](https://www.linkedin.com/company/ryver-inc)
+[![youtube](https://ryver.com/wp-content/uploads/2018/12/social-
+youtube.svg)](https://www.youtube.com/channel/uc8mcvpq8byukea-t9lfhpkw/feed)
+[![g2](https://ryver.com/wp-
+content/uploads/2018/12/social-g2.svg)](https://www.g2crowd.com/products/ryver/reviews)
+
+[contact sales](mailto:sales@ryver.com)[contact
+support](https://support.ryver.com/#contact-us)
+
+[terms of service](terms-of-service/)   |   [privacy policy](privacy-policy/)
+
+(c) ryver, inc. [CLS] [SEP] all rights reserved. [CLS] [SEP]
+
+![](https://dc.ads.linkedin.com/collect/?pid=85071&fmt=gif)
+![](https://dc.ads.linkedin.com/collect/?pid=85071&fmt=gif)
+

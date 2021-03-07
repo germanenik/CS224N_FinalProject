@@ -1,0 +1,276 @@
+[](https://vivaldi.com/ "vivaldi")
+
+  * [desktop](/)
+    * [download vivaldi](/download/) [features](/features/) [tab management](/features/tab-management/) [user interface](/features/user-interface/) [customization](/features/customization/) [navigation](/features/navigation/) [mouse & keyboard](/features/mouse-keyboard/) [privacy & security](/features/privacy-security/) [tools](/features/tools/) [vivaldia game](/game/)
+
+  * [mobile](/android/)
+    * [vivaldi for android](/android/)
+
+  * [news](/blog/)
+    * [vivaldi blog](/blog/) [desktop snapshots](/blog/desktop/snapshots/) [mobile snapshots](/blog/mobile/snapshots/) [press coverage](/press-coverage/) [press releases](/press/releases/)
+
+  * [help](https://help.vivaldi.com/)
+    * [vivaldi help pages](https://help.vivaldi.com/) [forum](https://forum.vivaldi.net/) [tutorials](https://help.vivaldi.com/tutorials/) [report a bug](/bugreport/) [contact](/contact/)
+
+  * [community](https://vivaldi.net/)
+    * [blogs](https://vivaldi.net/) [forum](https://forum.vivaldi.net/) [webmail](https://imap.vivaldi.net/webmail/) [merchandise ](https://store.vivaldi.com/) [banners](/banners/) [about](https://vivaldi.net/about/)
+
+  * [about](/company/)
+    * [what we believe](/company/) [we don't track you](/zerotracking/) [privacy & terms](/privacy/browser/) [security](/security/) [our team](/team/) [jobs](/jobs/) [press & media](/press/)
+
+[ download ](https://downloads.vivaldi.com/stable/vivaldi.3.6.2165.40.exe
+"download vivaldi for windows")
+
+# community - privacy policy
+
+## general
+
+at vivaldi technologies as (“vivaldi”), protecting your privacy is one of our
+top priorities. [CLS] [SEP] we strictly protect the security of your personal information
+within vivaldi’s community services (mail, blogs, forum and sync). [CLS] [SEP]
+
+we do not share or sell your personal data with any third party. [CLS] [SEP] we protect
+user data from disclosure, with exceptions only requested by law or court
+order. [CLS] [SEP]
+
+the purpose of this policy is to inform you of how vivaldi will process your
+personal data as data controllers and the measures and processes we have put
+in place to ensure its adequate protection. [CLS] [SEP] providing this kind of information
+is also one of the requirements under the general data protection regulation
+2016/679 (“gdpr”). [CLS] [SEP]
+
+
+
+## types of data we process and for what purposes
+
+when you visit vivaldi’s websites, we collect some visitor statistics. [CLS] [SEP] the
+visitor statistics include information about the visitor’s truncated ip-
+address, usage patterns, the point in time the visitor visits our websites on
+[vivaldi.net](https://vivaldi.net) and [vivaldi.com](https://vivaldi.com/) and
+information about the browser and operating system the visitor uses. [CLS] [SEP]
+
+this information is collected solely for statistical purpose and is not used
+to identify individuals. [CLS] [SEP] we use these statistics to improve and optimize
+usability of our products and services for our users. [CLS] [SEP] these statistics help us
+determine where we need to improve and prioritize our resources. [CLS] [SEP] the legal
+basis for the processing is the legitimate interest vivaldi has in providing
+you with a good experience when visiting the websites. [CLS] [SEP]
+
+vivaldi’s websites use cookies. [CLS] [SEP] a cookie is a tiny data file that resides on
+your computer, mobile phone or another device, and allows us to recognize you
+as a visitor when you return to the website using the same computer and web
+browser. [CLS] [SEP] this allows us to provide more customized experience to our visitors. [CLS] [SEP]
+the legal basis for the processing is the legitimate interest vivaldi has in
+providing you with a good experience when visiting the websites. [CLS] [SEP] you can
+remove or block cookies using the settings in your browser. [CLS] [SEP]
+
+we keep the contact information you provide in your account profile. [CLS] [SEP] we use
+this contact information in case of lost passwords, username recovery, account
+confirmation, or other account-related support work. [CLS] [SEP] we also use this contact
+information to keep you updated about any technical development in our browser
+and services and, if you have decided so, send you our newsletter. [CLS] [SEP]
+
+you can unsubscribe from any of our communications at any time by clicking on
+“unsubscribe” link at the bottom of each email or visit
+[https://vivaldi.com/newsletter/unsubscribe](https://vivaldi.com/newsletter/unsubscribe/). [CLS] [SEP]
+the legal basis for the processing is the fulfillment of your request
+(contract) and the legitimate interest vivaldi has in providing you with
+updates and newsletters pertaining the services. [CLS] [SEP]
+
+in order to provide our forum service and identify possible account abuse, we
+collect your email address, hashed ip address, profile picture, posts and
+topics, and the history of changes. [CLS] [SEP] we do not have access to your private
+chats. [CLS] [SEP] vivaldi forum uses a modified version of the akismet plugin to mitigate
+spam. [CLS] [SEP] the plugin has been modified so that the only information sent back to
+akismet is username and comment content, excluding personal data like ip and
+email address as the default install would require. [CLS] [SEP] the legal basis for the
+processing is the legitimate interest vivaldi has in providing you with a good
+experience when using our forum service. [CLS] [SEP]
+
+in order to provide you our mail service we process the following email
+metadata: sender and recipient email addresses, the ip address from which
+incoming messages originated, and message sent and received times. [CLS] [SEP] email
+messages are scanned by automated systems that allow us to detect malicious
+activity. [CLS] [SEP] the legal basis for the processing is the fulfilment of your request
+(contract) and the legitimate interest vivaldi has in providing you with a
+good experience when using our email service. [CLS] [SEP]
+
+to protect our webmail and blog services from fraudulent users, we will in
+addition ask for your phone number as phone number verification provides an
+added level of security. [CLS] [SEP] we use the third-party service nexmo to send you sms
+and won't use the phone number for anything else but account verification. [CLS] [SEP]
+read more about their [privacy policy](https://www.nexmo.com/privacy-policy). [CLS] [SEP]
+
+if you use vivaldi sync feature, the documentation about the data we collect
+and for what purposes for this service is available [here](/privacy/sync/). [CLS] [SEP]
+the legal basis for the processing is the legitimate interest vivaldi has in
+providing you with a good experience when using our sync feature. [CLS] [SEP]
+
+## access
+
+vivaldi has strict restrictions on access to user data. [CLS] [SEP] only a limited number
+of vivaldi’s employees or employees at vivaldi’s service providers for the web
+hosting services have access to such data. [CLS] [SEP]
+
+through vivaldi community services, you can directly access, edit, delete or
+export your personal data. [CLS] [SEP]
+
+## transfer
+
+vivaldi will not transfer any personal data to third parties except as
+required by law or law enforcement. [CLS] [SEP]
+
+## retention and deletion
+
+vivaldi will delete personal information when all purposes of the personal
+information processing have been fulfilled and when deletion is allowed
+pursuant to applicable laws and regulations. [CLS] [SEP]
+
+when you close your vivaldi account, your data is immediately deleted from our
+production servers except for emails which might be retained for up to seven
+days. [CLS] [SEP]
+
+email logs are stored for up to three months. [CLS] [SEP]
+
+
+
+## your rights
+
+under certain circumstances, you have the following rights by the gdpr in
+relation to our processing of your personal data. [CLS] [SEP]
+
+  * the right to obtain confirmation that your data is being processed and access to your personal data and other supplementary information
+  * the right to have personal data rectified
+  * the right to have personal data erased and to prevent processing
+  * the right to restrict processing
+  * the right to data portability
+  * the right to object to the processing of personal data
+  * rights not to be subject to automated decision making and profiling. [CLS] [SEP]
+
+if you wish to exercise any of your rights, please contact us. [CLS] [SEP] you can also
+directly access, edit, delete or export your personal data through the vivaldi
+community services. [CLS] [SEP]
+
+## data security
+
+we are committed to safeguarding and protecting your personal data and will
+implement and maintain appropriate technical and organisational measures to
+ensure a level of security appropriate to protect your personal data from
+accidental or unauthorised destruction, loss, alteration, disclosure or
+access. [CLS] [SEP]
+
+procedures are reviewed regularly to ensure that the policies are followed. [CLS] [SEP]
+any non-conformance regarding the policies will be corrected without
+unnecessary delay. [CLS] [SEP]
+
+## complaints
+
+you are entitled to lodge a complaint with a competent data protection
+regulator if you consider that we have breached your data protection rights. [CLS] [SEP]
+
+## updates and changes
+
+this privacy statement may be updated or changed. [CLS] [SEP] when we post changes to this
+privacy statement, we will include the date when the privacy statement was
+last updated. [CLS] [SEP] if there are material changes to this statement or in how we use
+your personal information, we will notify you either by prominently posting a
+notice of such changes prior to implementing the change or by directly sending
+you a notification. [CLS] [SEP]
+
+## contact information
+
+if you have any questions about this privacy statement, or privacy on our
+websites, please drop us a line at
+[vivaldi.com/contact](https://vivaldi.com/contact) or contact us at:
+
+vivaldi technologies as  
+mølleparken 6  
+0459 oslo  
+norway
+
+last modified and effective: march 26, 2019. [CLS] [SEP]
+
+  * [overview](/privacy/)
+  * browser
+    * [browser privacy policy](https://vivaldi.com/privacy/browser/)
+    * [vivaldi end user license agreement](https://vivaldi.com/privacy/vivaldi-end-user-license-agreement/)
+    * [browser third-parties](https://vivaldi.com/privacy/browser-3rd-parties/)
+    * [sync](https://vivaldi.com/privacy/sync/)
+  * community
+    * [community privacy policy](https://vivaldi.com/privacy/community-privacy-policy/)
+    * [terms of use](https://vivaldi.com/privacy/community-terms-of-use/)
+    * [code of conduct](https://vivaldi.com/privacy/code-of-conduct/)
+  * websites
+    * [websites privacy policy](https://vivaldi.com/privacy/vivaldi-s-websites/)
+    * [cookie policy](https://vivaldi.com/privacy/cookie-policy/)
+
+[download
+vivaldi](https://downloads.vivaldi.com/stable/vivaldi.3.6.2165.40.exe)
+
+[**subscribe to our newsletter**](/newsletter/)
+
+[](https://twitter.com/vivaldibrowser "twitter")
+[](https://www.youtube.com/channel/uchg0cnxmtdl7cxhav7azkkq "youtube")
+[](https://www.instagram.com/vivaldibrowser/ "instagram")
+[](https://www.facebook.com/vivaldi.browser/ "facebook")
+[](https://t.me/vivaldibrowser "telegram")
+
+#### [desktop](/features/)
+
+  * [download vivaldi](/download/)
+  * [features](/features/)
+  * [tab management](/features/tab-management/)
+  * [user interface](/features/user-interface/)
+  * [customization](/features/customization/)
+  * [navigation](/features/navigation/)
+  * [mouse & keyboard](/features/mouse-keyboard/)
+  * [privacy & security](/features/privacy-security/)
+  * [tools](/features/tools/)
+
+#### [mobile](/android/)
+
+  * [vivaldi for android](/android/)
+
+#### [news](/blog/)
+
+  * [vivaldi blog](/blog/)
+  * [snapshots](/blog/snapshots/)
+  * [press coverage](/press-coverage/)
+  * [press releases](/press/releases/)
+
+#### [help](https://help.vivaldi.com/)
+
+  * [vivaldi help pages](https://help.vivaldi.com/)
+  * [forum](https://forum.vivaldi.net/)
+  * [tutorials](https://help.vivaldi.com/tutorials/)
+  * [report a bug](/bugreport/)
+  * [contact](/contact/)
+
+#### [community](https://vivaldi.net/)
+
+  * [blogs](https://vivaldi.net/)
+  * [forum](https://forum.vivaldi.net/)
+  * [webmail](https://imap.vivaldi.net/webmail/)
+  * [merchandise](https://store.vivaldi.com/)
+  * [banners](/banners/)
+  * [about](https://vivaldi.net/about/)
+
+#### [about](/company/)
+
+  * [what we believe](/company/)
+  * [we don't track you](/zerotracking/)
+  * [privacy & terms](/privacy/browser/)
+  * [security](/security/)
+  * [our team](/team/)
+  * [jobs](/jobs/)
+  * [press & media](/press/)
+  * [status](https://vivaldistatus.com)
+
+българскиčeštinadanskdeutschenglishespañolفارسیsuomifrançaismagyarհայերենindonesiaíslenskaitaliano日本語関西弁nederlandspolskiportuguês
+brasileiroportuguês
+europeuрусскийslovenčinaslovenščinaсрпскиsrpskisvenskatürkçeukrainian简体中文繁體中文
+
+© vivaldi technologies™  — all rights reserved. [CLS] [SEP]
+
+![](https://vivaldi.com/rep/rep?idsite=4&rec=1)
+

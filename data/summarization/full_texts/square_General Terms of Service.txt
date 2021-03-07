@@ -1,0 +1,807 @@
+**general**
+
+# general terms of service
+
+**effective date: january 1, 2020**
+
+**posted date: december 10, 2019**
+
+we’ve included annotations in the gray boxes below to emphasize certain
+portions of our terms and help guide you as you read them. [CLS] [SEP] the annotations
+aren’t summaries, so please take the time to read everything!
+
+this page describes the general terms that apply to your use of any of our
+services. [CLS] [SEP] by using our services you agree to these terms on top of any other
+terms that apply to a specific service you are using (like cash app, for
+example). [CLS] [SEP] if you use our services on behalf of your company, your company
+agrees to them too. [CLS] [SEP]
+
+these general terms of service (“general terms”) are a legal agreement between
+you, as a current or prospective customer of square’s services (“you,” “your”)
+and square, inc. [CLS] [SEP] square capital, llc, and/or cash app investing llc (”square,”
+“we,” “our” or “us”) and govern your use of square’s services, including
+mobile applications, websites, software, hardware, and other products and
+services (collectively, the “services”). [CLS] [SEP] if you are using the services on
+behalf of a business, you represent to us that you have authority to bind that
+business or entity to these terms, and that business accepts these terms. [CLS] [SEP] by
+using any of the services, you agree to these general terms and any policies
+referenced within (“policies”), including our privacy notice (see section 8)
+and terms that limit our liability (see section 18) and require individual
+arbitration for any potential legal dispute (see section 21), which are
+collectively incorporated herein by reference. [CLS] [SEP] you also agree to any
+additional terms specific to services you use (“additional terms”), such as
+those listed below, which become part of your agreement with us (collectively,
+the “terms”). [CLS] [SEP] you should read all of our terms carefully. [CLS] [SEP]
+
+  * [payment terms](/legal/payment): these terms apply to all payments made through the services. [CLS] [SEP]
+  * [point of sale additional terms of service](/legal/pos): these terms apply when you use certain square point of sale services. [CLS] [SEP]
+  * [cash additional terms of service](/legal/cash-ua): these terms apply when you use square cash or square cash for business. [CLS] [SEP]
+  * [hipaa business associate agreement](/legal/hipaa): if you are subject to hipaa as a covered entity or business associate (as defined in hipaa) and use the services in a manner that causes us to create, receive, maintain, or transmit protected health information on your behalf, then you agree to the hipaa business associate agreement (“hipaa baa”). [CLS] [SEP]
+  * [square installments seller terms of service](/legal/capital-installments-seller-terms): these terms apply if you participate in the square installments program. [CLS] [SEP]
+
+#### 1\. [CLS] [SEP] square account registration
+
+provide accurate personal information during registration and keep the
+information current. [CLS] [SEP] we can suspend or terminate your account if you provide
+incomplete or false information. [CLS] [SEP]
+
+you are responsible for all activity on your account. [CLS] [SEP]
+
+you must open an account with us (a “square account”) to use the services. [CLS] [SEP]
+during registration we will ask you for information, which may include but is
+not limited to, your name and other personal information. [CLS] [SEP] you must provide
+accurate and complete information in response to our questions, and you must
+keep that information current. [CLS] [SEP] you are fully responsible for all activity that
+occurs under your square account, including for any actions taken by persons
+to whom you have granted access to the square account. [CLS] [SEP] we reserve the right to
+change the account type, suspend or terminate the square account of anyone who
+provides inaccurate, untrue, or incomplete information, or who fails to comply
+with the account registration requirements. [CLS] [SEP]
+
+#### 2\. [CLS] [SEP] revisions, disclosures and notices
+
+we can make updates to our terms of service at any time, and we’ll notify you
+of these updates as appropriate. [CLS] [SEP] by continuing to use our services after these
+updates, you agree to the revised terms. [CLS] [SEP]
+
+you also agree to receive notices from us electronically. [CLS] [SEP]
+
+we may amend the terms at any time with notice that we deem to be reasonable
+under the circumstances, by posting the revised version on our website or
+communicating it to you through the services (each a “revised version”). [CLS] [SEP] the
+revised version will be effective as of the time it is posted, but will not
+apply retroactively. [CLS] [SEP] your continued use of the services after the posting of a
+revised version constitutes your acceptance of such revised version. [CLS] [SEP] any
+dispute (as defined in section 20) that arose before the changes will be
+governed by the terms in place when the dispute arose. [CLS] [SEP]
+
+you agree to [square’s e-sign consent](/legal/sign). [CLS] [SEP] we may provide
+disclosures and notices required by law and other information about your
+square account to you electronically, by posting it on our website, pushing
+notifications through the services, or by emailing it to the email address
+listed in your square account. [CLS] [SEP] electronic disclosures and notices have the
+same meaning and effect as if we had provided you with paper copies. [CLS] [SEP] such
+disclosures and notices are considered received by you within twenty-four (24)
+hours of the time posted to our website, or within twenty-four (24) hours of
+the time emailed to you unless we receive notice that the email was not
+delivered. [CLS] [SEP] if you wish to withdraw your consent to receiving electronic
+communications, contact [square support](/help/us/en/). [CLS] [SEP] if we are not able to
+support your request, you may need to terminate your square account. [CLS] [SEP]
+
+#### 3\. [CLS] [SEP] restrictions
+
+if you want to use our services, you can’t do certain bad things. [CLS] [SEP] if we think
+you are doing these bad things, we have the right to share your information
+with law enforcement. [CLS] [SEP]
+
+you may not, nor may you permit any third party, directly or indirectly, to:
+
+  1. [CLS] [SEP] export the services, which may be subject to export restrictions imposed by us law, including us export administration regulations (15 c.f.r. [CLS] [SEP] chapter vii);
+  2. [CLS] [SEP] engage in any activity that may be in violation of regulations administered by the united states department of the treasury’s office of foreign asset control (31 c.f.r. [CLS] [SEP] parts 500-599). [CLS] [SEP] prohibited activity includes but is not limited to the provision of services to or for the benefit of a jurisdiction, entity, or individual blocked or prohibited by relevant sanctions authorities, including but not limited to activities in iran, cuba, north korea, syria, or the crimean region of the ukraine. [CLS] [SEP] if found to be in apparent violation of these restrictions, your account could be terminated and your funds could be held for an indefinite period of time;
+  3. [CLS] [SEP] access or monitor any material or information on any square system using any manual process or robot, spider, scraper, or other automated means;
+  4. [CLS] [SEP] except to the extent that any restriction is expressly prohibited by law, violate the restrictions in any robot exclusion headers on any service, work around, bypass, or circumvent any of the technical limitations of the services, use any tool to enable features or functionalities that are otherwise disabled in the services, or decompile, disassemble or otherwise reverse engineer the services;
+  5. [CLS] [SEP] perform or attempt to perform any actions that would interfere with the proper working of the services, prevent access to or use of the services by our other customers, or impose an unreasonable or disproportionately large load on our infrastructure;
+  6. [CLS] [SEP] copy, reproduce, alter, modify, create derivative works, publicly display, republish, upload, post, transmit, resell or distribute in any way material, information or services from square;
+  7. [CLS] [SEP] use and benefit from the services via a rental, lease, timesharing, service bureau or other arrangement;
+  8. [CLS] [SEP] transfer any rights granted to you under these general terms;
+  9. [CLS] [SEP] use the services in a way that distracts or prevents you from obeying traffic or safety laws;
+  10. [CLS] [SEP] use the services for the sale of firearms, firearm parts, ammunition, weapons or other devices designed to cause physical harm;
+  11. [CLS] [SEP] use the services for any illegal activity or goods or in any way that exposes you, other square users, our partners, or square to harm; or
+  12. [CLS] [SEP] otherwise use the services except as expressly allowed under these terms. [CLS] [SEP]
+
+if we reasonably suspect that your square account has been used for an
+unauthorized, illegal, or criminal purpose, you give us express authorization
+to share information about you, your square account, and any of your
+transactions with law enforcement. [CLS] [SEP]
+
+#### 4\. [CLS] [SEP] compatible mobile devices and third party carriers
+
+we do not warrant that the services will be compatible with your mobile device
+or carrier. [CLS] [SEP] your use of the services may be subject to the terms of your
+agreements with your mobile device manufacturer or your carrier. [CLS] [SEP] you may not
+use a modified device to use the services if the modification is contrary to
+the manufacturer’s software or hardware guidelines, including disabling
+hardware or software controls—sometimes referred to as “jail broken.”
+
+#### 5\. [CLS] [SEP] your content
+
+you retain all rights to your content when you upload it into our services,
+but you do give us broad rights to use, modify, display your content in our
+services. [CLS] [SEP] you can see specifics on the rights you grant us below. [CLS] [SEP]
+
+also, anything you provide us or make available to the public through our
+services must not contain anything that we think is objectionable (e.g.,
+illegal, obscene, hateful or harmful to you, our customers or us). [CLS] [SEP] we can
+remove any content at any time. [CLS] [SEP]
+
+the services may include functionality for uploading or providing suggestions,
+recommendations, feedback, stories, photos, documents, logos, products,
+loyalty programs, promotions, advertisements and other materials or
+information (“content”). [CLS] [SEP]
+
+you grant us and our subsidiaries, affiliates, and successors a worldwide,
+non-exclusive, royalty-free, fully-paid, transferable, irrevocable, perpetual,
+and sub-licensable right to use, reproduce, modify, adapt, publish, prepare
+derivative works of, distribute, publicly perform, and publicly display your
+content throughout the world in any media for any reason, including to
+provide, promote, and/or incorporate into the services. [CLS] [SEP] you retain all rights
+in your content, subject to the rights you granted to us in these general
+terms. [CLS] [SEP] you may modify or remove your content via your square account or by
+terminating your square account, but your content may persist in historical,
+archived or cached copies and versions thereof available on or through the
+services. [CLS] [SEP]
+
+you will not upload or provide content or otherwise post, transmit,
+distribute, or disseminate through the services any material that: (a) is
+false, misleading, unlawful, obscene, indecent, lewd, pornographic,
+defamatory, libelous, threatening, harassing, hateful, abusive, or
+inflammatory; (b) encourages conduct that would be considered a criminal
+offense or gives rise to civil liability; (c) breaches or infringes any duty
+toward or rights of any person or entity, including rights of publicity,
+privacy or intellectual property; (d) contains corrupted data or any other
+harmful, disruptive, or destructive files; (e) advertises products or services
+competitive with square’s or its partners’ products and services, as
+determined by us in our sole discretion; or (f) in our sole judgment, is
+objectionable, restricts or inhibits any person or entity from using or
+enjoying any portion of the services, or which may expose square, its
+affiliates or its customers to harm or liability of any nature. [CLS] [SEP]
+
+although we have no obligation to monitor any content, we have absolute
+discretion to remove content at any time and for any reason without notice. [CLS] [SEP]
+square may also monitor such content to detect and prevent fraudulent activity
+or violations of square’s general terms. [CLS] [SEP] you understand that by using the
+services, you may be exposed to content that is offensive, indecent, or
+objectionable. [CLS] [SEP] we take no responsibility and assume no liability for any
+content, including any loss or damage to any of your content. [CLS] [SEP]
+
+#### 6\. [CLS] [SEP] intellectual property infringement
+
+we respect the intellectual property rights of others and ask you to do the
+same. [CLS] [SEP] we have adopted an [intellectual property policy](/legal/copyright)
+regarding third-party claims that your material infringes the rights of
+others. [CLS] [SEP] we respond to all valid notices of such infringement, and our policy
+is to suspend or terminate the accounts of repeat infringers. [CLS] [SEP]
+
+#### 7\. [CLS] [SEP] security
+
+we take security incredibly seriously, but can’t guarantee that bad actors
+will not gain access to your personal information. [CLS] [SEP] you need to do your part by
+keeping your passwords safe, being smart about who has access to your account
+and which of your devices can access our services, and letting us know if you
+think an unauthorized person is using your account. [CLS] [SEP]
+
+if there is ever a dispute about who owns your account, we are the decider. [CLS] [SEP]
+
+we have implemented technical and organizational measures designed to secure
+your personal information from accidental loss and from unauthorized access,
+use, alteration, or disclosure. [CLS] [SEP] however, we cannot guarantee that unauthorized
+third parties will never be able to defeat those measures or use your personal
+information for improper purposes. [CLS] [SEP] you provide your personal information at
+your own risk. [CLS] [SEP]
+
+you are responsible for safeguarding your password and for restricting access
+to the services from your compatible mobile devices and computer(s). [CLS] [SEP] you will
+immediately notify us of any unauthorized use of your password or square
+account or any other breach of security. [CLS] [SEP] notwithstanding sections 20 and 21,
+in the event of any dispute between two or more parties as to account
+ownership, we will be the sole arbiter of such dispute in our sole discretion. [CLS] [SEP]
+our decision (which may include termination or suspension of any square
+account subject to dispute) will be final and binding on all parties. [CLS] [SEP]
+
+#### 8\. [CLS] [SEP] privacy
+
+when you process information that identifies or is reasonably capable of
+identifying an individual to square in connection with the services (including
+information collected by square on your behalf), you agree to comply with
+applicable laws regarding the collection, use, disclosure, protection, and
+retention of this information. [CLS] [SEP] you acknowledge that you have reviewed and
+consent to square’s [privacy notice](/legal/privacy), which explains our
+practices with regard to any personal information you provide to us. [CLS] [SEP] if you or
+your business are located in california, please see section 27. [CLS] [SEP]
+
+#### 9\. [CLS] [SEP] communications
+
+you consent to us sending messages to your email or mobile devices about your
+account or our services, which may include marketing. [CLS] [SEP] you can opt out of
+communications in ways that are specific to that communication method, such as
+by unsubscribing from emails, or replying to text messages with ‘stop’. [CLS] [SEP]
+
+you consent to accept and receive communications from us, including e-mail,
+text messages, calls, and push notifications to the cellular telephone number
+you provide to us when you sign-up for a square account or update the contact
+information associated with your account. [CLS] [SEP] such communications may include, but
+are not limited to requests for secondary authentication, receipts, reminders,
+notifications regarding updates to your account or account support, and
+marketing or promotional communications. [CLS] [SEP] you acknowledge that you are not
+required to consent to receive promotional texts or calls as a condition of
+using the services. [CLS] [SEP] call and text message communications may be generated by
+automatic telephone dialing systems. [CLS] [SEP] standard message and data rates applied
+by your cell phone carrier may apply to the text messages we send you. [CLS] [SEP]
+
+you may opt-out of receiving promotional email communications we send to you
+by following the unsubscribe options on such emails. [CLS] [SEP] you may opt out of any
+promotional phone calls by informing the caller that you would not like to
+receive future promotional calls. [CLS] [SEP] you may only opt-out of text messages from
+square by replying stop. [CLS] [SEP] you acknowledge that opting out of receiving
+communications may impact your use of the services. [CLS] [SEP]
+
+#### 10\. [CLS] [SEP] paid services
+
+lots of what we offer is free, but we offer paid services too. [CLS] [SEP] we can collect
+payments for a paid service by either charging your linked debit/credit card
+or taking the payment from your transaction proceeds, square-account balance
+or linked bank account. [CLS] [SEP]
+
+we’ll give you 30 days advance notice if we change our subscription fees, and
+you can cancel your subscription at any time. [CLS] [SEP]
+
+square may offer services to be paid for on a recurring basis (“subscription
+services”) or on an as-used basis (“a la carte services” and, together with
+the subscription services, “paid services”). [CLS] [SEP] subscription services may subject
+you to recurring fees and/or terms. [CLS] [SEP] by signing up for a subscription service,
+including after any free trial period, you agree to pay us the subscription
+fee and any applicable taxes as set forth in your square account settings or
+as otherwise agreed in writing (“subscription fee”). [CLS] [SEP] a la carte services may
+subject you to fees charged per usage and/or terms. [CLS] [SEP] by using an a la carte
+service, you agree to pay the fees and any taxes incurred at the time of usage
+(“a la carte fees” and, together with subscription fees, the “paid service
+fees”). [CLS] [SEP]
+
+paid service fees may be paid by debit card, credit card, or deducted from
+your transaction proceeds. [CLS] [SEP] if you link a debit or credit card to your account,
+you authorize us to collect paid service fees by debit from your linked debit
+card or charge to your linked credit card. [CLS] [SEP] regardless of payment device, we
+reserve the right to collect paid service fees by deduction from your
+transaction proceeds, the balance (as defined in the payment terms) in your
+square account or your linked bank account. [CLS] [SEP]
+
+unless otherwise provided in a subscription service’s terms, subscription fees
+will be charged on the 1st of every month until cancelled. [CLS] [SEP] you may cancel a
+subscription service at any time from your square account settings. [CLS] [SEP] if you
+cancel a subscription service, you will continue to have access to that
+subscription service through the end of your then current billing period, but
+you will not be entitled to a refund or credit for any subscription fee
+already due or paid. [CLS] [SEP] we reserve the right to change our subscription fee upon
+thirty (30) days’ advance notice. [CLS] [SEP] your continued use of subscription services
+after notice of a change to our subscription fee will constitute your
+agreement to such changes. [CLS] [SEP]
+
+#### 11\. [CLS] [SEP] modification and termination
+
+we can terminate or deny you access to our services at any time, for any
+reason. [CLS] [SEP] you can also choose to deactivate your account at any time. [CLS] [SEP]
+
+we may terminate these general terms or any additional terms, or suspend or
+terminate your square account or your access to any service, at any time for
+any reason. [CLS] [SEP] we may add or remove, suspend, stop, delete, discontinue or impose
+conditions on services or any feature or aspect of a service. [CLS] [SEP] we will take
+reasonable steps to notify you of termination or these other types of service
+changes by email or at the next time you attempt to access your square
+account. [CLS] [SEP] you may also terminate the general terms and additional terms
+applicable to your square account by deactivating your square account at any
+time. [CLS] [SEP]
+
+#### 12\. [CLS] [SEP] effect of termination
+
+once our relationship ends, we are not responsible for any losses you
+experience because of the termination of our services or for removing your
+data from our servers. [CLS] [SEP] some terms of our agreement will still apply even after
+our relationship ends. [CLS] [SEP]
+
+if these general terms or your square account is terminated or suspended for
+any reason: (a) the license and any other rights granted under these terms
+will end, (b) we may (but have no obligation to) delete your information and
+account data stored on our servers, and (c) we will not be liable to you or
+any third party for compensation, reimbursement, or damages for any
+termination or suspension of the services, or for deletion of your information
+or account data. [CLS] [SEP] in addition to any payment obligations under the payment
+terms, the following sections of these general terms survive and remain in
+effect in accordance with their terms upon termination: 5 (your content), 6
+(intellectual property infringement), 12 (effect of termination), 14
+(ownership), 15 (indemnity), 16 (representations and warranties), 17 (no
+warranties), 18 (limitation of liability and damages), 19 (third party
+products), 20 (disputes), 21 (binding individual arbitration), 22 (governing
+law), 23 (limitation on time to initiate a dispute), 24 (assignment), 25
+(third party service and links to other web sites), and 28 (other provisions). [CLS] [SEP]
+
+#### 13\. [CLS] [SEP] your license
+
+we grant you a limited, non-exclusive, revocable, non-transferable, non-
+sublicensable license to use the software that is part of the services, as
+authorized in these general terms. [CLS] [SEP] we may make software updates to the
+services available to you, which you must install to continue using the
+services. [CLS] [SEP] any such software updates may be subject to additional terms made
+known to you at that time. [CLS] [SEP]
+
+#### 14\. [CLS] [SEP] ownership
+
+while we’re happy to let you use our services, you don’t have any ownership
+rights in them. [CLS] [SEP] we can act on any ideas you share with us about how we can
+improve our products and services free of charge. [CLS] [SEP]
+
+we reserve all rights not expressly granted to you in these general terms. [CLS] [SEP] we
+own all rights, title, interest, copyright and other intellectual property
+rights (as defined below) in the services and all copies of the services. [CLS] [SEP]
+these general terms do not grant you any rights to our trademarks or service
+marks. [CLS] [SEP]
+
+for the purposes of these general terms, “intellectual property rights” means
+all patent rights, copyright rights, mask work rights, moral rights, rights of
+publicity, trademark, trade dress and service mark rights, goodwill, trade
+secret rights, and other intellectual property rights that may exist now or
+come into existence in the future, and all of their applications,
+registrations, renewals and extensions, under the laws of any state, country,
+territory or other jurisdiction. [CLS] [SEP]
+
+you may submit comments or ideas about the services (“ideas”). [CLS] [SEP] by submitting
+any idea, you agree that your disclosure is gratuitous, unsolicited, and
+without restriction, that it will not place us under any fiduciary,
+confidentiality or other obligation, and that we are free to use the idea
+without any additional compensation to you, and/or to disclose the idea on a
+non-confidential basis or otherwise to anyone. [CLS] [SEP]
+
+#### 15\. [CLS] [SEP] indemnity
+
+if you do something using our services that gets us sued or fined, you agree
+to cover our losses as described below. [CLS] [SEP]
+
+you will indemnify, defend, and hold us and our processors (and our respective
+employees, directors, agents, affiliates and representatives) harmless from
+and against any and all claims, costs, losses, damages, judgments, tax
+assessments, penalties, interest, and expenses (including without limitation
+reasonable attorneys’ fees) arising out of any claim, action, audit,
+investigation, inquiry, or other proceeding instituted by a person or entity
+that arises out of or relates to: (a) any actual or alleged breach of your
+representations, warranties, or obligations set forth in these terms; (b) your
+wrongful or improper use of the services; (c) your violation of any third-
+party right, including without limitation any right of privacy, publicity
+rights or intellectual property rights; (d) your violation of any law, rule or
+regulation of the united states or any other country; (e) any third-party
+claims made by your buyer regarding square’s processing of your
+customer/buyer’s personal information in connection with providing you with
+the services; and (f) any other party’s access and/or use of the services with
+your unique name, password or other appropriate security code. [CLS] [SEP]
+
+#### 16\. [CLS] [SEP] representations and warranties
+
+here’s the part where you promise that you are who you say you are, and that
+you will obey the law and our terms. [CLS] [SEP]
+
+you represent and warrant to us that: (a) you are at least eighteen (18) years
+of age; (b) you are eligible to register and use the services and have the
+right, power, and ability to enter into and perform under these general terms;
+(c) any information you provide in connection with the services, including
+your business name, accurately and truthfully represents your business or
+personal identity under which you sell goods and services; (d) you and all
+transactions initiated by you will comply with all federal, state, and local
+laws, rules, and regulations applicable to you and/or your business, including
+the health insurance portability and accountability act (“hipaa”); (e) you
+will not use the services, directly or indirectly, for any fraudulent
+undertaking or in any manner so as to interfere with the operation of the
+services; and (f) your use of the services will be in compliance with these
+terms. [CLS] [SEP]
+
+#### 17\. [CLS] [SEP] no warranties
+
+while we do our best to bring great products and services to our customers, we
+provide them as-is, without warranties. [CLS] [SEP] we are not responsible for any goods
+and services that you might buy or sell using square’s services. [CLS] [SEP]
+
+the use of “square” in sections 17 and 18 means square, its processors, its
+suppliers, and its licensors (and their respective subsidiaries, affiliates,
+agents, directors, and employees). [CLS] [SEP]
+
+the services are provided “as is” without representation or warranty, whether
+it is express, implied, or statutory. [CLS] [SEP] without limiting the foregoing, square
+specifically disclaims any implied warranties of merchantability, fitness for
+a particular purpose, or non-infringement. [CLS] [SEP]
+
+square does not warrant or guarantee that the services are accurate, reliable
+or correct; that the services will meet your requirements; that the services
+will be available at any particular time or location, uninterrupted, error-
+free, without defect or secure; that any defects or errors will be corrected;
+or that the services are free of viruses or other harmful components. [CLS] [SEP]
+
+square does not warrant, endorse, guarantee, or assume responsibility for any
+product or service advertised or offered by a third party. [CLS] [SEP] square does not
+have control of, or liability for, goods or services that are paid for using
+the services. [CLS] [SEP]
+
+#### 18\. [CLS] [SEP] limitations of liability and damages
+
+as described below, if something bad happens because of your use of our
+services, our liability is capped. [CLS] [SEP]
+
+to the maximum extent permitted by applicable law, in no event will square be
+liable for any direct, indirect, punitive, incidental, special, consequential,
+or exemplary damages, including without limitation damages for loss of
+profits, goodwill, use, data, or other intangible losses, that result from the
+use of, inability to use, or unavailability of the service. [CLS] [SEP] in all cases,
+square will not be liable for any loss or damage that is not reasonably
+foreseeable. [CLS] [SEP]
+
+under no circumstances will square be responsible for any damage, loss, or
+injury resulting from hacking, tampering, or other unauthorized access or use
+of the services or your square account, or the information contained therein. [CLS] [SEP]
+
+to the maximum extent permitted by applicable law, the total liability of
+square is limited to the greater of (a) the amount of fees earned by us in
+connection with your use of the services during the three (3) month period
+immediately preceding the event giving rise to the claim for liability, or (b)
+$500. [CLS] [SEP]
+
+this limitation of liability section applies whether the alleged liability is
+based on contract, tort, negligence, strict liability, or any other basis,
+even if square has been advised of the possibility of such damage. [CLS] [SEP] the
+foregoing limitation of liability will apply to the fullest extent permitted
+by law in the applicable jurisdiction. [CLS] [SEP]
+
+#### 19\. [CLS] [SEP] third party products
+
+all third party hardware and other products included or sold with the services
+are provided solely according to the warranty and other terms specified by the
+manufacturer, who is solely responsible for service and support for its
+product. [CLS] [SEP] for service, support, or warranty assistance, you should contact the
+manufacturer directly. [CLS] [SEP] square makes no representations or warranties, express
+or implied, with respect to such third party products, and expressly disclaims
+any warranty or condition of merchantability, non-infringement, or fitness for
+a particular purpose. [CLS] [SEP]
+
+#### 20\. [CLS] [SEP] disputes
+
+when you see the word “dispute” in these terms, here’s what it means. [CLS] [SEP]
+
+“disputes” are defined as any claim, controversy, or dispute between you and
+square, its processors, suppliers or licensors (or their respective
+affiliates, agents, directors or employees), including any claims relating in
+any way to these terms or the services, or any other aspect of our
+relationship. [CLS] [SEP]
+
+#### 21\. [CLS] [SEP] binding individual arbitration
+
+this section provides details about how we will resolve disputes through the
+arbitration process. [CLS] [SEP]
+
+you and square agree to arbitrate any and all disputes by a neutral arbitrator
+who has the power to award the same individual damages and individual relief
+that a court can. [CLS] [SEP] any arbitration under these general terms will only be on an
+individual basis; class arbitrations, class actions, representative actions,
+and consolidation with other arbitrations are not permitted. [CLS] [SEP] you waive any
+right to have your case decided by a jury and you waive any right to
+participate in a class action against square. [CLS] [SEP] if any provision of this
+arbitration agreement is found unenforceable, the unenforceable provision will
+be severed, and the remaining arbitration terms will be enforced (but in no
+case will there be a class or representative arbitration). [CLS] [SEP] all disputes will
+be resolved finally and exclusively by binding individual arbitration with a
+single arbitrator (the “arbitrator”) administered by the american arbitration
+association [(https://www.adr.org)](https://www.adr.org) according to this
+section and the applicable arbitration rules for that forum. [CLS] [SEP] the arbitrator
+shall be responsible for determining all threshold arbitrability issues,
+including issues relating to whether the general terms and/or additional terms
+(or any aspect thereof) are enforceable, unconscionable or illusory and any
+defense to arbitration, including waiver, delay, laches, or estoppel. [CLS] [SEP] subject
+to applicable jurisdictional requirements, you may elect to pursue your claim
+in your local small-claims court rather than through arbitration so long as
+your matter remains in small claims court and proceeds only on an individual
+(non-class or non-representative) basis. [CLS] [SEP] the federal arbitration act, 9 u.s.c. [CLS] [SEP]
+§§ 1-16, fully applies. [CLS] [SEP] if you are a consumer bringing a claim relating to a
+transaction intended for a personal, household, or family use, any arbitration
+hearing will occur within the county where you reside. [CLS] [SEP] otherwise, any
+arbitration hearing will occur in san francisco, california, or another
+mutually agreeable location. [CLS] [SEP] the arbitrator’s award will be binding on the
+parties and may be entered as a judgment in any court of competent
+jurisdiction. [CLS] [SEP] while an arbitrator may award declaratory or injunctive relief,
+the arbitrator may do so only with respect to the individual party seeking
+relief and only to the extent necessary to provide relief warranted by the
+individual party’s claim. [CLS] [SEP] an arbitrator’s decision and judgment thereon will
+not have a precedential or collateral estoppel effect. [CLS] [SEP] square will reimburse
+the arbitration fees due to the american arbitration association for
+individual arbitrations brought in accordance with this section for all claims
+totaling less than $10,000 unless the arbitrator determines that your claims
+were frivolous. [CLS] [SEP] if you prevail on any claim for which you are legally entitled
+to attorney’s fees, you may seek to recover those fees from the arbitrator. [CLS] [SEP]
+for any claim where you are seeking relief, we will not seek to have you pay
+our attorney’s fees, even if fees might otherwise be awarded, unless the
+arbitrator determines that your claim was frivolous. [CLS] [SEP] for purposes of this
+arbitration provision, references to you and square also include respective
+subsidiaries, affiliates, agents, employees, predecessors, successors and
+assigns as well as authorized users or beneficiaries of the services. [CLS] [SEP] subject
+to and without waiver of the arbitration provisions above, you agree that any
+judicial proceedings (other than small claims actions in consumer cases as
+discussed above) will be brought in and you hereby consent to the exclusive
+jurisdiction and venue in the state courts in the city and county of san
+francisco, california, or federal court for the northern district of
+california. [CLS] [SEP]
+
+#### 22\. [CLS] [SEP] governing law
+
+our relationship is governed by the laws of california, federal law, or both. [CLS] [SEP]
+
+these general terms and any dispute will be governed by california law and/or
+applicable federal law (including the federal arbitration act), without regard
+to its choice of law or conflicts of law principles. [CLS] [SEP]
+
+#### 23\. [CLS] [SEP] limitation on time to initiate a dispute
+
+any action or proceeding by you relating to any dispute must commence within
+one year after the cause of action accrues. [CLS] [SEP]
+
+#### 24\. [CLS] [SEP] assignment
+
+you may not transfer any rights you have under our terms of service to anyone
+else. [CLS] [SEP]
+
+these general terms, and any rights and licenses granted hereunder, may not be
+transferred or assigned by you and any attempted transfer or assignment will
+be null and void. [CLS] [SEP]
+
+#### 25\. [CLS] [SEP] third party services and links to other websites
+
+while you’re using our products and services, you may be offered services from
+third parties. [CLS] [SEP] we are not responsible for any issues you may have with them. [CLS] [SEP]
+
+you may be offered services, products and promotions provided by third parties
+and not by square, including, but not limited to, third party developers who
+use square’s services (“third party services”). [CLS] [SEP] if you decide to use third
+party services, you will be responsible for reviewing and understanding the
+terms and conditions for these services. [CLS] [SEP] we are not responsible or liable for
+the performance of any third party services. [CLS] [SEP] further, you agree to resolve any
+disagreement between you and a third party regarding the terms and conditions
+of any third party services with that third party directly in accordance with
+the terms and conditions of that relationship, and not square. [CLS] [SEP] the services
+may contain links to third party websites. [CLS] [SEP] the inclusion of any website link
+does not imply an approval, endorsement, or recommendation by square. [CLS] [SEP] such
+third party websites are not governed by these general terms. [CLS] [SEP] you access any
+such website at your own risk. [CLS] [SEP] we expressly disclaim any liability for these
+websites. [CLS] [SEP] when you use a link to go from the services to a third party
+website, our privacy notice is no longer in effect. [CLS] [SEP] your browsing and
+interaction on a third party website, including those that have a link in the
+services is subject to that website’s own terms, rules and policies. [CLS] [SEP]
+
+#### 26\. [CLS] [SEP] third-party beneficiaries
+
+no provision in these general terms, and any applicable additional terms is
+intended or shall create any rights with respect to the subject matter of
+these general terms, and any applicable additional terms in any third party. [CLS] [SEP]
+
+#### 27\. [CLS] [SEP] california businesses
+
+if you are a “business” as defined by the california consumer privacy act of
+2018, cal. [CLS] [SEP] civ. [CLS] [SEP] code § 1798.100 et seq., (“ccpa”) then this provision 27
+applies to you. [CLS] [SEP] for purposes of this section 27, “process”, “sell”, and
+“business purpose(s)” have the meaning ascribed to them by the ccpa. [CLS] [SEP]
+
+a) for purposes of this section 27, “buyer personal information” means any
+information that identifies, relates to, describes, is reasonably capable of
+being associated with, or could reasonably be linked, directly or indirectly,
+with a particular consumer or household that is processed by square in
+connection with its services to you. [CLS] [SEP] buyer personal information does not
+include information square receives about your customers (“buyers”) for
+purposes of square’s digital receipt, customer directory and email marketing
+tools (“square buyer features”). [CLS] [SEP] it does include information that your buyer
+has provided you through square appointments, square invoices, or to receive
+loyalty-related or promotional text messages. [CLS] [SEP] for details about our privacy
+practices with respect to square buyer features, please refer to our [buyer
+features privacy notice](https://squareup.com/us/en/legal/general/buyer-
+features). [CLS] [SEP]
+
+b) we may receive personal information from buyers for the purpose of
+performing services on your behalf as described in these general terms. [CLS] [SEP] we
+agree that we will process buyer personal information collected, processed,
+stored or transmitted by, or accessible to us in the course of these general
+terms, and other applicable terms of service referenced above, only on your
+behalf, and for the purpose of providing you with the services in these terms
+and other applicable terms linked above based on the products you use. [CLS] [SEP] we
+acknowledge that we are prohibited from: (i) selling the buyer personal
+information; (ii) retaining, using, or disclosing the buyer personal
+information for any purpose other than providing to you the services specified
+in these general terms(s), and other applicable terms of service referenced
+above. [CLS] [SEP] as part of, and for purposes of, facilitating the services, square may
+(i) de-identify or aggregate the buyer personal information; and (ii) process
+the buyer personal information for operational purposes, including, without
+limitation, verifying or maintaining the quality and safety of the services;
+improving, updating or enhancing the services either for you or for our
+customers generally; detecting and preventing fraud, and for protecting the
+security and integrity of our services; and complying with our legal
+obligations. [CLS] [SEP] you acknowledge and agree that buyer personal information that
+you disclose to square is provided to square for the parties’ business
+purposes. [CLS] [SEP]
+
+c) we reserve the right to delete personal information stored pursuant to
+these general terms in the ordinary course of business, pursuant to our
+retention schedules. [CLS] [SEP]
+
+#### 28\. [CLS] [SEP] other provisions
+
+these general terms, and any applicable additional terms or policies, are a
+complete statement of the agreement between you and square regarding the
+services. [CLS] [SEP] in the event of a conflict between these general terms and any other
+square agreement or policy, these general terms will prevail and control the
+subject matter of such conflict. [CLS] [SEP] if any provision of these general terms or
+any additional term is invalid or unenforceable under applicable law, then it
+will be changed and interpreted to accomplish the objectives of such provision
+to the greatest extent possible under applicable law, and the remaining
+provisions will continue in full force and effect. [CLS] [SEP] these general terms do not
+limit any rights that we may have under trade secret, copyright, patent, or
+other laws. [CLS] [SEP] no waiver of any term of these general terms will be deemed a
+further or continuing waiver of such term or any other term. [CLS] [SEP]
+
+##### general
+
+[privacy notice](/legal/general/privacy)
+
+[terms of service](/legal/general/ua)
+
+[licenses](/legal/general/licenses)
+
+[government](/legal/general/gov)
+
+[additional point of sale terms](/legal/general/pos)
+
+[hardware policies and limited warranty](/legal/general/hardware)
+
+[payment terms](/legal/general/payment)
+
+[developer terms of service](/legal/general/developers)
+
+[e-sign consent](/legal/general/sign)
+
+[commercial entity agreement](/legal/general/cea)
+
+[hipaa business associate agreement](/legal/general/hipaa)
+
+[square cardholder agreement and terms of service](/legal/general/squarecard)
+
+[intellectual property policy](/legal/general/copyright)
+
+[additional payroll terms of service](/legal/general/payroll)
+
+##### square capital
+
+[square capital](/legal/capital/capital-installments-seller-terms)
+
+payments
+
+  * [square payments](/us/en/payments)
+  * [in person](/us/en/payments/in-person-payments)
+  * [by invoice](/us/en/invoices)
+  * [on your computer](/us/en/payments/virtual-terminal)
+  * [on your website](/us/en/ecommerce)
+  * [risk manager](/us/en/payments/risk-manager)
+  * [payment platform](/us/en/payments/payment-platform)
+  * [payments security](/us/en/payments/secure)
+  * [transfers](/us/en/payments/instant-transfers)
+  * [merchant services](/us/en/payments/merchant-services)
+
+point of sale
+
+  * [point of sale overview](/us/en/point-of-sale)
+  * [square point of sale](/us/en/point-of-sale/software)
+  * [square for restaurants](/us/en/point-of-sale/restaurants)
+  * [square for retail](/us/en/point-of-sale/retail)
+  * [square appointments](/us/en/appointments)
+
+hardware
+
+  * [reader for magstripe](/us/en/hardware/reader)
+  * [contactless (nfc) & chip reader](/us/en/hardware/contactless-chip-reader)
+  * [terminal](/us/en/hardware/terminal)
+  * [stand](/us/en/hardware/stand)
+  * [register](/us/en/hardware/register)
+  * [shop hardware](/shop/hardware/us/en)
+  * [rent hardware](/us/en/point-of-sale/rentals)
+  * [buy in store](/us/en/where-to-buy)
+  * [compare hardware](/us/en/hardware/compare)
+
+more tools
+
+  * [online store](/us/en/online-store)
+  * [online checkout](/us/en/online-checkout)
+  * [business debit card](/us/en/business-debit-card)
+  * [capital](/us/en/capital)
+  * [payroll](/us/en/payroll)
+  * [team management](/us/en/point-of-sale/team-management)
+  * [marketing](/us/en/software/marketing)
+  * [sms marketing](/us/en/software/marketing/sms)
+  * [loyalty](/us/en/software/loyalty)
+  * [dashboard](/us/en/point-of-sale/features/dashboard)
+  * [gift cards](/us/en/gift-cards)
+  * [customer directory](/us/en/point-of-sale/features/customer-directory)
+  * [inventory management](/us/en/point-of-sale/features/inventory-management)
+  * [photo studio](/us/en/photo-studio)
+  * [square kds](/us/en/point-of-sale/restaurants/kitchen-display-system)
+
+developers
+
+  * [developer platform](https://developer.squareup.com/us/en)
+  * [reader sdk](https://developer.squareup.com/us/en/reader-sdk)
+  * [in-app payments sdk](https://developer.squareup.com/us/en/in-app-payments)
+  * [online payments apis](https://developer.squareup.com/us/en/online-payment-apis)
+  * [documentation](https://developer.squareup.com/docs/)
+  * [developer dashboard](https://developer.squareup.com/apps)
+
+resources
+
+  * [pricing](/us/en/pricing)
+  * [contact sales](/us/en/sales)
+  * [support center](/help/us/en/)
+  * [app marketplace](/us/en/app-marketplace)
+  * [small business development](/us/en/small-business-development)
+  * [blog](/us/en/townsquare)
+  * [guides](/us/en/guides)
+  * [community](https://www.sellercommunity.com/t5/seller-community-us/ct-p/seller_community_us)
+  * [events](/us/en/events)
+  * [service status](https://www.issquareup.com)
+
+business types
+
+  * [enterprise](/us/en/enterprise)
+  * [retail](/us/en/point-of-sale/retail)
+  * [coffee shops](/us/en/solutions/coffee-shop)
+  * [quick service](/us/en/point-of-sale/restaurants/quick-service)
+  * [full service](/us/en/point-of-sale/restaurants/full-service)
+  * [bars & breweries](/us/en/point-of-sale/restaurants/bars)
+  * [beauty professionals](/us/en/solutions/beauty)
+  * [health & fitness](/us/en/solutions/health-and-fitness)
+  * [home & repair services](/us/en/solutions/home-and-repair)
+  * [professional services](/us/en/solutions/professional-services)
+
+square
+
+  * [home](/us/en)
+  * [about](/us/en/about)
+  * [news](/us/en/press)
+  * [investor relations](https://investors.squareup.com/overview/)
+  * [affiliate program](/us/en/affiliate)
+  * [partner with square](/us/en/partnerships)
+  * [careers](https://careers.squareup.com/us/en)
+  * [developers](https://developers.squareup.com/us/en)
+  * [cash app](https://cash.app)
+  * [employment verification](https://www.empinfo.com/empinfoweb/app/login/request)
+
+  * [australia](/au/en/legal/general/ua?country_redirection=true)
+  * [canada](/ca/en/legal/general/ua?country_redirection=true)
+  * [japan](/jp/ja/legal/general/ua?country_redirection=true)
+  * [united kingdom](/gb/en/legal/general/ua?country_redirection=true)
+  * [united states](/us/en/legal/general/ua?country_redirection=true)
+
+english
+
+  * [english](/us/en/legal/general/ua?country_redirection=true)
+  * [español](/us/es/legal/general/ua?country_redirection=true)
+
+[ ](https://twitter.com/square "twitter")
+
+[ ](https://www.facebook.com/square "facebook")
+
+[ ](https://instagram.com/square "instagram")
+
+© 2021 square, inc. [CLS] [SEP]
+
+  * [privacy notice](/us/en/legal/general/privacy)
+  * [additional california privacy disclosure](/us/en/legal/general/california-privacy)
+  * [terms of service](/us/en/legal/general/ua)
+  * [licenses](/us/en/legal/general/licenses)
+  * [government](/us/en/legal/general/gov)
+  * [square capital, llc](/us/en/legal/capital/capital)
+

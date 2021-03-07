@@ -1,0 +1,309 @@
+english:
+
+javascript appears to be disabled in your web browser. [CLS] [SEP] to complete the
+captcha, please enable javascript and reload the page. [CLS] [SEP]
+
+deutsch:
+
+javascript ist in ihrem browser wahrscheinlich deaktiviert. [CLS] [SEP] um das captcha zu
+vervollstã¤ndigen, aktivieren sie bitte javascript und laden sie die seite
+neu. [CLS] [SEP]
+
+espanol:
+
+parece que javascript estã¡ desactivado en su explorador web. [CLS] [SEP] para completar
+el cã³digo captcha, active javascript y recargue la pã¡gina. [CLS] [SEP]
+
+dansk:
+
+javascript er tilsyneladende deaktiveret i din browser. [CLS] [SEP] for at udfylde
+captcha, aktivã©r venligst javascript og indlã¦s siden igen. [CLS] [SEP]
+
+francaise:
+
+javascript semble ãªtre dã©sactivã© dans votre navigateur. [CLS] [SEP] pour recopier le
+captcha, veuillez activer javascript et recharger la page. [CLS] [SEP]
+
+norsk:
+
+det ser ut til at du har deaktivert javascript i nettleseren din. [CLS] [SEP] for ã¥
+gjennomfã¸re captcha-testen, mã¥ du aktivere javascript, og laste inn siden
+pã¥ nytt. [CLS] [SEP]
+
+polski:
+
+masz wyåä czonä obsåugä javascript w przeglä darce. [CLS] [SEP] aby wpisaä kod
+captcha, wåä cz obsåugä javascript i odåwieå¼ stronä. [CLS] [SEP]
+
+portugues:
+
+o seu browser parecer ter o javascript desativado. [CLS] [SEP] para completar a captcha,
+ative o javascript e volte a carregar a pã¡gina. [CLS] [SEP]
+
+svenska:
+
+javascript verkar vara inaktiverat i din webblã¤sare. [CLS] [SEP] fã¶r att fylla i
+robotfiltret, var god aktivera javascript och ladda om sidan. [CLS] [SEP]
+
+nederlands:
+
+javascript schijnt uitgeschakeld te zijn in uw browser. [CLS] [SEP] om de captcha in te
+vullen, dient u javascript in te schakelen de pagina opnieuw te laden. [CLS] [SEP]
+
+](https://www.startpage.com?t=default)
+
+# our privacy policy
+
+[settings](https://www.startpage.com/search/settings?lang=en)[support](https://support.startpage.com/index.php?en/knowledgebase/list)[mail](https://www.startmail.com/en/)
+
+### menu
+
+[settings](https://www.startpage.com/search/settings?lang=en?t=default)
+
+[support](https://support.startpage.com/index.php?en/knowledgebase/list?t=default)
+
+[mail](https://www.startmail.com/en/?t=default)
+
+[privacy policy](/en/privacy-policy/?t=default)
+
+[about us](/en/about-us/?t=default)
+
+[blog](https://www.startpage.com/privacy-please/?t=default)
+
+[press](https://www.startpage.com/privacy-please/press/?t=default)
+
+![hero](/static-pages-assets/datocmsdownload/4799/1537269112-privacy-
+policy.svg)
+
+# in short
+
+startpage doesn't log or share your personal information. [CLS] [SEP]
+
+ **we don 't track you. [CLS] [SEP] we don't profile you.** period. [CLS] [SEP]
+
+# the longer version
+
+ _ **we believe privacy is a fundamental human right. [CLS] [SEP]  
+**_ **with startpage you can search and browse the internet privately. [CLS] [SEP]  **
+**not because you have something to hide, but because you have a lot to
+protect!**
+
+protecting your privacy is all about having control over your data. [CLS] [SEP] at
+startpage.com, we help you control and protect what's yours:
+
+ _it 's your data. [CLS] [SEP] not big data! !_
+
+
+
+ **why we don 't collect any "personal data"**
+
+ _it 's the best way to safeguard your privacy._
+
+|
+
+if information isn't collected, it can't be stolen, demanded, leaked or
+abused. [CLS] [SEP]  
+  
+---|---  
+  
+ **how do we define "personal data?"**
+
+ _to maximize your privacy, we use a broad definition._
+
+|
+
+our definition of personal data is based on the privacy laws and regulations
+of the eu, including the general data protection regulation (gdpr). [CLS] [SEP] these are
+widely regarded as the strongest privacy protections in the world. [CLS] [SEP] we consider
+any information about you or your behavior that can be traced back to you as
+personal data. [CLS] [SEP]
+
+ **information we don 't collect**  
+so let's be perfectly clear:
+
+  *  **we don 't record your ip address**  
+the only exception is for automated search requests (robots) that rapidly
+submit more queries to our servers than any normal human would. [CLS] [SEP] when our
+software detects potential abuse, we register and block the offending ip
+address in order to keep our service safe and free. [CLS] [SEP]  
+  
+
+  *  **we don 't serve any tracking or identifying cookies**  
+this is about "good" and  "bad" cookiesâ¨. [CLS] [SEP] cookies are small pieces of data
+that are sent to your hard drive by websites you visit."bad" cookies have
+unique elements that can track all kinds of personal information. [CLS] [SEP] we don't
+serve any of those. [CLS] [SEP] startpage uses just one "good" cookie called "preferences"
+in order to remember the search preferences you choose. [CLS] [SEP] it's completely
+anonymous and expires after not visiting startpage for 90 days. [CLS] [SEP]
+
+  
+  
+ **we don 't record your search queries**
+
+ _saves us headaches and disk space._
+
+|
+
+â¨when you search, your query is automatically stripped of unnecessary
+metadata including your ip address and other identifying information. [CLS] [SEP] we send
+the anonymized search query to google and return the search results to you. [CLS] [SEP] we
+don't log your searches. [CLS] [SEP]
+
+  
+to prevent abuse such as robotic high-volume querying, we anonymously
+determine the frequency of popular search keywords as a part of our anti-abuse
+measures, while protecting your privacy. [CLS] [SEP]  
+  
+ **how we have implemented truly anonymous analytics**
+
+ _we only count aggregate numbers._
+
+|
+
+we do measure overall traffic numbers and some other - strictly anonymous -
+statistics. [CLS] [SEP] these stats may include the number of times our service is
+accessed by a certain operating system, a type of browser, a language, etc.,
+but we don't know anything about individual users. [CLS] [SEP]  
+  
+ **how we keep startpage.com free without using "personal data"**
+
+ _without tracking-ads - as we don 't share personal info with anyone._
+
+|
+
+most online advertising today is personalized, meaning that online advertising
+services track what you do online and profile you in order to serve tailored
+ads. [CLS] [SEP] we don't do that at startpage. [CLS] [SEP] no tracking. [CLS] [SEP] no profiling!
+
+â¨our search result pages may include a small number of clearly labeled
+"sponsored links," which generate revenue and cover our operational costs. [CLS] [SEP]
+those links are retrieved from platforms such as google adsense. [CLS] [SEP] in order to
+enable the prevention of click fraud, some non-identifying system information
+is shared, but because we never share personal information or information that
+could uniquely identify you, the ads we display are not connected to any
+individual user. [CLS] [SEP]
+
+it's a myth that search engines need to profile you in order to earn decent
+money. [CLS] [SEP] startpage serves strictly non-personalized ads. [CLS] [SEP] sure, our ads make only
+a fraction of what other search engine ads make, but they pay all our bills. [CLS] [SEP]  
+  
+ **we protect you on our site - and beyond**
+
+ _this privacy policy applies only to the startpage.com website._
+
+|
+
+once you click on a search result, you leave our site and our privacy
+protection. [CLS] [SEP] this is true for sponsored links, search results and other
+external links. [CLS] [SEP] unless … you use our "[anonymous view](/en/search/proxy-
+help.html)" feature - shown next to the search results. [CLS] [SEP] this is a great
+privacy tool that allows you to continue to browse in full privacy. [CLS] [SEP]
+
+startpage's video search results are delivered in full privacy, provided by
+youtube api services. [CLS] [SEP] when clicking on video links, you will be redirected to
+youtube, and subject to their [youtube terms of
+service](https://www.youtube.com/t/terms) and [google privacy
+policy](https://policies.google.com/privacy). [CLS] [SEP]  
+  
+ **we don 't disclose or sell your contact information**
+
+ _you ask for support, not spam._
+
+|
+
+when you contact us via email or through our support center, we'll use your
+contact information to respond to you. [CLS] [SEP] we won't sell or share this info with
+anyone else. [CLS] [SEP] you'll have the option to subscribe to our newsletter, from which
+you can unsubscribe at any time. [CLS] [SEP]  
+  
+ **how we respond to governmental requests for data**
+
+ _they can 't request what we don't have._
+
+|
+
+any request will have to come from dutch judicial authorities. [CLS] [SEP] we'll only
+comply if we're legally obliged to do so. [CLS] [SEP] but we're not likely to receive
+requests by governments to hand over user data - simply because we don't have
+any. [CLS] [SEP]  
+  
+ **we will never comply with any voluntary surveillance program**
+
+ _big brother would like some help?_
+
+|
+
+hell no! fortunately, we are based in the eu, where we have strong laws that
+protect your right to privacy. [CLS] [SEP] european governments can't legally force
+service providers like startpage to implement a blanket spying program. [CLS] [SEP]  
+  
+ **startpage complies with the gdpr**
+
+ _and we can help you comply, too._
+
+|
+
+we are located in the eu, and we fully comply with applicable privacy laws and
+regulations of the eu, including the general data protection regulation
+(gdpr). [CLS] [SEP] these are widely regarded as the strongest privacy protections in the
+world. [CLS] [SEP]
+
+looking for a quick win to improve your own gdpr compliance? setting startpage
+as the default search engine on all your organization's it equipment will help
+you minimize the amount of personal data that is processed by or for your
+organization. [CLS] [SEP] this can also help you implement important privacy principles,
+such as data minimization, storage limitation, privacy by design and privacy
+by default. [CLS] [SEP]  
+  
+ **in the eu you have a "right to be forgotten"**
+
+ _when enough is enough._
+
+|
+
+citizens in the eu have the right to request the deletion of search results
+that disclose their personal data when those results are inaccurate or no
+longer relevant. [CLS] [SEP] find out how we have implemented this right
+[here](https://support.startpage.com/index.php?/en/knowledgebase/article/view/1000/0/how-
+does-startpage-handle-search-removal-requests-under-data-protection-law-in-
+europe-the-right-to-be-forgotten "support article - how startpage.com handles
+removal requests"). [CLS] [SEP]  
+  
+ **dutch data protection authority**
+
+ _we are always  here to help_
+
+|
+
+if you have any feedback or complaint about our services in general, or more
+specifically about how your privacy is protected when you use our services,
+please let us know via the contact details below. [CLS] [SEP] in accordance with eu
+privacy laws and regulations, you have the right to lodge a complaint with the
+national supervisory authority responsible for the protection of personal data
+if you think we have unlawfully processed your personal data. [CLS] [SEP] for the
+netherlands, this supervisory authority is the dutch data protection
+authority, which you can contact
+[here](https://autoriteitpersoonsgegevens.nl/en). [CLS] [SEP]  
+  
+ **our company and contact information**
+
+ _still have privacy questions?_
+
+|
+
+startpage is owned and operated by startpage bv, postbus 1079, 3700 bb zeist,
+the netherlands. [CLS] [SEP] representative for the privacy policy is robert e.g. [CLS] [SEP] beens. [CLS] [SEP]
+you can contact us at  ![](/static-pages-
+assets/datocmsdownload/4799/1551784262-privacypolicy.png)  
+  
+# "privacy: it's not just our policy - it's our mission!"
+
+\- startpage.com
+
+[privacy policy](/en/privacy-policy/?t=default)[about us](/en/about-
+us/?t=default)[blog](https://www.startpage.com/privacy-
+please/?t=default)[press](https://www.startpage.com/privacy-
+please/press/?t=default)
+
+â© 2021 startpage.com
+

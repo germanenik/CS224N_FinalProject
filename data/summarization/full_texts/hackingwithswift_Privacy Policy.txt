@@ -1,0 +1,149 @@
+[ ![hacking with swift](/img/logo-curves.svg) ](/)
+
+  * [
+
+forums
+
+](/forums)
+
+  * learn
+
+[ __start here](/learn) [ __latest articles](/articles)
+
+[ __100 days of swift](/100) [ __100 days of swiftui](/100/swiftui) [ __swift
+knowledge base](/example-code) [ __swiftui by example](/quick-start/swiftui) [
+__swift in sixty seconds](/sixty) [ __hacking with swift](/read)
+
+[ __youtube videos](/videos) [ __swift playgrounds](/playgrounds) [ __get the
+ios app](/unwrap)
+
+  * careers
+
+[ __start here](/career-guide)
+
+[ __interview questions](/interview-questions) [ __interactive
+review](/review) [ __test your swift](/test)
+
+[ __find a job](/forums/jobs)
+
+  * store
+
+[ __subscribe to hacking with swift+](/plus)
+
+[ __browse swift courses](/store) [ __book bundles](/store/bundles)
+
+[ __frequently asked questions](/faq) [ __lifetime update policy](/update-
+policy) [ __frequent flyer club](/frequent-flyer) [ __buy on apple
+books](/apple-books) [ __reader reviews](/reviews)
+
+[ __refund policy](/refund-policy)
+
+  * about
+
+[ __about hacking with swift](/about)
+
+[ __swift community awards](/awards) [ __hacking with swift live](/live) [
+__conference talks](/speaking) [ __affiliate program](/affiliates)
+
+[ __newsletter](/newsletter)
+
+[ __sponsor the site](/sponsor)
+
+  * [
+
+subscribe
+
+](/plus)
+
+  * __
+
+[new: **start my new ultimate portfolio app course with a free hacking with
+swift+ trial!** >>](/plus)
+
+![](/img/swift_logo.png)
+
+# privacy policy
+
+## about your data
+
+* * *
+
+we take privacy as seriously as you do – you're here to learn swift, not get
+tracked and spied on. [CLS] [SEP] so, we've taken steps to track as little as possible
+about you, and what little we _do_ track is anonymised as much as possible. [CLS] [SEP]
+
+you can find our full privacy policy and terms of service below, but if you
+have any questions [please get in touch](mailto:paul@hackingwithswift.com). [CLS] [SEP]
+
+  * for performance reasons, your requests to the site are routed through a content delivery network (cdn) so your request gets served at a location geographically near to you. [CLS] [SEP] our cdn is cloudflare, and they may include cookies with our pages to provide a better service. [CLS] [SEP] cloudflare has their own [privacy policy](https://www.cloudflare.com/privacypolicy/), and it applies in addition to our own. [CLS] [SEP]
+  * we do not track you on this site or any others, and we do not pass your data to any third party. [CLS] [SEP] our web server does not store your ip address or any other personally identifiable information that is not provided by you. [CLS] [SEP] however, as noted above we do use a cdn for serving requests efficiently. [CLS] [SEP]
+  * we don't use any external contractors to build or maintain this website, but in the event we ever do they will not have access to your private data. [CLS] [SEP]
+  * existing customers and those who have subscribed for updates will receive emails containing product updates, discount links on books, news, and more. [CLS] [SEP] you can unsubscribe from these at any time using the link at the end of any email. [CLS] [SEP]
+  * we serve you with a cookie that tracks your session on the site. [CLS] [SEP] this is used only for users who have logged into the site, so we can track who is posting forum messages and allow you to edit or delete your posts later on. [CLS] [SEP] if you visit our [swift coding tests](/test) you will be served an extra cookie that tracks the answer you write for each question so that we can show the test result at the end. [CLS] [SEP]
+  * if you log in to the site you will be authenticated using github. [CLS] [SEP] github has their own privacy policy and we [encourage you to read it](https://help.github.com/en/github/site-policy/github-privacy-statement). [CLS] [SEP] you may delete your account here, or delete your account on github, whenever you want. [CLS] [SEP]
+  * you maintain full ownership of your data, and at any point you're welcome to ask us to send it to you or delete it. [CLS] [SEP] [you can contact us here](mailto:paul@hackingwithswift.com). [CLS] [SEP]
+  * if you choose to voluntarily disclose information here, such as by submitting a forum post or by replying to someone else, that information can be viewed publicly, other people can copy it, or it could also be collected and used by third parties without our or your knowledge. [CLS] [SEP] so, we strongly recommend you avoid posting personal data that might allow other people to contact or locate you or other users. [CLS] [SEP]
+  * if you create a hacking with swift account, github sends us your account details. [CLS] [SEP] we attach your github account id to your hacking with swift account so we can authenticate you in the future. [CLS] [SEP] when creating your account we use github's information to create your username and email address, but you can edit this as you please. [CLS] [SEP] you are welcome to use your real name, or use a pseudonym – use whatever you're comfortable with. [CLS] [SEP] we recommend you enable two-factor authentication on github to maximize your account security. [CLS] [SEP]
+  * we sometimes embed content from twitter and videos from youtube or vimeo, which may also collect information from you. [CLS] [SEP] we aim to embed using the highest privacy settings to protect your privacy, which means we embed using "dnt on" for twitter, "no cookie" for youtube, and `dnt=1` for vimeo. [CLS] [SEP] if you are still unsure, you can read more about their privacy policies here: [twitter](https://twitter.com/en/privacy), [youtube](https://policies.google.com/privacy), and [vimeo](https://vimeo.com/privacy/). [CLS] [SEP]
+  * if you buy books your order will be taken by gumroad. [CLS] [SEP] they will ask for your payment details in order to complete the transaction, and will store your billing information so you can download your products at a later time. [CLS] [SEP] your credit card will be used by gumroad to conduct the transaction, and will not be passed on to us. [CLS] [SEP] you might also want to read our [30-day no questions asked refund policy](/refund-policy). [CLS] [SEP]
+  * we have asked gumroad to avoid tracking you beyond storing that a purchase was made, however they have their own privacy policy that will apply when you visit their site. [CLS] [SEP] you can read their [privacy policy here](https://gumroad.com/privacy). [CLS] [SEP]
+  * if you break our [code of conduct](/conduct) we reserve the right to suspend your account. [CLS] [SEP] you will be notified and we'll provide clear reasoning, and we hope to work with you to resolve the problem so your account can be reactivated. [CLS] [SEP]
+  * in the unlikely event we're ever contacted by a government agency with a legal request for your data, we may be required to hand over information such as your forum posting history. [CLS] [SEP] unless we are prohibited by law or by court order from doing so, we will notify you of the request and provide you with a copy of the subpoena, court order, or warrant so that you can challenge the legal process if you wish. [CLS] [SEP] we will never comply with any voluntary surveillance program. [CLS] [SEP]
+
+our privacy policy was last updated june 27th 2020. [CLS] [SEP]
+
+we may update this privacy policy from time to time, but in the case that
+happens you will be notified at least seven days in advance. [CLS] [SEP] if you have
+questions, suggestions, or other feedback please get in touch:
+[paul@hackingwithswift.com](mailto:paul@hackingwithswift.com). [CLS] [SEP]
+
+[click here to visit the hacking with swift store >>](/store)
+
+[
+
+#### __
+
+@twostraws
+
+](https://twitter.com/twostraws)
+
+[
+
+#### __
+
+paul@hackingwithswift.com
+
+](mailto:paul@hackingwithswift.com)
+
+[
+
+#### __
+
+sponsor the site
+
+](/sponsor)
+
+[about](/about)             [glossary](/glossary)             [privacy
+policy](/privacy)             [refund policy](/refund-policy)
+[update policy](/update-policy)             [code of conduct](/conduct)
+
+[**_thanks for your support, ciprian manea!_**](/supporters)
+
+swift, the swift logo, swift playgrounds, xcode, instruments, cocoa touch,
+touch id, airdrop, ibeacon, iphone, ipad, safari, app store, watchos, tvos,
+mac and macos are trademarks of apple inc., registered in the u.s. [CLS] [SEP] and other
+countries. [CLS] [SEP] pulp fiction is copyright (c) 1994 miramax films. [CLS] [SEP] hacking with
+swift is (c)2021 hudson heavy industries. [CLS] [SEP]
+
+
+
+![unknown user](/img/unknown_user.png)
+
+you are not logged in
+
+[log in or create account](/login)
+
+
+
+link copied to your pasteboard. [CLS] [SEP]
+

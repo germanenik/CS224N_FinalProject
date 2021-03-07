@@ -1,0 +1,984 @@
+skip navigation or skip to content
+
+  * [![](https://cdnstatic.bethsoft.com/zenimax.com/site/img/zmi-logo.png)](/)
+
+  * [about](/about)
+  * [library](/library)
+  * [publishing](/publishing)
+  * [studios](/studios)
+  * [press releases](/press)
+  * [careers and contact](/more)
+
+[terms of service](legal_terms) [privacy policy](legal_privacy) [legal
+information](legal_information) [code of conduct](code_of_conduct) [cookie
+policy](cookie_policy)
+
+print
+
+# zenimax media online privacy policy
+
+[![esrb privacy certified member
+confirmation](https://esrbstorage.blob.core.windows.net/esrbcontent/images/privacy_certified_globe_color.gif)](https://www.esrb.org/confirm/zenimax-
+confirmation.aspx)
+
+## zenimax media online privacy policy
+
+last updated: january 1, 2021
+
+this zenimax media online privacy policy ("policy") describes how zenimax
+media inc. [CLS] [SEP] and our affiliates and subsidiaries (collectively, " **zenimax** ",
+" **we** " or " **us** ") collect, use and otherwise process the personal
+information we collect about our customers, purchasers, subscribers, and/or
+users (each a " **user** ") of our mobile applications, games, websites and
+other online services (collectively, our " **services** "). [CLS] [SEP]
+
+**overview**
+
+we think transparency is important. [CLS] [SEP] in this overview, we summarize the
+personal information we collect and how we use it, which is further explained
+in our privacy policy below. [CLS] [SEP] keep in mind that the actual personal information
+we collect and how we use it varies depending upon the nature of our
+relationship and interactions with you. [CLS] [SEP] also, in some cases (such as where
+required by law), we ask for your consent or give you certain choices prior to
+collecting or using certain personal information. [CLS] [SEP]
+
+**categories of personal information collected.** generally, we collect the
+following types of personal information:
+
+  * _identifiers_ : includes direct identifiers such as name, username and alias; email, billing address, other contact information; uid, buid, device id, ip address, third-party platform identifiers and account details (e.g., playstation®, xbox, steam, facebook), and other online or unique identifiers. [CLS] [SEP]
+  * _customer records_ : includes your account and profile information and customer records that contain personal information, such as username, name, demographics and other characteristics or descriptions, email, address, telephone number, and other contact information, account credentials, communications preferences, billing and payment information, customer service and support tickets and records, and other information individuals provide us in order to register for, access or purchase our services. [CLS] [SEP]
+  * _commercial information_ : includes records of personal property, products or services purchased, obtained, or considered, or other purchasing or use histories or tendencies, such as information about your subscriptions and current and past payments and purchases, and games you play or are interested in. [CLS] [SEP]
+  * _usage data_ : includes browsing history, clickstream data, search history, access logs, information regarding your interactions with our websites, mobile apps and other services and our marketing emails and online ads, and other usage data related to your use of the services, such as language and preferences, in-game purchases, game-play statistics, scores, persona, characters, achievements, rankings, time spent playing, click paths, game profile, preferences and friends, as well as your comments, posts and interactions in forums and communities. [CLS] [SEP]
+  * _geolocation data_ : includes precise location information about a particular individual or device, such as device location information for mobile games users. [CLS] [SEP]
+  * _audio, video and other electronic data_ : includes audio, electronic, visual, thermal, or similar information, such as photographs and images (e.g., that you provide us or post to your profile), call recordings (e.g., of customer support calls), and user photos submitted (such as profile images). [CLS] [SEP]
+  * _inferences_ : includes inferences drawn from other personal information that we collect to create a profile based on your account and activities, that reflect your preferences, characteristics, behavior, attitude and abilities related to the services. [CLS] [SEP]
+
+**uses of personal information.** in general, we may use and disclose personal
+information for the following purposes:
+
+  * _providing our services and related support_
+  * _protecting the integrity of the services_
+  * _analyzing and improving the services and our business_
+  * _personalizing the services_
+  * _advertising, marketing and promotional purposes_
+  * _securing and protecting our business_
+  * _defending our legal rights_
+  * _auditing, reporting, corporate governance, and internal operations_
+  * _complying with legal obligations_
+
+**esrb privacy certification.** zenimax values the importance of your privacy
+and has received the esrb privacy certification. [CLS] [SEP] zenimax is a valid licensee,
+and participating member of the entertainment software rating board's privacy
+certified program (" **esrb privacy certified** "). [CLS] [SEP] all services where this
+policy is posted and which display an esrb certification seal have been
+reviewed and certified by esrb privacy certified to meet established online
+information collection, use and disclosure practices. [CLS] [SEP] as a licensee of this
+privacy program, we are subject to audits of our services and other
+enforcement and accountability mechanisms administered independently by the
+esrb. [CLS] [SEP]
+
+if you are a california resident, please be sure to review section 15.a. [CLS] [SEP]
+california residents below for important information about our privacy
+practices and your rights under california privacy laws, including your right
+to submit a "do not sell my info" request. [CLS] [SEP]
+
+you can review more detailed information about our privacy practices and your
+rights and choices below in our privacy policy, which is organized into the
+following sections:
+
+  1. [CLS] [SEP] scope of our policy
+  2. [CLS] [SEP] personal information we collect
+  3. [CLS] [SEP] purposes of use and legal bases for processing of personal information
+  4. [CLS] [SEP] disclosure and sharing of personal information
+  5. [CLS] [SEP] cookies, analytics and personalization
+  6. [CLS] [SEP] interest-based advertising
+  7. [CLS] [SEP] third-party links and features
+  8. [CLS] [SEP] user generated content
+  9. [CLS] [SEP] security of your information
+  10. [CLS] [SEP] data retention
+  11. [CLS] [SEP] international transfers of data
+  12. [CLS] [SEP] user rights and choices
+  13. [CLS] [SEP] contact details
+  14. [CLS] [SEP] changes to this policy
+  15. [CLS] [SEP] additional information for users in certain jurisdictions
+
+**1\. [CLS] [SEP] scope of our policy**
+
+this policy applies to the personal information that zenimax collects and
+processes about users related to our services, including games published by
+bethesda softworks and zenimax online studios, and games developed by other
+zenimax studios; more information about our studios is available at
+[www.zenimax.com/studios](https://www.zenimax.com/studios). [CLS] [SEP] this policy does
+not apply to any third-party websites, services, products or mobile
+applications maintained by other companies, which are linked to from our
+services. [CLS] [SEP]
+
+by registering for an account with us, providing your information to us
+through the services, or otherwise using any of our services, you understand
+and acknowledge that zenimax may process your personal information in
+accordance with this policy. [CLS] [SEP] if you do not want this policy to apply to you,
+please do not use the services or communicate with us via the services. [CLS] [SEP] if
+required by applicable law, we will obtain your consent to our collection,
+use, transfer and disclosure of your personal information. [CLS] [SEP]
+
+**personal information**. [CLS] [SEP] in this policy, our use of the term "personal
+information" includes other similar terms under applicable privacy laws--such
+as "personal data" and "personally identifiable information." in general,
+personal information includes any information that identifies, relates to,
+describes, or is reasonably capable of being associated, or reasonably linked
+or linkable with a particular individual. [CLS] [SEP]
+
+**not covered by this policy**. [CLS] [SEP] this policy does not apply to job applicants
+and candidates who apply for employment with us, or to employees and non-
+employee workers in the context of our working relationship with them. [CLS] [SEP]
+
+**2\. [CLS] [SEP] personal information we collect**
+
+zenimax collects personal information directly from users, automatically
+related to the use of the services, and in some cases, from third parties
+(such as social networks, platform providers, payment processors, and
+operators of certain third-party services that we use). [CLS] [SEP] the information we
+collect about users varies depending upon the circumstances, such as the games
+or services used. [CLS] [SEP]
+
+**information we collect from you.** generally, we collect your personal
+information on a voluntary basis. [CLS] [SEP] however, if you decline to provide certain
+personal information that is marked mandatory, you may not be able to access
+certain services or we may be unable to fully respond to your inquiry. [CLS] [SEP] in
+general, we may collect the following personal information:
+
+  * _registration and profile information_ : to access and use certain services (e.g., to register a game, download or use a mobile application, access subscription-based services, create an account) you may be required to register with us, by providing us with certain required information, which is identified on the registration page. [CLS] [SEP] depending upon the services you use, this may include your name, a username and password, as well as country of residence, email, and contact information; certain services will not be available if you decline to provide required information. [CLS] [SEP] we may also ask you or allow you to submit certain optional information, which may include your phone number, birthdate, location, preferences, a photo or avatar, and other profile information. [CLS] [SEP]
+  * _purchases and payments information_ : if you make a purchase or sign up for certain subscription-based services, you are required to provide your payment information, including name, billing and shipping address and details, payment type, as well as credit card number or other payment account details (e.g., paypal). [CLS] [SEP] we work with third parties like payment processors and fulfillment partners to process these payments. [CLS] [SEP] we do not collect, receive, process or store credit card or debit card numbers, or other third-party payment account credentials (e.g., paypal); this information is collected directly by these third parties. [CLS] [SEP] depending upon the service, we may receive your username, name, email, the payment type, product(s) or service(s), and other transaction details, and maintain records of your purchase and subscription history. [CLS] [SEP]
+  * _marketing, contests and promotions_ : users can sign up online or in-person (e.g., at tradeshows, conferences and the like) to receive direct marketing communications from us, including emails about game launches, developments, and upcoming releases. [CLS] [SEP] if you agree to receive direct marketing communications from us, we collect your email address, and we may also collect your name, preferences, and if relevant, information about your account and the services and other games you use. [CLS] [SEP] we may also collect your name, age, email address, and other information related to contests, sweepstakes or other events or activities on our websites and social media channels. [CLS] [SEP]
+  * _your communications_ : when you email us, call us, or otherwise send us communications regarding the services, we collect and maintain a record of your contact details, communications and our responses. [CLS] [SEP] we may also maintain records of the in-game communications and information that you post in chat sessions, forums, and in other areas of the services. [CLS] [SEP]
+
+**information we collect and receive from third parties.** we may collect and
+receive personal information about you from third parties, as explained below. [CLS] [SEP]
+
+  * _third-party and mobile platforms_ : you may be able to login through or connect certain third-party accounts (each a " **third-party account** ")--such as steam, twitch, xbox live, psn and facebook--to your account with us, or to interact with us and others on game forums and communities on third-party platforms. [CLS] [SEP] these third-party accounts and platforms are operated and managed by third parties (each a " **third-party platform** "), and subject to their respective terms and conditions. [CLS] [SEP] when you link a third-party account to use our services, you may be able to connect and interact with and share game information with your friends and network from that third-party account, and, in some cases, you may be able to make purchases through or earn rewards (subject to applicable program terms) from that third-party account. [CLS] [SEP] when you access, play or use our services through a third-party platform or website, we may collect or receive your console identifier(s) (e.g., xuid and puid), as well as ip address, mac address, and other device identifiers, registered email address, and other information you authorize them to provide us. [CLS] [SEP] in addition, we may allow you to login to certain services through third-party accounts, such as google/stadia (<https://stadia.google.com/privacy>), steam (<https://store.steampowered.com/privacy_agreement/>) and facebook ([facebook.com/about/privacy/](https://facebook.com/about/privacy/)). [CLS] [SEP] if you choose to login this way, you are asked to share certain information with us (which may include name, email, friends and public profile information); the specific information and whether it is required or optional is stated on the permissions page when you first log in with or connect the third-party account. [CLS] [SEP] if you play or purchase our service on your mobile device, we receive information about you from the app stores and other mobile platform providers, including your username and/or device id. [CLS] [SEP]
+  * _third-party tools_ : we also may use third-party tools to help us manage and analyze our social media presence, and report on comments, mentions and other content that is posted about us on third-party platforms and other social media sites, other public channels and forums. [CLS] [SEP] the information collection and sharing practices of these third parties are subject to their respective terms and conditions and privacy policies. [CLS] [SEP]
+  * _vendors and providers_ : we may engage vendors and work with other partners to provide services to us or to users on our behalf (such as payment processors, digital storefronts, cloud hosting and services providers). [CLS] [SEP] in addition, we may receive personal information from ad networks, analytics providers and others who we work with to deliver, improve and measure our online advertising and marketing campaigns. [CLS] [SEP]
+
+**information we collect about your usage and activities.** we collect
+personal information about how you use the services and interact with us and
+others, such as information we collect automatically (e.g., using cookies and
+pixel tags), as well as information we derive about you and your use of the
+services. [CLS] [SEP] such information includes:
+
+  * _user ids_ : we assign account holders a unique user identifier, which we use to identify and link relevant information to your activities within the services (e.g., in-game information such as statistics, scores, achievements and subscription levels). [CLS] [SEP] some of our games also may allow users to play without creating an account and/or registering with us. [CLS] [SEP] in such cases, we may assign you a guest user id so that we can keep track of your game play, scores, stats, purchasing data and usage data for your current and future sessions. [CLS] [SEP] if you later decide to register or create an account with us, we may associate your guest id and the data from your guest session(s) with your account. [CLS] [SEP]
+  * _activities, stats, friends and preferences_ : we collect usage and preference details related to your use of the services, such as language, in-game purchases, game-play statistics, scores, persona, characters, achievements, rankings, time spent playing, click paths, game profile, preferences, friends (including friend relationships through, for example, the creation of clans) and other data that you provide to us as part of your account. [CLS] [SEP]
+  * _other information_ : we also may automatically or indirectly collect information about you, your computer or mobile device (such as when you use our services, read our emails, through social media channels). [CLS] [SEP] we (and our third-party providers) may record log files and use cookies, pixel tags, local shared objects, java script, and other mechanisms to collect this information about you. [CLS] [SEP] for more information, see section 5. [CLS] [SEP] cookies, analytics and personalization below. [CLS] [SEP] in addition, we may collect location information from your device if you grant us permission to do so, or derive your location based upon your ip address. [CLS] [SEP]
+
+**children.** zenimax does not knowingly request or collect personal
+information from children younger than 13 years of age. [CLS] [SEP] if you believe that we
+have collected personal information from a child under 13, please contact us
+as set forth in section 13. [CLS] [SEP] contact details, below, and we will take action as
+necessary to securely delete such information. [CLS] [SEP]
+
+**3\. [CLS] [SEP] purposes of use and legal bases of processing for personal information**
+
+while the purposes for which we may process personal information will vary
+depending upon the circumstances, in general, we use personal information for
+the business and commercial purposes set forth in this section. [CLS] [SEP] in this
+section, we also explain the legal bases for which we process personal
+information about users, as required by the eu general data protection
+regulation (the " **gdpr** ") (and other relevant laws such as the uk data
+protection act 2018 and the brazilian general data protection law (the "
+**lgpd** ")). [CLS] [SEP]
+
+**legal bases for processing.** pursuant to the gdpr (and other relevant
+laws), in general, we process your personal information for the following
+legal bases:
+
+  * _performance of our contract with you_ : the personal information we collect may be used to perform our agreements with you, including our terms of use, code of conduct and other terms and conditions applicable to the services you use. [CLS] [SEP]
+  * _to comply with a legal obligation to which zenimax is subject_ : the personal information we collect may be processed in order to comply with the law and our legal obligations. [CLS] [SEP]
+  * _for our legitimate business interests_ : we may process personal information in furtherance of our legitimate business interests in protecting, maintaining and improving the services; developing new games, features and services; marketing and promoting our services (including by profiling and marketing to users); protecting our legal rights and interests; in support of mergers, acquisitions, reorganizations and other business transactions; and to generally operate and improve our business. [CLS] [SEP]
+  * _with your consent_ : we may process personal information about you based on your consent, for example (where required by law) to send you marketing communications, surveys, news, updates and other communications. [CLS] [SEP] in addition, where required by applicable law, zenimax will obtain your consent to this policy and our collection, use and disclosure of your personal information. [CLS] [SEP] users may be able to withdraw their consent at any time in accordance with applicable laws; please see section 12. [CLS] [SEP] user rights and choices below for information on how to withdraw your consent. [CLS] [SEP]
+
+**purposes of use and processing**. [CLS] [SEP] while the purposes for which we may
+process personal information will vary depending upon the circumstances, in
+general, we use personal information for the business and commercial purposes
+set forth below. [CLS] [SEP] where gdpr or other similar laws apply, we have set forth the
+legal bases for such processing (see above for further explanation of our
+legal bases) in parenthesis below. [CLS] [SEP]
+
+  * _providing our services and related support_ : including to operate the services; to administer contests, programs and promotions; to communicate with users about their access to and use of our services; to respond to user inquiries; to fulfil user orders and requests; to process payments; to provide troubleshooting and other technical support; and for other customer service and support purposes. [CLS] [SEP] (legal basis: _performance of our contract with you; and for our legitimate business interests_ )
+  * _protecting the integrity of the services_ : including to verify your identity; to detect and prevent fraud, cheating and unauthorized activities; to facilitate software updates; to secure of our systems and the services; to prevent hacking, cheats and spamming; to enforce our terms of use, code of conduct, and other applicable terms; and to protect the rights and safety of users. [CLS] [SEP] (legal basis: _performance of our contract with you; compliance with laws; and for our legitimate business interests_ )
+  * _analyzing and improving the services and our business_ : including to better understand how users access and use our services; to evaluate and improve the services and our business operations; to develop new games, features, offerings and services; to conduct surveys and other evaluations; and for other research and analytical purposes. [CLS] [SEP] (legal basis: _our legitimate business interests_ )
+  * _personalizing the services_ : including to tailor content we send or display on our websites and other services (e.g., for your geographic area); to offer personalized help and instructions; to tailor your gameplay experiences; and otherwise personalize your experiences with the services. [CLS] [SEP] (legal basis: _our legitimate business interests_ )
+  * _advertising, marketing and promotional purposes_ : including to send or display targeted marketing; to reach you with more relevant ads and to evaluate, measure and improve the effectiveness of our ad campaigns; to send you newsletters, offers or other information we think may interest you; to contact you about our services or information we think may interest you; and to administer promotions and contests. [CLS] [SEP] where required by applicable law, we will obtain your consent to use your personal information for marketing and related purposes. [CLS] [SEP] (legal basis: _our legitimate business interests and/or with your consent_ )
+  * _securing and protecting our business_ : including to protect and secure our business operations, assets, services, network and information and technology resources; to investigate, prevent, detect and take action regarding fraud, cheating, unauthorized access, situations involving potential threats to the rights or safety of any person or third party, or other unauthorized activities or misconduct (legal basis: _our legitimate business interests and/or compliance with laws_ )
+  * _defending our legal rights_ : including to manage and respond to actual and potential legal disputes and claims, and to otherwise establish, defend or protect our rights or interests, including in the context of anticipated or actual litigation with users or third parties. [CLS] [SEP] (legal basis: _our legitimate business interests and/or compliance with laws; in brazil, this also includes the exercise of rights in judicial, administrative or arbitration proceedings in accordance with applicable laws_ )
+  * _auditing, reporting, corporate governance, and internal operations_ : including relating to financial, tax and accounting audits; audits and assessments of our operations, privacy, security and financial controls, risk, and compliance with legal obligations; our general business, accounting, record keeping and legal functions; to maintain appropriate business records; to enforce company policies and procedures; and related to any actual or contemplated merger, acquisition, asset sale or transfer, financing, bankruptcy or restructuring of all or part of our business. [CLS] [SEP] (legal basis: _our legitimate business interests and/or compliance with laws_ )
+  * _complying with legal obligations_ : to comply with applicable legal or regulatory obligations, including as part of a judicial proceeding; to respond to a subpoena, warrant, court order, or other legal process; or as part of an investigation or request, whether formal or informal, from law enforcement or a governmental authority. [CLS] [SEP] (legal basis: _our legitimate business interests and/or compliance with laws_ )
+
+**4\. [CLS] [SEP] disclosure and sharing of personal information**
+
+zenimax may disclose your personal information as follows, and we will obtain
+your consent to do so where required by applicable law:
+
+**vendors and providers.** we may engage vendors, agents, service providers,
+and affiliated entities to provide services to us or to users on our behalf,
+such as support for the internal operations of our websites, online stores
+(including payment processors), products (such as our games) and services
+(e.g., forum operations, and technical support processing), as well as related
+offline product support services, data storage and other services. [CLS] [SEP] in
+providing their services, they may access, receive, maintain or otherwise
+process personal information on our behalf. [CLS] [SEP] our contracts with these service
+providers do not permit use of your personal information for their own
+marketing and other purposes. [CLS] [SEP]
+
+**zenimax group companies.** your personal information may be processed by
+members of zenimax group companies (see
+[www.zenimax.com/legal_information](https://www.zenimax.com/legal_information))
+for purposes of assisting us to market our services and games, analytics,
+research and demographic studies, development, and to help us improve and
+tailor the services we provide. [CLS] [SEP] if you have consented, we may also share your
+personal information so that they may contact you about other products and
+services offered by zenimax affiliates as set forth in section 12. [CLS] [SEP] user rights
+and choices below. [CLS] [SEP] our subsidiary or affiliate companies are subject to this
+policy when they use your personal information. [CLS] [SEP]
+
+**advertising and analytics partners.** we engage third parties that provide
+advertising, campaign measurement, online and mobile analytics, and related
+services to us (with your consent, where required by applicable laws). [CLS] [SEP] they
+may use this information to help us better reach individuals with relevant ads
+and to measure and improve our ad campaigns, or to better understand how
+individuals interact with our services. [CLS] [SEP] in addition, these third parties may
+combine the information collected from us and our services with information
+collected about you from third-party sites, apps and services, in order to
+make inferences about you and your interests, to better tailor advertising and
+content to you across multiple sites, apps, and services, and to collect
+associated metrics. [CLS] [SEP]
+
+**legally required.** we may also disclose your personal information if we
+believe we are required to do so by law, or that doing so is reasonably
+necessary to comply with legal processes; when we believe necessary or
+appropriate to disclose personal information to law enforcement or other
+governmental or regulatory authorities or the courts (in any relevant
+jurisdiction worldwide), such as to investigate actual or suspected fraud or
+violations of law, breaches of security, or breaches of this policy; to
+regularly exercise our rights in judicial, administrative or arbitration
+proceedings (as applicable in brazil); to respond to any claims against us;
+and, to protect the rights, property, or personal safety of zenimax, our
+customers, or the public. [CLS] [SEP]
+
+**corporate transactions.** in addition, your personal information may be
+disclosed as part of any proposed or actual merger, sale, and transfer of
+zenimax assets, acquisition, bankruptcy, or similar event. [CLS] [SEP]
+
+**with consent.** we may also disclose your personal information to any other
+affiliated or third parties where you have consented or requested that we do
+so. [CLS] [SEP]
+
+notwithstanding anything else in this policy, we may share aggregate or de-
+identified information with third parties for research, marketing, analytics
+and other purposes, provided such information does not identify a particular
+individual and the individual cannot be re-identified. [CLS] [SEP]
+
+**5\. [CLS] [SEP] cookies, analytics and personalization**
+
+we and our third-party providers use cookies, clear gifs/pixel tags,
+javascript, local storage, log files, and other mechanisms to automatically
+collect and record information about your browsing activities, gaming
+performance and use of the services. [CLS] [SEP] we may combine this "activity
+information" with other personal information we collect about you. [CLS] [SEP] generally,
+we use this activity information to understand how our services are used,
+track bugs and errors, provide and improve our services, establish
+matchmaking, verify account credentials, allow logins, track sessions, prevent
+fraud, and protect our services, as well as for targeted marketing and
+advertising, to personalize content and for analytics purposes (see section
+12. [CLS] [SEP] user rights and choices below for information about opting-in or out of
+certain uses of your personal information). [CLS] [SEP]
+
+below is a summary of these activities. [CLS] [SEP] for more detailed information about
+these mechanisms and how we collect activity information, see our cookie
+policy, which applies to our sites that display or link to this cookie policy,
+available at <https://www.zenimax.com/cookie_policy>. [CLS] [SEP]
+
+**log files.** we collect certain activity information from log files. [CLS] [SEP] log
+file information is automatically reported by your browser or mobile
+application to our servers when you access our services. [CLS] [SEP] we record certain
+information from these log files, including web requests, ip address, browser
+type and version, language information, referring and exiting urls, links
+clicked, pages viewed and other similar information. [CLS] [SEP]
+
+**cookies**. [CLS] [SEP] are small files with a unique identifier that are transferred to
+your browser through our websites. [CLS] [SEP] they allow us to remember users who are
+logged in, to understand how users navigate through and use our services, and
+to display personalized content and targeted ads (including on third-party
+sites and applications). [CLS] [SEP]
+
+**clear gifs, pixel tags and web beacons**. [CLS] [SEP] these are tiny graphics with a
+unique identifier, similar in function to cookies that we use to track the
+online movements of users of our services and to personalize content. [CLS] [SEP] we also
+use these in our emails to let us know when they have been opened or
+forwarded, so we can gauge the effectiveness of our communications. [CLS] [SEP]
+
+**anti-cheat and fraud prevention**. [CLS] [SEP] providing a fair gameplay environment is
+important to us. [CLS] [SEP] we prohibit cheating, hacking, account stealing, and any
+other unauthorized or fraudulent activity when using our services. [CLS] [SEP] in order to
+detect and prevent fraud and cheating, we may use anti-cheat and fraud
+prevention tools, applications, and other technologies. [CLS] [SEP] when you use our
+services, such technologies may create a machine "fingerprint" or "hash" of
+your machine components, and collect information about you, including
+information about your browser, device, activities, game identifiers, and
+operating system. [CLS] [SEP] we may also monitor publicly-available information, third-
+party sites and/or use anti-cheat technology within our services. [CLS] [SEP]
+
+**analytics tools**. [CLS] [SEP] we may use internal and third-party analytics tools (see
+our cookie policy at <https://www.zenimax.com/cookie_policy> for a list of
+third parties) to collect and aggregate activity data and other data across
+multiple channels. [CLS] [SEP]
+
+**do-not-track signals**. [CLS] [SEP] please note that our websites do not recognize or
+respond to any signal which your browser might transmit through the so-called
+'do not track' feature your browser might have. [CLS] [SEP] if you wish to disable cookies
+on our services, you should not rely on any 'do not track' feature your
+browser might have. [CLS] [SEP]
+
+**preferences**. [CLS] [SEP] you can review or change your preferences for most cookies
+and tags on our websites (other than those that are necessary to the proper
+functioning of our websites) by adjusting your cookie settings:
+
+cookie settings
+
+**6\. [CLS] [SEP] interest-based advertising**
+
+we work with third-party ad networks, channel partners, mobile ad networks,
+analytics and measurement services and others (" **third-party ad companies**
+") to personalize content and display advertising within our services
+(including our websites and our mobile and other games and apps), as well as
+to manage our advertising on third-party sites, mobile apps and online
+services. [CLS] [SEP] we and these third-party ad companies may use cookies, pixels tags,
+and other tools (which we may refer to collectively as " **targeting cookies**
+") to collect activity information within our services (as well as on third-
+party sites and services), as well as ip address, location information, device
+id, cookie and advertising ids, and other identifiers; we and these third-
+party ad companies use this information to provide you more relevant ads and
+content within our services and on third-party sites and apps, and to evaluate
+the success of such ads and content. [CLS] [SEP] see our cookie policy
+(<https://www.zenimax.com/cookie_policy>) for more details about the third-
+party ad companies we work with and first and third-party tags used on the
+services and on third-party sites and apps. [CLS] [SEP]
+
+**preferences.** we make available multiple ways for you to manage your
+preferences regarding targeting cookies, advertising and personalization. [CLS] [SEP]
+
+  * _our websites and online games_ : you can review or change your preferences for targeting cookies and tags on our websites by adjusting your cookie settings:  
+cookie settings
+
+  * _mobile_ : some of our mobile games and apps may include third-party advertising and analytics. [CLS] [SEP] you can opt out of targeted advertising from third parties in our mobile games by adjusting your device privacy settings. [CLS] [SEP] this means that you will no longer get targeted ads; however, you may still receive contextual or general ads. [CLS] [SEP]
+
+    * for ios devices, you can turn on the "limit ad tracking" setting (go to settings>privacy>advertising and select/toggle on limit ad tracking). [CLS] [SEP]
+
+    * for android devices, turn on "opt out of ads personalization" setting (go to settings > privacy > advanced > ads and select/toggle on opt out of ads personalization)
+
+in addition, certain of our mobile games include analytics and related
+personalization that you can opt out of through an in-app settings for that
+game (you can access this setting from the main menu of such mobile games). [CLS] [SEP]
+
+  * _industry ad choice programs_ : you can also control how participating third-party ad companies use the information that they collect about your visits to our websites and use of our mobile applications, and those of third parties, in order to display more relevant targeted advertising to you; for more information and to opt out of receiving targeted ads from participating third-party ad networks go to:
+
+    * u.s. [CLS] [SEP] users: [aboutads.info/choices](http://aboutads.info/choices) (digital advertising alliance) (you can also download the daa appchoices tool in order to help control interest-based advertising on apps on your mobile device)
+    * eu users: [youronlinechoices.eu](http://youronlinechoices.eu) (european interactive digital advertising alliance)
+    * canada users: [youradchoices.ca/choices/](http://youradchoices.ca/choices/) (digital advertising alliance of canada)
+
+opting out of participating ad networks does not opt you out of being served
+advertising. [CLS] [SEP] you may continue to receive generic or "contextual" ads on our
+services. [CLS] [SEP] you may also continue to receive targeted ads on other websites,
+from companies that do not participate in the above programs. [CLS] [SEP]
+
+**custom lists and matching.** unless you have opted out, we may share certain
+hashed customer list information (such as your name, email address and other
+contact information) with third parties--such as facebook and google--so that
+we can better target ads and content to our users, and others with similar
+interests, within their services. [CLS] [SEP] these third parties use the personal
+information we provide to help us target ads and to enforce their terms, but
+we do not permit them to use or share the data we submit with other third-
+party advertisers. [CLS] [SEP] you may opt out of this as set forth below, in section 12. [CLS] [SEP]
+user rights and choices. [CLS] [SEP]
+
+**7\. [CLS] [SEP] third-party links and features**
+
+our services may contain links to third-party sites that are not owned or
+controlled by zenimax. [CLS] [SEP] we are not responsible for the collection and use of
+your information by these third-party sites. [CLS] [SEP] we recommend that you read the
+privacy notice of the website to which you link before you submit any personal
+information. [CLS] [SEP]
+
+in addition, our services may include or incorporate social media and other
+third-party features (e.g., widgets, buttons, and plugins), which are operated
+by third-party platforms and networks, such facebook, steam, twitch, twitter,
+instagram, youtube, and others. [CLS] [SEP] these features are hosted by the respective
+third-party operator even though they appear on our services. [CLS] [SEP] subject to your
+cookie preferences, the third party may collect your ip address, url, date and
+time stamp, browser details and the like, subject to their own privacy
+policies. [CLS] [SEP]
+
+**8\. [CLS] [SEP] user generated content**
+
+you may choose to disclose information (including personal information) about
+yourself in the course of contributing user generated content to zenimax
+services such as forums. [CLS] [SEP] information that you disclose in any of these forums
+is unencrypted public information, and may be accessed by members of the
+public, who are not subject to this policy. [CLS] [SEP] in addition, when you enter
+certain public areas of our services, your username and other public profile
+information may be viewable by others. [CLS] [SEP] you should have no expectation of
+privacy as to any information you post or display in our forums or games, or
+in your profile, or that you otherwise make available on our or through our
+services. [CLS] [SEP]
+
+**9\. [CLS] [SEP] security of your information**
+
+the security of your personal information is important to us. [CLS] [SEP] zenimax takes
+steps to protect against possible breaches of our services and the personal
+information we maintain. [CLS] [SEP] however, no website or internet transmission is
+completely secure. [CLS] [SEP] thus, zenimax cannot and does not guarantee that
+unauthorized access, hacking, data loss, or other breaches will never occur. [CLS] [SEP]
+we urge you to take steps to keep your personal information safe, such as
+choosing a strong password and keeping it private, enabling multifactor
+authentication (where available), as well as logging out of your user account,
+and closing your web browser when finished using the services. [CLS] [SEP]
+
+**10\. [CLS] [SEP] data retention**
+
+we will retain your personal information as long as necessary for purposes for
+which the personal information was collected and is used by us, as stated in
+this policy. [CLS] [SEP] if you wish to cancel your account or request that we no longer
+use your personal information to provide the services to you, please contact
+us as set forth below, in section 13. [CLS] [SEP] contact details. [CLS] [SEP] however, if you
+withdraw consent or otherwise object to our collection, use and disclosure of
+your personal information, you may not be able to use the services. [CLS] [SEP] further,
+to the extent permitted by applicable law, we will retain and use your
+personal information as necessary to comply with our legal obligations,
+resolve disputes, maintain appropriate business records, and enforce our
+agreements. [CLS] [SEP]
+
+**11\. [CLS] [SEP] international transfers of data**
+
+zenimax is headquartered in the united states, and has operations, entities
+and service providers in the united states and throughout the world. [CLS] [SEP] as such,
+we and our service providers may transfer your personal information to, or
+access it in, jurisdictions (including the united states and other
+jurisdictions where we, our affiliates and service providers have operations)
+that do not provide equivalent levels of data protection as your home
+jurisdiction. [CLS] [SEP] we will take steps to ensure that your personal information
+receives an adequate level of protection in the jurisdictions in which we
+process it, including through appropriate written data processing terms and/or
+data transfer agreements. [CLS] [SEP]
+
+**users in the european economic area (eea) and united kingdom.** your
+personal information may be transferred to and processed in the united states
+and other jurisdictions that do not provide equivalent levels of data
+protection according to the european commission. [CLS] [SEP] in such cases, zenimax will
+take steps to ensure that appropriate safeguards are in place to protect your
+personal information, including by putting in place standard contractual
+clauses as approved by the european commission (the form for the standard
+contractual clauses can be found at <http://ec.europa.eu/justice/data-
+protection/international-transfers/transfer/index_en.htm>). [CLS] [SEP]
+
+**users in brazil**. [CLS] [SEP] if your personal information is subject to brazilian
+laws, zenimax will ensure that appropriate safeguards are in place to protect
+your personal information, as required by the lgpd (once effective). [CLS] [SEP]
+
+**12\. [CLS] [SEP] user rights and choices**
+
+zenimax gives users several easy-to-use ways to access, amend and exercise
+their choices and rights regarding their personal information. [CLS] [SEP]
+
+**marketing preferences**. [CLS] [SEP] you may change your email preferences and opt out
+of marketing communications through the marketing preferences tab in your
+account profile. [CLS] [SEP]
+
+  * _marketing emails_ : you can opt out or change your preferences for marketing emails in the marketing preferences tab of your account profile. [CLS] [SEP] you may also opt out by using the unsubscribe option in each marketing email we send to you. [CLS] [SEP] if you opt out of direct marketing communications, we may to the extent permitted by applicable law still send you non-promotional communications, such as those about your account or our ongoing business relations. [CLS] [SEP] for example, if our service is temporarily suspended for maintenance, or your payment could not be processed, we might send you an email. [CLS] [SEP]
+  * _custom lists and matching_ : you can opt out of being included in custom lists and matching campaigns by us, by updating your marketing preferences in your account profile. [CLS] [SEP]
+
+**cookies and advertising**. [CLS] [SEP] as noted above in section 5. [CLS] [SEP] cookies, analytics
+and personalization and section 6. [CLS] [SEP] interest-based advertising, you can manage
+your preferences for cookies (including advertising cookies) on our websites
+and in our online games by adjusting your cookie preferences:
+
+cookie settings
+
+for our mobile games and apps that include third-party advertising and
+analytics, you can opt out of targeted advertising in our mobile games by
+adjusting your ios or android device privacy settings, as explained above, in
+section 6. [CLS] [SEP] interest-based advertising. [CLS] [SEP] in certain of our mobile games, you may
+also be able to opt out through the in-app settings (accessible from the main
+menu) for that game. [CLS] [SEP]
+
+**push notifications**. [CLS] [SEP] in some of our mobile services, we may send push
+notifications from time-to-time in order to update you about the game, events
+or promotions that we may be running. [CLS] [SEP] if you no longer wish to receive these
+types of communications, you may turn them off at the device level. [CLS] [SEP]
+
+**remove content**. [CLS] [SEP] if you wish to request removal of any user content you
+have posted, please contact us as set forth below, in section 13. [CLS] [SEP] contact
+details. [CLS] [SEP]
+
+**access, amendment and deletion**. [CLS] [SEP] registered users may review and update
+their profile information and communications preferences directly within their
+account. [CLS] [SEP] if you would like us to delete your personal information, you may
+contact us to delete your account. [CLS] [SEP] please contact zenimax privacy as set forth
+below, in section 13. [CLS] [SEP] contact details, to exercise your rights or make a
+request regarding your personal information. [CLS] [SEP]
+
+**submitting a privacy request**. [CLS] [SEP] privacy requests should be directed to the
+zenimax media inc.'s privacy team as set forth below in section 13. [CLS] [SEP] contact
+details. [CLS] [SEP] please keep in mind that certain services will not be available if
+you withdraw your consent, or otherwise delete or object to our processing of
+certain personal information. [CLS] [SEP] we will respond to your request in accordance
+with applicable law, and we will inform you if we do not intend to comply with
+your request. [CLS] [SEP]
+
+**additional information for users in certain jurisdictions**. [CLS] [SEP] in section 15. [CLS] [SEP]
+additional information for users in certain jurisdictions, we provide
+additional information as required under california privacy laws, as well as
+the gdpr, uk data protection act 2018 and the lgpd. [CLS] [SEP] users in california, the
+eea, the uk and brazil should review this section for more information
+regarding their rights under these respective laws. [CLS] [SEP]
+
+**13\. [CLS] [SEP] contact details**
+
+if you have any questions, complaints or comments regarding our policy or
+practices, please submit a request at:
+
+[https://help.bethesda.net/app/incident10/?prod=711&cat=1220](https://help.bethesda.net/app/incident10/?prod=711&cat=1220)
+(bethesda users), or  
+<https://help.elderscrollsonline.com/app/incident/?category=1220> (the elder
+scrolls online users). [CLS] [SEP]
+
+you may also contact us via email at [[email protected]](/cdn-cgi/l/email-
+protection#0d7d7f647b6c6e744d7e787d7d627f792377686364606c75236e6260), or by
+postal mail at:
+
+**zenimax media inc.**  
+attn: zenimax customer service/privacy  
+1370 piccard drive  
+rockville, maryland 20850 usa
+
+**controller and representative.** the controller for your personal
+information is zenimax media inc.,1370 piccard drive, rockville, md 20850 usa. [CLS] [SEP]
+in addition, for purchases made by users in the eea and the uk, zenimax europe
+ltd, reg. [CLS] [SEP] no. [CLS] [SEP] 06333300, haymarket house, 28-29 haymarket, london sw1y 4sp, is
+also a controller for your transaction data. [CLS] [SEP] this policy applies to both
+zenimax media inc. [CLS] [SEP] and zenimax europe ltd., and data subjects may exercise
+their rights with respect to their eea and uk transaction data with both
+entities by contacting zenimax media inc. [CLS] [SEP] online, by email or by postal mail,
+as set forth above. [CLS] [SEP]
+
+eu representative: zenimax media inc. [CLS] [SEP] and zenimax europe ltd have appointed
+zenimax benelux bv, grote berg 18e, 5611 kk eindhoven, the netherlands, as
+representative office for purposes of the gdpr. [CLS] [SEP]
+
+uk representative: zenimax media inc. [CLS] [SEP] has appointed its subsidiary zenimax
+europe ltd, haymarket house, 28-29 haymarket, london sw1y 4sp, united kingdom,
+as its representative office for purposes of uk data protection laws. [CLS] [SEP]
+
+**esrb privacy certified**. [CLS] [SEP] as previously mentioned, we are a member of esrb's
+privacy certified program. [CLS] [SEP] if you believe that we have not responded to your
+inquiry or your inquiry has not been satisfactorily addressed, please contact
+esrb privacy certified at [[email protected]](/cdn-cgi/l/email-
+protection#1767657e6176746e577264657539786570). [CLS] [SEP] or
+<https://www.esrb.org/privacy/contact/>. [CLS] [SEP]
+
+**14 .changes to this policy**
+
+this policy is current as of the last updated set forth above. [CLS] [SEP] we may change
+this policy from time to time, so please be sure to check back periodically. [CLS] [SEP]
+we will post any changes to this policy on our services. [CLS] [SEP] if we make any
+changes to this policy that materially affect our practices with regard to the
+personal information we have previously collected from you, we will endeavor
+to provide you with notice in advance of such change, such as by highlighting
+the change on website or sending you an email, and giving you additional
+choices regarding such change prior to the material change becoming effective. [CLS] [SEP]
+
+**15\. [CLS] [SEP] additional information for users in certain jurisdictions**
+
+**a. [CLS] [SEP] california residents**  
+below, we provide information, as required under california privacy laws,
+including the california consumer privacy act (" **ccpa** "), which requires
+that we provide california residents certain specific information about how we
+handle their personal information, whether collected online or offline. [CLS] [SEP] this
+section does not address or apply to our handling of publicly available
+information made lawfully available by state or federal governments or other
+personal information that is subject to an exemption under the ccpa. [CLS] [SEP]
+
+**categories of personal information we collect and disclose**. [CLS] [SEP] our
+collection, use and disclosure of personal information about a california
+resident will vary depending upon the circumstances and nature of our
+interactions or relationship with such resident. [CLS] [SEP] the table below sets out
+generally the categories of personal information (as defined by the ccpa)
+about california residents that we collect, sell, and disclose to others for a
+business purpose. [CLS] [SEP] we collect these categories of personal information from the
+following sources, for the purposes described above, in section 3. [CLS] [SEP] purposes of
+use purposes of use and legal bases for processing of personal information,
+and share it as described above, in section 4. [CLS] [SEP] disclosure and sharing of
+personal information:
+
+  * our affiliates and subsidiaries
+  * third-party platforms
+  * third-party sites and services
+  * ad networks
+  * analytics providers
+  * social networks
+  * internet service providers
+  * operating systems and platforms
+  * our vendors and service providers
+
+personal information collected
+
+|
+
+may we disclose this information?
+
+|
+
+categories of third parties to whom we may disclose this information  
+  
+---|---|---  
+  
+categories
+
+|
+
+description  
+  
+_identifiers_
+
+|
+
+includes direct identifiers such as name, username and alias; email, billing
+address, other contact information; uid, buid, device id, ip address, third
+party platform identifiers and account details (e.g., playstation®, xbox,
+steam, facebook), and other online or unique identifiers. [CLS] [SEP]
+
+|
+
+yes
+
+|
+
+  * vendors and service providers
+  * advisors and agents
+  * government entities and law enforcement
+  * affiliates and subsidiaries
+  * advertising networks
+  * data analytics providers
+  * social networks
+  * internet service providers
+  * operating systems and platforms
+
+  
+  
+_customer records_
+
+|
+
+includes your account and profile information and customer records that
+contain personal information, such as username, name, demographics and other
+characteristics or descriptions, email, address, telephone number, and other
+contact information, account credentials, communications preferences, billing
+and payment information, customer service and support tickets and records),
+and other information individuals provide us in order to register for, access
+or purchase our services
+
+|
+
+yes
+
+|
+
+  * vendors and service providers
+  * advisors and agents
+  * government entities and law enforcement
+  * affiliates and subsidiaries
+  * internet service providers
+  * operating systems and platforms
+
+  
+  
+_commercial information_
+
+|
+
+includes records of personal property, products or services purchased,
+obtained, or considered, or other purchasing or use histories or tendencies,
+such as information about your subscriptions and current and past payments and
+purchases, games you play or are interested in, and your purchase tendencies. [CLS] [SEP]
+
+|
+
+yes
+
+|
+
+  * vendors and service providers
+  * advisors and agents
+  * government entities and law enforcement
+  * affiliates and subsidiaries
+  * advertising networks
+  * data analytics providers
+  * social networks
+  * internet service providers
+  * operating systems and platforms
+
+  
+  
+_usage data_
+
+|
+
+includes browsing history, clickstream data, search history, access logs,
+information regarding your interactions with our websites, mobile apps and
+other services and our marketing emails and online ads, and other and other
+usage data related to your use of the services, such as language and
+preferences, in-game purchases, game-play statistics, scores, persona,
+characters, achievements, rankings, time spent playing, click paths, game
+profile, preferences and friends, as well as your comments, posts and
+interactions in forums and communities. [CLS] [SEP]
+
+|
+
+yes
+
+|
+
+  * vendors and service providers
+  * advisors and agents
+  * government entities and law enforcement
+  * affiliates and subsidiaries
+  * advertising networks
+  * data analytics providers
+  * social networks
+  * internet service providers
+  * operating systems and platforms
+
+  
+  
+_geolocation data_
+
+|
+
+includes precise location information about a particular individual or device,
+such as device location information for mobile games users. [CLS] [SEP]
+
+|
+
+yes
+
+|
+
+  * vendors and service providers
+  * advisors and agents
+  * government entities and law enforcement
+  * affiliates and subsidiaries
+  * advertising networks
+  * data analytics providers
+
+  
+  
+_audio,video and electronic data_
+
+|
+
+includes audio, electronic, visual, thermal, or similar information,
+photographs and images (e.g., that you provide us or post to your profile),
+call recordings (e.g., of customer support calls), and user photos submitted
+(such as profile images)
+
+|
+
+yes
+
+|
+
+  * vendors and service providers
+  * advisors and agents
+  * government entities and law enforcement
+  * affiliates and subsidiaries
+  * advertising networks
+  * data analytics providers
+  * social networks
+  * internet service providers
+  * operating systems and platforms
+  * business customer/client
+
+  
+  
+_inferences_
+
+|
+
+includes inferences drawn from other personal information that we collect to
+create a profile based on your account and activities, that reflect your
+preferences, characteristics, behavior, attitude and abilities related to the
+services. [CLS] [SEP]
+
+|
+
+yes
+
+|
+
+  * vendors and service providers
+  * advisors and agents
+  * government entities and law enforcement
+  * affiliates and subsidiaries
+  * advertising networks
+
+  
+  
+**do we "sell" personal information?** the ccpa defines a "sale" as disclosing
+or making available to a third party personal information in exchange for
+monetary or other valuable consideration. [CLS] [SEP] while we do not disclose personal
+information to third parties in exchange for monetary compensation from such
+third parties, we do disclose or make available certain categories of personal
+information to third parties in order to receive certain services or benefits
+from them, such as when we make browsing history available to third-party ad
+companies (through third-party tags on our sites and apps) in order to improve
+and measure our ad campaigns and reach users with more relevant ads and
+content. [CLS] [SEP] as defined by the ccpa, we may "sell" identifiers and usage data to
+third-party advertising networks, analytics providers, and social networks. [CLS] [SEP]
+
+**california residents' rights**. [CLS] [SEP] california law grants california residents
+certain rights and imposes restrictions on particular business practices as
+set forth below. [CLS] [SEP]
+
+**do-not-sell**. [CLS] [SEP] california residents have the right to opt-out of our sale of
+their personal information. [CLS] [SEP] we do not sell personal information about
+residents who we know are younger than 16 years old. [CLS] [SEP] as noted above, you may
+opt out of "sales" (via third-party cookies) on our websites and online games
+here:
+
+cookie settings
+
+you can opt-out in our mobile games by adjusting your ios or android device
+privacy settings, as explained above, in section 6. [CLS] [SEP] interest-based
+advertising. [CLS] [SEP] in certain of our mobile games you may also opt-out through the
+in-app settings (accessible from the main menu) for that game. [CLS] [SEP]
+
+**requests to delete**. [CLS] [SEP] subject to certain exceptions, california residents
+have the right to, at no charge, request deletion of their personal
+information that we have collected about them and to have such personal
+information deleted, except where an exemption applies. [CLS] [SEP]
+
+**request to know**. [CLS] [SEP] california residents have the right to request and,
+subject to certain exemptions, receive a copy of the specific pieces of
+personal information that we have collected about them in the prior 12 months
+and to have this delivered, free of charge, either (a) by mail or (b)
+electronically in a portable and, to the extent technically feasible, readily
+useable format that allows the individual to transmit this information to
+another entity without hindrance. [CLS] [SEP] california residents also have the right to
+request that we provide them certain information about how we have handled
+their personal information in the prior 12 months, including the:
+
+  * categories of personal information collected;
+  * categories of sources of personal information;
+  * business and/or commercial purposes for collecting and selling their personal information;
+  * categories of third parties/with whom we have disclosed or shared their personal information;
+  * categories of personal information that we have disclosed or shared with a third party for a business purpose; and
+  * categories of third parties to whom the residents' personal information has been sold and the specific categories of personal information sold to each category of third party. [CLS] [SEP]
+
+california residents may make a request to know up to twice every 12 months. [CLS] [SEP]
+
+**submitting requests to know and delete**. [CLS] [SEP] requests to know and requests to
+delete may be submitted online or by email:
+
+  * bethesda users: [https://help.bethesda.net/app/incident10/?prod=711&cat=1220](https://help.bethesda.net/app/incident10/?prod=711&cat=1220)
+  * elder scrolls online: <https://help.elderscrollsonline.com/app/incident/?category=1220>
+  * email: [[email protected]](/cdn-cgi/l/email-protection#1262607b6473716b52616762627d60663c68777c7b7f736a3c717d7f)
+
+when you submit a request to know or a request to delete, we will take steps
+to verify your request by matching the information provided by you with the
+information we have in our records. [CLS] [SEP] you must complete all required fields on
+our webform (or otherwise provide us with this information via the above email
+address) and verify your access to the registered email address for your
+account, in order to verify your request. [CLS] [SEP] in some cases, we may request
+additional information in order to verify your request or where necessary to
+process your request. [CLS] [SEP] if we are unable to adequately verify a request, we will
+notify the requestor. [CLS] [SEP] authorized agents may initiate a request on behalf of
+another individual by contacting us in writing at the contact information set
+forth above, in section 13. [CLS] [SEP] contact details; authorized agents will be
+required to provide proof of their authorization and we may also require that
+the relevant consumer directly verify their identity and the authority of the
+authorized agent. [CLS] [SEP] we will respond to verifiable requests received from
+california residents as required by law. [CLS] [SEP]
+
+**right to non-discrimination**. [CLS] [SEP] the ccpa prohibits discrimination against
+california residents for exercising their rights under the ccpa. [CLS] [SEP]
+discrimination may exist where a business denies or provides a different level
+or quality of goods or services, or charges (or suggests that it will charge)
+different prices, rates, or penalties on residents who exercise their ccpa
+rights, unless doing so is reasonably related to the value provided to the
+business by the residents' data. [CLS] [SEP]
+
+**financial incentives**. [CLS] [SEP] california residents have the right to be notified
+of any financial incentives offers and their material terms, the right to opt-
+out of such incentives at any time and may not be included in such incentives
+without their prior informed opt-in consent. [CLS] [SEP] where we offer any financial
+incentives under the ccpa, we will notify you in advance of the material terms
+of such incentives and your related rights, before we obtain your consent to
+such incentives. [CLS] [SEP]
+
+**your rights under california's shine-the-light law**. [CLS] [SEP] we do not share
+personal information collected online with unaffiliated third parties for
+their own direct marketing purposes and will not do so unless you agree to
+such disclosure. [CLS] [SEP] if you are a california resident and you still believe your
+information has been shared or you have general questions about how your
+information may have been shared, you may contact us by requesting a list of
+the third parties to which we have disclosed personally identifiable
+information about you for their own direct marketing purposes. [CLS] [SEP] you may make
+one request per year. [CLS] [SEP] in your request, please attest to the fact that you are
+a california resident and provide a current california address for your
+response. [CLS] [SEP] you may request this information in writing by contacting us via the
+contact details set out in section 13. [CLS] [SEP] contact details above. [CLS] [SEP]
+
+**for more information about our privacy practices, you may contact us as set
+forth above, in section 13. [CLS] [SEP] contact details.**
+
+**b. [CLS] [SEP] eea (gdpr), uk and brazil**
+
+subject to the conditions set out in the applicable law, users in in the
+european union/european economic area, united kingdom and brazil ( as well as
+in other jurisdictions where similar rights apply) have the following rights
+regards our processing of their personal information:
+
+  * _right of access_ : if you ask us, we will confirm whether we are processing your personal information and, if necessary, provide you with a copy of that personal information (along with certain other details). [CLS] [SEP]
+  * _right to correction (rectification)_ : if the personal information we hold about you is inaccurate or incomplete, you are entitled to request to have it corrected. [CLS] [SEP] if you are entitled to have information corrected and if we have shared your personal information with others, we will let them know about the rectification where possible. [CLS] [SEP]
+  * _right to erasure_ : you can ask us to delete your personal information in some circumstances, such as where we no longer need it or if you withdraw your consent (where applicable). [CLS] [SEP] if you request that we delete your personal information, we may do so by deleting your account(s) with us. [CLS] [SEP] brazilian users may also request the anonymization, blocking or erasure of: unnecessary or excessive personal information, or personal information processed in violation of the lgpd. [CLS] [SEP]
+  * _right to restrict (block) processing_ : you can ask us to restrict the processing of your personal information in certain circumstances, such as where you contest the accuracy of that personal information or you object to our use or stated legal basis. [CLS] [SEP]
+  * _right to data portability_ : you have the right, in certain circumstances, to receive a copy of personal information we have obtained from you in a structured, commonly used and machine readable format, and to reuse it elsewhere or to ask us to transfer this to a third party of your choice. [CLS] [SEP]
+  * **_right to object_ : where our processing is on the basis of our legitimate interests (other than marketing purposes), we must stop such processing unless we have compelling legitimate grounds that override your interest or where we need to process it for the establishment, exercise or defense of legal claims.** where we are relying on our legitimate interests (other than marketing), we believe that we have a compelling interest in such processing, but we will individually review each request and related circumstances. [CLS] [SEP]
+  * **_right to object to marketing_ : you can ask us to stop processing your personal information to the extent we do so on the basis of our legitimate interests for marketing purposes. [CLS] [SEP] if you do so, we will stop such processing for our marketing purposes.**
+  * _right not to be subject to automated decision-making_ : you have the right not to be subject to a decision when it is based on automatic processing if it produces a legal effect or similarly significantly affects you, unless it is necessary for entering into or performing a contract between us. [CLS] [SEP] zenimax does not engage in automated decision-making. [CLS] [SEP] brazilian users may also request the revision of any decision made solely on the basis of automatic processing, to the extent such decision affects your interests and applies to our services. [CLS] [SEP]
+  * _right to withdraw your consent_ : in the event your personal information is processed on the basis of your consent, you have the right to withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal. [CLS] [SEP] brazilian users also have the right to be informed about the consequences of denying or withdrawing consent. [CLS] [SEP]
+  * _right to lodge a complaint_ : you also have the right to lodge a complaint with a supervisory authority if you consider that our processing of your personal information infringes the law. [CLS] [SEP]
+
+please note that some of these rights may be limited, such as where we have an
+overriding interest or legal obligation to continue to process the data. [CLS] [SEP]
+please contact us using the information set out above, in section 13. [CLS] [SEP] contact
+details, if you wish to exercise any of your rights or if you have any
+enquiries or complaints regarding the processing of your personal information
+by us. [CLS] [SEP]
+
+  * [privacy policy ![](/assets/images/new/new_text_en_on.png)](/legal_privacy)
+  * [terms of service ![](https://cdnstatic.bethsoft.com/zenimax.com/legal/new_text_en.png)](/legal_terms)
+  * [legal information](/legal_information)
+  * [code of conduct](/code_of_conduct)
+  * [cookie policy](/cookie_policy)
+  * do not sell my information
+  * [u.k. [CLS] [SEP] modern slavery act statement](/assets/docs/zel_modern_slavery_act_statement_2020.pdf)
+  * [contact](/more)
+
+(c) 2021 zenimax media inc. [CLS] [SEP] trademarks belong to their respective owners. [CLS] [SEP] all
+rights reserved. [CLS] [SEP]
+
+* * *
+
+  
+
+  * [![](/assets/images/esrb_rp-m.gif)](https://www.esrb.org/ratings/ratings_guide_print.jsp)
+  * [ ![esrb privacy certified member confirmation](//esrbstorage.blob.core.windows.net/esrbcontent/images/privacy_certified_globe_color.gif) ](//www.esrb.org/confirm/zenimax-confirmation.aspx "esrb privacy certified member confirmation")
+

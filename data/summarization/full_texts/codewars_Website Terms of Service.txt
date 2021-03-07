@@ -1,0 +1,304 @@
+ __
+
+  * [![](/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png)sign up](https://www.codewars.com/)
+  * [ __kata](/kata/latest)
+  * [ __kumite](/kumite)
+  * [ blog](https://blog.codewars.com "the codewars blog")
+  * [ __forum](/topics)
+  * [ __wiki](https://github.com/codewars/codewars.com/wiki "the codewars wiki")
+
+  * [ __leaders](/users/leaderboard "leaders")
+
+  *   * [log in](/users/sign_in)
+  * [sign up](/)
+
+### website terms of service
+
+###### last updated oct, 2018
+
+##### a note to the community
+
+the codewars platform has been created to further skill mastery through
+challenge and community support. [CLS] [SEP] in solving, improving, and authoring kata
+challenges, you are contributing to a collective resource that benefits the
+entire community – thank you. [CLS] [SEP] to promote collaboration and create a living
+resource, all kata solutions are actively opensourced under the freebsd
+2-clause license. [CLS] [SEP] all authored kata remain the ip of authors and contributors,
+with a license granted to codewars, to maintain and advance the resource. [CLS] [SEP] if
+you have any questions, please [contact us](mailto:info@codewars.com). [CLS] [SEP]
+
+##### terms of service
+
+the online service codewars (“website”) is provided by qualified inc. [CLS] [SEP]
+(“qualified”). [CLS] [SEP] the following terms and conditions govern all use of the
+website and all content, services and products available at or through the
+website. [CLS] [SEP] the website is owned and operated by qualified inc. [CLS] [SEP] the website is
+offered subject to your acceptance without modification of all of the terms
+and conditions contained herein and all other operating rules, policies
+(including, without limitation, qualified’s [privacy
+policy](https://www.codewars.com/about/privacy)) and procedures that may be
+published from time to time on this site (collectively, the agreement). [CLS] [SEP]
+
+please read this agreement carefully before accessing or using the website. [CLS] [SEP] by
+accessing or using any part of the web site, you agree to become bound by the
+terms and conditions of this agreement. [CLS] [SEP] if you do not agree to all the terms
+and conditions of this agreement, then you may not access the website or use
+any services. [CLS] [SEP] if these terms and conditions are considered an offer by
+qualified, acceptance is expressly limited to these terms. [CLS] [SEP] the website is
+available only to individuals who are at least 13 years old. [CLS] [SEP]
+
+##### your codewars account and site
+
+if you create an account on the website, you are responsible for maintaining
+the security of your account and its content, and you are fully responsible
+for all activities that occur under the account and any other actions taken in
+connection with the account. [CLS] [SEP] you must immediately notify qualified of any
+unauthorized uses of your account or any other breaches of security. [CLS] [SEP] qualified
+will not be liable for any acts or omissions by you, including any damages of
+any kind incurred as a result of such acts or omissions. [CLS] [SEP]
+
+##### open-source content
+
+in submitting content in the form of kata solutions and comments, you license
+the content under the freebsd 2-clause license:
+
+copyright (c) <year of submission>, <username> all rights reserved. [CLS] [SEP]
+redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:  
+  
+1\. [CLS] [SEP] redistributions of source code must retain the above copyright notice,
+this list of conditions and the following disclaimer. [CLS] [SEP]  
+  
+2\. [CLS] [SEP] redistributions in binary form must reproduce the above copyright notice,
+this list of conditions and the following disclaimer in the documentation
+and/or other materials provided with the distribution. [CLS] [SEP]  
+  
+this software is provided by the copyright holders and contributors "as is"
+and any express or implied warranties, including, but not limited to, the
+implied warranties of merchantability and fitness for a particular purpose are
+disclaimed. [CLS] [SEP] in no event shall the copyright owner or contributors be liable
+for any direct, indirect, incidental, special, exemplary, or consequential
+damages (including, but not limited to, procurement of substitute goods or
+services; loss of use, data, or profits; or business interruption) however
+caused and on any theory of liability, whether in contract, strict liability,
+or tort (including negligence or otherwise) arising in any way out of the use
+of this software, even if advised of the possibility of such damage. [CLS] [SEP] the views
+and conclusions contained in the software and documentation are those of the
+authors and should not be interpreted as representing official policies,
+either expressed or implied, of the freebsd project. [CLS] [SEP]
+
+##### submitted content
+
+in submitting content, including authored kata, you agree to allow others to
+view, fork and edit your content. [CLS] [SEP] for submitted content, including authored
+kata, kata solutions, and comments, you grant qualified the perpetual,
+worldwide, non-exclusive, nocharge, royalty-free, irrevocable copyright
+license to reproduce, prepare derivative works of, publicly display, publicly
+perform, sublicense, and distribute the work and such derivative works in
+source or object form, with or without modification (“content license”). [CLS] [SEP] you
+warrant, represent and agree you have the right to grant qualified and the
+website the rights set forth above. [CLS] [SEP] you represent, warrant and agree that you
+will not contribute any content that (a) infringes, violates or otherwise
+interferes with any copyright or trademark of another party, (b) reveals any
+trade secret, unless you own the trade secret or have the owner’s permission
+to post it, (c) infringes any intellectual property right of another or the
+privacy or publicity rights of another, (d) violates any law or right of any
+third party, (e) is intended to damage, detrimentally interfere with,
+surreptitiously intercept or expropriate any system, data or information. [CLS] [SEP]
+
+##### content removal
+
+without limiting any of those representations or warranties, qualified has the
+right (though not the obligation) to, in qualified’s sole discretion (i)
+refuse or remove any content that, in qualified’s reasonable opinion, violates
+any qualified policy or is in any way harmful or objectionable, or (ii)
+terminate or deny access to and use of the website to any individual or entity
+for any reason, in qualified’s sole discretion. [CLS] [SEP] qualified will have no
+obligation to provide a refund of any amounts previously paid. [CLS] [SEP]
+
+##### responsibility of website visitors. [CLS] [SEP]
+
+qualified has not reviewed, and cannot review, all of the material posted to
+the website, and cannot therefore be responsible for that materials' content,
+use or effects. [CLS] [SEP] by operating the website, qualified does not represent or
+imply that it endorses the material there posted, or that it believes such
+material to be accurate, useful or nonharmful. [CLS] [SEP] you are responsible for taking
+precautions as necessary to protect yourself and your computer systems. [CLS] [SEP] the
+website may contain content that is offensive, indecent, or otherwise
+objectionable, as well as content containing technical inaccuracies,
+typographical mistakes, and other errors. [CLS] [SEP] the website may also contain
+material that violates the privacy or publicity rights, or infringes the
+intellectual property and other proprietary rights, of third parties, or the
+downloading, copying or use of which is subject to additional terms and
+conditions, stated or unstated. [CLS] [SEP] qualified disclaims any responsibility for any
+harm resulting from the use by visitors of the website, or from any
+downloading by those visitors of content there posted. [CLS] [SEP]
+
+##### intellectual property. [CLS] [SEP]
+
+this agreement does not transfer from qualified to you any codewars or third
+party intellectual property, and all right, title and interest in and to such
+property will remain (as between the parties) solely with qualified. [CLS] [SEP] codewars,
+the codewars logo, and all other trademarks, service marks, graphics and logos
+used in connection with qualified, or the website are trademarks or registered
+trademarks of qualified or qualified's licensors. [CLS] [SEP] other trademarks, service
+marks, graphics and logos used in connection with the website may be the
+trademarks of other third parties. [CLS] [SEP] your use of the website grants you no right
+or license to reproduce or otherwise use any codewars or third-party
+trademarks. [CLS] [SEP]
+
+##### changes. [CLS] [SEP]
+
+qualified reserves the right, at its sole discretion, to modify or replace any
+part of this agreement. [CLS] [SEP] it is your responsibility to check this agreement
+periodically for changes. [CLS] [SEP] your continued use of or access to the website
+following the posting of any changes to this agreement constitutes acceptance
+of those changes. [CLS] [SEP] qualified may also, in the future, offer new services and/or
+features through the website (including, the release of new tools and
+resources). [CLS] [SEP] such new features and/or services shall be subject to the terms
+and conditions of this agreement. [CLS] [SEP]
+
+##### termination. [CLS] [SEP]
+
+qualified may terminate your access to all or any part of the website at any
+time, with or without cause, with or without notice, effective immediately. [CLS] [SEP] if
+you wish to terminate this agreement or your codewars account (if you have
+one), you may simply discontinue using the website. [CLS] [SEP] all provisions of this
+agreement which by their nature should survive termination shall survive
+termination, including, without limitation, ownership provisions, warranty
+disclaimers, indemnity and limitations of liability. [CLS] [SEP]
+
+##### disclaimer of warranties. [CLS] [SEP]
+
+the website is provided “as is”. [CLS] [SEP] qualified and its suppliers and licensors
+hereby disclaim all warranties of any kind, express or implied, including,
+without limitation, the warranties of merchantability, fitness for a
+particular purpose and non-infringement. [CLS] [SEP] neither qualified nor its suppliers
+and licensors, makes any warranty that the website will be error free or that
+access thereto will be continuous or uninterrupted. [CLS] [SEP] you understand that you
+download from, or otherwise obtain content or services through, the website at
+your own discretion and risk. [CLS] [SEP]
+
+##### limitation of liability. [CLS] [SEP]
+
+in no event will qualified, or its suppliers or licensors, be liable with
+respect to any subject matter of this agreement under any contract,
+negligence, strict liability or other legal or equitable theory for: (i) any
+special, incidental or consequential damages; (ii) the cost of procurement or
+substitute products or services; (iii) for interuption of use or loss or
+corruption of data; or (iv) for any amounts that exceed the fees paid by you
+to qualified under this agreement during the twelve (12) month period prior to
+the cause of action. [CLS] [SEP] qualified shall have no liability for any failure or
+delay due to matters beyond their reasonable control. [CLS] [SEP] the foregoing shall not
+apply to the extent prohibited by applicable law. [CLS] [SEP]
+
+##### general representation and warranty. [CLS] [SEP]
+
+you represent and warrant that (i) your use of the website will be in strict
+accordance with the codewars privacy policy, with this agreement and with all
+applicable laws and regulations (including without limitation any local laws
+or regulations in your country, state, city, or other governmental area,
+regarding online conduct and acceptable content, and including all applicable
+laws regarding the transmission of technical data exported from the united
+states or the country in which you reside) and (ii) your use of the website
+will not infringe or misappropriate the intellectual property rights of any
+third party. [CLS] [SEP]
+
+##### indemnification. [CLS] [SEP]
+
+you agree to indemnify and hold harmless qualified, its contractors, and its
+licensors, and their respective directors, officers, employees and agents from
+and against any and all claims and expenses, including attorneys fees, arising
+out of your use of the website, including but not limited to your violation of
+this agreement. [CLS] [SEP]
+
+##### miscellaneous. [CLS] [SEP]
+
+this agreement constitutes the entire agreement between qualified and you
+concerning the subject matter hereof, and they may only be modified by a
+written amendment signed by an authorized executive of qualified, or by the
+posting by qualified of a revised version. [CLS] [SEP] except to the extent applicable
+law, if any, provides otherwise, this agreement, any access to or use of the
+website will be governed by the laws of the state of california, u.s.a. [CLS] [SEP]
+
+##### copyright infringement. [CLS] [SEP]
+
+as qualified asks others to respect its intellectual property rights, it
+respects the intellectual property rights of others. [CLS] [SEP] if you believe that
+material located on or linked to by qualified violates your copyright, you are
+encouraged to notify qualified. [CLS] [SEP] qualified will respond to all such notices,
+including as required or appropriate by removing the infringing material or
+disabling all links to the infringing material. [CLS] [SEP] in the case of a visitor who
+may infringe or repeatedly infringes the copyrights or other intellectual
+property rights of qualified or others, qualified may, in its discretion,
+terminate or deny access to and use of the website. [CLS] [SEP] in the case of such
+termination, qualified will have no obligation to provide a refund of any
+amounts previously paid to qualified. [CLS] [SEP] the form of notice set forth below is
+consistent with the form suggested by the united states digital millennium
+copyright act ("dmca") which may be found at the u.s. [CLS] [SEP] copyright official
+website: http://www.copyright.gov. [CLS] [SEP]
+
+to expedite qualified’s handling of your notice, please use the following
+format or refer to section 512(c)(3) of the copyright act. [CLS] [SEP]  
+  
+1\. [CLS] [SEP] identify in sufficient detail the copyrighted work you believe has been
+infringed upon. [CLS] [SEP] this includes identification of the web page or specific
+posts, as opposed to entire sites. [CLS] [SEP] posts must be referenced by either the
+dates in which they appear or by the permalink of the post. [CLS] [SEP] include the url to
+the concerned material infringing your copyright (url of a website or url to a
+post, with title, date, name of the emitter), or link to initial post with
+sufficient data to find it. [CLS] [SEP]  
+  
+2\. [CLS] [SEP] identify the material that you allege is infringing upon the copyrighted
+work listed in item #1 above. [CLS] [SEP] include the name of the concerned litigious
+material (all images or posts if relevant) with its complete reference. [CLS] [SEP]  
+  
+3\. [CLS] [SEP] provide information on which qualified may contact you, including your
+email address, name, telephone number and physical address. [CLS] [SEP]  
+  
+4\. [CLS] [SEP] provide the address, if available, to allow qualified to notify the owner/
+administrator of the allegedly infringing webpage or other content, including
+email address. [CLS] [SEP]  
+  
+5\. [CLS] [SEP] also include a statement of the following: “i have a good faith belief
+that use of the copyrighted materials described above on the infringing web
+pages is not authorized by the copyright owner, or its agent, or the law.”  
+  
+6\. [CLS] [SEP] also include the following statement: “i swear, under penalty of perjury,
+that the information in this notification is accurate and that i am the
+copyright owner, or am authorized to act on behalf of the owner, of an
+exclusive right that is allegedly infringed.”  
+  
+7\. [CLS] [SEP] your physical or electronic signature  
+  
+send the written notification via regular postal mail to the following:  
+  
+qualified inc. [CLS] [SEP]  
+attn: dmca takedown  
+559 s saliman rd unit 101  
+carson city, nv 89701  
+  
+or email notification to info@codewars.com. [CLS] [SEP]
+
+for the fastest response, please send a plain text email. [CLS] [SEP] written notification
+and emails with pdf file or image attachments may delay processing of your
+request. [CLS] [SEP]
+
+  
+
+  * (c) 2021 codewars
+  * [about](/about)
+  * [api](https://dev.codewars.com)
+  * [blog](https://blog.codewars.com)
+  * [privacy](/about/privacy)
+  * [terms](/about/terms-of-service)
+  * [contact](mailto:info@codewars.com)
+  * [powered by![](/assets/logos/qualified-black-b052752a4beaf94810c9d982f495680e2a9eb207824764ef98240ccef15cfbb1.svg)![](/assets/logos/qualified-white-7cba1bde874154ee4f39d50aebd5b7e435f5b21af9884b236a60d9015039e7f0.svg)](https://www.qualified.io?utm_source=codewars&utm_medium=web&utm_term=footer)
+
+ __
+
+#### confirm
+
+  * cancel
+  *   *  __confirm
+

@@ -1,0 +1,636 @@
+[ ](/)
+
+#####  [ legal ](/legal)
+
+jump to main content
+
+  * enterprise
+  * developer
+  * community
+  * download
+
+  * [openstack](/openstack)
+  * [kubernetes](/kubernetes)
+  * [desktop](/desktop)
+  * [iot](/internet-of-things)
+  * [support](/support)
+  * [downloads](/download)
+
+_clear_ _search_
+
+[
+
+#####  legal
+
+](/legal)
+
+  * [data privacy](/legal/data-privacy)
+  * › 
+  * [ data protection enquiry ](/legal/data-privacy/enquiry)
+
+# data privacy
+
+canonical collects personal information from you in a number of different
+ways. [CLS] [SEP] for example, when you download one of our products, receive services
+from us or use one of our websites (including
+[www.canonical.com](https://www.canonical.com) and
+[www.ubuntu.com](https://www.ubuntu.com)). [CLS] [SEP]
+
+[full list of websites ›](/legal/websites)
+
+at canonical, we consider your privacy to be extremely important to us. [CLS] [SEP] these
+are the fundamental principles that we follow in relation to your personal
+information:
+
+  * we don't ask you for personal information unless we truly need it. [CLS] [SEP]
+  * we don't share your personal information with anyone except to provide you with services, products, to comply with the law, or to protect our rights. [CLS] [SEP]
+  * we don't store personal information unless required for the on-going operation of services to you, to provide you with products, to comply with law or to protect our rights. [CLS] [SEP]
+  * we will use personal information that you provide to us in accordance with this privacy policy. [CLS] [SEP]
+
+canonical group limited ( **"we"** , **"us"** and **"our"** ) are committed to
+protecting and respecting your privacy. [CLS] [SEP] information collected for or on behalf
+of the canonical group of companies will be the responsibility of canonical
+group limited. [CLS] [SEP]
+
+[full list of canonical contracting entities ›](/legal/companies)
+
+this policy (together with our [terms of use](/legal/terms) and any other
+documents referred to on it) sets out the basis on which any personal data we
+collect from you, or that you provide to us, will be processed by us. [CLS] [SEP] please
+read the following carefully to understand our views and practices regarding
+your personal data and how we will treat it. [CLS] [SEP] by visiting a canonical website
+you are accepting and consenting to the practices described in this policy. [CLS] [SEP]
+
+for the purpose of applicable data protection legislation, the data controller
+is canonical group limited (06870835) of 5th floor, blue fin building, 110
+southwark street, london se1 0su. [CLS] [SEP]
+
+our nominated representative for all data privacy matters is mrs katherine
+ollerhead, director of legal, canonical group limited. [CLS] [SEP]
+
+## privacy notices
+
+specific details about personal data collection can be found in the relevant
+privacy notice:
+
+  * [newsletter privacy notice ›](/legal/data-privacy/newsletter)
+  * [webinar privacy notice ›](/legal/data-privacy/webinar)
+  * [online purchase privacy notice ›](/legal/data-privacy/online-purchase)
+  * [snap store privacy notice ›](/legal/data-privacy/snap-store)
+  * [snapcraft nps privacy notice ›](/legal/data-privacy/snapcraft-nps)
+  * [contact us and enquiries privacy notice ›](/legal/data-privacy/contact)
+  * [single sign on privacy notice ›](/legal/data-privacy/sso)
+  * [partner portal privacy notice ›](/legal/data-privacy/partner-portal)
+  * [esxi privacy notice ›](/legal/data-privacy/esxi)
+  * [survey privacy notice ›](/legal/data-privacy/survey)
+  * [events privacy notice ›](/legal/data-privacy/events)
+  * [online competitions privacy notice ›](/legal/data-privacy/online-competitions)
+  * [confidentiality agreement privacy notice ›](/legal/data-privacy/unilateral-nda)
+  * [cube beta privacy notice ›](/legal/data-privacy/cube-beta)
+
+## information we collect from you
+
+  * **information you give us**. [CLS] [SEP] this is information about you that you give us by filling in forms on a canonical website or by corresponding with us by phone, e-mail or otherwise. [CLS] [SEP] it includes information you provide when you register to use our site, your login information where provided on a site or make a purchase on our site. [CLS] [SEP] it may include the following: first name, last name; company name; company size; industry; job title; level; phone number; email address; state or province and country. [CLS] [SEP]
+  * **information about your visit**. [CLS] [SEP] this information includes the full uniform resource locators (url), clickstream to, through and from our site (including date and time, timezone, your geolocation), items you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page. [CLS] [SEP]
+  * **information we receive from other sources**. [CLS] [SEP] this is information we receive about you if you use any of the other websites we operate or the other services we provide. [CLS] [SEP] in this case we will have informed you when we collected that data (through a privacy notice) if we intend to share those data internally and combine it with data collected on this site. [CLS] [SEP] we will also have told you for what purpose we will share and combine your data. [CLS] [SEP] we are working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies). [CLS] [SEP] we may notify you when we receive information about you from them and the purposes for which we intend to use that information. [CLS] [SEP]
+
+## how information is collected from you
+
+we may collect this information through the following routes:
+
+### websites
+
+when you register to use certain parts of our websites, such as wikis,
+webinars or message boards, or register for free accounts, we may ask for
+personal information such as your full name, email address and a password. [CLS] [SEP]
+please see the privacy notice on collection for further details of how we will
+use your personal data. [CLS] [SEP]
+
+### chat rooms, forums and newsgroups
+
+these are available to our community. [CLS] [SEP] any information that you disclose in
+these areas becomes public information and may be recorded, archived and
+republished by anyone. [CLS] [SEP] please exercise caution when deciding to disclose any
+personal information in such areas. [CLS] [SEP]
+
+### canonical products
+
+when you register for services or purchase any product from canonical, we may
+ask for information such as your email address, billing address, and credit
+card information. [CLS] [SEP] credit card information is only used in processing your
+transaction. [CLS] [SEP] please note that we may use a third party payment processing
+merchant to process your payments. [CLS] [SEP] please see the terms and conditions of
+purchase and/or relevant privacy notice for further information. [CLS] [SEP]
+
+### webinars
+
+some webinars are directly hosted by canonical on our sites. [CLS] [SEP] where a webinar
+is operated by a third-party provider, you will be directed to a third-party
+website and the third-party provider may collect information as part of the
+webinar registration process. [CLS] [SEP] this data will be collected in accordance with
+the third-party provider's terms and conditions. [CLS] [SEP] please see "links and third-
+party content" in the terms and conditions for further details. [CLS] [SEP]
+
+### non-personally identifying information
+
+canonical may collect non-personally-identifying information of the sort that
+web browsers and servers typically make available, such as the browser type,
+referring site, and the date and time of each visitor request. [CLS] [SEP] our purpose in
+collecting non-personally identifying information is to better understand how
+visitors use our websites and services. [CLS] [SEP] for further information about how we
+use cookies, see the "cookie" section below. [CLS] [SEP]
+
+please note that canonical may also collect system information during
+installation of ubuntu and on first login to ubuntu. [CLS] [SEP] this system information
+is subject to a [legal notice](/legal/online-account-terms). [CLS] [SEP]
+
+### error reports
+
+when you chose to send an error report, it includes a unique identifier for
+your computer. [CLS] [SEP] this identifier does not identify you, unless you (or someone
+acting on your behalf) discloses it separately. [CLS] [SEP] an error report may include
+personal information such as the state of programs that were running at the
+time. [CLS] [SEP] you can block future error reports from the privacy panel of system
+settings or by deselecting the "enable google analytics in maas ui to shape
+improvements in user experience" box where applicable. [CLS] [SEP]
+
+### ubuntu online accounts
+
+when you use ubuntu online accounts, your personal information is stored on
+your pc and it can be accessed by some applications. [CLS] [SEP] further information can
+be found in a [legal notice](/legal/online-account-terms). [CLS] [SEP]
+
+### contacting us
+
+if you contact us and provide us with information, we may keep a record of
+that correspondence and information. [CLS] [SEP]
+
+## what do we do with your personal data
+
+we may use your information in the following ways:
+
+  * to authenticate access to certain features of our websites. [CLS] [SEP]
+  * to contact you to respond to enquiries or to provide notices to you regarding your use of our websites or the provision of our services. [CLS] [SEP]
+  * to provide services, products, process payment, and authenticate access (where required). [CLS] [SEP]
+  * to analyse the performance or the appropriateness of products or services. [CLS] [SEP]
+  * to comply with legal and regulatory requirements (including responding to court orders, subpoenas and to prevent crime). [CLS] [SEP] these special circumstances may require us to disclose personal information. [CLS] [SEP]
+  * to contact you if your actions violate your agreement with us (if any). [CLS] [SEP]
+  * to fix errors and analyse trends. [CLS] [SEP]
+  * to study how anonymous users interact with our websites and services. [CLS] [SEP]
+  * to market our products or services to you. [CLS] [SEP]
+
+unless you have notified us otherwise, canonical may occasionally send you
+email to tell you about new features, solicit feedback, or just to keep you up
+to date with what's going on. [CLS] [SEP] we may use various community websites (launchpad
+answers, ubuntu forums, blogs etc.) to communicate this type of information,
+so we expect to keep this type of information to a minimum. [CLS] [SEP] if you no longer
+wish to receive such communications from us, please follow the unsubscribe
+instructions provided in any of the communications, modify the communications
+preferences in your account or contact us using the contact details provided
+below. [CLS] [SEP]
+
+## what are your rights?
+
+you have the right to consent to our processing of personal data for marketing
+purposes and to ask us not to process your personal data for marketing
+purposes. [CLS] [SEP] we will usually inform you (before collecting your data) if we
+intend to use your data for such purposes or if we intend to disclose your
+information to any third party for such purposes. [CLS] [SEP] you can exercise your right
+to prevent such processing by checking certain boxes on the forms we use to
+collect your data. [CLS] [SEP]
+
+you can also exercise the right at any time by contacting us at
+[dataprotection@canonical.com](mailto:dataprotection@canonical.com) or by
+using the relevant [contact us](/contact-us) form. [CLS] [SEP]
+
+under the data protection legislation, you have the following rights. [CLS] [SEP] these
+consist of:
+
+  * the right to be informed
+  * the right of access
+  * the right to rectification
+  * the right to erasure
+  * the right to restrict processing
+  * the right to data portability
+  * the right to object
+  * rights in relation to automated decision making and profiling. [CLS] [SEP]
+
+each of these rights are supported by appropriate procedures within canonical
+which allow the required action to be taken within the timescales stated in
+the applicable data protection legislation. [CLS] [SEP]
+
+you can also ask us to stop using your information – the simplest way to do
+this is to withdraw your consent, which you can do at any time, either by
+clicking the unsubscribe link at the end of any newsletter, or by emailing,
+writing or telephoning us using the contact details above. [CLS] [SEP]
+
+we keep your order information for so long as reasonably required in
+accordance with our record retention policy. [CLS] [SEP] your personal information
+associated with the order will then be removed. [CLS] [SEP]
+
+our site may, from time to time, contain links to and from the websites of our
+partner networks, advertisers and affiliates. [CLS] [SEP] if you follow a link to any of
+these websites, please note that these websites have their own privacy
+policies and that we do not accept any responsibility or liability for these
+policies. [CLS] [SEP] please check these policies before you submit any personal data to
+these websites. [CLS] [SEP]
+
+these timescales are shown in table 1. [CLS] [SEP]
+
+data subject request | timescale  
+---|---  
+the right to be informed | when data is collected (if supplied by data
+subject) or within one month (if not supplied by data subject)  
+the right of access | one month  
+the right to rectification | one month  
+the right to erasure | without undue delay  
+the right to restrict processing | without undue delay  
+the right to data portability | one month  
+the right to object | on receipt of objection  
+rights in relation to automated decision making and profiling. [CLS] [SEP] | not specified  
+  
+## cookies
+
+our website uses cookies to distinguish you from other users of our website. [CLS] [SEP]
+this helps us to provide you with a good experience when you browse our
+website and also allows us to improve our site. [CLS] [SEP]
+
+### what is a cookie?
+
+a cookie is a small file of letters and numbers that we store on your browser
+or the hard drive of your computer if you agree. [CLS] [SEP] cookies contain information
+that is transferred to your computer's hard drive. [CLS] [SEP]
+
+we use the following cookies:
+
+  * **strictly necessary cookies**. [CLS] [SEP] these are cookies that are required for the operation of our website. [CLS] [SEP] they include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services. [CLS] [SEP]
+  * **analytical/performance cookies**. [CLS] [SEP] they allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. [CLS] [SEP] this helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. [CLS] [SEP]
+  * **functionality cookies**. [CLS] [SEP] these are used to recognise you when you return to our website. [CLS] [SEP] this enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region). [CLS] [SEP]
+  * **targeting cookies**. [CLS] [SEP] these cookies record your visit to our website, the pages you have visited and the links you have followed. [CLS] [SEP] we will use this information to make our website and the advertising displayed on it more relevant to your interests. [CLS] [SEP] we may also share this information with third parties for this purpose. [CLS] [SEP]
+
+you can find more information about the individual cookies we use and the
+purposes for which we use them in the table below:
+
+cookie | name | purpose  
+---|---|---  
+site cookie acceptance | `_cookies_accepted` | this cookie is used to record
+if a user has accepted the use of cookies on our website. [CLS] [SEP] to withdraw your
+consent after accepting this cookie, delete the `_cookies_accepted` cookie. [CLS] [SEP]  
+google tag manager with google analytics | `_utma`, `_utmb`, `_utmc`, `_utmz`,
+`_ga`, `_gid`, `_id_cpn`, `_id_eml`, `trwsa.sid`, `trwsb.cpv`, `trwsb.sid`,
+`trwsb.stu`, `trwv.crd`, `trwv.cvd`, `trwv.eml`, `trwv.lvd`, `trwv.uid`,
+`trwv.uid`, `waiting_in_queue`, `lc_window_state`, `_dc_gtm_ua-xxxxxxx-x`,
+`__lc.visitor_id.xxxxxxx` |
+
+google tag manager to set most of our trackers as well as google analytics. [CLS] [SEP]
+
+[google's privacy policy](https://policies.google.com/privacy?hl=en-gb&gl=uk)  
+  
+crazyegg | `_ceir`, `is_returning`, `_ceft`, `ceg.s`,`ceg.u` |
+
+crazyegg tracks javascript on some pages of our site to understand what links
+our visitors are clicking on. [CLS] [SEP] this helps us optimize our content for the best
+user experience. [CLS] [SEP] the crazyegg script may store a cookie on your computer. [CLS] [SEP] this
+cookie may contain a session id, a visitor id and a few other dynamically
+created parameters that allow crazyegg to track our site's traffic accurately. [CLS] [SEP]
+no personal information is stored within the cookie. [CLS] [SEP]
+
+[crazy egg's privacy policy](https://www.crazyegg.com/privacy)  
+  
+marketo munchkin | `_mkto_trk`, `bigipserversjrtp3_https`, `firsttouchga`,
+`lpvid`, `_a_source`, `_a_time` |
+
+marketo's cookie allows us to track repeated visits to the website, and link
+each visit to the information voluntarily provided by the visitor. [CLS] [SEP] for
+example, if the visitor is asked to provide us with their name, company name
+and email address, we will know the identity of the visitor when they visit
+the site at a later date, or when we send them email. [CLS] [SEP]
+
+[marketo's privacy policy](https://documents.marketo.com/legal/privacy/)  
+  
+facebook | `fr`, `datr`, `reg_ext_ref`, `reg_fb_gate`, `reg_fb_ref`, `sb`,
+`wb` |
+
+the facebook pixel allows us to see how many people take action on our ads and
+which ad led to a conversion. [CLS] [SEP]
+
+[facebook's privacy policy](https://www.facebook.com/about/privacy/)  
+  
+linkedin | `bcookie`, `lidc`, `bizoid`, `usermatchhistory`, `lang`, `bscookie`
+|
+
+linkedin tracking allows us to see how many people take action on our ads and
+which ad led to a conversion. [CLS] [SEP]
+
+[linkedin's privacy policy](https://www.linkedin.com/legal/privacy-policy)  
+  
+twitter | `guest_id`, `personalization_id`, `_ga`, `_gid` |
+
+twitter tracking allows us to see how many people take action on our ads and
+which ad led to a conversion. [CLS] [SEP]
+
+[twitter's privacy policy](https://twitter.com/en/privacy)  
+  
+livechat | `__livechat`, `recent_window`, `notifications[]`, `message_text`,
+`main_window_timestamp`, `__lc_vv`, `__livechat`, `__livechat_lastvisit` |
+
+livechat allows potential customers to talk to our sales people through live
+chat. [CLS] [SEP] cookies help the service function. [CLS] [SEP]
+
+[livechat's privacy policy](https://www.livechatinc.com/privacy-policy/)  
+  
+vimeo | `vuid` |
+
+vimeo hosts our videos. [CLS] [SEP] their cookies provides more information about how many
+people view our videos and for how long. [CLS] [SEP]
+
+[vimeo's privacy policy](https://vimeo.com/privacy)  
+  
+please note that third parties (including, for example, advertising networks
+and providers of external services like web traffic analysis services) may
+also use cookies, over which we have no control. [CLS] [SEP] these cookies are likely to
+be analytical/performance cookies or targeting cookies. [CLS] [SEP]
+
+you block cookies by activating the setting on your browser that allows you to
+refuse the setting of all or some cookies. [CLS] [SEP] however, if you use your browser
+settings to block all cookies (including essential cookies) you may not be
+able to access all or parts of our site. [CLS] [SEP]
+
+## how do we protect the information we collect
+
+canonical is very concerned about protecting the confidentiality of your
+personal information. [CLS] [SEP] we have security measures, including administrative,
+physical and electronic measures, to protect against the loss, exposure,
+misuse or alteration of information that we have collected from you in the use
+of the services. [CLS] [SEP] these measures include ssl data encryption to transmit your
+personal information as well as technical architectures and systems to prevent
+unauthorised third parties from accessing your personal information. [CLS] [SEP]
+
+## how we use the information we collect
+
+we use information held about you in the following ways:
+
+  * to provide you with the services you require at the time and for the reasons you provide the information, e.g. [CLS] [SEP] newsletters and webinars. [CLS] [SEP]
+  * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us. [CLS] [SEP]
+  * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about. [CLS] [SEP]
+  * to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you in accordance with your consent and our privacy notices. [CLS] [SEP]
+  * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them. [CLS] [SEP]
+  * we will combine this information with information you give to us and information we collect about you. [CLS] [SEP] we will use this information and the combined information for the purposes set out above (depending on the types of information we receive). [CLS] [SEP]
+
+## disclosure of your information
+
+you agree that we have the right to share your information with any member of
+our group, which means our subsidiaries, our ultimate holding company and its
+subsidiaries, as defined in section 1159 and as listed
+[here](/legal/companies). [CLS] [SEP]
+
+we will also disclose your information to third parties:
+
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](/legal/terms) and other agreements; or to protect the rights, property, or safety of canonical, our customers, or others. [CLS] [SEP]
+  * in accordance with privacy notices made known at the time of collection. [CLS] [SEP]
+  * in the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets. [CLS] [SEP]
+  * if canonical or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. [CLS] [SEP]
+
+## where we transfer and store your information
+
+the information that we collect from you will be transferred to, and stored
+at, a destination outside the european economic area ("eea"). [CLS] [SEP] it will also be
+processed by staff operating outside the eea who work for us or for one of our
+suppliers. [CLS] [SEP] this includes staff engaged by us for the provision of the services
+we provide you. [CLS] [SEP] further information can be found
+[here](https://assets.ubuntu.com/v1/3f8da085-third_party-and-
+geolocation_policy.pdf). [CLS] [SEP] by submitting your personal data, you agree to this
+transfer, storing or processing. [CLS] [SEP] we will take all steps reasonably necessary
+to ensure that your data is treated securely and in accordance with this
+privacy policy and all applicable data protection legislation. [CLS] [SEP]
+
+all information you provide to us is stored on our secure servers. [CLS] [SEP] where we
+have given you (or where you have chosen) a password which enables you to
+access certain parts of our site, you are responsible for keeping this
+password confidential. [CLS] [SEP] we ask you not to share a password with anyone. [CLS] [SEP]
+
+unfortunately, the transmission of information via the internet is not
+completely secure. [CLS] [SEP] although we will do our best to protect your personal data,
+we cannot guarantee the security of your data transmitted to our site; any
+transmission is at your own risk. [CLS] [SEP] once we have received your information, we
+will use strict procedures and security features to try to prevent
+unauthorised access. [CLS] [SEP]
+
+## changes to our privacy policy
+
+any changes we make to our privacy policy in the future will be posted on this
+page and, where appropriate, notified to you by email. [CLS] [SEP] please check back
+frequently to see any updates or changes to our privacy policy. [CLS] [SEP]
+
+## contact
+
+questions, comments and requests regarding this privacy policy are welcomed
+and should be addressed to
+[dataprotection@canonical.com](mailto:dataprotection@canonical.com) or to the
+address below:
+
+legal, canonical  
+5th floor, blue fin building  
+110 southwark street  
+london, se1 0su  
+united kingdom
+
+alternatively you can use the relevant [contact us](/contact-us) form. [CLS] [SEP]
+
+## your right to complain
+
+if you have a complaint about our use of your information, you can contact the
+information commissioner's office via their website at
+[ico.org.uk/concerns/](https://ico.org.uk/concerns/) or write to them at:
+
+information commissioner's office  
+wycliffe house  
+water lane  
+wilmslow  
+cheshire  
+sk9 5af  
+united kingdom
+
+#### contents
+
+  * privacy notices
+  * information we collect from you
+  * how information is collected from you
+  * what do we do with your personal data
+  * what are your rights
+  * cookies
+  * how do we protect the information we collect
+  * how we use the information we collect
+  * disclosure of your information
+  * where we transfer and store your information
+  * changes to our privacy policy
+  * contact
+  * your right to complain
+
+#### older versions
+
+  * [25 march 2013 ›](/legal/data-privacy/2013-03-25)
+  * [08 february2016 ›](/legal/data-privacy/2016-02-08)
+
+### want fully managed private cloud?
+
+canonical provides a managed services option for openstack. [CLS] [SEP] our experts take
+responsibility for the design, deployment and operations. [CLS] [SEP]
+
+[learn more ›](/openstack/managed)
+
+[contact us](/openstack/managed#get-in-touch)
+
+### get ubuntu
+
+the open source software platform that runs everywhere from the smartphone,
+the tablet and the pc to the server and the cloud. [CLS] [SEP]
+
+[download ubuntu ›](/download)
+
+### further reading
+
+  * _loading..._
+
+* back to top
+
+  * ##  [openstack](/openstack)
+
+    * [what is openstack](/openstack/what-is-openstack)
+    * [features](/openstack/features)
+    * [managed](/openstack/managed)
+    * [consulting](/openstack/consulting)
+    * [compare](/openstack/compare)
+    * [tco calculator](/openstack/tco-calculator)
+    * [install](/openstack/install)
+  * ##  [ceph](/ceph)
+
+    * [what is ceph](/ceph/what-is-ceph)
+    * [docs](/ceph/docs)
+    * [install](/ceph/install)
+  * ##  [managed](/managed)
+
+    * [kafka](/managed/kafka)
+    * [cassandra](/managed/cassandra)
+
+  * ##  [kubernetes](/kubernetes)
+
+    * [what is kubernetes](/kubernetes/what-is-kubernetes)
+    * [features](/kubernetes/features)
+    * [managed](/kubernetes/managed)
+    * [compare](/kubernetes/compare)
+    * [install](/kubernetes/install)
+    * [docs](/kubernetes/docs)
+  * ##  [ai / ml](/ai)
+
+    * [what is kubeflow](/ai/what-is-kubeflow)
+    * [install kubeflow](/ai/install-kubeflow)
+    * [services](/ai/services)
+
+  * ##  [iot](/internet-of-things)
+
+    * [digital signage](/internet-of-things/digital-signage)
+    * [robotics](/robotics)
+    * [gateways](/internet-of-things/gateways)
+    * [app store](/internet-of-things/appstore)
+    * [embedded linux](/embedded)
+    * [automotive](/automotive)
+    * [edgex](/internet-of-things/edgex)
+    * [networking](/internet-of-things/networking)
+  * ##  [raspberry pi](/raspberry-pi)
+
+    * [desktop](/raspberry-pi/desktop)
+    * [server](/raspberry-pi/server)
+  * ##  [core](/core)
+
+    * [docs](/core/docs)
+    * [tutorials](/tutorials?q=core)
+    * [features](/core/features)
+    * [success stories](/core/stories)
+    * [consulting](/core/smartstart)
+
+  * ##  [desktop](/desktop)
+
+    * [features](/desktop/features)
+    * [organisations](/desktop/organisations)
+    * [developers](/desktop/developers)
+    * [partners](/desktop/partners)
+    * [statistics](/desktop/statistics)
+  * ##  [server](/server)
+
+    * [hyperscale](/server/hyperscale)
+    * [docs](/server/docs)
+  * ##  [security](/security)
+
+    * [esm](/security/esm)
+    * [livepatch](/security/livepatch)
+    * [fips](/security/certifications#fips)
+    * [hardening](/security/certifications#cis)
+    * [certifications](/security/certifications)
+    * [cves](/security/cve)
+    * [notices](/security/notices)
+    * [oval](/security/oval)
+    * [docker images](/security/docker-images)
+
+  * ##  [downloads](/download)
+
+    * [cloud](/download/cloud)
+    * [iot](/download/iot)
+    * [raspberry pi](/download/raspberry-pi)
+    * [server](/download/server)
+    * [desktop](/download/desktop)
+    * [alternative downloads](/download/alternative-downloads)
+    * [ubuntu flavours](/download/flavours)
+  * ##  [appliance](/appliance)
+
+    * [about](/appliance/about)
+    * [portfolio](/appliance/portfolio)
+    * [community](/appliance/community)
+    * [hardware](/appliance/hardware)
+    * [virtual machines](/appliance/vm)
+
+  * ##  [support](/support)
+
+    * [your subscriptions](/advantage)
+    * [community support](/support/community-support)
+  * ##  [pricing](/pricing)
+
+    * [support](/pricing/infra)
+    * [consulting](/pricing/consulting)
+    * [devices](/pricing/devices)
+  * ##  sectors
+
+    * [industrial](/industrial)
+    * [telco](/telco)
+    * [finance](/financial-services)
+  *     * [public cloud](/public-cloud)
+    * [cloud](/cloud)
+    * [containers](/containers)
+    * [tutorials](/tutorials)
+
+* * *
+
+  * [contact us](/contact-us)
+  * [contact us](/contact-us)
+  * [about us](/about)
+  * [community](/community)
+  * [careers](http://www.canonical.com/careers)
+  * [blog](/blog)
+  * [resources](/engage)
+  * [press centre](/blog/press-centre)
+
+(c) 2021 canonical ltd. [CLS] [SEP] ubuntu and canonical are registered trademarks of
+canonical ltd. [CLS] [SEP]
+
+  * [legal information](/legal)
+  * [data privacy](/legal/data-privacy)
+  * [manage your tracker settings]()
+  * [ report a bug on this site ](https://github.com/canonical-websites/www.ubuntu.com/issues/new)
+
+  * [ ](https://twitter.com/ubuntu "follow ubuntu on twitter")
+  * [ ](https://www.facebook.com/ubuntulinux/ "follow ubuntu on facebook")
+  * [ ](https://www.linkedin.com/company/234280 "find canonical on linkedin")
+  * [ ](/blog/feed "use the ubuntu blog rss feed")
+
+go to the top of the page
+

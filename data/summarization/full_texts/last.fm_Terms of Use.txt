@@ -1,0 +1,758 @@
+![](/static/images/defaults/player_default_album.430223706b14.png) playing via
+spotify playing via youtube
+
+playback options
+
+  * listening on…
+  * switch spotify device
+  * open in spotify web player
+  * [ change playback source ](https://secure.last.fm/login?next=/settings/website)
+
+  * open on youtube website
+  * [ change playback source ](https://secure.last.fm/login?next=/settings/website)
+
+  * previous 
+  * play 
+  * next 
+
+skip to youtube video
+
+loading player…
+
+### scrobble from spotify?
+
+connect your spotify account to your last.fm account and scrobble everything
+you listen to, from any spotify app on any device or platform. [CLS] [SEP]
+
+[ connect to spotify ](/settings/applications)
+
+[ dismiss ](/nagbar/dismiss/spotify-scrobbling-prompt?period=permanent)
+
+[ last.fm](/)
+
+[search](/search)
+
+searchsearch
+
+toggle navigation
+
+  * [upgrade to pro](/pro)
+  * [live](/dashboard)
+  * [music](/music)
+  * [charts](/charts)
+  * [events](/events)
+  * [features](/features)
+  * [subscribe](/pro)
+  * [join](/join)
+  * [login](https://secure.last.fm/login)
+
+  * [upgrade to pro](/pro)
+  * [live](/dashboard)
+  * [music](/music)
+  * [charts](/charts)
+  * [events](/events)
+  * [features](/features)
+
+  * [join](/join)
+  * [login](https://secure.last.fm/login)
+
+a new version of last.fm is available, to keep everything running smoothly,
+please [reload](javascript:window.location.reload\(\)) the site. [CLS] [SEP]
+
+#  terms of use
+
+**updated on:** tuesday 2 june 2015
+
+  * like most large-scale websites, we have some rules which you need to stick to when you use last.fm. [CLS] [SEP] these rules aren’t just the “blahblahblah-yawn-small print” – these are the legal terms of use and so we recommend you read them carefully so you know what you’ve agreed to. [CLS] [SEP]
+  * as with all websites, last.fm, its services and software will change over time, both in terms of the content displayed and the functionality offered. [CLS] [SEP] we reserve the right to make those changes, and to change these terms in line with them. [CLS] [SEP] software made available for download by last.fm remains the property of last.fm, and we reserve the right to update and change that too. [CLS] [SEP]
+  * please don’t reproduce any part of the website or content without our permission. [CLS] [SEP]
+  * a lot of information and content on last.fm is provided by third parties – both users and other third parties – and the accuracy and reliability of that information is entirely the responsibility of those parties. [CLS] [SEP] likewise, you may sometimes find links on last.fm to other websites; last.fm cannot be held responsible for the content of those sites. [CLS] [SEP] links, like everything else added by members of the last.fm community, are entirely the responsibility of the individuals who have added them. [CLS] [SEP]
+  * by using last.fm, you also agree to our privacy policy - please read our [privacy policy](/legal/privacy). [CLS] [SEP]
+  * if you’ve found content on the website that you own and that you believe is being used without your permission then please read section 10 of these terms of use for a detailed description of what to do about it. [CLS] [SEP] we take infringement claims very seriously, so provide all the information set out in section 10 and we will act swiftly to deal with any claims. [CLS] [SEP]
+  * we have a detailed acceptable use policy, but much like the [community guidelines](/help/guidelines) they boil down into a few fairly simple concepts: play nicely, respect other members of the community and use common sense. [CLS] [SEP] if we believe someone isn’t playing fairly and within the spirit of the guidelines then we’re entitled to ban that user at our sole discretion. [CLS] [SEP] we don’t like doing it, but sometimes it’s the most appropriate response. [CLS] [SEP]
+  * if you enter a competition or use software alongside last.fm then make sure you read any accompanying terms and conditions carefully too, because they may have conditions in addition to this document. [CLS] [SEP]
+  * when you use last.fm and all of its software and services, you accept it “as is”. [CLS] [SEP] like human beings, we have the odd fault or two and we’re constantly updating and improving every aspect of last.fm, ironing out new-found bugs and making subtle changes to things like our recommendation algorithms. [CLS] [SEP] as a result, last.fm should never be considered a “finished product”, and by using last.fm you accept it – warts and all. [CLS] [SEP]
+  * last.fm is based in london – we quite like it here – and this document is to be interpreted in line with the laws governing england and wales. [CLS] [SEP]
+
+## important
+
+please carefully read these terms of use ("terms of use") before using the
+website or any of the other properties (as defined below), as they affect your
+legal rights and obligations. [CLS] [SEP]
+
+last.fm limited ("last.fm" or "we" "our" or "us") owns or controls, and
+provides access to the last.fm website, at the url www.last.fm and related
+properties (the "website"), the last.fm client software, the last.fm widget,
+the last.fm api and all proprietary services, software, data and materials
+accessed via the website (the “services”). [CLS] [SEP] the website and the services are
+referred to together in these terms of use as the “properties”. [CLS] [SEP]
+
+these terms of use govern your use of the properties. [CLS] [SEP]
+
+these terms of use apply to the properties and not to any other website or any
+offline activities of last.fm (unless specifically stated). [CLS] [SEP] by accessing or
+using the properties, registering for or receiving services offered on the
+website, or by accepting, uploading, submitting or downloading any information
+or content from or to the website, you agree to be bound by these terms of
+use. [CLS] [SEP]
+
+**if you do not agree to be bound by all of these terms of use, do not use the
+properties.**
+
+### contents
+
+  1. [CLS] [SEP] changes to the website and the terms of use
+  2. [CLS] [SEP] description of website services
+  3. [CLS] [SEP] intellectual property ownership; licence
+  4. [CLS] [SEP] links to other websites
+  5. [CLS] [SEP] our linking and widget policy
+  6. [CLS] [SEP] acceptable use
+  7. [CLS] [SEP] user accounts, additional terms & end user licence agreements
+  8. [CLS] [SEP] competitions
+  9. [CLS] [SEP] software
+  10. [CLS] [SEP] copyrights & copyright agents
+  11. [CLS] [SEP] third party content and information
+  12. [CLS] [SEP] information you submit
+  13. [CLS] [SEP] disclaimer of warranties
+  14. [CLS] [SEP] disclaimers/limitation of liability
+  15. [CLS] [SEP] indemnity
+  16. [CLS] [SEP] governing law
+  17. [CLS] [SEP] miscellaneous
+  18. [CLS] [SEP] termination
+  19. [CLS] [SEP] privacy
+
+### 1\. [CLS] [SEP] changes to the properties and the terms of use
+
+we reserve the right to add, delete, change or modify parts of these terms of
+use at our sole discretion and at any time without notice to you. [CLS] [SEP] if we do
+this, we will post the changes to the terms of use on this page and will
+indicate the effective date of the terms of use at the top of the page. [CLS] [SEP] it is
+important for you to refer to these terms of use from time to time to make
+sure that you are aware of any additions, revisions, or modifications that we
+may have made to these terms of use. [CLS] [SEP] your continued use of the website
+constitutes your acceptance of the new terms of use. [CLS] [SEP]
+
+### 2\. [CLS] [SEP] description of website and the services
+
+access to the website currently provides users with access to the services and
+a rich collection of online resources, including online forums, personalised
+content, interactive advertising messages, proprietary software (including
+updates, patches and new versions), audio, videos and other community and
+entertainment products. [CLS] [SEP] unless explicitly stated otherwise, any new features
+which may be added to the website or the services, including without
+limitation, the release of new last.fm services and software, are subject to
+these terms of use. [CLS] [SEP]
+
+in some instances, these terms of use and a separate end user licence or
+similar agreement may apply to a service or product offered by last.fm via the
+properties. [CLS] [SEP] we may add, change, remove, suspend or discontinue any aspect of
+the website and/or the services at any time without notice. [CLS] [SEP] we may also impose
+limits on certain features and/or restrict access to parts of or all of the
+properties without notice or liability to you or any third party. [CLS] [SEP]
+
+in order to use the website, you must obtain access to the internet, either
+directly or through devices that access web-based content, and pay any service
+fees associated with such access. [CLS] [SEP] in addition, you must provide all equipment
+necessary to make such connection to the internet, including a computer and
+modem or other access device. [CLS] [SEP]
+
+you acknowledge that the services include certain elements which allow last.fm
+proprietary software to be downloaded to your computer which interacts with
+other computer programs (including itunes), the last.fm computer servers and
+your ipod or other permitted devices. [CLS] [SEP]
+
+### 3\. [CLS] [SEP] intellectual property ownership; licence
+
+the past, present and future content of the properties, including, without
+limitation, software graphics, text, images, audio, videos, designs,
+compilations, databases, targeting information, advertising copy, and the
+trademarks, logos, domain names, trade names, service marks and trade
+identities; any and all copyright material (including source and object code);
+and all other materials related to the properties, including without
+limitation, the "look and feel" of the website (collectively, "content") are
+protected by applicable copyrights, trademark rights, database rights and
+other proprietary (including, but not limited to, intellectual property)
+rights and are the property of last.fm, its parent, subsidiaries, affiliates,
+or its licensors. [CLS] [SEP] last.fm is licensed under u.s. [CLS] [SEP] patent nos. [CLS] [SEP] 7,346,472;
+7,660,700; 7,949,494; and 8,214,175. [CLS] [SEP] except as expressly set forth in these
+terms of use or otherwise expressly granted to you in writing by last.fm, no
+rights (either by implication, estoppel or otherwise) in or to the content are
+granted to you. [CLS] [SEP]
+
+the copying, reproduction, re-arrangement, sale, leasing, renting, lending,
+distribution, redistribution, modification or adaptation, downloading,
+sideloading, exchanging, creating of derivative works, uploading, posting,
+transmitting, communication to the public or publication by you, directly or
+indirectly, of the content, including the removal or alteration of
+advertising, except pursuant to the express limited grant of rights hereunder,
+is strictly prohibited. [CLS] [SEP] you agree to abide by any and all additional notices,
+information or restrictions in respect of the properties contained in any part
+of the website. [CLS] [SEP] exploiting any part of the properties for a purpose that is
+not permitted by these terms of use is expressly prohibited without prior
+written permission from last.fm or the applicable intellectual property rights
+holder as identified on the website. [CLS] [SEP]
+
+subject to your strict compliance with these terms of use, last.fm grants you
+a limited, personal, non-exclusive, non-commercial, revocable, non-assignable
+and non-transferable licence to:
+
+  1. [CLS] [SEP] download and use the last.fm client-based software in accordance with its pre-defined functionality only;
+  2. [CLS] [SEP] listen to music and view videos streamed from the website and participate in the last.fm community areas;
+  3. [CLS] [SEP] submit or upload music, video and other content to the website strictly as permitted in accordance with these terms of use and any other terms posted on the website;
+  4. [CLS] [SEP] embed the last.fm widget on your personal website or profile pages for non-commercial and private use only; and
+  5. [CLS] [SEP] communicate with other members of the last.fm community;
+
+provided that you:
+
+  1. [CLS] [SEP] retain and do not alter or tamper with any trademark, copyright and other proprietary or legal notices contained in the original content or any permitted copy you may make of the content;
+  2. [CLS] [SEP] do not, and do not allow or aid or abet any third party (whether or not for your benefit) to, copy or adapt the object code of the website or services (including, without limitation, software, html, javascript, or other code); to reverse engineer, decompile, reverse assemble, modify or attempt to discover any source or object code, circumvent or attempt to circumvent or copy any copy protection mechanism or access any rights management information;
+  3. [CLS] [SEP] do not insert any code, product or material to manipulate the content in any way that affects any user's experience;
+  4. [CLS] [SEP] do not copy or seek to copy or “rip” any audio and/or audiovisual content from the website or any part of the service (including, without limitation, the last.fm widget);
+  5. [CLS] [SEP] do not embed or otherwise exploit the last.fm widget for commercial gain (which includes, for example and without limitation, selling advertising on your site or otherwise monetising any element of your site which contains the last.fm widget); and
+  6. [CLS] [SEP] do not adapt, copy, republish, communicate to the public, display, transfer, share, distribute or otherwise exploit the content, except as under these terms of use. [CLS] [SEP]
+
+last.fm alone shall be responsible for determining, in its discretion, whether
+any use of the last.fm widget constitutes commercial use in each case. [CLS] [SEP]
+
+### 4\. [CLS] [SEP] links to other websites
+
+the website may contain hyperlinks to other websites ("other sites"). [CLS] [SEP] if you
+use the hyperlinks to access these other sites, you will leave the website and
+your browser will be re-directed to the other sites. [CLS] [SEP] the other sites may have
+their own terms of use and privacy policy and those other sites may have
+different practices and requirements than the website. [CLS] [SEP] last.fm may not have
+knowledge of, and is not responsible for, the content, information, services,
+products or advertisements presented by any other site which you use at your
+own risk. [CLS] [SEP] last.fm does not warrant or make any representation regarding the
+legality, accuracy, quality or authenticity of content, information, services
+or products presented by other sites. [CLS] [SEP] the hyperlinks to other sites do not
+constitute an endorsement by last.fm of any other site(s) or resources, or
+their content, information, services or products. [CLS] [SEP] the website is only
+providing these links to you as a convenience. [CLS] [SEP] the terms of use and privacy
+policy of any other sites shall apply to your access and use of them. [CLS] [SEP] last.fm
+accepts no responsibility for the content or conduct of other sites. [CLS] [SEP]
+
+### 5\. [CLS] [SEP] our linking and widget policy
+
+any web site that links to the website or on which you include the widget: (a)
+must not frame, surround, obfuscate or create a browser or border environment
+around any of the content of the website; (b) may link to, but not replicate,
+the content; (c) must not imply that last.fm or the website or any artist or
+performer are endorsing or sponsoring it or its products, unless last.fm has
+given its prior written consent; (d) must not present false information about
+last.fm or its products or services; (e) must not use any last.fm services or
+trademarks except as expressly permitted in these terms of use or without the
+prior written permission from last.fm; (f) must not contain content that is
+illegal, obscene or defamatory, or that could be construed as distasteful,
+offensive or controversial; and (g) must not support, endorse or encourage
+piracy or the unauthorised exploitation of intellectual property rights. [CLS] [SEP] by
+linking to the website, you agree that you do and will continue to comply with
+the above linking requirements. [CLS] [SEP] notwithstanding anything to the contrary
+contained in these terms of use, we reserve the right to deny permission to
+link to the website for any reason in our sole and absolute discretion. [CLS] [SEP]
+
+we provide the last.fm widget to enable our users to share last.fm with their
+friends. [CLS] [SEP] it is not provided for commercial use, distribution or exploitation. [CLS] [SEP]
+if you are the operator of a commercial website and would like to include the
+last.fm widget in your website, or if you would like to use the widget for
+commercial purposes, please contact us by emailing
+[partners@last.fm](mailto:partners@last.fm). [CLS] [SEP]
+
+last.fm reserves the right to remove links or block the last.fm widget at any
+time and for any reason in its absolute discretion. [CLS] [SEP]
+
+### 6\. [CLS] [SEP] acceptable use
+
+you will not use the properties to:
+
+  1. [CLS] [SEP] upload, post, e-mail, transmit, display, copy, distribute, promote, or otherwise communicate to the public: 
+    1. [CLS] [SEP] any material that is false, unlawful, threatening, tortious, disparaging (including disparaging of last.fm, its parent, subsidiaries or affiliates), anything that adversely affects last.fm such as discouraging any person or entity from advertising with, linking to or supplying last.fm, abusive, libellous, defamatory, obscene, vulgar, offensive, pornographic, profane, racist, sexually explicit, ethnically or culturally offensive, indecent, or that promotes violence, racial hatred, terrorism, or illegal acts, or is otherwise objectionable in last.fm's sole discretion;
+    2. [CLS] [SEP] information, software, content or other material that violates, plagiarises, misappropriates or infringes the rights of third parties including, without limitation, copyright (including, offering pirated computer programs or links to such programs, information used to circumvent manufacturer-installed copy-protect devices, including serial registration numbers for software programs, rights management information or any type of cracker utilities), trademark, patent, trade secret, rights of privacy or publicity, confidential information or any other proprietary right;
+    3. [CLS] [SEP] material of any kind that contains a virus, trojan horse, time bombs, worms, spyware, adware, malware, bots, any automated use of the system, such as scripts, or other harmful component or restricts or inhibits any other user's uninhibited use and enjoyment of the properties, interferes with, overburdens, impairs or disrupts the properties or servers or networks connected to the properties, or disobeys any requirements, procedures, policies or regulations of networks connected to the properties;
+    4. [CLS] [SEP] information or material of any kind that is false or misleading or that constitutes or contains false or misleading indications of origin or statements of fact, including, without limitation, by forging any tcp/ip packet header, any part of the header information in any transmission to the website, or otherwise manipulating identifiers in order to disguise the origin of any content transmitted to or from the website; or
+    5. [CLS] [SEP] any unsolicited or unauthorised advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, requests for money, petitions for signature, or any other form of solicitation. [CLS] [SEP]
+  2. [CLS] [SEP] encourage, promote, solicit or commit conduct that would constitute a criminal offence, give rise to civil liability or otherwise violate any local, state, national or international law or otherwise make available any material that exploits or harms any individual, corporation or other entity. [CLS] [SEP]
+  3. [CLS] [SEP] impersonate any person or entity or falsely state or otherwise misrepresent your affiliation with a person or entity;
+  4. [CLS] [SEP] disrupt the normal flow of dialogue, cause a screen to scroll faster than other users of the website are able to type, or otherwise act in a manner that negatively affects other users' ability to engage in real time exchanges on the website;
+  5. [CLS] [SEP] stalk, abuse, sexually exploit, violently exploit, groom, act violently toward, threaten or otherwise harass another user;
+  6. [CLS] [SEP] use or attempt to use another's information, account, password, service or system except as expressly permitted;
+  7. [CLS] [SEP] solicit or collect personal data including telephone numbers, addresses, last names, email addresses, or any other kind of information about users, including without limitation, through such means as spidering, “screen scraping,” “database scraping,” harvesting of e-mail addresses, wireless addresses or other contact or personal information, or any other automatic means of accessing, logging-in or registering on the website or for any services or features offered on or through the website; and
+  8. [CLS] [SEP] undertake any commercial purpose or activity without the prior written consent of last.fm, including, for example and without limitation, inserting your own or a third party’s advertising, branding or promotional content into any of the website’s or properties’ content, materials or services (for example, without limitation, in an rss feed or a podcast received from last.fm or otherwise available through the properties). [CLS] [SEP]
+
+you represent, warrant and agree that you will comply with the above
+acceptable use requirements. [CLS] [SEP] last.fm reserves the right, in its sole
+discretion, to terminate any user’s account or take such other action as
+last.fm sees fit in relation to any user who breaches last.fm’s acceptable use
+policy or any of the other terms set forth herein. [CLS] [SEP] in extreme cases or as
+required by law or regulation, last.fm reserves the right to take court action
+and/or report users to the relevant authorities. [CLS] [SEP] last.fm believes in building
+a caring community based around sharing music and will not tolerate antisocial
+or unlawful behaviour on the website or in connection with any of the other
+properties. [CLS] [SEP]
+
+### 7\. [CLS] [SEP] user accounts, additional terms, end user license agreements &
+subscriptions
+
+registration may be required for the use of certain services and portions of
+the website (e.g., e-mail, newsletters, competitions, forums, content
+downloads, promotions etc.). [CLS] [SEP] in some instances, these terms of use and
+separate end user licence agreements or terms of use that set forth additional
+conditions may apply to services or products offered via the website. [CLS] [SEP] to the
+extent there is a conflict between these terms of use and the terms of any
+applicable end user licence or similar agreement, the end user licence or
+similar agreement will prevail, unless the additional conditions expressly
+state that these terms of use will prevail. [CLS] [SEP] in cases where there are no
+additional terms or conditions stated for any such registrations, services or
+products, these terms of use will prevail. [CLS] [SEP]
+
+if you choose to provide information to the website, you agree to provide only
+true, accurate, current and complete information. [CLS] [SEP] if you create a user
+account, you agree to accept responsibility for all activities that occur
+under your account or password, if any, and agree you will not sell, transfer
+or assign your user account. [CLS] [SEP] you are responsible for maintaining the
+confidentiality of your password, if any, and for restricting access to your
+computer so that others may not access any password-protected portion of the
+website or other properties using your name, user name or password in whole or
+in part. [CLS] [SEP]
+
+you may be able to purchase a subscription for certain additional features of
+the website and services. [CLS] [SEP] you may only order subscriptions if you are
+considered capable of entering into an enforceable contract in the applicable
+jurisdiction. [CLS] [SEP] you agree to pay in full the prices for any purchases you make
+either by credit/debit card concurrent with your online order or by other
+payment means acceptable to last.fm. [CLS] [SEP] you agree to pay all applicable taxes. [CLS] [SEP] if
+payment is not received by us from your credit or debit card issuer or its
+agents, you agree to pay all amounts due upon demand by us. [CLS] [SEP]
+
+### 8\. [CLS] [SEP] competitions
+
+last.fm may decide to run competitions, promotions, prize draws and other
+opportunities on the website and these will be governed by a separate set of
+terms and conditions. [CLS] [SEP] a link to these terms and conditions will be found on
+the website, alongside details of the specific competition, promotion, prize
+draw and other opportunities. [CLS] [SEP] it is your responsibility to read those terms
+and conditions for details about the terms that shall apply and any
+eligibility requirements. [CLS] [SEP]
+
+### 9\. [CLS] [SEP] software
+
+any software that we make available for download or use from the website
+and/or our servers (the "software") is the intellectual property of last.fm or
+its licensors or suppliers. [CLS] [SEP] any such “software” shall be considered a
+“service” or one of the “properties” as such terms are defined and used
+herein. [CLS] [SEP] your use of the software may be governed by the terms of an end user
+licence agreement that may accompany or that may be included with the software
+(the "licence agreement"). [CLS] [SEP] please carefully read any licence agreement and
+paragraph 7 above to determine the full extent of the terms and conditions
+governing the use of such software. [CLS] [SEP]
+
+without limiting the foregoing, copying or reproduction of the software to any
+other server or location for further use, reproduction, redistribution or
+other exploitation is expressly prohibited, unless such use, reproduction,
+redistribution or exploitation is expressly permitted by the licence agreement
+applicable to such software. [CLS] [SEP]
+
+### 10\. [CLS] [SEP] copyrights and copyright agents
+
+at last.fm, we aim to respect the intellectual property rights of others. [CLS] [SEP] if
+you believe that your work (or the work of a third party on whose behalf you
+are entitled to act) has been copied, used, or made available on or through
+the last.fm website in a way that constitutes copyright infringement of your
+intellectual property, please provide our copyright agent with a copyright
+infringement notice (“notice”) which should include the following written
+information:
+
+  1. [CLS] [SEP] a statement that you have identified material on the website which infringes your copyright (or infringes the copyright of a third party on whose behalf you are entitled to act, if applicable);
+  2. [CLS] [SEP] identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notice, a representative list of such works at that site;
+  3. [CLS] [SEP] identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit last.fm to locate the material (including, for example, a url and/or screen shot);
+  4. [CLS] [SEP] your full name, email address, postal address and telephone number on which you can be contacted;
+  5. [CLS] [SEP] a statement by you that you have a good-faith belief that use of the material in the manner complained of is not authorised by the copyright owner, its agent, or the law;
+  6. [CLS] [SEP] a statement by you that the information in the notice is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of the exclusive right that is allegedly infringed; and
+  7. [CLS] [SEP] a physical or electronic signature (which may be a scanned copy) of a person authorized to act on behalf of owner of the work that is allegedly infringed. [CLS] [SEP]
+
+last.fm's agent for notice of claims of copyright infringement on or regarding
+the website can be reached as follows:
+
+by mail:
+
+    
+
+copyright agent, legal department  
+last.fm limited  
+17-29 hawley crescent,  
+london, nw1 8tt,  
+united kingdom  
+phone: +44 207 021 1000
+
+by email:
+
+    [infringementcomplaint@last.fm](mailto:infringementcomplaint@last.fm)
+
+if you are unsure about your rights in respect of material, or whether there
+has been an infringement of your rights, we suggest you take legal advice
+before sending a notice to last.fm. [CLS] [SEP]
+
+please note that any video content made available on or through the website
+which contains or displays the youtube logo or which is provided via the
+youtube player is provided to you by youtube and from youtube’s servers, and
+last.fm thus does not have the ability to permanently remove all or any such
+content from youtube’s servers. [CLS] [SEP] therefore, if you have a complaint concerning
+any video content made available on the website that is provided by youtube,
+you should contact youtube directly in accordance with copyright policies at:
+http://www.youtube.com/t/terms. [CLS] [SEP] if you believe that your work is available on
+the website via the youtube player in a way that constitutes copyright
+infringement, please: (i) contact youtube directly in accordance with
+copyright policies at: http://www.youtube.com/t/terms and (i) contact last.fm
+by sending us a notice in accordance with the provisions of this section 10. [CLS] [SEP]
+
+### 11\. [CLS] [SEP] third party content and information
+
+the properties contain content and information that is provided for your
+convenience and enjoyment. [CLS] [SEP] third parties provide some of the content and
+information. [CLS] [SEP] you should be aware that the content might contain errors,
+omissions, inaccuracies, outdated information and inadequacies and that the
+content may be subject to terms and conditions, which may be found on the
+website or in the documents and policies of third parties. [CLS] [SEP] last.fm makes no
+representations or warranties as to the completeness, accuracy, adequacy,
+currency or reliability of any content and will not be liable for any lack of
+the foregoing. [CLS] [SEP]
+
+in addition, third party advertisers or commercial partners may offer goods,
+services and other materials to you on the website. [CLS] [SEP] your correspondence and
+business dealings with others found on or through the website including,
+without limitation, the payment and delivery of products and services, the
+delivery of videos or other content, and any terms, conditions, warranties and
+representations associated with such dealings, are solely between you and the
+relevant third party. [CLS] [SEP] last.fm will not be responsible or liable for any loss
+or damage of any sort incurred as the result of any such dealings or the
+offering of such products, services, and other content on the website. [CLS] [SEP] under
+certain circumstances, we may permit third party users to upload content, in
+which event you, at your own risk, may be exposed to offensive, indecent or
+objectionable content. [CLS] [SEP]
+
+descriptions of, or references to, products, services or publications within
+the website do not imply endorsement of that product, service or publication. [CLS] [SEP]
+
+### 12\. [CLS] [SEP] information you submit
+
+from time to time, the properties may contain functionality through which you
+can upload or submit information, data, software, messages, photographs,
+audio, video, text and other materials to, through or on the website ("your
+upload information"). [CLS] [SEP] for example, the website may offer forums, bulletin
+boards, wikis, chat rooms, blogs or other interactive areas ("user forums"). [CLS] [SEP]
+last.fm, its parent, subsidiaries or affiliates or the directors, officers,
+employees, or other representatives of each of them do not endorse the content
+posted in user forums. [CLS] [SEP] last.fm reserves the right, but is not obligated, to
+delete, move or edit your upload information, in whole or in part, submitted
+by you to a user forum for any reason in their sole discretion. [CLS] [SEP] last.fm
+reserves the right to suspend or terminate your access to the website and
+pursue all legal remedies if we believe your upload information infringes
+another's rights or otherwise violates any law, rule or regulation. [CLS] [SEP] you
+acknowledge and agree that you are prohibited from accepting payment for your
+upload information from any third party, including, without limitation,
+accepting payment for the inclusion of a logo, brand advertising or other
+commercial content, in your upload information. [CLS] [SEP]
+
+all of your upload information is your sole responsibility. [CLS] [SEP] this means that
+you, and not last.fm, are entirely responsible for all of your upload
+information that you upload, post, e-mail, transmit or otherwise make
+available via the website. [CLS] [SEP] last.fm actively discourages you from uploading
+information or content (including photographs) about your friends or other
+people without their express prior consent. [CLS] [SEP] if you post personal information
+in user forums or on other publicly available areas of the website, then you
+may receive unsolicited messages from third parties. [CLS] [SEP] last.fm cannot ensure the
+security of any information you post in user forums or on publicly available
+areas of the website. [CLS] [SEP] under no circumstances will last.fm be liable in any way
+for any of your upload information including, but not limited to, any errors
+or omissions in your upload information, or for any loss or damage of any kind
+incurred as a result of your upload information. [CLS] [SEP]
+
+you warrant and represent that your upload information: (i) is an original
+work by you or you have all necessary rights, licenses and permissions in it
+and to submit it to last.fm under the terms of these terms of use; (ii) is not
+defamatory; and (iii) does not infringe upon, misappropriate or violate the
+rights of any third parties, including, without limitation, any intellectual
+property rights, rights of publicity or privacy or any other proprietary
+rights or otherwise violate any law, rule, or regulation. [CLS] [SEP]
+
+except as otherwise described in our privacy policy or other agreement on the
+website at which you provide your upload information, your upload information
+will be treated as non-confidential and non-proprietary and we will not be
+liable for any use or disclosure to anyone, including but not limited to
+claimed intellectual property owners. [CLS] [SEP] when you upload your upload information
+via the website, you irrevocably grant to last.fm, its parent, subsidiaries,
+affiliates, and partners, without any credit or compensation to you, a non-
+exclusive, worldwide, perpetual, unrestricted, irrevocable, royalty-free and
+fully transferable, assignable and sub-licensable right and licence to use,
+reuse, modify, adapt, alter, display, archive, publish, sub-license, perform,
+copy, reproduce, disclose, transmit, communicate to the public, post, sell,
+translate, create derivative works of, distribute, make and export your upload
+information (in whole or in part), or to incorporate it in other works in any
+form, media, software or technology of any kind now known or developed in the
+future, for any purposes whatsoever including, without limitation, for
+advertising, marketing, publicity and promotional purposes, such as
+developing, manufacturing and marketing products and targeted advertisements
+using such uploaded information. [CLS] [SEP] you hereby waive any moral rights (or any
+similar rights in any jurisdiction) you may have in and to any of your upload
+information, even if such material is altered or changed in a manner not
+agreeable to you. [CLS] [SEP] you agree and understand that last.fm, its parent,
+subsidiaries, affiliates, and partners are not obligated to use your upload
+information submitted through the website or otherwise, and may alternatively
+choose, in its sole discretion, to discard, refuse to post, limit or block
+access to your uploaded information without any liability whatsoever. [CLS] [SEP]
+
+you acknowledge that the web site, through last.fm, its parent, subsidiaries,
+affiliates, and partners undertakes no obligation to pre-screen your upload
+information, but that it has the right, in its sole discretion to monitor,
+modify, transmit over various networks, refuse, move, block access to or
+remove any of your upload information. [CLS] [SEP] you agree that you must evaluate, and
+bear all risks associated with, the use of any of your upload information
+including, but not limited to, any reliance on the accuracy, completeness, or
+usefulness of your upload information. [CLS] [SEP] since last.fm, its parent,
+subsidiaries, affiliates, and partners may not pre-screen user generated
+content, you may bear legal responsibility for others' exposure to any
+offensive indecent or objectionable content in your upload information. [CLS] [SEP]
+
+### 13\. [CLS] [SEP] disclaimer of warranties
+
+the properties, including, without limitation, all content, software, and
+functions made available on or accessed through or sent from the website, are
+provided "as is," "as available, " and "with all faults." to the fullest
+extent permissible by law, last.fm and its parents, subsidiaries and
+affiliates make no representation or warranties or endorsements of any kind
+whatsoever (express or implied) about: (a) the properties; (b) the content and
+software on and provided through the properties; (c) the functions made
+accessible on or accessed through the properties; (d) the messages, content
+and information sent from or through the properties by users; (e) any products
+or services offered via the website or hypertext links to third parties;
+and/or (f) the treatment of any information, content, material or data
+transmitted by users to the properties; (g) security associated with the
+transmission of sensitive information through the properties or any linked
+site. [CLS] [SEP] last.fm does not warrant that the properties, any of the properties'
+functions or any content contained therein will be uninterrupted or error-
+free; that defects will be corrected; or that the properties or the servers
+that make them available are free of viruses or other harmful components. [CLS] [SEP]
+
+last.fm does not warrant that your activities in connection with or use of the
+properties is lawful in any particular jurisdiction and, in any event, last.fm
+specifically disclaims such warranties to the fullest extent permitted by law. [CLS] [SEP]
+you understand that by using any of the features of the properties, you act at
+your own risk, and you represent and warrant that your access and activities
+are lawful in every jurisdiction where you access or use the website, the
+services or the content. [CLS] [SEP] further, last.fm and its subsidiaries and affiliates
+disclaim, to the fullest extent permitted by law, any express or implied
+warranties including, without limitation, noninfringement, merchantability,
+fitness for a particular purpose, and title. [CLS] [SEP]
+
+last.fm, its parent, subsidiaries or affiliates or the directors, officers,
+employees, or other representatives of each of them shall not be liable in any
+event for the use of the website or other properties, including, without
+limitation, the content and any errors contained therein. [CLS] [SEP] where any
+jurisdictions limit or do not allow the disclaimer of implied or other
+warranties as set out above, the disclaimer may not apply to the extent the
+law of such jurisdiction is applicable to this agreement. [CLS] [SEP]
+
+you agree that your use of the properties is entirely at your own risk. [CLS] [SEP]
+
+### 14\. [CLS] [SEP] disclaimers/limitation of liability
+
+without limitation of anything else set forth in these terms of use, you
+understand and agree that last.fm further limits its liability in connection
+with your use of the properties as set forth below:
+
+under no circumstances shall last.fm, its parent, subsidiaries, or affiliates
+or the directors, officers, employees, or other representatives of each of
+them (collectively, the "last.fm entities and individuals") be liable to you
+for any loss or damages of any kind, including, without limitation, for any
+special, direct, indirect, incidental, exemplary, economic, punitive, or
+consequential damages that are directly or indirectly related to (1) the
+properties, the content, or your upload information; (2) the use of, inability
+to use, or performance of the properties or any of the content or features
+thereon; (3) any action taken in connection with an investigation by last.fm
+or law enforcement authorities regarding your use of the properties or
+content; (4) any action taken in connection with copyright owners; (5) any
+errors or omissions in the properties’ technical operation, even if
+foreseeable or even if the last.fm entities and individuals have been advised
+of the possibility of such damages whether in an action of contract,
+negligence, strict liability tort (including, without limitation, whether
+caused in whole or in part by negligence, acts of god, telecommunications
+failure, or theft or destruction of the properties). [CLS] [SEP] nothing in these terms of
+use limits or excludes last.fm’s liability for: (a) death or personal injury
+caused by its proven negligence; (b) the tort of deceit; or (c) any liability
+which cannot be limited or excluded by law. [CLS] [SEP]
+
+if any of these terms of use are determined to be illegal, invalid or
+otherwise unenforceable by reason of the laws of any state or country in which
+these terms of use are intended to be effective, then to the extent and within
+the jurisdiction in which that term is illegal, invalid or unenforceable, it
+shall be severed and deleted from these terms of use and the remaining terms
+shall survive and continue to be binding and enforceable. [CLS] [SEP]
+
+the last.fm entities and individuals are not responsible for any damage to any
+user's computer, hardware, computer software, or other equipment or technology
+including, without limitation, damage from any security breach or from any
+virus, bugs, tampering, fraud, error, omission, interruption, defect, delay in
+operation or transmission, computer line or network failure or any other
+technical or other malfunction. [CLS] [SEP]
+
+your access to and use of this the properties is at your risk. [CLS] [SEP] if you are
+dissatisfied with the properties or any of the content, your sole and
+exclusive remedy is to discontinue accessing and using the properties or the
+content. [CLS] [SEP]
+
+you recognise and confirm that in the event you incur any damages, losses or
+injuries that arise out of last.fm's acts or omissions, the damages, if any,
+caused to you are not irreparable or sufficient to entitle you to an
+injunction preventing any exploitation of any web site, property, product,
+program, television show, motion picture or other audio/visual content owned
+or controlled by last.fm and/or its parents, subsidiaries, and/or affiliates
+or your upload information, and you will have no rights to enjoin or restrain
+the development, production, distribution, advertising, exhibition or
+exploitation of any last.fm web site, services, properties, product, program,
+music, television show, motion picture or other audio/visual content or your
+upload information or any and all activities or actions related thereto. [CLS] [SEP]
+
+### 15\. [CLS] [SEP] indemnity
+
+you agree to indemnify, hold harmless, and keep last.fm, its parents,
+subsidiaries and affiliates, and their respective owners, officers, managers,
+members, agents and employees, fully and effectively indemnified with respect
+to any and all costs, claims, demands, investigations, liabilities, losses,
+damages, judgments, settlements, costs and expenses, including attorneys' fees
+arising out of or in connection with this terms of use, including, without
+limitation: (a) your use of the properties; (b) your violation of these terms
+of use or any law, rule or regulation; (c) your use of the content; or (d)
+your placement or transmission of any of your upload information or any other
+content or materials on or through the properties. [CLS] [SEP] you will cooperate as fully
+and reasonably as required by last.fm in the defence of any claim. [CLS] [SEP]
+notwithstanding the foregoing, last.fm retains the exclusive right to settle,
+compromise and pay any and all claims, demands, proceedings, suits, actions or
+causes of actions which are brought against last.fm herein under the terms and
+provisions of this section 15 and in no event shall you settle any such claim
+without last.fm's prior written approval. [CLS] [SEP]
+
+### 16\. [CLS] [SEP] governing law
+
+these terms of use and the interpretation of these terms of use shall be
+governed by and construed in accordance with the laws of england. [CLS] [SEP]
+
+### 17\. [CLS] [SEP] miscellaneous
+
+any other rules, restrictions, guidelines and terms and conditions that may be
+posted or made available in connection with a particular feature on the
+website or service are incorporated by this reference into these terms of use
+for all purposes. [CLS] [SEP]
+
+you are solely responsible for compliance with applicable laws, rules, and
+regulations in connection with your use of the properties and the content,
+including, without limitation, those governing your transmission or use of any
+software or data. [CLS] [SEP]
+
+these terms of use and any applicable end user licence or similar agreements
+contain the sole and entire agreement between the parties with respect to the
+properties, the content and your upload information and supersedes any and all
+other prior written or oral agreements between them. [CLS] [SEP] the section titles in
+these terms of use are for your convenience only and do not have any legal or
+contractual effect. [CLS] [SEP] you agree that these terms of use will not be construed
+against last.fm by virtue of having drafted these terms of use. [CLS] [SEP] if any
+provision of these terms of use shall be held invalid or unenforceable by any
+court of competent jurisdiction or as a result of future legislative action,
+such holding or action shall be strictly construed and shall not affect the
+validity or effect of any other provision of these terms of use. [CLS] [SEP] no waiver on
+the part of last.fm of any of these terms of use will be of any force or
+effect unless made in writing and signed by a duly authorized officer of
+last.fm. [CLS] [SEP]
+
+nothing in these terms of use are intended to confer on any third party
+(whether referred to in the terms of use by name, class, description or
+otherwise) any benefit or any right under any legislation in any country to
+enforce any provisions of these terms of use. [CLS] [SEP]
+
+### 18\. [CLS] [SEP] termination
+
+you understand and agree that last.fm will determine your compliance with
+these terms of use in its sole discretion. [CLS] [SEP] last.fm reserves the right to
+restrict, suspend, deny or terminate access to all or part of the website or
+any service and to deny access to any person in its sole discretion without
+notice or liability of any kind. [CLS] [SEP] last.fm maintains a policy that provides for
+the termination in appropriate circumstances of the website use privileges of
+users who are repeat infringers of intellectual property rights. [CLS] [SEP] any violation
+of these terms of use may be referred to law enforcement authorities. [CLS] [SEP] upon
+termination of your user account or access to the web site, or upon demand by
+last.fm, you must destroy all materials obtained from the properties and all
+related documentation. [CLS] [SEP]
+
+### 19\. [CLS] [SEP] privacy
+
+registration data and certain other information about you are subject to our
+[privacy policy](/legal/privacy). [CLS] [SEP] please read the [privacy
+policy](/legal/privacy) for information on how your personal data and other
+information about you will be handled. [CLS] [SEP] by accepting these terms of use you are
+also accepting the terms of the privacy policy, which is incorporated herein
+by reference for all purposes. [CLS] [SEP]
+
+## company
+
+  * [about last.fm](/about)
+  * [contact us](/about/contact)
+  * [jobs](/about/jobs)
+
+## help
+
+  * [track my music](/about/trackmymusic)
+  * [community support](https://support.last.fm/)
+  * [community guidelines](/help/guidelines)
+  * [help](/help/faq)
+
+## goodies
+
+  * [download scrobbler](/about/trackmymusic)
+  * [developer api](/api)
+  * [free music downloads](/music/+free-music-downloads)
+  * [merchandise](https://store.last.fm)
+
+## account
+
+  * [join](/join)
+  * [login](https://secure.last.fm/login)
+  * [subscribe](/pro)
+
+## follow us
+
+  * [facebook](https://www.facebook.com/lastfm)
+  * [twitter](https://twitter.com/lastfm)
+  * [instagram](https://www.instagram.com/last_fm)
+  * [youtube](https://www.youtube.com/user/lastfm)
+
+  * **english** current language
+  * deutsch
+  * español
+  * français
+  * italiano
+  * 日本語
+  * polski
+  * português
+  * русский
+  * svenska
+  * türkçe
+  * 简体中文
+
+time zone: **america/denver**
+
+  * [cbs interactive](http://www.cbsinteractive.com/) © 2021 last.fm ltd. [CLS] [SEP] all rights reserved
+  * [terms of use](/legal/terms)
+  * [privacy policy](/legal/privacy)
+  * [legal policies](/legal)
+  * [california privacy/info we collect](https://ca.privacy.cbs)
+  * [do not sell my personal information](https://ca.privacy.cbs/donotsell)
+  * [jobs at cbsi](http://www.cbsinteractive.com/careers)
+  * [last.fm music](http://www.last.fm)
+
+audioscrobbler
+
+![last.fm 'as' logo](/static/images/footer_logo@2x.49ca51948b0a.png)
+
+## api calls
+
+close
+

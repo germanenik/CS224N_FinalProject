@@ -1,0 +1,957 @@
+#  [ kaspersky __](/ "kaspersky lab")
+
+## kaspersky lab privacy policy for websites
+
+last updated: 04/28/2020. [CLS] [SEP] [what's new](/web-privacy-policy/updates)
+
+#### **data controller information**
+
+this privacy policy applies to ao kaspersky lab, located at bldg. [CLS] [SEP] 3, 39a,
+leningradskoe shosse, moscow, 125212, russian federation ("kaspersky",
+"kaspersky lab" or "we") websites that receive data and are linking to this
+privacy policy. [CLS] [SEP] it does not apply to kaspersky websites that do not display or
+link to this privacy policy or that have their own privacy policy. [CLS] [SEP] it also
+does not apply to kaspersky lab's services and products unless they are
+linking to this privacy policy. [CLS] [SEP]
+
+in this privacy policy we inform you about the processing and the privacy of
+your personal data when using our websites. [CLS] [SEP] as a security expert company, data
+privacy and data security are very important to us. [CLS] [SEP] therefore, we are
+committed to respecting and protecting your privacy and to handling your
+personal data confidentially. [CLS] [SEP] we recommend visiting this website regularly as
+this privacy policy can be updated due to possible amendments to the law or
+changes of our internal processes. [CLS] [SEP]
+
+if you have any questions or comments regarding the processing of your
+personal information and kaspersky's privacy practices or if you would like us
+to update information or preferences you provided to us, please contact our
+data protection officer at <https://support.kaspersky.com/general/privacy> or
+directly by post or email: kaspersky labs gmbh, ingolstadt, despag-strasse 3,
+85055, germany, [dpo@kaspersky.com](mailto:dpo@kaspersky.com). [CLS] [SEP]
+
+you can also contact kaspersky eu representative (in accordance with article
+27 gdpr): kaspersky labs gmbh, ingolstadt, despag-strasse 3, 85055, germany,
+[info@kaspersky.de](mailto:info@kaspersky.de), +49 (0) 841 98 18 90. [CLS] [SEP]
+
+#### **general information**
+
+in general, you can visit and read most parts of our website contents without
+providing any personal data. [CLS] [SEP]
+
+for the process of retrieving your requested information from our websites,
+our servers store certain data needed for service delivery and/or for
+statistical or security purposes in anonymized or pseudonymized form
+(pseudonymized form means data is collected under a pseudonym, i.e. [CLS] [SEP] a unique
+random alphanumeric string generated internally in order to identify each data
+record). [CLS] [SEP] in this context, general information is recorded, such as your domain
+name or browser type. [CLS] [SEP] these data do not enable us to draw conclusions
+regarding your identity. [CLS] [SEP] these anonymized or pseudonymized data are deleted
+promptly after their statistical evaluation. [CLS] [SEP]
+
+we do not process any "special categories of personal data" about you (this
+includes details about your race or ethnicity, religious or philosophical
+beliefs, sex life, sexual orientation, political opinions, trade union
+membership, information about your health and genetic and biometric data). [CLS] [SEP]
+
+**notice for california consumers.** if you are looking for ccpa-specific
+information, check out our [ccpa privacy
+notice](https://www.kaspersky.com/web-privacy-policy/ccpa) as well, which is
+incorporated into this privacy policy. [CLS] [SEP]
+
+#### **why we process your personal data**
+
+the purposes for processing the personal data that you provide depend on the
+websites, services and features you use. [CLS] [SEP] in particular, we use the data to:
+
+  * ensure the performance of a contract with users and to ensure the required performance of services for customers;
+  * protect the user from known threats to information security;
+  * improve user interaction and experience with our services, in particular, changing interfaces and providing the desired content and advertisements related to marketing purpose;
+  * provide technical support of products and services for customers and to improve the quality of products and services;
+  * respond to your questions and otherwise interact with you;
+  * secure our websites and protect you and us against fraud. [CLS] [SEP]
+
+#### **what is our legal basis for processing your personal data**
+
+our lawful basis for processing your general personal data:
+
+  * processing necessary for the performance of a contract with the data subject or to take steps to enter into a contract;
+  * where it is necessary for our legitimate interests and your interests and fundamental rights do not conflict with those interests: 
+    * in ensuring the ongoing security and proper operation of our website and associated it systems and prevent fraud;
+    * limited personal data is stored in case the individuals have asked us to not process their personal data to ensure that the kaspersky lab can remain compliant with their request. [CLS] [SEP]
+  * your specific consent to process for the purpose in question;
+  * processing necessary for compliance with a legal obligation. [CLS] [SEP]
+
+#### **automated decision making**
+
+we do not use automated decision making at our websites and services. [CLS] [SEP]
+
+#### **what personal data do we process and how do we use it**
+
+### [**my kaspersky**](https://my.kaspersky.com/) **,[ **kaspersky
+account**](https://account.uis.kaspersky.com/) **,**[ **kaspersky small office
+security management console**](https://ksos.kaspersky.com/) **, and**[ **anti-
+theft web management**](https://anti-theft.kaspersky.com/) **(hereinafter
+referred to as the "service")**
+
+### **the categories of data**
+
+in order to use the service and have access to all of its functions, you will
+provide following personal data:
+
+  * your email address and password when you register on our service;
+  * mobile phone number;
+  * information about your devices and licenses;
+  * information you provided to kaspersky lab's technical support;
+  * expiration date of your bank card and the last 4 symbols of your bank card number;
+  * statistical information about your browser (domain names, ip addresses, network provider, browser types and other information about client environment, which kaspersky lab applications you use and how you use them, the web page you were visiting immediately prior to visiting our website, pages of our website that you visited, the time spent on those pages, information you searched for on our website, access times and dates, and other statistics from people who visit our site);
+  * full list of data collected on managed devices by my kaspersky, please refer to section "[conditions regarding data processing](https://my.kaspersky.com/home/termsofuse)";
+  * full list of data collected on managed devices by kaspersky small office security management console, please refer to section "[conditions regarding data processing](https://ksos.kaspersky.com/en/home/termsofuse)". [CLS] [SEP]
+
+### **description of service**
+
+**_account registration_** **.** in order to use the service and have access
+to all of its functions, you will need to create a personal account, which
+requires you to provide us with your email address (which will be your user
+name) and a password. [CLS] [SEP] we will only process and use this information in order
+to provide you the service, unless you expressly opt in to a processing or use
+for other purposes (for example to receive useful news on kaspersky lab
+products and services via email). [CLS] [SEP] you may also need to provide us your mobile
+phone number for the purpose of additional protection of your account from
+unauthorized access. [CLS] [SEP] we will only use your mobile phone number to send you
+authorization security codes. [CLS] [SEP]
+
+**_account settings and purchases_** **.** you may review, update or correct
+your account data, password, and preferences or even delete your account at
+any time using the "account settings" function. [CLS] [SEP] additionally, you will able to
+review your purchase history from our web store provider. [CLS] [SEP] in account settings,
+you are also able to link a bank card for easy purchases of additional
+kaspersky lab products and services. [CLS] [SEP] if you activate this option, our web
+store provider will attach your bank card data with your account and keep it
+for future orders. [CLS] [SEP] kaspersky lab will establish a special link to your web
+store provider account and will place orders on your behalf whenever they are
+performed by you. [CLS] [SEP] our web store provider also gives us the information about
+expiration date of your bank card and the last 4 symbols of your bank card
+number. [CLS] [SEP] however, we will have no access to other data of your credit card
+stored by our web store provider. [CLS] [SEP] the linkage to your account will only be
+established technically by an internal user id and password combination. [CLS] [SEP] these
+credentials will not grant us access to your bank card or other personal data
+stored by our web store provider. [CLS] [SEP] the internal user id is used for triggering
+orders from you made through the web store. [CLS] [SEP]
+
+**_devices_** **.** after registration, you will be able to manage all of your
+devices you secure using kaspersky lab products. [CLS] [SEP] you can, for example, secure
+lost or stolen devices, easily check the status of kaspersky lab products on
+each device or fix existing problems. [CLS] [SEP] to do that, you need to connect these
+devices using the "devices" function. [CLS] [SEP] in that case, a link between your
+account and the devices you connect will necessarily be established. [CLS] [SEP] this
+will, of course, only be used for the purpose of providing you with the
+"devices" function, unless you expressly opt in to a use it for other
+purposes. [CLS] [SEP]
+
+**_licenses_** **.** you can manage all of your kaspersky lab product licenses
+using the "licenses" function by adding your valid activation code(s) for each
+product and connect it to the device it is used on. [CLS] [SEP] you can also choose to be
+reminded of expiring licenses automatically or use the auto-renewal function. [CLS] [SEP]
+reminders will only be sent to you by email if you expressly opt in to that. [CLS] [SEP]
+
+**_support_** **.** if you request support from our technical support or virus
+lab team using support services, we will ask you for information needed to
+enable us to provide you with such support, such as your registration/ license
+number, the last 4 symbols of your bank card number used for purchasing the
+license, email address, and information about the product your problem relates
+to, your computer hardware, software and the nature of the problem you are
+experiencing. [CLS] [SEP] furthermore, it may be helpful or even necessary for this
+purpose to send us files you are experiencing problems with via the "upload"
+function. [CLS] [SEP] these may also contain personal information, such as user specific
+or otherwise personally identifiable file names, meta data or contents. [CLS] [SEP] it is,
+of course, always your choice whether you want to upload files or not. [CLS] [SEP] in case
+you do, please refer to our regulation on data provisioning linked to the
+upload service and accept it at first. [CLS] [SEP]
+
+**_statistical information_**. [CLS] [SEP] **we may track domain names, ip addresses,
+network provider, browser types and other information about client environment
+(such as model of your device, operating system, screen resolution, etc.) from
+people who visit our site. [CLS] [SEP] we may also process information about which
+kaspersky lab applications you use and how you use them, the web page you were
+visiting immediately prior to visiting our website, pages of our website that
+you visited, the time spent on those pages, information you searched for on
+our website, access times and dates, and other statistics. [CLS] [SEP] we use this
+information to produce traffic statistics for the kaspersky lab's sites and to
+improve security and availability of our websites and services. [CLS] [SEP] such
+information is not correlated with any personal information. [CLS] [SEP] we do not ask you
+for, access or track any location based information from your device. [CLS] [SEP]
+
+### **how long do we keep your personal data**
+
+data is deleted no later than 1 (one) calendar month after the account is
+deleted. [CLS] [SEP]
+
+### [**kaspersky motorsport
+website**](https://www.kaspersky.com/about/sponsorships/)
+
+### **the categories of data**
+
+in order to use the service and have access to all of its functions, you will
+provide following personal data:
+
+  * username and password;
+  * first name;
+  * last name;
+  * email address;
+  * your personal preferences;
+  * comments to other users. [CLS] [SEP]
+
+### **description of service**
+
+**_connect with us._** when you enter your details into this section of the
+website we will send you an email to confirm your subscription. [CLS] [SEP] once confirmed
+we will regularly send you emails to keep you up to date with the latest news
+from kaspersky motorsport. [CLS] [SEP] you can change your details and unsubscribe at any
+point by using the relevant links that are contained within each email. [CLS] [SEP]
+
+**_contact us._** when you enter your details into this section of the website
+we will send you an email to confirm receipt of your query. [CLS] [SEP] we will only use
+your personal details from this form to reply to you about your query. [CLS] [SEP]
+
+### **how long do we keep your personal data**
+
+you can delete your account at any point in time should you wish. [CLS] [SEP]  if you
+delete your account we will delete your personal information from our records
+within 24 hours. [CLS] [SEP]
+
+### [**kaspersky business hub**](https://cloud.kaspersky.com/)
+
+### **the categories of data**
+
+you must provide the following data to use kaspersky business hub and gain
+access to all of its features:
+
+  * your personal account details: 
+    * email address and password;
+    * security question to regain access to your account if you forget your password;
+    * cellphone number;
+    * country. [CLS] [SEP]
+  * information about your licenses for kaspersky products that are available on kaspersky business hub;
+  * statistical information about your device and web browser, which is collected when you visit our website;
+  * information given to kaspersky technical support
+
+### **description of service**
+
+**_account registration._** if you want to use kaspersky business hub and have
+access to the products available in kaspersky business hub, you need to create
+a personal account. [CLS] [SEP] to do this, you need to enter your email address (which
+will be used as your username) and a password. [CLS] [SEP] we will only process and use
+this information to provide you with kaspersky business hub functionality and
+the products used in kaspersky business hub. [CLS] [SEP] this information will only be
+processed and used for other purposes if you give your express consent (for
+example, to receive the latest news about kaspersky products and services by
+email, or to be contacted about your kaspersky product reviews). [CLS] [SEP] you can also
+provide your cellphone number to further protect your account from
+unauthorized access, as well as a security question to regain access to your
+account if you forget your password. [CLS] [SEP] we will only use your cellphone number to
+send security codes during your authorization. [CLS] [SEP]
+
+you can view, update, and edit your account information or delete your account
+at any time by using the "manage account" function. [CLS] [SEP]
+
+**_licenses._** you can manage licenses for kaspersky products that are
+available to you on kaspersky business hub by using the "licenses" function. [CLS] [SEP]
+to do this, you must add valid activation codes for each product that you use. [CLS] [SEP]
+we can send you an automatic license expiration reminder by email. [CLS] [SEP]
+
+access to managing certain licenses and using specific instances of our
+products depends on your access rights that are configured in the products. [CLS] [SEP]
+
+we use the country that you specify when you register your account to provide
+the online license purchasing feature. [CLS] [SEP] online sales of licenses are carried
+out by the online shop service provider (third party). [CLS] [SEP]
+
+**_statistical information._** to collect comprehensive statistics on the use
+of kaspersky business hub by website visitors, we may use various analytical
+services (third parties). [CLS] [SEP] you can find more information about our third-party
+policy in the "[do we use cookies or social network
+modules](https://www.kaspersky.com/web-privacy-policy#cookies)" section of
+this document. [CLS] [SEP] this information will be processed and used if you give your
+express consent when you visit kaspersky business hub. [CLS] [SEP]
+
+**_support._** when you contact technical support or the virus lab by using
+our support services, we will ask for the necessary information to provide you
+with support (for example, your license number, email address, information
+about the product that caused the problem, information about computer hardware
+and software, and a description of the problem). [CLS] [SEP] these files may also contain
+personal information, such as user or identifiable file names, metadata, or
+file content. [CLS] [SEP] you may send these files at your sole discretion. [CLS] [SEP]
+
+### **how long do we keep your personal data**
+
+your personal account information will be deleted no later than 1 (one)
+calendar month after the account is deleted. [CLS] [SEP] backups of data are stored for no
+more than 1 (one) month from the moment when they are created. [CLS] [SEP]
+
+### [**kaspersky endpoint security cloud**](https://cloud.kaspersky.com/)
+
+### **the categories of data**
+
+you must provide the following data to use kaspersky endpoint security cloud
+and gain access to all of its features:
+
+  * personal account details in kaspersky business hub (you can see the relevant list of data and its processing policy in the section [kaspersky business hub](https://www.kaspersky.com/web-privacy-policy#kbhub) of this document);
+  * data about your kaspersky endpoint security cloud workspaces: 
+    * information about your licenses for kaspersky endpoint security cloud;
+    * data collected from the managed devices that are connected to the workspace;
+  * statistical information about your device and web browser, which is collected when you visit our website;
+  * information given to kaspersky technical support. [CLS] [SEP]
+
+### **description of service**
+
+**_account registration._** if you want to use kaspersky endpoint security
+cloud and have access to all of its features, you need to create a personal
+account on kaspersky business hub. [CLS] [SEP] we undertake to process and use the email
+address that you provided during registration on kaspersky business hub to
+provide you with kaspersky endpoint security cloud functionality. [CLS] [SEP] this
+information can only be processed and used for other purposes if you grant
+your express consent. [CLS] [SEP]
+
+**_licenses._** you can manage licenses for kaspersky endpoint security cloud
+using the "licenses" function. [CLS] [SEP] to do this, you must add valid activation codes
+for the licenses. [CLS] [SEP] we can send you an automatic license expiration reminder by
+email. [CLS] [SEP]
+
+access to managing specific licenses depends on your access rights, and on the
+access rights of other users of kaspersky business hub. [CLS] [SEP] these access rights
+can be configured in the specific workspaces of kaspersky endpoint security
+cloud. [CLS] [SEP] for more information, please refer to our [online
+documentation](https://click.kaspersky.com/?hl=en-
+us&link=online_help&pid=cloud&version=1.0&helpid=187780). [CLS] [SEP]
+
+**_devices._** after creating a kaspersky endpoint security cloud workspace,
+you can manage the devices that are connected to your workspace and that are
+protected by kaspersky products. [CLS] [SEP] before you start managing your devices with
+kaspersky endpoint security cloud, you should take all necessary measures to
+comply with the relevant legislation concerning your use of kaspersky endpoint
+security cloud services. [CLS] [SEP] you should also change the kaspersky endpoint
+security cloud settings to reflect your usage. [CLS] [SEP] for more information, please
+refer to our [online documentation](https://click.kaspersky.com/?hl=en-
+us&link=online_help&pid=cloud&version=1.0&helpid=187780). [CLS] [SEP] to ensure
+efficiency, devices managed in kaspersky endpoint security cloud transmit data
+to the administration servers located in the kaspersky endpoint security cloud
+infrastructure. [CLS] [SEP] the list of data collected from the managed devices is
+provided in the online documentation article "[about data
+provision](https://click.kaspersky.com/?hl=en-
+us&link=online_help&pid=cloud&version=1.0&helpid=127176)."
+
+**_statistical information._** to collect comprehensive statistics on the use
+of kaspersky endpoint security cloud by website visitors, we may use various
+analytical services (third parties). [CLS] [SEP] you can find more information about our
+third-party policy in the "[do we use cookies or social network
+modules](https://www.kaspersky.com/web-privacy-policy#cookies)" section of
+this document. [CLS] [SEP]
+
+**_support._** when you contact technical support or the virus lab by using
+our support services, we will ask for the necessary information to provide you
+with support (for example, your license number, email address, information
+about the product that caused the problem, information about computer hardware
+and software, and a description of the problem). [CLS] [SEP] these files may also contain
+personal data, such as user or identifiable file names, metadata, and
+contents. [CLS] [SEP] you may send these files at your sole discretion. [CLS] [SEP]
+
+### **how long do we keep your personal data**
+
+data about your workspaces is deleted by using the "managing workspaces"
+function in kaspersky business hub, or deleted automatically after your
+kaspersky endpoint security cloud license expires. [CLS] [SEP] detailed information on the
+storage period for the data about workspaces can be found in the online
+documentation article "[about data
+provision](https://click.kaspersky.com/?hl=en-
+us&link=online_help&pid=cloud&version=1.0&helpid=127176)."
+
+### [**kaspersky security center cloud console**](https://ksc.kaspersky.com/)
+
+### **the categories of data**
+
+you must provide the following data to use kaspersky security center cloud
+console and gain access to all of its features:
+
+  * your personal account details: 
+    * email address and password;
+    * security question to regain access to your account if you forget your password;
+    * cellphone number;
+  * information about your licenses for the kaspersky products that are available on kaspersky security center cloud console;
+  * data about your kaspersky security center cloud console workspaces: 
+    * information about your licenses for kaspersky security center cloud console;
+    * data collected from the managed devices that are connected to the workspace;
+    * data that the user enters in the kaspersky security center cloud console interface;
+  * statistical information about your device and web browser, which is collected when you visit our website;
+  * information given to kaspersky technical support. [CLS] [SEP]
+
+### **description of service**
+
+**_account registration._** if you want to use kaspersky security center cloud
+console and have access to all of its features, you need to create a personal
+account on kaspersky security center cloud console. [CLS] [SEP] to do this, enter your
+email address and password. [CLS] [SEP] we will only process and use this information to
+provide you with the kaspersky security center cloud console functionality. [CLS] [SEP]
+this information can only be processed and used for other purposes if you
+grant your express consent. [CLS] [SEP] you can also provide your cellphone number to
+further protect your account from unauthorized access, as well as a security
+question to regain access to your account if you forget your password. [CLS] [SEP] we will
+only use your cellphone number to send security codes during your
+authorization. [CLS] [SEP]
+
+you can view, update, and edit your account information or delete your account
+at any time by using the "manage account" function. [CLS] [SEP]
+
+**_licenses._** you can manage licenses for kaspersky products that are
+available to you on kaspersky security center cloud console by using the
+"licenses" function. [CLS] [SEP] to do this, you must add valid activation codes for each
+product that you use. [CLS] [SEP] you can enable an automatic expiration reminder for the
+licenses that have been activated in kaspersky products. [CLS] [SEP] reminders will only
+be sent to you by email if you give your express consent. [CLS] [SEP]
+
+**_devices._** after creating a kaspersky security center cloud console
+workspace, you can manage devices that are connected to your workspace, and
+that are protected by kaspersky products. [CLS] [SEP] before you start managing your
+devices with kaspersky security center cloud console, you should take all
+necessary measures to comply with the relevant legislation concerning your use
+of kaspersky security center cloud console services. [CLS] [SEP] you should also change
+the kaspersky security center cloud console settings to reflect your usage. [CLS] [SEP]
+for more information, please refer to our [online
+documentation](https://click.kaspersky.com/?hl=en-
+us&link=online_help&pid=ksc&version=1.0.0&helpid=5022). [CLS] [SEP] to ensure efficiency,
+devices managed in kaspersky security center cloud transmit data to the
+administration servers located in the kaspersky security center cloud
+infrastructure. [CLS] [SEP] the list of data collected from the managed devices is
+provided in the online documentation article "[about data
+provision](https://click.kaspersky.com/?hl=en&link=online_help&pid=ksc&version=1.0.0&helpid=175956)."
+
+**_statistical information._** to collect comprehensive statistics on the use
+of kaspersky security center cloud by website visitors, we may use various
+analytical services (third parties). [CLS] [SEP] you can find more information about our
+third-party policy in the "[do we use cookies or social network
+modules](https://www.kaspersky.com/web-privacy-policy#cookies)" section of
+this document. [CLS] [SEP] if you give your express consent, this information will be
+processed and used when you visit kaspersky security center cloud console. [CLS] [SEP]
+
+**_support._** when you contact technical support or the virus lab by using
+our support services, we will ask for the necessary information to provide you
+with support (for example, your license number, email address, information
+about the product that caused the problem, information about computer hardware
+and software, and a description of the problem). [CLS] [SEP] these files may also contain
+personal information, such as user or identifiable file names, metadata, or
+file content. [CLS] [SEP] you may send these files at your sole discretion. [CLS] [SEP]
+
+### **how long do we keep your personal data**
+
+your personal account information will be deleted no later than 1 (one)
+calendar month after the account is deleted. [CLS] [SEP] backups of data are stored for no
+more than 1 (one) month from the moment when they are created. [CLS] [SEP] data about your
+workspaces is automatically deleted after your kaspersky security center cloud
+license expires or after you request its removal via technical support. [CLS] [SEP] after
+your license expires, you may be granted the right to continue using the
+product, although the product functionality may be limited. [CLS] [SEP] detailed
+information on the storage period for the workspace data can be found in the
+online documentation article "[about data
+provision](https://click.kaspersky.com/?hl=en&link=online_help&pid=ksc&version=1.0.0&helpid=175956)."
+
+### [**kaspersky security for microsoft office
+365**](https://cloud.kaspersky.com/)
+
+### **the categories of data**
+
+in order to use the service and have access to all of its functions, you will
+provide following personal data:
+
+  * email address;
+  * company name;
+  * password;
+  * your preferences;
+  * information you provided to kaspersky lab's technical support;
+  * list of data that may be accessed by the kaspersky security for microsoft office 365 service as well as the data that is collected during operation of the service is presented in the documentation section "[about data provision](https://click.kaspersky.com/?link=online_help&hl=en-us&pid=ks365&version=1.2&helpid=144072)". [CLS] [SEP]
+
+### **description of service**
+
+**_account registration._** in order to use kaspersky security for microsoft
+office 365 and have access to all of its functions, you will need to create a
+personal account, which requires you to provide us with your email address,
+company name, and password. [CLS] [SEP] you can use a kaspersky endpoint security cloud
+account. [CLS] [SEP] we will only process and use this information in order to provide you
+with the kaspersky security for microsoft office 365 service, unless you
+expressly opt in to processing or use for other purposes (for example, to
+receive useful news on kaspersky lab products and services via email). [CLS] [SEP] the
+email address specified during registration will be used for notifications
+related to provision of the kaspersky security for microsoft office 365
+service, including to inform you when the service is unavailable, when the
+trial period expires, or when updates have been released. [CLS] [SEP]
+
+**_account settings._** you may review, update or correct your account data,
+password and preferences or even delete your account any time using "account
+settings" function. [CLS] [SEP]
+
+**_configuring the service._** the kaspersky security for microsoft office 365
+service is integrated directly with office 365, which requires access to
+exchange online or onedrive. [CLS] [SEP] to configure your connection to exchange online
+or onedrive, you will be redirected to the microsoft online website and
+prompted to grant permission for the kaspersky security for office 365
+application through the oauth 2.0 flow. [CLS] [SEP] the kaspersky security for microsoft
+office 365 service also requires a service account to access exchange online
+quarantine. [CLS] [SEP] this service account can be configured automatically or manually. [CLS] [SEP]
+if you choose automatic configuration, the service asks you for global admin
+credentials. [CLS] [SEP] the service does not save this data in any form, but instead uses
+it only for the initial configuration and creation of a service account. [CLS] [SEP] if
+you choose manual configuration, global admin credentials are not required,
+and the service account is created manually by the administrator. [CLS] [SEP]
+
+**_service operation._** during operation, the kaspersky security for
+microsoft office 365 service receives messages and other objects (meetings,
+tasks, etc.) as well as onedrive files to be scanned, and they are processed
+according to the protection settings. [CLS] [SEP] kaspersky security for microsoft office
+365 does not save messages, onedrive files, or objects requiring scanning in
+its infrastructure. [CLS] [SEP] the list of data that may be accessed by the kaspersky
+security for microsoft office 365 service as well as the data that is
+collected during operation of the service is presented in the documentation
+section "[about data provision](https://help.kaspersky.com/ks4mo365/1.2/en-
+us/144072.htm)". [CLS] [SEP]
+
+**_support_**. [CLS] [SEP] if you request support from our technical support or virus lab
+team using our technical support services, we will ask you for the information
+that we need in order to help you, such as your registration/license number,
+the last 4 symbols of your bank card number used for purchasing the license,
+email address, data of the product and service related to your problem,
+information about your computer hardware and software, and the nature of the
+problem you are experiencing. [CLS] [SEP] furthermore, it may be helpful or even necessary
+for this purpose to send us files you are experiencing problems with via
+company account "upload" function. [CLS] [SEP] these may also contain personal
+information, such as user specific or otherwise personally identifiable file
+names, meta data or contents. [CLS] [SEP] it is of course always your choice whether you
+want to upload files or not. [CLS] [SEP]
+
+### **how long do we keep your personal data**
+
+data will be deleted after 6 months after your license expiration date. [CLS] [SEP]
+
+### [**kaspersky companyaccount**](https://companyaccount.kaspersky.com/)
+
+### **the categories of data**
+
+in order to use the service and have access to all of its functions, you will
+provide following personal data:
+
+  * corporate email address (will be your username);
+  * password;
+  * your first name;
+  * your last name;
+  * company name;
+  * country;
+  * your company's license to use kaspersky lab applications;
+  * information you provided to kaspersky lab's technical support. [CLS] [SEP] please refer to section [regulation on data provisioning](http://support.kaspersky.com/support/rdp?cid=ca&utm_source=companyaccount.kaspersky.com&utm_medium=referral&utm_campaign=company_account&utm_content=en). [CLS] [SEP]
+  * additional "third-party" email addresses (if added to the account). [CLS] [SEP]
+
+### **description of service**
+
+**_account registration_**. [CLS] [SEP] to use companyaccount and access all of its
+features, you must create:
+
+  * personal account;
+  * an account for your company, unless your coworkers have done this previously. [CLS] [SEP]
+
+this will require that you provide your corporate email address (which will be
+your username), password, first and last name, company name and country, and
+your company's license to use kaspersky lab applications. [CLS] [SEP] we will process and
+use this information solely for the purpose of providing you with
+companyaccount services and technical support, unless you explicitly choose to
+have it processed and used for other purposes. [CLS] [SEP] after registration your
+personal account will be linked to your company's account. [CLS] [SEP] if your company's
+account was previously created, then your registration information (first and
+last name and corporate email address) will be sent to the companyaccount
+administrator from your company. [CLS] [SEP] the company employee who first registers the
+company and a personal account is typically designated as the administrator. [CLS] [SEP]
+
+**_account settings._** you can at any time view, update, correct your account
+information and password, or delete your account on the "my account" tab. [CLS] [SEP] your
+company's companyaccount administrator will also be able to change your
+account settings and reset your password. [CLS] [SEP] if you are your company's
+companyaccount administrator, then you have the ability to edit personal
+accounts for all of your colleagues and block the entire company's account
+(employees' personal accounts will remain in the system). [CLS] [SEP]
+
+**_licenses_**. [CLS] [SEP] you can add and view your company's licenses to kaspersky lab
+products on the "licenses" tab of your companyaccount (activation codes or key
+files for each product). [CLS] [SEP] the license provided during registration will be
+added automatically to your company's companyaccount. [CLS] [SEP] key files are not
+physically stored on companyaccount. [CLS] [SEP] the system only stores a record about
+your company's license. [CLS] [SEP] every company employee with a personal account linked
+to your company's companyaccount has access to the list of licenses. [CLS] [SEP] your
+companyaccount administrator can remove your company's licenses by deleting
+them from the list. [CLS] [SEP]
+
+**_contracts_**. [CLS] [SEP] if your company purchases additional customer support
+services, then after the purchase has been recorded you will be able to view
+the list of purchases services on the "contracts" tab. [CLS] [SEP] the list of contracts
+will be available to those company employees who were designated as authorized
+to use the paid service at the time of purchase. [CLS] [SEP] these people will
+automatically receive notifications about the expiration of the contract. [CLS] [SEP]
+
+**_customer support requests._** if you contact customer support or the anti-
+virus lab team for support through companyaccount, we may ask you to submit
+information we may require for providing assistance to you. [CLS] [SEP] for example, this
+may include information about the product associated with your request,
+computer hardware, your company's network, software, and the nature of the
+problem you've encountered. [CLS] [SEP] moreover, it may be helpful or even necessary for
+you to send us the files you are having trouble with or files that define the
+configuration of your computer or network. [CLS] [SEP] you can do this by using the
+"attach files" option in the request form. [CLS] [SEP] these files may contain user-
+specific or otherwise personally-identifiable file names, metadata, or
+content. [CLS] [SEP] it is always your choice whether to upload these files. [CLS] [SEP] if you would
+like to upload files, please first view and accept our [regulation on data
+provisioning](http://support.kaspersky.com/support/rdp?cid=ca&utm_source=companyaccount.kaspersky.com&utm_medium=referral&utm_campaign=company_account&utm_content=en)
+on the file upload page. [CLS] [SEP] in order to choose the correct customer support
+department for your request, we will use information about your company's
+licenses, country, and possibly the interface language selected in your
+companyaccount. [CLS] [SEP] your colleagues may have access to your requests if your
+companyaccount administrator manually changes the corresponding settings (the
+administrator can view requests automatically). [CLS] [SEP]
+
+### **how long do we keep your personal data**
+
+you can delete your account at any time in the account settings or by
+submitting a request to our technical support. [CLS] [SEP] once your account has been
+deleted, your personal data will be held in kaspersky lab's database until the
+retention period has expired, but you will no longer be able to access the
+companyaccount website using the deleted account. [CLS] [SEP]
+
+### [**kaspersky lab partner portal**](https://www.kasperskypartners.com/)
+
+### **the categories of data**
+
+in order to use the service and have access to all of its functions, you will
+provide following personal data:
+
+  * email address;
+  * password;
+  * your name;
+  * address;
+  * phone number;
+  * information you provided to kaspersky lab's technical support. [CLS] [SEP]
+
+### **description of service**
+
+we may request personal information when you place an order, register a
+product, request a service, answer a survey, enter a contest, and when you
+correspond with us or engage in other activities on our website. [CLS] [SEP]
+
+you make all decisions regarding whether or not to proceed with any activity
+that requests personal information. [CLS] [SEP] however, please note that if you do not
+wish to provide the requested information, you may not be able to complete the
+transaction. [CLS] [SEP]
+
+we use personal information in the following ways:
+
+  * to provide you with information about virus alerts, product upgrades, new products, services, newsletters, informative emails, and research on future product ideas or improvements;
+  * to assist us in creating content that is relevant to you;
+  * to provide you with special kaspersky-specific offers that may be of interest to you;
+  * to assist us in creating better products and services to meet your needs;
+  * to allow you to purchase and download products, obtain access to services, or otherwise engage in activities you select;
+  * to help you quickly find software, services or product information important to you. [CLS] [SEP]
+
+kaspersky lab retains the services of outside vendors to provide services for
+us. [CLS] [SEP] they may be used to distribute products, provide technical support, or
+handle order processing. [CLS] [SEP] our vendors are required to keep the personal
+information of customers secure and strictly confidential, and use personal
+information only on behalf of kaspersky lab and for no other purpose. [CLS] [SEP]
+
+### **how long do we keep your personal data**
+
+personal data stored all the time you use the service and will be deleted
+after your first request. [CLS] [SEP]
+
+### [**gsi parser**](https://www.getsysteminfo.com/)
+
+### **the categories of data**
+
+in order to use the service and have access to all of its functions, you will
+provide following personal data:
+
+  * email address;
+  * password;
+  * report file (information about the hardware and software installed on the computer, the version of the operating system and installed service packs, kernel objects, drivers, services, microsoft internet explorer add-ons, printing system extensions, windows explorer plug-ins, loaded objects, active setup items, control panel applets, records from the hosts file and system registry, versions of browsers and mail clients, information about established network connections and open ports at the moment when the information is submitted). [CLS] [SEP] full list of provided information you can see in the section [information provided](https://www.getsysteminfo.com/tou). [CLS] [SEP]
+
+### **description of service**
+
+**_general terms and conditions_**. [CLS] [SEP] kaspersky lab hereby grants you the right
+to use the website and to examine its content for private use in order to
+ensure that the kaspersky lab software is compatible with the other software
+installed on the computer and/or drivers making up the computer and to fix any
+bugs in the software. [CLS] [SEP] by uploading the report file to the website, you
+acknowledge that you are the lawful owner of the uploaded object and that the
+object itself is not confidential and does not contain confidential
+information. [CLS] [SEP] by providing the object for analysis (uploading the object), you
+grant kaspersky lab a free-of-charge and exclusive license to copy, store and
+delete the uploaded object for analysis purposes. [CLS] [SEP] data are transmitted to
+kaspersky lab via secure connections. [CLS] [SEP] the information provided will be
+protected by the rights holder in accordance with the requirements imposed by
+law and the requirements set out in the "privacy policy". [CLS] [SEP] the website may not
+be used to create data, code or services for the purpose of detecting,
+blocking or removing viruses. [CLS] [SEP] interfering with the operation of the website or
+gaining access to the website's services through circumvention of the standard
+interface (by means of undocumented routes) is prohibited. [CLS] [SEP] use of the website
+must comply with statutory regulations, including the applicable legislative
+instruments and export and re-export rules. [CLS] [SEP]
+
+**_user account creation._** you must create an account in order to use the
+website. [CLS] [SEP] to create your account, enter your email address and set a password. [CLS] [SEP]
+
+**_user account settings._** you can change your email address or password or
+permanently remove the account in the manage your account section. [CLS] [SEP]
+
+### **how long do we keep your personal data**
+
+the uploaded object will be stored on kaspersky lab's systems for no longer
+than 90 days, after which it will be deleted and cannot be restored. [CLS] [SEP]
+
+### **other websites and forms**
+
+### **the categories of data**
+
+in order to access various content elements, register for events, to test our
+products, to contact us by using our contact and support forms, prevent fraud,
+identity thefts and any other misuse of the service, you will provide personal
+data that can include the following:
+
+  * first name;
+  * last name;
+  * email address;
+  * phone number;
+  * ip;
+  * utc date. [CLS] [SEP]
+
+### **description of service**
+
+**_general terms and conditions_**. [CLS] [SEP] kaspersky lab hereby grants you the right
+to use the website and to view its content for private use in order to ensure
+that the kaspersky lab software is compatible. [CLS] [SEP]
+
+**_premium content._** in order to access various content elements, such as
+whitepapers, videos, register for events or reach dedicated marketing
+material, we will ask for your first name, last name, email and phone number
+as mandatory personal data to reach this premium content and to provide you
+with additional information on other content. [CLS] [SEP] these data will be used by our
+kaspersky regional office responsible for your location to provide you with
+additional information on products, services, and other initiatives such as
+educational activities, seminars, events and marketing campaigns which might
+be of interest to you. [CLS] [SEP] the subscription is voluntary and you are free to
+unsubscribe anytime by clicking the unsubscribe link or contacting us by email
+address provided in the email message. [CLS] [SEP] in that case your registration data
+will be deleted and you will not be able to access premium content any longer,
+unless you subscribe for it again. [CLS] [SEP]
+
+**_free trials._** if you want to test our products, we will also ask for your
+first name, last name, phone number and email address. [CLS] [SEP] this information will
+be used for sending out the activation code and to remind you of the end of
+the trial period. [CLS] [SEP] up to 14 days after the end of the trial period you may
+receive a final reminder and an offer to purchase a full license. [CLS] [SEP] the trial
+registration is voluntary and you are free to withdraw your consent anytime by
+clicking the unsubscribe link or contacting us by email address provided in
+the email message. [CLS] [SEP] upon your opt-out we will promptly delete your information
+unless you decide to purchase a full license. [CLS] [SEP]
+
+**_newsletters, free product updates and special offers._** if you have signed
+up for it and provided us your email address and, in some cases, your name and
+last name we will use these data to provide you with additional information on
+products and services free product updates and special offers which might be
+of interest to. [CLS] [SEP] the subscription is voluntary and you are free to unsubscribe
+anytime by clicking the unsubscribe link or contacting us by email address you
+will find in every email. [CLS] [SEP] in that case, your name and email address will be
+deleted and we will no longer send you these kinds of emails, unless you sign
+up again. [CLS] [SEP]
+
+**_contact forms._** if you want to contact us by using our contact and
+support forms, you will be asked to provide your contact information (entry
+fields marked "*"), which we will exclusively process or use as far as
+necessary to get in contact with you and provide you with the information you
+desire. [CLS] [SEP] you are free to provide additional information (through the data
+fields not marked "*"), which we will of course process in line with all
+applicable data protection requirements as well. [CLS] [SEP] this data will be forwarded
+to the kaspersky regional teams responsible for your location. [CLS] [SEP] the kaspersky
+regional teams will use the data in order to get in contact with you. [CLS] [SEP]
+
+**_annual customer satisfaction surveys for technical support users._**
+kaspersky lab holds per-incident surveys and an annual survey for technical
+support users with the purpose of improving the quality of service. [CLS] [SEP] in order
+to conduct the annual customer satisfaction surveys we receive the following
+information:
+
+your email address, which will allow us to identify you as a user in our
+database and link your opinion within the survey with your contacts and
+history of requests sent to our technical support team. [CLS] [SEP]
+
+the rate you gave to our technical support team and recommendations that will
+be used for improving the quality of services provided by kaspersky lab
+technical support. [CLS] [SEP]
+
+**how long do we keep your personal data**
+
+personal data stored all the time you use the service and will be deleted
+after your first request. [CLS] [SEP]
+
+#### **do we use cookies or social network modules**
+
+cookie files are files or fragments of information that may be saved on your
+computer or other internet-compatible devices (for example, smartphones and
+tablets) when you visit our websites. [CLS] [SEP] this information frequently consists of
+alphanumeric strings that uniquely identify your computer, but they may also
+contain other information. [CLS] [SEP]
+
+we use different types of "cookies" (small text files that are placed on your
+device):
+
+  * user input cookies;
+  * authentication cookies;
+  * cookies storing your preferences and settings;
+  * performance cookies;
+  * security (antifraud) cookies;
+  * third party advertising cookies;
+  * first party analytics cookies;
+  * social network tracking cookies. [CLS] [SEP]
+
+we also use cookie files on our websites when you download kaspersky lab
+applications from our websites. [CLS] [SEP] this lets us improve user interaction with the
+website and product when you use kaspersky lab products and our websites and
+when you provide explicit consent. [CLS] [SEP]
+
+some of our web pages use electronic markers (web beacons) that we use to
+obtain comprehensive statistics regarding the effectiveness of our advertising
+campaigns and other operations. [CLS] [SEP] we also include web beacons in our emails to
+you in order to determine the effectiveness, performance, and optimization of
+email mailings and the user experience. [CLS] [SEP] we use various analytical services for
+these purposes. [CLS] [SEP] you can review a list of them
+[here](https://www.kaspersky.com/third-party-tracking). [CLS] [SEP]
+
+you can configure your browser settings in a way that cookies are blocked or
+your system informs you whenever a website wants to set a cookie. [CLS] [SEP] however,
+please be aware that the blocking of cookies may have the effect that you will
+not be able to use all our website functions any more. [CLS] [SEP]
+
+also we use different types of "social plugins". [CLS] [SEP] please find here a [list of
+cookies embedded into our websites and table explaining how we use the social
+network modules.](https://www.kaspersky.com/third-party-tracking)
+
+#### **kaspersky's principles regarding data protection**
+
+our websites are principally designed in a way that limits the processing of
+personal data to a minimum. [CLS] [SEP] in certain cases we are obliged to transfer your
+personal data to third parties due to applicable legal requirements. [CLS] [SEP] this is
+for instance the case when there is reason to suspect a crime or misuse of our
+website. [CLS] [SEP]
+
+for the provision of certain services we may make use of external service
+providers. [CLS] [SEP] as far as such external service providers need to have access to
+personal data, we ensure that any such access is limited to the extent
+necessary for the provision of the respective service. [CLS] [SEP] furthermore, such
+external service providers of course have to submit themselves to comply with
+all applicable data protection regulations. [CLS] [SEP]
+
+our websites contain links to companies we maintain business relationships
+with, especially to our web shop providers. [CLS] [SEP] we are in no way responsible for
+compliance with data protection requirements regarding the use of our
+partner's websites. [CLS] [SEP] for information concerning data protection when visiting
+theses websites, please refer to the respective companies' website privacy
+policies. [CLS] [SEP]
+
+#### **where we process information**
+
+the personal data provided by users to kaspersky lab can be processed in the
+countries, including countries outside the european union (eu) or the european
+economic area (eea) and can include the following: germany, netherlands,
+france, united kingdom, switzerland, canada, singapore, russia, japan, usa,
+mexico, china, azerbaijan. [CLS] [SEP] according to our general business practice, the
+data received from users in the eu is processed on servers located in the eu
+and russia. [CLS] [SEP] personal data may be processed at destinations outside the
+european union (eu) or the european economic area (eea) some of which have not
+been determined by the european commission to have an adequate level of data
+protection. [CLS] [SEP] in which case kaspersky lab will transfer and disclose your data
+in compliance with the [european commission's adequacy
+decisions](https://ec.europa.eu/info/law/law-topic/data-protection/data-
+transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en) on
+certain countries and the standard contractual clauses approved by the
+european commission. [CLS] [SEP] you can request a copy of the standard contractual
+clauses - please contact us at [click
+here](https://support.kaspersky.com/privacy). [CLS] [SEP]
+
+kaspersky lab has taken appropriate security measures to protect your personal
+data in accordance with security and privacy best practices, including,
+utilizing the european commission's standard contractual clauses for transfers
+of personal information between its group companies, which requires all group
+companies to protect personal information being processed from the european
+economic area to an equivalent standard to that required under european union
+data protection law. [CLS] [SEP] where we share your personal data with a third party
+service provider outside of the european economic area and switzerland (as
+detailed in the section entitled "recipients and legal basis for transfer"),
+we contractually oblige the third party service provider to implement adequate
+safeguards to protect your information. [CLS] [SEP]
+
+#### **recipients and legal basis for transfer**
+
+we never provide data, or access to data, to state organizations or third
+parties. [CLS] [SEP] we may only disclose information under restricted access as follows:
+
+  * within the kaspersky lab group of companies. [CLS] [SEP] your personal data will be used by our employees and other staff members on a need-to-know basis for the purposes described above. [CLS] [SEP]
+  * we also may share your information with vendors that help us in providing the services to us. [CLS] [SEP] these will process your personal data as data processors (article 28 gdpr) solely on our behalf. [CLS] [SEP] the categories of such recipients include: provide web analytics, data processing, advertising, email distribution, payment processing, order fulfillment, and other services. [CLS] [SEP]
+
+in such cases, these companies must abide by our data privacy and security
+requirements and are not allowed to use the personal data they receive from us
+for any other purpose. [CLS] [SEP]
+
+when we disclose your information to group of companies kaspersky lab and
+service providers outside the european economic area, we do so on the basis of
+the standards set out in the european commission approved standard contractual
+clauses for the export of personal data, and our own high standards of data
+security and respect for your privacy. [CLS] [SEP]
+
+#### **your rights and your personal data** **and how to exercise them**
+
+also, we inform that you have certain rights regarding the personal data we
+store:
+
+  * **right to be informed**. [CLS] [SEP] you have the right to be provided with clear, transparent and easily understandable information about how we use your personal data, and your rights. [CLS] [SEP]
+  * **right of access**. [CLS] [SEP] this enables you to receive a copy of the personal data we process about you and to check that we are lawfully processing it. [CLS] [SEP]
+  * **right to rectification**. [CLS] [SEP] request correction of the personal data that we process about you. [CLS] [SEP]
+  * **right to erasure (right to be forgotten)**. [CLS] [SEP] this enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. [CLS] [SEP]
+  * **right of restriction of processing**. [CLS] [SEP] this enables you to ask us to suspend the processing of personal data about you, for example if you want us to establish its accuracy or the reason for processing it. [CLS] [SEP]
+  * **right to data portability**. [CLS] [SEP] request the transfer of your personal data. [CLS] [SEP] we will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. [CLS] [SEP]
+  * **right to object**. [CLS] [SEP] you may object at any time to our processing of your personal data when such processing is based on our legitimate interests. [CLS] [SEP]
+  * **right to withdraw data protection consent**. [CLS] [SEP] if you withdraw your consent, we may not be able to provide you with access to the certain specific functionalities of our site. [CLS] [SEP] we will advise you if this is the case at the time you withdraw your consent. [CLS] [SEP]
+  * **right to complain**. [CLS] [SEP] you have the right to contact the data protection authority of your country in order to lodge a complaint against our data protection and privacy practices. [CLS] [SEP]
+  * **the right to deactivate cookies**. [CLS] [SEP] if you wish to restrict or block all the cookies which are set by our websites, please use the tool available on the particular website (if applicable), or refer to the help function within your browser to learn how to manage your settings within your browser. [CLS] [SEP]
+
+if you wish to exercise these rights, you may at any time directly [contact
+us](https://support.kaspersky.com/privacy). [CLS] [SEP]
+
+typically, you will not have to pay a fee to access your personal data (or to
+exercise any of the other rights). [CLS] [SEP] however, except in relation to consent
+withdrawal, we may charge a reasonable fee if your request is clearly
+unfounded, repetitive or excessive, or, we may refuse to comply with your
+request in these circumstances. [CLS] [SEP]
+
+we may need to request specific information from you to help us confirm your
+identity and ensure your right to access your personal data (or to exercise
+any of your other rights). [CLS] [SEP] this is a security measure to ensure that personal
+data is not disclosed to any person who has no right to receive it. [CLS] [SEP] we may
+also contact you to ask you for further information in relation to your
+request to speed up our response. [CLS] [SEP]
+
+we try to respond to all legitimate requests within one month. [CLS] [SEP] occasionally it
+may take us longer than a month if your request is particularly complex or you
+have made a number of requests. [CLS] [SEP] in this case, we will notify you and keep you
+updated. [CLS] [SEP]
+
+#### **complaints**
+
+if you would like to make a complaint regarding this privacy policy or our
+practices in relation to your personal data, please contact us at [click
+here](https://support.kaspersky.com/privacy). [CLS] [SEP]
+
+if you consider that the processing of personal data relating to you infringes
+applicable data protection law, you have the right to lodge a complaint with
+the competent supervisory authority at any time. [CLS] [SEP] which supervisory authority
+has competence for your complaint can depend on the country where you reside. [CLS] [SEP]
+

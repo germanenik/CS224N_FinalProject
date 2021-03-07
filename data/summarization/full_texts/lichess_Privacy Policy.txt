@@ -1,0 +1,569 @@
+accessibility: enable blind mode
+
+# [lichess.org](/)
+
+[playlichess.org](/)
+
+[create a game](/?any#hook)[arena tournaments](/tournament)[swiss
+tournaments](/swiss)[simultaneous exhibitions](/simul)
+
+[puzzles](/training)
+
+[puzzles](/training)[puzzle dashboard](/training/dashboard/30)[puzzle
+storm](/storm)
+
+[learn](/practice)
+
+[chess
+basics](/learn)[practice](/practice)[coordinates](/training/coordinate)[study](/study)[coaches](/coach)
+
+[watch](/tv)
+
+[lichess tv](/tv)[current
+games](/games)[streamers](/streamer)[broadcasts](/broadcast)[video
+library](/video)
+
+[community](/player)
+
+[players](/player)[teams](/team)[forum](/forum)
+
+[tools](/analysis)
+
+[analysis board](/analysis)[opening explorer](/analysis#explorer)[board
+editor](/editor)[import game](/paste)[advanced search](/games/search)
+
+[sign in](/login?referrer=/privacy)
+
+[about lichess.org](/about)[faq](/faq)[contact](/contact)[terms of
+service](/terms-of-service)[privacy](/privacy)[title
+verification](/help/master)
+
+[source
+code](/source)[contribute](/help/contribute)[changelog](/changelog)[thank
+you!](/thanks)
+
+[webmasters](/developers)[database __](https://database.lichess.org)[api
+__](/api)
+
+[is lichess lagging?](/lag)[block ads](/ads)
+
+# privacy policy
+
+this is a translation of [this document](https://lichess.org/page/politique-
+de-confidentialite), from french to english language. [CLS] [SEP]
+
+**last updated: february 13, 2021**
+
+lichess.org (" **lichess** ") is an online chess site. [CLS] [SEP] as a player in the
+digital economy, we are particularly concerned with the protection of the
+personal data of our users. [CLS] [SEP]
+
+you will find below the lichess privacy policy - the explanation of our
+practices and our commitments with regard to the processing of your personal
+data. [CLS] [SEP]
+
+we implement a process of continuous improvement of our compliance with the
+[general data protection regulations (gdpr)](https://eur-lex.europa.eu/legal-
+content/fr/txt/?uri=celex%3a32016r0679) as well as with the [law n ° 78-17 of
+january 6,
+1978](https://www.legifrance.gouv.fr/loda/id/jorftext000000886460/2020-12-13/)
+known as the "data protection act" to ensure the best level of protection to
+your personal data. [CLS] [SEP] for any information on the protection of personal data,
+you can also consult the website of the national commission for computing and
+liberties (cnil) www.cnil.fr. [CLS] [SEP]
+
+being aware of the importance of clear and transparent information in this
+area, we have included various tables to help you better understand and
+exercise your rights. [CLS] [SEP]
+
+## who is responsible for processing your personal data?
+
+the controller is, within the meaning of the gdpr, the entity that defines for
+what purpose(s) and how your personal data is used. [CLS] [SEP]
+
+the data controller is lichess.org, an association governed by the law of
+associations of july 1, 1901, whose head office is located at mr. [CLS] [SEP] lucas
+bonnet, 9 rue flachet in villeurbanne (69100). [CLS] [SEP] this means that we are your
+point of contact for any questions or concerns relating to the collection and
+use of this data. [CLS] [SEP] you can write to us at gdpr@lichess.org. [CLS] [SEP]
+
+lichess notably publishes the website <https://lichess.org/> which promotes
+the teaching and practice of chess without advertising. [CLS] [SEP] use of the site is
+also completely free. [CLS] [SEP]
+
+as part of our activities, we may collect and process personal data relating
+to our users. [CLS] [SEP] these different data processing operations are detailed in this
+privacy policy. [CLS] [SEP]
+
+## what data is collected about you and for what reasons?
+
+### 1\. [CLS] [SEP] connection to the lichess.org site
+
+when you connect to the lichess.org site, a certain amount of data is
+automatically collected by the site host concerning your terminal (such as a
+computer, smartphone or tablet) and your browser. [CLS] [SEP] this particularly includes
+your ip address. [CLS] [SEP]
+
+this data is collected for the purpose of ensuring the connection between your
+terminal and the site's servers, as well as to subsequently detect bugs (a bug
+is a design flaw in a computer program which causes a malfunction) and
+attempted cyber attacks. [CLS] [SEP]
+
+the collection and processing of this data are thus justified by lichess's
+legitimate interest in providing a functional, secure site suitable for the
+various types of terminals and browsers on the market, in accordance with
+article 6.1.f of the gdpr. [CLS] [SEP] . [CLS] [SEP]
+
+these data are kept for one year following their collection, then for the
+applicable limitation period for the purposes of managing the disputes
+described in point 7. [CLS] [SEP] below. [CLS] [SEP]
+
+## 2\. [CLS] [SEP] creation of an account and management of registered users
+
+information needed to create an account and manage registered users: we
+collect the information you provided to us when you registered, such as your
+last name, first name, email address and username. [CLS] [SEP] in order to ensure the
+proper monitoring of our relationship as well as your relationship with other
+users and to manage the various aspects of these relationships (including
+competitions and results), we also keep a copy of our written exchanges as
+well as public messages or those which you exchanged with other users of the
+site. [CLS] [SEP]
+
+this data processing allows lichess to ensure the management of its registered
+users and is justified by the execution of the contract to which you are a
+party, namely the lichess terms of service, in accordance with article 6.1.b
+of the gdpr. [CLS] [SEP]
+
+these data are kept for the duration of the contract, then for the applicable
+limitation period for the purposes of managing the disputes described in point
+7. [CLS] [SEP] below. [CLS] [SEP]
+
+optional information for creating an account and managing registered users: we
+also collect any optional information you provide to us to complete your
+profile, such as your fide title. [CLS] [SEP]
+
+this data processing is based on your consent, in accordance with article
+6.1.a of the gdpr. [CLS] [SEP]
+
+this data is kept until you withdraw your consent, then for the applicable
+limitation period for the purposes of managing disputes described in point 7. [CLS] [SEP]
+below. [CLS] [SEP]
+
+session cookies: lichess also uses session cookies. [CLS] [SEP] these cookies temporarily
+store the information you have given us and thus allow us to track your
+movements from one page to another without asking you again for this
+information to authenticate you. [CLS] [SEP]
+
+this data processing is based on lichess's legitimate interest in improving
+the browsing experience on its site, in accordance with article 6.1.f of the
+gdpr. [CLS] [SEP]
+
+these data are kept for the duration of the browsing session. [CLS] [SEP] you can
+configure these cookies from your browser settings. [CLS] [SEP]
+
+### 3\. [CLS] [SEP] technical support
+
+when you ask us to resolve a technical problem, we collect a certain amount of
+information such as your name, first name, email address and username, the
+date and time of your request, as well as the circumstances of the reported
+problem. [CLS] [SEP]
+
+in addition, it may occur that our moderators need to access your account to
+see a problem or take an action on your behalf that you have requested. [CLS] [SEP]
+
+this data processing is justified by lichess's legitimate interest in offering
+technical support to its users, in accordance with article 6.1.f of the gdpr. [CLS] [SEP]
+
+this data is kept until the problem is resolved, then for the applicable
+limitation period for the purposes of managing disputes described in point 7. [CLS] [SEP]
+below. [CLS] [SEP]
+
+### 4\. [CLS] [SEP] improvement of our services
+
+we use data relating to the use of our teaching and chess services to evolve
+these services in such a way that they are always more effective for our
+users. [CLS] [SEP]
+
+the data processed for this include navigation data of users on our services. [CLS] [SEP]
+
+this data processing is justified by lichess's legitimate interest in
+developing and improving its services, in accordance with article 6.1.f of the
+gdpr. [CLS] [SEP]
+
+we only keep this data for as long as necessary for the analysis allowing us
+to identify areas for improving our services. [CLS] [SEP]
+
+### 5\. [CLS] [SEP] fraud prevention
+
+in order to prevent fraud on our site and in particular the multiplication of
+accounts, we collect a certain amount of information such as your last name,
+first name, email address and username. [CLS] [SEP]
+
+this data processing is based on lichess's legitimate interest in preventing
+and combating fraud on its site, in accordance with article 6.1.f of the gdpr. [CLS] [SEP]
+
+these data are kept for one year following their collection, then for the
+applicable limitation period for the purposes of managing the disputes
+described in point 7. [CLS] [SEP] below. [CLS] [SEP]
+
+### 6\. [CLS] [SEP] donations and purchases of goods
+
+  * if you donate to our association or purchase goods from our online stores, we will collect your email address, the amount and the transaction number. [CLS] [SEP]
+
+this data processing is justified by the execution of the contract, namely the
+transaction, in accordance with article 6.1.b of the gdpr. [CLS] [SEP]
+
+this data is kept until full payment is made, then for the applicable
+limitation period for the purposes of managing disputes described in point 7. [CLS] [SEP]
+below. [CLS] [SEP]
+
+  * with your consent, we will publish your username and the amount of your donation on our site, in the interests of transparency. [CLS] [SEP]
+
+this data processing is based, on your consent, in accordance with article
+6.1.a of the gdpr. [CLS] [SEP]
+
+this data is kept until you withdraw your consent, then for the applicable
+limitation period for the purposes of managing disputes described in point 7. [CLS] [SEP]
+below. [CLS] [SEP]
+
+### 7\. [CLS] [SEP] litigation management (possible or current)
+
+we will be likely to keep any data the conservation of which seems necessary
+or useful to us to prevent a dispute and to manage any litigation or pre-
+litigation. [CLS] [SEP]
+
+we will use it, where appropriate, to prevent, initiate or respond to a
+dispute of this type, whether or not you are a party to this dispute (for
+example a dispute relating to the use of our services). [CLS] [SEP]
+
+this retention is justified by lichess's legitimate interest in protecting and
+defending its rights and interests, including in court, in accordance with
+article 6.1.f of the gdpr. [CLS] [SEP]
+
+we will thus keep all relevant data from a probationary point of view for the
+legally applicable limitation period, i.e. [CLS] [SEP] in principle 5 years (civil
+limitation under common law). [CLS] [SEP]
+
+### 8\. [CLS] [SEP] compliance with a legal obligation
+
+we are likely to keep any data the retention of which appears necessary to us
+to comply with our legal obligations, for the time necessary to comply with
+these obligations. [CLS] [SEP]
+
+this retention is justified by compliance with a legal obligation to which
+lichess is subject, in accordance with article 6.1.c of the gdpr. [CLS] [SEP]
+
+we will keep this data for one year, then for the legally applicable
+limitation period according to the legal obligations concerned. [CLS] [SEP]
+
+### 9\. [CLS] [SEP] further processing of data for statistical purposes
+
+in order to maintain statistics relating to the games that took place on the
+lichess.org site and in particular to allow you to know your history of the
+games played as well as your ranking, we will keep your username and other
+non-personal information, such as party metadata. [CLS] [SEP]
+
+this further processing is compatible with the initial collection of your
+username, justified by the execution of the contract in accordance with
+article 6.1.b of the gdpr as indicated in point 2 above, in accordance with
+recital 50 and articles 5 and 89 of the gdpr. [CLS] [SEP]
+
+## summary table
+
+data collected| purposes (intended or possible use of data)| justification of
+the purpose under the gdpr| maximum data retention period in a form that
+allows you to be identified  
+---|---|---|---  
+information relating to your internet browser and your terminal (http
+request)| connection to the lichess.org site; detection of bugs and attempted
+cyber attacks| legitimate interest of lichess (article 6.1.f) rgpd)| 1 year
+following data collection, then legally applicable limitation period (in
+principle 5 years)  
+identification data| creation of an account and management of registered users
+(mandatory information)| execution of the contract (article 6.1.b) gdpr)|
+during the term of the contract, then legally applicable limitation period (in
+principle 5 years)  
+identification data| creation of an account and management of registered users
+(optional information)| consent (article 6.1.a) gdpr)| until withdrawal of
+consent, then legally applicable limitation period (in principle 5 years)  
+identification data| improved browsing experience for registered users
+(collection of information through session cookies)| legitimate interest of
+lichess (article 6.1.f) rgpd)| the duration of the browsing session, subject
+to the configuration of these cookies by the user  
+identification data| technical support| legitimate interest of lichess
+(article 6.1.f) rgpd)| until the technical problem is resolved then the
+legally applicable limitation period (in principle 5 years)  
+identification data| improvement of services| legitimate interest of lichess
+(article 6.1.f) rgpd)| time needed to identify avenues for improving services
+then legally applicable limitation period (in principle 5 years) (retention as
+evidence for possible litigation)  
+identification data| fraud prevention| legitimate interest of lichess (article
+6.1.f) rgpd)| 1 year following data collection, then legally applicable
+limitation period (in principle 5 years)  
+identification and payment data| donations and purchase of goods| execution of
+the contract (article 6.1.b) gdpr)| until full payment, then legally
+applicable limitation period (in principle 5 years)  
+identification data| publication of username and donation amount for
+transparency| consent (article 6.1.a) gdpr)| until withdrawal of consent, then
+legally applicable limitation period (in principle 5 years  
+identification data| litigation management| legitimate interest of lichess
+(article 6.1.f) rgpd)| legally applicable limitation period (in principle 5
+years)  
+  
+legally applicable limitation period (in principle 5 years)  
+identification data | compliance with a legal obligation | lichess legal
+obligation (article 6.1.c) rgpd) | 1 year, then legally applicable limitation
+period according to the legal obligations concerned  
+username | statistical purposes | performance of the contract (articles 5,
+6.1.b), 89 and recital 50 gdpr) | time required to keep statistics
+
+as an association, we strive to put all technical and organizational measures
+in place to achieve the retention periods set out above. [CLS] [SEP]
+
+in any case, you remain in control of your data through the right to erasure
+mentioned below. [CLS] [SEP] we will notify you when a request for erasure does not comply
+with our legal obligations. [CLS] [SEP]
+
+## who has access to your data?
+
+your data is hosted by a secure professional service provider, on servers
+located in the european union. [CLS] [SEP] lichess teams, moderators and employees are
+likely to access it within the framework and the limits of their functions. [CLS] [SEP]
+
+some of your data may also be viewed or at least hosted by the following
+people and organizations:
+
+technical service providers assisting lichess for the maintenance and
+development of the lichess.org site;
+
+lichess legal advisers, accounting firms and lawyers;
+
+chess game database editing services, which aggregate public games;
+
+payment service providers and banking establishments used by lichess in
+connection with its collection of donations. [CLS] [SEP]
+
+these providers are all located in the european union or the united states. [CLS] [SEP]
+transfers made in the united states are done by our subcontractors who are
+well-known service providers making every effort to offer the appropriate
+guarantees to supervise these transfers. [CLS] [SEP]
+
+on this point, we are closely following the analyses of the european data
+protection supervisor (edps) and the cnil following the recent invalidation of
+the privacy shield, the mechanism which ensured the compliance of data
+transfers to the united states. [CLS] [SEP]
+
+regarding your donations that you have authorized us to publish for the sake
+of transparency, all users can consult them from [this
+table](https://docs.google.com/spreadsheets/d/1cggu-7anxlzkjll9l-oll00fch06xp0q7ecvddakyee/edit#gid=0). [CLS] [SEP]
+
+## what rights do you have to control the processing of your personal data?
+
+you have, like any other person whose personal data we collect and process, a
+number of rights provided for by the regulations. [CLS] [SEP]
+
+you will find the details below, followed by a summary table. [CLS] [SEP]
+
+you can exercise these rights simply by writing directly to the following
+email address: gdpr@lichess.org. [CLS] [SEP]
+
+**remember to clearly indicate in your e-mail the nature of the right you wish
+to exercise and the reasons which justify, if applicable, your request to
+exercise this right.**
+
+### 1\. [CLS] [SEP] right of access
+
+you can ask us for confirmation that personal data concerning you is or is not
+being processed and, when it is, access to such data. [CLS] [SEP] you can access your
+personal data via this link, by being logged in:
+https://lichess.org/account/personal-data. [CLS] [SEP]
+
+as such, you have the right to ask us for a copy of the personal data we have
+about you, in an easily understandable format, as well as a copy of this
+policy on a durable medium. [CLS] [SEP]
+
+### 2\. [CLS] [SEP] right to rectification
+
+you can ask us to correct, complete or update the data we have about you, if
+it seems to you to be inaccurate, incomplete or obsolete. [CLS] [SEP]
+
+in this case, we thank you for kindly communicating to us spontaneously, as
+far as possible, the new information necessary to proceed to the correction,
+completion or update requested. [CLS] [SEP]
+
+### 3\. [CLS] [SEP] right to withdraw consent
+
+with regard to processing based on your consent, you can withdraw this consent
+at any time, without justification. [CLS] [SEP] withdrawal of your consent results in the
+cessation of processing in the future. [CLS] [SEP]
+
+### 4\. [CLS] [SEP] right of objection
+
+data processing based on the legitimate interest of lichess: with regard to
+the data processing listed above which is justified by the legitimate
+interests of lichess, you have the right to oppose it for reasons relating to
+your particular situation. [CLS] [SEP]
+
+in other words, you can ask lichess to stop one and / or the other of these
+treatments with regard to you, by setting out the specific reasons which
+justify this request. [CLS] [SEP]
+
+however, it may happen that lichess refuses to respond to your request, if the
+continuation of this processing is necessary for legitimate and compelling
+reasons from our point of view (for example: if the data concerned are
+necessary for the protection and defence of lichess's rights in court or for
+public information reasons). [CLS] [SEP]
+
+data processed for statistical purposes: with regard to data processing for
+statistical purposes, you have the right to oppose it for reasons relating to
+your particular situation, unless the processing is necessary for the
+performance of a mission of public interest. [CLS] [SEP]
+
+the opposition (if it is based on valid reasons and there is no compelling
+legitimate reason or the processing is not necessary for the performance of a
+task of public interest) will result in the termination processing for the
+future, but not necessarily destruction of the data concerned: to obtain this
+destruction, you must exercise your right to erasure under the conditions
+described below, it being specified that the latter is subject to limitations,
+set out below after. [CLS] [SEP]
+
+### 5\. [CLS] [SEP] right to erasure
+
+you can ask us to delete all or part of the data we have about you, provided
+that at least one of the following conditions is met:
+
+the data concerned no longer appears necessary for any of the purposes
+previously explained;
+
+you have withdrawn your consent in accordance with point 3. [CLS] [SEP] above;
+
+you have objected to the continuation of this processing in accordance with
+point 4. [CLS] [SEP] above, and furthermore want lichess to destroy the data concerned;
+
+you consider that your personal data have been the subject of unlawful
+processing by lichess;
+
+the data concerned must be erased as a legal obligation;
+
+the data concerned relates to a person who was younger than fifteen (15) years
+old when the data was collected. [CLS] [SEP]
+
+please note, however, that lichess is entitled to oppose the deletion of
+certain data, when their retention is necessary for particularly important
+reasons, such as the protection and defence of its interests in court. [CLS] [SEP]
+
+in addition, we may choose, instead of deleting the data, to proceed with
+their complete and irreversible anonymization. [CLS] [SEP] in this way, we will be
+entitled to keep this data in a format that no longer allows you to be
+identified (for example: for statistical purposes). [CLS] [SEP]
+
+### 6\. [CLS] [SEP] right to restriction of processing
+
+failing, for example, to exercise your right to erasure, you can also ask
+lichess to “set aside” or “freeze” certain data concerning you, that is to say
+to keep this data separately, without using them anymore (except legal
+obligations). [CLS] [SEP]
+
+you can make such a request when at least one of the following conditions is
+met:
+
+the data concerning you appears to be inaccurate to you, and you prefer that
+lichess stops using it, until the data is verified and corrected if necessary. [CLS] [SEP]
+
+you consider that your personal data have been the subject of unlawful
+processing by lichess, but you choose to limit its use rather than delete
+them;
+
+the data concerned are no longer necessary for any of the purposes set out
+above, but you want lichess to keep them anyway for the purposes of defending
+your legal interests;
+
+you have exercised your right of opposition in accordance with point 4. [CLS] [SEP] above,
+and you prefer that lichess cease using the data concerned while it is time to
+verify the merits of your opposition. [CLS] [SEP]
+
+in these cases, we will "freeze" the data for the necessary time, for example
+by means of a "do not use - right to limitation exercised" marking. [CLS] [SEP]
+
+### 7\. [CLS] [SEP] right to data portability
+
+you can ask us to send you a copy of the data collected on the basis of your
+consent, allowing their reuse by you or another service provider. [CLS] [SEP]
+
+this "right to portability" differs from the right of access mentioned in
+point 1. [CLS] [SEP] above in that its purpose is not to obtain a copy that is necessarily
+readable by yourself, but a reusable copy of the data. [CLS] [SEP] , in particular with a
+view to a change of service provider. [CLS] [SEP]
+
+### 8\. [CLS] [SEP] right to define directives relating to the fate of your data after
+your death
+
+finally, you have the right to tell us how you want us to deal with your data
+in the unfortunate event of your death. [CLS] [SEP]
+
+in particular, you can ask us to proceed with the destruction of all your data
+(subject to imperative conservation needs that we may have, for example for
+the purposes of defending lichess's rights in court), or to transmit a copy of
+all this data to the person of your choice. [CLS] [SEP]
+
+you can also designate any person of your choice to be responsible for the
+execution of these "last wishes"; this person does not necessarily have to be
+one of your heirs or even the executor in charge of your estate. [CLS] [SEP]
+
+## summary table
+
+your rights| what they let you get| processing / data concerned| conditions,
+exceptions or limitations  
+---|---|---|---  
+**right of access**|  a readable and understandable copy of the data lichess
+has about you, as well as a durable copy of this policy| all| clearly state
+the right of access request. [CLS] [SEP] limits: unfounded or excessive demand; rights and
+freedoms of others  
+** right of rectification**| rectification, update or completion of data
+concerning you| all| clearly indicate the data to be corrected, completed or
+updated, as well as new data if necessary  
+**right to withdraw consent**|  discontinuation of treatment for the future|
+processing based on your consent| any  
+**right of opposition**|  stopping the processing of your data for the future|
+processing based on a legitimate interest of lichess| state the reasons
+relating to your particular situation which justify the cessation of
+treatment. [CLS] [SEP] limits: legitimate and compelling reasons (processing based on
+legitimate interest); processing necessary for the performance of a task of
+public interest (statistics); consent  
+**right to erasure**|  the deletion of your data, or their complete and
+irreversible anonymization| all| limits: freedom of expression and
+information; legal obligation ; statistical purposes; establishment, exercise
+or defense of legal claims  
+**right to restriction of processing**|  retention of your data without
+further use| all| limits: use of data only in the following cases: agreement;
+establishment, exercise or defense of legal claims; protection of the rights
+of another person; important reasons of public interest  
+**right to data portability**|  a copy of your data in a reusable computer
+format| data collected on the basis of your consent| clearly indicate, if
+applicable, the identity of the person or organization to whom you want
+lichess to send a copy of the data  
+**right to define directives relating to the fate of your data after your
+death**|  respect for your "last wishes" with regard to your personal data
+(for example: deleting them or transmitting them to any person of your
+choice)| all| clearly indicate the people responsible for monitoring the
+proper execution of your directives, who will be our contacts after your death  
+  
+do you feel that we have not responded satisfactorily to your request, or that
+we are processing your data unlawfully?
+
+in the first instance, we kindly invite you to directly contact lichess, so
+that we discuss the problem together, and try to solve it together in the best
+possible way. [CLS] [SEP] you can write to us at gdpr@lichess.org. [CLS] [SEP]
+
+if you wish, however, you have the right to contact the competent authority
+for data protection in france, namely the cnil, via its website www.cnil.fr or
+by post to the following address: cnil - 3, place de fontenoy - tsa 80715 -
+75334 paris cedex 07. [CLS] [SEP]
+
+this right can be exercised at any time and does not incur any costs for you,
+apart from the costs of sending the postal mail if applicable, and the
+possible costs of assistance or representation if you choose to be assisted in
+this procedure by a third party. [CLS] [SEP]
+
+reconnecting
+

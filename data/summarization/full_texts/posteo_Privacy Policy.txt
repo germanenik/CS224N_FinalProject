@@ -1,0 +1,459 @@
+posteo only works with javascript activated!
+
+[ posteo.de - back to homepage \- email: green, secure, ad-free ](/en "back to
+homepage")
+
+menã¼
+
+back to top
+
+[sign up](/en/signup)
+
+[deutsch](https://posteo.de/site/datenschutzerklaerung)
+
+[franã§ais](https://posteo.de/fr/site/declaration_protection_donnees)
+
+[deutsch](https://posteo.de/site/datenschutzerklaerung)
+
+[franã§ais](https://posteo.de/fr/site/declaration_protection_donnees)
+
+  * [features the account](/en/site/features)
+  * [about us more on posteo](/en/site/about_posteo)
+    * [about posteo](/en/site/about_posteo/)
+    * [press reports](/en/site/press_about_us/)
+    * [transparency report](/en/site/transparency_report)
+    * [who we donate to](/en/site/wedonateto)
+    * [posteo lab in berlin](/lab/index.en.html)
+  * [newsroom blog & press](/en/blog)
+  * [background info on privacy etc](/en/site/faq)
+    * [faq](/en/site/faq)
+    * [maximum privacy](/en/site/privacy)
+    * [posteo encryption](/en/site/encryption)
+    * [comprehensive sustainability](/en/site/sustainability)
+    * [anonymised payment](/en/site/payment)
+  * [help with all questions](/en/help)
+  * [contact we're here for you](/en/site/contact)
+
+# privacy policy
+
+![](/images/daten.png)
+
+posteo stands for maximum data protection, data economy and privacy by design. [CLS] [SEP]
+we show how an internet provider can consistently be run without collecting
+data, tracking or financing through advertising. [CLS] [SEP] as a matter of principle, we
+do not collect inventory data from you including names or addresses. [CLS] [SEP] our
+website and webmailer are ad-free and tracking-free. [CLS] [SEP] additionally, we refrain
+from incorporating social media plug-ins and from using google products. [CLS] [SEP]
+
+in this privacy policy, we provide you with an overview of posteo's protection
+and security of data. [CLS] [SEP]
+
+## legal basis
+
+the rendering of our email services requires the processing of data and occurs
+according to legal provisions. [CLS] [SEP] the following government regulations are of
+particular relevance to privacy - the european general data protection
+regulation (gdpr), the german federal data protection act (bdsg), the german
+telemedia act (tmg) as well as the secrecy of telecommunications . [CLS] [SEP] the
+services provided by posteo are exclusively hosted on our servers in germany. [CLS] [SEP]
+
+## responsible parties:
+
+this privacy information applies to the processing of data by:
+
+posteo e.k. [CLS] [SEP]  
+methfesselstrasse 38  
+10965 berlin  
+germany  
+email: support@posteo.de  
+
+## data protection officer:
+
+niels herrmann  
+email: datenschutz@posteo.de  
+
+the data protection officer at posteo e.k. [CLS] [SEP] is also reachable at the postal
+address listed above. [CLS] [SEP] (addition to the posteo e.k. [CLS] [SEP] postal address: "data
+protection officer niels herrmann"). [CLS] [SEP]
+
+in november 2016, the german federal commissioner for data protection (bfdi)
+conducted an inspection of privacy without cause at posteo. [CLS] [SEP] no complaints were
+made and the federal privacy commissioner explicitly praised our privacy
+security concept. [CLS] [SEP] the complete report can be found
+[here](https://posteo.de/bfdi_pruefbericht.pdf). [CLS] [SEP]
+
+## no inventory data
+
+as a matter of principle, we do not collect and save any inventory data (such
+as names, addresses, etc.) from you. [CLS] [SEP] when registering, you do not enter any
+inventory data and we do not collect any other personally related data. [CLS] [SEP]
+
+we effectively prevent data theft with this concept of data economy. [CLS] [SEP] the only
+data sets that cannot be stolen with 100 percent certainty are those that do
+not exist within a company. [CLS] [SEP] futhermore, [payment
+data](https://posteo.de/en/site/payment) is not connected to your account at
+posteo. [CLS] [SEP] because of this, in total, no inventory data exists for your account
+at posteo. [CLS] [SEP] in other words, posteo does not keep records with customer data or
+personally related data to your account. [CLS] [SEP]
+
+in 2017, this was confirmed independently within an [audit
+report](https://posteo.de/bfdi_pruefbericht.pdf) by the german federal
+commissioner for data protection after an on-site inspection. [CLS] [SEP]
+
+## traffic data: no ip addresses
+
+traffic data consists of all data, that is accumulated through the use of
+posteo. [CLS] [SEP]  
+in conformity with the law, we strictly do not collect and save any ip
+addresses that could be traced back to customers.. [CLS] [SEP] this was independently
+confirmed in an audit report by the german federal commissioner for data
+protection. [CLS] [SEP] we also do not collect your ip address if you visit our website or
+if you use our contact form or webmailer. [CLS] [SEP] we also do not collect or save your
+ip address if you use an external client to retrieve your emails via imap or
+pop3 or to transmit messages via smtp to be delivered by us. [CLS] [SEP] in the
+communication between email servers via smtp, we come to know the ip addresses
+of other email servers (for example ip addresses from gmx and gmail servers). [CLS] [SEP]
+the ip addresses of provider servers are only logged in the logfiles when
+errors occur and deleted after 7 days. [CLS] [SEP]
+
+we exclusively record errors that occur when sending and receiving emails to
+quickly identify and correct technical disruptions and errors. [CLS] [SEP] we delete this
+data, which cannot be traced back to an individual, automatically after 7
+days. [CLS] [SEP] in addition, we create generic, anonymised system usage and capacity
+statistics. [CLS] [SEP] these statistics also do not contain any personal information or
+ip addresses. [CLS] [SEP]
+
+## content data
+
+content data as a term is not legally defined. [CLS] [SEP] we refer to it in this context
+as the saved contents in an email account. [CLS] [SEP]  
+the contents of a communication and its accompanying circumstances (emails and
+their metadata) are subject to telecommunications secrecy and are protected by
+fundamental rights. [CLS] [SEP] that means that no one is allowed to read your emails and
+we're not allowed to pass them on to third parties. [CLS] [SEP] this would be a violation
+of your fundamental rights and punishable by law. [CLS] [SEP] telecommunications secrecy
+can be restricted only in individual cases and only by way of a judge if there
+is suspicion of certain criminal offenses. [CLS] [SEP] we always technically protect your
+content data with the latest security technologies (see our [information page
+about encryption](https://posteo.de/en/site/encryption)). [CLS] [SEP] in addition, content
+data is consistently saved on encrypted hard drives to protect them from
+physical access. [CLS] [SEP] we operate and maintain our own server infrastructure. [CLS] [SEP] all of
+our servers and stored data are located in germany. [CLS] [SEP] we save all content data
+daily in a security backup and keep this data for a duration of 7 days. [CLS] [SEP] as a
+security precaution, please create an additional copy of your content data on
+a regular basis just in case you accidentally delete this data. [CLS] [SEP] additionally,
+we offer the possibility to encrypt all emails, notes, contacts and calendar
+entries that are saved at posteo individually with the password of the account
+(aes-encryption). [CLS] [SEP] you can do this in the settings of your mailbox at the touch
+of a button. [CLS] [SEP] users of end-to-end encryption can add an additional level of
+encryption by applying inbound encryption to all incoming emails. [CLS] [SEP]
+
+when you delete content data, it's deleted immediately. [CLS] [SEP] if the data has been
+backed up in one of our daily security backups, it will remain there for an
+additional 7 days until it is completely deleted. [CLS] [SEP]  
+in general, posteo does not delete content data from an account as long as the
+contractual relationship is standing and has not been terminated by you or
+through posteo in accordance with our terms and conditions. [CLS] [SEP]
+
+automatic spam and virus detection occurs at posteo without any personal
+information and without the creation of profiles. [CLS] [SEP] we implement our own spam
+detection. [CLS] [SEP] we also use blacklists from third parties for this purpose but only
+locally on our own servers. [CLS] [SEP] the content of our users is not analysed by third
+parties and strictly not processed by spam recognition software hosted by
+third parties. [CLS] [SEP] third party providers also do not obtain any information about
+the results of spam recognition at posteo. [CLS] [SEP]
+
+## payment data is not connected with email accounts
+
+when paying via bank transfer or paypal, your name or the name of the paying
+person as well as an iban (with bank transfers) is transmitted to us. [CLS] [SEP] we do
+not receive any data about paying customers from credit card companies. [CLS] [SEP] at
+posteo, payment data is strictly not connected with email accounts meaning
+that transferred payment details do not not exist within an account. [CLS] [SEP] since our
+founding in 2009 we use our own anonymisation process for all payment
+processes that completely separates them from accounts. [CLS] [SEP] you can find detailed
+information about this subject on our [information page about
+payment](https://posteo.de/en/site/payment). [CLS] [SEP] this process protects your
+sensitive payment data in the best possible way from potential data theft and
+from abuse. [CLS] [SEP] as there is no payment information saved in your posteo account,
+you cannot set up a standing order. [CLS] [SEP] payment for accounts is always prepaid. [CLS] [SEP]
+you receive a receipt for your prepayment without a name, address or vat
+statement. [CLS] [SEP] this receipt is a tax-relevant proof of payment. [CLS] [SEP] for tax purposes,
+we are legally required to keep receipts of all payments for 10 years. [CLS] [SEP]
+receipts are only kept for this purpose. [CLS] [SEP] our procedure of anonymising the
+payment processes has also been mentioned in the [audit report of the german
+federal commissioner for data
+protection](https://posteo.de/bfdi_pruefbericht.pdf). [CLS] [SEP] this report confirms
+that payment data is not connected with email accounts. [CLS] [SEP]
+
+back in 2014, the german federal government confirmed [in their
+response](https://posteo.de/antwort_bundesregierung.pdf) to an inquiry by the
+former german member of parliament, hans-christian strã¶bele, that there is no
+requirement for email providers to connect payment data with an email account. [CLS] [SEP]
+
+## no use of schufa (german credit investigation company)/collection agencies
+
+we do not require any credit reports from schufa (german credit investigation
+company) or any other credit reports about you. [CLS] [SEP] we also do not use the
+services of collection agencies for delayed payments. [CLS] [SEP] all payments for posteo
+accounts are made in advance. [CLS] [SEP]
+
+## no advertising, no tracking, no integration of social media or google
+products
+
+posteo is free of tracking tools and advertising. [CLS] [SEP] we also do not send any
+advertising emails to you. [CLS] [SEP] we work independently and do not have any
+advertising partners. [CLS] [SEP] this is the only way an internet-based service can truly
+be run in a privacy-oriented fashion. [CLS] [SEP]
+
+in addition, our website is free of social-media plug-ins like facebook,
+twitter, etc. [CLS] [SEP] were we to integrate such plug-ins into our website, usage data
+and personal data such as ip addresses would be transmitted to these services. [CLS] [SEP]
+we do not want this. [CLS] [SEP]
+
+we do not use any google products like google analytics or so-called captchas
+from third-party providers. [CLS] [SEP] the captcha with which security questions are
+asked when registering has been programmed by posteo and does not collect any
+data from you such as your ip address. [CLS] [SEP]
+
+you can subscribe to posteo's newsletter if you'd like by opting in within
+your account settings. [CLS] [SEP] you have the option to unsubscribe from the newsletter
+at any time. [CLS] [SEP]
+
+## privacy-oriented password reset
+
+you can activate our "forgotten password" feature in connection with your
+mobile phone number in the settings of your account. [CLS] [SEP] in the case of a lost
+password, you can have a new password sent to you via text message (sms). [CLS] [SEP] your
+sensitive mobile telephone number is not transmitted to us when activating
+this feature. [CLS] [SEP] we only receive a mathematically calculated result (a salted
+hash) that we additionally secure again. [CLS] [SEP] this data is only a character string
+and is not considered inventory data after a decision by the federal network
+agency in 2017 with regard to posteo. [CLS] [SEP] as a result, they are not required by
+law to be reported to government agencies. [CLS] [SEP] you can deactivate this feature at
+any time in the settings of your account. [CLS] [SEP] by doing so, the character string
+will also be deleted. [CLS] [SEP]
+
+## posteo migration service: secure data transfer without third-party
+providers
+
+we have implemented a migration service of our own development because we do
+not want to use or recommend solutions from third-party providers for
+transferring your sensitive email data out of privacy reasons. [CLS] [SEP] with posteo's
+migration service, you can safely transfer external email accounts of other
+providers (e.g. [CLS] [SEP] gmx, web.de, icloud, etc.) including all folder structures
+(with unlimited levels). [CLS] [SEP] you decide whether you'd like to copy the entire
+contents of your previous email account or just selected folders. [CLS] [SEP] posteo
+directly retrieves the selected folders from your previous provider and they
+are transferred via an encrypted connection directly into your posteo account. [CLS] [SEP]
+at no point in time is your data transmitted via third-party providers. [CLS] [SEP]
+nowadays, it's also possible to transfer contacts and calendars from many
+providers (e.g. [CLS] [SEP] gmx, web.de, icloud, etc.) in this same way. [CLS] [SEP] posteo's
+migration service has been conceived based on our policy of maximum data
+economy. [CLS] [SEP]  
+after the migration has occurred, you can continue to have newly incoming
+emails retrieved from your old account. [CLS] [SEP] this email collection is initially
+only for three months but can be renewed an unlimited amount of times. [CLS] [SEP] data
+entered for the purposes of the email collector are saved with encryption
+until the email collector has been deleted by you. [CLS] [SEP] entered data for the
+migration service is encrypted and held in working memory only for the
+duration of the migration. [CLS] [SEP]
+
+## data import and export
+
+your data belongs to you. [CLS] [SEP] you can export and save all of your data stored at
+posteo (emails, contacts, calendars, notes) locally at any time with the help
+of open standards and freely available programs. [CLS] [SEP] it's also possible to import
+data to your account in the same way. [CLS] [SEP] these standards are imap, pop3, smtp,
+carddav and caldav. [CLS] [SEP] we provide instructions on how to import and export data
+in our help section. [CLS] [SEP] alternatively, you can also use our [migration
+service](https://posteo.de/en/help/setup-posteo-migration-service) in many
+cases for importing. [CLS] [SEP]
+
+## no tracking cookies
+
+we do not use any tracking or analytical cookies. [CLS] [SEP]  
+we only use so-called session cookies in the customer menu when logging in and
+in the webmailer. [CLS] [SEP] the data that is saved on your computer exclusively serves
+for logging on and is especially not used to to create user profiles or
+anything similar. [CLS] [SEP] session cookies are deleted at the end of each session. [CLS] [SEP] if
+you use the simplified version of our homepage (eco-switch), one cookie will
+be used that saves only one information: the information that the browser
+should load the simplified version of the homepage when directed to our
+website. [CLS] [SEP] if you change to the regular homepage, the cookie will be deleted. [CLS] [SEP]
+this cookie will also not be used to track you or to create a user profile of
+you. [CLS] [SEP]
+
+## customer support without retention of personal data
+
+you can contact our customer support with questions and problems related to
+your posteo account at any time free of charge via email at support@posteo.de
+or through the contact form on our website. [CLS] [SEP] our team provides support in
+german, english and french. [CLS] [SEP]
+
+data that you voluntarily send us in an inquiry via email, such as an
+alternative email address for contacting you or a general inquiry, are not
+saved as information to your email account with posteo. [CLS] [SEP] we do not collect ip
+addresses if you use our contact form. [CLS] [SEP] for privacy reasons, our customer
+support also works entirely without a customer database and ticket system. [CLS] [SEP]
+there is no documentation of your contact made via email or about the
+questions you have asked our customer support. [CLS] [SEP] your inquiry will only be
+answered via email by our team. [CLS] [SEP] we exclusively use open source email clients
+on encrypted computers for this purpose. [CLS] [SEP]  
+all email correspondence will automatically be completely deleted at posteo 14
+days after a case has been closed. [CLS] [SEP]
+
+when you enter text in our contact form, it remains locally on your device
+until it has been submitted. [CLS] [SEP] posteo stands for genuine privacy by design. [CLS] [SEP]
+suggestions for solutions that may appear are kept locally in your browser and
+displayed when you enter keywords. [CLS] [SEP] while you are typing, no data is
+transmitted through the internet to posteo to compare the words you have
+entered with a keyword database located at posteo. [CLS] [SEP]
+
+## no transmission of data to third-party companies
+
+at no point in time do we voluntarily give personal data to third party
+companies or service contractors. [CLS] [SEP] all data is exclusively stored on our
+servers in germany. [CLS] [SEP] posteo is financed by our customers: there are no
+advertising partners or investors. [CLS] [SEP]
+
+## requests by government agencies/transparency reports
+
+in certain legally regulated cases, especially when presented with a court
+order in cases of criminal offenses, we are required when applicable to
+release an account. [CLS] [SEP] we document how often government agencies have attempted
+to acquire such data from posteo in our [transparency
+reports](https://posteo.de/en/site/transparency_report). [CLS] [SEP] inventory data or
+personally identifiable ip addresses do not exist for posteo accounts and
+cannot be released. [CLS] [SEP]
+
+## your rights according to the general data protection regulation (legally
+required part of the privacy policy)
+
+we do neither collect or save inventory data (like names or address) nor
+personally identifiable ip addresses from you. [CLS] [SEP]  
+nevertheless, we are legally required to fully inform you of your rights in
+our privacy policy. [CLS] [SEP] we hereby do so. [CLS] [SEP]
+
+## you have the right:
+
+in accordance with **gdpr article 15** you have the right to demand a
+confirmation from posteo e.k. [CLS] [SEP] as to whether we process personal data in
+relation to you. [CLS] [SEP] in this case, we will confirm in writing that we do not have
+any inventory data or personally identifiable ip addresses and that no
+customer database entry exists in relation to you. [CLS] [SEP] we will confirm that
+payment data must be retained in written form for 10 years for tax authorities
+but also that payment data does not exist within your email account and has no
+connection to your account. [CLS] [SEP] we will answer that you can delete or export saved
+content data at any point in time in your non-personally-identifiable email
+account. [CLS] [SEP]
+
+in accordance with **gdpr article 16** you have the right to immediately
+demand the correction or completion of personal data that is stored within a
+company in relation to you. [CLS] [SEP] as no inventory data such as names or addresses in
+relation to your email account is collected at posteo as well as payment data
+is not saved in relation to an account, no such data set exist on which we
+could make such changes (correction/completion). [CLS] [SEP] we only retain payment data
+for tax purposes. [CLS] [SEP] changes cannot be made to this data. [CLS] [SEP]
+
+in accordance with **gdpr article 17** you have the right to demand the
+immediate deletion of personal data that is saved within a company in relation
+to you. [CLS] [SEP] inventory data as well as personally identifiable ip addresses do not
+exist at posteo. [CLS] [SEP] payment data cannot be deleted upon your request as it would
+conflict with legal requirement of retaining this information for 10 years for
+tax authorities. [CLS] [SEP] payment details are not connected with email accounts and
+therefore do not exist in connection with your account. [CLS] [SEP] we only keep payment
+data for tax purposes. [CLS] [SEP] this data cannot be deleted. [CLS] [SEP]
+
+in accordance with **gdpr article 18** you have the right to demand a
+restriction of the processing of personal data that is stored at a company in
+relation to you. [CLS] [SEP] inventory data and personally identifiable ip addresses do
+not exist at posteo. [CLS] [SEP] we only retain payment data for tax purposes. [CLS] [SEP]
+restrictions of the processing of this data cannot be made due to tax reasons. [CLS] [SEP]
+
+if companies give personal data to third parties, the company must inform the
+recipients if personal data has been corrected or deleted according to **gdpr
+article 19**. [CLS] [SEP]  
+you have the right to request to which recipients this information went from
+the company. [CLS] [SEP]  
+as no inventory data such as names or addresses in relation to your email
+account is collected at posteo, no such data set exist with which we could
+pass on to third parties or with which we could make changes
+(corrections/deletions). [CLS] [SEP]
+
+should you have provided a company with personal data in an automated process,
+you have the right to receive this stored personal data in a structured,
+current and machine-readable format or to demand the transfer of this data to
+another responsible party according to **gdpr article 20**. [CLS] [SEP] at least within
+technical possibilities. [CLS] [SEP]  
+
+in accordance with **gdpr article 21** you have the right to revoke the
+processing of personal data within a company. [CLS] [SEP] we neither collect inventory
+data nor personally identifiable ip addresses from you and your email account
+at posteo. [CLS] [SEP] we only retain payment data for tax purposes and this cannot be
+revoked. [CLS] [SEP]
+
+in accordance with **gdpr article 7 paragraph 3** , you also have the right to
+revoke given consent of the processing of personal data from a company. [CLS] [SEP] we
+neither collect inventory data nor personally identifiable ip addresses from
+you and your email account at posteo. [CLS] [SEP] we only retain payment data for tax
+purposes and this cannot be revoked. [CLS] [SEP]
+
+in accordance with **gdpr article 22** you also have the right not to be
+subject to a resulting decision from an automated process including profiling. [CLS] [SEP]  
+at no point in time will you be subject to a resulting decision from an
+automated process (including profiling) at posteo. [CLS] [SEP]
+
+should a company store any of your personal data, the company has to inform
+you immediately if the protection of your data has been infringed upon
+according to **gdpr article 34**. [CLS] [SEP] as a matter of principle, we do not store
+any inventory data, payment data or personally identifiable ip addresses for
+your email account. [CLS] [SEP]  
+due to our data economy and the protection of sensitive data, we conceptually
+prevent the theft and other abuse of customer data related to your account
+through maximal "privacy by design". [CLS] [SEP]  
+in the case of a security related incident that could affect the security of
+your data stored at posteo, we will inform you via email and in our
+companyâs blog. [CLS] [SEP] furthermore, we will explain how to contact our data
+protection officer and offer tips for suitable measures. [CLS] [SEP]
+
+according to **gdpr article 77** , you have the right to raise a complaint
+with a supervisory authority. [CLS] [SEP] the competent supervisory authorities are:
+
+the german federal commissioner for data protection (bfdi)  
+husarenstr. [CLS] [SEP] 30  
+53117 bonn  
+germany
+
+the federal commissioner for data protection and freedom of information of
+berlin  
+maja smoltczyk  
+friedrichstr. [CLS] [SEP] 219  
+10969 berlin  
+germany
+
+## actuality and changes in this privacy policy
+
+this privacy policy is currently valid and is applicable as of july 2019. [CLS] [SEP]  
+it may become necessary to change this privacy policy as posteo develops or
+based on changes in legal or official guidelines. [CLS] [SEP] the respectively current
+privacy policy can be accessed and printed at any time on our website:
+<https://posteo.de/en/site/privacy_policy>
+
+to the top
+
+  * [about us](/en/site/about_posteo "link to about us page")
+  * [contact](/en/site/contact "link to contact page")
+  * [jobs](/site/jobs "link to posteo job page")
+  * [legal notice](/en/site/legal_notice "link to site notice")
+
+  * [help](/en/help "link to posteo help")
+  * [blog](/en/blog "news and blog")
+  * [features](/en/site/features "link to posteo features page")
+  * [press reviews](/en/site/press_about_us "link to press reviews about posteo")
+
+  * [transparency report](/en/site/transparency_report "link to posteo transparency report")
+  * [terms](/en/site/terms "link to the terms and conditions") / [privacy policy](/en/site/privacy_policy "link to privacy policy")
+  * [javascript license information](/js-licenses.html "link to javascript license information")
+  * [anti-abuse team](/en/site/contact "link to informations about posteo anti-abuse team") / [security transparency](/site/security_transparency "link to posteo security transparency")
+

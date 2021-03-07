@@ -1,0 +1,588 @@
+goguardian.com works best with javascript enabled. [CLS] [SEP]
+
+  * [![goguardian](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0idxrmltgipz4kpcetlsbhzw5lcmf0b3i6iefkb2jlielsbhvzdhjhdg9yidi0ljaumswgu1zhiev4cg9ydcbqbhvnluluic4gu1zhifzlcnnpb246idyumdagqnvpbgqgmckgic0tpgo8c3znihzlcnnpb249ijeumsigawq9ikxhewvyxzeiihhtbg5zpsjodhrwoi8vd3d3lnczlm9yzy8ymdawl3n2zyigeg1sbnm6egxpbms9imh0dha6ly93d3cudzmub3jnlze5otkvegxpbmsiihg9ijbweciget0imhb4igojihzpzxdcb3g9ijagmcaymtiumiaznc40iibzdhlszt0izw5hymxllwjhy2tncm91bmq6bmv3idagmcaymtiumiaznc40oyigeg1sonnwywnlpsjwcmvzzxj2zsi+cjxzdhlszsb0exblpsj0zxh0l2nzcyi+cgkuc3qwe2zpbgw6izawqtverjt9cgkuc3qxe2zpbgw6izawmky2qzt9cjwvc3r5bgu+cjx0axrszt5hb0d1yxjkawfux2xvz29fmmm8l3rpdgxlpgo8zybpzd0ix0dyb3vwxyi+cgk8zybpzd0ix0dyb3vwxziipgojctxniglkpsjfr3jvdxbfmyi+cgkjctxwyxroiglkpsjfugf0af8iignsyxnzpsjzddaiigq9ik0yos45ldixljnjltmumyw1ljktmtasmtetmtmumywxm2mtnc4yltmumi03ljctny4xltewljutmteunmwwljutos45cgkjcqljmy4xlduumyw2ljcsmtauncwxmc44lde1qze5ljcsmjyuocwynswyncwyos45ldixljmilz4kcqkjphbhdgggawq9il9qyxroxziiignsyxnzpsjzddeiigq9ik00ljusmjeunumxljesmtuunywwljesny4zldasmy41yzquny0yldkuny0zljesmtquoc0zljjsoc4zlduungmtniwwlteyldauns0xny45ldeunwojcqkjqzusos45ldqunywxniw0ljusmjeunsivpgojcqk8cgf0acbpzd0ix1bhdghfmyigy2xhc3m9inn0msigzd0itte2ljksmgm2ljctmc4ylde0ljysmi45lde4ldqun2mtmc42lduums0yljismtatnc42lde0ljzsltgunyw0ljzjmy01ljmsns40ltewljgsny4zlte2ljykcqkjcumyni44lduuoswyms42ldiunywxni45ldailz4kcqk8l2c+cgk8l2c+cjwvzz4kphbhdgggy2xhc3m9inn0msigzd0ittuxljksmtkun3ytmy41adkuohy4ljljltiuncwzltysnc43ltkuosw0ljzjltcsmc0xmi40ltquoc0xmi40lteyyzatni42lduunc0xmiwxmi0xmmmwljesmcwwljmsmcwwljqsmaojyzmuniwwldcumswxljysos40ldqungwtmi45ldiunwmtms42ltitnc0zljitni42ltmummmtnc40ldatocwzljytocw4yzasmc4xldasmc4zldasmc40yzasns4xldmumyw4ljqsocw4ljqkcwmyljesmcw0ljitmc44lduuoc0yljj2ltqumwgtns42qzuxljksmtkuosw1ms45lde5ljcsnteuoswxos43eiivpgo8cgf0acbjbgfzcz0ic3qxiibkpsjnodesmjauogmwldquos0zljksoc44ltguocw4ljhzltguoc0zljktoc44ltguogwwldbjmc00ljksnc04ljgsoc44ltguofm4mswxns45ldgxldiwljh6ie03mi4ylde1ljqkcwmtmi43ldatnc43ldiunc00ljcsns40czisns40ldquocw1ljrznc44ltiuncw0ljgtns40uzc1lde1ljqsnziumiwxns40eiivpgo8cgf0acbjbgfzcz0ic3qxiibkpsjnotqunywxos43di0zljvoos44djguowmtmi40ldmtniw0ljctos45ldqunmmtnywwlteyljqtnc44lteyljqtmtjjmc02ljysns40lteyldeylteyyzaumswwldaumywwldauncwwcgljmy42ldasny4xldeuniw5ljqsnc40bc0yljksmi41yy0xljytmi00ltmums02ljytmy4yyy00ljqsmc04ldmuni04ldhjmcwwljesmcwwljmsmcwwljrjmcw1ljesmy4zldguncw4ldgunaojyziumswwldqumi0wljgsns44ltiumnytnc4xac01ljzdotqunywxos45ldk0ljcsmtkunyw5nc43lde5ljd6ii8+cjxwyxroignsyxnzpsjzddeiigq9ik0xmtguncwyos4zbc0wljitmi41yy0xljisms44ltmumiwyljktns40ldiuowmtms44ldaums0zljytmc44ltquny0yljjjlteumi0xljctms41ltmuos0xljutni40di04ljlonhy4ljykcwmtmc4xldeuncwwljesmi44ldaunyw0ljfjmc41ldauoswxljusms40ldiuniwxljnjms44ltaumswzljmtms4xldqumi0yljzwmtium2g0dje3ljfoltmun1yyos4zeiivpgo8cgf0acbjbgfzcz0ic3qxiibkpsjnmtm0ljksmjkum2wtmc4ylteunmmtms4yldeunc0zldiums00ljgsmmmtmy4yldatni4xlteuoc02ljetns4zyzatnc4yldmuos01ljysny41ltuungojyzeumswwldiumiwwljesmy4yldaunhytmc40yzatmi4zltetmy43ltmuni0zljdjlteuocwwljetmy42ldauni01ljmsms41bc0xljetm2myljitms4xldquni0xljcsny4xlteun2m0ljgsmcw2ljksmi43ldyuosw3ljekcxyxmc4zsdeznc45eibnmtm0ljqsmjeuogmtmc45ltaumi0xljctmc4zltiuni0wljnjlteuoswwltqumiwwljytnc4yldiuogmwldeunywxljqsmi41ldiuoswyljvjms41ltaumswyljgtmc43ldmuos0xljckcuwxmzquncwyms44tdeznc40ldixljh6ii8+cjxwyxroignsyxnzpsjzddeiigq9ik0xndquncwxnc43yzetms43ldiunc0yljgsnc4xltiuogmwljcsmcwxljqsmc4xldismc4zbc0wljksmy43yy0wljutmc4zlteums0wljqtms42ltaunaojyy0xljusmc0yljksmc45ltmunswyljn2mteunwgtnhytmtdomy43tde0nc40lde0ljd6ii8+cjxwyxroignsyxnzpsjzddeiigq9ik0xnjcumiwyos4zac0zljdsltaumi0yljjjlteumiwxljctmy4yldiuny01ljmsmi42yy00ljcsmc04ljitnc04ljitowmwltqunywzljmtoc45ldgumi04ljkkcwmxljksmcwzljgsmc44lduumswyljfwnc41adrmmty3ljismjkum3ogtte2my4ylde3ljzjltetms40ltiuni0yljitnc4zltiumwmtmy4zldatnc45ldiuoc00ljksns41yzasmi44ldeuosw1ljqsnc45lduunaojyzeuocwwldmuns0xldqunc0yljdmmtyzljismtcunkwxnjmumiwxny42eiivpgo8cgf0acbjbgfzcz0ic3qxiibkpsjnmty5ljcsos41vjuuogg0djmun0gxnjkun3ogtte2os43ldi5ljn2lte3adr2mtdimty5ljd6ii8+cjxwyxroignsyxnzpsjzddeiigq9ik0xodyuocwyos4zbc0wljitms42yy0xljisms40ltmsmi4xltquocwyyy0zljismc02ljetms44ltyums01ljnjmc00ljismy45ltuuniw3ljutns42cgljms4xldasmi4yldaumswzljismc40di0wljrjmc0yljmtms0zljctmy42ltmun2mtms44ldaums0zljysmc42ltuumywxljvslteums0zyziumi0xljesnc42lteunyw3ljetms43yzquocwwldyuoswyljcsni45ldcumqojdjewljnimtg2ljh6ie0xodyuncwyms44yy0wljktmc4ylteuny0wljmtmi42ltaum2mtms45ldatnc4yldauni00ljismi44yzasms43ldeuncwyljusmi45ldiunwmxljutmc4xldiuoc0wljcsmy45lteunwojtde4ni40ldixljhmmtg2ljqsmjeuohoilz4kphbhdgggy2xhc3m9inn0msigzd0itte5ni4yldeyljnsmc4yldiunwmxljitms44ldmumi0yljksns40ltiuowmxljgtmc4xldmuniwwljgsnc43ldiummmxljmsms42ldeunswzljksms41ldyunhy4ljloltr2ltgungojyzaums0xljqtmc4xltiuoc0wljctnc4xyy0wljutmc45lteuns0xljqtmi42lteum2mtms44ldaums0zljqsms4xltqumiwyljz2mteum2gtnhytmtdmmtk2ljismtium3oilz4kpgc+cgk8zz4kcqk8cgf0acbjbgfzcz0ic3qxiibkpsjnmjewljesmteuogmtms4yldatmi4xltauos0yljetmi4xczauos0yljesmi4xltiumxmyljesmc45ldiumswyljftmjexljismteuocwymtaumswxms44eibnmjewljesny45cgkjcwmtmswwlteuocwwljgtms44ldeuogmwldesmc44ldeuocwxljgsms44czeuoc0wljgsms44lteuoemymteuosw4ljcsmjexljesny45ldixmc4xldcuoxoilz4kctwvzz4kctxwyxroignsyxnzpsjzddeiigq9ik0ymtauncw5ljhjmc4xltaumswwljitmc4xldaumy0wljnjmc4xltaumswwljetmc4zldaums0wljrjmc0wljitmc4xltaunc0wljitmc41yy0wljitmc4xltaunc0wljitmc42ltaumgojcwgtmc42djiunwgwljn2ltfomc41bdauniwxadaum0wymtauncw5ljh6ie0ymtasos43ac0wljn2ltfomc4zyzauncwwldauniwwljismc42ldaunwmwldaumswwldaumy0wljesmc40cgkjqzixmc4zldkunywymtaumsw5ljcsmjewldkun3oilz4kpc9npgo8l3n2zz4k)](/)
+  * products
+
+    * [![](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0idxrmltgipz4kpcetlsbhzw5lcmf0b3i6iefkb2jlielsbhvzdhjhdg9yidi0ljaumswgu1zhiev4cg9ydcbqbhvnluluic4gu1zhifzlcnnpb246idyumdagqnvpbgqgmckgic0tpgo8c3znihzlcnnpb249ijeumsigawq9ikxhewvyxzeiihhtbg5zpsjodhrwoi8vd3d3lnczlm9yzy8ymdawl3n2zyigeg1sbnm6egxpbms9imh0dha6ly93d3cudzmub3jnlze5otkvegxpbmsiihg9ijbweciget0imhb4igojihzpzxdcb3g9ijagmcaznc45idm0ljqiihn0ewxlpsjlbmfibgutymfja2dyb3vuzdpuzxcgmcawidm0ljkgmzqundsiihhtbdpzcgfjzt0ichjlc2vydmuipgo8c3r5bgugdhlwzt0idgv4dc9jc3mipgojlnn0mhtmawxsoingrkzgrky7fqo8l3n0ewxlpgo8dgl0bgu+r29hdwfyzglhbi1zagllbgqtd2hpdgu8l3rpdgxlpgo8zybpzd0ix0dyb3vwxyi+cgk8zybpzd0ix0dyb3vwxziipgojctxniglkpsjfr3jvdxbfmyi+cgkjctxwyxroiglkpsjfugf0af8iignsyxnzpsjzddaiigq9ik0yos41ldixljjjltmumiw1ljctos43ldewljctmtiuoswxmi42yy00ltmums03ljutni45ltewljitmteum0w2ljksmtmkcqkjcwmzlduumiw2ljusmtaumswxmc41lde0ljzdmtkuniwyni41ldi0ljgsmjmunywyos41ldixljiilz4kcqkjphbhdgggawq9il9qyxroxziiignsyxnzpsjzddaiigq9ik00ljksmjeunemxljysmtuunywwljusny42ldaunswzljldns4xldismtasmc45lde0ljksmc44bdgsns4zyy01ljgsmc0xms43ldauns0xny40ldeungojcqkjqzuumywxmc4xldusmtyumsw0ljksmjeuncivpgojcqk8cgf0acbpzd0ix1bhdghfmyigy2xhc3m9inn0mcigzd0itte2ljksmc41yzyuni0wljismtqumiwyljgsmtcunsw0ljzjltauniw0ljktmi4xldkuny00ljqsmtqummwtoc41ldqunqojcqkjyziuos01ljesns4zltewljusny4xlte2ljfdmjyuniw2ljmsmjeunswzljismtyuoswwljuilz4kcqk8l2c+cgk8l2c+cjwvzz4kpgc+cgk8zz4kcqk8cgf0acbjbgfzcz0ic3qwiibkpsjnmjguncwznc4yyy0wljgsmc0xljutmc43lteuns0xljvjmc0wljgsmc43lteunswxljutms41yzauocwwldeunswwljcsms41ldeunqojcqldmjkuoswzmy41ldi5ljismzqumiwyoc40ldm0ljj6ie0yoc40ldmxljrjltaunywwlteumywwljytms4zldeum3mwljysms4zldeumywxljnzms4zltauniwxljmtms4zuzi5ljesmzeuncwyoc40ldmxljr6ii8+cgk8l2c+cgk8cgf0acbjbgfzcz0ic3qwiibkpsjnmjgunywzmi43yzaumswwldaumi0wljesmc4yltaummmwljetmc4xldaums0wljismc4xltaum2mwltaumswwltaumy0wljetmc40yy0wljetmc4xltaumy0wljetmc40ltaumwgtmc40cgkjdjeun2gwljj2ltaun2gwljnsmc40ldaun2gwljjmmjgunywzmi43eibnmjguncwzmi42ac0wljj2ltaun2gwljjjmc4zldasmc40ldaumswwljqsmc4zyzasmc4xldasmc4yltaumswwljmkcqldmjguniwzmi42ldi4ljusmziunywyoc40ldmyljz6ii8+cjwvzz4kpc9zdmc+cg==)the suiteproduct bundle](/suite/)
+    * [beaconstudent safety](/beacon/)
+    * [adminfiltering & monitoring](/admin/)
+    * [dnsnetwork filtering](/dns/)
+    * [teacherclassroom management](/teacher/)
+    * [fleetasset management](/fleet/)
+
+##### solutions
+
+    * [video conferencing new](/video-conferencing/)
+    * [for windows](/windows/)
+    * [parent app](/parent-app/)
+    * [engagement analytics](/director/)
+
+##### success stories
+
+    * [downey usd](/success-stories/downey-goguardian-case-study/)
+    * [camdenton school district](/success-stories/camdenton-case-study/)
+    * [chagrin falls school district](/success-stories/chagrin-falls-case-study/)
+    * [redding school district](/success-stories/redding-case-study/)
+    * [see moreâº](/success-stories/)
+
+##### company
+
+    * [research & insights](/research-and-insights/)
+    * [newsroom](/newsroom/)
+    * [trust & privacy](/privacy-information/)
+    * [live events & webinars](/live/)
+    * [contact us](/contact/)
+
+  * resources
+
+##### product support
+
+    * [status page](https://status.goguardian.com/)
+    * [help center](https://help.goguardian.com/hc/en-us)
+    * [video training](/training/)
+
+##### resources
+
+    * [distance learning resource center](/distance-learning/)
+    * [self harm & suicide prevention](/suicide-self-harm-resources/)
+    * [glossary of technical terms](/glossary/)
+
+[![goguardian
+blog](data:image/svg+xml;base64,phn2zyb4bwxucz0iahr0cdovl3d3dy53my5vcmcvmjawmc9zdmciihzpzxdcb3g9ijagmca3mtkunyaxmdaunzmipjxkzwzzpjxzdhlszt4uyxtmawxsoimwmda7ftwvc3r5bgu+pc9kzwzzpjx0axrszt5bc3nldcaxpc90axrszt48cgf0acbjbgfzcz0iysigzd0ittm3ljq1ldq3lji0vjm2ljy4sdy3ljexvjyzljuxqzywldcyljgsndkumtmsnzcuncwzny4zniw3ny40lde2lja4ldc3ljqsmcw2mi44miwwldqxlji0ldasmjaunjysmtyunjcsns4wocwzny4zniw1lja4qtm2ljkyldm2ljkyldasmcwxldy1ljgylde4lji3bc04ljy4ldcuneeyni41ldi2ljusmcwwldasmzcumzgsmtzjlte0ldatmjqumzismtauodktmjqumzismjuumjcsmcwxns4yosw5ljg4ldi1lji4ldi0ljmyldi1lji4yti1ljq2ldi1ljq2ldasmcwwlde3ljm2ltyuofy0ny4ynfoilz48cgf0acbjbgfzcz0iysigzd0itteyns4zmyw1mc40m0eyni42ocwyni42ocwwldasmsw3miw1ms43owmwls40nswwls45ldatms4znmeyni42ocwyni42ocwwldesmsw1my4znc0xljm2qzeyns4zncw0os41miwxmjuumzqsntasmti1ljmzlduwljqzwk05oc42nswznc4xnmmtoc4zoswwlte0ljm4ldcumjgtmtqumzgsmtyumjdzniwxni4zocwxnc4zocwxni4zofmxmtmsntkuntismtezlduwljqzldewnywznc4xniw5oc42nswznc4xnloilz48cgf0acbjbgfzcz0iysigzd0itte2ni41niw0ny4ynfyzni42oggyos42nly2my41mwmtny4wocw5lji5lte4ldezljg5lti5ljc3ldezljg5ltixlji3ldatmzcumy0xnc41oc0zny4zltm2lje2ldatmjauntgsmtyunjktmzyumtysmzcumzytmzyumtzbmzyuodysmzyuodysmcwwldesmtk1lde4lji3bc04ljy4ldcuneeyni41niwyni41niwwldasmcwxnjyuntesmtzjltezljksmc0ync4zmiwxmc44os0ync4zmiwyns4ynywwlde1lji5ldkuodgsmjuumjgsmjqumzismjuumjhhmjuuntesmjuuntesmcwwldasmtcumzytni44vjq3lji0wiivpjxwyxroignsyxnzpsjhiibkpsjnmjm4ljm2ldc2ljixbc0unjetny41owexos43mywxos43mywwldasms0xni4zocw4ljc4lde3lji3lde3lji3ldasmcwxlte0lje3ltyuntljltmuoc01ltquni0xms43oc00ljytmtkumjhwmjqunzzomtiumtvwntauntdjmcw0lji5ljexldkumdgsmiwxmi4yocwxljusmi42msw0ljesmy44osw3ljgsmy44owexns44oswxns44oswwldasmcwxmi43oc03ljg4vji0ljc2adeylje2vjc2ljixwiivpjxwyxroignsyxnzpsjhiibkpsjnmjg3ljk0ldc2ljixbc0uni00ljhjltmunyw0ljqtoc42osw2lte0lju5ldytos41oswwlte4ljq3ltuumjetmtgundctmtyumdgsmc0xmi43ocwxms43oc0xni43ocwymi41oc0xni43oge0ny4xmsw0ny4xmswwldasmsw5ljy5ldeumxytms4yyzatni45ns0zlja5ltexlje4ltexltexlje4ytm1lji1ldm1lji1ldasmcwwlte1ljg3ldqundlsltmumy05ljfhntauotmsntauotmsmcwwldesmjeumzgtns4wowmxnc41nywwldiwljg0ldgumiwymc44ncwyms41ofy3ni4ymvptlteumy0ymi43owezns41ldm1ljusmcwwldatny44oc0xyy01ljcsmc0xmi42ldeunzqtmtiuniw4ljq5ldasns4ymsw0ljesny40osw4ljc5ldcundlhmtcuodusmtcuodusmcwwldasmteunjktns4wovoilz48cgf0acbjbgfzcz0iysigzd0ittmxni43miwzmi4wnmmzljexltusny4xos04ljusmtiundktoc41yte5ljczlde5ljczldasmcwxldyumi45mwwtmi42oswxms4yowe5ljgyldkuodismcwwldatnc45lteumtfjltqumzksmc04lja5ldiuns0xmc41osw2ljk0vjc2ljmzsdmwns4wn1yync43nmgxms4xwiivpjxwyxroignsyxnzpsjhiibkpsjnmzg1ljqsnzyumjfimzc0ljmxbc0untktni42qzm3mcw3ns4yldm2my4zldc3ljqsmzu3ljy0ldc3ljqsmzqzljq1ldc3ljqsmzmzldy1lji1ldmzmyw1mc4zm2mwlte0lja5ldewlja5lti2ljc3ldi0ljg3lti2ljc3ytixljmxldixljmxldasmcwxlde1ljm5ldyunvyxlji4adeylje2wk0znzmumjqsndaunjrhmtyundmsmtyundmsmcwwldatmtmums02ljq4yy0xmc4wnywwlte0ljg4ldguntgtmtquodgsmtyundgsmcw4ljm5lduunjesmtyumtcsmtqunjksmtyumtdhmtquotismtquotismcwwldasmtmumjktofoilz48cgf0acbjbgfzcz0iysigzd0ittm5my4xncwxni4zn1y1lja4sdqwns4zvje2ljm3wm0wldu5ljg0vji0ljc2sdqwns4zvjc2ljixwiivpjxwyxroignsyxnzpsjhiibkpsjnndq0ljgxldc2ljixbc0untktnc44yy0zljcsnc40ltgunjgsni0xnc41osw2ltkuntksmc0xoc40oc01ljixlte4ljq4lte2lja4ldatmtiunzgsmteunzktmtyunzgsmjiunjgtmtyunzhhndcumjgsndcumjgsmcwwldesos43ldeumxytms4yyzatni45ns0zljexltexlje4ltexltexlje4ytm1ljmzldm1ljmzldasmcwwlte1ljg5ldqundlsltmumjgtos4xytuwljg0lduwljg0ldasmcwxldixljm2ltuumdljmtquntksmcwymc44ncw4ljismjauodqsmjeunthwnzyumjfabs0xljmtmjiunzlhmzuunjgsmzuunjgsmcwwldatny45ltfjltuunywwlteyljysms43nc0xmi42ldgundksmcw1ljixldqumsw3ljq5ldgunzksny40oxm4ljizltiumswxms43ms01lja5wiivpjxwyxroignsyxnzpsjhiibkpsjnndcyljkzldi0ljc2bc42msw3lju5yte5ljgsmtkuocwwldasmswxni4zoc04ljc5lde3ljqzlde3ljqzldasmcwxlde0lje5ldyunmmzljc4ldusnc41ocwxms43ocw0lju4lde5lji3vjc2ljixsdq5ni42mly1mc4zm2mwltqumjktljetos4wos0ylteylji4ytgumjmsoc4ymywwldasmc03ljgtmy44ouexns44niwxns44niwwldasmcw0nzqsndjwnzyumjfindyxljg4vji0ljc2wiivpjxwyxroignsyxnzpsjhiibkpsjnntqxljq4ldqunjjintyxljjxmtmumzqsmcwxos41ocw0ljuzvdu4nywymi44mmexnc44mywxnc44mywwldasms0zljgxldewljqxcs0zljgxldqumtytmteumtqsns4zm3yum3e4ljyxldeumjgsmtiunjcsns40m3q0ldexlju5ctasos45my02lju5lde1lji5dc0xoc42osw1ljm2ac0ymlptnswzmmgxns44nhexmc4xncwwlde0ljczltmumzd0nc42ltewlju1ctatny4xny01lje5ltewljqyvdu2msw5lja1sdu0ni40ovptmcw0ljqzdjmxade2ljkyctiwldasmjatmtyumjmsmc0xnc44ms0yms0xnc44mvoilz48cgf0acbjbgfzcz0iysigzd0ittywni4zocw3ni41m2gtnc44n1ywadquoddaii8+phbhdgggy2xhc3m9imeiigq9ik02njysndkunznxmcwxmy4woc02ljm0ldiwljqzdc0xny41msw3ljm2ytiyljy1ldiyljy1ldasmcwxlteyljqtmy40ldixljy4ldixljy4ldasmcwxltgumjetos43mywzns4zmswzns4zmswwldasms0yljg2lte0ljy2ctatmtmumdgsni4zns0ymc4zovq2ndiuncwymnexmswwlde3lji5ldcunfq2njysndkunznabs00mi4yldbxmcwxmsw0ljg0lde3lje5ddezljcsni4xn3e4ljg3ldasmtmuny02lje3ddquodutmtcumtlxmc0xms4wny00ljktmtcumtd0ltezljc1ltyumxetoc44nswwltezljy0ldyumdhunjizljc2ldq5ljczwiivpjxwyxroignsyxnzpsjhiibkpsjnnze5ljcsmjmumdd2my4zowwtmteumdcunjlhmtguoswxoc45ldasmcwxldqundmsmtiumswxni4zniwxni4zniwwldasms01lje0ldeyljuycs01lje0ldquoc0xmy44ldqunzlhmjkuodgsmjkuodgsmcwwldetns4xmi0umjksmtiunjksmtiunjksmcwwldatnc40miwzlju5ldcumjusny4ynswwldasmc0xljuzldqumzhbnc4wniw0lja2ldasmcwwldy4nsw2ogmxlji5ljc4ldmundysms4xocw2ljuxldeumthoos4znxe4ljcsmcwxmy4zmywzljuxyzmumdgsmi4znsw0ljyylduuodesnc42miwxmc40muexnc44miwxnc44miwwldasmsw3mtisotyumtrxltyuodysnc41os0xos41nsw0lju5ltewlja4ldatmtuunjitmy44oeexmi40ocwxmi40ocwwldasmsw2nzeumjusodzhmtiuodismtiuodismcwwldesmy40mi05lje1lde3ljczlde3ljczldasmcwxldkumjctnue5ljmxldkumzesmcwwldesnjgwlja4ldy5ytyuotmsni45mywwldasms0xljq1ltqumzvxmc01ljm1ldyuodmtos40ngexns4yocwxns4yocwwldasms03lji4ltysmtcumtksmtcumtksmcwwldetmi42ltkundjxmc04lduumdktmtiuodzunjk0ljqyldiyyti1ljm0ldi1ljm0ldasmcwxldgumtysmvpnnjc2ljqxldg1lju4ctasmtesmtyumzgsmtesmjeumdysmcwyms4wns0xmy40mywwltquoditmy4yos03vdy5os44nyw3nggtoc43nve2nzyundesnzqsnjc2ljqxldg1lju4wm00lja5ltq1ljg0ctasni4xoswzljc2ldkunjj0mtaumdysmy40mne2ljy5ldasmtaumjutmy40ddmuntctos44m3ewltyuodqtmy42ny0xmc4ynnqtmtaumjutmy40mnetni4zoswwltewlja2ldmunjdunjgwljusmzkunzraii8+pc9zdmc+)read
+the latestâº](/blog/)
+
+[![](data:image/png;base64,ivborw0kggoaaaansuheugaaabqaaaakcamaaacdi47uaaacavbmvevzm/z2m/r0mvv/nvgbn/kaofn7n/v4nvz6n/aep/d6opdym/zym/ausvmqxpyoxpyyypqeypq5x/gvx/cixoo7wttuvclss64lmldpbjl6npous/musvmxsveasvwcsfscsvofsvofs/ogtpshtvwgt/a8zfmzwudl2fqat/mqxpyqxp2qxf2tw/qxw/eyxpeyxfeyxfizxvnw4pqyskzx3u25zvyux/2yypqzx/i2xvw5xvo7ypo8yva6zpi5zpne1ppavn+vwua6zfq2y/qquoctosiuo8mxpcyvpmqpnssromwerdsisdiotd2uuuguuuc3w+q9yvfve4+zwuw7yfg6ypgvw+k9vdump8ooqcwjpmcdolupq8edn7q0s8+5t9s2t9oxudwtutivwn6zw+g8t7tv1+m/xeorw+k5v9g+vthmv9hswnhtwnhrwnhnv9hjv9hdvtg8vtc4vtc6wnk6wng3vmy5tbhs1d+3vdc4vthvvchtu7/sul3rul3rulzsub7tur/uvmduvchhsrenkp/ewmvuu8duvmhcmp3spkpgranqtk7rtk7rta/sta/rtrdstq/tta/xqqq3mkc4lzmpkznjv8fbm6g+lzokmlcnnfgzpf5cr2zrvhfeyhplzobczifqxx89vhw4vh87wivayzbdzzvgazo7womvdtafaaaagnrstlp+/v7+/v7+/v7+/v79/v7+/v7+/v7+/v7+/vezmeyaaaajcehzcwaafiuaabylaulsjpaaaaahdelnrqflahywhxu9w04faaaaw0leqvqihqxbmqrcubafwdebrrdnf7tzpp7m3ntastay3xljwp77g+b7tg4jang+7zkyts8axty1kiqauf0raidqbwaa+gba7wtok2rmlo4hqa9iaec/ngfaop7x9a2fyamkfaaaaabjru5erkjggg==)![](//images.ctfassets.net/yqezig6gzu6c/5t5j4j7bzpsrhaagehn3qa/7fb2ed06eb1f5739ac79f3908b5580c2/beacon_generic2.png?w=400&q=100&fit=fill&f=faces)a
+new evolution in student safetynews7 days ago4 min read](/blog/news/new-
+categories-in-goguardian-beacon/)
+
+  * [pricing](/pricing/)
+
+[1 (888) 310-0410](tel:+1888-310-0410 "contact us")[sign
+in](https://account.goguardian.com)[get started free](/start-free-trial/)
+
+[![goguardian](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0idxrmltgipz4kpcetlsbhzw5lcmf0b3i6iefkb2jlielsbhvzdhjhdg9yidi0ljaumswgu1zhiev4cg9ydcbqbhvnluluic4gu1zhifzlcnnpb246idyumdagqnvpbgqgmckgic0tpgo8c3znihzlcnnpb249ijeumsigawq9ikxhewvyxzeiihhtbg5zpsjodhrwoi8vd3d3lnczlm9yzy8ymdawl3n2zyigeg1sbnm6egxpbms9imh0dha6ly93d3cudzmub3jnlze5otkvegxpbmsiihg9ijbweciget0imhb4igojihzpzxdcb3g9ijagmcaymtiumiaznc40iibzdhlszt0izw5hymxllwjhy2tncm91bmq6bmv3idagmcaymtiumiaznc40oyigeg1sonnwywnlpsjwcmvzzxj2zsi+cjxzdhlszsb0exblpsj0zxh0l2nzcyi+cgkuc3qwe2zpbgw6izawqtverjt9cgkuc3qxe2zpbgw6izawmky2qzt9cjwvc3r5bgu+cjx0axrszt5hb0d1yxjkawfux2xvz29fmmm8l3rpdgxlpgo8zybpzd0ix0dyb3vwxyi+cgk8zybpzd0ix0dyb3vwxziipgojctxniglkpsjfr3jvdxbfmyi+cgkjctxwyxroiglkpsjfugf0af8iignsyxnzpsjzddaiigq9ik0yos45ldixljnjltmumyw1ljktmtasmtetmtmumywxm2mtnc4yltmumi03ljctny4xltewljutmteunmwwljutos45cgkjcqljmy4xlduumyw2ljcsmtauncwxmc44lde1qze5ljcsmjyuocwynswyncwyos45ldixljmilz4kcqkjphbhdgggawq9il9qyxroxziiignsyxnzpsjzddeiigq9ik00ljusmjeunumxljesmtuunywwljesny4zldasmy41yzquny0yldkuny0zljesmtquoc0zljjsoc4zlduungmtniwwlteyldauns0xny45ldeunwojcqkjqzusos45ldqunywxniw0ljusmjeunsivpgojcqk8cgf0acbpzd0ix1bhdghfmyigy2xhc3m9inn0msigzd0itte2ljksmgm2ljctmc4ylde0ljysmi45lde4ldqun2mtmc42lduums0yljismtatnc42lde0ljzsltgunyw0ljzjmy01ljmsns40ltewljgsny4zlte2ljykcqkjcumyni44lduuoswyms42ldiunywxni45ldailz4kcqk8l2c+cgk8l2c+cjwvzz4kphbhdgggy2xhc3m9inn0msigzd0ittuxljksmtkun3ytmy41adkuohy4ljljltiuncwzltysnc43ltkuosw0ljzjltcsmc0xmi40ltquoc0xmi40lteyyzatni42lduunc0xmiwxmi0xmmmwljesmcwwljmsmcwwljqsmaojyzmuniwwldcumswxljysos40ldqungwtmi45ldiunwmtms42ltitnc0zljitni42ltmummmtnc40ldatocwzljytocw4yzasmc4xldasmc4zldasmc40yzasns4xldmumyw4ljqsocw4ljqkcwmyljesmcw0ljitmc44lduuoc0yljj2ltqumwgtns42qzuxljksmtkuosw1ms45lde5ljcsnteuoswxos43eiivpgo8cgf0acbjbgfzcz0ic3qxiibkpsjnodesmjauogmwldquos0zljksoc44ltguocw4ljhzltguoc0zljktoc44ltguogwwldbjmc00ljksnc04ljgsoc44ltguofm4mswxns45ldgxldiwljh6ie03mi4ylde1ljqkcwmtmi43ldatnc43ldiunc00ljcsns40czisns40ldquocw1ljrznc44ltiuncw0ljgtns40uzc1lde1ljqsnziumiwxns40eiivpgo8cgf0acbjbgfzcz0ic3qxiibkpsjnotqunywxos43di0zljvoos44djguowmtmi40ldmtniw0ljctos45ldqunmmtnywwlteyljqtnc44lteyljqtmtjjmc02ljysns40lteyldeylteyyzaumswwldaumywwldauncwwcgljmy42ldasny4xldeuniw5ljqsnc40bc0yljksmi41yy0xljytmi00ltmums02ljytmy4yyy00ljqsmc04ldmuni04ldhjmcwwljesmcwwljmsmcwwljrjmcw1ljesmy4zldguncw4ldgunaojyziumswwldqumi0wljgsns44ltiumnytnc4xac01ljzdotqunywxos45ldk0ljcsmtkunyw5nc43lde5ljd6ii8+cjxwyxroignsyxnzpsjzddeiigq9ik0xmtguncwyos4zbc0wljitmi41yy0xljisms44ltmumiwyljktns40ldiuowmtms44ldaums0zljytmc44ltquny0yljjjlteumi0xljctms41ltmuos0xljutni40di04ljlonhy4ljykcwmtmc4xldeuncwwljesmi44ldaunyw0ljfjmc41ldauoswxljusms40ldiuniwxljnjms44ltaumswzljmtms4xldqumi0yljzwmtium2g0dje3ljfoltmun1yyos4zeiivpgo8cgf0acbjbgfzcz0ic3qxiibkpsjnmtm0ljksmjkum2wtmc4ylteunmmtms4yldeunc0zldiums00ljgsmmmtmy4yldatni4xlteuoc02ljetns4zyzatnc4yldmuos01ljysny41ltuungojyzeumswwldiumiwwljesmy4yldaunhytmc40yzatmi4zltetmy43ltmuni0zljdjlteuocwwljetmy42ldauni01ljmsms41bc0xljetm2myljitms4xldquni0xljcsny4xlteun2m0ljgsmcw2ljksmi43ldyuosw3ljekcxyxmc4zsdeznc45eibnmtm0ljqsmjeuogmtmc45ltaumi0xljctmc4zltiuni0wljnjlteuoswwltqumiwwljytnc4yldiuogmwldeunywxljqsmi41ldiuoswyljvjms41ltaumswyljgtmc43ldmuos0xljckcuwxmzquncwyms44tdeznc40ldixljh6ii8+cjxwyxroignsyxnzpsjzddeiigq9ik0xndquncwxnc43yzetms43ldiunc0yljgsnc4xltiuogmwljcsmcwxljqsmc4xldismc4zbc0wljksmy43yy0wljutmc4zlteums0wljqtms42ltaunaojyy0xljusmc0yljksmc45ltmunswyljn2mteunwgtnhytmtdomy43tde0nc40lde0ljd6ii8+cjxwyxroignsyxnzpsjzddeiigq9ik0xnjcumiwyos4zac0zljdsltaumi0yljjjlteumiwxljctmy4yldiuny01ljmsmi42yy00ljcsmc04ljitnc04ljitowmwltqunywzljmtoc45ldgumi04ljkkcwmxljksmcwzljgsmc44lduumswyljfwnc41adrmmty3ljismjkum3ogtte2my4ylde3ljzjltetms40ltiuni0yljitnc4zltiumwmtmy4zldatnc45ldiuoc00ljksns41yzasmi44ldeuosw1ljqsnc45lduunaojyzeuocwwldmuns0xldqunc0yljdmmtyzljismtcunkwxnjmumiwxny42eiivpgo8cgf0acbjbgfzcz0ic3qxiibkpsjnmty5ljcsos41vjuuogg0djmun0gxnjkun3ogtte2os43ldi5ljn2lte3adr2mtdimty5ljd6ii8+cjxwyxroignsyxnzpsjzddeiigq9ik0xodyuocwyos4zbc0wljitms42yy0xljisms40ltmsmi4xltquocwyyy0zljismc02ljetms44ltyums01ljnjmc00ljismy45ltuuniw3ljutns42cgljms4xldasmi4yldaumswzljismc40di0wljrjmc0yljmtms0zljctmy42ltmun2mtms44ldaums0zljysmc42ltuumywxljvslteums0zyziumi0xljesnc42lteunyw3ljetms43yzquocwwldyuoswyljcsni45ldcumqojdjewljnimtg2ljh6ie0xodyuncwyms44yy0wljktmc4ylteuny0wljmtmi42ltaum2mtms45ldatnc4yldauni00ljismi44yzasms43ldeuncwyljusmi45ldiunwmxljutmc4xldiuoc0wljcsmy45lteunwojtde4ni40ldixljhmmtg2ljqsmjeuohoilz4kphbhdgggy2xhc3m9inn0msigzd0itte5ni4yldeyljnsmc4yldiunwmxljitms44ldmumi0yljksns40ltiuowmxljgtmc4xldmuniwwljgsnc43ldiummmxljmsms42ldeunswzljksms41ldyunhy4ljloltr2ltgungojyzaums0xljqtmc4xltiuoc0wljctnc4xyy0wljutmc45lteuns0xljqtmi42lteum2mtms44ldaums0zljqsms4xltqumiwyljz2mteum2gtnhytmtdmmtk2ljismtium3oilz4kpgc+cgk8zz4kcqk8cgf0acbjbgfzcz0ic3qxiibkpsjnmjewljesmteuogmtms4yldatmi4xltauos0yljetmi4xczauos0yljesmi4xltiumxmyljesmc45ldiumswyljftmjexljismteuocwymtaumswxms44eibnmjewljesny45cgkjcwmtmswwlteuocwwljgtms44ldeuogmwldesmc44ldeuocwxljgsms44czeuoc0wljgsms44lteuoemymteuosw4ljcsmjexljesny45ldixmc4xldcuoxoilz4kctwvzz4kctxwyxroignsyxnzpsjzddeiigq9ik0ymtauncw5ljhjmc4xltaumswwljitmc4xldaumy0wljnjmc4xltaumswwljetmc4zldaums0wljrjmc0wljitmc4xltaunc0wljitmc41yy0wljitmc4xltaunc0wljitmc42ltaumgojcwgtmc42djiunwgwljn2ltfomc41bdauniwxadaum0wymtauncw5ljh6ie0ymtasos43ac0wljn2ltfomc4zyzauncwwldauniwwljismc42ldaunwmwldaumswwldaumy0wljesmc40cgkjqzixmc4zldkunywymtaumsw5ljcsmjewldkun3oilz4kpc9npgo8l3n2zz4k)](/)
+
+###### products
+
+  * [![](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0idxrmltgipz4kpcetlsbhzw5lcmf0b3i6iefkb2jlielsbhvzdhjhdg9yidi0ljaumswgu1zhiev4cg9ydcbqbhvnluluic4gu1zhifzlcnnpb246idyumdagqnvpbgqgmckgic0tpgo8c3znihzlcnnpb249ijeumsigawq9ikxhewvyxzeiihhtbg5zpsjodhrwoi8vd3d3lnczlm9yzy8ymdawl3n2zyigeg1sbnm6egxpbms9imh0dha6ly93d3cudzmub3jnlze5otkvegxpbmsiihg9ijbweciget0imhb4igojihzpzxdcb3g9ijagmcaznc45idm0ljqiihn0ewxlpsjlbmfibgutymfja2dyb3vuzdpuzxcgmcawidm0ljkgmzqundsiihhtbdpzcgfjzt0ichjlc2vydmuipgo8c3r5bgugdhlwzt0idgv4dc9jc3mipgojlnn0mhtmawxsoingrkzgrky7fqo8l3n0ewxlpgo8dgl0bgu+r29hdwfyzglhbi1zagllbgqtd2hpdgu8l3rpdgxlpgo8zybpzd0ix0dyb3vwxyi+cgk8zybpzd0ix0dyb3vwxziipgojctxniglkpsjfr3jvdxbfmyi+cgkjctxwyxroiglkpsjfugf0af8iignsyxnzpsjzddaiigq9ik0yos41ldixljjjltmumiw1ljctos43ldewljctmtiuoswxmi42yy00ltmums03ljutni45ltewljitmteum0w2ljksmtmkcqkjcwmzlduumiw2ljusmtaumswxmc41lde0ljzdmtkuniwyni41ldi0ljgsmjmunywyos41ldixljiilz4kcqkjphbhdgggawq9il9qyxroxziiignsyxnzpsjzddaiigq9ik00ljksmjeunemxljysmtuunywwljusny42ldaunswzljldns4xldismtasmc45lde0ljksmc44bdgsns4zyy01ljgsmc0xms43ldauns0xny40ldeungojcqkjqzuumywxmc4xldusmtyumsw0ljksmjeuncivpgojcqk8cgf0acbpzd0ix1bhdghfmyigy2xhc3m9inn0mcigzd0itte2ljksmc41yzyuni0wljismtqumiwyljgsmtcunsw0ljzjltauniw0ljktmi4xldkuny00ljqsmtqummwtoc41ldqunqojcqkjyziuos01ljesns4zltewljusny4xlte2ljfdmjyuniw2ljmsmjeunswzljismtyuoswwljuilz4kcqk8l2c+cgk8l2c+cjwvzz4kpgc+cgk8zz4kcqk8cgf0acbjbgfzcz0ic3qwiibkpsjnmjguncwznc4yyy0wljgsmc0xljutmc43lteuns0xljvjmc0wljgsmc43lteunswxljutms41yzauocwwldeunswwljcsms41ldeunqojcqldmjkuoswzmy41ldi5ljismzqumiwyoc40ldm0ljj6ie0yoc40ldmxljrjltaunywwlteumywwljytms4zldeum3mwljysms4zldeumywxljnzms4zltauniwxljmtms4zuzi5ljesmzeuncwyoc40ldmxljr6ii8+cgk8l2c+cgk8cgf0acbjbgfzcz0ic3qwiibkpsjnmjgunywzmi43yzaumswwldaumi0wljesmc4yltaummmwljetmc4xldaums0wljismc4xltaum2mwltaumswwltaumy0wljetmc40yy0wljetmc4xltaumy0wljetmc40ltaumwgtmc40cgkjdjeun2gwljj2ltaun2gwljnsmc40ldaun2gwljjmmjgunywzmi43eibnmjguncwzmi42ac0wljj2ltaun2gwljjjmc4zldasmc40ldaumswwljqsmc4zyzasmc4xldasmc4yltaumswwljmkcqldmjguniwzmi42ldi4ljusmziunywyoc40ldmyljz6ii8+cjwvzz4kpc9zdmc+cg==)the suite](/suite/)
+  * [admin](/admin/)
+  * [dns](/dns/)
+  * [teacher](/teacher/)
+  * [fleet](/fleet/)
+  * [beacon](/beacon/)
+
+* * *
+
+  * [pricing](/pricing/)
+  * [contact us](/contact/)
+  * [blog](/blog/)
+  * [success stories](/success-stories/)
+  * [help center](https://help.goguardian.com/hc/en-us)
+
+[sign in](https://account.goguardian.com)[get started free](/start-free-
+trial/)
+
+ **terms & agreements**
+
+[website terms](/terms/)[website privacy policy](/privacy/)[website cookies
+notice](/website-cookies-notice/)[product terms](/eula/)[beacon 24/7
+terms](/beacon-247-terms/)[product privacy policy](/product-
+privacy/)[dpa](/dpa/)[parent app](/parent-portal-terms/)
+
+# **privacy policy for product users**
+
+last updated date: august 7, 2020
+
+## introduction
+
+welcome! goguardian (formally â liminex, inc. [CLS] [SEP] doing business as goguardian
+â â **goguardian** â, â **we** â, â **us** â, â **our** â)
+is an educational technology company that provides k-12 schools and school
+districts with software facilitating safer access to online educational
+materials along with technology management. [CLS] [SEP] the privacy of each and every user
+matters deeply to us, and we strive for transparency in all of our data
+privacy practicesâespecially when it comes to identifying the information
+that we collect, use, share, and disclose, as well as how we help keep your
+information safe. [CLS] [SEP] we take our responsibility to protect your information very
+seriously. [CLS] [SEP] please remember that we are always here to answer any questions you
+have, and we look forward to working with you for years to come. [CLS] [SEP]
+
+this product privacy policy (â **product privacy policy** â) explains how
+we collect, use, share, disclose, and protect information collected from and
+about our customers, schools, that are using our goguardian offering(s) and
+such schoolâs authorized school personnel. [CLS] [SEP] our goguardian offerings include
+the following:
+
+  * [goguardian admin](https://www.goguardian.com/admin/)
+  * [goguardian beacon](https://www.goguardian.com/beacon/)
+  * [goguardian director](https://www.goguardian.com/director/)
+  * [goguardian dns](https://www.goguardian.com/dns/)
+  * [goguardian fleet](https://www.goguardian.com/fleet/)
+  * [goguardian teacher](https://www.goguardian.com/teacher/)
+
+this product privacy policy does _not_ apply to:
+
+  * visitors and users of our general audience website and their information (please see our [privacy policy for website visitors](https://www.goguardian.com/privacy/) ("website privacy policy")); or
+  * organizations or third parties that goguardian does not own or manage, or to individuals that goguardian does not employ or manage. [CLS] [SEP] we encourage you to review the applicable third party privacy policies and terms of use before submitting any information through those sites or services. [CLS] [SEP]
+
+**by using our offerings, you, the school or school district (â **school,**
+â â **you,** â â **your** â), are declaring that you have read and
+understand this product privacy policy.** if you are acting on behalf of a
+school, you represent and warrant that you are at least eighteen (18) years
+old and have the authority, the right, and the capacity to legally bind the
+school and have read and understand this product privacy policy. [CLS] [SEP]
+goguardianâs combined [terms of service and end user license
+agreement](https://www.goguardian.com/eula/) (" **eula** "), and as applicable
+to the extent your school is in the european economic area (" **eea** "), our
+[data protection addendum](https://www.goguardian.com/dpa/) (" **dpa** "),
+also apply to how we treat your information. [CLS] [SEP]
+
+### **information provided directly to us through our goguardian offerings**
+
+the information that we collect depends on the goguardian offerings and
+features within those goguardian offerings that a school uses. [CLS] [SEP] we collect some
+business information directly from a school (e.g., information collected when
+signing up to use our goguardian offerings) or from schools about their
+students or directly from the schoolâs students (e.g., browsing information)
+when we act as their service provider. [CLS] [SEP] we also collect some information
+automatically (e.g., goguardian offerings usage information). [CLS] [SEP]
+
+#### **school and school official information**
+
+goguardian collects the following information that we collectively label as
+â **school information** â:
+
+  * **_school profile information:_** when an official of a school (" **school official** ") initiates contact through our website for goguardianâs offerings on behalf of his/her school, we collect that school officialâs contact information as well as information about his/her school relevant to purchasing and setting up our goguardian offerings. [CLS] [SEP] this information includes the school official's name, email address, and phone number, as well as the schoolâs name, address, billing address, number of devices, number of students, and network configuration. [CLS] [SEP] if the school official creates an account for goguardianâs goguardian offerings, the school official must also create a goguardian password. [CLS] [SEP] 
+  * **_authorized school personnel:_** following a school officialâs establishment of a school account with goguardian, the school official can use goguardian offerings to add additional school personnel such as other school officials and teachers (together, " **authorized school personnel** ") from their school and designate their appropriate permission levels in goguardian offerings. [CLS] [SEP]
+  * **_support requests:_** authorized school personnel can submit requests about goguardian offerings to our support center (e.g., goguardianâs support center and goguardianâs help center) through both our goguardian offerings themselves and from our website. [CLS] [SEP] when authorized school personnel submit support requests through these support centers, we receive these requests and associated contact information. [CLS] [SEP]
+  * **_additional information about authorized school personnel:_** depending on the goguardian offerings and features selected by a school, goguardian offerings can collect additional information about authorized school personnel, including chat messages and video conferencing between students and teachers using goguardian teacher (including if personnel participate in a chat function as part of a videoconference), goguardian-generated unique account identifiers, and other relevant unique identifiers (e.g., google classroom identifiers if school integrates google classroom with goguardian teacher). [CLS] [SEP] this information may change if a school and/or authorized school personnel utilize new features and/or goguardian offerings. [CLS] [SEP]
+
+#### **personal student information**
+
+in providing our goguardian offerings to schools, we collect information that
+may, alone or in combination with other available information, be reasonably
+used to identify a current or former student enrolled in a k-12 school (â
+**personal student information** â). [CLS] [SEP]
+
+goguardian only collects personal student information on school-managed
+devices and/or accounts where a school has already registered with goguardian
+and chosen to use goguardian offerings and where such schools have provided
+consent required by applicable law, including the childrenâs online privacy
+protection act (âcoppaâ). [CLS] [SEP] each school in the united states must comply
+with any legal requirements applicable to it, which may include, providing
+appropriate notice and/or obtaining parental consent. [CLS] [SEP] schools located in
+countries outside of the united states must also obtain and provide
+appropriate consent from parents and/or guardians of student or as otherwise
+required by applicable law. [CLS] [SEP]
+
+the personal student information collected by our goguardian offerings on
+behalf of a school depends on the particular goguardian offerings and features
+selected by a school and the particular settings enabled or disabled by the
+school. [CLS] [SEP] pursuant to such selection, the **personal student information** that
+we collect includes:
+
+  * **_studentâs school-managed account information:_** goguardianâs offerings collect a studentâs school-managed account information: studentâs name, email address, google profile id, google image url, and organizational unit as well as device identifiers necessary to associate a student with a certain device and settings. [CLS] [SEP] additionally, goguardian may also need to associate a student with a particular teacherâs classroom by using a google classroom identifier or other identifier. [CLS] [SEP]
+  * **_activity information:_** depending on a schoolâs currently selected goguardian offerings, features, integrations and settings, goguardian may collect additional information, from or about online account or any activity when a user is logged on the school-managed accounts and devices, including chats (within goguardian teacher), video conferencing recordings (including audio and videos of participating students and chats included in a video conference) (within goguardian teacher), a studentâs browsing history, ip address, online content, snapshots, and key percentage variance (but not the actual inputs or sequence of inputs) to identify patterns like gaming) collected when the user is logged on to the school-managed device or account. [CLS] [SEP] 
+  * **_grade and attendance information:_** depending on a schoolâs currently selected goguardian offerings, features, integrations, and settings, goguardian may receive grade and attendance information. [CLS] [SEP]
+  * **_location information:_** using goguardian admin, a school can collect the geographic location of devices for the purpose of locating and recovering its devices. [CLS] [SEP] goguardian offerings can collect ip addresses while goguardian offerings are active, no precise geographic login locations of mobile phones can be accessed or stored by goguardian. [CLS] [SEP]
+
+the personal student information collected may change if a school utilizes new
+features and goguardian offerings. [CLS] [SEP]
+
+### **parent/guardian information**
+
+if a school chooses to utilize goguardianâs guardian feature (such as to
+enable a school to send important automated notifications to a parent/guardian
+about his/her child), goguardian may receive certain information about a
+studentâs parent(s)/guardian(s). [CLS] [SEP] specifically, goguardian may receive a
+parentâs/guardianâs name, email address, and optionally phone number from
+the school. [CLS] [SEP] to learn whether your childâs school is using this guardian
+feature or how to update a childâs legal parent/guardian contact
+information, please contact your childâs school and follow the instructions
+below in the section below titled **ârequests from parents, legal guardians,
+eligible students, and authorized school personnelâ.**
+
+if you are a parent or guardian and you use the parent app, we collect: 1)
+your email address to confirm your authorization from the school to use the
+app and to determine the student associated with you and, once verified,
+enable the app; and 2) automatically collected information about your app
+activity set forth below. [CLS] [SEP]
+
+### **information we automatically collect through our offerings**
+
+our offerings automatically collect the following additional information that
+we label collectively as â **school log and cookie information** â:
+
+  * **_analytics information and event information:_** our offerings automatically collect information through analytics services providers, including ip address, internet service provider (isp), date and time stamp, browser language, browser type, amount of time spent on particular portions of our offerings, and/or other general usage data. [CLS] [SEP] similar to other software, we also collect event information regarding how users interact with our offerings. [CLS] [SEP] for example, we collect information about how much time users spend on certain features of our offerings. [CLS] [SEP]
+  * **_log information:_** we also collect log information such as service diagnostics and technical logging information, which may include ip address, login times to our offerings, usage times of our offerings, browser type, and browser configuration. [CLS] [SEP]
+  * **_device information:_** we collect information about the devices that log into our offerings, including type of device, device settings, and operating system. [CLS] [SEP]
+  * **_cookies:_** we use cookies in our offerings for the purposes described in our cookies notice. [CLS] [SEP]
+
+### **how we use information collected through our offerings**
+
+we use **school information** and **school log and cookie information** to:
+
+  * set up and provide our offerings;
+  * analyze and improve our offerings;
+  * respond to a schoolâs and/or authorized school personnelâs requests and to provide related support;
+  * administer and troubleshoot our offerings;
+  * send information to a school and authorized school personnel about how to use our offerings and other important updates;
+  * notify a school and authorized school officials about new features or offerings that may be of interest to them, and, similarly notify other authorized school personnel of new features or products that may be of interest to them when residents of the united states or otherwise as permitted by law;
+  * help prevent fraud and to enforce the legal terms that govern our offerings;
+  * to comply with applicable law and protect our and othersâ rights, safety and property; and
+  * follow further instructions of a school. [CLS] [SEP]
+
+in accordance with our contractual obligations, we use **personal student
+information** and **parent/guardian information** to:
+
+  * provide, improve and analyze our offerings and for legitimate educational purposes of the school;
+  * to send parents and guardians alerts and notices in the parent app;
+  * enforce the legal terms that govern our offerings;
+  * comply with applicable law and protect our and othersâ rights, safety and property; and
+  * follow further instructions of a school. [CLS] [SEP]
+
+**at all times, personal student information is the property of and under the
+control of a school, or as required by applicable law, personal student
+information is the property of and under the control of the applicable
+eligible student, parent, or guardian.**
+
+**we do not sell personal student information. [CLS] [SEP] we do not use personal student
+information to target advertisements or market to students or anyone else, to
+amass a profile about a k-12 educational student for a non-educational
+purpose, or for any purposes prohibited by the family educational and privacy
+rights act (20 u.s.c. [CLS] [SEP] â§ 1232g; 34 cfr part 99.3) ("ferpa"), california
+business & professions code section 22584 (âsopipaâ), and california
+education code section 49073.1.** we will not use personal student information
+for any purpose other than those required or specifically set forth in this
+product privacy policy, our [eula](https://www.goguardian.com/eula/),
+[dpa](https://www.goguardian.com/dpa/), or any other agreement between a
+school and goguardian. [CLS] [SEP]
+
+**we will also use your personal student information in accordance with
+applicable student privacy laws, including, as applicable, connecticut's "act
+concerning student privacy".**
+
+if you are a product user in the eea or the united kingdom ("uk"), please see
+the ânotice to eea and other non-us residentsâ section for more
+information about how we use information and the legal bases for collecting
+information. [CLS] [SEP]
+
+### **how we share information collected through our offerings**
+
+we may share or disclose information in the following ways:
+
+  * **_authorized school personnel access:_** each school determines which authorized school personnel have access to the schoolâs account with goguardianâs offerings and their permission levels. [CLS] [SEP]
+  * **_third parties supporting our offerings:_** we may share information with our service providers that assist us in performing business-related functions that support our offerings. [CLS] [SEP] for example, we use hosting services and customer service tools to help support our offerings. [CLS] [SEP] when we employ another company to perform a function of this nature, we provide them with the information that they need to perform their specific function. [CLS] [SEP]
+  * **_with school permission or at school direction:_** we may share or disclose information, including personal student information, to third parties pursuant to a schoolâs instruction or with a schoolâs permission. [CLS] [SEP] for example, if a school chooses to integrate goguardianâs offerings with another third party companyâs products or services, then we will share information as instructed. [CLS] [SEP] with your permission, we may also share or disclose your name and other content through a testimonial video or quotation. [CLS] [SEP]
+  * **_protection of goguardian and others:_** we may share or disclose certain of the information we collect (set forth above) if we believe in good faith that doing so is necessary or appropriate to (i) protect or defend the rights, safety, or property of goguardian or third parties, including to defend or enforce our product privacy policy, eula, or any other contractual arrangement; or (ii) to respond to claims that content violates the rights of third parties. [CLS] [SEP]
+  * **_legal requirements:_** we may share or disclose certain information if we believe in good faith that doing so is necessary or appropriate to comply with any law enforcement, legal, or regulatory process, such as to respond to a warrant, subpoena, court order, or other applicable laws and regulations. [CLS] [SEP]
+  * **_business transfer:_** we may share or disclose certain of the information we collect (set forth above), in connection with or during negotiations of any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company. [CLS] [SEP] if such transfer is subject to additional mandatory restrictions under applicable laws, goguardian will comply with such restrictions. [CLS] [SEP] the successor entity will be subject to all applicable federal and state laws, including student privacy laws. [CLS] [SEP] in connection with such a transaction, we will also work to ensure that the successor entity has a commitment to student privacy. [CLS] [SEP]
+  * **_de-identified information:_** we may use, share, or disclose de-identified information (as that term is defined in our eula) for various purposes such as product development, research, and marketing, in compliance with relevant laws. [CLS] [SEP] for example, we may use aggregate, anonymous data to publish an e-book on schoolsâ most utilized online educational resources. [CLS] [SEP]
+
+if you are a school or other authorized school personnel in the eea or the uk,
+please see our notice to eea and other non-us residents below. [CLS] [SEP]
+
+### **how long we keep information**
+
+we retain **personal student information** as directed by the school:
+
+  * **_schoolâs request for deletion or transfer of personal student information:_** goguardian acts upon a schoolâs documented instructions to delete personal student information during and after all school licenses to goguardian have expired, unless we are required to retain such information to comply with our legal obligations with law enforcement, resolve disputes, or enforce our agreements. [CLS] [SEP] upon instruction to delete personal student information, goguardian will take reasonable efforts to delete and/or de-identify such information in a commercially reasonable amount of time under applicable laws. [CLS] [SEP] at the termination of all of the schoolâs licenses with goguardian, goguardian and the school may agree to transfer the schoolâs personal student information back to the school. [CLS] [SEP] in that case, similar to deletion requests, goguardian will act upon a schoolâs documented instruction to transfer the schoolâs personal student information to the school and take reasonable efforts to transfer such information in a commercially reasonable amount of time under applicable laws, unless we are required to retain such information to comply with our legal obligations, or with law enforcement, resolve disputes, or enforce our agreements. [CLS] [SEP] for schools in the eea, personal student information will be deleted and transferred/ported according to the terms of the dpa or other agreement between the school and goguardian. [CLS] [SEP]
+  * **_video conferencing recordings:_** if a school enables the video conferencing feature in goguardian teacher, audio and video recordings will be stored by goguardian for ninety (90) days. [CLS] [SEP] 
+  * **_deactivated accounts:_** we may consider a schoolâs account to be terminated 365 days after all of a schoolâs goguardian licenses expire without use, reactivation, or renewal by the school. [CLS] [SEP] at that time, if a school has not requested deletion of personal student information, we will automatically de-identify and/or delete the schoolâs personal student information within a commercially reasonable period of time as long as that information is not necessary to comply with our legal obligations, resolve disputes, or enforce our agreements. [CLS] [SEP] all personal student information retained will remain subject to our product privacy policy that was in effect at that time â even after the deactivation of an account or termination of a contract. [CLS] [SEP]
+
+we generally retain information other than personal student information for as
+long as it may be relevant to the purposes above or as required or permitted
+by law. [CLS] [SEP] to dispose of any personal information, we may anonymize it, delete it
+or take other appropriate de-identifying steps. [CLS] [SEP] please note that information
+may persist in copies made for backup and business continuity purposes for an
+additional period of time. [CLS] [SEP]
+
+### **your choices about information collected through our goguardian
+offerings**
+
+you have certain rights and choices with respect to your information as
+further described in this section. [CLS] [SEP]
+
+your choices about **school profile information** and **school log and cookie
+information** :
+
+  * **_promotional communications:_** you can decline promotional communications at the point information is requested for such purpose (e.g., by checking the relevant box) or, by following the unsubscribe instructions on communications sent to you. [CLS] [SEP] you can also contact us as described in the âhow to contact usâ section below. [CLS] [SEP]
+  * **_cookies and analytics._** you can opt out from certain cookie-related and analytics processing by following the instructions in our cookie notice below. [CLS] [SEP]
+  * **_california rights:_** effective january 1, 2020, under the california consumer privacy act (âccpaâ) , california residents may annually request a list of the third parties to which a company discloses âpersonal informationâ (as defined in the ccpa) for such third partiesâ marketing purposes and the types of information disclosed. [CLS] [SEP] however, we do not disclose personal information to third parties for such third partiesâ direct marketing purposes. [CLS] [SEP] the ccpa offers certain rights for california residents with respect to personal information, but these rights do not apply to business to business information nor to personal information collected by goguardian when goguardian is acting as a service provider of a school (e.g., business contact, contract and communications information are excluded from ccpa rights. [CLS] [SEP] you can read more about any such applicable ccpa rights at our [privacy policy for website visitors](https://www.goguardian.com/privacy/). [CLS] [SEP] however, even though the ccpa rights may not apply to your data request, if you are acting on behalf of your school and would like to submit a data request, rather than submit a ccpa request, please instead follow the instructions described in the section titled â **schoolâs request for deletion or transfer of personal student information.** â similarly, if you are a parent, guardian, eligible student, or authorized personnel and would like to submit a data request to goguardian, rather than submit a ccpa request, please instead follow the instructions described in the section titled â **requests from parents, legal guardians, eligible students, and authorized school personnel.** â 
+  * **_your legal rights under local law:_** local laws (e.g., laws of the european union) may permit an individual to request that we: (1) provide access to and/or a copy of certain information that we hold about that individual; (2) prevent the processing of that individualâs information for direct-marketing purposes (including any direct marketing processing based on profiling); (3) update an individualâs information which is out of date or incorrect; (4) delete certain information that we are holding about an individual; (5) restrict the way that we process and disclose certain of the individualâs information; (6) transfer an individualâs information to a third party provider of services; and/or (7) revoke an individualâs consent for the processing of his/her information. [CLS] [SEP] if your local laws provide additional rights, we will consider all requests and provide our response within the time period stated by applicable law. [CLS] [SEP] please note, however, that certain information may be exempt from such requests in some circumstances, which may include if we need to continue processing an individualâs information for our legitimate interests or to comply with a legal obligation. [CLS] [SEP] we may request that an individual and/or school provide us with information necessary to confirm the individualâs identity before responding to your request. [CLS] [SEP] to exercise any of these rights, please contact us as described further in the âhow to contact usâ section below. [CLS] [SEP] in addition to those rights, an individual has the right to lodge a complaint with the relevant supervisory authority. [CLS] [SEP] however, we encourage the individual to contact us first, and we will do our very best to resolve the individualâs concern. [CLS] [SEP]
+
+your choices about **school information** (except **school profile
+information** ), **personal student information** , and **parent/guardian
+information** :
+
+  * **_cooperation with schools._** we will assist the school in facilitating requests relating to authorized school personnel information and personal student information pursuant to the schoolâs instruction as explained further in the âhow long we keep information collected through goguardian offerings" or in the âyour legal rights under local lawâ sections above. [CLS] [SEP]
+  * **_requests from parents, legal guardians, eligible students, and authorized school personnel:_**
+  * **_review, correction, and deletion requests._**
+    * if a parent, legal guardian, eligible student, or authorized school personnel wishes to request a review, correction, deletion of personal student information or school information, he/she should contact the appropriate school official of his/her or his/her childâs school. [CLS] [SEP] goguardian will cooperate with the school to fulfill requests pursuant to the schoolâs verification and instruction within a commercially reasonable amount of time and in compliance with relevant law. [CLS] [SEP] 
+    * parent app: if you are a user of the parent app, you can review information about the choices you may have with respect to the personal information you provide through the parent app in the â[your choices](https://www.goguardian.com/privacy/#your-choices)â section of our [privacy policy for website visitors](https://www.goguardian.com/privacy/). [CLS] [SEP] 
+    * if you are authorized school personnel, please note that we may be required to maintain certain school information if directed to do so by your school official on behalf of your school employer or as needed by goguardian to enforce our legal rights. [CLS] [SEP] 
+  * **_transfer requests._** goguardian offerings allow authorized school personnel to download information on behalf of a parent, legal guardian, eligible student, or school personnel. [CLS] [SEP] if goguardian offerings do not cover the scope of the transfer request, goguardian will, following documented instructions from the school, honor the requests from the parent, legal guardian, eligible student, or authorized school personnel for the transfer of personal student information or personal data of the authorized school personnel by utilizing the same guidelines as described above in âreview, correction, and deletion requestsâ in compliance with and as required by relevant law. [CLS] [SEP]
+  * **_transfer requests for student-generated content._** california law requires website operators to transfer student-generated content to the studentâs personal account when requested by an eligible student, parent, or guardian. [CLS] [SEP] goguardian offerings are not used as the primary platform for students to submit their own content. [CLS] [SEP] to the extent that students in california, or in other states with similar transfer laws, submit their content on goguardian offerings, the appropriate parent, guardian, or eligible student may submit a request to [privacy@goguardian.com](mailto:privacy@goguardian.com) to transfer this information to him/her. [CLS] [SEP] following verification of the requestorâs authorization to receive the information (which may require verification by the requestorâs school), we will provide the student-generated content that we have in a commercially reasonable amount of time in either a csv or other mutually-agreeable format. [CLS] [SEP] please note that we cannot guarantee retention of student-generated content. [CLS] [SEP]
+
+### **how we protect your information**
+
+goguardian takes the security and privacy of your schoolâs data very
+seriously. [CLS] [SEP] for these reasons, goguardian has implemented various technical,
+administrative, and physical safeguards to protect your information, including
+specific training of our personnel authorized to access personal student
+information and other information. [CLS] [SEP] these safeguards vary depending on the
+sensitivity of the information at issue. [CLS] [SEP]
+
+goguardian is committed to preventing unauthorized access to our systems and
+data, and will investigate any possible occurrence. [CLS] [SEP] in the event of a breach
+of personal student information, goguardian will comply with all relevant
+breach laws to assist the school or provide notification as required to you, a
+school, affected parents, legal guardians, eligible students, and regulators. [CLS] [SEP]
+
+## notice to e.e.a. [CLS] [SEP] and other non-u.s. [CLS] [SEP] residents
+
+european union (â **eu** â) data protection laws make a distinction
+between organizations that process personal data for their own purposes (known
+as " **data controllers** ") and organizations that process personal data on
+behalf of other organizations (known as " **data processors** "). [CLS] [SEP] depending on
+the particular circumstance, goguardian and your school may act either as a
+data controller or a data processor of your personal data. [CLS] [SEP] the laws in some
+jurisdictions like the eu also require data controllers to share the legal
+ground that they rely upon to use or disclose personal information. [CLS] [SEP]
+
+### **goguardian as a data controller vs. [CLS] [SEP] data processor**
+
+goguardian is considered the âprocessorâ of **school information** (except
+for **school profile information** ), **personal student information** and
+**parent/guardian information**. [CLS] [SEP] goguardian collects, uses, shares and
+discloses this information as a processor on behalf of and at the instruction
+of the school controller, pursuant to [our
+eula](https://www.goguardian.com/eula/) and, if applicable,
+[dpa](https://www.goguardian.com/dpa/). [CLS] [SEP] if you have a question or complaint
+about how your personal data is handled, please contact your school. [CLS] [SEP]
+
+goguardian is considered the âcontrollerâ of **school profile
+information** and **school log and cookie information**. [CLS] [SEP] goguardian as the
+data controller collects, uses, shares, and discloses this information as
+described above in this product privacy policy. [CLS] [SEP] we retain the personal data
+contained in this information for as long as necessary to provide you with
+goguardian offerings, or for other important purposes such as complying with
+legal obligations, resolving disputes, and enforcing our agreements. [CLS] [SEP]
+
+our legal grounds for using **school profile information** and **school log
+and cookie information** are as follows:
+
+  * **_contractual commitments:_** we use, share, and disclose information to honor our contractual commitments to a school. [CLS] [SEP]
+  * **_legal compliance:_** we need to use, share, and disclose information in certain ways to comply with our legal obligations. [CLS] [SEP]
+  * **_with your consent:_** where required by law, and in some other cases, we use, share, or disclose information on the basis of consent. [CLS] [SEP]
+  * **_legitimate interests:_** in many cases, we use, share, or disclose information on the ground that it furthers our legitimate business interests in ways that are not overridden by the interests or fundamental rights and freedoms of the affected individuals, such as customer service, analyzing and improving our business, promotional activities, providing security for our goguardian offerings, preventing fraud, and managing legal issues. [CLS] [SEP]
+
+### **information transfer to the united states**
+
+goguardian offerings are operated in the united states. [CLS] [SEP] if you are located
+outside of the united states, please be aware that any information that you
+provide to us will be transferred to and/or accessed within the united states. [CLS] [SEP]
+the recipients of information described in the relevant âhow we share
+informationâ sections above may be located in the united states. [CLS] [SEP] this
+information may be subject to united states law, including laws that may
+require disclosure of personal information to government authorities. [CLS] [SEP] schools
+may export personal data to jurisdictions outside the european economic area
+on the basis of legal mechanisms approved by the european commission and other
+relevant authorities for cross-border data transfers, such as standard
+contractual clauses. [CLS] [SEP]
+
+  * **_european union-united states and swiss-united states privacy shield:_** goguardian has certified to the eu-united states and swiss-united states privacy shield frameworks as set forth by the u.s. [CLS] [SEP] department of commerce regarding the collection, use, and retention of âpersonal dataâ (as defined under the privacy shield principles) from applicable european countries. [CLS] [SEP] we recognize that the court of justice of the european union ruled in july 2020 that a certification under the eu-u.s. [CLS] [SEP] privacy shield framework no longer can serve as the basis by which entities subject to the gdpr export personal data to jurisdictions outside the european economic area. [CLS] [SEP] goguardian will continue to honor its obligation to comply with the privacy shield principles with respect to data that was transferred pursuant to the privacy shield framework. [CLS] [SEP] for such data, goguardian has certified that we adhere to the privacy shield principles of notice, choice, purpose limitation, onward transfer, security, data integrity, access, recourse, liability, and enforcement for such personal data. [CLS] [SEP] to learn more about the privacy shield framework, visit the department of commerceâs privacy shield list by clicking [here](http://www.privacyshield.gov/). [CLS] [SEP] as required under the principles, when goguardian receives personal data under the privacy shield and then transfers it to a third-party service provider acting as an agent on goguardianâs behalf, we have certain liability under the privacy shield if both (i) the agent processes the information in a manner inconsistent with the privacy shield; and (ii) goguardian is responsible for the event giving rise to the damage. [CLS] [SEP]
+  * **_choices of international users:_** some international users (including those whose information we collect under the privacy shield) of goguardian offerings have certain legal rights to access certain information that we hold about them and to request its deletion. [CLS] [SEP] please see the âchoices about information collected through goguardian offeringsâ section above for more information. [CLS] [SEP]
+
+### **how to contact us and dispute resolution**
+
+**_how to contact us for non-u.s. [CLS] [SEP] residents:_** individuals located outside
+the united states who have questions or concerns regarding goguardianâs
+product privacy policy or practices may direct a complaint in writing to
+goguardian privacy officer, liminex, inc. [CLS] [SEP] dba goguardian, 2030 east maple
+avenue, el segundo, california 90245. [CLS] [SEP] tel: 888-310-0410 email:
+privacy@goguardian.com. [CLS] [SEP] within a reasonable time of receiving the written
+complaint, goguardian will review and address the complaint, as appropriate,
+and inform the individual of the results of such review and any steps taken to
+address the complaint. [CLS] [SEP]
+
+**_dispute resolution for eu and swiss residents:_** if you are a resident of
+the eu or switzerland and are dissatisfied with the manner in which we have
+addressed your concerns, you may seek further assistance, at no cost to you,
+from our designated privacy shield independent recourse mechanism, the jams
+privacy shield program, which you can learn more about by visiting
+<https://www.jamsadr.com/eu-us-privacy-shield>. [CLS] [SEP] residents of the eu or
+switzerland may, in certain circumstances, elect to arbitrate unresolved
+complaints by invoking binding arbitration pursuant to the privacy shieldâs
+recourse, enforcement and liability principle and annex i of the privacy
+shield but prior to initiating such arbitration, you must: (1) afford us the
+opportunity to resolve the issue; (2) seek assistance via goguardianâs
+recourse mechanism above; and (3) contact the u.s. [CLS] [SEP] department of commerce
+(either directly or through a european data protection authority) and afford
+the department of commerce time to attempt to resolve the issue. [CLS] [SEP] each party
+shall be responsible for its own attorneyâs fees. [CLS] [SEP] please be advised that,
+pursuant to the privacy shield, the arbitrator(s) may only impose individual-
+specific, non-monetary, equitable relief necessary to remedy any violation of
+the privacy shield principles with respect to the individual. [CLS] [SEP] goguardian is
+subject to the investigatory and enforcement powers of the u.s. [CLS] [SEP] federal trade
+commission (ftc). [CLS] [SEP]
+
+**_for australian residents:_** if you are located in australia, and are
+dissatisfied with the way we have handled a privacy issue, you may contact the
+office of the australian information commissioner for more information
+[www.oaic.gov.au](https://www.oaic.gov.au). [CLS] [SEP]
+
+**_for singapore residents:_** if you are located in singapore, and are
+dissatisfied with the way we have handled a privacy issue, you may contact the
+personal data protection commission for more information
+[www.pdpc.gov.sg](https://www.pdpc.gov.sg). [CLS] [SEP]
+
+## cookies notice
+
+**_what are cookies?_**
+
+cookies are small text files stored on your computer that allow us to
+understand usage of goguardian offerings. [CLS] [SEP] cookies include cookies, internet
+server logs, tags, software development kit/sdks, tracking pixels, and other
+similar tracking technologies. [CLS] [SEP] a number of cookies that we use last only for
+the duration of your session, expiring when your session ends (the so-called
+"session cookies"). [CLS] [SEP] other cookies are used to help our systems recognize you
+if you return to goguardian offerings and will thus retained longer (the so-
+called "persistent cookies"). [CLS] [SEP] some of the cookies used on our goguardian
+offerings are set by us, and some are set by third parties that are delivering
+services on our behalf. [CLS] [SEP]
+
+**_what types of cookies does goguardian use and what data do they collect?_**
+
+we use cookies in **goguardian offerings** that automatically collect
+information to:
+
+  * understand usage of goguardian offerings and to improve these goguardian offerings;
+  * authenticate your account; and
+  * remember your settings and account information. [CLS] [SEP]
+
+**we do _not_ use any advertising cookies in our offerings and we do not place
+advertisements in goguardian offerings.**
+
+**_what are my choices about cookies?_**
+
+you can learn more about how cookies work and how to turn them off in your
+particular browsers. [CLS] [SEP] please remember that if you replace, change or upgrade
+your browser, or delete your cookies, you may need to use these opt-out tools
+again. [CLS] [SEP]
+
+for information about cookies used by the developers of these browsers, please
+visit:
+
+  * [internet explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [google chrome](https://support.google.com/chrome/answer/95647?hl=en-gb)
+  * [internet explorer 9](https://support.microsoft.com/en-us/kb/260971)
+  * [mozilla firefox](https://support.mozilla.org/en-us/kb/cookies-information-websites-store-on-your-computer)
+  * [safari (desktop)](https://support.apple.com/kb/ph5042?locale=en_us)
+  * [safari (mobile)](https://support.apple.com/en-us/ht201265)
+  * [android browser](http://support.google.com/ics/nexus/bin/answer.py?hl=en)
+
+for controls specific to advertising and analytics services offered by google,
+click [here](https://tools.google.com/dlpage/gaoptout) from each of your
+browsers. [CLS] [SEP]
+
+**note about do not track:** do not track (âdntâ): is a privacy preference
+that users can set in certain web browsers to inform websites and services
+that they do not want certain information about their webpage visits collected
+over time and across websites or online services. [CLS] [SEP] some browsers do not
+recognize dnt settings. [CLS] [SEP] at this time, we do not recognize or respond to
+browser-initiated dnt signals because we do not track you across websites. [CLS] [SEP]
+
+### **changes to this privacy policy**
+
+we reserve the right to make changes to this product privacy policy such as to
+reflect changes in the law, our data collection and use practices, and the
+features of goguardian offerings. [CLS] [SEP] at the top of our product privacy policy, we
+will indicate the date of the most recent update to this product privacy
+policy. [CLS] [SEP] we will notify your school of material changes to the product privacy
+policy on our website, and make additional efforts to notify your school of
+material changes that impact the treatment of data collected via goguardian
+offerings and/or via email. [CLS] [SEP] we will also obtain your schoolâs consent before
+any material changes to our product privacy policy apply to your school where
+required by applicable law. [CLS] [SEP]
+
+### **how to contact us**
+
+if you have questions or concerns, the best way to reach us is by emailing
+[privacy@goguardian.com](mailto:privacy@goguardian.com). [CLS] [SEP] you can also reach us
+by calling 888-310-0410 or by writing to liminex, inc. [CLS] [SEP] dba goguardian, attn:
+chief privacy officer, 2030 east maple avenue, el segundo, california 90245. [CLS] [SEP]
+
+additionally, please feel free to consult additional resources such as the
+ones listed below. [CLS] [SEP]
+
+**student privacy resource list:**
+
+  * [student privacy pledge](https://studentprivacypledge.org/privacy-pledge/)
+  * [ferpa | sherpa](https://ferpasherpa.org/)
+  * [department of education's privacy technology assistance center ("ptac")](https://studentprivacy.ed.gov/)
+  * [the federal trade commission's complying with coppa: frequently asked questions](https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions)
+
+###### â
+![goguardian](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0idxrmltgipz4kpcetlsbhzw5lcmf0b3i6iefkb2jlielsbhvzdhjhdg9yidi0ljaumswgu1zhiev4cg9ydcbqbhvnluluic4gu1zhifzlcnnpb246idyumdagqnvpbgqgmckgic0tpgo8c3znihzlcnnpb249ijeumsigawq9ikxhewvyxzeiihhtbg5zpsjodhrwoi8vd3d3lnczlm9yzy8ymdawl3n2zyigeg1sbnm6egxpbms9imh0dha6ly93d3cudzmub3jnlze5otkvegxpbmsiihg9ijbweciget0imhb4igojihzpzxdcb3g9ijagmcaymtiumiaznc40iibzdhlszt0izw5hymxllwjhy2tncm91bmq6bmv3idagmcaymtiumiaznc40oyigeg1sonnwywnlpsjwcmvzzxj2zsi+cjxzdhlszsb0exblpsj0zxh0l2nzcyi+cgkuc3qwe2zpbgw6izawqtverjt9cgkuc3qxe2zpbgw6izawmky2qzt9cjwvc3r5bgu+cjx0axrszt5hb0d1yxjkawfux2xvz29fmmm8l3rpdgxlpgo8zybpzd0ix0dyb3vwxyi+cgk8zybpzd0ix0dyb3vwxziipgojctxniglkpsjfr3jvdxbfmyi+cgkjctxwyxroiglkpsjfugf0af8iignsyxnzpsjzddaiigq9ik0yos45ldixljnjltmumyw1ljktmtasmtetmtmumywxm2mtnc4yltmumi03ljctny4xltewljutmteunmwwljutos45cgkjcqljmy4xlduumyw2ljcsmtauncwxmc44lde1qze5ljcsmjyuocwynswyncwyos45ldixljmilz4kcqkjphbhdgggawq9il9qyxroxziiignsyxnzpsjzddeiigq9ik00ljusmjeunumxljesmtuunywwljesny4zldasmy41yzquny0yldkuny0zljesmtquoc0zljjsoc4zlduungmtniwwlteyldauns0xny45ldeunwojcqkjqzusos45ldqunywxniw0ljusmjeunsivpgojcqk8cgf0acbpzd0ix1bhdghfmyigy2xhc3m9inn0msigzd0itte2ljksmgm2ljctmc4ylde0ljysmi45lde4ldqun2mtmc42lduums0yljismtatnc42lde0ljzsltgunyw0ljzjmy01ljmsns40ltewljgsny4zlte2ljykcqkjcumyni44lduuoswyms42ldiunywxni45ldailz4kcqk8l2c+cgk8l2c+cjwvzz4kphbhdgggy2xhc3m9inn0msigzd0ittuxljksmtkun3ytmy41adkuohy4ljljltiuncwzltysnc43ltkuosw0ljzjltcsmc0xmi40ltquoc0xmi40lteyyzatni42lduunc0xmiwxmi0xmmmwljesmcwwljmsmcwwljqsmaojyzmuniwwldcumswxljysos40ldqungwtmi45ldiunwmtms42ltitnc0zljitni42ltmummmtnc40ldatocwzljytocw4yzasmc4xldasmc4zldasmc40yzasns4xldmumyw4ljqsocw4ljqkcwmyljesmcw0ljitmc44lduuoc0yljj2ltqumwgtns42qzuxljksmtkuosw1ms45lde5ljcsnteuoswxos43eiivpgo8cgf0acbjbgfzcz0ic3qxiibkpsjnodesmjauogmwldquos0zljksoc44ltguocw4ljhzltguoc0zljktoc44ltguogwwldbjmc00ljksnc04ljgsoc44ltguofm4mswxns45ldgxldiwljh6ie03mi4ylde1ljqkcwmtmi43ldatnc43ldiunc00ljcsns40czisns40ldquocw1ljrznc44ltiuncw0ljgtns40uzc1lde1ljqsnziumiwxns40eiivpgo8cgf0acbjbgfzcz0ic3qxiibkpsjnotqunywxos43di0zljvoos44djguowmtmi40ldmtniw0ljctos45ldqunmmtnywwlteyljqtnc44lteyljqtmtjjmc02ljysns40lteyldeylteyyzaumswwldaumywwldauncwwcgljmy42ldasny4xldeuniw5ljqsnc40bc0yljksmi41yy0xljytmi00ltmums02ljytmy4yyy00ljqsmc04ldmuni04ldhjmcwwljesmcwwljmsmcwwljrjmcw1ljesmy4zldguncw4ldgunaojyziumswwldqumi0wljgsns44ltiumnytnc4xac01ljzdotqunywxos45ldk0ljcsmtkunyw5nc43lde5ljd6ii8+cjxwyxroignsyxnzpsjzddeiigq9ik0xmtguncwyos4zbc0wljitmi41yy0xljisms44ltmumiwyljktns40ldiuowmtms44ldaums0zljytmc44ltquny0yljjjlteumi0xljctms41ltmuos0xljutni40di04ljlonhy4ljykcwmtmc4xldeuncwwljesmi44ldaunyw0ljfjmc41ldauoswxljusms40ldiuniwxljnjms44ltaumswzljmtms4xldqumi0yljzwmtium2g0dje3ljfoltmun1yyos4zeiivpgo8cgf0acbjbgfzcz0ic3qxiibkpsjnmtm0ljksmjkum2wtmc4ylteunmmtms4yldeunc0zldiums00ljgsmmmtmy4yldatni4xlteuoc02ljetns4zyzatnc4yldmuos01ljysny41ltuungojyzeumswwldiumiwwljesmy4yldaunhytmc40yzatmi4zltetmy43ltmuni0zljdjlteuocwwljetmy42ldauni01ljmsms41bc0xljetm2myljitms4xldquni0xljcsny4xlteun2m0ljgsmcw2ljksmi43ldyuosw3ljekcxyxmc4zsdeznc45eibnmtm0ljqsmjeuogmtmc45ltaumi0xljctmc4zltiuni0wljnjlteuoswwltqumiwwljytnc4yldiuogmwldeunywxljqsmi41ldiuoswyljvjms41ltaumswyljgtmc43ldmuos0xljckcuwxmzquncwyms44tdeznc40ldixljh6ii8+cjxwyxroignsyxnzpsjzddeiigq9ik0xndquncwxnc43yzetms43ldiunc0yljgsnc4xltiuogmwljcsmcwxljqsmc4xldismc4zbc0wljksmy43yy0wljutmc4zlteums0wljqtms42ltaunaojyy0xljusmc0yljksmc45ltmunswyljn2mteunwgtnhytmtdomy43tde0nc40lde0ljd6ii8+cjxwyxroignsyxnzpsjzddeiigq9ik0xnjcumiwyos4zac0zljdsltaumi0yljjjlteumiwxljctmy4yldiuny01ljmsmi42yy00ljcsmc04ljitnc04ljitowmwltqunywzljmtoc45ldgumi04ljkkcwmxljksmcwzljgsmc44lduumswyljfwnc41adrmmty3ljismjkum3ogtte2my4ylde3ljzjltetms40ltiuni0yljitnc4zltiumwmtmy4zldatnc45ldiuoc00ljksns41yzasmi44ldeuosw1ljqsnc45lduunaojyzeuocwwldmuns0xldqunc0yljdmmtyzljismtcunkwxnjmumiwxny42eiivpgo8cgf0acbjbgfzcz0ic3qxiibkpsjnmty5ljcsos41vjuuogg0djmun0gxnjkun3ogtte2os43ldi5ljn2lte3adr2mtdimty5ljd6ii8+cjxwyxroignsyxnzpsjzddeiigq9ik0xodyuocwyos4zbc0wljitms42yy0xljisms40ltmsmi4xltquocwyyy0zljismc02ljetms44ltyums01ljnjmc00ljismy45ltuuniw3ljutns42cgljms4xldasmi4yldaumswzljismc40di0wljrjmc0yljmtms0zljctmy42ltmun2mtms44ldaums0zljysmc42ltuumywxljvslteums0zyziumi0xljesnc42lteunyw3ljetms43yzquocwwldyuoswyljcsni45ldcumqojdjewljnimtg2ljh6ie0xodyuncwyms44yy0wljktmc4ylteuny0wljmtmi42ltaum2mtms45ldatnc4yldauni00ljismi44yzasms43ldeuncwyljusmi45ldiunwmxljutmc4xldiuoc0wljcsmy45lteunwojtde4ni40ldixljhmmtg2ljqsmjeuohoilz4kphbhdgggy2xhc3m9inn0msigzd0itte5ni4yldeyljnsmc4yldiunwmxljitms44ldmumi0yljksns40ltiuowmxljgtmc4xldmuniwwljgsnc43ldiummmxljmsms42ldeunswzljksms41ldyunhy4ljloltr2ltgungojyzaums0xljqtmc4xltiuoc0wljctnc4xyy0wljutmc45lteuns0xljqtmi42lteum2mtms44ldaums0zljqsms4xltqumiwyljz2mteum2gtnhytmtdmmtk2ljismtium3oilz4kpgc+cgk8zz4kcqk8cgf0acbjbgfzcz0ic3qxiibkpsjnmjewljesmteuogmtms4yldatmi4xltauos0yljetmi4xczauos0yljesmi4xltiumxmyljesmc45ldiumswyljftmjexljismteuocwymtaumswxms44eibnmjewljesny45cgkjcwmtmswwlteuocwwljgtms44ldeuogmwldesmc44ldeuocwxljgsms44czeuoc0wljgsms44lteuoemymteuosw4ljcsmjexljesny45ldixmc4xldcuoxoilz4kctwvzz4kctxwyxroignsyxnzpsjzddeiigq9ik0ymtauncw5ljhjmc4xltaumswwljitmc4xldaumy0wljnjmc4xltaumswwljetmc4zldaums0wljrjmc0wljitmc4xltaunc0wljitmc41yy0wljitmc4xltaunc0wljitmc42ltaumgojcwgtmc42djiunwgwljn2ltfomc41bdauniwxadaum0wymtauncw5ljh6ie0ymtasos43ac0wljn2ltfomc4zyzauncwwldauniwwljismc42ldaunwmwldaumswwldaumy0wljesmc40cgkjqzixmc4zldkunywymtaumsw5ljcsmjewldkun3oilz4kpc9npgo8l3n2zz4k)
+
+  * [explore the suite](/suite/)
+  * [filtering & monitoring](/admin/)
+  * [classroom management](/teacher/)
+  * [student safety](/beacon/)
+  * [network filtering](/dns/)
+  * [asset management](/fleet/)
+  * [video conferencing](/video-conferencing/)
+  * [for windows](/windows/)
+  * [sign in to goguardian](https://account.goguardian.com/#/)
+
+###### â ![pear
+deck](data:image/svg+xml;base64,phn2zyb4bwxucz0iahr0cdovl3d3dy53my5vcmcvmjawmc9zdmciihzpzxdcb3g9ijagmca4mjcumjcgmjm4ljg2ij48zgvmcz48c3r5bgu+lmf7zmlsbdojmzy0ndqzo30uyntmawxsoinmzmy7fs5je2zpbgw6izdjotezytt9lmr7zmlsbdojyzhkyju3o30uzxtmawxsoinmngu4ogu7ftwvc3r5bgu+pc9kzwzzpjxwyxroignsyxnzpsjhiibkpsjnmtk0ljc3ldgzljy1ytgsocwwldasmsw4lja5ltgumugymzauogmyms40ldasmzqunzesmtiumtqsmzqunzesmzauntv2lji2yzasmjaundktmtyundqsmzeumtktmzyuntqsmzeumtlimjewljgzdjiylja2ytgsocwwldasms0xni4wniwwwm0znc43miwzos40mwmxmi4xncwwlde5ljcxltyunzgsmtkunzetmtyumzf2ls4ynmmwltewljcxltcuny0xni4zmi0xos43ms0xni4zmkgymtauodn2mziuodlaii8+phbhdgggy2xhc3m9imeiigq9ik0zmdyumdcsmty4ljq5yy0ymcwwltm1ljm3lte0ljq5ltm1ljm3ltm1ljc3di0umjzjmc0xos43mswxnc0zns44oswzmy42ny0zns44oswyms45mywwldmyljc2lde4ldmyljc2ldmzljkzytcumzgsny4zocwwldasms03ljq0ldcuntdoltqzljjjms43ldexljizldkunjysmtcundksmtkuodqsmtcundlhmjqunzusmjqunzusmcwwldasmtyumzetniw1ljkxlduuotesmcwwldesnc4wns0xljq0ldyumjmsni4ymywwldasmsw2lji3ldyuncw2ljkyldyuotismcwwldetmi4wosw0ljgzqzmync42lde2nswzmtyunzcsmty4ljq5ldmwni4wnywxnjgundlabte1ljy2ltqwljg2yy0xltewlje4ltcumdutmtgumtqtmtcundktmtgumtqtos42niwwlte2ljq1ldcundqtmtcuodgsmtgumtraii8+phbhdgggy2xhc3m9imeiigq9ik0zndqunzusmtq3lja4di0umjzjmc0xnc44ocwxms42ms0ymi4xoswyoc40ns0ymi4xowe1ny41nyw1ny41nywwldasmswxoc41ncwyljg3di0xljdjmc05ljc4ltytmtutmtcums0xnwe0mc44ldqwljgsmcwwldatmtuumjcsmi43nsw5ldksmcwwldetmi40oc4zosw2lju4ldyuntgsmcwwldetni42ni02ljuzldyuodksni44oswwldasmsw0ljmxltyumjysntksntksmcwwldesmjiumtktngmxmc4zmswwlde4ldiunzqsmjiuodqsny43lduumdksnsw3ljq0ldeylji3ldcundqsmjeumjhwmtywytcuntmsny41mywwldasms03ljcsny41n2mtnc41nywwltcuny0zljezltcuny02ljy1vje1oc4zyy00ljcsns42mi0xms44ocwxmc4wni0ymi40nswxmc4wnkmzntyumjmsmty4ljm2ldm0nc43nswxnjauotismzq0ljc1lde0ny4wofptndcumjutnxytnc43ytq0ldq0ldasmcwwlte1ljy3ltiunzrjltewlje4ldatmtyumtgsnc4zms0xni4xocwxms40oxyumjzjmcw2ljy1lduuodcsmtaundqsmtmundqsmtaundrdmzg0lde1ni44nywzotismtuwljg3ldm5miwxndiumtjaii8+phbhdgggy2xhc3m9imeiigq9ik00mjiuotmsmta1lje4ytcuocw3ljgsmcwwldesny44my04ldcuosw3ljksmcwwldesocw4djdjmy42ni04ljyxldewljq1lte1lje0lde3ljm2lte1lje0ldusmcw3ljg0ldmumjysny44ncw3ljgzytcundesny40mswwldasms02lji3ldcuntdjltexljizlditmtguotmsmtauntctmtguotmsmjyuodl2mjaumzzhny44ocw3ljg4ldasmcwxltgsny44myw3ljc3ldcunzcsmcwwldetny44my03ljgzwiivpjxwyxroignsyxnzpsjhiibkpsjnnta4ljgyldgzljy1ytgsocwwldasmsw4lja5ltgumwgynmmyoc43miwwldq4lju2lde5ljcxldq4lju2ldq1ljqydi4yn2mwldi1ljcxlte5ljg0ldq1ljy4ltq4lju2ldq1ljy4ac0ynme4ldgsmcwwldetoc4wos04lja5wm0znc4wniw2oc42nwmxos4xoswwldmxljcylteyljkyldmxljcyltmwljh2ls4ynmmwlte3ljg5lteyljuzltmxlja3ltmxljcyltmxlja3ac0xofyxntium1oilz48cgf0acbjbgfzcz0iysigzd0ittyznc42nswxnjgundljltiwldatmzuumzgtmtqundktmzuumzgtmzuunzd2ls4ynmmwlte5ljcxlde0ltm1ljg5ldmzljy4ltm1ljg5ldixljkzldasmziunzysmtgsmziunzysmzmuotnhny4zocw3ljm4ldasmcwxltcundqsny41n2gtndmummmxljy5ldexljizldkunjysmtcundksmtkuodqsmtcundlhmjqunzksmjqunzksmcwwldasmtyumzetniw1ljkxlduuotesmcwwldesnc0xljq0ldyumjisni4ymiwwldasmsw2lji2ldyuncw2ljg4ldyuodgsmcwwldetmi4wosw0ljgzqzy1my4xocwxnjusnjq1ljm1lde2oc40osw2mzqunjusmty4ljq5wm0xns42ni00mc44nmmtms0xmc4xoc03lte4lje0lte3ljq5lte4lje0ltkunjysmc0xni40nsw3ljq0lte3ljg4lde4lje0wiivpjxwyxroignsyxnzpsjhiibkpsjnnjcyljexldezmi44nxytlji2yzatmtkuntgsmtuumtqtmzysmzuuodktmzysmtauodmsmcwxoc4ynywzljuyldi0lje1ldgunjfhny41msw3ljuxldasmcwxldiundgsns40ocw3lje4ldcumtgsmcwwldetny4zmsw3lje4ldgumdysoc4wniwwldasms00ljctms41nmmtnc0zljqtoc40oc01ljg4lte0ljc1ltuuodgtmteundksmc0ymcw5ljkyltiwldixljkzdi4ynmmwldeylji3ldgundgsmjiumdysmjaunjismjiumdysni4ynywwldexljetmi40ocwxns40ltyumtnhni42niw2ljy2ldasmcwxldexljesns4ymiw2lje2ldyumtysmcwwldetmi4ymiw1yy02ljezlduuodctmtmuntcsos43os0yns4wniw5ljc5qtm1lje5ldm1lje5ldasmcwxldy3mi4xmswxmziuodvaii8+phbhdgggy2xhc3m9imeiigq9ik03nduundisnzguodjbny43nyw3ljc3ldasmcwxldc1my4ynsw3mwe3ljg5ldcuodksmcwwldesocw3ljg0djuwljlsmjkunjmtmjkumtfjmi4wos0ylja4ldqtmy4zosw2ljc5ltmumzlhni45myw2ljkzldasmcwxldyuotisny4xogmwldiunjetms4zmsw0lju3ltmuntmsni42nwwtmtgumjcsmtyuodqsmjauodgsmjcumjhjms40ncwyldiumdksmy40ldiumdksns4ymme3ljezldcumtmsmcwwldetny40ncw3lje4yy0zljezldatns0xltyuotitmy41mmwtmtkuny0yni4ync0xmc40nsw5ljkydjeyytcuosw3ljksmcwwldetmtuunzksmfoilz48cgf0acbjbgfzcz0iysigzd0ittc5oc44nsw3mi40n2gtmi4xnmmtljy1ldatms4xoc0umzmtms4xoc0xcy41my0xldeumtgtmwg2lju4yy42nswwldeumtgumzmsms4xocwxcy0untmsms0xlje4ldfoltiumtv2ny4xmmexlje0ldeumtqsmcwxldetmi4ynywwwiivpjxwyxroignsyxnzpsjhiibkpsjnoda1ljyzldcxljvjmc0uotiunjmtms4xmiwxlji0lteumtjoljy2yy43mswwldeslji3ldeumjgsmwwyldyundfomgwyltyundfjljizls43ny41ny0xldeumjgtmwgunjnjljyxldasms4ync4yldeumjqsms4xmny4ljeyytesmswwldesms0yldbwnzmundnomgwtmi4xmiw2ljyzytesmswwldasms0xljk0ldbsltiumtitni42m2gwdjyumtlhmswxldasmswxltismfoilz48cgf0acbjbgfzcz0iyiigzd0ittcxljq1ldyumzlbmtkunswxos41ldasmcwxldkwljgyldizljg1ytmxljkzldmxljkzldasmcwxldixljg5ltgunjysns4xmiw1ljeyldasmcwxldasmtaumjnbmjeuodksmjeuodksmcwwldasotauotisnduuntd2ms43mme0ljkzldquotmsmcwwldetlja5ljg3djuumzloms41nwm3ljq2ldasmtyundysocwymc4xnswxni41bc4yny42mmgwyy4woswwlde2lji3ldm3ljuylde2lji3ldm3ljuyytcyljm1ldcyljm1ldasmswxltewmc42nywwtdq0ljk0ldcwlja1qti4ldi4ldasmcwxldcwljy1lduzlje3ytuunyw1ljcsmcwwldesns42osw1ljdonc4yowexljm2ldeumzysmcwwldesmc0umjfwndcumjljmc0unzusmc0xljuumdgtmi4ynfyzni40ngmtms4wny40my0yljiyljg3ltmuncwxljmxytuumdksns4woswwldasms0ylju4ldyumtvjltyumtcsmy0xmiw0lju1lte3ljm5ldquntvbmjyundismjyundismcwwldesnduuncw0ns42ogmtmtuuntqtny43nc0xos43ni0yos0xos45my0yos44nme1ljesns4xldasmcwxldiumjetns4ymyw1lja5lduumdksmcwwldesns42oswwlde3lja3lde3lja3ldasmcwwldkunzksmi44ngm1ljq5ldasmtauoditmi4wnywxnc4ync0zljc1qtmyldmyldasmcwxldcxljq1ldyumzltmc02ljm5qtm4lju1ldm4lju1ldasmcwwldu0lju4ldrhmjcumtysmjcumtysmcwwldetmteundismy4xqtewljy3ldewljy3ldasmcwxldm3lduumzqsmteuntesmteuntesmcwwldasmtkumtksmtdjljq5ldiuntgsns4zncwyns40ldizljm2ldm0ljm4qtmyljgsmziuocwwldasmcw0os42msw1ncwznc4zniwznc4zniwwldasmcwzos4wnyw2ny41mwwtmtysmzdhnzgunzmsnzgunzmsmcwxldasmtm0ljq0ldu1ljyyldc5lje5ldc5lje5ldasmcwwltizltu1ljyyyy0xljitmi43oc00ljqtmtaumi03ljyxlte3ljyyltitnc42os00lja2ltkumzktns41os0xmi45ms0unzctms43ny0xljqyltmumjqtms44ny00lji3ls4ymi0uns0undytms0unzqtms41oggwbc0umjctljyyqtm4ljq4ldm4ljq4ldasmcwwldewocw1my43mswyoc43mywyoc43mywwldasmcw5ny4zldq3ljg1yzatlje4ldatljm2ldatlju2vjq1ljg0yte1lju1lde1lju1ldasmcwxlde1ljqtmtqsmteuntesmteuntesmcwwldasmc0ymywzoc4znywzoc4znywwldasmc0xoc41ldqunzrbmjuunzgsmjuunzgsmcwwldasnzeundusmfoilz48cgf0acbjbgfzcz0iyyigzd0ittg1ljgxldm0ljjzms45mi0ync0xmc4ymi0ymi42os0yny4ymiwxnc4zny00ns4xldmumzvjmcwwldmsmzeundksmzmumzesmjcunjvdnjmuocw0mi41msw4mswzni43niw4ns44mswznc4ywiivpjxwyxroignsyxnzpsjkiibkpsjnmti0ljmsmtexljuxbc0xny0zos4xoueymi4zmiwymi4zmiwwldasmcw4ni44myw1oc44n0g3mc42nueymi4zldiyljmsmcwwldasntaumtcsnziumzjslte3ldm5lje5yty2ljy1ldy2ljy1ldasmswwldkxljezldbaii8+phbhdgggy2xhc3m9imuiigq9ik03ny40niwymjjdndguodusmjiyldizljcxldiwmc43niwxoswxnziunthjlteumzqtoc0yljm5lte1ljgxls41oc0ymy41nc4ymy0xljm2ldeunjctos41miw0ljc1lte1ljy4ytquntisnc41miwwldasmsw4lja4ldrjltiunjcsns4zmy0zljkzldezlje1ltmuotqsmtmumjnsls4wny4znwmtms40ocw2lje0ls41nywxmi43nc42nywymc4xqtuwljczlduwljczldasmcwwldc3ljq2ldixm2e0oc42niw0oc42niwwldasmcwxns40ny0ylju1qtquntesnc41mswwldasmsw5ns44ldixosw1ny4znyw1ny4znywwldasmsw3ny40niwymjjaii8+pgvsbglwc2ugy2xhc3m9imeiign4psi4ms43miigy3k9ije0ns4yiibyed0iny45osigcnk9ijgilz48zwxsaxbzzsbjbgfzcz0iysigy3g9ijewms43nyigy3k9ije0ns4yiibyed0iny45osigcnk9ijgilz48cgf0acbjbgfzcz0iysigzd0ittkxlja3lde4my40nmeymc42ldiwljysmcwwldetmtqumzctns44ldyumzisni4zmiwwldasmsw4ljc2ltkumtesoc4wnyw4lja3ldasmcwwldexljiyldasni4zmiw2ljmyldasmcwxldgunzysos4xmueymc42ldiwljysmcwwldesoteumdcsmtgzljq2wiivpjxwyxroignsyxnzpsjhiibkpsjnmti5lja3ldewoc4xovmxmtiuodgsnzaunjqsmteyljgsnzaunjdsls4yny0unjjjltmunjktoc41ms0xmi42os0xni41ltiwlje1lte2ljviotauodnwndgumtzhnc45myw0ljkzldasmcwwlc4wos0uoddwnduuntdhmjeuodksmjeuodksmcwwldesmjeunzktmjaumtusns4xmiw1ljeyldasmcwwldatmtaumjmsmzeuotmsmzeuotmsmcwwldatmjeuodksoc42nkexos41lde5ljusmcwwldasnzeundusni4zoswzmiwzmiwwldasmcw1ny40ldkunzjjltuunswyljctmtuuotmsni40ms0yncwuotfhns4xmiw1ljeyldasmcwwltcuosw1lje5yy4xny45ldqumzksmjiumtismtkuotmsmjkuodysoc40ocw0ljiylde4ljmzldmunjismjkumzetms43oge1ljeylduumtismcwxldatnc41mi05lje4yy03ljk0ldmuotetmtqunzqsnc41mi0ymc4yldeuodjtndesmjgumzismzgunzismjmungm5lja4ldeumzqsmtcuodgtms44oswymy4xos00ljvhmjeunzgsmjeunzgsmcwwldesos41nc0ylji4ldkumjusos4ynswwldasmsw5lji0ldkumjrwnduumdvjmcwunzqtlja4ldeundktlja4ldiumjrwntgunjdhns4xlduumswwldasmcwylja3ldqumdksns42nsw1ljy1ldasmcwwldqumtqsms44mswxni42mywxni42mywwldasmswxns4yniwxmgwxnywzos4yytuunjksns42oswwldasmcwxljmzldeuodlbnjaumzksnjaumzksmcwwldesmtm5ljy5lde2mge2msw2mswwldesms0xmjeuos4wosw2mc4znsw2mc4znswwldasmswxos4yoc00nc40niw1ljg0lduuodqsmcwwldasms4zmy0xljg5bde3ltm5ljjhmtyunjmsmtyunjmsmcwwldesmtutmtasns44ocw1ljg4ldasmcwwlduuodctnc44miw1ljcsns43ldasmcwwltuunjmtni41oeeyocwyocwwldasmcw0nc45ncw3mc4wnuwyoc40ldewoc4xowe3mi4znsw3mi4znswwldesmcwxmdaunjcsmfoilz48cgf0acbjbgfzcz0iysigzd0ittgwljyxldu1ljd2my4zn2e1ljq5lduundksmcwwldasns40osw1ljvom1oilz48l3n2zz4=)
+
+  * [pear deck](https://www.peardeck.com/?utm_source=goguardian-footer)
+  * [pricing info](https://www.peardeck.com/pricing?utm_source=goguardian-footer)
+  * [resources](https://www.peardeck.com/orchard?utm_source=goguardian-footer)
+  * [blog](https://www.peardeck.com/blog?utm_source=goguardian-footer)
+  * [sign in to pear deck](https://app.peardeck.com/authpicker?finaldestinationurl=%2fhome%2f%3faction%3dsignin)
+
+###### resources
+
+  * [distance learning resource center](/distance-learning/)
+  * [self harm & suicide prevention](/suicide-self-harm-resources/)
+  * [glossary of technical terms](/glossary/)
+  * [research & insights](/research-and-insights/)
+  * [live events & webinars](/live/)
+  * [success stories](/success-stories/)
+
+###### support
+
+  * [help center](https://help.goguardian.com/hc/en-us)
+  * [video training](/training/)
+  * [status page](https://status.goguardian.com/)
+  * [website terms](/terms/)
+  * [website privacy policy](/privacy/)
+  * [trust & privacy](/privacy-information/)
+  * [contact us](/contact/)
+  * [sitemap](/html-sitemap/)
+
+###### company
+
+  * [blog](/blog/)
+  * [careers](/careers/)
+  * [leadership team](/leadership/)
+  * [newsroom](/newsroom/)
+  * [brand guidelines](/brand/)
+  * [reseller information](https://partners.goguardian.com/)
+  * [channel partner portal](https://partners.goguardian.com/)
+  * [security reporting program](/responsible-security-reporting-program/)
+
+[![goguardian](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0idxrmltgipz4kpcetlsbhzw5lcmf0b3i6iefkb2jlielsbhvzdhjhdg9yidi0ljaumswgu1zhiev4cg9ydcbqbhvnluluic4gu1zhifzlcnnpb246idyumdagqnvpbgqgmckgic0tpgo8c3znihzlcnnpb249ijeumsigawq9ikxhewvyxzeiihhtbg5zpsjodhrwoi8vd3d3lnczlm9yzy8ymdawl3n2zyigeg1sbnm6egxpbms9imh0dha6ly93d3cudzmub3jnlze5otkvegxpbmsiihg9ijbweciget0imhb4igojihzpzxdcb3g9ijagmcaznc45idm0ljqiihn0ewxlpsjlbmfibgutymfja2dyb3vuzdpuzxcgmcawidm0ljkgmzqundsiihhtbdpzcgfjzt0ichjlc2vydmuipgo8c3r5bgugdhlwzt0idgv4dc9jc3mipgojlnn0mhtmawxsoimwmee1rey7fqojlnn0mxtmawxsoimwmdjgnkm7fqo8l3n0ewxlpgo8dgl0bgu+r29hdwfyzglhbi1zagllbgqtmmm8l3rpdgxlpgo8zybpzd0ix0dyb3vwxyi+cgk8zybpzd0ix0dyb3vwxziipgojctxniglkpsjfr3jvdxbfmyi+cgkjctxwyxroiglkpsjfugf0af8iignsyxnzpsjzddaiigq9ik0yos41ldixljnjltmumiw1ljgtos44ldewljgtmtmsmtiun0mxmi40ldmwljksoswyny4xldyumiwymi43tdyunywxmwojcqkjyzmsns4yldyuniwxmc4yldewljysmtqun0mxos43ldi2ljysmjquocwymy44ldi5ljusmjeumyivpgojcqk8cgf0acbpzd0ix1bhdghfmiigy2xhc3m9inn0msigzd0ittquocwyms40qzeuncwxns43ldaunsw3ljusmc40ldmuogm0ljytmiw5ljutmywxnc41ltmumww4lduum0mxnyw1ljksmteumsw2ljqsns40ldcungojcqkjqzuumywxmc4xldusmtysnc44ldixljqilz4kcqkjphbhdgggawq9il9qyxroxzmiignsyxnzpsjzddeiigq9ik0xni45ldaunemymy42ldaumiwzms4yldmumiwznc41ldvjltauniw1ltiumiw5ljgtnc41lde0ljnsltgunsw0ljukcqkjcwmyljktns4ylduumy0xmc42ldcums0xni4xqzi2ljysni4yldixljusmy4xlde2ljksmc40ii8+cgkjpc9npgojpc9npgo8l2c+cjxnpgojpgc+cgkjphbhdgggy2xhc3m9inn0mcigzd0itti4ljusmzqummmtmc44ldatms41ltauny0xljutms41yzatmc44ldauny0xljusms41lteunxmxljusmc43ldeunswxljvdmzasmzmunswyos4zldm0ljismjgunswznc4yegojcqkgtti4ljusmzeungmtmc43ldatms4zldauni0xljmsms4zyzasmc43ldauniwxljmsms4zldeum3mxljmtmc42ldeumy0xljndmjkuocwzmiwyos4yldmxljqsmjgunswzms40eiivpgojpc9npgojphbhdgggy2xhc3m9inn0mcigzd0itti4ljcsmziuogmwljesmcwwljitmc4xldaumi0wljjjmc4xltaumswwljetmc4yldaums0wljnjmc0wljesmc0wljmtmc4xltaungmtmc4xltaums0wljmtmc4xltaunc0wljfimjgkcql2ms43adaumnytmc43adaum2wwljqsmc43adaumkwyoc43ldmyljh6ie0yoc40ldmyljdoltaumlyzmmgwljjjmc4zldasmc40ldaumswwljqsmc4zyzasmc4xldasmc4yltaumswwljmkcqldmjguniwzmi42ldi4ljusmziunywyoc40ldmyljd6ii8+cjwvzz4kpc9zdmc+cg==)](/)[](https://www.facebook.com/goguardian/
+"follow goguardian on facebook")[](https://www.instagram.com/goguardian/?hl=en
+"follow goguardian on instagram")[](https://twitter.com/goguardian "follow
+goguardian on twitter")[](https://www.youtube.com/goguardian "subscribe to
+goguardian on youtube")[](https://www.linkedin.com/company/goguardian "connect
+with goguardian on linkedin")
+
+liminex, inc. [CLS] [SEP] doing business as goguardian. [CLS] [SEP]  
+all rights reserved. [CLS] [SEP]
+
