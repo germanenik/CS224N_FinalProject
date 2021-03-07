@@ -1,0 +1,1681 @@
+[![tiktok](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0ivvrgltgipz4kphn2zyb3awr0ad0imjlwecigagvpz2h0psizmnb4iib2awv3qm94psiwidagmjkgmziiihzlcnnpb249ijeumsigeg1sbnm9imh0dha6ly93d3cudzmub3jnlziwmdavc3zniib4bwxuczp4bgluaz0iahr0cdovl3d3dy53my5vcmcvmtk5os94bgluayi+ciagica8is0tiedlbmvyyxrvcjogu2tldgnoidu1ljigkdc4mtgxksatigh0dhbzoi8vc2tldgnoyxbwlmnvbsatlt4kicagidx0axrszt7nvjbnu4qgmjwvdgl0bgu+ciagica8zgvzyz5dcmvhdgvkihdpdgggu2tldgnoljwvzgvzyz4kicagidxniglkpslpobxpnaixiibzdhjva2u9im5vbmuiihn0cm9rzs13awr0ad0imsigzmlsbd0ibm9uzsigzmlsbc1ydwxlpsjldmvub2rkij4kicagicagica8zybpzd0i57yw57ueltiiihryyw5zzm9ybt0idhjhbnnsyxrlkdauotc5mjm2lcawljawmdawmckiigzpbgwtcnvszt0ibm9uemvybyi+ciagicagicagicagidxwyxroigq9ik0xmc43ota3njq1ldeyljmziewxmc43ota3njq1ldexljexiemxmc4znjcynji5ldexlja0mjg4odcgos45mzk1mdy3ncwxms4wmdyxmjg0idkuntewnzy0ndgsmtauotk5otc4nibdns4zntk5nju0oswxmc45oteymji4ideunjg1mdk2nzksmtmunjgxmdiwnsawljqzody2nzy5ncwxny42ndaynju4iemtmc44mdc3njezotksmjeuntk5ntexmiawljy2mzuwntg0miwyns45mdkzodg3idqumdcwnzy0ndgsmjgumjggqzeunte4ndg0odqsmjuuntq4ndgxniawljgwotc5otu0nswyms41nziwodm0idiumjyxmjy4mtcsmtgumti3mda1mybdmy43mti3mzy3oswxnc42ode5mjczidcumduzmjk1ndusmtiundexntqyocaxmc43ota3njq1ldeyljmziewxmc43ota3njq1ldeyljmzifoiiglkpslot6/lvoqiigzpbgw9iimynuy0ruuipjwvcgf0ad4kicagicagicagicagphbhdgggzd0ittexljaymdc2ndusmjyumtugqzezljm0mtuyodcsmjyumtq2odc3niaxns4yndkxnjyyldi0ljmxodu0mtqgmtuumzuwnzy0nswymibmmtuumzuwnzy0nswxljmxiewxos4xmza3njq1ldeumzegqze5lja1mzywnjgsmc44nzc2odizmjigmtkumde2nzgxocwwljqzotezmdk5miaxos4wmja3njq1ldagtdezljg1mdc2ndusmcbmmtmuoduwnzy0nswymc42nybdmtmunzy0nzk4ldizljawmdmzodggmteuoduynjg1mywync44ndyymtigos41mja3njq0ocwync44nsbdoc44mjm5mdkxncwync44ndqwnjcgoc4xmzg0mjg4ncwync42nzi2oty5idcuntiwnzy0ndgsmjqumzugqzgumzmynjgyndusmjuundc0ote1nca5ljyzmzq2mjazldi2lje0mzg4nzggmteumdiwnzy0nswyni4xnsbaiibpzd0i6lev5b6eiibmawxspsijmjvgnevfij48l3bhdgg+ciagicagicagicagidxwyxroigq9ik0yni4xota3njq1ldgumzmgtdi2lje5mdc2ndusny4xocbdmjqunzk5njqsny4xoda0nzyynsaymy40mzkznzgxldyunzy5otyyndigmjiumjgwnzy0nsw2iemymy4yoty0ndq2ldcumtgwnze3njkgmjqunjy4otyymiw3ljk5odyxmtc3idi2lje5mdc2ndusoc4zmybmmjyumtkwnzy0nsw4ljmzifoiiglkpslot6/lvoqiigzpbgw9iimynuy0ruuipjwvcgf0ad4kicagicagicagicagphbhdgggzd0ittiylji4mdc2ndusnibdmjeumtm5ndy3nsw0ljcwmdmzmtyxidiwljuxmdi5njcsmy4wmjk2ntixniaymc41mta3njq1ldeumybmmtkumtmwnzy0nswxljmgqze5ljq5mdk4mtismy4ymzi2oduxosaymc42mzawmzgzldquotmymjmwnjcgmjiumjgwnzy0nsw2iewymi4yoda3njq1ldygwiigawq9iui3r+w+hcigzmlsbd0ii0zfmkm1nsi+pc9wyxropgogicagicagicagica8cgf0acbkpsjnos41mta3njq0ocwxni4xnybdny41mtkymtgxncwxni4xodaymtc4iduunzkwmje2mjysmtcuntq0ntkziduumze3mjeymdesmtkundc5mtgwmybdnc44ndqymdc3nywyms40mtm3njc3iduunzq4nja5ntysmjmundiymda2osa3ljuxmdc2ndq4ldi0ljm1iem2lju1ntk0odm0ldizljazmtc3mtggni40mjewnjg3mswyms4yodk0mzm2idcumtyxnji4odmsmtkuodm5otyxmybdny45mdixodg5niwxoc4zota0odg5idkumzkzmdy3mzqsmtcundc4nzc4miaxms4wmja3njq1lde3ljq4iemxms40ntq3nzuylde3ljq4ntqwodqgmteuodg1nzkwocwxny41nti3ntq2ideyljmwmdc2ndusmtcunjggtdeyljmwmdc2ndusmtiundigqzexljg3njk5mtksmtiumzu2nta1niaxms40ndkyntyyldeyljmymza4odcgmteumdiwnzy0nswxmi4zmibmmtaunzkwnzy0nswxmi4zmibmmtaunzkwnzy0nswxni4zmibdmtaumzcznjm2ocwxni4ymdgxntq0idkuotqyndq5mzqsmtyumtu3nji0nia5ljuxmdc2ndq4lde2lje3ifoiiglkpslot6/lvoqiigzpbgw9iingrtjdntuipjwvcgf0ad4kicagicagicagicagphbhdgggzd0itti2lje5mdc2ndusoc4zmybmmjyumtkwnzy0nswxmi4zmybdmjmunje1ndcsmtiumzi1mde5myayms4xmdcwmjusmteunta5odyymiaxos4wmja3njq1ldewiewxos4wmja3njq1ldiwljuxiemxos4wmdk3mzuyldi1ljc1ndqxntggmtqunzu1mtkxoswzmc4wmdawmte2idkuntewnzy0ndgsmzagqzcuntyzmti3odqsmzaumdazndu1nia1ljy2mjqwmzixldi5ljqwmjq5mtignc4wnza3njq0ocwyoc4yocbdni43mjy5ody3ncwzms4xmzy4mta4idewljg2mdgyntcsmziumdc3mtk4osaxnc40ote0nza2ldmwljy1mdu1odygqze4ljeymjexntusmjkumjizote4myaymc41mdk5mzc1ldi1ljcymdg4mjugmjauntewnzy0nswyms44mibmmjauntewnzy0nswxms4zncbdmjiunja0mdi0ldeyljgzotk2njmgmjuumte1ntcyncwxmy42ndq1mdezidi3ljy5mdc2ndusmtmunjqgtdi3ljy5mdc2ndusoc40osbdmjcumtg2ntkynsw4ljq4odm5ntm1idi2ljy4mzkzmtmsoc40mzq3nzgxniayni4xota3njq1ldgumzmgwiigawq9iui3r+w+hcigzmlsbd0ii0zfmkm1nsi+pc9wyxropgogicagicagicagica8cgf0acbkpsjnmtkumdiwnzy0nswymc41msbmmtkumdiwnzy0nswxmcbdmjeumteznda4nywxms41mdexodk4idizljyyntm2mjmsmtiumza1odu0niayni4ymda3njq1ldeyljmgtdi2ljiwmdc2ndusoc4ziemync42nzkyntqyldcuotc4nzeynjugmjmumzazndqwmyw3lje3mtq3ndkxidiylji4mdc2ndusnibdmjaunjmwmdm4myw0ljkzmjizmdy3ide5ljq5mdk4mtismy4ymzi2oduxosaxos4xmza3njq1ldeumybmmtuumzuwnzy0nswxljmgtde1ljm1mdc2ndusmjigqze1lji3nte1mjesmjmuodq2nzy2ncaxnc4wmzgxotkxldi1ljq0mzaymdegmtiumjy4nzy5ldi1ljk3nzizmdigqzewljq5otmzodksmjyuntexndqwmya4lju4ntcwotqyldi1ljg2njm4mtugny41mda3njq0ocwync4znybdns43mzg2mdk1niwymy40ndiwmdy5idquodm0mja3nzcsmjeundmznzy3nya1ljmwnzixmjaxlde5ljq5ote4mdmgqzuunzgwmje2mjysmtcunty0ntkzidcunta5mje4mtqsmtyumjawmje3oca5ljuwmdc2ndq4lde2lje5iem5ljkzndkwmywxni4xotm4njkzidewljm2njezodysmtyumjyxmjq5osaxmc43oda3njq1lde2ljm5iewxmc43oda3njq1ldeyljm5iem3ljaymjmznzksmtiunduznjy5msazljy1njuzoti5lde0ljczmtk3njggmi4ymda5ndu2mswxoc4xotc2nzyxiemwljc0ntm1mtkzocwyms42njmznzuzideundc0otq0otmsmjuunjyxnzq3nia0lja2mdc2ndq4ldi4ljm5iem1ljy2oda5ntqyldi5ljq3ntuwnjmgny41nze1odc4miwzmc4wmzc4mji0idkuntewnzy0ndgsmzagqze0ljc1nte5mtksmzaumdawmdexniaxos4wmdk3mzuyldi1ljc1ndqxntggmtkumdiwnzy0nswymc41msbaiibpzd0i6lev5b6eiibmawxspsijmdawmdawij48l3bhdgg+ciagicagicagpc9npgogicagpc9npgo8l3n2zz4=)![tiktok](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0ivvrgltgipz4kphn2zyb3awr0ad0iotdwecigagvpz2h0psiymnb4iib2awv3qm94psiwidagotcgmjiiihzlcnnpb249ijeumsigeg1sbnm9imh0dha6ly93d3cudzmub3jnlziwmdavc3zniib4bwxuczp4bgluaz0iahr0cdovl3d3dy53my5vcmcvmtk5os94bgluayi+ciagica8is0tiedlbmvyyxrvcjogu2tldgnoidu1ljigkdc4mtgxksatigh0dhbzoi8vc2tldgnoyxbwlmnvbsatlt4kicagidx0axrszt7nvjbnu4q8l3rpdgxlpgogicagpgrlc2m+q3jlyxrlzcb3axroifnrzxrjac48l2rlc2m+ciagica8zybpzd0i6ag16z2imsigc3ryb2tlpsjub25liibzdhjva2utd2lkdgg9ijeiigzpbgw9im5vbmuiigzpbgwtcnvszt0izxzlbm9kzci+ciagicagicagpgcgawq9iue8lue7hcigdhjhbnnmb3jtpsj0cmfuc2xhdguomc43nzawmdasidaumjgwmdawksigzmlsbc1ydwxlpsjub256zxjvij4kicagicagicagicagphbvbhlnb24gawq9iui3r+w+hcigzmlsbd0iizawmdawmcigcg9pbnrzpsizlju1mjcxmzy4zs0xnsawlja2ide2ljeyidaumdygmtqunjqgnc43miaxmc40nia0ljcyidewljq2idixljcyiduumjmgmjeunzigns4ymya0ljcyidaumdegnc43mii+pc9wb2x5z29upgogicagicagicagica8cg9sewdvbibpzd0i6lev5b6eiibmawxspsijmdawmdawiibwb2ludhm9ijqyljuyidaumdygntkumdegmc4wnia1ny41mya0ljcyiduyljk5idqunzigntiuotkgmjeunzigndcunzcgmjeunzigndcunzcgnc43mia0mi41mya0ljcyij48l3bvbhlnb24+ciagicagicagicagidxwb2x5z29uiglkpslot6/lvoqiigzpbgw9iimwmdawmdaiihbvaw50cz0imtcumsa2ljk1idiylji3idyuotugmjiumjcgmjeunzigmtcumtqgmjeunziipjwvcg9sewdvbj4kicagicagicagicagphbvbhlnb24gawq9iui3r+w+hcigzmlsbd0iizawmdawmcigcg9pbnrzpsiync4zmiawidi5ljq4idagmjkundggmtaumdkgmzqunia1lja5idqwljc2iduumdkgmzqumjkgmteumzcgndeuntqgmjeunzigmzuuodugmjeunzigmzeumdegmtquntmgmjkundggmtyumdegmjkundggmjeunzigmjqumzigmjeunziipjwvcg9sewdvbj4kicagicagicagicagphbvbhlnb24gawq9iui3r+w+hcigzmlsbd0iizawmdawmcigcg9pbnrzpsi3os4wmsawidg0ljizidagodqumjmgmtaumdkgodkumzqgns4wosa5ns41iduumdkgodkumdmgmteumzcgotyumjmgmjeunzigotauntqgmjeunzigoduunzegmtquntmgodqumjmgmtyumdegodqumjmgmjeunzignzkumdygmjeunziipjwvcg9sewdvbj4kicagicagicagicagpgnpcmnszsbpzd0i5qst5zyg5b2iiibmawxspsijmdawmdawiibjed0imtkunjkiign5psiyljy2iibypsiyljyipjwvy2lyy2xlpgogicagicagicagica8cgf0acbkpsjnntgumzusmtiuodggqzu4ljm1mtu4mtqsoc4ynjy1nzi2osa2ms45mda2ndc1ldqundmwmdk3ntggnjyunsw0lja3iem2ni4ynyw0lja3idy1ljk2ldqumdcgnjuunzmsnc4wnybdnjeumdu1njk0niw0ljm0mjy0otu3idu3ljqwndc1nzisoc4ymti3ndk1oca1ny40mdq3ntcyldeyljg5nsbdntcunda0nzu3miwxny41nzcynta0idyxlja1nty5ndysmjeundq3mzuwnca2ns43mywyms43mibdnjuuotysmjeunzignjyumjcsmjeunzignjyunswyms43mibdnjeuodg5mtmwnywyms4zntkwmjixidu4ljmzntg5mtqsmtcunta0otu2nca1oc4znswxmi44ocbaiibpzd0i6lev5b6eiibmawxspsijmjvgnevfij48l3bhdgg+ciagicagicagicagidxwyxroigq9ik02oc41msw0lja0iem2oc4ynyw0lja0idy3ljk2ldqumdqgnjcunzmsnc4wncbdnziumze0ndysnc40mtg2ntyznya3ns44ndizmzi1ldgumjq5oti4odkgnzuuodqymzmynswxmi44nsbdnzuuodqymzmynswxny40ntawnzexidcyljmxndq2ldixlji4mtm0mzygnjcunzmsmjeunjygqzy3ljk2ldixljy2idy4lji3ldixljy2idy4ljuxldixljy2iem3my4zotixotcyldixljy2idc3ljm1lde3ljcwmje5nzignzcumzusmtiuodigqzc3ljm1ldcuotm3odayodegnzmumzkymtk3miwzljk4idy4ljuxldmuotggtdy4ljuxldqumdqgwiigawq9iui3r+w+hcigzmlsbd0ii0zfmkm1nsi+pc9wyxropgogicagicagicagica8cgf0acbkpsjnnjcumtesmtcumtggqzy0ljcznte3ntysmtcumtggnjiuodesmtuumju0odi0nca2mi44mswxmi44ocbdnjiuodesmtaunta1mtc1nia2nc43mzuxnzu2ldguntggnjcumtesoc41ocbdnjkundg0odi0ncw4lju4idcxljqxldewljuwnte3ntygnzeundesmtiuodggqzcxljqwnduwmtysmtuumjuyntqzmia2os40odi1ndmylde3lje3nduwmtygnjcumtesmtcumtggtdy3ljexlde3lje4ifogtty3ljexldqumdqgqzyyljiynzgwmjgsnc4wnca1oc4ynyw3ljk5nzgwmjgxidu4lji3ldeyljg4iem1oc4ynywxny43njixotcyidyyljiynzgwmjgsmjeunzignjcumtesmjeunzigqzcxljk5mje5nzismjeunzignzuuotusmtcunzyymtk3mia3ns45nswxmi44ocbdnzuuotusmtauntm1ndg2mia3ns4wmtg2ndu1ldgumjg2otk3njqgnzmumzywodizosw2ljyyote3nja1iem3ms43mdmwmdi0ldquotcxmzu0ndcgnjkundu0ntezocw0lja0idy3ljexldqumdqgwiigawq9iuw9ouektiigzmlsbd0iizawmdawmci+pc9wyxropgogicagicagidwvzz4kicagidwvzz4kpc9zdmc+)**tiktok**](/
+"tiktok")
+
+### legal
+
+  * [tiktok platform cookies policy](/legal/cookie-policy?lang=en)
+
+  * [privacy policy for younger users](/legal/privacy-policy-for-younger-users?lang=en)
+
+  * [open source](/legal/open-source?lang=en)
+
+  * [virtual items](/legal/virtual-items?lang=en)
+
+  * [intellectual property policy](/legal/copyright-policy?lang=en)
+
+  * [law enforcement](/legal/law-enforcement?lang=en)
+
+  * [privacy policy](/legal/privacy-policy?lang=en)
+
+  * [terms of service](/legal/terms-of-use?lang=en)
+
+if you are a user having your usual residence in the us, this privacy policy
+shall apply. [CLS] [SEP]
+
+if you are a user having your usual residence in the eea, united kingdom or
+switzerland, this privacy policy shall apply. [CLS] [SEP]
+
+if you are not in the us, eea, united kingdom or switzerland,this privacy
+policy shall apply. [CLS] [SEP] there may also be jurisdiction specific provisions for
+certain countries or regions. [CLS] [SEP] please refer to your local privacy policy for
+more information. [CLS] [SEP]
+
+#  
+ **privacy policy**
+
+(if you are a user having your usual residence in the us)
+
+ _last updated: december 20, 2020._
+
+welcome to tiktok (the “platform”). [CLS] [SEP] the platform is provided and controlled by
+tiktok inc. [CLS] [SEP] (“tiktok”, “we” or “us”). [CLS] [SEP] we are committed to protecting and
+respecting your privacy. [CLS] [SEP] this privacy policy covers the experience we provide
+for users age 13 and over on our platform. [CLS] [SEP] for information about our under-13
+experience (“children’s platform”) and our practices in the united states
+regarding children’s privacy, please refer to our [privacy policy for younger
+users](https://www.tiktok.com/legal/privacy-policy-for-younger-users?lang=en). [CLS] [SEP]
+
+capitalized terms that are not defined in this policy have the meaning given
+to them in the [terms of service](https://www.tiktok.com/legal/terms-of-
+use?lang=en#terms-us). [CLS] [SEP]
+
+##  **what information do we collect?**
+
+we collect information when you create an account and use the platform. [CLS] [SEP] we
+also collect information you share with us from third-party social network
+providers, and technical and behavioral information about your use of the
+platform. [CLS] [SEP] we also collect information contained in the messages you send
+through our platform and information from your phone book, if you grant us
+access to your phone book on your mobile device. [CLS] [SEP] more information about the
+categories and sources of information is provided below. [CLS] [SEP]
+
+###  **information you choose to provide**
+
+for certain activities, such as when you register, upload content to the
+platform, or contact us directly, you may provide some or all of the following
+information:
+
+  * registration information, such as age, username and password, language, and email or phone number
+  * profile information, such as name, social media account information, and profile image
+  * user-generated content, including comments, photographs, videos, and virtual item videos that you choose to upload or broadcast on the platform (“user content”)
+  * payment information, such as paypal or other third-party payment information (where required for the purpose of payment)
+  * your phone and social network contacts, with your permission. [CLS] [SEP] if you choose to find other users through your phone contacts, we will access and collect the names and phone numbers and match that information against existing users of the platform. [CLS] [SEP] if you choose to find other users through your social network contacts, we will collect your public profile information as well as names and profiles of your social contacts
+  * your opt-in choices and communication preferences
+  * information to verify an account
+  * information in correspondence you send to us
+  * information you share through surveys or your participation in challenges, sweepstakes, or contests such as your gender, age, likeness, and preferences. [CLS] [SEP]
+
+###  **information we obtain from other sources**
+
+we may receive the information described in this privacy policy from other
+sources, such as:
+
+ **social media**. [CLS] [SEP] if you choose to link or sign up using your social network
+(such as facebook, twitter, instagram, or google), we may collect information
+from these social media services, including your contact lists for these
+services and information relating to your use of the platform in relation to
+these services. [CLS] [SEP]
+
+ **third-party services**. [CLS] [SEP] we may collect information about you from third-
+party services, such as advertising partners and analytics providers. [CLS] [SEP]
+
+ **others users of the platform**. [CLS] [SEP] sometimes other users of the platform may
+provide us information about you, including through customer service
+inquiries. [CLS] [SEP]
+
+ **other sources**. [CLS] [SEP] we may collect information about you from other publicly
+available sources. [CLS] [SEP]
+
+###  **information we collect automatically**
+
+we automatically collect certain information from you when you use the
+platform, including internet or other network activity information such as
+your ip address, geolocation-related data (as described below), unique device
+identifiers, browsing and search history (including content you have viewed in
+the platform), and cookies (as defined below). [CLS] [SEP]
+
+ **usage information**
+
+we collect information regarding your use of the platform and any other user
+content that you generate through and broadcast on our platform. [CLS] [SEP] we also link
+your subscriber information with your activity on our platform across all your
+devices using your email, phone number, or similar information. [CLS] [SEP]
+
+ **device information**
+
+we collect information about the device you use to access the platform,
+including your ip address, unique device identifiers, model of your device,
+your mobile carrier, time zone setting, screen resolution, operating system,
+app and file names and types, keystroke patterns or rhythms, and platform. [CLS] [SEP]
+
+ **location data**
+
+we collect information about your location, including location information
+based on your sim card and/or ip address. [CLS] [SEP] with your permission, we may also
+collect global positioning system (gps) data. [CLS] [SEP]
+
+ **messages**
+
+we collect and process, which includes scanning and analyzing, information you
+provide in the context of composing, sending, or receiving message through the
+platform’s messaging functionality. [CLS] [SEP] that information includes the content of
+the message and information about when the message has been sent, received
+and/or read, as well as the participants of the communication. [CLS] [SEP] please be aware
+that messages sent to other users of the platform will be accessible by those
+users and that we are not responsible for the manner in which those users use
+or disclose messages. [CLS] [SEP]
+
+ **metadata**
+
+when you upload user content, you automatically upload certain metadata that
+is connected to the user content. [CLS] [SEP] metadata describes other data and provides
+information about your user content that will not always be evident to the
+viewer. [CLS] [SEP] in connection with your user content the metadata can describe how,
+when, and by whom the piece of user content was collected and how that content
+is formatted. [CLS] [SEP] it also includes information, such as your account name, that
+enables other users to trace back the user content to your user account. [CLS] [SEP]
+additionally, metadata will consist of data that you chose to provide with
+your user content, e.g. [CLS] [SEP] any hashtags used to mark keywords to the video and
+captions. [CLS] [SEP]
+
+ **cookies**
+
+we and our service providers and business partners use cookies and other
+similar technologies (e.g. [CLS] [SEP] web beacons, flash cookies, etc.) (“cookies”) to
+automatically collect information, measure and analyze which web pages you
+click on and how your use the platform, enhance your experience using the
+platform, improve the platform, and provide you with targeted advertising on
+the platform and elsewhere across your different devices. [CLS] [SEP] cookies are small
+files which, when placed on your device, enable the platform to provide
+certain features and functionality. [CLS] [SEP] web beacons are very small images or small
+pieces of data embedded in images, also known as “pixel tags” or “clear gifs,”
+that can recognize cookies, the time and date a page is viewed, a description
+of the page where the pixel tag is placed, and similar information from your
+computer or device. [CLS] [SEP] to learn how to disable cookies, see your “your choices”
+section below. [CLS] [SEP]
+
+additionally, we allow these service providers and business partners to
+collect information about your online activities through cookies. [CLS] [SEP] we and our
+service providers and business partners link your contact or subscriber
+information with your activity on our platform across all your devices, using
+your email or other log-in or device information. [CLS] [SEP] our service providers and
+business partners may use this information to display advertisements on our
+platform and elsewhere online and across your devices tailored to your
+interests, preferences, and characteristics. [CLS] [SEP] we are not responsible for the
+privacy practices of these service providers and business partners, and the
+information practices of these service providers and business partners are not
+covered by this privacy policy. [CLS] [SEP]
+
+we may aggregate or de-identify the information described above. [CLS] [SEP] aggregated or
+de-identified data is not subject to this privacy policy. [CLS] [SEP]
+
+##  **how we use your information**
+
+as explained below, we use your information to fulfill and enforce our terms
+of service, to improve and administer the platform, and to allow you to use
+its functionalities. [CLS] [SEP] we may also use your information to, among other things,
+show you suggestions, promote the platform, and customize your ad experience. [CLS] [SEP]
+
+we generally use the information we collect:
+
+  * to fulfill requests for products, services, platform functionality, support and information for internal operations, including troubleshooting, data analysis, testing, research, statistical, and survey purposes and to solicit your feedback
+  * to customize the content you see when you use the platform. [CLS] [SEP] for example, we may provide you with services based on the country settings you have chosen or show you content that is similar to content that you like or interacted with
+  * to send promotional materials from us or on behalf of our affiliates and trusted third parties
+  * to improve and develop our platform and conduct product development
+  * to measure and understand the effectiveness of the advertising we serve to you and others and to deliver targeted advertising
+  * to make suggestions and provide a customized ad experience
+  * to support the social functions of the platform, including to permit you and other users to connect with each other through the platform and for you and other users to share, download, and otherwise interact with user content posted through the platform
+  * to use user content as part of our advertising and marketing campaigns to promote the platform
+  * to understand how you use the platform, including across your devices
+  * to infer additional information about you, such as your age, gender, and interests
+  * to help us detect abuse, fraud, and illegal activity on the platform
+  * to ensure that you are old enough to use the platform (as required by law)
+  * to communicate with you, including to notify you about changes in our services
+  * to announce you as a winner of our contest, sweepstakes, or promotions if permitted by the promotion rule, and to send you any applicable prizes
+  * to enforce our terms, conditions, and policies
+  * consistent with your permissions, to provide you with location-based services, such as advertising and other personalized content
+  * to inform our algorithms
+  * to combine all the information we collect or receive about you for any of the foregoing purposes
+
+  * for any other purposes disclosed to you at the time we collect your information or pursuant to your consent. [CLS] [SEP]
+
+##  **how we share your information**
+
+we are committed to maintaining your trust, and while tiktok does not sell
+personal information to third parties, we want you to understand when and with
+whom we may share the information we collect for business purposes. [CLS] [SEP]
+
+###  **service providers and business partners**
+
+we share the categories of personal information listed above with service
+providers and business partners to help us perform business operations and for
+business purposes, including research, payment processing and transaction
+fulfillment, database maintenance, administering contests and special offers,
+technology services, deliveries, email deployment, advertising, analytics,
+measurement, data storage and hosting, disaster recovery, search engine
+optimization, marketing, and data processing. [CLS] [SEP] these service providers and
+business partners may include:
+
+  * payment processors and transaction fulfillment providers, who may receive the information you choose to provide, the information we obtain from other sources, and the information we collect automatically but who do not receive your message data. [CLS] [SEP]
+  * customer and technical support providers, who may receive the information you choose to provide, the information we obtain from other sources, and the information we collect automatically. [CLS] [SEP]
+  * researchers, who may receive the information you choose to provide, the information we obtain from other sources, and the information we collect automatically but would not receive your payment information or message data. [CLS] [SEP]
+  * cloud providers, who may receive the information you choose to provide, the information we obtain from other sources, and the information we collect automatically. [CLS] [SEP]
+  * advertising, marketing, and analytics vendors, who may receive the information you choose to provide, the information we obtain from other sources, and the information we collect automatically but would not receive your payment information or message data. [CLS] [SEP]
+
+###  **within our corporate group**
+
+we may share all of the information we collect with a parent, subsidiary, or
+other affiliate of our corporate group. [CLS] [SEP]
+
+###  **in connection with a sale, merger, or other business transfer**
+
+we may share all of the information we collect in connection with a
+substantial corporate transaction, such as the sale of a website, a merger,
+consolidation, asset sales, or in the unlikely event of bankruptcy. [CLS] [SEP]
+
+###  **for legal reasons**
+
+we may disclose any of the information we collect to respond to subpoenas,
+court orders, legal process, law enforcement requests, legal claims, or
+government inquiries, and to protect and defend the rights, interests, safety,
+and security to tiktok inc., the platform, our affiliates, users, or the
+public. [CLS] [SEP] we may also share any of the information we collect to enforce any
+terms applicable to the platform, to exercise or defend any legal claims, and
+comply with any applicable law. [CLS] [SEP] ** **
+
+###  **with your consent**
+
+we may share your information for other purposes pursuant to your consent or
+with your further direction. [CLS] [SEP]
+
+if you access third-party services, such as facebook, google, or twitter, to
+login to the platform or to share information about your usage on the platform
+with others, these third-party services may be able to collect information
+about you, including information about your activity on the platform, and they
+may notify your connections on the third-party services about your use of the
+platform, in accordance with their privacy policies. [CLS] [SEP]
+
+if you choose to engage in public activities on the platform, you should be
+aware that any information you share may be read, collected, or used by other
+users. [CLS] [SEP] you should use caution in disclosing personal information while
+engaging. [CLS] [SEP] we are not responsible for the information you choose to submit. [CLS] [SEP]
+
+##  **your rights**
+
+you may submit a request to access or delete the information we have collected
+about you by sending your request to us at the email or physical address
+provided in the contact section at the bottom of this policy. [CLS] [SEP] you may be
+entitled, in accordance with applicable law, to submit a request through an
+authorized agent. [CLS] [SEP] to designate an authorized agent to exercise choices on your
+behalf, please provide evidence that you have given such agent power of
+attorney or that the agent otherwise has valid written authority to submit
+requests to exercise rights on your behalf. [CLS] [SEP] we will respond to your request
+consistent with applicable law and subject to proper verification. [CLS] [SEP] we will
+verify your request by asking you to send it from the email address associated
+with your account or to provide information necessary to verify your account. [CLS] [SEP]
+and we do not discriminate based on the exercise of any privacy rights that
+you might have. [CLS] [SEP]
+
+##  **your choices**
+
+  * you may be able to refuse or disable cookies by adjusting your browser settings. [CLS] [SEP] because each browser is different, please consult the instructions provided by your browser. [CLS] [SEP] please note that you may need to take additional steps to refuse or disable certain types of cookies. [CLS] [SEP] for example, due to differences in how browsers and mobile apps function, you may need to take different steps to disable cookies used for targeted advertising in a browser and to disable targeted advertising for a mobile application, which you may control through your device settings or mobile app permissions. [CLS] [SEP] in addition, our choice to disable cookies is specific to the particular browser or device that you are using when you disable cookies, so you may need to separately disable cookies for each type of browser or device. [CLS] [SEP] if you choose to refuse, disable, or delete cookies, some of the functionality of the platform may no longer be available to you. [CLS] [SEP] without this information, we are not able to provide you with all the requested services, and any differences in services are related to your information. [CLS] [SEP]
+  * you can manage third-party advertising preferences for some of the third parties we work with to serve advertising across the internet by clicking here and by utilizing the choices available at [www.networkadvertising.org/managing/opt_our.asp](www.networkadvertising.org/managing/opt_our.asp) and [www.aboutads.info/choices](www.aboutads.info/choices). [CLS] [SEP]
+  * your mobile device may include a feature that allows you to opt out of some types of targeted advertising (“limit ad tracking” on ios and “opt out of interest-based ads” on android). [CLS] [SEP]
+  * you can opt out of marketing or advertising emails by utilizing the “unsubscribe” link or mechanism noted in marketing or advertising emails. [CLS] [SEP]
+  * you can switch off gps location information functionality on your mobile device if you do not wish to share gps information. [CLS] [SEP]
+  * if you have registered for an account you may access, review, and update certain personal information that you have provided to us by logging into your account and using available features and functionalities. [CLS] [SEP]
+  * some browsers transmit “do-not-track” signals to websites. [CLS] [SEP] because of differences in how browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. [CLS] [SEP] we currently do not take action in response to these signals. [CLS] [SEP]
+
+##  **security**
+
+we use reasonable measures to help protect information from loss, theft,
+misuse and unauthorized access, disclosure, alteration, and destruction. [CLS] [SEP] you
+should understand that no data storage system or transmission of data over the
+internet or any other public network can be guaranteed to be 100 percent
+secure. [CLS] [SEP] please note that information collected by third parties may not have
+the same security protections as information you submit to us, and we are not
+responsible for protecting the security of such information. [CLS] [SEP]
+
+##  **children**
+
+the privacy of users under the age of 13 (“younger users”) is important to us. [CLS] [SEP]
+we provide a separate experience for younger users in the united states on the
+children’s platform, in which we collect only limited information. [CLS] [SEP] for more
+information on our united states data collection practices for younger users,
+please visit the [privacy policy for younger
+users](https://www.tiktok.com/legal/privacy-policy-for-younger-users?lang=en). [CLS] [SEP]
+
+the platform otherwise is not directed at children under the age of 13. [CLS] [SEP] if we
+become aware that personal information has been collected on the platform from
+a person under the age of 13 we will delete this information and terminate the
+person’s account. [CLS] [SEP] if you believe that we have collected information from a
+child under the age of 13 on the platform, contact us at:
+<https://tiktok.com/legal/report/privacy>. [CLS] [SEP]
+
+##  **other rights**
+
+###  **sharing for direct marketing purposes (shine the light)**
+
+if you are a california resident, once a calendar year, you may be entitled to
+obtain information about personal information that we shared, if any, with
+other businesses for their own direct marketing uses. [CLS] [SEP] if applicable, this
+information would include the categories of customer information, as well as
+the names and addresses of those businesses with which we shared customer
+information for the immediately prior calendar year. [CLS] [SEP] to submit a request,
+contact us at: <https://www.tiktok.com/legal/report/privacy>. [CLS] [SEP]
+
+###  **content removal for users under 18**
+
+users of the platform who are california residents and are under 18 years of
+age may request and obtain removal of user content they posted by contacting
+us at: <https://www.tiktok.com/legal/report/privacy>. [CLS] [SEP] all requests must be
+labeled “california removal request” on the email subject line. [CLS] [SEP] all requests
+must provide a description of the user content you want removed and
+information reasonably sufficient to permit us to locate that user content. [CLS] [SEP] we
+do not accept california removal requests via postal mail, telephone, or
+facsimile. [CLS] [SEP] we are not responsible for notices that are not labeled or sent
+properly, and we may not be able to respond if you do not provide adequate
+information. [CLS] [SEP] please note that your request does not ensure complete or
+comprehensive removal of the material. [CLS] [SEP] for example, materials that you have
+posted may be republished or reposted by another user or third party. [CLS] [SEP]
+
+##  **changes**
+
+we may update this privacy policy from time to time. [CLS] [SEP] when we update the
+privacy policy, we will notify you by updating the “last updated” date at the
+top of this policy and posting the new privacy policy and providing any other
+notice required by applicable law. [CLS] [SEP] we recommend that you review the privacy
+policy each time you visit the platform to stay informed of our privacy
+practices. [CLS] [SEP]
+
+##  **contact**
+
+questions, comments and requests regarding this policy should be addressed to:
+
+  * mailing address: tiktok inc., attn: tiktok legal department 10100 venice blvd, suite 401, culver city, ca 90232, usa
+  * contact us: <https://www.tiktok.com/legal/report/privacy>  
+
+  
+  
+
+# **privacy policy**
+
+(if you are a user having your usual residence in the european economic area
+(eea) or the united kingdom, or switzerland)
+
+ _last updated: july 2020_
+
+  
+
+welcome to tiktok (the “platform”). [CLS] [SEP] we are committed to protecting and
+respecting your privacy and this policy sets out the basis on which we process
+any personal data we collect from you, or that you provide to us. [CLS] [SEP] where we
+refer to “tiktok”, “we” or “us” in this privacy policy, we mean tiktok
+technology limited, an irish company (“tiktok ireland”), and tiktok
+information technologies uk limited (“tiktok uk”), a uk company. [CLS] [SEP]
+
+to see the full privacy policy, click here. [CLS] [SEP]
+
+if you are between 13 and 18 years old, we have also prepared a separate
+summary of this policy and what it means for you. [CLS] [SEP] it is available in the app
+under the ‘privacy policy’ tab. [CLS] [SEP]
+
+##  **summary**
+
+###  **what information do we collect about you?**
+
+we collect and process information you give us when you create an account and
+use the platform. [CLS] [SEP] this includes technical and behavioural information about
+your use of the platform. [CLS] [SEP] we also collect information about you if you
+download the app and use the platform without creating an account. [CLS] [SEP] for more
+information, click here. [CLS] [SEP]
+
+###  **how will we use the information about you?**
+
+we use your information to provide the platform to you and to improve and
+administer it. [CLS] [SEP] in order to provide an effective and dynamic platform, and
+where we have determined it is in our legitimate interests, we use your
+information to improve and develop the platform, prevent crime and ensure
+users’ safety. [CLS] [SEP] where we have your consent, we will also use your personal data
+to serve you targeted advertising and promote the platform. [CLS] [SEP] for more
+information on how your information is used, click here. [CLS] [SEP]
+
+###  **who do we share your information with?**
+
+we share your data with third party service providers who help us to deliver
+the platform including cloud storage providers. [CLS] [SEP] we also share your information
+with business partners, other companies in the same group as tiktok (including
+tiktok inc in the us which provides certain services for us in connection with
+the platform), content moderation services, measurement providers, advertisers
+and analytics providers. [CLS] [SEP] we may share your information with law enforcement
+agencies, public authorities or with other third parties only where we are
+legally required to do so or if such use is reasonably necessary (for
+instance, to ensure your or someone else’s safety). [CLS] [SEP] for more information,
+click here. [CLS] [SEP]
+
+###  **your rights**
+
+we offer you settings to control and manage the personal data we have about
+you. [CLS] [SEP] you also have the following rights: you can ask us to delete your data;
+to change or correct your data; to provide a copy of your data and to stop
+using some or all of your data. [CLS] [SEP] for more information about how to make these
+requests, click here. [CLS] [SEP] you can also contact us using the contact information
+below, and we will review your request in accordance with applicable laws. [CLS] [SEP]
+
+###  **how long do we keep hold of your information?**
+
+we retain your information for as long as it is necessary to provide you with
+the service so that we can fulfil our contractual obligations and exercise our
+rights in relation to the information involved. [CLS] [SEP] where we do not need your
+information in order to provide the service to you, we retain it only as long
+as we have a legitimate business purpose in keeping such data or where we are
+subject to a legal obligation to retain the data. [CLS] [SEP] we will also retain your
+data if necessary for legal claims. [CLS] [SEP] for more information, click here. [CLS] [SEP]
+
+###  **how will we notify you of any changes to this privacy policy?**
+
+we will notify all users of any material changes to this policy through a
+notice on our platform or by other means. [CLS] [SEP] we update the “last updated” date at
+the top of this policy, which reflects the effective date of the policy. [CLS] [SEP] by
+accessing or using the platform, you acknowledge that you have read this
+policy and that you understand your rights in relation to your personal data
+and how we will collect, use and process it. [CLS] [SEP] for more information, click here. [CLS] [SEP]
+
+***********************************************************************************************
+
+##  **1\. [CLS] [SEP] the types of personal data we use**
+
+we collect and use the following information about you:
+
+ **your profile information**
+
+you give us information when you register on the platform, including your
+username, date of birth, email address and/or telephone number, information
+you disclose in your user profile and your photograph or profile video. [CLS] [SEP]
+
+ **user content and behavioural information**
+
+we process the content you generate and view on the platform, including
+preferences you set (such as choice of language), photographs and videos you
+upload, comments and live-streams you make (“ **user content** ”). [CLS] [SEP] we collect
+information through surveys, challenges and competitions in which you
+participate. [CLS] [SEP] we also collect information regarding your use of the platform,
+e.g. [CLS] [SEP] how you engage with the platform, including how often you use the
+platform and how you interact with content we show you, the ads you view,
+videos you watch and problems encountered, the content you like, the content
+you save to “favourites”, the words you search and the users you follow. [CLS] [SEP] _ _
+
+we infer your interests, gender and age for the purpose of personalising
+content. [CLS] [SEP] we also infer the interests of our users to better optimise
+advertising across our platform. [CLS] [SEP] if you have consented, we will use this
+information for the purpose of serving personalised advertising. [CLS] [SEP]
+
+we review user content for content moderation purposes to enforce our
+community guidelines, comply with legal obligations, and prevent and respond
+to abuse, fraud, illegal activity and other potentially harmful content on the
+platform. [CLS] [SEP]
+
+we also process information about your followers, the likes you receive and
+responses to content you upload, for the purposes of personalising your "for
+you" feed, promoting your content to other users and exploring whether your
+profile presents opportunities for collaboration. [CLS] [SEP]
+
+ _messages_
+
+where local laws allow us to, we collect and process your messages, which
+includes scanning and analysing the information in those messages through the
+platform’s messaging functionality. [CLS] [SEP] that information includes the content of
+the message and information about when the message has been sent, received
+and/or read, as well as the participants in the communication. [CLS] [SEP]
+
+we do this to prevent and block spam, prevent and detect crime, safeguard
+children (where this is in the substantial public interest) or to protect the
+interests of our users and other people. [CLS] [SEP]
+
+please also be aware that messages sent to other users of the platform will be
+accessible by those users and that we are not responsible for how those users
+use or disclose them. [CLS] [SEP]
+
+ _pro accounts  _
+
+you can upgrade your user account in the app to a "pro account". [CLS] [SEP] a pro account
+gives you access to additional features, such as aggregated statistics about
+your content. [CLS] [SEP] if you participate in the tiktok creator marketplace, you can
+use the pro account menu to access settings and manage requests relating to
+marketplace functions. [CLS] [SEP] for this purpose, data is exchanged with the tiktok
+creator marketplace. [CLS] [SEP]
+
+ **information from third parties**
+
+you may choose to share certain data with us from third parties or, through
+your use of the platform, we may collect such third party data automatically. [CLS] [SEP]  
+
+ _business partners_
+
+if you choose to register to use the platform using your social media account
+details (e.g. [CLS] [SEP] facebook, twitter, instagram, google), you will provide us or
+allow your social network to provide us with your username and public profile. [CLS] [SEP]
+we will likewise share certain information with the relevant social network
+such as your app id, access token and the referring url. [CLS] [SEP] for further
+information on sharing your facebook contact list with us, please see find
+other users and invite your friends. [CLS] [SEP]
+
+ _advertisers and measurement partners_
+
+where you have consented to personalised advertising, we will match your
+information e.g. [CLS] [SEP] your mobile advertising id, where it is provided to us by
+advertisers and other partners, with your tiktok profile to serve you ads. [CLS] [SEP] we
+may also serve you ads based on the information we infer from the data these
+partners provide. [CLS] [SEP] you can opt out of this activity at any time via your app
+settings by going to 'privacy and safety' and then to 'personalization and
+data' and opting out of ‘ads based on data received from partners’. [CLS] [SEP]
+
+we use information provided by our measurement partners, to understand how
+you’ve interacted with our ad partners’ websites and better assess the
+effectiveness of the advertising on our platform. [CLS] [SEP]
+
+for more information about how our measurement and analytics providers collect
+data from the platform, please see our [cookies
+policy](https://www.tiktok.com/legal/cookie-policy). [CLS] [SEP]
+
+ **technical information we collect about you**
+
+we collect certain information from you when you use the platform including
+when you are using the app without an account. [CLS] [SEP] such information includes your
+ip address, instance ids (which allow us to determine which devices to deliver
+messages to), mobile carrier, time zone settings, identifier for advertising
+purposes and the version of the app you are using. [CLS] [SEP] we will also collect
+information regarding the device you are using to access the platform such as
+the model of your device, the device system, network type, device id, your
+screen resolution and operating system, audio settings and connected audio
+devices. [CLS] [SEP] where you log-in from multiple devices, we will be able to use your
+profile information to identify your activity across devices. [CLS] [SEP]
+
+ **location**
+
+when you use the platform on a mobile device, we will collect information
+about your location in order to customise your experience. [CLS] [SEP] we infer your
+approximate location based on your ip address. [CLS] [SEP] in certain jurisdictions, we
+may also collect global positioning system data. [CLS] [SEP]
+
+ **information about your friends**
+
+you can choose whether to find other users of the platform using our “find
+friends” function and to invite your contacts to join you on the platform. [CLS] [SEP] we
+will use the contact information you have for that person, such as from within
+your telephone's contact list or facebook friends list, and give you the
+option to send them either an sms, email or third party message (such as
+whatsapp, facebook messenger or twitter) inviting them to view your tiktok
+profile. [CLS] [SEP]  
+
+we use your personal data to find matches based on your contact information
+and your address book. [CLS] [SEP] however, your contact information and your address book
+is private and will not be disclosed. [CLS] [SEP] we use a technical system to find
+matches without sending your own information or your address book to us in
+plain text. [CLS] [SEP]
+
+if you want to find other users through your facebook contacts, you can grant
+us access to your facebook contact list. [CLS] [SEP] we will then collect your public
+facebook information as well as names and profiles of your facebook contacts. [CLS] [SEP]
+we will match this to registered users and show you any matches so you can
+follow them. [CLS] [SEP]
+
+ **in-app purchases  **
+
+if you make in-app purchases, please review our[ virtual items
+policy](https://www.tiktok.com/legal/virtual-items?lang=en). [CLS] [SEP] your purchase
+will be made via your apple itunes or google play account. [CLS] [SEP] we do not collect
+any financial or billing information from you in relation to such a
+transaction. [CLS] [SEP] please review the relevant app store's terms and notices to learn
+about how your data is used. [CLS] [SEP] we keep a record of the purchases you make, the
+time at which you make those purchases and the amount spent so that we can
+credit your account with the correct value in coins. [CLS] [SEP]
+
+ **information you provide to us  **
+
+we collect information you provide us in response to a survey. [CLS] [SEP] if you respond
+to a tiktok survey, your individual responses will be used for the purpose of
+the survey and will be shared with other organisations, as explained to you
+when you participate in a survey. [CLS] [SEP] we may also use aggregate data from these
+surveys in the same way. [CLS] [SEP]
+
+we also collect information you provide to us in correspondence. [CLS] [SEP]  
+
+ **proof of your identity or age**
+
+we sometimes ask you to provide proof of identity or age in order to use
+certain features, such as livestream or verified accounts, or when you apply
+for a “pro account”. [CLS] [SEP]
+
+##  **2\. [CLS] [SEP] cookies**
+
+cookies and similar technologies (e.g. [CLS] [SEP] pixels and ad tags) (collectively, “
+**cookies** ”) are small files which, when placed on your device, enable us to
+collect certain information, including personal data, from you in order to
+provide certain features and functionality. [CLS] [SEP] we and our service providers and
+business partners use cookies to collect data and recognise you and your
+device(s) on the platform and elsewhere across your different devices. [CLS] [SEP] we do
+this to better understand the effectiveness of the advertising on the platform
+and to enhance your user experience. [CLS] [SEP] to learn more about cookies please see
+our [cookies policy](https://www.tiktok.com/eu/cookie-policy/). [CLS] [SEP]  
+
+##  **3\. [CLS] [SEP] how we use your personal data**
+
+we will use the information we collect about you based on the legal grounds
+described below. [CLS] [SEP]
+
+in accordance with, and to perform our contract with you, we will use your
+information to:
+
+  * provide the platform and associated services;
+
+  * notify you about changes to our service;
+
+  * provide you with user support;
+
+  * enforce our terms, conditions and policies;
+
+  * administer the platform including troubleshooting;
+
+  * personalise the content you receive and provide you with tailored content that will be of interest to you;
+
+  * enable you to share user content and interact with other users;
+
+  * enable our messenger service to function if you choose to use it and are 16 or above;
+
+  * enable you to participate in the virtual items program; and
+
+  * communicate with you. [CLS] [SEP]
+
+in order to comply with our legal obligations and as necessary to perform
+tasks in the public interest or to protect the vital interests of our users
+and other people, we use your data to help us prevent and respond to abuse,
+fraud, illegal activity and other potentially harmful content on the platform. [CLS] [SEP]
+
+in accordance with our legitimate interests to provide an effective and
+dynamic platform, we may use your information to:
+
+  * ensure your safety and security, including reviewing user content, messages and associated metadata for breaches of our [community guidelines](https://www.tiktok.com/community-guidelines?lang=en) and our [terms of service](https://www.tiktok.com/legal/terms-of-use?lang=en#terms-eea);
+
+  * ensure content is presented in the most effective manner for you and your device;
+
+  * understand how people use the platform so that we can improve, promote and develop it;  
+
+  * promote popular topics, hashtags and campaigns on the platform;
+
+  * carry out data analysis and test the platform to ensure its stability and security;
+
+  * verify your identity, for example, to enable you to have a ‘verified account’, and your age, for example, to ensure you are old enough to use certain features;
+
+  * provide non-personalised advertising, which keeps many of our services free; 
+  * infer your interests for optimising our advertising offerings, which, where you’ve consented to personalised advertising, may be based on the information our advertising partners provide to us;
+  * measure the effectiveness of the advertising you see on our platform;
+  * inform our algorithms so we can deliver the most relevant content to you and to prevent crime and misuse of the platform;
+
+  * carry out surveys regarding our services, products and features; 
+
+  * allow you to participate in interactive features of the platform; and
+  * enable you to socialise on the platform. [CLS] [SEP] for example, we may allow other users to identify you via the "find friends" function or through their phone contacts or connect you with other users by tracking who you share links with. [CLS] [SEP]
+
+where we process your information to fulfill our legitimate interests, we
+conduct a balancing test to check that using personal data is really necessary
+for us to achieve our business purpose. [CLS] [SEP] when we carry out this balancing test
+we also take into account the privacy rights of our users and put in place
+appropriate safeguards to protect their personal data. [CLS] [SEP]
+
+with your consent, we will use your information to provide you with
+personalised advertising. [CLS] [SEP] please see the sections on advertisers in
+“information from third parties” for more information. [CLS] [SEP] you can control your
+personalised advertising settings at any time via your app settings. [CLS] [SEP] please go
+to 'privacy and safety' and then 'personalization and data' to manage and
+control your advertising preferences. [CLS] [SEP] if you do not consent to personalised
+advertising, you will still see non-personalised advertising on the platform. [CLS] [SEP]
+
+##  **4\. [CLS] [SEP] how we share your personal data**
+
+we share your data with the following selected third parties:
+
+ **business partners**
+
+  * if you choose to register to use the platform using your social network account details (e.g. [CLS] [SEP] facebook, twitter, instagram, google), you provide us or allow your social network to provide us with your username and public profile. [CLS] [SEP] we will likewise share certain information with the relevant social network such as your app id, access token and the referring url. [CLS] [SEP]
+
+  * where you opt to share content on social media platforms, the video, username and any text associated with the post will be shared on that platform or, in the case of sharing via instant messaging platforms such as whatsapp, a link to the content will be shared. [CLS] [SEP]
+
+  * in order to provide the “find friends” functionality with your facebook contact list, we share data with facebook to allow this function to work. [CLS] [SEP] 
+
+ **payment providers**
+
+  * if you are 18 or over and choose to buy virtual items we will share data with the relevant payment provider to facilitate this transaction. [CLS] [SEP] we share a transaction id to enable us to identify you and credit your account with the correct value in coins once you have made the payment. [CLS] [SEP]
+
+ **service providers**
+
+  * we provide information and content to service providers who support our business, such as cloud service providers and providers of content moderation services to ensure that the platform is a safe and enjoyable place. [CLS] [SEP]
+
+ **analytics and measurement providers**
+
+  * we use analytics and measurement providers to help us improve the platform including by assisting us with content measurement and following your activity on our platform across your devices. [CLS] [SEP] 
+  * our third party analytics and measurement providers also help us measure advertising on our platform and help our advertisers determine whether their advert has been shown on our platform and how it performed. [CLS] [SEP] we share your mobile advertising id and other device data with measurement companies so that they can link your activity on the platform with your activity on our advertisers’ websites. [CLS] [SEP]
+
+ **advertisers**
+
+  * we only share aggregated user information with advertisers. [CLS] [SEP] aggregated information is information that is grouped together and is not specific to an individual user. [CLS] [SEP] this is done to help measure the effectiveness of an advertising campaign by showing advertisers how many users of the platform have viewed or clicked on an advertisement. [CLS] [SEP] 
+
+ **our corporate group**
+
+  * we may share your information with other members, subsidiaries, or affiliates of our corporate group where it is necessary to provide the platform in accordance with the [terms of service](https://www.tiktok.com/legal/terms-of-use?lang=en#terms-eea). [CLS] [SEP] 
+  * we share information to improve and optimise the platform, including to prevent illegal use and to support users. [CLS] [SEP]
+
+ **law enforcement / legal obligation**
+
+  * we may share your information with law enforcement agencies, public authorities or other third parties if we consider that we are legally required to do so or if such use is reasonably necessary to:
+  * comply with a legal process or request;
+
+  * enforce our [terms of service](https://www.tiktok.com/legal/terms-of-use?lang=en#terms-eea) and other agreements, policies, and standards, including investigation of any potential violation;
+
+  * detect, prevent or otherwise address abuse, fraud, illegal activity or security or technical issues; or
+
+  * protect the rights, property or safety of us, our users, a third party or the public as required or permitted by law (including exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction). [CLS] [SEP]
+
+ **public profiles**
+
+  * if your profile is public, your content will be visible to anyone on the platform and may also be accessed or shared by your friends and followers as well as third parties such as search engines, content aggregators and news sites. [CLS] [SEP] you can change who can see a video each time you upload a video. [CLS] [SEP] you can also change your profile to private by changing your settings to 'private account' in 'privacy and safety' settings. [CLS] [SEP] if your profile is public, other users can use your content to produce and upload further content, for example, by creating a duet with your video. [CLS] [SEP]
+
+ **sale or merger**
+
+  * we disclose your information to third parties:
+  * in the event that we sell or buy any business or assets (for example, as a result of liquidation, bankruptcy or otherwise). [CLS] [SEP] in such transactions, we will disclose your data to the prospective seller or buyer of such business or assets; or
+
+  * if we sell, buy, merge, are acquired by, or partner with other companies or businesses, or sell some or all of our assets. [CLS] [SEP] in such transactions, user information may be among the transferred assets. [CLS] [SEP]
+
+##  **5\. [CLS] [SEP] where we store your personal data**
+
+the personal data that we collect from you will be transferred to, and stored
+at, a destination outside of the european economic area ("eea"). [CLS] [SEP]
+
+where we transfer your personal data to countries outside the eea, we do so
+under the european commission’s model contracts for the transfer of personal
+data to third countries (i.e. [CLS] [SEP] standard contractual clauses) pursuant to
+commission decision 2004/915/ec or 2010/87/eu (as appropriate) or in line with
+any replacement mechanism approved under eu law. [CLS] [SEP] for a copy of these standard
+contractual clauses, contact us at:
+<https://www.tiktok.com/legal/report/privacy>. [CLS] [SEP]
+
+##  **6\. [CLS] [SEP] your rights**
+
+we offer you settings to control and manage the personal data we have about
+you. [CLS] [SEP]
+
+you have the following rights:
+
+  * access your data: you can ask us, free of charge, to confirm we process your personal data and for a copy of your personal data. [CLS] [SEP]
+
+  * delete your data: you can ask us to delete all or some of your personal data. [CLS] [SEP] 
+
+  * change or correct data: you can ask us to change or fix your data. [CLS] [SEP] you can also make changes using the in-app controls and settings. [CLS] [SEP]  
+
+  * portability: you can ask for a copy of personal data you provided in a machine readable form. [CLS] [SEP]
+
+  * object or restrict use of data and withdraw consent: you can ask us to stop using some or all of your data, e.g. [CLS] [SEP] if we have no legal right to keep using it. [CLS] [SEP] you can ask us to stop processing your personal data for direct marketing purposes; withdraw your consent or ask us to stop making any automatic individual decisions, including profiling. [CLS] [SEP] if you object to such processing, we ask you to share the reason for your objection in order for us to examine the processing of your personal data and to balance our legitimate interest in processing and your objection to this processing. [CLS] [SEP]
+
+before we can respond to a request to exercise one or more of the rights
+listed above, you may be required to verify your identity or your account
+details. [CLS] [SEP]
+
+for information about how to make these requests, you can contact us using the
+contact information below, and we will review your request while considering
+applicable laws. [CLS] [SEP] tiktok ireland will be responsible for responding to your
+request within the relevant periods provided by law. [CLS] [SEP] if necessary to resolve
+your request, tiktok ireland will liaise with tiktok uk. [CLS] [SEP]
+
+##  **7\. [CLS] [SEP] the security of your personal data**
+
+we take steps to ensure that your information is treated securely and in
+accordance with this policy. [CLS] [SEP] unfortunately, the transmission of information
+via the internet is not completely secure. [CLS] [SEP] although we will do our best to
+protect your personal data, for example, by encryption, we cannot guarantee
+the security of your information transmitted via the platform, which means any
+transmission is at your own risk. [CLS] [SEP]
+
+we have appropriate technical and organisational measures to ensure a level of
+security appropriate to the risk that may be posed to you and other users. [CLS] [SEP] we
+maintain these technical and organisational measures and will amend them from
+time to time to improve the overall security of our systems. [CLS] [SEP]
+
+we will, from time to time, include links to and from the websites of our
+partner networks, advertisers and affiliates. [CLS] [SEP] if you follow a link to any of
+these websites, please note that these websites have their own privacy
+policies and that we do not accept any responsibility or liability for these
+policies. [CLS] [SEP] please check these policies before you submit any information to
+these websites. [CLS] [SEP]
+
+##  **8\. [CLS] [SEP] how long we keep your personal data**
+
+we retain your information for as long as it is necessary to provide you with
+the service so that we can fulfil our contractual obligations and exercise our
+rights in relation to the information involved. [CLS] [SEP] where we do not need your
+information in order to provide the service to you, we retain it only for so
+long as we have a legitimate business purpose in keeping such data. [CLS] [SEP]
+
+if you ask us to delete your account it will first be placed into a
+deactivated state for 30 days (to allow you to request it to be reinstated),
+followed by the deletion of the account. [CLS] [SEP] we will also delete personal data
+that relates to the in-app messaging function within 30 days of you cancelling
+your user account. [CLS] [SEP] please note that messages sent to other users of our
+service are stored on their devices and cannot be deleted by us. [CLS] [SEP]
+
+in each case, there are also occasions where we may need to keep your data for
+longer in accordance with our legal obligations or where it is necessary for
+legal claims. [CLS] [SEP]
+
+##  **9\. [CLS] [SEP] information relating to children**
+
+tiktok is not directed at children under the age of 13. [CLS] [SEP] if you believe that we
+have personal data about or collected from a child under the relevant age,
+contact us at: <https://www.tiktok.com/legal/report/privacy>. [CLS] [SEP]
+
+##  **10\. [CLS] [SEP] changes**
+
+we will notify you of any material changes to this policy through a notice
+provided via the platform or by other means. [CLS] [SEP] the “last updated” date at the
+top of this policy reflects the effective date of such policy changes. [CLS] [SEP]
+
+##  **11\. [CLS] [SEP] who we are and how to contact us**
+
+tiktok ireland and tiktok uk provide the platform and associated services, and
+together process personal data in the manner described in this policy and in
+our [terms of service](https://www.tiktok.com/legal/terms-of-
+use?lang=en#terms-eea). [CLS] [SEP] for users of the platform in the eea and switzerland,
+tiktok ireland is the service provider in accordance with our terms of service
+and if you are in the uk, the provider of the platform is tiktok uk. [CLS] [SEP] tiktok
+ireland and tiktok uk share information as joint controllers of your data
+where it is necessary to do so to operate the platform efficiently and in line
+with applicable laws. [CLS] [SEP]
+
+if you have questions or complaints regarding this policy, or if you wish to
+reach the tiktok’s data protection officer, contact us at:
+<https://www.tiktok.com/legal/report/privacy>. [CLS] [SEP] you can also contact us at the
+following postal address. [CLS] [SEP]
+
+ **for users in the european union, european economic area and switzerland:**
+tiktok technology limited, 10 earlsfort terrace, dublin, d02 t380, ireland. [CLS] [SEP]
+
+ **for users in the united kingdom:  **6th floor, one london wall, london,
+ec2y 5eb, united kingdom. [CLS] [SEP]
+
+if contacting us does not resolve your complaint you have the right to
+complain to your local data protection supervisory authority. [CLS] [SEP]
+
+  
+
+  
+
+#  **privacy policy**
+
+(if you are not in the us, eea, the united kingdom or switzerland)
+
+ _last updated:_ _february 2021_
+
+  
+
+welcome to tiktok (the “ **platform** ”). [CLS] [SEP] the platform is provided and
+controlled by tiktok pte. [CLS] [SEP] ltd., with its registered address at 1 raffles quay,
+#26-10, south tower, singapore 048583 (“ **tiktok** ”, “ **we** ” or “ **us**
+”). [CLS] [SEP]
+
+we are committed to protecting and respecting your privacy. [CLS] [SEP]  this policy
+explains our practices concerning the personal data we collect from you, or
+that you provide to us. [CLS] [SEP] if you do not agree with this policy, you should not
+use the platform. [CLS] [SEP]
+
+if you have any questions about how we use your personal data, contact us at:
+<https://www.tiktok.com/legal/report/privacy>. [CLS] [SEP]
+
+##  **summary**
+
+###  **what information do we collect about you?**
+
+we collect and process information you give us when you create an account and
+upload content to the platform. [CLS] [SEP] this includes technical and behavioural
+information about your use of the platform. [CLS] [SEP]  we also collect information about
+you if you download the app and interact with the platform without creating an
+account. [CLS] [SEP]
+
+###  **how will we use the information about you?**
+
+we use your information to provide the platform to you and to improve and
+administer it. [CLS] [SEP]  we use your information to, among other things, show you
+suggestions in the ‘for you’ feed, improve and develop the platform and ensure
+your safety. [CLS] [SEP]  where appropriate, we will also use your personal information to
+serve you targeted advertising and promote the platform. [CLS] [SEP]
+
+###  **who do we share your information with?**
+
+we share your data with third party service providers who help us to deliver
+the platform, such as cloud storage providers. [CLS] [SEP] we also share your information
+with business partners, other companies in the same group as tiktok, content
+moderation services, measurement providers, advertisers, and analytics
+providers. [CLS] [SEP] where and when required by law, we will share your information with
+law enforcement agencies or regulators, and with third parties pursuant to a
+legally binding court order. [CLS] [SEP]
+
+###  **how long do we keep hold of your information?**
+
+we retain your information for as long as it is necessary to provide you with
+the service. [CLS] [SEP] where we do not need your information in order to provide the
+service to you, we retain it only as long as we have a legitimate business
+purpose in keeping such data or where we are subject to a legal obligation to
+retain the data. [CLS] [SEP] we will also retain your data if we believe it is or will be
+necessary for the establishment, exercise or defence of legal claims. [CLS] [SEP]
+
+###  **how will we notify you of any changes to this privacy policy?**
+
+we will generally notify all users of any material changes to this policy
+through a notice on our platform. [CLS] [SEP] however, you should look at this policy
+regularly to check for any changes. [CLS] [SEP] we will also update the “last updated”
+date at the top of this policy, which reflects the effective date of such
+policy. [CLS] [SEP] by accessing or using the platform, you acknowledge that you have read
+this policy and that you understand your rights in relation to your personal
+data and how we will collect, use and process it. [CLS] [SEP]
+
+***********************************************************************************************
+
+##  **1\. [CLS] [SEP] the types of personal data we use**
+
+we collect and use the following information about you:
+
+ **your profile information.** you give us information when you register on
+the platform, including your username, date of birth (where applicable), email
+address and/or telephone number, information you disclose in your user
+profile, and your photograph or profile video. [CLS] [SEP]
+
+ **user content and behavioural information.** we process the content you
+generate and view on the platform, including preferences you set (such as
+choice of language), photographs, audios and videos you upload, comments and
+live-streams you make (“ **user content** ”). [CLS] [SEP] in order to improve the upload
+speed of user content before clicking “post” to confirm the upload, we will
+provide a preload service to upload audio and video in advance. [CLS] [SEP] if you cancel
+or fail to upload the content for other reasons, we will delete the associated
+audio and video from our server. [CLS] [SEP] we collect information through surveys,
+challenges and competitions in which you participate. [CLS] [SEP] we also collect
+information regarding your use of the platform, _e.g._ , how you engage with
+the platform, including how you interact with content we show to you, the ads
+you view, videos you watch and problems encountered, the content you like, the
+content you save to ‘my favourites’ and the users you follow. [CLS] [SEP] _  _we also
+infer your preferences, including your interests, gender and age for the
+purpose of personalising content. [CLS] [SEP] we process information about your followers,
+the likes you receive and responses to content you upload, for the purposes of
+promoting your content to other users and exploring whether your profile
+presents further opportunities for collaboration. [CLS] [SEP] where appropriate, we will
+also use this information for the purpose of serving personalised advertising
+and to tell you about new services and opportunities. [CLS] [SEP]
+
+ **information from third parties.** you may choose to share certain data with
+us from third parties or through your use of the platform, we may collect such
+third party data automatically. [CLS] [SEP] we have set out further detail on the
+information we receive from third parties below:
+
+ _business partners_
+
+if you choose to register to use the platform using your social network
+account details ( _e.g._ , facebook, twitter, instagram, google), you will
+provide us or allow your social network to provide us with your username and
+public profile. [CLS] [SEP] we will likewise share certain information with your social
+network such as your app id, access token and the referring url. [CLS] [SEP] for further
+information on sharing your facebook contact list with us, please see find
+other users and invite your friends. [CLS] [SEP]
+
+ _advertisers and advertising networks_
+
+we use the information collected from you, and your interaction with the
+platform and other third party sites, to infer your likely interests to
+provide you with more relevant advertising. [CLS] [SEP] this information tells us about
+websites you've visited, apps you've downloaded and purchases you have made so
+that we can predict what else might interest you in the future and assess how
+effective the advertising on our platform is. [CLS] [SEP] we collect this information by
+the use of cookies and similar technologies on our app and from similar
+information received from third parties who advertise on our platform and
+whose sites you visit. [CLS] [SEP]
+
+ **technical information we collect about you.** we automatically collect
+certain information from you when you use the platform including when you are
+using the app without an account. [CLS] [SEP] such information includes your ip address,
+browsing history (i.e. [CLS] [SEP] the content you have viewed on the platform), mobile
+carrier, time zone settings, identifier for advertising purposes and the
+version of the app you are using. [CLS] [SEP] we will also collect information regarding
+the device you are using to access the platform such as the model of your
+device, the device system, network type, device id, your screen resolution and
+operating system. [CLS] [SEP] where you log-in from multiple devices, we will be able to
+use your profile information to identify your activity across devices. [CLS] [SEP]
+
+ **location.** we use the 'region' you select in settings to customise your
+tiktok experience except where we provide location-based services, in which
+case we collect gps (where we have your consent). [CLS] [SEP]
+
+ **find other users and invite your friends.** you can choose whether to find
+other users of the platform using our 'find friends' function. [CLS] [SEP] this
+functionality allows you to see which of your friends from either your
+telephone's contact list or facebook friends list is using the platform and
+offers you the option to follow them. [CLS] [SEP] you can also use this function to invite
+your contacts to join you on the platform. [CLS] [SEP] we will use the contact information
+you have for that person, either from within your telephone's contact list or
+facebook friends list and give you the option to send them either an sms,
+email or third party message (such as whatsapp, facebook (including facebook
+messenger) or twitter) inviting them to view your tiktok profile. [CLS] [SEP]  
+
+ **buy coins.** if you reside in certain jurisdictions that offer in-app coin
+purchases, please note the provisions of our [virtual items
+policy](https://www.tiktok.com/legal/virtual-items?lang=en#virtual-items-row). [CLS] [SEP]
+your purchase will be made via your apple itunes or google play account. [CLS] [SEP] we do
+not collect any financial or billing information from you in relation to such
+a transaction. [CLS] [SEP] please review the relevant app store's terms and notices in
+respect of the handling of such data. [CLS] [SEP] so that we can credit your account with
+the correct value in coins, we keep a record of the purchases you make, the
+time at which you make those purchases and the amount spent. [CLS] [SEP]
+
+##  **2\. [CLS] [SEP] cookies**
+
+we and our vendors and service providers use cookies and other similar
+technologies ( _e.g._ , web beacons, flash cookies, etc.) (“cookies”) to
+automatically collect information, measure and analyze which web pages you
+click on and how you use the platform, enhance your experience using the
+platform, improve our services, and provide you with targeted advertising on
+the platform and elsewhere across your different devices. [CLS] [SEP] cookies are small
+files which, when placed on your device, enable the platform to provide
+certain features and functionality. [CLS] [SEP] web beacons are very small images or small
+pieces of data embedded in images, also known as “pixel tags” or “clear gifs,”
+that can recognize cookies, the time and date a page is viewed, a description
+of the page where the pixel tag is placed, and similar information from your
+computer or device. [CLS] [SEP] by using the platform, you consent to our use of cookies. [CLS] [SEP]
+
+additionally, we allow our business partners, advertising networks, and other
+advertising vendors and service providers (including analytics vendors and
+service providers) to collect information about your online activities through
+cookies. [CLS] [SEP] we link your contact or subscriber information with your activity on
+our platform across all your devices, using your email or other log-in or
+device information. [CLS] [SEP] these third parties may use this information to display
+advertisements on our platform and elsewhere online tailored to your
+interests, preferences, and characteristics. [CLS] [SEP] we are not responsible for the
+privacy practices of these third parties, and the information practices of
+these third parties are not covered by this privacy policy. [CLS] [SEP]
+
+you may be able to refuse or disable cookies by adjusting your browser
+settings. [CLS] [SEP] because each browser is different, please consult the instructions
+provided by your browser. [CLS] [SEP] please note that you may need to take additional
+steps to refuse or disable certain types of cookies. [CLS] [SEP] for example, due to
+differences in how browsers and mobile apps function, you may need to take
+different steps to opt out of cookies used for targeted advertising in a
+browser and to opt out of targeted advertising for a mobile application, which
+you may control through your device settings or mobile app permissions. [CLS] [SEP] in
+addition, your opt-out selection is specific to the particular browser or
+device that you are using when you opt out, so you may need to opt-out
+separately for each of browser or device. [CLS] [SEP] if you choose to refuse, disable, or
+delete cookies, some of the functionality of the platform may no longer be
+available to you. [CLS] [SEP]
+
+##  **3\. [CLS] [SEP] how we use your personal data**
+
+we will use the information we collect about you in the following ways:
+
+  * notify you about changes to our service;
+  * provide you with user support;
+  * personalise the content you receive and provide you with tailored content that will be of interest to you;
+  * enable you to share user content and interact with other users;
+  * enable our messenger service to function if you choose to use this function;
+  * enable you to participate in the virtual items program; 
+  * communicate with you; 
+  * to help us detect and combat abuse, harmful activity, fraud, spam, and illegal activity on the platform;
+  * ensure your safety and security including reviewing user content, messages and associated metadata for breach of our community guidelines and other inappropriate content;
+  * ensure content is presented in the most effective manner for you and your device;
+  * improve, promote and develop the platform and promote popular topics, hashtags and campaigns on the platform;
+  * carry out data analysis and test the platform to ensure its stability and security;
+  * allow you to participate in interactive features of the platform;
+  * to enable you to socialise on the platform, for example, by allowing other users to identify you via the "find other friends" function or through their phone contacts; 
+  * to ensure that you are old enough to use our platform (as required by law). [CLS] [SEP]
+  * provide you with personalised advertising;
+  * provide you with location-based services (where those services are available in your jurisdiction);
+  * enforce our terms, conditions and policies; and
+  * administer the platform including troubleshooting. [CLS] [SEP]
+
+##  **4\. [CLS] [SEP] how we share your personal data**
+
+we share your data with the following selected third parties:
+
+ _business partners_
+
+if you choose to register to use the platform using your social network
+account details ( _e.g._ , facebook, twitter, instagram, google), you will
+provide us or allow your social network to provide us with your username and
+public profile. [CLS] [SEP] we will likewise share certain information with the relevant
+social network such as your app id, access token and the referring url. [CLS] [SEP]  
+
+where you opt to share content on social media platforms, the video, username
+and accompanying text will be shared on that platform or, in the case of
+sharing via instant messaging platforms such as whatsapp, a link to the
+content will be shared. [CLS] [SEP]
+
+ _payment providers_
+
+if you choose to buy coins, we will share data with the relevant payment
+provider to facilitate this transaction. [CLS] [SEP] we share a transaction id to enable
+us to identify you and credit your account with the correct value in coins
+once you have made the payment. [CLS] [SEP]
+
+ _service providers  _
+
+we provide information and content to service providers who support our
+business, such as cloud service providers and providers of content moderation
+services to ensure that the platform is a safe and enjoyable place. [CLS] [SEP]
+
+ _analytics providers_  
+
+we use analytics providers to help us in the optimisation and improvement of
+the platform. [CLS] [SEP]  our third party analytics providers also help us serve targeted
+adverts
+
+ _advertisers and advertising networks_
+
+we share information with advertisers and third party measurement companies to
+show how many and which users of the platform have viewed or clicked on an
+advertisement. [CLS] [SEP] we share your device id with measurement companies so that we
+can link your activity on the platform with your activity on other websites;
+we then use this information to show you adverts which may be of interest to
+you. [CLS] [SEP]
+
+ _our corporate group_
+
+we may also share your information with other members, subsidiaries, or
+affiliates of our corporate group, to provide the platform including improving
+and optimising the platform, preventing illegal use and supporting users. [CLS] [SEP]
+
+ _law enforcement_
+
+we will share your information with law enforcement agencies, public
+authorities or other organisations if legally required to do so, or if such
+use is reasonably necessary to:
+
+  * comply with legal obligation, process or request;
+  * enforce our [terms of service](https://www.tiktok.com/legal/terms-of-use?lang=en#terms-row) and other agreements, policies, and standards, including investigation of any potential violation thereof;
+  * detect, prevent or otherwise address security, fraud or technical issues; or
+  * protect the rights, property or safety of us, our users, a third party or the public as required or permitted by law (including exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction). [CLS] [SEP]
+
+ _public profiles_
+
+please note that if your profile is public, your content will be visible to
+anyone on the platform and may also be accessed or shared by your friends and
+followers as well as third parties such as search engines, content aggregators
+and news sites. [CLS] [SEP] you can change who can see a video each time you upload a
+video. [CLS] [SEP] alternatively, you can change your profile to default private by
+changing your settings to 'private account' in “manage my account” _settings_. [CLS] [SEP]
+
+ _sale or merger_
+
+we will also disclose your information to third parties:
+
+  * in the event that we sell or buy any business or assets (whether a result of liquidation, bankruptcy or otherwise), in which case we will disclose your data to the prospective seller or buyer of such business or assets; or
+  * if we sell, buy, merge, are acquired by, or partner with other companies or businesses, or sell some or all of our assets. [CLS] [SEP] in such transactions, user information may be among the transferred assets. [CLS] [SEP]
+
+##  **5\. [CLS] [SEP] where we store your personal data  **
+
+the personal data we collect from you may be stored on a server located in
+singapore or the united states, outside of the country where you live. [CLS] [SEP] we
+maintain major servers around the world to bring you our services globally and
+continuously. [CLS] [SEP]
+
+##  **6\. [CLS] [SEP] your choices**
+
+you can access and edit most of your profile information by signing into
+tiktok. [CLS] [SEP] you can delete the user content you uploaded. [CLS] [SEP] we also provide a number
+of tools in settings that allow you to control, among others, who can view
+your videos, send you messages, or post comments to your videos. [CLS] [SEP] should you
+choose to do so, you may delete your entire account in settings. [CLS] [SEP] if you have
+any questions on how to use those tools, or want to know about any rights you
+may have in the country where you live, please contact us at:
+<https://www.tiktok.com/legal/report/privacy>. [CLS] [SEP]
+
+##  **7\. [CLS] [SEP] the security of your personal data**
+
+we take steps to ensure that your information is treated securely and in
+accordance with this policy. [CLS] [SEP] unfortunately, the transmission of information
+via the internet is not completely secure. [CLS] [SEP] although we will protect your
+personal data, for example, by encryption, we cannot guarantee the security of
+your information transmitted via the platform; any transmission is at your own
+risk. [CLS] [SEP]
+
+we have appropriate technical and organizational measures to ensure a level of
+security appropriate to the risk of varying likelihood and severity for the
+rights and freedoms of you and other users. [CLS] [SEP] we maintain these technical and
+organizational measures and will amend them from time to time to improve the
+overall security of our systems. [CLS] [SEP]
+
+we will, from time to time, include links to and from the websites of our
+partner networks, advertisers and affiliates. [CLS] [SEP] if you follow a link to any of
+these websites, please note that these websites have their own privacy
+policies and that we do not accept any responsibility or liability for these
+policies. [CLS] [SEP] please check these policies before you submit any information to
+these websites. [CLS] [SEP]
+
+##  **8\. [CLS] [SEP] how long we keep your personal data**
+
+we retain your information for as long as it is necessary to provide you with
+the service. [CLS] [SEP] where we do not need your information in order to provide the
+service to you, we retain it only for so long as we have a legitimate business
+purpose in keeping such data. [CLS] [SEP] however, there are occasions where we are likely
+to keep this data for longer in accordance with our legal obligations or where
+it is necessary for the establishment, exercise or defence of legal claims. [CLS] [SEP]
+
+after you have terminated your use of our platform, we store your information
+in an aggregated and anonymised format. [CLS] [SEP]
+
+##  **9\. [CLS] [SEP] information relating to children**
+
+tiktok is not directed at children under the age of 13. [CLS] [SEP] in certain cases this
+age may be higher due to local regulatory requirements, please see your local
+privacy policy for more information. [CLS] [SEP] if you believe that we have personal data
+about or collected from a child under the relevant age, contact us at:
+<https://www.tiktok.com/legal/report/privacy>. [CLS] [SEP]
+
+##  **10\. [CLS] [SEP] complaints**
+
+in the event that you wish to make a complaint about how we process your
+personal data, contact us immediately at:
+<https://www.tiktok.com/legal/report/privacy>. [CLS] [SEP] we will endeavour to deal with
+your request as soon as possible. [CLS] [SEP] this is without prejudice to your right to
+launch a claim with the relevant data protection authority. [CLS] [SEP]
+
+##  **11\. [CLS] [SEP] changes**
+
+we will generally notify all users of any material changes to this policy,
+through a notice provided via the platform. [CLS] [SEP] however, you should look at this
+policy regularly to check for any changes. [CLS] [SEP] we will also update the “last
+updated” date at the top of this policy, which reflects the effective date of
+such policy. [CLS] [SEP] your continued access to or use of the platform after the date of
+the updated policy constitutes your acceptance of the updated policy. [CLS] [SEP] if you
+do not agree to the updated policy, you must stop accessing or using the
+platform. [CLS] [SEP]
+
+##  **12\. [CLS] [SEP] contact**
+
+if you have questions, comments, or requests regarding this policy, contact us
+at: <https://www.tiktok.com/legal/report/privacy>. [CLS] [SEP]
+
+##  **supplemental terms – jurisdiction-specific**
+
+in the event of a conflict between the provisions of the supplemental terms –
+jurisdiction-specific that are relevant to your jurisdiction from which you
+access or use the services, and the rest of policy, the relevant
+jurisdictions’ supplemental terms – jurisdiction-specific will supersede and
+control. [CLS] [SEP]
+
+ ** _russia_**. [CLS] [SEP] by using the platform, you consent to the processing of
+personal data in accordance with this privacy policy. [CLS] [SEP]
+
+ ** _where we store your personal data._** the personal data we collect from
+you may be stored on a server located in singapore, outside of the country
+where you live. [CLS] [SEP]
+
+ ** _india._** if you are using our services in india, the platform is
+provided and controlled by bytedance (india) technology private limited. [CLS] [SEP]
+tiktok is our brand for providing and promoting the services. [CLS] [SEP] when using these
+services from india, please accordingly read “ **tiktok** ”, “ **we** ” or “
+**us** ” in this policy to refer to bytedance (india) technology india private
+limited. [CLS] [SEP]  
+
+ ** _indonesia_.** if you are using our services in indonesia, the following
+additional terms apply. [CLS] [SEP] in the event of any conflict between the following
+additional terms and the provisions of the main body of this policy, the
+following terms shall apply. [CLS] [SEP]
+
+ ** _age, parental and guardian consent._ **by accessing and/or using this
+platform, you represent that you are at least 21 years of age or married or
+not under guardianship. [CLS] [SEP] if you are below 21 years old and you are not married,
+or under guardianship:
+
+  * you must obtain approval from your parent(s) or legal guardian(s); and
+  * your parent(s) or legal guardian(s) are responsible for: (i) all your actions in connection with your access to and use of the platform; (ii) your compliance with this policy; and (iv) ensuring that any of your participation in the platform will not, in any event, result in any violation of applicable laws and regulations relating to child protections. [CLS] [SEP] 
+
+if you do not have consent from your parent(s) or legal guardian(s) and your
+parent(s) or guardian(s) is not willing to open the account under their name,
+you must cease accessing the platform. [CLS] [SEP]
+
+ ** _your choices_.** you may withdraw your consent to tiktok's disclosure of
+personal data to third parties. [CLS] [SEP] upon your request, we will ease to display,
+publish, transmit, disseminate, and/or open the access to your personal data
+to third parties. [CLS] [SEP] please note that by withdrawing your consent to the
+disclosure and/or collection of your personal data, we may not be able to
+fulfill your requests and you may not be able to use some of tiktok features
+and functionality. [CLS] [SEP]
+
+you may request tiktok to (i) disclose history of personal data that we have
+collected; and/or (ii) erase and dispose your personal data that we have
+collected on our server. [CLS] [SEP] please note that by requesting us to erase and
+dispose your personal data, you may not be able to use some of tiktok features
+and functionality. [CLS] [SEP]
+
+to exercise any of your rights, contact us at:
+<https://www.tiktok.com/legal/report/privacy>. [CLS] [SEP]
+
+ ** _notification._ **in the event of any breach of personal data, we will
+notify you and provide you with information regarding such breach of personal
+data. [CLS] [SEP]
+
+ ** _data retention_. [CLS] [SEP] **we retain your information for as long as it is
+necessary to provide you with the service. [CLS] [SEP] where we do not need your
+information in order to provide the service to you, we retain it only for so
+long as we have a legitimate business purpose in keeping such data. [CLS] [SEP] however,
+there are occasions where we are likely to keep this data for five (5) years
+(or longer if required) in accordance with our legal obligations or where it
+is necessary for the establishment, exercise or defence of legal claims. [CLS] [SEP]
+
+after you have terminated your use of our platform and the five (5) years
+retention period has lapsed, we store your information in an aggregated and
+anonymised format. [CLS] [SEP] non-personally identifiable information may be retained
+indefinitely for analytics. [CLS] [SEP]
+
+ ** _philippines._** if you are using our services in philippines, the
+following additional terms shall apply pursuant to the relevant laws, rules
+and regulations and issuances by the philippines national privacy commission
+(“npc”) on data privacy. [CLS] [SEP]
+
+ ** _your rights_** _._ to the extent that the relevant laws, rules and
+regulations on data privacy recognize your rights and freedoms as data
+subjects, you shall have the right to information, object, access,
+rectification, erasure or blocking, lodge complaints before the npc, damages
+and data portability. [CLS] [SEP] before we can respond to a request to exercise one or
+more of the rights listed above, you may be required to verify your identity
+or your account details. [CLS] [SEP]
+
+ ** _last updated:_** __ this supplementary terms of this policy was last
+updated on february 21, 2020 and is effective on the same date. [CLS] [SEP]
+
+ ** _turkey._** __ if you are using our services in turkey, the following
+additional terms apply along with the contents of the foregoing policy. [CLS] [SEP] in the
+event of any conflict between the following additional terms and the
+provisions of the main body of this policy, the following terms shall prevail. [CLS] [SEP]
+
+ ** _data controller representative._** _you may contact our data controller
+representative in turkey by email or mail to handle questions and complaints
+in connection with the processing of your personal data if you are in turkey._
+
+ _i̇lay yılmaz_
+
+[ilay.yilmaz@esin.av.tr](mailto:ilay.yilmaz@esin.av.tr)  
+
+ _ebulula mardin cad., gül sok. [CLS] [SEP] no. [CLS] [SEP] 2  _
+
+ _maya park tower 2, akatlar-beşiktaş 34335 istanbul turkey_
+
+ ** _legal bases for the processing your personal data._** tiktok relies on
+the following legal bases while processing your personal data in accordance
+with article 5 of the law no. [CLS] [SEP] 6698 on protection of personal data:
+
+  * processing is explicitly laid down or dictated by laws
+  * processing of your personal data is necessary provided that it is directly related to the conclusion or fulfilment of the contract between us
+  * processing is mandatory for us to be able to comply with our legal obligations
+  * the relevant data is made available to the public by yourself
+  * processing is mandatory for the establishment, exercise or protection of a right
+  * processing is mandatory for our legitimate interests, provided that it does not violate your fundamental rights and freedoms
+  * your explicit consent (please note that we rely on this legal basis only when we require your consent for the processing and we do not rely on this legal basis if and when we rely on one of the other legal grounds above)
+
+ ** _your rights._** according to article 11 of the data protection law, you
+have the following rights with respect to your personal data:
+
+  * the right to learn whether we process your personal data,
+  * the right to request information with regard to such processing, if we process your personal data,
+  * the right to learn the purposes of the processing and whether they are used for such purpose or not;
+  * the right to know the third parties within or outside the country, to whom we transfer your personal data,
+  * the right to request correction of incomplete or inaccurate personal data,
+  * the right to request deletion or destruction of your personal data under the conditions set forth in article 7 of the data protection law,
+  * the right to request that we notify the third parties, to whom we transferred your personal data, about the correction, deletion and/or destruction of your personal data per your request within the scope of the foregoing two items,
+  * the right to object to the negative results about you that are due to the analysis of your personal data processed solely by automated means,
+  * the right to claim indemnification for damages incurred due to illegal processing of your personal data. [CLS] [SEP]
+
+you may exercise your rights listed above by contact us at:
+<https://www.tiktok.com/legal/report/privacy>. [CLS] [SEP]
+
+the requests found in your application will be resolved as soon as possible
+according to the nature of your request and within thirty days at the latest
+free of charge. [CLS] [SEP] however, if your request incurs additional cost to our
+company, then you may be charged over the tariff fee determined by the turkish
+personal data protection board. [CLS] [SEP]
+
+ ** _amendments._** __ the following sections of the policy _do not_ apply to
+individuals in turkey:
+
+the following sentence at the end of the second paragraph of the introduction
+section: _if you do not agree with this policy, please do not use this
+platform._
+
+the following sentence at the end of the summary section: _by accessing or
+using the platform, you acknowledge that you have read this policy and that
+you understand your rights in relation to your personal data and how we will
+collect and process it. [CLS] [SEP]  _
+
+the following sentence at the end of the first paragraph of the cookies
+section: _by using the platform, you consent to our use of cookies._
+
+ ** _language._** __ this policy is available in english and turkish. [CLS] [SEP] if there
+is any inconsistency or different interpretation between the english and
+turkish versions, the turkish text shall prevail. [CLS] [SEP]
+
+ ** _vietnam._** if you are using our services in vietnam, the following
+additional terms apply. [CLS] [SEP] in the event of any conflict between the following
+additional terms and the provisions of the main body of this policy, the
+following terms shall prevail. [CLS] [SEP]
+
+ ** _age, parental and guardian consent._** __ by accessing and/or using this
+platform, you represent that you are at least 16 years of age or not under
+guardianship. [CLS] [SEP] if you are below 16 years old or under guardianship:
+
+  * you must obtain approval from your parent(s) or legal guardian(s); and
+  * your parent(s) or legal guardian(s) are responsible for: (i) all your actions in connection with your access to and use of the platform; (ii) your compliance with this policy; and (iii) ensuring that any of your participation in the platform will not, in any event, result in any violation of applicable laws and regulations relating to child protections. [CLS] [SEP]
+
+if you do not have consent from your parent(s) or legal guardian(s) and your
+parent(s) or legal guardian(s) is not willing to open the account under their
+name, you must cease accessing the platform. [CLS] [SEP]
+
+ ** _thailand._** if you are using our services in thailand, the following
+additional terms apply. [CLS] [SEP] in the event of any conflict between the following
+additional terms and the provisions of the main body of this policy, the
+following terms shall prevail. [CLS] [SEP]
+
+ ** _age, parental and guardian consent._** by accessing and/or using this
+platform, you represent that you are at least 20 years of age and/or legally
+competent under the applicable laws. [CLS] [SEP] if you are below 20 years old and/or not
+legally competent under the applicable laws:
+
+  * you must obtain approval from your parent(s) or legal guardian(s); and
+  * your parent(s) or legal guardian(s) are responsible for: (i) all your actions in connection with your access to and use of the platform; (ii) your compliance with this policy; and (iii) ensuring that any of your participation in the platform will not, in any event, result in any violation of applicable laws and regulations relating to child protections. [CLS] [SEP] 
+
+if you do not have consent from your parent(s) or legal guardian(s) and your
+parent(s) or legal guardian(s) is not willing to open the account under their
+name, you must immediately cease accessing the platform. [CLS] [SEP]
+
+ ** _united arab emirates_. [CLS] [SEP] **if you are using the platform in the united arab
+emirates (“uae”), the following additional terms apply. [CLS] [SEP] if any conflict arises
+between the main privacy policy and the additional terms, the following terms
+shall prevail:
+
+ **1\. [CLS] [SEP] how we share your personal data**
+
+in addition to the main text of this policy, by using the platform in the uae
+you agree to the terms of this privacy policy and consent to our sharing of
+your personal data in line with the main text of this privacy policy. [CLS] [SEP]
+
+ **2\. [CLS] [SEP] governing law and dispute resolution**
+
+by using our platform in the uae, this privacy policy will be governed by and
+interpreted in accordance with the laws of the uae. [CLS] [SEP] in the event of a dispute
+arising between the parties in connection with this privacy policy:
+
+  * where the dispute relates to a claim for a sum within the limits specified by the difc small claims tribunal from time to time, then the dispute shall be referred by either party to the said tribunal; and
+  * for all other disputes, the parties shall seek settlement of that dispute by mediation in accordance with the mediation rules of the difc-lcia arbitration centre, which rules are deemed to be incorporated by reference to this clause. [CLS] [SEP] if the dispute is not settled by mediation within 30 days of the commencement of the mediation, or such further period as the parties shall agree in writing, the dispute shall be referred to and finally resolved by arbitration under the arbitration rules of the difc-lcia arbitration centre, which rules are deemed to be incorporated by reference to this clause. [CLS] [SEP] the language to be used in the mediation and in the arbitration, shall be english. [CLS] [SEP] in any arbitration commenced pursuant to this clause the number of arbitrators shall be one and the arbitration shall be conducted in dubai. [CLS] [SEP]
+
+ ** _israel. [CLS] [SEP]  _**if you are using our services in israel, the following
+additional terms apply. [CLS] [SEP]
+
+  * you declare that you are over the age of 18. [CLS] [SEP] if you are under the age of 18, please have your parent or legal guardian read this with you. [CLS] [SEP] if you are reviewing these terms as the parent/legal guardian of a user who is under the age of 18, you hereby declare that such user is above the age of 13 and that you have read and acknowledged tiktok's privacy policy and terms of use and agree to the use by your child of  the platform and registration for an account. [CLS] [SEP]
+
+ ** _south korea_.** if you are using our services in south korea, the
+following additional terms apply. [CLS] [SEP] in the event of any conflict between the
+following additional terms and the provisions of the main body of this policy,
+the following terms shall prevail. [CLS] [SEP]
+
+  *  ** _entrustment and/or overseas transfer of personal data_. [CLS] [SEP] **we entrust your data to our affiliates, cloud storage providers, it service providers, and data centers, some of whom are located abroad (see the korean language privacy policy), subject to your consents or notifications to you, if applicable. [CLS] [SEP] the entities receiving and processing your data are committed to using and storing personal data in compliance with domestic and international regulations and to taking all available physical and technical measures to protect personal data. [CLS] [SEP] you may opt-out of such transfer so long as the transfer is not necessary to provide you with the service, by contacting us [here](https://www.tiktok.com/legal/report/privacy). [CLS] [SEP]
+  *   **local representative pursuant to the personal information protection act  **
+
+    * please send your inquiries concerning privacy issues in south korea to our local representative pursuant to the personal information protection act. [CLS] [SEP] contact details are as follows. [CLS] [SEP]   
+bae, kim and lee llc  
+representative: yangho oh  
+address: tower b, centropolis, 26 ujeongguk-ro  
+jongno-gu, seoul 03161, korea  
+phone: +82-2-3404-0108  
+email: **privacytiktok@bkl.co.kr**
+
+ ** _brazil_.** if you are using the platform in brazil, the following
+additional terms apply. [CLS] [SEP] if any conflict arises between the main privacy policy
+and the additional terms, the following terms shall prevail:
+
+ ** _parental and guardian consent._** if required by brazilian data
+protection laws, (i) if you are over the age of 16 but under the age of 18,
+you can only use and register for an account with the assistance of your
+parent or legal guardian and you declare and represent that you had such
+assistance to use the services and to agree to the policy; (ii) if you are
+over the age of 13 but under the age of 16, you can only use and register for
+an account with the representation of your parent or legal guardian, and you
+must obtain the consent from your parent or legal guardian to the use of the
+services and acceptance of this privacy policy. [CLS] [SEP]
+
+ ** _exercise of data protection rights._** brazilian law provides certain
+rights to individuals with regard to their personal data. [CLS] [SEP] thus, we seek to
+ensure transparency and access controls in order to allow users to benefit
+from the mentioned rights. [CLS] [SEP]  
+we will respond and/or fulfill your requests for the exercise of your rights
+below, according to the applicable law and when applicable, to the brazilian
+general data protection law - lgpd, once it comes into force:  
+i. [CLS] [SEP] confirmation of whether your data are being processed;  
+ii. [CLS] [SEP] access to your data;  
+iii. [CLS] [SEP] correction of incomplete, inaccurate or outdated data;  
+iv. [CLS] [SEP] anonymization, blocking or erasure of data;  
+v. [CLS] [SEP] portability of personal data to a third party;  
+vi. [CLS] [SEP] object to the processing of personal data;  
+vii. [CLS] [SEP] information of public and private entities with which we shared data;  
+viii. [CLS] [SEP] information about the possibility to refuse providing personal data and
+the respective consequences, when applicable;  
+ix. [CLS] [SEP] withdrawal of your consent. [CLS] [SEP]
+
+ ** _verifying your identity_** : for your safety and to allow us to make sure
+that we do not disclose any of your personal data to unauthorized third
+parties, in order to verify your identity and guarantee the adequate exercise
+of your rights, we may request specific information and/or documents from you
+before we can properly respond to a request received concerning your data. [CLS] [SEP] all
+data and documents received from you in the process of responding to your
+requests will be used for the strict purposes of analyzing your request,
+authenticating your identity, and finally responding to your request. [CLS] [SEP]
+
+ ** _limitations to your rights_** : in certain situations, we may have
+legitimate reasons not to comply with some of your requests. [CLS] [SEP] for instance, we
+may choose not to disclose certain information to you when a disclosure could
+adversely impact our business whenever there is a risk of violation to our
+trade secrets or intellectual property rights. [CLS] [SEP] in addition, we may refrain
+from complying with a request for erasure when the maintenance of your data is
+required for complying with legal or regulatory obligations or when such
+maintenance is required to protect our rights and interests in case a dispute
+arises. [CLS] [SEP] whenever this is the case and we are unable to comply with a request
+you make, we will let you know the reasons why we cannot fulfill your request. [CLS] [SEP]  
+ **contact** : in case of doubt about your privacy, your rights or how to
+exercise them, please contact us through the form "contact". [CLS] [SEP] if you have any
+questions about the processing of your personal data, we would like to clarify
+them. [CLS] [SEP]
+
+ **dpo** : if you wish to reach the tiktok’s data protection officer, contact
+us at: [dpobrasil@tiktok.com](mailto:dpobrasil@tiktok.com)  
+
+ ** _access logs_**. [CLS] [SEP] we keep your application access logs, under
+confidentiality, in a controlled and safe environment, for, at least, 6
+months, in order to comply with legal obligations. [CLS] [SEP]
+
+ ** _language_**. [CLS] [SEP] the policy may have been prepared in the english language
+and in the portuguese language. [CLS] [SEP] if you are a user located in brazil, you shall
+refer to the portuguese version, which shall prevail. [CLS] [SEP]
+
+ ** _mexico. [CLS] [SEP]  _**if you are using our services in mexico, the following
+additional terms apply. [CLS] [SEP] in the event of any conflict between the following
+additional terms and the provisions of the main body of this policy, the
+following terms shall prevail. [CLS] [SEP]
+
+ **1\. [CLS] [SEP] how we use your personal data.**  
+
+almost all purposes of processing stated in section 3 of the main privacy
+policy are necessary purposes. [CLS] [SEP] however, the following are secondary purposes:
+
+  * provide you with personalized advertising. [CLS] [SEP]
+
+the above purposes are not necessary for us to provide the platform but allows
+us to provide you with a better experience. [CLS] [SEP] we offer you the possibility to
+take decisions regarding how we use and disclose your personal data. [CLS] [SEP] you can
+always limit the secondary purposes of personalized advertising by using the
+tools in settings that allow you to limit certain functions. [CLS] [SEP]
+
+we use both human and automated means to process your data. [CLS] [SEP]
+
+ **2\. [CLS] [SEP] how we share your personal data. [CLS] [SEP]  **
+
+we may share your personal data to a third party for purposes other than
+processing on behalf of us. [CLS] [SEP] we will obtain your consent for such share as
+required by applicable laws. [CLS] [SEP]
+
+by providing us with your personal data and using our platform you agree to
+the transfers that require your consent. [CLS] [SEP] you can always revoke your consent
+and exercise your rights, as stated below. [CLS] [SEP]
+
+ **3\. [CLS] [SEP] your rights.**
+
+you have the following rights with respect to your personal data: access,
+rectification, cancelation, opposition, consent withdrawal, limitation to the
+use and disclosure of your data. [CLS] [SEP] you can exercise your rights by sending your
+request to [privacy@tiktok.com](mailto:privacy@tiktok.com). [CLS] [SEP] to know more about
+the applicable requirements and procedure to exercise your rights, contact us
+to the mentioned email address. [CLS] [SEP] if you are under 18 years, you may exercise
+your rights through a parent or guardian. [CLS] [SEP] your rights requests will be
+resolved as soon as possible according to the nature of your request. [CLS] [SEP]
+
+ **4\. [CLS] [SEP] information relating to children.**
+
+you may review our parental consent section in the terms of service. [CLS] [SEP]
+
+![](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0ivvrgltgipz4kphn2zyb3awr0ad0imzrwecigagvpz2h0psizoxb4iib2awv3qm94psiwidagmzqgmzkiihzlcnnpb249ijeumsigeg1sbnm9imh0dha6ly93d3cudzmub3jnlziwmdavc3zniib4bwxuczp4bgluaz0iahr0cdovl3d3dy53my5vcmcvmtk5os94bgluayi+ciagica8is0tiedlbmvyyxrvcjogu2tldgnoidu3ljegkdgzmdg4ksatigh0dhbzoi8vc2tldgnolmnvbsatlt4kicagidx0axrszt5sb2dvpc90axrszt4kicagidxkzxnjpknyzwf0zwqgd2l0acbta2v0y2gupc9kzxnjpgogicagpgcgawq9iumhtemdoi0xiibzdhjva2u9im5vbmuiihn0cm9rzs13awr0ad0imsigzmlsbd0ibm9uzsigzmlsbc1ydwxlpsjldmvub2rkij4kicagicagica8zybpzd0ibg9nbyigzmlsbc1ydwxlpsjub256zxjvij4kicagicagicagicagphbhdgggzd0itte0lde1lju5odyxmjkgtde0lde0ljexmzm3njggqzezljq0otixmzqsmtqumdqwmzy4ideyljg5mzc2mdesmtqumdayndg4ncaxmi4zmzc0odi1lde0iem1ljuzndu4mdmxlde0idasmtkumtgwndq3nyawldi1lju0njk5mtigqzasmjkunduymzg1osaylja4ntywmja4ldmyljkwotuwnjigns4ynjcxmjm3ncwznsbdmy4xmzy4mjq0mywzmi44njc5ndu2ideuotuyndg5mjysmzaumdu3ntg1ideuotu0mjazntusmjcumtm4nji3iemxljk1ndiwmzu1ldiwljg2mjc4nsa3ljmzmti5mjaylde1ljc0ntezmdygmtqsmtuuntk4njeyosigawq9iui3r+w+hcigzmlsbd0iizawrjjfqsi+pc9wyxropgogicagicagicagica8cgf0acbkpsjnmtqumzi3mdeyncwzmibdmtcumjaynty0miwzmiaxos41ndgzodu5ldi5ljcynju2otggmtkunju1mje0ocwyni44otmzmzcgtde5ljy2ndkynjusms42mdezmtyxnsbmmjqumze0mtkxncwxljywmtmxnje1iemync4ymtq5mzy3ldeumdczmjm2ntkgmjqumty0njk1niwwljuznzixmzewmsaync4xnjqxmdeyldagtde3ljgxndqwmjusmcbmmtcuodazoda3oswyns4yoti4otgziemxny42otc4nje5ldi4ljeynti1mzygmtuumzuxmtu3mywzmc4zotc4mdy0ideyljq3njq4odqsmzaumzk3oda2ncbdmteunjezndi5niwzmc4zotgxndu4idewljc2mzmzmtqsmzaumtg5mte2osaxmcwyos43odg4njc2iemxmc45otk5ntq0ldmxlje3ntm0mjqgmtiunjewntcwncwzms45otgznzggmtqumzi3mdeyncwzmibnmziuotk5mte3mswxmc4xodyxmju2iewzmi45otkxmtcxldgunzgwndc3msbdmzeumjkwndg2miw4ljc4mja1nta5idi5ljyxoduzmdmsoc4yodgwndczmsayoc4xodgyodq1ldcumzu5mdm0odigqzi5ljq0mjiyntusoc43otm4otg0osazms4xmza1otu4ldkunzg1odg4otkgmzmsmtaumtg2mti1niigawq9iuw9ouektiigzmlsbd0iizawrjjfqsi+pc9wyxropgogicagicagicagica8cgf0acbkpsjnmjgsny43mtc4ndmznibdmjyunjaxnjq2nsw2ljeznduwote2idi1ljgzmtqyntmsnc4xmdi4mdk3myayns44mzizntq3ldigtdi0ljeznta1ntgsmibdmjquntc5mtuzldqumzq4nziymzmgmjuuotc1odq5nyw2ljqxntaxmtyzidi4ldcunze3odqzmzygtteyljmyntmwodmsmjaumdy1mjq3mibdos4zodu2mzaymiwymc4wnjg2mdk0idcumdazmzk3njmsmjiundi2mdi0idcsmjuumzm1mdc2nibdny4wmde5mdk2ocwyny4yotm4njg4idgumtawodmymdesmjkumdkwmje0nca5ljg1mzc4nzqzldmwiem5lje5odg5odqsmjkumta2mjkxmya4ljg0njiymjqyldi4ljazmdywotegoc44ndyxntm4nswyni45mjy2ntkyiem4ljg0ota2nje2ldi0ljaxnzi2njigmteumjmxndqwniwyms42ntkzmjezide0lje3mtq2mjesmjeunju1otu4mibdmtqunziwmtk5niwyms42ntu5ntgyide1lji0njaznjqsmjeunzq1nzm1myaxns43ndi4mdy4ldixljkwmdaxmjugtde1ljc0mjgwnjgsmtuundk5njg4nybdmtuumjiymji1nswxns40mjy3mjizide0ljy5nzizmzqsmtuumzg4ody0nyaxnc4xnze0njixlde1ljm4njm3nzggqze0lja3odk3odmsmtuumzg2mzc3ocaxmy45odgyntysmtuumzkxnja3nsaxmy44oty2ntmsmtuumzkzmzuwocbmmtmuodk2njuzldiwljmwotmwmtugqzezljm4odq4oswymc4xndkymjk1ideyljg1odu5mzusmjaumdy2oti4nsaxmi4zmjuzmdgzldiwlja2nti0nziiiglkpsllvalniryiigzpbgw9iingrjawneyipjwvcgf0ad4kicagicagicagicagphbhdgggzd0ittmylje1mziwodqsmteumdawodcznsbmmziumtuzmja4ncwxns44odm4odm0iemyoc44njgynjismtuuodgzodgzncayns44mju1mdm0lde0ljg0mtc2nyaymy4zndaymty4ldezlja3mjg3nybmmjmumzqwmje2ocwyns44ndeymduziemymy4zndaymty4ldmyljixnzk0ndugmtgumtewnzizmswzny40mdu4mtq5idexljy4mtczotusmzcunda1ode0osbdos4xotczmzm2niwzny40mdu4mtq5idyuodkzndy3nzysmzyunji4mzc2oca1ldm1ljmwotm1mjcgqzcumjawnjk1nswzny42njmzmdgxidewlji5mta4odmsmzkumdawnzg2niaxmy41mjc2nta0ldm5iemxos45nty2mzqsmzkgmjuumtg3mda4ncwzmy44mtixmjkyidi1lje4nzawodqsmjcundm2mjyznibmmjuumtg3mda4ncwxnc42njc5mzuziemyny43ntq0nda3lde2ljq5otexnjigmzauodm3nza4miwxny40odi1njazidm0lde3ljq3odk0mtcgtdm0ldexlje5ndc5njmgqzmzljm2ntkwodusmteumtk0nzk2myazmi43ndk0mza2ldexljeynjy2mtmgmziumtuzmja4ncwxmsigawq9iui3r+w+hcigzmlsbd0ii0zgmda0rii+pc9wyxropgogicagicagicagica8cgf0acbkpsjnmjmuotc4nju0nywyns40mtkwnty4iewymy45nzg2ntq3ldeyljyzmjy5otygqzi2ljywnjy3mzksmtqundy2njgwnsayos43nji5mdgylde1ljq1mtuznjegmzmsmtuundq3njc1mibmmzmsmtauntu3nzcwnsbdmzeumdkxmzc4nywxmc4xntgzndixidi5ljm2nzcynzqsos4xnjkwnzm3nyayoc4wodc3mdc2ldcunzm4ndixmibdmjyumde1otc1nyw2ljqzmdkwmdczidi0lju4njq0njksnc4zntcxnzuxidi0ljezmtkxmdmsmibmmtkumzg0ntkzldigtde5ljm3ndy3njusmjcumje0otm3nybdmtkumjy1ntk0niwzmc4wmzg2nja4ide2ljg3mdi5otgsmziumza1mtyymiaxmy45mzqxmdmsmziumza1mtyymibdmtiumtgxndk3niwzmi4zmdm0mda3idewljuznjk3nzgsmzeundgyota1nca5ljuxntgzndq3ldmwljewmdc2odcgqzcunzixmzizmiwyos4xodc5ndu3idyuntk2mtkymtcsmjcumzg1mdg4nca2lju5nda2mtcxldi1ljqxota1njggqzyuntk3ntm5mjesmjiundk5ntm0oca5ljazntc3mdgxldiwljezmzyznjigmtiumdq0ntuxnywymc4xmzaynje5iemxmi42mduyody5ldiwljezmdi2mtkgmtmumtqzndg0nswymc4ymtk0odczidezljy1mjgzmzksmjaumzc1mtk0nsbmmtmunjuyodmzoswxns40nde1nte5iem3ljiwmty3nta1lde1lju4oduxmtqgmiwymc43mje1otkyidismjcumde2mzy3mybdmiwzmc4wnja1mjk4idmumje4odmynywzmi44mze3njcziduumja0odq0odusmzquotaxndq3osbdny4ymdy5ntqzmywzni4ynjkwnty0idkuntk2mtayndesmzcumdaymdkwocaxmi4wndq1nte3ldm3iemxoc42mju1mjcxldm3idizljk3ody1ndcsmzeuoda0nzk5osaymy45nzg2ntq3ldi1ljqxota1njgiiglkpslot6/lvoqiigzpbgw9iingrkzgrkyipjwvcgf0ad4kicagicagica8l2c+ciagica8l2c+cjwvc3znpg==)![](data:image/svg+xml;base64,pd94bwwgdmvyc2lvbj0ims4wiiblbmnvzgluzz0ivvrgltgipz4kphn2zyb3awr0ad0imtiwchgiighlawdodd0imjdwecigdmlld0jved0imcawideymcaynyigdmvyc2lvbj0ims4xiib4bwxucz0iahr0cdovl3d3dy53my5vcmcvmjawmc9zdmciihhtbg5zonhsaw5rpsjodhrwoi8vd3d3lnczlm9yzy8xotk5l3hsaw5rij4kicagidwhls0gr2vuzxjhdg9yoibta2v0y2ggntcumsaoodmwodgpic0gahr0chm6ly9za2v0y2guy29tic0tpgogicagphrpdgxlpmxvz290zxh0pc90axrszt4kicagidxkzxnjpknyzwf0zwqgd2l0acbta2v0y2gupc9kzxnjpgogicagpgcgawq9iumhtemdoi0xiibzdhjva2u9im5vbmuiihn0cm9rzs13awr0ad0imsigzmlsbd0ibm9uzsigzmlsbc1ydwxlpsjldmvub2rkij4kicagicagica8zybpzd0ibg9nb3rlehqiigzpbgwtcnvszt0ibm9uemvybyi+ciagicagicagicagidxwyxroigq9ik0wldaumdc1mze4nju1osbmmjaumdk4odm3miwwlja3ntmxody1ntkgtde4lji1mzq4odqsns44mduzmzayncbmmtmumdm5ntm0osw1ljgwnde3mtq5iewxmy4wntexnji4ldi1ljc4otewnzggtdezlja1ldi2ljk4nja5nsbmni41nde4nja0nywyni45odywotugtdyuntqxodywndcsns44mduzmzayncbmmc43njyynzkwnyw1ljgwntmzmdi0iewwljawndy1mte2mjc5lduuode2ote3nzmgtdasmc4wnzy0nzc0mdq0iewwldaumdc1mze4nju1osbaie01my4wmju1ode0ldaumdc1mze4nju1osbmnzmuntg5ntm0oswwlja3ntmxody1ntkgtdcxljc0nde4niw1ljgwntmzmdi0iew2ni4wnjuxmtyzlduuoda0mtcxndkgtdy2lja3njc0ndismjuunzg5mta3ocbmnjyumdc1ntgxncwynybmntkunty3ndqxoswynybmntkunty3ndqxosw1ljgwntmzmdi0iew1my43ote4nja1lduuoda1mzmwmjqgtduzljazmdizmjysns44mty5mtc3mybmntmumdi1ntgxncwwlja3njq3nzqwndqgtduzljayntu4mtqsmc4wnzuzmtg2ntu5ifogttixljmyntu4mtqsos4ymjezmja5nybmmjeumzi1ntgxncw4ljyznje1mjk1iewyny43njk3njc0ldgunjm2mtuyotugtdi3ljc3mja5myw5ljiymtmymdk3iewyny43odezotuzldi1lji5nzc5odqgtdi3ljc2mjc5mdcsmjyuotg3mjuzocbmmjeumzyzotuznswyni45odcyntm4iewyms4znjm5ntm1ldi2lja3mtg0mjqgtdixljmyntu4mtqsos4ymjezmja5nybmmjeumzi1ntgxncw5ljiymtmymdk3ifogttmwljmyntu4mtqsms4ynjg4mjk2nibmmzaumzi1ntgxncwwiewzni42oty1mte2ldagtdm2ljy5njuxmtysms4xmde5njk4nybmmzyunzazndg4ncwxmi41mzqxodmxiew0my4xmzk1mzq5ldyumjk1ndgwodggtduwljgyndqxodysni4yotu0oda4ocbmndiunzu0njuxmiwxnc4wotk2nti0iew1ms43otmwmjmzldi2ljk4nja5nsbmndqunywyni45odywotugtdm4ljy2odywndcsmtgumduwotg0osbmmzyunzu2otc2nywxos44otkxodg5iewzni43nja0njuxldi3iewzmc4zndg4mzcyldi2ljk4nja5nsbmmzaumzq4odm3miwyni40mti1mtq1iewzmc4zmjmyntu4ldeumjy4odi5njygtdmwljmyntu4mtqsms4ynjg4mjk2nibaie05oc41mzaymzi2ldeumjy4odi5njygtdk4ljuzmdizmjysmcbmmta0ljkwmzq4ocwwiewxmdquotazndg4ldeumtaxoty5odcgtdewnc45mta0njusmtiuntm0mtgzmsbmmtexljm0njuxmiw2lji5ntq4mdg4iewxmtkumdmxmzk1ldyumjk1ndgwodggtdexmc45nje2mjgsmtqumdk5njuyncbmmtiwldi2ljk4nja5nsbmmteyljkwnjk3nywyni45odywotugtdewni44nzu1odesmtgumduwotg0osbmmta0ljk2mzk1mywxos44otkxodg5iewxmdquoty3ndqyldi3iew5oc41ntu4mtqsmjyuotg2mdk1iew5oc41ntu4mtqsmjyundeynte0nsbmotguntmwmjmyniwxlji2odgyoty2iew5oc41mzaymzi2ldeumjy4odi5njygwibnodguodu5mzaymywxny40mjc1nzgyiem4oc45odcymdkzlde2ljk2otg3mjugodkumdusmtyundkznji2osa4os4wnswxns45otuznjugqzg5lja1lde1lji0mzmznzigodguota5mzaymywxnc41ndu3nza2idg4ljyyota2otgsmtmuodk4mdmwmsbdodgumdg5otc4oswxmi42mjq3ode0idg3lja3mda4ndusmteunjezodqyosa4ns43odk1mzq5ldexlja4mzqyotkgqzg1ljiwmzg1ndmsmtauodm5mje4mia4nc41nzg2nze2ldewljcwmjywmzcgodmuotq0mtg2ldewljy4mde4ntqgtdg0ldewljy3nzg2nzkgtdgzljg0mzaymzmsmtaunjc0mzkxnybmodmunzgwmjmyniwxmc42nzu1nta0iew4my43mdu4mtqsmtaunjc0mzkxnybdodmumje5ote5nswxmc42nzq2otg5idgyljcznja5mdmsmtaunzm3ndaxnsa4mi4ynjyynzkxldewljg2mdk1mdigqzgxljgxnzm3otqsmtauotgwodg3msa4ms4zodu5mdm1ldexlje1oda5njqgodauotgyntu4mswxms4zodgxoda4iem4mc41odc1mdk1ldexljyxmzuznzmgodaumji0mju0ncwxms44otaxotq2idc5ljkwmjmyntysmtiumjewodkymibdnzkuntgwnda1nswxmi41mza5mdm3idc5ljmwmdk5nswxmi44ota3mzi5idc5lja3mdkzmdismtmumjgxntc1osbdnzguntg5mde5niwxnc4xmduwmzy1idc4ljmznzi3mdksmtuumdqymtexnca3oc4znde3otg4lde1ljk5ntm2nsbdnzgumzqxotu1mswxni45ndcwmde4idc4lju5ndy5mtcsmtcuodgxnjc1mia3os4wnzq0mtg2lde4ljcwnduxotegqzc5ljmwntgxncwxos4wotk2nti0idc5lju4mju1odesmtkundu3nza1nya3os45mdy5nzy3lde5ljc3otgznzggqzgwljy5odc5njksmjaunty5nzg1oca4ms43mjm2mzk5ldixlja4njmxndegodiuodmxmzk1mywyms4yntm3nju5iem4my4xmtc0nde5ldixljmwmdexntkgodmundewndy1mswyms4zmjq0ndk2idgzljcxmtyynzksmjeumzi0ndq5nibmodmunzc0nde4niwyms4zmjmyota4iew4my44ndg4mzcyldixljmyndq0otygqzgzljg5ntm0odgsmjeumzi0ndq5nia4my45mzgznzixldixljmymjezmjegodmuotg0odgznywyms4zmja5nzmziew4my45mtc0nde5ldixljmxody1ntkgqzg1lji2mjazmdismjeumjc5mze0msa4ni41nda1nde0ldiwljcyodcyndkgodcundkwnjk3nywxos43nzk4mzc4iem4oc4xndywndiylde5ljeyodk0odcgodgunje4mdm3mywxoc4zmtc3mtcyidg4ljg1otmwmjmsmtcundi3ntc4mibmodguodu5mzaymywxny40mjc1nzgyifogttkzljg1mjmyntysmteunjc0mzkxnybdotqundi5mdy5ocwxmy4wmdq2mzugotqunze3ndqxoswxnc40ndm4mda3idk0ljcxodywndcsmtuuotkwnzmgqzk0ljcxodywndcsmtcumde1mdyznya5nc41odgznzixlde3ljk5odg0mtmgotqumzi1ntgxncwxoc45mzg1odyziem5nc4wnze0mzuylde5ljg1ota5ndugotmunjk5mzgynywymc43ndmxnti2idkzljixodywndcsmjeunty4otq1nsbdotiumjcwotkzmywymy4xoti3otq2idkwljkxntiznzqsmjquntqynjm5nca4os4yodq4odm3ldi1ljq4ntuxntygqzg4lje5odgwmtqsmjyumteymzm4nsa4ny4wmtmwode3ldi2lju0otmxndegoduunzc5mdy5ocwyni43nzc1mjaziew4ns41njc0nde5ldi2ljgxndywmdigqzg1lji0mduzntysmjyuody3mju3msa4nc45mte1njc1ldi2ljkwnjmwmjmgodquntgxmzk1mywyni45mze2mzm4iem4nc4znjyynzkxldi2ljk0nzg1njmgodqumtusmjyuotu0oda4oca4my45mzaymzi2ldi2ljk1otq0mzggqzgzljg2mjc5mdcsmjyuotywnjaynsa4my43oty1mte2ldi2ljk2nda3odggodmunzi3ota3ldi2ljk2nda3odggqzgzljy1odezotusmjyuoty0mdc4oca4my41odgznzixldi2ljk2mdywmjugodmunte5nzy3ncwyni45ntk0ndm4iem4my4xmzi3nda5ldi2ljk1mjy1mjigodiunzq2mju3niwyni45mjc1mtc1idgyljm2mtyynzksmjyuodg0mti1msbdodiumza4mtm5nswyni44nzgzmze0idgylji1mzq4odqsmjyuodcwmjiwmia4mi4xotg4mzcyldi2ljg2mjewodkgqzgylja5mjgwmzesmjyuodq4njizmia4ms45ody5nzczldi2ljgzmzu1nzggodeuodgxmzk1mywyni44mty5mtc3iew4ms42otmwmjmzldi2ljc4ntyzmtugqzgxlju4otyzmtqsmjyunzy3mdywmsa4ms40ody1mtk0ldi2ljc0njk3mya4ms4zodm3mja5ldi2ljcyntm3njygtdgxljiyndqxodysmjyunjkxnzcyosbdodaumtmzodismjyundq5otq5osa3os4wody4mduyldi2lja0mze1mdkgnzgumte5nzy3ncwyns40odu1mtu2iem3ni40odc0nzg5ldi0lju0mze4mtmgnzuumti5nzewmywymy4xotmzmjc1idc0lje4mdizmjysmjeunty4otq1nsbdnzmunjk4mzy4ocwymc43ndm0mdc4idczljmyntuxnzismtkuodu5mza4mya3my4wnza5mzaylde4ljkzodu4njmgqzcyljgwnduzotksmtcuotc4ntcymsa3mi42nzexmzm2lde2ljk4njc2njegnziunjc0mzu5ncwxns45ota3mybdnziunjc0mzu5ncwxnc45njc1ntugnziuoda0njuxmiwxmy45ode0nia3my4wnjc0nde5ldezljazntkymtigqzczljmxodgymzksmtiumte0njq2mya3my42ota2mte4ldexljizmdi4odegnzqumtczmju1ocwxmc40mdu1njigqzc0ljy1ldkuntk3ote0mjugnzuumje5nzy3ncw4ljg2mzi2nzy3idc1ljg4ndg4mzcsoc4ymda0njm1iem3ni41ndc5odcxldcuntm5otc5mjqgnzcumjk1oty1niw2ljk2otkzodignzgumta5mzaymyw2ljuwntixndm3iem3os4xmjuzmduxlduuoti2nty3ndigodaumji2mzc2ocw1ljuxmdg5nzi3idgxljm3mja5myw1lji3mzq2ndy2iew4ms41odezotuzlduumjm0mdy3mjegqzgylje5odywmtgsns4xmtgxntc0mya4mi44mjqzodc5lduumduzndmymtqgodmunduymzi1niw1lja0mdu1njigqzgzljuzotuzndksns4wmzgymzg3idgzljyynjc0ndisns4wmzu5mjeymsa4my43mtyynzkxlduumdm1otixmjegqzgzljgxmdq2ntesns4wmzu5mjeymsa4my45mdq2nteylduumdm5mzk3ndugodmuotk4odm3miw1lja0mtcxndk1iem4nc41ndy4nzm1lduumdu0ndu4ntugoduumdkzmjy0lduumta2nzm4otkgoduunjmznziwosw1lje5ode0nibmoduunjy2mjc5msw1ljiwmjc4msbdoduuotg0odgznyw1lji1nzi0mje4idg2lji5odgznzisns4zmju2mdgznca4ni42mdkzmdizlduunda2nziwnzqgqzg2ljyznja0njusns40mtm2nzmymya4ni42njm5ntm1lduunde5ndy2otggodyunjkwnjk3nyw1ljqynzu3odiyiem4ni43nja0njuxlduundq2mte4mtkgodyuodmyntu4msw1ljq2odezndqxidg2ljkwmjmyntysns40odg5ote4osbdodcumtazmtyynsw1lju0ntk1otg1idg3ljmwmtc1ntmsns42mta1mtawnia4ny40otc2nzq0lduunjgyntayosbdodcunjy5mdg4ocw1ljc0mjgyotqyidg3ljgzodu1mjgsns44mdg1mjq0nsa4oc4wmdu4mtqsns44nzk0otaxnsbdodkumzewodazmsw2ljqxotu2njc5idkwljq5nzy1njcsny4ymdc5mja4idkxljusoc4ymda0njm1iem5mi40otk0nja0ldkumtk4mtc2mjkgotmumjk3otq4nswxmc4znzczodgxidkzljg1mjmyntysmteunjc0mzkxnybmotmuoduymzi1niwxms42nzqzote3ifogtti3ljc5nde4niwzljmwndc1mdg3iemyny43otqxodysns4wodgzmtcwmyayni4zndmynzyzldyuntm0mtgzmdggmjquntuzndg4ncw2ljuznde4mza4iemymi43njm3mda1ldyuntm0mtgzmdggmjeumzeynzkwnyw1lja4odmxnzazidixljmxmjc5mdcsmy4zmdq3nta4nybdmjeumzq2mjm4niwxlju0ntm0mzygmjiunzg3mdq1ncwwljeznjq4odyxocaync41nti5mdcsmc4xmzy0odg2mtggqzi2ljmxodc2odusmc4xmzy0odg2mtggmjcunzu5ntc1ncwxlju0ntm0mzygmjcunzkzmdizmywzljmwndc1mdg3iewyny43otqxodysmy4zmdq3nta4nybaiibpzd0i5b2i54q2iibmawxspsijrkzgrkzgij48l3bhdgg+ciagicagicagicagidxwyxroigq9ik05ni4xmdixnti2ldexljy2mdm2otqgqzk1ljuynzi0ntmsmtaumzu5mdi1osa5nc42otkyndk3ldkumtc1otu1ntmgotmunjyyotixnyw4lje3ntewnze4iem5mi42mjq0mty3ldcumtc5nduxntygoteumzk0nzqzniw2ljm4oduzmjm5idkwlja0mjy0mdisns44ndy1nje0mybdodgunjm0ntqzmiw1lji3odm0ntk3idg3ljeymtkzmdcsnc45ota0nzc1idg1lju5ntyymzqsns4wmdayndaynsbmoduundu0njiwncw1ljawmju2ntmxiew4ns40ntq2mja0lduumdaxndaynzggtdg0lduumdaxndaynzggtdg0ljexmdg3ndesns4wmdywnti5iem4nc42nzg4odm2lduumde4nzizosa4ns4ynduxodg4lduumdcxmtc1nya4ns44mduzmjaxlduumtyyotk0mzigqzg1ljgxnzm3mtcsns4xnji5otqzmia4ns44mjcwmti5lduumty1mze5mzggoduuodm5mdy0ncw1lje2nzy0ndq0iem4ni4xnjkynzy1lduumjiymjgzmzegodyundk1odczmsw1lji4otcwotk5idg2ljgxnjq0ncw1ljm3mji0otu2iem4ni44ndqxnji1lduumzc5mji0nzmgodyuodczmdg2miw1ljm4ntaznzm4idg2ljkwmdgwndgsns4zotmxnzuwocbdodyuotczmte0lduundexnzc1ntugodcumdq2nji4myw1ljqzmzg2mzygodcumtiwmtqynyw1ljq1ndc4oteyiem4ny4zmjgxmdu2lduunteyntq0oca4ny41mzm5mta5lduuntc3mjk4ndkgodcunzm3mtgxncw1ljy0odkzmtq4iew4ny44nzkzodk1lduunjk4otiwmjmgqzg5ljm4mje4mzisni4ymzk4nze4mya5mc43ndc5mzm0ldcumdg0mdgzmzygoteuodg1mziwmsw4lje3ntewnze4iem5mi45mjexotmsos4xnzywnzuxmsa5my43ndg3nze3ldewljm1otezndmgotqumzizmzq1oswxms42njaznjk0iem5nc45mjexmdixldeyljk5ndk1mjggotuumje5otgwmiwxnc40mzg4mtm5idk1ljiymte4ntmsmtuuotkwnzkwmibdotuumjiymzkwnswxny4wmtg0nju5idk1lja4njiwodesmtgumda0mjkwnia5nc44mtm4ndm0lde4ljk0odi2ndigqzk0lju1mdy0mtismtkuodcxodqznca5nc4xnjuwmjm0ldiwljc1odgxmdmgotmunjy2ntm3miwyms41odcymduyiem5mi42odq1mti2ldizljixnjgyodygoteumjc4odmxnywync41nzexodk5idg5lju4odi5nzmsmjuunte2ntuznsbdodguntk3nde0mywyni4wnza1ndmzidg3ljuynty1mtqsmjyundc3mzq0osa4ni40mdkxmdixldi2ljcymzi1odcgtdg2ljizntu2ldi2ljc1oti5nzegqzg1ljuxmzm2odesmjyuota0nduxnsa4nc43nzg1nzu0ldi2ljk4mzq2nya4nc4wnda5nzuyldi2ljk5nti5mdugtdg0ljazmjuzotesmjyuotk3nje1nibmoduumzk5mtgzmywyni45otc2mtu2iew4ns4zotc5nzgyldi2ljk5nti5mdugqzg1ljq2nzg3nzesmjyuotk2nduzmsa4ns41mzc3nzysmjcgoduunja4odgwmswynybdodcunjmxmde0miwyny4wmdyzndm4idg5ljyxodyxmjgsmjyundk0ndixosa5ms4znjgzmdkyldi1ljuxnju1mzugqzkzlja1nzgymtusmjquntcwmzaxnya5nc40nji4otg5ldizljixnjeymtggotuundq1mzqzoswyms41odcymduyiem5ns45ndm3mdk4ldiwljc1odc1mjygotyumzi5mziwoswxos44nze4mdegotyuntkynjuwmswxoc45ndgynjqyiem5ni44njuwmtq5lde4ljawndi5mdygotcumdaxmtk3miwxny4wmtg0nju5idk3lde1ljk5mdc5mdigqzk3lde0ljqzodgxmzkgotyunjk4nzaznywxmi45otq5nti4idk2ljewmje1mjysmteunjywmzy5ncigawq9iui3r+w+hcigzmlsbd0ii0zgmda0rii+pc9wyxropgogicagicagicagica8cgf0acbkpsjnodiunzkyndcwmywyni45mjawmdg0iew4mi42mjm5mje4ldi2ljg5nzkxotkgqzgyljm0mtm1mdmsmjyuodyymjuzoca4mi4wnjayndm1ldi2ljgxnjq5ntqgodeunzgxmtc5miwyni43nja3mzg3iew4ms42mtuwmzg1ldi2ljcynzayndygqzgwljq4ntgzmjksmjyundg0ntezidc5ljqwmtc2otusmjyumdc2mzcymya3oc40mda1nzc2ldi1ljuxnjgwnybdnzyunzexmdy1oswync41nza3mzc1idc1ljmwntqynjgsmjmumje2ntk5nca3nc4zmje3mdm2ldixlju4nzm3odigqzczljgymjg2odgsmjaunzu5mdk1mya3my40mzy4mzm3lde5ljg3mjewmjqgnzmumtczmty1ocwxoc45ndgzodmxiem3mi44otc3nzq5lde3ljk4nte1otygnziunzywmdu1nswxni45otaxmdazidcyljc2mzgzmzcsmtuuotkwodq4nsbdnziunzu0nzi5oswxnc4wmji5otcyidczlji5mda1nzksmtiumdg4nta1msa3nc4zmtq0odaxldewljm4nzm0mzqgqzc0ljgwoda4njqsos41nzcwndqwnca3ns4zotgwmdyyldguodm5otg1nsa3ni4wody2ndczldgumtc1mda1mjmgqzc2ljc3mza4mjysny41mtiymtg0idc3lju0nzuznjesni45ndayote1idc4ljm4otc0mjmsni40nzqxotazmibdodaumdc2ndqznsw1lju0mjk2mzkxidgxljk3otexotisns4wmzc1ntu4nca4my45mje3nduzlduumda0nzizndqgtdg0lduumdaxmjm1nzggtdgylju3otm3njgsns4wmdeymzu3ocbmodiuntc5mzc2ocw1ljawmjm5odmziew4mi40mzi0otg4ldugqzgwljm5nziyosw0ljk5mjk4mdy1idc4ljm5ntu5ntmsns41mdeyndgzmya3ni42mjcymdy0ldyundc0mtkwmzigqzc1ljc4ntezmzgsni45nda0odu1idc1ljaxmdcwntcsny41mtizotm2oca3nc4zmjqxmte0ldgumtc1mda1mjmgqzczljyzodixnzusoc44mzyynji1mia3my4wndmwmzu2ldkuntc5nzgwodcgnziuntuzmtq4mswxmc4zodczndm0iem3ms41mjc5oti4ldeylja4odmymdignzauotkxodm3nywxnc4wmji3otc1idcxlde1ljk5mdg0odugqzcxlde3ljaxotcwnzggnzeumtm3mzqwniwxoc4wmdqzotaxidcxljqwotqyniwxoc45ndgzodmxiem3ms42odi3mtu0lde5ljg5mjm3nia3mi4wnju1njezldiwljc3mzu5mtignziuntu5mty3nywyms41odcznzgyiem3nc4wntq2mzaxldi0lja2njywodugnzyunta1mtg2ocwyns44nzm3njc3idc5ljm3ntc1mtesmjyunje0mju3iem4mc40mzu1otmzldi2ljg4otiwotggodeuntmwmzezoswyny4wmtgznjqgodiunji3ntmznswyni45otc4otk1iew4my45otc1otiyldi2ljk5nzg5otugtdgzljk5mtu3mjysmjyuotk1ntc0mybdodmuntkwodi3mywyni45odk0nje0idgzlje5mdyzotismjyuoty0mjqyidgyljc5mjq3mdmsmjyuotiwmda4ncigawq9iui3r+w+hcigzmlsbd0iizawrjjfqsi+pc9wyxropgogicagicagidwvzz4kicagidwvzz4kpc9zdmc+)
+
+ **tiktok**
+
+#### company
+
+##### [about tiktok](/about?lang=en)
+
+##### [newsroom](https://newsroom.tiktok.com/en-us)
+
+##### [store](/store?lang=en)
+
+##### [contact](/about/contact?lang=en)
+
+##### [careers](https://careers.tiktok.com)
+
+##### [bytedance](https://www.bytedance.com)
+
+##### [creator directory](/directory?lang=en)
+
+#### programs
+
+##### [tiktok for good](/forgood?lang=en)
+
+##### [tiktok for developers](https://developers.tiktok.com/?refer=tiktok_web)
+
+##### [advertise on tiktok](https://ads.tiktok.com/?refer=tiktok_web)
+
+#### resources
+
+##### [help center](https://support.tiktok.com/en)
+
+##### [safety center](/safety?lang=en)
+
+##### [creator portal](https://www.tiktok.com/creators/creator-portal/en-us/)
+
+##### [community guidelines](https://www.tiktok.com/community-
+guidelines?lang=en)
+
+##### [transparency](https://www.tiktok.com/transparency?lang=en)
+
+#### legal
+
+##### [tiktok platform cookies policy](/legal/cookie-policy?lang=en)
+
+##### [privacy policy for younger users](/legal/privacy-policy-for-younger-
+users?lang=en)
+
+##### [intellectual property policy](/legal/copyright-policy?lang=en)
+
+##### [law enforcement](/legal/law-enforcement?lang=en)
+
+##### [privacy policy](/legal/privacy-policy?lang=en)
+
+##### [terms of service](/legal/terms-of-use?lang=en)
+
+english
+
+bahasa indonesiadeutschenglishespañolfrançaisitalianopolskiportuguêstiếng
+việttürkçeрусскийहिन्दी한국어日本語繁體中文العربيةbahasa
+melayunederlandssvenskaमराठीবাংলাਪੰਜਾਬੀગુજરાતીଓଡ଼ିଆதமிழ்తెలుగుಕನ್ನಡമലയാളംภาษาไทย
+
+© 2021 tiktok
+
+![](https://www.tiktok.com/akam/11/pixel_3cca6fb1?a=dd0zywm4zmrhowiyzgeyywiwmduyntflywuwyzm1mtlhymm4mmvjnzm0jmpzpw9mzg==)
+

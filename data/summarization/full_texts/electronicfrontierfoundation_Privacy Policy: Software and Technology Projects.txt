@@ -1,0 +1,355 @@
+skip to main content
+
+  * [about](/about)
+    * [contact](/about/contact)
+    * [press](/press/contact)
+    * [people](/about/staff "details and contact information for the eff's staff")
+    * [opportunities](/about/opportunities)
+    * [eff 30th anniversary](/tags/eff30)
+  * [issues](/work)
+    * [free speech](/issues/free-speech)
+    * [privacy](/issues/privacy)
+    * [creativity and innovation](/issues/innovation)
+    * [transparency](/issues/transparency)
+    * [international](/issues/international)
+    * [security](/issues/security)
+  * [our work](/updates)
+    * [deeplinks blog](/deeplinks)
+    * [press releases](/updates?type=press_release)
+    * [events](/updates?type=event)
+    * [legal cases](/updates?type=case)
+    * [whitepapers](/updates?type=whitepaper)
+  * [take action](https://act.eff.org/)
+    * [action center](https://act.eff.org/)
+    * [electronic frontier alliance](/fight)
+    * [volunteer](/about/opportunities/volunteer)
+  * [tools](/pages/tools)
+    * [privacy badger](https://privacybadger.org/)
+    * [https everywhere](/https-everywhere)
+    * [surveillance self-defense](https://ssd.eff.org/)
+    * [certbot](https://certbot.eff.org/)
+    * [atlas of surveillance](https://atlasofsurveillance.org/)
+    * [cover your tracks](https://panopticlick.eff.org/)
+    * [crocodile hunter](https://github.com/efforg/crocodilehunter)
+  * [donate](https://supporters.eff.org/donate/join-eff-today "donate to eff")
+    * [donate to eff](https://supporters.eff.org/donate/join-eff-today)
+    * [shop](https://supporters.eff.org/shop)
+    * [other ways to give](/helpout)
+    * [membership faq](/pages/membership-faq "frequently asked questions and other information about eff memberships.")
+  * [donate](https://supporters.eff.org/donate/site-m--h "donate to eff")
+    * [donate to eff](https://supporters.eff.org/donate/site-m--h)
+    * [shop](https://supporters.eff.org/shop)
+    * [other ways to give](/helpout)
+  * ## search form
+
+search
+
+* * *
+
+email updates on news, actions,  
+and events in your area. [CLS] [SEP]
+
+[join eff lists](https://supporters.eff.org/subscribe)
+
+  * [copyright (cc by)](/copyright)
+  * [trademark](/pages/trademark-and-brand-usage-policy "trademark and brand usage policy")
+  * [privacy policy](/policy)
+  * [thanks](/thanks)
+
+[electronic frontier foundation](/)
+
+[donate](https://supporters.eff.org/donate/site-m--m)
+
+[eff turns 30! learn more about us, and how you can help. [CLS] [SEP] ](/tags/eff30)[eff
+turns 30! learn more. [CLS] [SEP] ](/tags/eff30)[](/ "close")
+
+[electronic frontier foundation](/)
+
+  * [about](/about)
+    * [contact](/about/contact)
+    * [press](/press/contact)
+    * [people](/about/staff "details and contact information for the eff's staff")
+    * [opportunities](/about/opportunities)
+    * [eff 30th anniversary](/tags/eff30)
+  * [issues](/work)
+    * [free speech](/issues/free-speech)
+    * [privacy](/issues/privacy)
+    * [creativity and innovation](/issues/innovation)
+    * [transparency](/issues/transparency)
+    * [international](/issues/international)
+    * [security](/issues/security)
+  * [our work](/updates)
+    * [deeplinks blog](/deeplinks)
+    * [press releases](/updates?type=press_release)
+    * [events](/updates?type=event)
+    * [legal cases](/updates?type=case)
+    * [whitepapers](/updates?type=whitepaper)
+  * [take action](https://act.eff.org/)
+    * [action center](https://act.eff.org/)
+    * [electronic frontier alliance](/fight)
+    * [volunteer](/about/opportunities/volunteer)
+  * [tools](/pages/tools)
+    * [privacy badger](https://privacybadger.org/)
+    * [https everywhere](/https-everywhere)
+    * [surveillance self-defense](https://ssd.eff.org/)
+    * [certbot](https://certbot.eff.org/)
+    * [atlas of surveillance](https://atlasofsurveillance.org/)
+    * [cover your tracks](https://panopticlick.eff.org/)
+    * [crocodile hunter](https://github.com/efforg/crocodilehunter)
+  * [donate](https://supporters.eff.org/donate/join-eff-today "donate to eff")
+    * [donate to eff](https://supporters.eff.org/donate/join-eff-today)
+    * [shop](https://supporters.eff.org/shop)
+    * [other ways to give](/helpout)
+    * [membership faq](/pages/membership-faq "frequently asked questions and other information about eff memberships.")
+  * [donate](https://supporters.eff.org/donate/site-m--h "donate to eff")
+    * [donate to eff](https://supporters.eff.org/donate/site-m--h)
+    * [shop](https://supporters.eff.org/shop)
+    * [other ways to give](/helpout)
+  * ## search form
+
+search
+
+# privacy policy: software and technology projects
+
+page
+
+# privacy policy: software and technology projects
+
+## privacy policy: software and technology projects
+
+this policy describes our privacy practices for the information that's
+collected and used by eff software and technology projects, like https
+everywhere, the decentralized ssl observatory, or privacy badger (but not
+certbot or panopticlick, which have their own policies—see below). [CLS] [SEP] we may
+occasionally update this document or the relevant user interfaces to reflect
+changes in the information that we collect or new products or technologies we
+release. [CLS] [SEP] however, any revised privacy policy will be consistent with eff's
+mission and will be available at <https://www.eff.org/code/privacy-policy>. [CLS] [SEP]
+
+unless otherwise specified, this policy does not apply to projects run by
+individuals or organizations outside of eff, such as tor, otr, or gnupg, even
+if we promote the use of those projects or happen to contribute to them. [CLS] [SEP]
+
+eff is located within the united states, and therefore will transfer, process,
+and store your information in the united states, which may not provide as much
+protection as your home country. [CLS] [SEP] (we’re
+[working](https://www.eff.org/issues/privacy) to make us practices better.)
+
+**software downloads:** if you download and install software from eff's web
+site, we may collect information about your visit to our site. [CLS] [SEP] once installed,
+our software may also connect automatically to our site to attempt to
+determine if updated versions are available. [CLS] [SEP] as a result, our site may log
+information related to the software downloads, such as your computer's ip
+address. [CLS] [SEP] our collection, anonymization, and use of that data is described our
+[web site privacy policy](https://www.eff.org/policy). [CLS] [SEP]
+
+if you download or receive eff software from another source, such as the
+chrome web store; google play store; addons.mozilla.org; github; or package
+repositories like those run by debian, ubuntu, or red hat; your interaction
+with that site is governed by its privacy policy, which may be less protective
+than eff's policies. [CLS] [SEP] eff cannot supervise or control the use of personal
+information by non-eff software download sources. [CLS] [SEP]
+
+**bug reports and research datasets:** eff software and technology projects
+may give you the option to submit bug reports to us, either manually or (if
+you opt-in) automatically, such as when an error occurs. [CLS] [SEP] for example, if you
+disable https everywhere on a particular site, that may be indicative of bugs
+in the ruleset for that site. [CLS] [SEP] if you choose to submit reports, the content of
+those reports will be available to the project developers, which may include
+third parties. [CLS] [SEP] the software user interface will describe the contents of the
+report and the retention policies in further detail. [CLS] [SEP] we may disclose bug
+reports to people as necessary to improve the software or technology project. [CLS] [SEP]
+
+sometimes our software and technology projects may collect other types of
+information to help with technology research, which generally will not include
+personally identifiable information. [CLS] [SEP] for instance, the ssl observatory
+collects ssl/tls certificates and associated metadata. [CLS] [SEP] when our software
+collects such information, its user interfaces will explain what it does, and
+let you enable or disable submissions. [CLS] [SEP] this information may be included in
+datasets, which are discussed below. [CLS] [SEP]
+
+**use of information:** in general, eff uses the information provided by you
+to further its mission, including to strengthen internet security and privacy,
+defend freedom and innovation, and to protect your rights in the digital
+world. [CLS] [SEP] to help you better understand how this information further these goals,
+we may include further explanations of the use of data within the project’s
+user interface. [CLS] [SEP]
+
+**disclosure of your information:** while eff endeavors to provide the highest
+level of protection for your information, we may disclose personally
+identifiable information about you to third parties in limited circumstances,
+including: (1) with your consent; or (2) when we have a good faith belief it
+is required by law, such as pursuant to a subpoena or other judicial or
+administrative order. [CLS] [SEP]
+
+if we are required by law to disclose the information that you have submitted,
+we will attempt to provide you with prior notice (unless we are prohibited or
+it would be futile) that a request for your information has been made in order
+to give you an opportunity to object to the disclosure. [CLS] [SEP] we will attempt to
+provide this notice by whatever means is reasonably practical. [CLS] [SEP] if you do not
+challenge the disclosure request, we may be legally required to turn over your
+information. [CLS] [SEP]
+
+in addition, we will independently object to requests for access to
+information about users of our products and technologies that we believe to be
+improper and we have done so. [CLS] [SEP]
+
+## updating or removing your information
+
+we endeavor not to collect personal data from users, but recognize that you
+may choose to provide such information in a bug report. [CLS] [SEP] you may choose to
+correct, update, access or delete the personal information you have submitted
+to us by sending an email to
+[privacypolicy@eff.org](mailto:privacypolicy@eff.org). [CLS] [SEP]
+
+**data storage and retention**
+
+eff’s [general privacy policy](https://www.eff.org/policy) covers the storage
+and retention policies for our server logs and direct communications with eff. [CLS] [SEP]
+
+if you submit a bug report or contribute to a research dataset, we will
+maintain this information for as long as we believe it is relevant to
+improving the software or technology project. [CLS] [SEP] generally, we do not store
+personally identifiable information (pii), including the ip addresses of
+users, when collecting bug reports or research data. [CLS] [SEP] however, on occasion, we
+may store ip addresses for limited debugging purposes. [CLS] [SEP] (you may also choose to
+submit these reports and data via tor in order to prevent us from being able
+to observe your ip address.)
+
+**contacting eff**
+
+if you have any questions about our privacy and data protection practices, you
+can reach eff at:
+
+electronic frontier foundation  
+815 eddy street  
+san francisco, ca 94109 usa  
+phone: +1-415-436-9333  
+fax: +1-415-436-9993  
+email: [privacypolicy@eff.org](mailto:privacypolicy@eff.org). [CLS] [SEP]
+
+if our processing of your personal data is covered by eu law, you may also
+lodge a complaint with the relevant [data protection supervisory
+authority](http://ec.europa.eu/justice/data-
+protection/bodies/authorities/index_en.htm) for your country of residence. [CLS] [SEP]
+
+**sharing of datasets:** from time to time, we may share datasets derived from
+our technology projects with research partners working on topics related to
+internet security, censorship resistance, privacy or other public policy
+objectives. [CLS] [SEP] we may also publish datasets in an effort to further these
+objectives. [CLS] [SEP] the datasets we may share or publish will not intentionally
+contain pii and we will evaluate whether further sanitization or aggregation
+of data is necessary to reduce the likelihood that inferences about
+identifiable individuals' activities might be made from the published dataset. [CLS] [SEP]
+because anonymization is an algorithmically complex problem, we cannot promise
+that it will be flawless or attack-proof. [CLS] [SEP] when we believe that a dataset may
+contain information that is especially sensitive or vulnerable to de-
+anonymization, we will not publish it, and if we share share such data with
+research partners, we will place them under a contractual obligation to keep
+the dataset confidential and avoid de-anonymization. [CLS] [SEP]
+
+**security:** eff employs industry standard security measures to protect the
+loss, misuse, and alteration of the information under our control, including
+appropriate technical and organizational measures to ensure a level of
+security appropriate to the risk, such as the pseudonymization and encryption
+of personal data, data backup systems, and engaging security professionals to
+evaluate our systems effectiveness. [CLS] [SEP] although we make good faith efforts to
+store information collected by eff in a secure operating environment, we
+cannot guarantee complete security. [CLS] [SEP]
+
+**privacy policies for specific software and technology projects:** some of
+the technology projects from eff may have specific privacy policies associated
+with them. [CLS] [SEP] when we launch projects with their own privacy policies, they will
+be linked to from this page. [CLS] [SEP]
+
+  * [certbot](https://certbot.eff.org/privacy/)
+
+  * [panopticlick](https://panopticlick.eff.org/privacy)
+
+_updated may 25, 2018 to provide more transparency about our privacy practices
+and more detailed information about how you can access, correct and remove
+personal data stored with eff._
+
+_updated on june 2, 2014 to reflect the possible collection of information for
+research datasets._
+
+_updated on february 4, 2015 to correct typographical errors._
+
+previous privacy policies for software and technology projects:
+
+  * [apr 21, 2014 - jun 2, 2014](https://www.eff.org/node/80552 "apr 21, 2014 - jun 2, 2014")
+  * [jun 3, 2014 - may 24, 2018](/pages/old-privacy-policy-software-and-technology-projects "apr 21, 2014 - jun 2, 2014")
+
+back to top
+
+[![eff
+home](https://www.eff.org/sites/all/modules/custom/eff_library/images/eff-
+logo-1color-blue.svg)](https://www.eff.org)
+
+## follow eff:
+
+  * [twitter](https://twitter.com/eff "eff on twitter")
+  * [facebook](https://www.facebook.com/eff "eff on facebook")
+  * [instagram](https://www.instagram.com/efforg/ "eff on instagram")
+  * [youtube](https://www.youtube.com/efforg "eff on youtube")
+  * [flicker](https://www.flickr.com/photos/electronicfrontierfoundation)
+  * [rss](/rss)
+
+## contact
+
+  * [general](/about/contact)
+  * [legal](/pages/legal-assistance)
+  * [security](/security)
+  * [membership](/about/contact)
+  * [press](/press/contact)
+
+## about
+
+  * [calendar](/event)
+  * [volunteer](/about/opportunities/volunteer)
+  * [victories](/victories)
+  * [history](/about/history)
+  * [internships](/about/opportunities/interns)
+  * [jobs](/about/opportunities/jobs)
+  * [staff](/about/staff)
+  * [diversity & inclusion](/pages/effs-diversity-statement)
+
+## issues
+
+  * [free speech](/issues/free-speech)
+  * [privacy](/issues/privacy)
+  * [creativity & innovation](/issues/innovation)
+  * [transparency](/issues/transparency)
+  * [international](/issues/international)
+  * [security](/issues/security)
+
+## updates
+
+  * [blog](/updates?type=blog)
+  * [press releases](/updates?type=press_release)
+  * [events](/updates?type=event)
+  * [legal cases](https://www.eff.org/cases)
+  * [whitepapers](/updates?type=whitepaper)
+  * [effector newsletter](https://www.eff.org/effector)
+
+## press
+
+  * [press contact](/press/contact)
+
+## donate
+
+  * [join or renew membership online](https://supporters.eff.org/donate/donate-df)
+  * [one-time donation online](https://supporters.eff.org/donate/donate-df)
+  * [shop](https://supporters.eff.org/shop)
+  * [other ways to give](/helpout)
+
+  * [copyright (cc by)](/copyright)
+  * [trademark](/pages/trademark-and-brand-usage-policy "trademark and brand usage policy")
+  * [privacy policy](/policy)
+  * [thanks](/thanks)
+
+[javascript license information](/librejs/jslicense)
+
+![](https://anon-
+stats.eff.org/js/?idsite=1&rec=1&url=https%3a//www.eff.org/code/privacy/policy&action_name=privacy%20policy%3a%20software%20and%20technology%20projects%20%7c%20electronic%20frontier%20foundation&dimension2=page&dimension3=79992)
+

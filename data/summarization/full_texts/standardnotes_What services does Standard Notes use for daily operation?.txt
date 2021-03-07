@@ -1,0 +1,228 @@
+###
+
+![standard notes](assets/icon.png)
+
+[standard notes](https://standardnotes.org)
+
+[help](https://standardnotes.org/help)
+[extensions](https://standardnotes.org/extensions)
+[blog](https://blog.standardnotes.org)
+[twitter](https://twitter.com/standardnotes)
+[dashboard](https://dashboard.standardnotes.org/member)
+
+[← back to help](/help)
+
+# what services does standard notes use for daily operation?
+
+for our cloud servers and databases, we use [amazon web
+services](https://aws.amazon.com/). [CLS] [SEP]
+
+for credit card payment processing, we use [stripe](https://stripe.com/). [CLS] [SEP] for
+paypal payments, we use
+[braintree/paypal](https://www.braintreepayments.com/). [CLS] [SEP] for anonymous
+cryptocurrency payments, we use [coinpayments](https://www.coinpayments.net). [CLS] [SEP]
+
+for transactional emails and campaigns, we use amazon [simple email
+service](https://aws.amazon.com/ses/). [CLS] [SEP] we [do not use
+mailchimp](https://listed.to/@sn/1764/bye-bye-mailchimp) or a similar service. [CLS] [SEP]
+
+we do not use analytics across our web, desktop, and mobile applications. [CLS] [SEP] for
+our website, we use a self-hosted, privacy-respecting analytics software
+called [matomo](https://matomo.org/). [CLS] [SEP]
+
+for error reporting on our web, desktop, and mobile applications, we use
+[bugsnag](http://bugsnag.com). [CLS] [SEP] bugsnag is non-invasive, and collects only what
+it needs (see [this
+article](https://docs.bugsnag.com/platforms/javascript/#sending-diagnostic-
+data) for web and desktop, and [this
+article](https://docs.bugsnag.com/platforms/react-native/react-
+native/automatically-captured-data/) for mobile) to produce helpful error
+reports that help us maintain application stability. [CLS] [SEP]
+
+for server-side error reporting and monitoring, we use
+[datadog](https://www.datadoghq.com). [CLS] [SEP] we do not collect or store ip addresses
+as part of our datadog configuration. [CLS] [SEP]
+
+for our [open-source repositories](https://github.com/standardnotes), we use
+[github](https://github.com). [CLS] [SEP] we also use github as our cdn for desktop
+application downloads. [CLS] [SEP]
+
+for windows application code signing, we use a [digicert extended validation
+certificate](https://www.digicert.com/code-signing/ev-code-signing/). [CLS] [SEP] for
+[macos code signing](https://developer.apple.com/support/code-signing/), we
+use a verified apple developer account. [CLS] [SEP] code signing ensures that the
+application you download and run has not been modified or tampered with, and
+does not deviate from the code we produce and ship on our end. [CLS] [SEP]
+
+for general email inquiries to
+[help@standardnotes.org](mailto:help@standardnotes.org), we use google
+workspace. [CLS] [SEP] for encrypted support to
+[standardnotes@protonmail.com](mailto:standardnotes@protonmail.com), we use
+[protonmail](https://protonmail.com). [CLS] [SEP] apart from optional google drive
+integration, this marks the only integration point we have with google. [CLS] [SEP] we do
+not use google analytics anywhere in our ecosystem, nor do we use google's [
+recaptcha](https://en.wikipedia.org/wiki/recaptcha) for spam control. [CLS] [SEP]
+
+* * *
+
+this summarizes the list of external services we use in our daily operation. [CLS] [SEP]
+
+when it comes to protecting your sensitive, actual data, we're proud to rely
+on no other entity than the laws of mathematics and cryptography. [CLS] [SEP] your notes
+are always [encrypted with a secure key](https://standardnotes.org/help/3/how-
+does-standard-notes-secure-my-notes) that no one has besides you, and this key
+never leaves your computer or touches a cloud. [CLS] [SEP] simply put: you are the only
+person that can [read your private
+notes](https://standardnotes.org/help/1/who-can-read-my-private-notes). [CLS] [SEP]
+
+##
+
+### more from _privacy & longevity_
+
+  * [who can read my private notes?](/help/1/who-can-read-my-private-notes)
+  * [has standard notes completed a third-party security audit?](/help/2/has-standard-notes-completed-a-third-party-security-audit)
+  * [how does standard notes secure my notes?](/help/3/how-does-standard-notes-secure-my-notes)
+  * [what country is standard notes located in?](/help/39/what-country-is-standard-notes-located-in)
+  * [what happens to my data if standard notes disappears?](/help/4/what-happens-to-my-data-if-standard-notes-disappears)
+  * [what information does standard notes collect about me?](/help/5/what-information-does-standard-notes-collect-about-me)
+  * [can i store passwords in standard notes?](/help/34/can-i-store-passwords-in-standard-notes)
+
+##
+
+### general
+
+  * [i've forgotten my password. [CLS] [SEP] what should i do?](/help/6/i-ve-forgotten-my-password-what-should-i-do)
+  * [how can i change my account email?](/help/7/how-can-i-change-my-account-email)
+  * [how do i delete my account?](/help/19/how-do-i-delete-my-account)
+  * [how do i change my account password?](/help/53/how-do-i-change-my-account-password)
+  * [why can i not sign in, even though my email and password are correct?](/help/73/why-can-i-not-sign-in-even-though-my-email-and-password-are-correct)
+  * [is standard notes a good evernote alternative?](/help/9/is-standard-notes-a-good-evernote-alternative)
+  * [how do i attach encrypted files to my notes?](/help/36/how-do-i-attach-encrypted-files-to-my-notes)
+  * [why is the app icon different from the brand icon?](/help/49/why-is-the-app-icon-different-from-the-brand-icon)
+  * [can i collaborate with others on a note?](/help/50/can-i-collaborate-with-others-on-a-note)
+  * [can i use standard notes totally offline?](/help/59/can-i-use-standard-notes-totally-offline)
+  * [how can i import my notes from evernote?](/help/10/how-can-i-import-my-notes-from-evernote)
+  * [how can i import my notes from simplenote?](/help/30/how-can-i-import-my-notes-from-simplenote)
+  * [how can i import my notes from apple notes?](/help/31/how-can-i-import-my-notes-from-apple-notes)
+  * [how can i import my notes from google keep?](/help/35/how-can-i-import-my-notes-from-google-keep)
+  * [how can i import notes from a bunch of text files?](/help/11/how-can-i-import-notes-from-a-bunch-of-text-files)
+  * [how can i contribute to standard notes?](/help/8/how-can-i-contribute-to-standard-notes)
+  * [how can i donate to standard notes?](/help/78/how-can-i-donate-to-standard-notes)
+
+### usage
+
+  * [what are editors?](/help/77/what-are-editors)
+  * [how do i create and import backups of my standard notes data?](/help/14/how-do-i-create-and-import-backups-of-my-standard-notes-data)
+  * [how do i delete a note?](/help/15/how-do-i-delete-a-note)
+  * [how do i delete a tag?](/help/16/how-do-i-delete-a-tag)
+  * [how do i share a private note?](/help/17/how-do-i-share-a-private-note)
+  * [how do i use markdown in my notes?](/help/18/how-do-i-use-markdown-in-my-notes)
+  * [how do i clear duplicates?](/help/33/how-do-i-clear-duplicates)
+  * [how do i enable spellcheck?](/help/37/how-do-i-enable-spellcheck)
+  * [how do i print a note?](/help/57/how-do-i-print-a-note)
+  * [how do i make an editor my default editor?](/help/69/how-do-i-make-an-editor-my-default-editor)
+  * [how do i search inside a note?](/help/70/how-do-i-search-inside-a-note)
+  * [how do i add images to my notes?](/help/71/how-do-i-add-images-to-my-notes)
+  * [how do i uninstall standard notes?](/help/72/how-do-i-uninstall-standard-notes)
+  * [how do i view a list of untagged notes (and create other dynamic filters)?](/help/42/how-do-i-view-a-list-of-untagged-notes-and-create-other-dynamic-filters)
+  * [how do i link multiple notes together to create a sort of personal wiki?](/help/58/how-do-i-link-multiple-notes-together-to-create-a-sort-of-personal-wiki)
+  * [what does it mean to lock or protect a note?](/help/54/what-does-it-mean-to-lock-or-protect-a-note)
+  * [how can i optimize the performance of standard notes?](/help/55/how-can-i-optimize-the-performance-of-standard-notes)
+
+### extended account
+
+  * [how do i manage/modify my extended subscription?](/help/13/how-do-i-manage-modify-my-extended-subscription)
+  * [what happens to my data when my subscription expires?](/help/20/what-happens-to-my-data-when-my-subscription-expires)
+  * [how do i add more time to my extended subscription?](/help/45/how-do-i-add-more-time-to-my-extended-subscription)
+  * [how do i install extensions once i've signed up for extended?](/help/29/how-do-i-install-extensions-once-i-ve-signed-up-for-extended)
+  * [why was i not requested to set up a password for extended?](/help/23/why-was-i-not-requested-to-set-up-a-password-for-extended)
+  * [my extensions appear as expired, even though my subscription is still valid.](/help/41/my-extensions-appear-as-expired-even-though-my-subscription-is-still-valid)
+  * [what is the refund policy on standard notes extended?](/help/51/what-is-the-refund-policy-on-standard-notes-extended)
+  * [what is standard notes' sale policy?](/help/74/what-is-standard-notes-sale-policy)
+  * [how can i get an invoice for my purchase?](/help/75/how-can-i-get-an-invoice-for-my-purchase)
+  * [is there a free trial available for extended?](/help/40/is-there-a-free-trial-available-for-extended)
+  * [does standard notes offer a student discount?](/help/38/does-standard-notes-offer-a-student-discount)
+  * [does standard notes offer a lifetime subscription?](/help/32/does-standard-notes-offer-a-lifetime-subscription)
+  * [what if i can't afford the price of extended?](/help/56/what-if-i-can-t-afford-the-price-of-extended)
+
+### two-factor authentication
+
+  * [how do i enable two-factor authentication for my account?](/help/25/how-do-i-enable-two-factor-authentication-for-my-account)
+  * [where should i store my two-factor authentication secret key?](/help/21/where-should-i-store-my-two-factor-authentication-secret-key)
+  * [what happens if i lose my 2fa device and my secret key?](/help/22/what-happens-if-i-lose-my-2fa-device-and-my-secret-key)
+  * [why is two-factor authentication a paid feature?](/help/24/why-is-two-factor-authentication-a-paid-feature)
+
+### note history & backups
+
+  * [how do i enable note version history?](/help/26/how-do-i-enable-note-version-history)
+  * [how do i enable dropbox, google drive, or onedrive backups?](/help/27/how-do-i-enable-dropbox-google-drive-or-onedrive-backups)
+  * [how do i enable daily email backups?](/help/28/how-do-i-enable-daily-email-backups)
+
+### mobile
+
+  * [how do i install themes on mobile?](/help/43/how-do-i-install-themes-on-mobile)
+
+### extensions
+
+  * [filesafe 101](/help/44/filesafe-101)
+
+### open-source
+
+  * [is standard notes an open-source notes app?](/help/46/is-standard-notes-an-open-source-notes-app)
+  * [can i self-host standard notes?](/help/47/can-i-self-host-standard-notes)
+  * [can i use extensions with a self-hosted server?](/help/48/can-i-use-extensions-with-a-self-hosted-server)
+
+### listed
+
+  * [creating a blog from your notes with listed and standard notes](/help/60/creating-a-blog-from-your-notes-with-listed-and-standard-notes)
+  * [how do i register for a listed blog?](/help/61/how-do-i-register-for-a-listed-blog)
+  * [how do i publish articles to listed?](/help/62/how-do-i-publish-articles-to-listed)
+  * [how do i manage my blog settings, like username and custom domain?](/help/63/how-do-i-manage-my-blog-settings-like-username-and-custom-domain)
+  * [how do i email my subscribers about new articles and updates?](/help/64/how-do-i-email-my-subscribers-about-new-articles-and-updates)
+  * [what is my listed guestbook?](/help/65/what-is-my-listed-guestbook)
+  * [how do i change the colors, fonts, and general layout of my listed blog?](/help/66/how-do-i-change-the-colors-fonts-and-general-layout-of-my-listed-blog)
+  * [how do i specify a custom date for a post, or set the canonical url?](/help/67/how-do-i-specify-a-custom-date-for-a-post-or-set-the-canonical-url)
+  * [how do i hide a story from my main feed?](/help/68/how-do-i-hide-a-story-from-my-main-feed)
+  * [how do i add separate pages to my blog?](/help/76/how-do-i-add-separate-pages-to-my-blog)
+
+## resources
+
+  * [our privacy manifesto](/privacy)
+  * [our longevity statement](/longevity)
+  * [why encrypted writing](/why-encrypted)
+  * [editors and themes](/extensions)
+  * [knowledge base](/knowledge)
+  * [open-source notes app](https://github.com/standardnotes/web)
+  * [evernote alternative](/evernote-alternative)
+
+## community
+
+meet other passionate note-takers and privacy enthusiasts. [CLS] [SEP]
+
+  * [join our slack](/slack)
+  * [community forum](https://forum.standardnotes.org)
+  * [listed blogging platform](https://listed.to)
+  * [developers](https://docs.standardnotes.org)
+
+## support
+
+find us here if you need anything. [CLS] [SEP]
+
+  * [help & contact](/help)
+  * [twitter](https://twitter.com/standardnotes)
+  * [reddit](https://reddit.com/r/standardnotes)
+  * new
+
+[jobs](/jobs)
+
+## spread the word
+
+we believe in making privacy easy for everyone. [CLS] [SEP] help us sustain by spreading
+the word. [CLS] [SEP]
+
+  * [share on twitter](https://twitter.com/home?status=check%20out%20%40standardnotes,%20a%20simple%20and%20private%20notes%20app.%20https%3a//standardnotes.org)
+  * [share on facebook](https://www.facebook.com/sharer/sharer.php?u=https%3a//standardnotes.org)
+  * [like on alternativeto](https://alternativeto.net/software/standard-notes/about)
+
+![](//matomo.standardnotes.org/piwik.php?idsite=1&rec=1)
+

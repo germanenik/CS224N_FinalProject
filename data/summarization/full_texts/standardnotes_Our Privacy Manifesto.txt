@@ -1,0 +1,85 @@
+###
+
+![standard notes](assets/icon.png)
+
+[standard notes](https://standardnotes.org)
+
+[help](https://standardnotes.org/help)
+[extensions](https://standardnotes.org/extensions)
+[blog](https://blog.standardnotes.org)
+[twitter](https://twitter.com/standardnotes)
+[dashboard](https://dashboard.standardnotes.org/member)
+
+# our privacy manifesto
+
+we believe the internet should do a simple thing: keep your private
+information private. [CLS] [SEP] no one should be able to touch what you think or write
+and do, but you. [CLS] [SEP] and we are out to prove that far too many companies mismanage
+your information for no other reason than laziness and greed. [CLS] [SEP]
+
+we will never ask you to take our word for protecting your privacy by burying
+lax standards in user agreements carefully crafted so nobody understands them. [CLS] [SEP]
+instead, we will proudly present peer review and auditable privacy policies
+that the entire world can see, touch and debate. [CLS] [SEP]
+
+here's how we do it:
+
+  1. [CLS] [SEP] **end to end privacy:** all your data — no matter if you’re using a pc, a phone, a tablet or a gaming system — is encrypted everywhere you _don't control._ on our servers. [CLS] [SEP] on our network. [CLS] [SEP] on a public network. [CLS] [SEP] in the cloud. [CLS] [SEP] on mars. [CLS] [SEP] whenever your information moves anywhere away from your direct control, it will be seriously encrypted with a passcode that no one else in the world knows but you. [CLS] [SEP] 
+
+  2. [CLS] [SEP] **secure connections.** whenever we move your encrypted data over a network, in order to deliver services to you, it is sent over a strictly secure connection to only our private servers. [CLS] [SEP] because this data is encrypted, we can't read it, and we can’t sell it. [CLS] [SEP] even if someone forced their way into our data centers, your data would be complete gibberish to them. [CLS] [SEP] forever. [CLS] [SEP] 
+
+  3. [CLS] [SEP] **open-source:** we've made all our code open-source, so it's clear how your data is being handled every step of the way. [CLS] [SEP] many companies promise encryption but don't open up their code for peer-review. [CLS] [SEP] we believe the definition of end-to-end encryption should mean that code on both ends is open-sourced. [CLS] [SEP] while trust in a closed system can be convenient at times, nothing is more trustable than mathematical certainty and utter transparency. [CLS] [SEP] 
+
+  4. [CLS] [SEP] **no tracking or intrusive advertising.** we are heavily opposed to industry standard tracking tools like google analytics, which gathers and analyzes your browsing history to sell you better advertisements. [CLS] [SEP] instead, we use an open-source, privacy-focused, and self-hosted matomo analytics installation. [CLS] [SEP] 
+
+  5. [CLS] [SEP] **respectful analytics.** we are utterly and completely transparent about reporting exactly what we track, and why. [CLS] [SEP] we announce when we update those policies. [CLS] [SEP] and we confirm with you that you are comfortable with those changes. [CLS] [SEP] to date, our applications, including web, desktop, and mobile, contain no analytics or tracking software whatsoever. [CLS] [SEP] 
+
+if you have any questions or concerns whatsoever, please don't hesitate to get
+in touch: [help@standardnotes.org.](mailto:help@standardnotes.org)
+
+**read more:**
+
+  * [what information does standard notes collect about me?](/help/5/what-information-does-standard-notes-collect-about-me)
+  * [what services does standard notes use for daily operation?](/help/52/what-services-does-standard-notes-use-for-daily-operation)
+
+## resources
+
+  * [our privacy manifesto](/privacy)
+  * [our longevity statement](/longevity)
+  * [why encrypted writing](/why-encrypted)
+  * [editors and themes](/extensions)
+  * [knowledge base](/knowledge)
+  * [open-source notes app](https://github.com/standardnotes/web)
+  * [evernote alternative](/evernote-alternative)
+
+## community
+
+meet other passionate note-takers and privacy enthusiasts. [CLS] [SEP]
+
+  * [join our slack](/slack)
+  * [community forum](https://forum.standardnotes.org)
+  * [listed blogging platform](https://listed.to)
+  * [developers](https://docs.standardnotes.org)
+
+## support
+
+find us here if you need anything. [CLS] [SEP]
+
+  * [help & contact](/help)
+  * [twitter](https://twitter.com/standardnotes)
+  * [reddit](https://reddit.com/r/standardnotes)
+  * new
+
+[jobs](/jobs)
+
+## spread the word
+
+we believe in making privacy easy for everyone. [CLS] [SEP] help us sustain by spreading
+the word. [CLS] [SEP]
+
+  * [share on twitter](https://twitter.com/home?status=check%20out%20%40standardnotes,%20a%20simple%20and%20private%20notes%20app.%20https%3a//standardnotes.org)
+  * [share on facebook](https://www.facebook.com/sharer/sharer.php?u=https%3a//standardnotes.org)
+  * [like on alternativeto](https://alternativeto.net/software/standard-notes/about)
+
+![](//matomo.standardnotes.org/piwik.php?idsite=1&rec=1)
+

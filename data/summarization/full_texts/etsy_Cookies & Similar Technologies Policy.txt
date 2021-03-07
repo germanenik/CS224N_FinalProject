@@ -1,0 +1,520 @@
+### privacy settings
+
+etsy uses cookies and similar technologies to give you a better experience,
+enabling things like:
+
+  * basic site functions
+  * ensuring secure, safe transactions
+  * secure account login
+  * remembering account, browser, and regional preferences
+  * remembering privacy and security settings
+  * analysing site traffic and usage
+  * personalized search, content, and recommendations
+  * helping sellers understand their audience
+  * showing relevant, targeted ads on and off etsy
+
+detailed information can be found in etsy’s [cookies & similar technologies
+policy](https://www.etsy.com/legal/cookies-and-tracking-technologies) and our
+[privacy policy](https://www.etsy.com/legal/privacy). [CLS] [SEP]
+
+## required cookies & technologies
+
+some of the technologies we use are necessary for critical functions like
+security and site integrity, account authentication, security and privacy
+preferences, internal site usage and maintenance data, and to make the site
+work correctly for browsing and transactions. [CLS] [SEP]
+
+always on
+
+## personalized advertising
+
+these technologies are used for things like interest based etsy ads. [CLS] [SEP]
+
+we do this with marketing and advertising partners (who may have their own
+information they’ve collected). [CLS] [SEP] saying no will not stop you from seeing etsy
+ads, but it may make them less relevant or more repetitive. [CLS] [SEP] find out more in
+our [cookies & similar technologies
+policy.](https://www.etsy.com/legal/cookies)
+
+on
+
+saved
+
+done
+
+[ etsy ](/?ref=lgo)
+
+close search search for items or shops
+
+skip to content
+
+  * sign in 
+  * [ cart 0  ](https://www.etsy.com/cart?ref=hdr-cart) cart
+
+  * [ home favorites ](https://www.etsy.com/featured/home-decor-and-furniture?ref=homefavorites21_catnav)
+  * [ jewelry & accessories  ](/c/jewelry-and-accessories?ref=catnav-10855)
+  * [ clothing & shoes  ](/c/clothing-and-shoes?ref=catnav-10923)
+  * [ home & living  ](/c/home-and-living?ref=catnav-891)
+  * [ wedding & party  ](/c/wedding-and-party?ref=catnav-10983)
+  * [ toys & entertainment  ](/c/toys-and-entertainment?ref=catnav-11049)
+  * [ art & collectibles  ](/c/art-and-collectibles?ref=catnav-66)
+  * [ craft supplies  ](/c/craft-supplies-and-tools?ref=catnav-562)
+  * [ gifts & gift cards  ](/featured/gift-guides?ref=gift_guide_nav_promo)
+
+take full advantage of our site features by enabling javascript. [CLS] [SEP] [learn
+more](https://www.etsy.com/help/article/372)
+
+## [our house rules](/legal?ref=pageheader)
+
+get to know etsy's legal terms and policies
+
+search our policies
+
+search
+
+##  [our house rules](/legal?ref=pageheader)
+
+search our policies
+
+search
+
+[our house rules](/legal?ref=breadcrumb) / [ all categories ](?ref=breadcrumb)
+
+  * [privacy policy](/legal/privacy?ref=dropdown)
+  * [terms of use](/legal/terms-of-use?ref=dropdown)
+  * [buyers](/legal/section/buyers?ref=dropdown)
+  * [sellers](/legal/section/sellers?ref=dropdown)
+  * [third parties](/legal/section/third-party?ref=dropdown)
+
+# cookies & similar technologies policy
+
+we think it's important for you to understand how cookies and other similar
+technologies are used by etsy and our partners. [CLS] [SEP] these technologies help etsy
+function, allow us to understand how you use the services, and have a number
+of purposes (beyond just advertising) that you can read about in this policy. [CLS] [SEP]
+
+**the previous version of this policy can be
+found[here](https://www.etsy.com/legal/cookies-archived/). [CLS] [SEP] **
+
+in this policy, we'll refer to etsy.com as the "site" and etsy's mobile
+applications as the "apps." we'll refer to the site, the apps, pattern by
+etsy, etsy payments, and our other services collectively as the "services."
+etsy, inc. [CLS] [SEP] and etsy ireland uc are referred to as "etsy" throughout this
+policy. [CLS] [SEP] we’ll refer to cookies and similar technologies collectively as
+“cookie technologies.”
+
+  1. [CLS] [SEP] types of cookie technologies
+  2. [CLS] [SEP] purposes
+  3. [CLS] [SEP] services in the apps (sdks)
+  4. [CLS] [SEP] consent, contract, and legitimate interests in processing
+  5. [CLS] [SEP] managing your cookie technology preferences
+  6. [CLS] [SEP] contact us
+
+## 1\. [CLS] [SEP] types of cookie technologies
+
+### cookies
+
+cookies are small data files sent from a server to your web browser. [CLS] [SEP] they are
+stored in your browser’s cache and allow a website or a third party to
+recognize your browser. [CLS] [SEP] there are three primary types of cookies:
+
+  * _session cookies_ are specific to a particular visit and carry information as you view different pages so you don’t have to re-enter information every time you change pages or attempt to checkout. [CLS] [SEP] session cookies expire and delete themselves automatically in a short period of time like after you leave the site or when you close your web browser. [CLS] [SEP]
+
+  * _persistent cookies_ remember certain information about your preferences for viewing the site, and allow etsy to recognize you each time you return. [CLS] [SEP] persistent cookies are stored on your browser cache or mobile device until you choose to delete them, and otherwise typically delete themselves at expiration. [CLS] [SEP]
+
+  * _third-party cookies_ are placed by someone other than etsy, and may gather browsing activity across multiple websites and across multiple sessions. [CLS] [SEP] they are usually a type of persistent cookie and are stored until you delete them or they expire based on the time period set in each third-party cookie. [CLS] [SEP] 
+
+cookies store data about your use, but they are helpful because they allow us
+to help etsy function and customize your experience. [CLS] [SEP] you can configure your
+desktop or mobile browser's settings to reflect your preference to accept or
+reject cookies, including how to handle third-party cookies (see managing your
+cookie technology preferences below). [CLS] [SEP]
+
+a description of etsy’s principal first party cookies can be found in our
+[cookies & similar technologies
+disclosures](https://www.etsy.com/legal/cookies-disclosures). [CLS] [SEP]
+
+### other technologies
+
+in addition to cookies, there are other similar technologies used by etsy and
+elsewhere on the web or in mobile ecosystems. [CLS] [SEP]
+
+  * _web beacons:_ these are tiny graphics (sometimes called “clear gifs” or “web pixels”) with a unique identifier that are used to understand browsing activity. [CLS] [SEP] in contrast to cookies, which are stored on a user's computer hard drive, web beacons are rendered invisibly on web pages when you open a page. [CLS] [SEP]
+
+  * _social widgets:_ these are buttons or icons provided by third-party social media providers that allow you to interact with those social media services when you view a web page or a mobile app screen. [CLS] [SEP] these social widgets may collect browsing data, which may be received by the third party that provided the widget, and are controlled by the third parties. [CLS] [SEP] 
+
+  * _utm codes:_ these are strings that can appear in a url (the “uniform resource locator,” which is typically the http or https address entered to go to a web page) when a user moves from one web page or website to another, where the string can represent information about browsing, such as which advertisement, page, or publisher sent the user to the receiving website. [CLS] [SEP] 
+
+  * _application sdks:_ these are mobile application third-party software development kits that are embedded in the apps (and are used in many mobile applications). [CLS] [SEP] these app sdks permit the collection of information about the app itself, activity in the app, and the device the application is running on. [CLS] [SEP]
+
+  * _local storage objects:_ these are sets of data that can be stored on your browser by a site or app. [CLS] [SEP] they can be used to maintain preferences, a history of usage, or even the state or settings of a site or an app. [CLS] [SEP]
+
+  * _internet of things identifiers:_ like mobile identifiers, internet-connected devices such as voice activated assistants or smart tvs may send identifiers and other data analogous to web browsers or mobile sdks. [CLS] [SEP]
+
+## 2\. [CLS] [SEP] purposes
+
+etsy uses cookie technologies to recognize your logged-in state on etsy, to
+understand what purchases members and visitors are interested in, to make
+etsy’s sites function for you, and to help your browsing experience and use of
+the site, services, and apps feel more customized. [CLS] [SEP] more generally, etsy uses
+cookie technologies for the following. [CLS] [SEP]
+
+### security and authentication (strictly necessary)
+
+some cookie and similar technology functions are necessary and vital to
+ensuring that etsy works properly for visitors and members, such as
+maintaining the security, safety, and integrity of the site, authentication
+and logging into etsy (including remembering permissions and consents you have
+granted), and ensuring the ability to securely complete transactions. [CLS] [SEP]
+
+### account and user preferences
+
+some technologies are used to remember your account and preferences over time,
+such as keeping yourself logged in when returning to etsy, maintaining your
+choices on etsy features and how you want etsy to appear (including keeping
+track of your preferred language and country), and customizing content based
+on how you use etsy. [CLS] [SEP]
+
+### social networks
+
+some technologies help you to interact with social networks you are signed
+into while using the services, such as sharing content with the social
+network, logging in with the social network, and other features you employ
+with the social network, or that are allowed in the social network’s privacy
+policy. [CLS] [SEP] these may be set and controlled by the social networks, and your
+preferences with those social networks. [CLS] [SEP]
+
+social networks may also work with etsy or with you for analytics or for
+marketing purposes, as discussed below. [CLS] [SEP] you may be able to manage your privacy
+preferences for these social networks and their tools and widgets via your
+account with the social network. [CLS] [SEP] you can find more information on specific
+social media tools and widgets in our [cookies & similar technologies
+disclosures](https://www.etsy.com/legal/cookies-disclosures). [CLS] [SEP]
+
+### performance and analytics
+
+some technologies help provide performance data on how the services are
+functioning in order to improve etsy and the services, including, for example,
+data on site and app functionality and speed to help us optimize etsy, how the
+services are used to help us improve your experience on etsy, and detecting
+and gathering reporting on bugs to help make etsy work better. [CLS] [SEP]
+
+in addition, etsy may employ transient technologies, including cookies or
+local stored objects, for site performance, experiments, form information, and
+interactions with the site, and may use temporary, short-term cookies for
+limited-time site events such as sales and promotions. [CLS] [SEP]
+
+the site employs google analytics to help understand how etsy is used by its
+community. [CLS] [SEP] for some of the advertising features listed below, like
+retargeting, data from google analytics may be combined with etsy’s first-
+party data and third-party cookies (like google’s advertising cookies) as
+permitted by google’s and etsy’s respective policies. [CLS] [SEP] to see how to opt-out of
+google analytics advertising features, see managing your cookie technology
+preferences at the bottom of this policy. [CLS] [SEP] the site also employs facebook app
+events sdks for analytics in the apps in a similar fashion, subject to your
+opt-out. [CLS] [SEP]
+
+you can find more information on how google analytics works in this [google
+guide](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-
+usage) and on facebook app events
+[here](https://developers.facebook.com/docs/app-events/). [CLS] [SEP]
+
+### marketing services
+
+etsy partners with third-party service providers that may use various cookie
+technologies to permit us and them to learn about which ads you see and click
+when you visit etsy, the apps, and affiliated sites or to show you ads on and
+off etsy. [CLS] [SEP] these may include things such as:
+
+  * _frequency capping_ , which limits the number of times a user’s browser or mobile device displays the same ad;
+
+  * _attribution tracking_ , which estimates which advertising or marketing source brought someone to etsy, or determines which marketing source led to actions like a visit or a purchase;
+
+  * _remarketing and retargeting_ , which shows relevant ads to an audience based on prior shopping and browsing patterns on etsy;
+
+  * _audience targeting_ , which refers to targeting advertisements to a large audience based on the audience’s known or inferred demographics; and
+
+  * _cross-device recognition_ , which recognizes actions across multiple devices or browsers. [CLS] [SEP]
+
+some third-party service providers may provide information like demographics,
+cross-device information, or interest categories from a combination of sources
+that, while not identifying you personally, permit us to provide you with more
+relevant and useful advertising. [CLS] [SEP] in some cases, this information may have non-
+marketing performance analytics uses as well. [CLS] [SEP]
+
+these technologies allow a partner to recognize your computer, mobile device
+or network device (like an iot device such as a voice-activated assistant or
+smart tv), each time you visit etsy or other websites and mobile applications
+based on data like a cookie, your ip address, or device id, but do not allow
+access to other personal information from etsy. [CLS] [SEP] however, these technologies
+may allow us or a third party to recognize you, either from a single device or
+across devices, over time. [CLS] [SEP] these third parties are required to follow
+applicable laws, self-regulatory programs, and etsy’s data protection rules
+where applicable. [CLS] [SEP] etsy does not have control over these third parties, who
+each have their own privacy policies and privacy practices. [CLS] [SEP] etsy adheres to
+the [digital advertising alliance](https://www.aboutads.info/)'s self-
+regulatory principles for online behavioral advertising. [CLS] [SEP]
+
+for audience targeting, etsy may share hashed identifiers that represent an
+email address or name with partners google and/or facebook so they can provide
+etsy with audiences interested in specific types of products and services. [CLS] [SEP]
+google and/or facebook will only provide this information, and can only
+identify you, based on their separate policies and agreements with their
+users. [CLS] [SEP] more information is provided in etsy’s cookies and similar technologies
+disclosures. [CLS] [SEP]
+
+you can find a description of third-party cookie technologies used by etsy,
+along with their respective privacy policies and options for controlling your
+privacy on these platforms, in our [cookies & similar technologies
+disclosures](https://www.etsy.com/legal/cookies-disclosures). [CLS] [SEP]
+
+## 3\. [CLS] [SEP] services in the apps (sdks)
+
+the apps may include third-party application software development kits
+(“sdks”) that provide mobile performance and analytics data, bug reporting
+features, and application program interfaces ("apis") to third parties that
+help provide the services, for social media functionality, and for marketing
+and advertising. [CLS] [SEP]
+
+you can find a description of principal third-party sdks used by etsy, along
+with their respective privacy policies and options for controlling your
+privacy on these platforms, in our [cookies & similar technologies
+disclosures](https://www.etsy.com/legal/cookies-disclosures). [CLS] [SEP]
+
+## 4\. [CLS] [SEP] consent, contract, and legitimate interests in processing
+
+certain cookie technologies are employed to make the site function for its
+intended purpose, and are provided based on contractual necessity based on
+your agreement with etsy to perform the services you have requested. [CLS] [SEP] these
+include the functions strictly necessary to the service noted above. [CLS] [SEP]
+
+by choosing to use our services after having been notified of our use of
+cookie technologies in the ways described in this policy, and, in applicable
+jurisdictions, through notice and unambiguous acknowledgement of your consent,
+you agree to such use. [CLS] [SEP] more information is laid out in our [privacy
+policy](https://www.etsy.com/legal/privacy/). [CLS] [SEP]
+
+## 5\. [CLS] [SEP] managing your cookie technology preferences
+
+you have the ability to control the use of certain cookie technologies. [CLS] [SEP] you
+can opt out of third party marketing cookies and similar technologies via the
+privacy settings link available at the bottom of most etsy site pages, or via
+the gdpr preferences link for users in the european union and eea. [CLS] [SEP] you can
+also manage your etsy marketing preferences in your [account
+settings](https://www.etsy.com/your/account/privacy). [CLS] [SEP] as noted previously,
+information on third party privacy policies and opt-out process can be found
+in our [cookies & similar technologies
+disclosures](https://www.etsy.com/legal/cookies-disclosures). [CLS] [SEP]
+
+### opt-in and opt-out for browsers
+
+in addition, when you use etsy via a browser, you can change your web
+browser's settings to reflect your cookie preferences. [CLS] [SEP] each browser is a
+little different, but usually these settings are under the "options" or
+"preferences" menu. [CLS] [SEP] the links below provide information about cookie settings
+for the browsers supported by etsy:
+
+  * [microsoft edge](https://support.microsoft.com/en-us/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy)
+  * [internet explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [firefox](https://support.mozilla.org/en-us/kb/cookies-information-websites-store-on-your-computer)
+  * [chrome](https://support.google.com/chrome/answer/95647)
+  * [safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471)
+
+### opt-out of third-party networks
+
+if you do not wish to have this information used for the purpose of serving
+you interest-based advertisements, in addition you may decline to receive
+interest based ads through truste/trustarc’s [preferences
+manager](https://preferences-mgr.truste.com/) (or if you are located in the
+european union click [here](https://www.youronlinechoices.eu)). [CLS] [SEP] please note
+this does not stop you from being served advertisements. [CLS] [SEP] you will continue to
+receive generic advertisements. [CLS] [SEP] if you reject or block all cookies in your
+browser settings, you will not be able to take advantage of etsy's services as
+some cookies are necessary for the site to function properly. [CLS] [SEP]
+
+you can learn more about managing your preferences for ads online,
+particularly for many third-party advertising networks, through resources made
+available by the digital advertising alliance at <https://www.aboutads.info>
+or the network advertising initiative at
+<https://optout.networkadvertising.org>. [CLS] [SEP]
+
+### google analytics opt-out
+
+for google analytics advertising features, you can [opt-
+out](https://support.google.com/ads/answer/2662922?hl=en) through [google ads
+settings](https://adssettings.google.com/), ad settings for mobile apps, or
+any other available means (for example, the nai's consumer opt-out listed
+above). [CLS] [SEP] google also provides a google analytics [opt-out plug-
+in](https://tools.google.com/dlpage/gaoptout/) for the web. [CLS] [SEP]
+
+### third-party tools
+
+various third parties provide browser plug-ins and apps that can help provide
+you information on and limit or block third-party cookies, web beacons, and
+some javascript-based technologies. [CLS] [SEP] etsy cannot vouch for the efficacy of a
+particular third-party product, but popular products that provide these
+privacy enhancements include [ghostery](https://www.ghostery.com/) and
+[adblock plus](https://adblockplus.org/). [CLS] [SEP]
+
+both google and facebook provide tools to control use of advertising on their
+respective platforms, including advertising on and with etsy. [CLS] [SEP] more information
+can be found in your account settings on the respective platforms, including
+in google’s privacy center and in facebook’s ad settings. [CLS] [SEP]
+
+### mobile and third party device opt-out
+
+if you access etsy through the apps, you may also control interest-based
+advertising on an ios or android device by selecting the “limit ad tracking”
+option in the privacy section of the settings app on ios or via advertising
+preferences on android-based devices (usually in the google settings app). [CLS] [SEP]
+this will not prevent you from seeing advertisements but will limit the use of
+device advertising identifiers to personalize ads based on your interests. [CLS] [SEP]
+
+for third party iot devices such as voice activated assistants or smart tvs,
+consult with the manufacturer and/or service provider for the opt out
+mechanism for their respective devices and services. [CLS] [SEP]
+
+## 6\. [CLS] [SEP] contact us
+
+if you have questions about the use of cookie technologies at etsy, please see
+the “contact” section of etsy’s [privacy
+policy](https://www.etsy.com/legal/privacy). [CLS] [SEP]
+
+last updated on jan 1, 2020
+
+##  footer
+
+yes! send me exclusive offers, unique gift ideas, and personalized tips for
+shopping and selling on etsy. [CLS] [SEP]
+
+enter your email
+
+subscribe
+
+please enter a valid email address. [CLS] [SEP]
+
+looks like you already have an account! please [log
+in](/signin?from_page=https%3a%2f%2fwww.etsy.com%2flegal%2fcookies%2f&workflow=c3vic2nyawjlx3rvx2vtywlsx2xpc3q6bmv3x2f0x2v0c3k6mtyxnta5nzuynzplntq2mzcxymrmmtrjngm5ymzlotrjmgu1mgq3mtfhmq==)
+to subscribe. [CLS] [SEP]
+
+you've already signed up for some newsletters, but you haven't confirmed your
+address. [CLS] [SEP]
+[register](/join?from_url=https%3a%2f%2fwww.etsy.com%2flegal%2fcookies%2f) to
+confirm your address. [CLS] [SEP]
+
+you've been successfully signed up!
+
+great! we've sent you an email to confirm your subscription. [CLS] [SEP]
+
+there was a problem subscribing you to this newsletter. [CLS] [SEP]
+
+###  shop
+
+  * [ gift cards ](https://www.etsy.com/giftcards?ref=ftr)
+  * [ etsy blog ](/blog/en/?ref=ftr)
+
+###  sell
+
+  * [ sell on etsy ](https://www.etsy.com/sell?ref=ftr)
+  * [ teams ](https://www.etsy.com/sso-community?return_to=https%3a%2f%2fcommunity.etsy.com%2ft5%2fetsy-teams%2fct-p%2fteams)
+  * [ forums ](https://www.etsy.com/sso-community?return_to=https%3a%2f%2fcommunity.etsy.com%2ft5%2fetsy-forums%2fct-p%2fforums)
+  * [ affiliates ](https://www.etsy.com/affiliates?ref=ftr)
+
+###  about
+
+  * [ etsy, inc. [CLS] [SEP] ](https://www.etsy.com/about?ref=ftr)
+  * [ policies ](https://www.etsy.com/legal?ref=ftr)
+  * [ investors ](https://investors.etsy.com)
+  * [ careers ](https://careers.etsy.com)
+  * [ press ](https://www.etsy.com/press?ref=ftr)
+  * [ impact ](https://www.etsy.com/impact?ref=ftr)
+
+###  help
+
+  * [ help center ](https://www.etsy.com/help?ref=ftr)
+  * [ trust and safety ](https://www.etsy.com/support-and-trust?ref=ftr)
+  * privacy settings
+
+[ download the etsy app ](https://etsy.app.link/d7ndudp49v)
+
+  * [ instagram ](/social-tracking?network=instagram)
+  * [ facebook ](/social-tracking?network=facebook)
+  * [ pinterest ](/social-tracking?network=pinterest)
+  * [ twitter ](/social-tracking?network=twitter)
+  * [ youtube ](/social-tracking?network=youtube)
+
+us   united states   |   english (us)   |   $ (usd)
+
+(c) 2021 etsy, inc. [CLS] [SEP]
+
+  * [ terms of use ](/legal/terms-of-use?ref=ftr)
+  * [ privacy ](/legal/privacy/?ref=ftr)
+  * [ interest-based ads ](/legal/policy/cookies-tracking-technologies/44797645975?ref=ftr)
+
+# update your settings
+
+set where you live, what language you speak, and the currency you use. [CLS] [SEP] [learn
+more.](https://www.etsy.com/help/article/493)
+
+region
+
+australia canada france germany greece ireland italy japan new zealand poland
+portugal russia spain the netherlands united kingdom united states afghanistan
+albania algeria american samoa andorra angola anguilla antigua and barbuda
+argentina armenia aruba australia austria azerbaijan bahamas bahrain
+bangladesh barbados belarus belgium belize benin bermuda bhutan bolivia bosnia
+and herzegovina botswana bouvet island brazil british indian ocean territory
+british virgin islands brunei bulgaria burkina faso burundi cambodia cameroon
+canada cape verde cayman islands central african republic chad chile china
+christmas island cocos (keeling) islands colombia comoros congo, republic of
+cook islands costa rica croatia curaçao cyprus czech republic denmark djibouti
+dominica dominican republic ecuador egypt el salvador equatorial guinea
+eritrea estonia ethiopia falkland islands (malvinas) faroe islands fiji
+finland france french guiana french polynesia french southern territories
+gabon gambia georgia germany ghana gibraltar greece greenland grenada
+guadeloupe guam guatemala guinea guinea-bissau guyana haiti heard island and
+mcdonald islands holy see (vatican city state) honduras hong kong hungary
+iceland india indonesia iraq ireland isle of man israel italy ivory coast
+jamaica japan jordan kazakhstan kenya kiribati kosovo kuwait kyrgyzstan laos
+latvia lebanon lesotho liberia libya liechtenstein lithuania luxembourg macao
+macedonia madagascar malawi malaysia maldives mali malta marshall islands
+martinique mauritania mauritius mayotte mexico micronesia, federated states of
+moldova monaco mongolia montenegro montserrat morocco mozambique myanmar
+(burma) namibia nauru nepal netherlands antilles new caledonia new zealand
+nicaragua niger nigeria niue norfolk island northern mariana islands norway
+oman pakistan palau palestinian territory, occupied panama papua new guinea
+paraguay peru philippines poland portugal puerto rico qatar reunion romania
+russia rwanda saint helena saint kitts and nevis saint lucia saint martin
+(french part) saint pierre and miquelon saint vincent and the grenadines samoa
+san marino sao tome and principe saudi arabia senegal serbia seychelles sierra
+leone singapore sint maarten (dutch part) slovakia slovenia solomon islands
+somalia south africa south georgia and the south sandwich islands south korea
+south sudan spain sri lanka sudan suriname svalbard and jan mayen swaziland
+sweden switzerland taiwan tajikistan tanzania thailand the netherlands timor-
+leste togo tokelau tonga trinidad tunisia turkey turkmenistan turks and caicos
+islands tuvalu uganda ukraine united arab emirates united kingdom united
+states united states minor outlying islands uruguay u.s. [CLS] [SEP] virgin islands
+uzbekistan vanuatu venezuela vietnam wallis and futuna western sahara yemen
+zaire (democratic republic of congo) zambia zimbabwe
+
+language
+
+deutsch english (uk) english (us) español français italiano 日本語 nederlands
+polski português русский
+
+currency
+
+$ united states dollar (usd) $ canadian dollar (cad) € euro (eur) £ british
+pound (gbp) $ australian dollar (aud) ¥ japanese yen (jpy) ¥ chinese yuan
+(cny) kč czech koruna (czk) kr danish krone (dkk) $ hong kong dollar (hkd) ft
+hungarian forint (huf) rp indonesian rupiah (idr) ₪ israeli shekel (ils) rm
+malaysian ringgit (myr) $ mexican peso (mxn) dh moroccan dirham (mad) $ new
+zealand dollar (nzd) kr norwegian krone (nok) ₱ philippine peso (php) $
+singapore dollar (sgd) ₫ vietnamese dong (vnd) r south african rand (zar) kr
+swedish krona (sek) swiss franc (chf) ฿ thai baht (thb) nt$ taiwan new dollar
+(twd) ₺ turkish lira (try) zł polish zloty (pln) r$ brazilian real (brl)
+
+cancel  loading  save
+
+loading
+

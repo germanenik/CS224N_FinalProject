@@ -1,0 +1,358 @@
+# [](/ "itch.io - indie game hosting marketplace")
+
+[browse games](/games)[game jams](/jams)[upload game](/developers)[developer
+logs](/devlogs)[community](/community)
+
+[log in](/login)[register](/register)
+
+[indie game store](/games/store)[free games](/games/free)[fun
+games](/games/fun)[horror games](/games/tag-horror)
+
+[game development](/tools)[assets](/game-assets)[comics](/comics)
+
+[sales](/sales)[bundles](/bundles)
+
+[jobs](/jobs)
+
+### general
+
+[about itch.io](/docs/general/about)
+
+[faq](/docs/general/faq)
+
+[community rules](/docs/general/community-rules)
+
+[hosting a jam](/docs/creators/game-jams)
+
+[support & contact](/support)
+
+### buying
+
+[finding existing purchases](/docs/buying/already-bought)
+
+### creating
+
+[creator faq](/docs/creators/faq)
+
+[quality guidelines](/docs/creators/quality-guidelines)
+
+[getting started](/docs/creators/getting-started)
+
+[search & browse](/docs/creators/getting-indexed)
+
+[designing your page](/docs/creators/design)
+
+[custom css](/docs/creators/css-guide)
+
+[interacting with fans](/docs/creators/interact)
+
+[widget embed](/docs/creators/widget)
+
+[html5 games](/docs/creators/html5)
+
+[kickstarter](/docs/creators/kickstarter)
+
+[patreon](/docs/creators/patreon)
+
+### selling
+
+[how buying works](/docs/creators/how-buying-works)
+
+[getting paid & vat](/docs/creators/payments)
+
+[pricing](/docs/creators/pricing)
+
+[download keys](/docs/creators/download-keys)
+
+[hosting a sale](/docs/creators/sales)
+
+[co-op bundles](/docs/creators/bundles)
+
+### refinery
+
+[using refinery](/docs/creators/refinery)
+
+[exclusive content](/docs/creators/exclusive-content)
+
+[access control](/docs/creators/access-control)
+
+### accounts
+
+[two-factor authentication](/docs/advanced/two-factor-authentication)
+
+[followers](/docs/accounts/followers)
+
+### app
+
+[itch.io app faq](/docs/app/faq)
+
+[app guide](/docs/itch/)
+
+### api
+
+[overview](/docs/api/overview)
+
+[oauth applications](/docs/api/oauth)
+
+[server-side api reference](/docs/api/serverside)
+
+[javascript api reference](/docs/api/javascript)
+
+[sub-products reference](/docs/api/sub-products)
+
+### more
+
+[press kit](/press-kit)
+
+[become a sponsor](/docs/general/sponsors)
+
+### legal
+
+[terms of service](/docs/legal/terms)
+
+[privacy policy](/docs/legal/privacy-policy)
+
+[cookie policy](/docs/legal/cookie-policy)
+
+# itch.io privacy policy
+
+ _this privacy policy was last modified on may 24, 2018._
+
+## introduction
+
+we at itch corp. [CLS] [SEP] (â **company** â, â **we** â, or â **itch.io** â)
+respect your privacy and are committed to protecting it through our compliance
+with this policy. [CLS] [SEP] this policy describes the types of information we may
+collect or that you may provide when you purchase, download, install, register
+with, access, or use the itch.io application (the âappâ) or website (the
+âwebsiteâ and collectively with the app, the â **service** â). [CLS] [SEP] the
+policy also describes our practices for collecting, using, maintaining,
+protecting, and disclosing that information. [CLS] [SEP]
+
+we utilize payment processors who have their own privacy policies, which we
+encourage you to read their privacy policies before providing information on
+or through them. [CLS] [SEP]
+
+please read this policy carefully to understand our policies and practices
+regarding your information and how we will treat your information. [CLS] [SEP] if you do
+not agree with our policies and practices, please do not download, register
+with, or use this service. [CLS] [SEP] by downloading, registering with, or using this
+service, you agree to this privacy policy. [CLS] [SEP] this policy may change from time to
+time, with updates appearing on the website and on the app. [CLS] [SEP] your continued use
+of this service after we make changes is deemed to be acceptance of those
+changes, so please check the policy periodically for updates. [CLS] [SEP]
+
+## children under the age of 13
+
+the service is not intended for children under 13 years of age, and we do not
+knowingly collect personal information from children under 13. [CLS] [SEP] if we learn we
+have collected or received personal information from a child under 13 without
+verification of parental consent, we will delete that information. [CLS] [SEP] if you
+believe we might have any information from or about a child under 13, please
+contact us at [support@itch.io](https://itch.io/support). [CLS] [SEP]
+
+## information we collect and how we collect it
+
+we collect information from and about users of our service:
+
+  1. [CLS] [SEP] directly from you when you provide it to us. [CLS] [SEP]
+  2. [CLS] [SEP] automatically when you use certain parts of the service. [CLS] [SEP]
+
+## information you provide to us
+
+when you download, register with, or use this service, we may ask you provide
+information:
+
+  1. [CLS] [SEP] by which you may be personally identified, such as your name, postal address, email address, telephone number, payment service provider account information, and any other identifier by which you may be contacted online or offline (â **personal information** â). [CLS] [SEP]
+  2. [CLS] [SEP] information that you provide by filling in forms in the service. [CLS] [SEP] this includes information provided at the time of registering to use the service, posting material, comments or content, and if you request further services from itch.io. [CLS] [SEP] we may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with the service. [CLS] [SEP]
+  3. [CLS] [SEP] records and copies of your correspondence (including email addresses and/or phone numbers), if you contact us. [CLS] [SEP]
+  4. [CLS] [SEP] your responses to surveys that we might ask you to complete for research purposes. [CLS] [SEP]
+  5. [CLS] [SEP] details of transactions you carry out through the service and of the fulfillment of your orders. [CLS] [SEP] you may be required to provide financial information with a payment service provider before placing an order through the service. [CLS] [SEP] we only hold onto a portion of your payment information for fraud detection purposes. [CLS] [SEP]
+
+you may provide information to be published or displayed (â **posted** â)
+on public areas of our service (collectively, â **user contributions** â). [CLS] [SEP]
+your user contributions are posted and transmitted to others at your own risk. [CLS] [SEP]
+although you may set certain privacy settings for such information by logging
+into your account profile, please be aware that no security measures are
+perfect or impenetrable. [CLS] [SEP] additionally, we cannot control the actions of third
+parties with whom you may choose to share your user contributions or view on
+the service. [CLS] [SEP]
+
+## automatic information collection and tracking
+
+when you download, access, and use the service, it may use technology to
+automatically collect:
+
+  1. [CLS] [SEP] **usage details.** when you access and use the service, we may automatically collect certain details of your access to and use of the service, including traffic data, location data, logs, and other communication data and the resources that you access and use on or through the service. [CLS] [SEP]
+  2. [CLS] [SEP] **device information.** we may collect information about your accessing device and internet connection, including the userâs ip address, and browser type. [CLS] [SEP]
+
+## information collection and tracking technologies
+
+the technologies we use for automatic information collection may include:
+
+  1. [CLS] [SEP] **cookies.** a cookie is a small file placed on your device. [CLS] [SEP] it may be possible to refuse to accept cookies by activating the appropriate setting on your device. [CLS] [SEP] however, if you select this setting you may be unable to access certain parts of our service. [CLS] [SEP] we utilize google analytics in our data collection. [CLS] [SEP]
+  2. [CLS] [SEP] **web beacons.** pages of the service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit itch.io, for example, to count users who have visited those pages or opened an email and for other related service statistics (for example, recording the popularity of certain app content and verifying system and server integrity). [CLS] [SEP]
+
+## third-party information collection
+
+when you use the service or its content, certain third parties may use
+automatic information collection technologies to collect information about
+you. [CLS] [SEP] these third parties may include:
+
+  1. [CLS] [SEP] social media services like twitter, twitch, or facebook, when you link your accounts to itch.io. [CLS] [SEP]
+  2. [CLS] [SEP] analytics companies like google analytics. [CLS] [SEP]
+  3. [CLS] [SEP] payment providers like stripe and paypal. [CLS] [SEP]
+
+these third parties may use tracking technologies to collect information about
+you when you use this service. [CLS] [SEP] the information they collect may be associated
+with your personal information or they may collect information, including
+personal information, about your online activities over time and across
+different websites, apps, and other online services websites. [CLS] [SEP] they might use
+this information to provide you with interest-based (behavioral) advertising
+or other targeted content. [CLS] [SEP]
+
+we do not control these third partiesâ tracking technologies or how they may
+be used. [CLS] [SEP] if you have any questions about an advertisement or other targeted
+content, you should contact the responsible provider directly. [CLS] [SEP]
+
+## how we use your information
+
+we use information that we collect about you or that you provide to us,
+including any personal information, to:
+
+  1. [CLS] [SEP] provide you with the service and its contents, and any other information, products or services that you request from us. [CLS] [SEP]
+  2. [CLS] [SEP] fulfill any other purpose for which you provide it. [CLS] [SEP]
+  3. [CLS] [SEP] give you notices about your account. [CLS] [SEP]
+  4. [CLS] [SEP] carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection. [CLS] [SEP]
+  5. [CLS] [SEP] notify you when service updates are available, and of changes to any products or services we offer or provide though it. [CLS] [SEP]
+  6. [CLS] [SEP] improve our service experience and efficiency. [CLS] [SEP]
+
+the usage information we collect helps us to improve our service and to
+deliver a better and more personalized experience by enabling us to:
+
+  1. [CLS] [SEP] estimate our audience size and usage patterns. [CLS] [SEP]
+  2. [CLS] [SEP] store information about your preferences, allowing us to customize our service according to your individual interests. [CLS] [SEP]
+  3. [CLS] [SEP] speed up your searches. [CLS] [SEP]
+  4. [CLS] [SEP] suggest other content which may be of interest to you. [CLS] [SEP]
+  5. [CLS] [SEP] recognize you when you use the service. [CLS] [SEP]
+
+## disclosure of your information
+
+we do not intend to sell or market your personal information, however, through
+providing the service we may disclose aggregated information about our users
+in order to deliver the service, including for the following:
+
+  1. [CLS] [SEP] to contractors, service providers, and other third parties we use to support our business, and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them. [CLS] [SEP]
+  2. [CLS] [SEP] to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of itch.ioâs assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by itch.io about our service users is among the assets transferred. [CLS] [SEP]
+  3. [CLS] [SEP] to fulfill the purpose for which you provide it (for example, if you give us a social media account handle to use social sharing features of our service, we will transmit the contents of that request to the recipients.). [CLS] [SEP]
+  4. [CLS] [SEP] for any other purpose disclosed by us when you provide the information. [CLS] [SEP]
+  5. [CLS] [SEP] with your consent. [CLS] [SEP]
+  6. [CLS] [SEP] to comply with any court order, law, or legal process, including to respond to any government or regulatory request;
+  7. [CLS] [SEP] to enforce our rights arising from any contracts entered into between you and us, including the itch.io terms of service, and for billing and collection. [CLS] [SEP]
+  8. [CLS] [SEP] if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of itch.io, our customers or others. [CLS] [SEP] this includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. [CLS] [SEP]
+
+## your choices about our collection, use, and disclosure of your information
+
+we aim to provide you with choices regarding the personal information you
+provide to us. [CLS] [SEP] this section describes mechanisms we provide for you to control
+certain uses and disclosures of your information. [CLS] [SEP]
+
+  1. [CLS] [SEP] **tracking technologies.** you can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. [CLS] [SEP] you can choose whether or not to allow the service to collect information through other tracking technologies by selecting to opt out via your online account. [CLS] [SEP] if you disable or refuse cookies or block the use of other tracking technologies, some parts of the service may then be inaccessible or not function properly. [CLS] [SEP]
+  2. [CLS] [SEP] **promotion by the company.** if you do not want us to use your email address to promote our own or third partiesâ products or services, you can opt-out by de-selecting the option in âemail notificationsâ in your user account. [CLS] [SEP] you can also always opt-out by logging into the service and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes. [CLS] [SEP] [we may reserve the right to send you emails about important or necessary changes to your account or service, for example, to inform you of payment issues or copyright claims about your content.]
+
+## accessing and correcting your personal information
+
+you can review and change your personal information by logging into the
+service and visiting your account settings page. [CLS] [SEP] the [data
+export](https://itch.io/user/settings/data-export) tool can be used to
+download all data you have explicitly provided and the data we've
+automatically collected on your user account. [CLS] [SEP]
+
+you may also send us an email at [support@itch.io](https://itch.io/support) to
+request access to, correct, port, delete, or restrict use of any personal
+information that you have provided to us. [CLS] [SEP] we cannot delete all of your
+personal information except by also deleting your user account. [CLS] [SEP] we may not
+accommodate a request to change information if we believe the change would
+violate any law or legal requirement or cause the information to be incorrect. [CLS] [SEP]
+
+if you delete your user contributions from the service, copies of your user
+contributions may remain viewable in cached and archived pages, or might have
+been copied or stored by other service users. [CLS] [SEP] proper access and use of
+information provided on the service, including user contributions, is governed
+by our terms of use, available at <https://itch.io/docs/legal/terms>. [CLS] [SEP]
+
+## your california privacy rights
+
+california civil code section 1798.83 permits users of our service that are
+california residents to request certain information regarding our disclosure
+of personal information to third parties for their direct marketing purposes. [CLS] [SEP]
+to make such a request, please send an email to
+[support@itch.io](https://itch.io/support). [CLS] [SEP]
+
+## eu users
+
+if you are using the service from the european union (âeuâ) or other
+regions with laws governing data collection and use that may differ from eu or
+united states law, please note that you may be transferring your personal
+information to itch.io in the united states for the purposes described under
+this privacy policy. [CLS] [SEP] the legal basis we rely on to use your personal
+information is as follows:
+
+  * performance of a contract. [CLS] [SEP] your personal information is necessary to perform the terms and conditions or other policies under which we provide our services. [CLS] [SEP]
+  * consent. [CLS] [SEP] we rely upon your consent to use (i) technical information such as cookie data and ip geo-location data; and (ii) your personal information for marketing purposes. [CLS] [SEP] you may withdraw your consent at any time by contacting us at [support@itch.io](https://itch.io/support), or by using the unsubscribe link in any marketing communication you receive from us. [CLS] [SEP]
+  * legitimate interests. [CLS] [SEP] we may use your personal information for our legitimate interests to improve our services, security purposes, fraud prevention, and for internal administration. [CLS] [SEP]
+
+## data security
+
+we have implemented measures designed to secure your personal information from
+accidental loss and from unauthorized access, use, alteration, and disclosure. [CLS] [SEP]
+all information you provide to us is stored on our secure servers behind
+firewalls. [CLS] [SEP] any payment transactions will be encrypted using ssl technology. [CLS] [SEP]
+
+the safety and security of your information also depends on you. [CLS] [SEP] where you
+have chosen a password for access to certain parts of our service, you are
+responsible for keeping this password confidential. [CLS] [SEP] we ask you not to share
+your password with anyone. [CLS] [SEP] please be careful about giving out information in
+public areas of the service, like comment sections. [CLS] [SEP] the information you share
+in public areas may be viewed by any user of the service. [CLS] [SEP]
+
+unfortunately, the transmission of information via the internet and mobile
+platforms is not completely secure. [CLS] [SEP] although we try to protect your personal
+information, we cannot guarantee the security of your personal information
+transmitted through our service. [CLS] [SEP] any transmission of personal information is
+at your own risk. [CLS] [SEP] we are not responsible for circumvention of any privacy
+settings or security measures we provide. [CLS] [SEP]
+
+## changes to our privacy policy
+
+we may update our privacy policy from time to time. [CLS] [SEP] if we make material
+changes to how we treat our usersâ personal information, we will post the
+new privacy policy on this page with a notice that the privacy policy has been
+updated and notify you by email specified in your account and an in-app alert
+the first time you use the service after we make the change. [CLS] [SEP]
+
+the date the privacy policy was last revised is identified at the top of the
+page. [CLS] [SEP] you are responsible for ensuring we have an up-to-date active and
+deliverable email address for you and for periodically visiting this privacy
+policy to check for any changes. [CLS] [SEP]
+
+## contact information
+
+to ask questions or comment about this privacy policy and our privacy
+practices, contact us at: [support@itch.io](https://itch.io/support)
+
+follow itch.io on [twitter](https://twitter.com/itchio) or
+[facebook](https://facebook.com/itchiogames) for new games and site features. [CLS] [SEP]
+
+[tweet](https://twitter.com/share?url=https%3a%2f%2fitch.io%2fdocs%2flegal%2fprivacy-
+policy&text=itch.io%20-%20indie%20game%20hosting%20%26%20marketplace)
+
+[](http://twitter.com/itchio)[](http://facebook.com/itchiogames)
+
+[about](/docs/general/about)[faq](/docs/general/faq)[blog](/blog)[contact
+us](/support)
+
+copyright â© 2021 itch corp â· [directory](/directory) â·
+[terms](/docs/legal/terms) â· [privacy](/docs/legal/privacy-policy) â·
+[cookies](/docs/legal/cookie-policy)
+

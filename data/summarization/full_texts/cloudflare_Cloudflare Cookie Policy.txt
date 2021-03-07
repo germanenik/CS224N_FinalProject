@@ -1,0 +1,687 @@
+[sales:](/plans/enterprise/contact/) [+1 650 319 8930](tel:+16503198930) [+1
+650 319 8930](tel:+16503198930) | support
+
+  * [contact support](https://dash.cloudflare.com/?to=/:account/support)
+  * [help center](https://support.cloudflare.com/)
+  * [cloudflare community](https://community.cloudflare.com/)
+
+| my account
+
+  * [my profile](https://dash.cloudflare.com/profile)
+  * [account home](https://dash.cloudflare.com/?to=/:account/)
+  * [billing](https://dash.cloudflare.com/?to=/:account/billing)
+  * [secure remote employees with cloudflare](/teams)
+
+| english
+
+  * [english](https://www.cloudflare.com/en-us/cookie-policy/)
+  * [english (united kingdom)](https://www.cloudflare.com/en-gb/cookie-policy/)
+  * [english (canada)](https://www.cloudflare.com/en-ca/cookie-policy/)
+  * [english (australia)](https://www.cloudflare.com/en-au/cookie-policy/)
+  * [english (india)](https://www.cloudflare.com/en-in/cookie-policy/)
+  * [deutsch](https://www.cloudflare.com/de-de/cookie-policy/)
+  * [español (españa)](https://www.cloudflare.com/es-es/cookie-policy/)
+  * [español (latinoamérica)](https://www.cloudflare.com/es-la/cookie-policy/)
+  * [français](https://www.cloudflare.com/fr-fr/cookie-policy/)
+  * [italiano](https://www.cloudflare.com/it-it/cookie-policy/)
+  * [日本語](https://www.cloudflare.com/ja-jp/cookie-policy/)
+  * [한국어](https://www.cloudflare.com/ko-kr/cookie-policy/)
+  * [português](https://www.cloudflare.com/pt-br/cookie-policy/)
+  * [繁體中文](https://www.cloudflare.com/zh-tw/cookie-policy/)
+  * [简体中文](https://www.cloudflare.com/zh-cn/cookie-policy/)
+
+[support](https://support.cloudflare.com/) |
+[sales:](/plans/enterprise/contact/) [+1 650 319 8930](tel:+16503198930) [+1
+650 319 8930](tel:+16503198930) | english ▶▼
+
+  * [english](https://www.cloudflare.com/en-us/cookie-policy/)
+  * [english (united kingdom)](https://www.cloudflare.com/en-gb/cookie-policy/)
+  * [english (canada)](https://www.cloudflare.com/en-ca/cookie-policy/)
+  * [english (australia)](https://www.cloudflare.com/en-au/cookie-policy/)
+  * [english (india)](https://www.cloudflare.com/en-in/cookie-policy/)
+  * [deutsch](https://www.cloudflare.com/de-de/cookie-policy/)
+  * [español (españa)](https://www.cloudflare.com/es-es/cookie-policy/)
+  * [español (latinoamérica)](https://www.cloudflare.com/es-la/cookie-policy/)
+  * [français](https://www.cloudflare.com/fr-fr/cookie-policy/)
+  * [italiano](https://www.cloudflare.com/it-it/cookie-policy/)
+  * [日本語](https://www.cloudflare.com/ja-jp/cookie-policy/)
+  * [한국어](https://www.cloudflare.com/ko-kr/cookie-policy/)
+  * [português](https://www.cloudflare.com/pt-br/cookie-policy/)
+  * [繁體中文](https://www.cloudflare.com/zh-tw/cookie-policy/)
+  * [简体中文](https://www.cloudflare.com/zh-cn/cookie-policy/)
+
+[ ![cloudflare](/img/logo-cloudflare-dark.svg) ![cloudflare](/img/logo-
+cloudflare.svg) ](/)
+
+  * solutions 
+  * products 
+  * documentation 
+  * resources 
+  * partners 
+  * [ for enterprise ](/enterprise/)
+  * pricing 
+
+  * [ log in ](https://dash.cloudflare.com/login)
+  * [ sign up ](https://dash.cloudflare.com/sign-up)
+  * under attack?
+
+solutions deliver superior online experiences [mitigate ddos attacks](/ddos/)
+[stop malicious bot abuse](/products/bot-management/) [accelerate internet
+applications](/performance/accelerate-internet-applications/) [ensure
+application availability](/performance/ensure-application-availability/)
+[optimize web experiences](/website-optimization/) [stream videos on-
+demand](/products/cloudflare-stream/) secure employee applications and devices
+[deliver zero trust access to applications](/teams-access/) [implement secure
+access service edge (sase)](/teams-sase/) [protect users accessing the
+internet](/teams-gateway/) [protect corporate networks](/teams/) [manage
+secure contractor access](/teams/third-party-access/) [replace virtual private
+networks (vpns)](/teams/vpn-replacement/) [secure your remote
+workforce](/teams/remote-workforces/) [stop zero day attacks with browser
+isolation](/teams/browser-isolation/)   protect and accelerate networks
+[mitigate l3 ddos attacks](/magic-transit/) [connect network infrastructure
+with cloudflare](/network-interconnect/) [transform corporate
+networks](/cloudflare-one/) code on the network edge [build a serverless
+application](https://workers.cloudflare.com) [deploy a static
+website](https://workers.cloudflare.com/sites) [configure a
+cdn](https://developers.cloudflare.com/workers/tutorials/configure-your-cdn)
+[define conditional request
+routing](https://developers.cloudflare.com/workers/templates/pages/conditional_response/)
+manage a secure cloud [secure hybrid, cloud, & saas platforms](/multi-cloud/)
+[enable ssl for saas applications](/ssl-for-saas-providers/) [reduce cloud
+data transfer costs](/bandwidth-alliance/) register a website [register or
+transfer a website](/products/registrar/) industries [ecommerce](/ecommerce/)
+[financial services](/financial-services/) [gaming](/gaming/) [healthcare and
+life sciences](/healthcare/) [media and entertainment](/media-and-
+entertainment/) [public sector](/public-sector/) [saas](/saas/) public
+interest [election campaigns](/campaigns/) [athenian project](/athenian/)
+[project galileo](/galileo/) [project fair shot](/fair-shot/) for
+infrastructure application & network security [ddos protection](/ddos/)
+[waf](/waf/) [bot management](/products/bot-management/) [magic
+transit](/magic-transit/) [rate limiting](/rate-limiting/) [ssl / tls](/ssl/)
+[cloudflare spectrum](/products/cloudflare-spectrum/) [network
+interconnect](/network-interconnect/) performance & reliability [cdn](/cdn/)
+[dns](/dns/) [argo smart routing](/products/argo-smart-routing/) [load
+balancing](/load-balancing/) [stream delivery](/products/stream-delivery/)
+[china network](/network/china/) [waiting room](/waiting-room/) for teams
+[cloudflare for teams](/teams-home/) [access](/teams-access/)
+[gateway](/teams-gateway/) [browser isolation](/teams/browser-isolation/) for
+developers serverless applications [cloudflare workers](/products/cloudflare-
+workers/) [cloudflare workers kv](/products/workers-kv/) domain registration
+[cloudflare registrar](/products/registrar/) website development [cloudflare
+pages](https://pages.cloudflare.com/) [cloudflare
+stream](/products/cloudflare-stream/) for everyone [1.1.1.1](https://1.1.1.1)
+[1.1.1.1 with warp (app)](https://blog.cloudflare.com/1111-warp-better-vpn/)
+[1.1.1.1 for families](https://blog.cloudflare.com/introducing-1-1-1-1-for-
+families/) insights [analytics](/analytics/) [cloudflare
+logs](/products/cloudflare-logs/) [web analytics](/web-analytics/) [cloudflare
+radar](https://radar.cloudflare.com/) privacy [data localization](/data-
+localization/) [compliance](/privacy-and-compliance/) for infrastructure
+advanced security [bot management](https://support.cloudflare.com/hc/en-
+us/articles/360027519452-understanding-cloudflare-bot-management) [firewall
+rules](https://developers.cloudflare.com/firewall/) [magic
+transit](https://developers.cloudflare.com/magic-transit/) [spectrum
+(tcp/udp)](https://developers.cloudflare.com/spectrum/)
+[ssl](https://developers.cloudflare.com/ssl/)
+[waf](https://developers.cloudflare.com/waf/) performance & reliability
+[cdn](https://support.cloudflare.com/hc/en-
+us/articles/200172516-understanding-cloudflare-s-cdn) [dns](/dns/) [image
+resizing](https://developers.cloudflare.com/images/) [load
+balancing](https://developers.cloudflare.com/load-balancing) [stream
+(video)](https://developers.cloudflare.com/stream/)   insights
+[analytics](https://developers.cloudflare.com/analytics/)
+[](https://developers.cloudflare.com/logs/) domain registration
+[registrar](https://developers.cloudflare.com/registrar/) for serverless
+applications [workers quick
+start](https://developers.cloudflare.com/workers/quickstart) [cloudflare
+pages](https://developers.cloudflare.com/pages/) [sample workers
+projects](https://developers.cloudflare.com/workers/templates/) [workers
+tutorials](https://developers.cloudflare.com/workers/tutorials) [command-line
+(wrangler)](https://developers.cloudflare.com/workers/tooling/wrangler)
+[runtime](https://developers.cloudflare.com/workers/reference/apis) for teams
+[cloudflare for teams](https://developers.cloudflare.com/cloudflare-one/)
+explore cloudflare api [cloudflare api](https://api.cloudflare.com/) [api
+authentication](https://developers.cloudflare.com/api/) documentation hub [dev
+documentation hub](https://developers.cloudflare.com/) resources [resource
+hub](/resource-hub/) [whitepapers](/resource-hub/?resourcetype=whitepaper)
+[webinars](/webinars/) [solutions & product guides](/resource-
+hub/?resourcetype=solution+%26+product+guides) [case studies](/case-studies/)
+[analysts](/analysts/) explore [what's new?](/whats-new/) [network
+map](/network/) [cloudflare in china](/network/china/)
+[gdpr](/gdpr/introduction/) get started [register your
+website](/products/registrar/) [welcome center](/welcome-center/) [get
+help](https://support.cloudflare.com) learn [learning center](/learning/)
+[security](/learning/security/what-is-web-application-security/)
+[ddos](/learning/ddos/what-is-a-ddos-attack/) [bot
+management](/learning/bots/what-is-a-bot/) [ssl](/learning/ssl/what-is-ssl/)
+[identity and access management](/learning/access-management/what-is-identity-
+and-access-management/) [performance](/learning/performance/why-site-speed-
+matters/) [cdn](/learning/cdn/what-is-a-cdn/) [dns](/learning/dns/what-is-
+dns/) [cloud](/learning/cloud/what-is-the-cloud/)
+[serverless](/learning/serverless/what-is-serverless/) [network
+layer](/learning/network-layer/what-is-the-network-layer/) connect
+[blog](https://blog.cloudflare.com)
+[community](https://community.cloudflare.com) compliance
+[gdpr](/gdpr/introduction/) [transparency report](/transparency/)
+[compliance](/privacy-and-compliance/) contact [+1 650 319
+8930](tel:+16503198930) channel & alliance partners [partner
+network](/partners/) [partner portal](https://portal.cloudflarepartners.com)
+technology partners [overview](/partners/technology-partners/) [analytics
+partners](/partners/analytics/) [bandwidth alliance](/bandwidth-alliance/)
+[interconnect partnerships](/network-interconnect-partnerships/) [peering
+portal](/partners/peering-portal/) pricing by plan [free](/plans/)
+[pro](/plans/pro/) [business](/plans/business/)
+[enterprise](/plans/enterprise/) compare and explore [need help choosing a
+plan?](/about-your-website/) [add ons](/plans/#addons) [compare all
+plans](/plans/)
+
+  * solutions
+solutions deliver superior online experiences [mitigate ddos attacks](/ddos/)
+[stop malicious bot abuse](/products/bot-management/) [accelerate internet
+applications](/performance/accelerate-internet-applications/) [ensure
+application availability](/performance/ensure-application-availability/)
+[optimize web experiences](/website-optimization/) [stream videos on-
+demand](/products/cloudflare-stream/) secure employee applications and devices
+[deliver zero trust access to applications](/teams-access/) [implement secure
+access service edge (sase)](/teams-sase/) [protect users accessing the
+internet](/teams-gateway/) [protect corporate networks](/teams/) [manage
+secure contractor access](/teams/third-party-access/) [replace virtual private
+networks (vpns)](/teams/vpn-replacement/) [secure your remote
+workforce](/teams/remote-workforces/) [stop zero day attacks with browser
+isolation](/teams/browser-isolation/)   protect and accelerate networks
+[mitigate l3 ddos attacks](/magic-transit/) [connect network infrastructure
+with cloudflare](/network-interconnect/) [transform corporate
+networks](/cloudflare-one/) code on the network edge [build a serverless
+application](https://workers.cloudflare.com) [deploy a static
+website](https://workers.cloudflare.com/sites) [configure a
+cdn](https://developers.cloudflare.com/workers/tutorials/configure-your-cdn)
+[define conditional request
+routing](https://developers.cloudflare.com/workers/templates/pages/conditional_response/)
+manage a secure cloud [secure hybrid, cloud, & saas platforms](/multi-cloud/)
+[enable ssl for saas applications](/ssl-for-saas-providers/) [reduce cloud
+data transfer costs](/bandwidth-alliance/) register a website [register or
+transfer a website](/products/registrar/) industries [ecommerce](/ecommerce/)
+[financial services](/financial-services/) [gaming](/gaming/) [healthcare and
+life sciences](/healthcare/) [media and entertainment](/media-and-
+entertainment/) [public sector](/public-sector/) [saas](/saas/) public
+interest [election campaigns](/campaigns/) [athenian project](/athenian/)
+[project galileo](/galileo/) [project fair shot](/fair-shot/)
+
+  * products
+for infrastructure application & network security [ddos protection](/ddos/)
+[waf](/waf/) [bot management](/products/bot-management/) [magic
+transit](/magic-transit/) [rate limiting](/rate-limiting/) [ssl / tls](/ssl/)
+[cloudflare spectrum](/products/cloudflare-spectrum/) [network
+interconnect](/network-interconnect/) performance & reliability [cdn](/cdn/)
+[dns](/dns/) [argo smart routing](/products/argo-smart-routing/) [load
+balancing](/load-balancing/) [stream delivery](/products/stream-delivery/)
+[china network](/network/china/) [waiting room](/waiting-room/) for teams
+[cloudflare for teams](/teams-home/) [access](/teams-access/)
+[gateway](/teams-gateway/) [browser isolation](/teams/browser-isolation/) for
+developers serverless applications [cloudflare workers](/products/cloudflare-
+workers/) [cloudflare workers kv](/products/workers-kv/) domain registration
+[cloudflare registrar](/products/registrar/) website development [cloudflare
+pages](https://pages.cloudflare.com/) [cloudflare
+stream](/products/cloudflare-stream/) for everyone [1.1.1.1](https://1.1.1.1)
+[1.1.1.1 with warp (app)](https://blog.cloudflare.com/1111-warp-better-vpn/)
+[1.1.1.1 for families](https://blog.cloudflare.com/introducing-1-1-1-1-for-
+families/) insights [analytics](/analytics/) [cloudflare
+logs](/products/cloudflare-logs/) [web analytics](/web-analytics/) [cloudflare
+radar](https://radar.cloudflare.com/) privacy [data localization](/data-
+localization/) [compliance](/privacy-and-compliance/)
+
+  * documentation
+for infrastructure advanced security [bot
+management](https://support.cloudflare.com/hc/en-
+us/articles/360027519452-understanding-cloudflare-bot-management) [firewall
+rules](https://developers.cloudflare.com/firewall/) [magic
+transit](https://developers.cloudflare.com/magic-transit/) [spectrum
+(tcp/udp)](https://developers.cloudflare.com/spectrum/)
+[ssl](https://developers.cloudflare.com/ssl/)
+[waf](https://developers.cloudflare.com/waf/) performance & reliability
+[cdn](https://support.cloudflare.com/hc/en-
+us/articles/200172516-understanding-cloudflare-s-cdn) [dns](/dns/) [image
+resizing](https://developers.cloudflare.com/images/) [load
+balancing](https://developers.cloudflare.com/load-balancing) [stream
+(video)](https://developers.cloudflare.com/stream/)   insights
+[analytics](https://developers.cloudflare.com/analytics/)
+[](https://developers.cloudflare.com/logs/) domain registration
+[registrar](https://developers.cloudflare.com/registrar/) for serverless
+applications [workers quick
+start](https://developers.cloudflare.com/workers/quickstart) [cloudflare
+pages](https://developers.cloudflare.com/pages/) [sample workers
+projects](https://developers.cloudflare.com/workers/templates/) [workers
+tutorials](https://developers.cloudflare.com/workers/tutorials) [command-line
+(wrangler)](https://developers.cloudflare.com/workers/tooling/wrangler)
+[runtime](https://developers.cloudflare.com/workers/reference/apis) for teams
+[cloudflare for teams](https://developers.cloudflare.com/cloudflare-one/)
+explore cloudflare api [cloudflare api](https://api.cloudflare.com/) [api
+authentication](https://developers.cloudflare.com/api/) documentation hub [dev
+documentation hub](https://developers.cloudflare.com/)
+
+  * resources
+resources [resource hub](/resource-hub/) [whitepapers](/resource-
+hub/?resourcetype=whitepaper) [webinars](/webinars/) [solutions & product
+guides](/resource-hub/?resourcetype=solution+%26+product+guides) [case
+studies](/case-studies/) [analysts](/analysts/) explore [what's new?](/whats-
+new/) [network map](/network/) [cloudflare in china](/network/china/)
+[gdpr](/gdpr/introduction/) get started [register your
+website](/products/registrar/) [welcome center](/welcome-center/) [get
+help](https://support.cloudflare.com) learn [learning center](/learning/)
+[security](/learning/security/what-is-web-application-security/)
+[ddos](/learning/ddos/what-is-a-ddos-attack/) [bot
+management](/learning/bots/what-is-a-bot/) [ssl](/learning/ssl/what-is-ssl/)
+[identity and access management](/learning/access-management/what-is-identity-
+and-access-management/) [performance](/learning/performance/why-site-speed-
+matters/) [cdn](/learning/cdn/what-is-a-cdn/) [dns](/learning/dns/what-is-
+dns/) [cloud](/learning/cloud/what-is-the-cloud/)
+[serverless](/learning/serverless/what-is-serverless/) [network
+layer](/learning/network-layer/what-is-the-network-layer/) connect
+[blog](https://blog.cloudflare.com)
+[community](https://community.cloudflare.com) compliance
+[gdpr](/gdpr/introduction/) [transparency report](/transparency/)
+[compliance](/privacy-and-compliance/) contact [+1 650 319
+8930](tel:+16503198930)
+
+  * partners
+channel & alliance partners [partner network](/partners/) [partner
+portal](https://portal.cloudflarepartners.com) technology partners
+[overview](/partners/technology-partners/) [analytics
+partners](/partners/analytics/) [bandwidth alliance](/bandwidth-alliance/)
+[interconnect partnerships](/network-interconnect-partnerships/) [peering
+portal](/partners/peering-portal/)
+
+  * [for enterprise](/enterprise/)
+  * pricing
+pricing by plan [free](/plans/) [pro](/plans/pro/)
+[business](/plans/business/) [enterprise](/plans/enterprise/) compare and
+explore [need help choosing a plan?](/about-your-website/) [add
+ons](/plans/#addons) [compare all plans](/plans/)
+
+  * support
+[contact support](https://dash.cloudflare.com/?to=/:account/support) [help
+center](https://support.cloudflare.com/) [cloudflare
+community](https://community.cloudflare.com/)
+
+  * my account
+[my profile](https://dash.cloudflare.com/profile) [account
+home](https://dash.cloudflare.com/?to=/:account/)
+[billing](https://dash.cloudflare.com/?to=/:account/billing) [secure remote
+employees with cloudflare](/teams/)
+
+  * english 
+    * [ english (united kingdom) ](https://www.cloudflare.com/en-gb/)
+    * [ english (canada) ](https://www.cloudflare.com/en-ca/)
+    * [ english (australia) ](https://www.cloudflare.com/en-au/)
+    * [ english (india) ](https://www.cloudflare.com/en-in/)
+    * [ deutsch ](https://www.cloudflare.com/de-de/)
+    * [ español (españa) ](https://www.cloudflare.com/es-es/)
+    * [ español (latinoamérica) ](https://www.cloudflare.com/es-la/)
+    * [ français ](https://www.cloudflare.com/fr-fr/)
+    * [ italiano ](https://www.cloudflare.com/it-it/)
+    * [ 日本語 ](https://www.cloudflare.com/ja-jp/)
+    * [ 한국어 ](https://www.cloudflare.com/ko-kr/)
+    * [ português ](https://www.cloudflare.com/pt-br/)
+    * [ 繁體中文 ](https://www.cloudflare.com/zh-tw/)
+    * [ 简体中文 ](https://www.cloudflare.com/zh-cn/)
+[log in](https://dash.cloudflare.com/login) [sign
+up](https://dash.cloudflare.com/sign-up)
+
+  * under attack?
+
+solutions deliver superior online experiences [mitigate ddos attacks](/ddos/)
+[stop malicious bot abuse](/products/bot-management/) [accelerate internet
+applications](/performance/accelerate-internet-applications/) [ensure
+application availability](/performance/ensure-application-availability/)
+[optimize web experiences](/website-optimization/) [stream videos on-
+demand](/products/cloudflare-stream/) secure employee applications and devices
+[deliver zero trust access to applications](/teams-access/) [implement secure
+access service edge (sase)](/teams-sase/) [protect users accessing the
+internet](/teams-gateway/) [protect corporate networks](/teams/) [manage
+secure contractor access](/teams/third-party-access/) [replace virtual private
+networks (vpns)](/teams/vpn-replacement/) [secure your remote
+workforce](/teams/remote-workforces/) [stop zero day attacks with browser
+isolation](/teams/browser-isolation/)   protect and accelerate networks
+[mitigate l3 ddos attacks](/magic-transit/) [connect network infrastructure
+with cloudflare](/network-interconnect/) [transform corporate
+networks](/cloudflare-one/) code on the network edge [build a serverless
+application](https://workers.cloudflare.com) [deploy a static
+website](https://workers.cloudflare.com/sites) [configure a
+cdn](https://developers.cloudflare.com/workers/tutorials/configure-your-cdn)
+[define conditional request
+routing](https://developers.cloudflare.com/workers/templates/pages/conditional_response/)
+manage a secure cloud [secure hybrid, cloud, & saas platforms](/multi-cloud/)
+[enable ssl for saas applications](/ssl-for-saas-providers/) [reduce cloud
+data transfer costs](/bandwidth-alliance/) register a website [register or
+transfer a website](/products/registrar/) industries [ecommerce](/ecommerce/)
+[financial services](/financial-services/) [gaming](/gaming/) [healthcare and
+life sciences](/healthcare/) [media and entertainment](/media-and-
+entertainment/) [public sector](/public-sector/) [saas](/saas/) public
+interest [election campaigns](/campaigns/) [athenian project](/athenian/)
+[project galileo](/galileo/) [project fair shot](/fair-shot/) for
+infrastructure application & network security [ddos protection](/ddos/)
+[waf](/waf/) [bot management](/products/bot-management/) [magic
+transit](/magic-transit/) [rate limiting](/rate-limiting/) [ssl / tls](/ssl/)
+[cloudflare spectrum](/products/cloudflare-spectrum/) [network
+interconnect](/network-interconnect/) performance & reliability [cdn](/cdn/)
+[dns](/dns/) [argo smart routing](/products/argo-smart-routing/) [load
+balancing](/load-balancing/) [stream delivery](/products/stream-delivery/)
+[china network](/network/china/) [waiting room](/waiting-room/) for teams
+[cloudflare for teams](/teams-home/) [access](/teams-access/)
+[gateway](/teams-gateway/) [browser isolation](/teams/browser-isolation/) for
+developers serverless applications [cloudflare workers](/products/cloudflare-
+workers/) [cloudflare workers kv](/products/workers-kv/) domain registration
+[cloudflare registrar](/products/registrar/) website development [cloudflare
+pages](https://pages.cloudflare.com/) [cloudflare
+stream](/products/cloudflare-stream/) for everyone [1.1.1.1](https://1.1.1.1)
+[1.1.1.1 with warp (app)](https://blog.cloudflare.com/1111-warp-better-vpn/)
+[1.1.1.1 for families](https://blog.cloudflare.com/introducing-1-1-1-1-for-
+families/) insights [analytics](/analytics/) [cloudflare
+logs](/products/cloudflare-logs/) [web analytics](/web-analytics/) [cloudflare
+radar](https://radar.cloudflare.com/) privacy [data localization](/data-
+localization/) [compliance](/privacy-and-compliance/) for infrastructure
+advanced security [bot management](https://support.cloudflare.com/hc/en-
+us/articles/360027519452-understanding-cloudflare-bot-management) [firewall
+rules](https://developers.cloudflare.com/firewall/) [magic
+transit](https://developers.cloudflare.com/magic-transit/) [spectrum
+(tcp/udp)](https://developers.cloudflare.com/spectrum/)
+[ssl](https://developers.cloudflare.com/ssl/)
+[waf](https://developers.cloudflare.com/waf/) performance & reliability
+[cdn](https://support.cloudflare.com/hc/en-
+us/articles/200172516-understanding-cloudflare-s-cdn) [dns](/dns/) [image
+resizing](https://developers.cloudflare.com/images/) [load
+balancing](https://developers.cloudflare.com/load-balancing) [stream
+(video)](https://developers.cloudflare.com/stream/)   insights
+[analytics](https://developers.cloudflare.com/analytics/)
+[](https://developers.cloudflare.com/logs/) domain registration
+[registrar](https://developers.cloudflare.com/registrar/) for serverless
+applications [workers quick
+start](https://developers.cloudflare.com/workers/quickstart) [cloudflare
+pages](https://developers.cloudflare.com/pages/) [sample workers
+projects](https://developers.cloudflare.com/workers/templates/) [workers
+tutorials](https://developers.cloudflare.com/workers/tutorials) [command-line
+(wrangler)](https://developers.cloudflare.com/workers/tooling/wrangler)
+[runtime](https://developers.cloudflare.com/workers/reference/apis) for teams
+[cloudflare for teams](https://developers.cloudflare.com/cloudflare-one/)
+explore cloudflare api [cloudflare api](https://api.cloudflare.com/) [api
+authentication](https://developers.cloudflare.com/api/) documentation hub [dev
+documentation hub](https://developers.cloudflare.com/) resources [resource
+hub](/resource-hub/) [whitepapers](/resource-hub/?resourcetype=whitepaper)
+[webinars](/webinars/) [solutions & product guides](/resource-
+hub/?resourcetype=solution+%26+product+guides) [case studies](/case-studies/)
+[analysts](/analysts/) explore [what's new?](/whats-new/) [network
+map](/network/) [cloudflare in china](/network/china/)
+[gdpr](/gdpr/introduction/) get started [register your
+website](/products/registrar/) [welcome center](/welcome-center/) [get
+help](https://support.cloudflare.com) learn [learning center](/learning/)
+[security](/learning/security/what-is-web-application-security/)
+[ddos](/learning/ddos/what-is-a-ddos-attack/) [bot
+management](/learning/bots/what-is-a-bot/) [ssl](/learning/ssl/what-is-ssl/)
+[identity and access management](/learning/access-management/what-is-identity-
+and-access-management/) [performance](/learning/performance/why-site-speed-
+matters/) [cdn](/learning/cdn/what-is-a-cdn/) [dns](/learning/dns/what-is-
+dns/) [cloud](/learning/cloud/what-is-the-cloud/)
+[serverless](/learning/serverless/what-is-serverless/) [network
+layer](/learning/network-layer/what-is-the-network-layer/) connect
+[blog](https://blog.cloudflare.com)
+[community](https://community.cloudflare.com) compliance
+[gdpr](/gdpr/introduction/) [transparency report](/transparency/)
+[compliance](/privacy-and-compliance/) contact [+1 650 319
+8930](tel:+16503198930) channel & alliance partners [partner
+network](/partners/) [partner portal](https://portal.cloudflarepartners.com)
+technology partners [overview](/partners/technology-partners/) [analytics
+partners](/partners/analytics/) [bandwidth alliance](/bandwidth-alliance/)
+[interconnect partnerships](/network-interconnect-partnerships/) [peering
+portal](/partners/peering-portal/) pricing by plan [free](/plans/)
+[pro](/plans/pro/) [business](/plans/business/)
+[enterprise](/plans/enterprise/) compare and explore [need help choosing a
+plan?](/about-your-website/) [add ons](/plans/#addons) [compare all
+plans](/plans/)
+
+## ddos protection hotline
+
+![success logo](/img/icon_check-white.svg)
+
+### thank you
+
+someone from cloudflare will be in touch with you shortly. [CLS] [SEP]
+
+  * contact us
+  * [help! i'm under attack!](/under-attack-hotline/)
+  * [email sales](/plans/enterprise/contact/)
+  * [support](https://support.cloudflare.com/)
+  * [1-888-993-5273](tel:18889935273)
+
+# cloudflare cookie policy
+
+_last updated: april 15, 2020_
+
+_this cloudflare cookie policy (“policy”) outlines the general policy,
+practices, and types of cookies that cloudflare, inc. [CLS] [SEP] (“cloudflare,” “we,”
+“us,” or “our”) may use to improve our services and your experience when
+visiting our websites. [CLS] [SEP] for the purposes of this policy, capitalized terms used
+but not defined in this policy have the meanings given in our[privacy
+policy](https://www.cloudflare.com/privacypolicy)._
+
+* * *
+
+our websites and services use cookies and other similar technologies
+(collectively in this policy, "cookies"), in order to provide a better service
+to you, to help keep your account safe, and to generally improve our websites
+and services. [CLS] [SEP] cookies perform essential functions, such as ensuring a webpage
+loads correctly and securely. [CLS] [SEP] they also help us provide you with a consistent
+and efficient experience. [CLS] [SEP] for example, we may use cookies to remember which
+language you prefer, to remember that you are a repeat visitor so we can
+direct you to the appropriate part of our websites, or to present you with
+services that are matched to your preferences. [CLS] [SEP]
+
+cookies are small pieces of text used to store information on web browsers. [CLS] [SEP]
+they are used by many websites to store and receive identifiers and other
+information on devices, such as a handheld phone or computer. [CLS] [SEP] you can learn
+more about cookies and their functions generally by visiting an information
+website such as [allaboutcookies.org](https://allaboutcookies.org). [CLS] [SEP]
+
+we also may include tracking pixels, which are small graphic images, in our
+marketing communications to determine engagement. [CLS] [SEP] these cookies may be set by
+us or by third parties with whom we have partnered to assist in our marketing
+efforts. [CLS] [SEP]
+
+we use four categories of cookies: strictly necessary, functional,
+performance, and targeting. [CLS] [SEP] strictly necessary cookies are required to deliver
+security and enable core site functionality and cannot be turned off. [CLS] [SEP] you may
+view a complete list of cookies and change your cookie preferences by clicking
+on the “cookie preferences” link in the footer of the cloudflare homepage at
+[cloudflare.com](https://www.cloudflare.com/). [CLS] [SEP]
+
+most web browsers are set to accept cookies by default, however, you may be
+able to delete cookies yourself through your browser’s cookie manager. [CLS] [SEP] to do
+so, please follow the instructions provided by your web browser. [CLS] [SEP] please note
+that disabling cookies will reset your session, disable auto-login, and may
+adversely affect the availability and functionality of our websites and the
+services we can provide to you. [CLS] [SEP]
+
+### strictly necessary cookies. [CLS] [SEP]
+
+strictly necessary cookies are essential to providing the cloudflare websites
+and services to you and cannot be turned off. [CLS] [SEP] they provide necessary security
+settings or help you use our websites’ features and services as expected
+(including remembering your cookie consent preferences). [CLS] [SEP] cloudflare places
+strictly necessary cookies both on cloudflare websites as well as on our
+customers’ websites. [CLS] [SEP]
+
+for example, when you visit our websites or our customers’ websites, as part
+of our services, we may place "_cfduid" cookies, bot detection cookies (such
+as "_cf_bm" and cookies for captcha), and a load balancing cookie (_cflb) on
+the computers of visitors to our websites and of our end users. [CLS] [SEP] we do this in
+order to identify malicious visitors to our websites and our customers’
+websites, to assist with web-traffic filtration, and to reduce the chance of
+blocking legitimate users. [CLS] [SEP] you can learn more about these cookies
+[here](https://support.cloudflare.com/hc/en-
+us/articles/200170156-understanding-the-cloudflare-cookies). [CLS] [SEP] you cannot turn
+off strictly necessary cookies. [CLS] [SEP]
+
+### functional cookies. [CLS] [SEP]
+
+functional cookies allow us to remember choices you make about the kind of
+experience you want on our websites and to provide you with a more
+personalized experience. [CLS] [SEP] for example, a functional cookie is required to
+remember which language you prefer. [CLS] [SEP] you may choose to opt out of these
+cookies, but if you do, various functions of the websites or services may be
+unavailable to you or may not work as intended. [CLS] [SEP]
+
+### performance. [CLS] [SEP]
+
+performance cookies help us learn how you use our websites to help improve
+their performance and design. [CLS] [SEP] these cookies provide us with aggregated
+statistical information such as number of page visits, page load speeds, how
+long a user spends on a particular page, and the types of browsers or devices
+used to access our websites. [CLS] [SEP] for example, we may use cookies to understand
+what pages you browsed before submitting a sales request form. [CLS] [SEP] you may opt out
+of these cookies through the cookie preferences link on cloudflare.com or
+through the links listed below. [CLS] [SEP]
+
+some of the performance cookies we use are:
+
+  * google analytics - tracks user behavior on the websites, which helps us better understand how users are using the websites. [CLS] [SEP] learn more at <https://www.google.com/policies/privacy/>, and to opt out, visit <http://tools.google.com/dlpage/gaoptout>. [CLS] [SEP]
+  * google tag manager - tracks user behavior on the websites, which helps us better understand how users are using the websites. [CLS] [SEP] learn more at <https://support.google.com/tagmanager/answer/6102821>?, and to opt out, visit <https://support.google.com/analytics/answer/7519794>. [CLS] [SEP]
+  * marketo (munchkin) - links visitor behavior on the websites to the recipient of an email marketing campaign to measure campaign effectiveness. [CLS] [SEP] learn more at <http://legal.marketo.com/cookies/>, and to out opt, visit <http://developers.marketo.com/javascript-api/lead-tracking/#opt_out>. [CLS] [SEP]
+  * bizible - records website and server performance with each visit to the websites. [CLS] [SEP] learn more at <http://www.bizible.com/privacy-policy>, and to opt out, visit <https://www.bizible.com/cookie-opt-out>. [CLS] [SEP]
+  * techtarget - tracks user behavior on the websites, which helps us better understand how users are using the websites.learn more at <https://www.techtarget.com/privacy-policy-may25/> and to opt out, visit <https://www.techtarget.com/individual-rights-request/>. [CLS] [SEP] please note that techtarget will not collect any data when a user is identified by ip address as being based in the eu or uk. [CLS] [SEP]
+
+in addition, we also may include tracking pixels, which are small graphic
+images, in our email messages to determine whether the messages were opened
+and if the links were clicked. [CLS] [SEP] if you do not want to receive tracking pixels
+in emails we send you, you will need to disable html images in your email
+client, but that may affect your ability to view images in other emails you
+receive. [CLS] [SEP]
+
+### targeting. [CLS] [SEP]
+
+these third-party cookies are placed by third-party advertising platforms or
+networks to collect information about your visits to and actions on certain
+pages of our websites so that they can deliver ads for relevant cloudflare
+products and services to you later, such as when you are on certain third-
+party sites. [CLS] [SEP] these cookies also track ad performance. [CLS] [SEP]
+
+we do not sell, rent, or share personal information with third parties as
+defined under the california consumer privacy act of 2018 (california civil
+code sec. [CLS] [SEP] 1798.100 et seq.), nor do we do not sell, rent, or share personal
+information with third parties for their direct marketing purposes as defined
+under california civil code sec. [CLS] [SEP] 1798.83. [CLS] [SEP] we do permit third parties to
+collect personal information as described in our privacy policy for the
+business purposes described here. [CLS] [SEP]
+
+you may opt out of targeting cookies through the cookie preferences link on
+cloudflare.com or through the links listed below. [CLS] [SEP] if you wish to opt-out of
+cookies that collect information to serve you interest-based ads generally,
+you may opt-out by clicking
+[here](http://www.networkadvertising.org/managing/opt_out.asp) (or if located
+in the european union or united kingdom, click
+[here](http://www.youronlinechoices.eu/)). [CLS] [SEP]
+
+some of the targeting cookies we use are:
+
+  * bing ads - advertising platform. [CLS] [SEP] learn more at <https://advertise.bingads.microsoft.com/en-us/resources/policies/microsoft-bing-adsprivacy-policy>. [CLS] [SEP]
+  * twitter - analyzes browsing activity to establish user profile and advertising platform. [CLS] [SEP] learn more at <https://support.twitter.com/articles/20170514>, and learn how to opt out at <https://help.twitter.com/en/personalization-data-settings>. [CLS] [SEP]
+  * facebook custom audience - analyzes browsing activity across our websites to track advertising effectiveness, customize audiences, and improve ad retargeting. [CLS] [SEP] learn more at <https://www.facebook.com/business/learn/facebook-ads-pixel>, and learn how to opt out at <https://www.facebook.com/policies/cookies/> whether you are a facebook user (via your ad preferences) or not (via the digital advertising alliance for your jurisdiction). [CLS] [SEP]
+  * liveramp - tracking anonymous user characteristics for ad retargeting. [CLS] [SEP] learn more at <https://liveramp.com/privacy/>, and to opt out, visit <https://liveramp.com/opt_out/>. [CLS] [SEP]
+  * openx - advertising platform. [CLS] [SEP] learn more about and learn how to opt out at <https://www.openx.com/legal/privacy-policy/>. [CLS] [SEP]
+  * yahoo ad exchange - advertising platform. [CLS] [SEP] learn more at <https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.htm>. [CLS] [SEP] and to opt out, visit <https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/controls/index.html>. [CLS] [SEP]
+  * appnexus - advertising platform. [CLS] [SEP] learn more, including how to opt out, at <https://www.appnexus.com/en/company/platform-privacy-policy>. [CLS] [SEP]
+  * bidswitch - advertising platform. [CLS] [SEP] learn more and opt out at <http://www.bidswitch.com/policies/>. [CLS] [SEP]
+  * doubleclick - provides internet ad-serving services. [CLS] [SEP] learn more at <https://policies.google.com/privacy> and learn how to opt out at <https://support.google.com/ads/answer/2662922>. [CLS] [SEP]
+  * linkedin insights - analyzes browsing activity to establish user profile and advertising platform. [CLS] [SEP] learn more at <https://www.linkedin.com/legal/privacy-policy> and <https://www.linkedin.com/help/lms/answer/65521/the-linkedin-insight-tag-faqs?lang=en>, including how to opt out whether you are a linkedin user (via your ad preferences) or not (via the digital advertising alliance for your jurisdiction). [CLS] [SEP] linkedin account holders can opt-out specifically from linkedin’s uses of certain categories of data to show more relevant ads. [CLS] [SEP] visitors to linkedin can opt out here. [CLS] [SEP]
+  * rollworks, a division of nextroll - advertising platform. [CLS] [SEP] learn more at <https://www.nextroll.com/privacy>, and learn how to opt out at <https://www.nextroll.com/privacy#service-8>. [CLS] [SEP]
+
+### legal
+
+  * [website terms of use](/website-terms)
+  * [self-serve subscription agreement](/terms)
+  * [supplemental terms](/supplemental-terms)
+  * [privacy policy](/privacypolicy)
+  * [cookie policy](/cookie-policy)
+  * [trust & safety](/abuse)
+  * [transparency report](/transparency)
+  * [domain registration agreement](/domain-registration-agreement)
+  * [modern slavery act statement](/modern-slavery-act-statement)
+
+### keeping your information private and secure
+
+  * we will never sell, rent, or give away your personal information without your permission
+  * we track visitors to our site and yours in order to keep malicious visitors away
+  * if we aggregate data, we will not reveal your private information
+
+### have questions?
+
+if you have questions about these terms or anything else about cloudflare,
+please don't hesitate to contact us:
+
++1 (650) 319-8930
+
+**cloudflare, inc.**  
+101 townsend st,  
+san francisco, ca 94107  
+usa  
+attention: data protection officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+  * sales ![grey arrow pointing down](/img/icons/gray/caret-down.svg)
+  * [ enterprise sales ](/plans/enterprise/contact/)
+  * [ become a partner ](/partners/)
+
+contact sales:  
+[+1 650 319 8930](tel:+16503198930) [+1 650 319 8930](tel:+16503198930)
+
+  * getting started ![grey arrow pointing down](/img/icons/gray/caret-down.svg)
+  * [ industry analysts ](/analysts/)
+  * [ pricing ](/plans/)
+  * [ case studies ](/case-studies/)
+  * [ white papers ](/resources/)
+  * [ webinars ](/webinars/)
+  * [ learning center ](/learning/)
+
+  * community ![grey arrow pointing down](/img/icons/gray/caret-down.svg)
+  * [ community hub ](https://community.cloudflare.com)
+  * [ blog ](https://blog.cloudflare.com)
+  * [ project galileo ](/galileo/)
+  * [ athenian project ](/athenian/)
+  * [ cloudflare for campaigns ](/campaigns/)
+  * [ cloudflare tv ](https://cloudflare.tv/)
+
+  * developers ![grey arrow pointing down](/img/icons/gray/caret-down.svg)
+  * [ developer hub ](https://developers.cloudflare.com)
+  * [ cloudflare workers ](/products/cloudflare-workers/)
+  * [ integrations ](/integrations/)
+
+  * support ![grey arrow pointing down](/img/icons/gray/caret-down.svg)
+  * [ help center ](https://support.cloudflare.com)
+  * [ cloudflare status ](https://www.cloudflarestatus.com)
+  * [ compliance ](/compliance/)
+  * [ gdpr ](/gdpr/introduction/)
+  * [ trust & safety ](/abuse/)
+
+  * company ![grey arrow pointing down](/img/icons/gray/caret-down.svg)
+  * [ about cloudflare ](/about-overview/)
+  * [ investor relations ](https://cloudflare.net)
+  * [ our team ](/people/)
+  * [ press ](/press/)
+  * [ careers ](/careers/)
+  * [ internet summit ](/internetsummit/)
+  * [ logo ](/logo/)
+  * [ network map ](/network/)
+
+[![facebook](/img/footer/facebook.svg)](https://www.facebook.com/cloudflare/)
+[![twitter](/img/footer/twitter.svg)](https://twitter.com/cloudflare)
+[![linkedin](/img/footer/linkedin.svg)](https://www.linkedin.com/company/cloudflare)
+[![youtube](/img/footer/youtube.svg)](https://www.youtube.com/cloudflare)
+[![instagram](/img/footer/instagram.svg)](https://www.instagram.com/cloudflare)
+(c) 2021 cloudflare, inc. [CLS] [SEP] [privacy policy](/privacypolicy/) [terms of
+use](/website-terms/) [disclosure](/disclosure/) cookie preferences
+[trademark](/trademark/)
+
+to provide you with the best possible experience on our website, we may use
+cookies, as described [here](/cookie-policy/). [CLS] [SEP]  
+by clicking accept, closing this banner, or continuing to browse our websites,
+you consent to the use of such cookies. [CLS] [SEP]
+
+i accept
+

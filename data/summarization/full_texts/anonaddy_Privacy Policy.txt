@@ -1,0 +1,149 @@
+[ ![anonaddy logo](/assets/img/logo.svg) ](/ "anonaddy home")
+
+  * [help](/help/ "help")
+  * [faq](/faq/ "faq")
+  * [blog](/blog/ "blog")
+  * [pricing](/#pricing "pricing")
+  * [sign in](https://app.anonaddy.com/login "sign in")
+  * [register](https://app.anonaddy.com/register "register")
+
+menu
+
+  * [help](/help/ "help")
+  * [faq](/faq/ "faq")
+  * [blog](/blog/ "blog")
+  * [pricing](/#pricing "pricing")
+  * [sign in](https://app.anonaddy.com/login "sign in")
+  * [register](https://app.anonaddy.com/register "register")
+
+# privacy policy
+
+last updated: 10th december 2019
+
+this policy (together with our terms and conditions) sets out the basis on
+which any personal data we collect from you, or that you provide to us, will
+be processed by us. [CLS] [SEP] it applies to anonaddy.com and any subdomains e.g. [CLS] [SEP]
+app.anonaddy.com. [CLS] [SEP]
+
+in order to ensure confidentiality and lawful processing of its, visitors
+personal data, anonaddy in its capacity of a data controller and of a
+processor, conducts its activities in strict compliance with the requirements
+set in gdpr - regulation (eu) 2016/679 of the european parliament and of the
+council on the protection of natural persons with regard to the processing of
+personal data and on the free movement of this data. [CLS] [SEP]
+
+## information we may collect from you
+
+we may collect the following data from you:
+
+  * information that you provide by filling in forms on our site. [CLS] [SEP] this includes information provided at the time of registering to use our site or subscribing to our service. [CLS] [SEP]
+  * if you contact us, we may keep a record of that correspondence. [CLS] [SEP]
+  * for keeping track of authenticated sessions we use a small number of cookies. [CLS] [SEP] this site does not provide any third party cookies and makes no effort to track you. [CLS] [SEP] you can delete stored cookies from your browser whenever you wish. [CLS] [SEP]
+  * if you start a subscription we may ask you to provide us with information such as your name and payment information. [CLS] [SEP] your name and card details will not be stored in our database. [CLS] [SEP]
+
+our site does not store/save any emails that are forwarded or replied to
+through the service. [CLS] [SEP] you can check the source code to see what happens when an
+email is piped to our application by postfix. [CLS] [SEP]
+
+our server uses postfix as the mail server software and nginx as the web
+server. [CLS] [SEP] nginx access and error logs are kept which do record ip addresses. [CLS] [SEP]
+default log settings are used for postfix. [CLS] [SEP] all log files are rotated daily and
+retained for 7 days, old log files are deleted. [CLS] [SEP]
+
+server logs are only used to improve our service and prevent abuse or
+prohibited use. [CLS] [SEP] this information will not be provided under any circumstances
+to any parties other than when compelled by law. [CLS] [SEP]
+
+## how we use your personal information
+
+we use information held about you for the following purposes:
+
+  * to notify you about any changes to the service. [CLS] [SEP]
+  * to forward emails to the recipient addresses you have added to the site. [CLS] [SEP]
+
+## protection of personal information
+
+we will never misuse, sell, rent, share or give away any personal information
+to any third parties. [CLS] [SEP]
+
+our website is open-source and available for anyone (who understands php) to
+view and audit. [CLS] [SEP] we do not use google analytics or any other analytics/tracking
+(unless you count server logs mentioned above) on our site. [CLS] [SEP]
+
+## security
+
+all information you provide to us is stored on our secure servers in the
+netherlands (greenhost.net). [CLS] [SEP] sensitive data in our database such as your
+recipient email addresses are encrypted using openssl and the aes-256-cbc
+cipher. [CLS] [SEP] furthermore, all encrypted values are signed with a message
+authentication code (mac) to detect any modifications to the encrypted string. [CLS] [SEP]
+two factor authentication (2fa) is also available on our site and we encourage
+users to enable it. [CLS] [SEP]
+
+opportunistic dane tls encryption with strong cipher preference is used for
+all emails sent through our service. [CLS] [SEP] our mail server also utilises starttls,
+pfs, dnssec, mta-sts, tls-rpt, dmarc, spf and dkim. [CLS] [SEP] these measures help to
+protect emails sent to/from our server against mitm (man in the middle)
+downgrade attacks and also against the risk of email forgery. [CLS] [SEP]
+
+our site also uses security features such as; hsts (http strict transport
+security), a strict csp (content security policy), subresource integrity,
+expect ct and xss protection. [CLS] [SEP]
+
+no service can be 100% secure at all times so please do not use this service
+to forward emails containing highly sensitive information such as bank or
+cryptocurrency information. [CLS] [SEP]
+
+we take all measures reasonably necessary to protect against unauthorised
+access, use, alteration or destruction of data. [CLS] [SEP]
+
+## your rights
+
+you have the right to request access to personal data that we may process
+about you. [CLS] [SEP]
+
+you have the right to require us to correct any inaccuracies in your data,
+free of charge. [CLS] [SEP] you can access, correct, update or request deletion of your
+personal information at any time, either through your online account or by
+contacting us. [CLS] [SEP]
+
+## third party services
+
+the only third party service that we use is [stripe](https://stripe.com) to
+process payments for subscriptions. [CLS] [SEP] any payment transactions will be carried
+out by stripe over encrypted connections hosted within an iframe served from
+stripe’s domain. [CLS] [SEP] your card information never touches our server. [CLS] [SEP]
+
+## changes to our privacy policy
+
+any changes we may make to our privacy policy in the future will be posted on
+this page and, where appropriate, notified to you by e-mail. [CLS] [SEP] however, we
+advise that you check this page regularly to keep up to date with any
+necessary changes. [CLS] [SEP]
+
+## contact
+
+questions, comments and requests regarding this privacy policy are welcomed
+and should be directed to the data protection officer
+[contact@anonaddy.com](mailto:contact@anonaddy.com) ([gpg key](/anonaddy-
+contact-public-key.asc))
+
+company
+
+[privacy](/privacy/ "privacy") [terms](/terms/ "terms")
+[roadmap](https://github.com/anonaddy/anonaddy/projects/1 "roadmap")
+
+development
+
+[security](/security/ "security") [api](https://app.anonaddy.com/docs/
+"terms") [self-hosting](/self-hosting/ "self-hosting") [donate](/donate/
+"donate")
+
+support
+
+[faq](/faq/ "faq") [help centre](/help/ "help centre")
+
+[ ](https://github.com/anonaddy "anonaddy github") [
+](https://twitter.com/anonaddy "anonaddy twitter") [ ](/blog/feed.atom
+"anonaddy blog feed")
+

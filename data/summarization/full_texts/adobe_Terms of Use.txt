@@ -1,0 +1,963 @@
+[ adobe general terms ](https://www.adobe.com/legal.html)
+
+  * [trade compliance](https://www.adobe.com/legal/compliance.html "trade compliance")
+  * [copyright, trademark and dmca](https://www.adobe.com/legal/permissions.html "copyright, trademark and dmca")
+  * [law enforcement requests](https://www.adobe.com/legal/lawenforcementrequests.html "law enforcement requests")
+  * [privacy](https://www.adobe.com/privacy.html "privacy")
+
+# adobe general terms of use
+
+published march 16, 2020. [CLS] [SEP] effective as of april 16, 2020. [CLS] [SEP] these terms replace
+and supersede all prior versions. [CLS] [SEP]
+
+**the mandatory arbitration provision and class action waiver in section 14
+(dispute resolution) below govern the resolution of disputes. [CLS] [SEP] please read them
+carefully. [CLS] [SEP] if you do not agree with the mandatory arbitration provision and
+class action waiver in the terms, please do not use the services or
+software.**
+
+these general terms of use (“ **general terms** ”), along with any applicable
+additional terms (see section 1.2 (additional terms) below) (collectively, the
+“ **terms** ”) govern your use of and access to our website, customer support,
+discussion forums or other interactive areas or services, and services such as
+creative cloud (collectively, the “ **services** ”) and software that we
+include as part of the services, as well as any applications, including mobile
+applications, sample files and content files (defined below), scripts,
+instruction sets, and related documentation (collectively, the “ **software**
+”). [CLS] [SEP] if you have agreed to the [subscription and cancellation
+terms](https://www.adobe.com/legal/subscription-terms.html), then such terms
+are also considered part of the terms. [CLS] [SEP] if you are using and accessing the
+services and software through adobe’s value incentive plan (“ **vip** ”)
+program, then the subscription and cancellation terms do not apply to you, but
+the remainder of these terms will govern your use of and access to the
+services and software. [CLS] [SEP] if you have entered into another agreement with us
+concerning specific services or software, then the terms of that agreement
+control where it conflicts with the terms. [CLS] [SEP]
+
+**_you must be 13 or older to register for an individual adobe id_. [CLS] [SEP] schools
+that participate in the primary and secondary education named user offering
+may issue a child under 13 an enterprise-level adobe id, consistent with the
+[primary and secondary education additional
+terms](http://www.adobe.com/go/primary-secondary-terms).**
+
+**1\. [CLS] [SEP] your agreement with adobe.**
+
+1.1 **choice of law and contracting entity. [CLS] [SEP] if you reside in north america
+(inclusive of united states, canada, mexico, united states territories and
+possessions, and united states military bases wherever located), your
+relationship is with adobe inc., a united states company, and the terms are
+governed by the law of california, u.s.a., unless preempted by u.s. [CLS] [SEP] federal
+law, without regard to conflict of law rules. [CLS] [SEP] if you reside outside of north
+america, your relationship is with adobe systems software ireland limited, and
+the terms are governed by the law of ireland.** for customers in australia,
+adobe systems software ireland limited is acting as an authorized agent of
+adobe systems pty ltd. [CLS] [SEP] and is entering into this contract in its capacity as
+agent for adobe systems pty ltd. [CLS] [SEP] you may have additional rights under your
+local law. [CLS] [SEP] we do not seek to limit those rights where it is prohibited to do
+so by law. [CLS] [SEP]
+
+1.2 **additional terms.** our services and software are licensed, not sold, to
+you, and may also be subject to one or more of the additional terms below (“
+**additional terms** ”). [CLS] [SEP] if there is any conflict between the terms in the
+general terms and the additional terms, then the additional terms govern in
+relation to that service or software. [CLS] [SEP] the additional terms are subject to
+change as described in section 1.6 (updates to terms) below. [CLS] [SEP]
+
+**[adobe developer](http://www.adobe.com/go/developer-terms)**
+
+|
+
+**[adobe stock contributor](http://www.adobe.com/go/contributorterms)**
+
+|
+
+**[document cloud](http://www.adobe.com/go/documentcloudterms)**
+
+|
+
+**[medium](http://www.adobe.com/go/medium-terms)**  
+  
+---|---|---|---  
+  
+**[adobe fonts](http://www.adobe.com/go/adobe-fonts-terms)**
+
+|
+
+**[behance](http://www.adobe.com/go/behancetou)**
+
+|
+
+**[fuse](http://www.adobe.com/go/fuseterms)**
+
+|
+
+**[software](http://www.adobe.com/go/softwareterms)**  
+  
+**[adobe sign](https://www.adobe.com/go/adobesignterms)**
+
+|
+
+**[business catalyst](http://www.adobe.com/go/businesscatalyst_terms)**
+
+|
+
+**[indesign server](http://www.adobe.com/go/indesign-server-terms)**  
+
+|
+
+**[substance share](http://www.adobe.com/go/substance-terms)**  
+  
+**[adobe spark](http://www.adobe.com/go/spark-terms)**
+
+|
+
+**[business customers](http://www.adobe.com/go/business_terms)**
+
+|
+
+**[k-12 (primary and secondary) education](http://www.adobe.com/go/primary-
+secondary-terms)**
+
+|
+
+**[substance source](http://www.adobe.com/go/substance-source-terms)**  
+  
+**[adobe stock](http://www.adobe.com/go/stockterms)**
+
+|
+
+**[demo assets](http://www.adobe.com/go/demoassets)**
+
+|
+
+**[lightroom](http://www.adobe.com/go/lightroom_terms)**
+
+|  
+  
+1.3 **business users.** if you received an “ **entitlement** ” (which is
+defined as the right to use, access, and consume the software and services)
+from an organization or group, including but not limited to a business or any
+other commercial entity, government entity, non-profit organization, or
+educational institution (each, a “ **business** ”) under one of adobe’s
+business plans (such as creative cloud for teams, creative cloud for
+enterprise, or document cloud), then (a) you are a “ **business user** ” of
+such business; (b) your adobe profile associated with such entitlement is a “
+**business profile** ”; and (c) all references to “ **you** ” in these terms
+will mean such business. [CLS] [SEP] if you are a business user, you agree that, due to
+your receipt of entitlements from such business, (1) adobe may provide such
+business with the ability to access, use, remove, retain, and control your
+business profile and all content therein whether uploaded or imported before
+or after the date these terms were last updated; (2) your use of the services
+and software is governed by such business’s agreement with adobe; and (3)
+adobe may provide your personal information to such business. [CLS] [SEP] if you are a
+business user with entitlements from multiple businesses, you may have
+separate business profiles associated with each business. [CLS] [SEP] as a business user,
+you may have different agreements with or obligations to a business, which may
+affect your business profile or your content. [CLS] [SEP] adobe is not responsible for any
+violation by you of such agreements or obligations. [CLS] [SEP] if you did not receive
+entitlements from a business (e.g., you purchased a creative cloud for
+individuals plan and received entitlements through this plan), then (a) you
+are a “ **personal user** ”; (b) your adobe profile is a personal profile; (c)
+you maintain sole access and control over all content in your personal account
+or personal profile (except as otherwise indicated in the privacy policy); and
+(d) all references to “ **you** ” in these general terms will mean you as an
+individual. [CLS] [SEP] if you received entitlements through a personal plan and from a
+business, then you are both a personal user and a business user. [CLS] [SEP] you are a
+personal user when you utilize the entitlements you obtained through your
+personal plan, and you are a business user when you utilize your entitlements
+provided by a business. [CLS] [SEP]  
+
+1.4 **business email domains.** as a personal user or a business user, you may
+create an adobe account using an email address provided or assigned to you by
+a business (such as your work email address). [CLS] [SEP] if the business establishes a
+direct relationship with us, they may want to add your account to such
+relationship. [CLS] [SEP] if this happens, the business may, with prior notice, roll your
+account into the business’s account. [CLS] [SEP] this means the business may (a) access
+the account; (b) take control over the account and any content therein whether
+stored, uploaded, or imported before or after the date these terms were last
+updated; and (c) recommend any non-business content associated with such
+account to be moved to a new account that utilizes an email address not
+associated with such business. [CLS] [SEP] you, as an individual or a business user, also
+acknowledge that adobe may provide your personal information to such business,
+such as your name or email address. [CLS] [SEP] if you do not want a business to access,
+use, remove, retain, or control an account or profile, then do not use a
+business email address with that account. [CLS] [SEP] information regarding how you may
+change the email address associated with your account may be found
+[here](http://www.adobe.com/go/tou-update-helpx). [CLS] [SEP]
+
+1.5 **ownership.** you (as a business or an individual, as applicable) retain
+all rights and ownership of your content. [CLS] [SEP] we do not claim any ownership rights
+to your content. [CLS] [SEP]
+
+1.6 **updates to terms.** we may make changes to the terms from time to time,
+and if we do, we will notify you by revising the date at the top of the terms
+and, in some cases, we may provide you with additional notice. [CLS] [SEP] you should look
+at the terms regularly. [CLS] [SEP] unless otherwise noted, the amended terms will be
+effective immediately, and your continued use of our services and software
+will confirm your acceptance of the changes. [CLS] [SEP] if you do not agree to the
+amended terms, you must stop using our services and software. [CLS] [SEP]
+
+**2\. [CLS] [SEP] privacy.**
+
+2.1 **privacy.** for information about how we collect, use, share, or
+otherwise process information about you and your use of our apps and websites,
+please see our [privacy policy](https://www.adobe.com/privacy/policy.html). [CLS] [SEP]
+you have the option to manage information preferences
+[here](https://www.adobe.com/privacy/opt-out.html). [CLS] [SEP]
+
+2.2 **our access to your content.** where permitted by law, we will only
+access, view, or listen to your content (defined in section 4.1 (content)
+below) in limited ways. [CLS] [SEP] for example, in order to perform the services, we may
+need to access, view, or listen to your content to (a) respond to feedback or
+support requests; (b) detect, prevent, or otherwise address fraud, security,
+legal, or technical issues; and (c) enforce the terms. [CLS] [SEP] our automated systems
+may analyze your content using techniques such as machine learning in order to
+improve our services and software and the user experience. [CLS] [SEP] [learn
+more](http://www.adobe.com/go/machine_learning) about the machine learning we
+do. [CLS] [SEP]
+
+2.3 **data processing agreement.** where customer information includes
+personal information and where you are considered a “ **data controller** ”
+and adobe is a “ **data processor** ” as defined under the general data
+protection regulation eu regulation 2016/679 (“ **gdpr** ”), the terms of the
+adobe data processing agreement (“ **dpa** ”) (available
+[here](http://www.adobe.com/go/tou-dpa)), including the european commission
+approved standard contractual clauses, as applicable, shall apply to the
+processing of such personal information and are incorporated by reference into
+the terms. [CLS] [SEP]
+
+2.4 **sensitive personal information.** you agree not to collect, process, or
+store any sensitive personal information using the services or software. [CLS] [SEP] you
+agree not to transmit, disclose, or make available sensitive personal
+information to adobe or adobe’s third-party providers. [CLS] [SEP] “ **sensitive personal
+information** ” means an individual’s financial information, sexual
+preferences, medical, or health information protected under any health data
+protection laws, biometric data (for purposes of uniquely identifying an
+individual), personal information of children protected under any child data
+protection laws (such as the personal information defined under the us
+children’s online privacy protection act (“ **coppa** ”)) and any additional
+types of information included within this term or any similar term (such as
+“sensitive personal data” or “special categories of personal information”) as
+used in applicable data protection or privacy laws. [CLS] [SEP]
+
+2.5 **transfer of personal information.** we process and store information in
+the u.s. [CLS] [SEP] and other countries. [CLS] [SEP] by using our apps and websites, you agree that
+you authorize adobe to transfer your personal information across national
+borders and to other countries where adobe and its partners operate. [CLS] [SEP] for
+example, personal information collected from users in china will be exported
+outside of china. [CLS] [SEP]
+
+**3\. [CLS] [SEP] use of services and software.**
+
+3.1 **license.** subject to your compliance with the terms and applicable law,
+you may access and use the services and software that we make available, and
+that you license from us. [CLS] [SEP] your license(s) expire at the end of the term set
+forth in your order document. [CLS] [SEP] the version(s) of the services and software
+available at your renewal date may be different from the version(s) available
+when you first purchased your license(s) from adobe. [CLS] [SEP] the versions of the
+services and software that adobe supports can be found
+[here](https://www.adobe.com/go/software-support-guidelines.html). [CLS] [SEP] you agree
+that your decision to use or purchase software or services is not contingent
+on the delivery of any future functionality or features, or dependent on any
+oral or written public comments made by us regarding future functionality or
+features. [CLS] [SEP]
+
+3.2 **adobe intellectual property.** we (and our licensors) remain the sole
+owner of all right, title, and interest in the services and software. [CLS] [SEP] except
+as stated in the terms, we do not grant you any rights to patents, copyrights,
+trade secrets, trademarks, or any other rights in respect to the items in the
+services or software. [CLS] [SEP] we reserve all rights not granted under the terms. [CLS] [SEP]
+
+3.3 **storage.** we recommend that you back up your content and creative cloud
+customer fonts elsewhere regularly if the services provide storage and this
+functionality is enabled by the applicable services. [CLS] [SEP] we may create reasonable
+technical limits on file size, storage space, processing capacity, and other
+technical limits. [CLS] [SEP] we may suspend the services until you are within the storage
+space limit associated with your account. [CLS] [SEP] at the end of your license term, we
+will use commercially reasonable efforts to allow you to transition your
+content out of the services. [CLS] [SEP] the transition must be completed within 30 days
+from the date of the termination or expiration of your license term. [CLS] [SEP] at the
+end of this 30-day transition period, we reserve the right to delete your
+content. [CLS] [SEP] you should download any content that you have stored in the services
+before your license ends. [CLS] [SEP]
+
+3.4 **user-generated content.** we may host user-generated content from our
+users. [CLS] [SEP] if you access our services, you may come across user-generated content
+that you find offensive or upsetting. [CLS] [SEP] your sole remedy is to stop viewing the
+content. [CLS] [SEP] if available, you may also click on the “report” button to report
+offensive user-generated content to us. [CLS] [SEP]
+
+3.5 **sample files.** “ **sample files** ” means adobe-provided audio, visual,
+video, or other content files for use in tutorials, demonstrations, and for
+other trial purposes, which may be identified as sample files. [CLS] [SEP] sample files
+cannot be used for any other purpose than for which they were provided. [CLS] [SEP] you
+cannot distribute sample files in any way that allows a third party to use,
+download, extract, or access the sample files as a stand-alone file, and you
+cannot claim any rights in the sample files. [CLS] [SEP]
+
+3.6 **content files.** “ **content files** ” means adobe assets provided as
+part of the services and software. [CLS] [SEP] unless documentation or specific licenses
+(including but not limited to additional terms) state otherwise, we grant you
+a personal, non-exclusive, non-sublicensable, and non-transferable license to
+use the content files to create your end use (i.e., the derivative application
+or product authored by you) into which the content files, or derivations
+thereof, are embedded for your use (“ **end use** ”). [CLS] [SEP] you may modify the
+content files prior to embedding them in the end use. [CLS] [SEP] you may reproduce and
+distribute content files only in connection with your end use, however, under
+no circumstances can you distribute the content files on a stand-alone basis,
+outside of the end use. [CLS] [SEP]
+
+3.7 **free memberships, offers, and trials.** adobe may offer free
+memberships, offers, and trial memberships in its sole discretion. [CLS] [SEP] if access
+to the services or software is provided to you for free or for trial purposes,
+such access is governed by these terms. [CLS] [SEP] at any time prior to or during the
+free or trial period, adobe may, in its sole discretion, terminate the free or
+trial access without prior notice and without any liability to you, to the
+extent permitted under applicable law, for any reason, including to prevent
+abuse of the free or trial access. [CLS] [SEP] after the free or trial access period
+expires, you may only continue using the services or software by enrolling in
+a paid subscription, if available, or as otherwise permitted by adobe. [CLS] [SEP] during
+the free or trial period, no express or implied warranties shall apply to the
+services and software, all services and software are provided “as-is” with all
+defects, and no technical or other support is included. [CLS] [SEP]
+
+3.8 **nfr version.** adobe may also designate the services or software as
+“trial, “evaluation,” “not for resale,” or other similar designation (“ **nfr
+version** ”). [CLS] [SEP] you may install and use the nfr version only for the period and
+purposes stated when we provide the nfr version. [CLS] [SEP] you must not use any
+materials you produce with the nfr version for any commercial purposes. [CLS] [SEP]
+
+3.9 **adobe talent.**
+
+(a) you may not post jobs that point to specific work contests or other
+opportunities that solicit customized and unpaid creative work from creative
+professionals. [CLS] [SEP] any such postings may be removed without refund. [CLS] [SEP]
+
+(b) we offer a paid “ **talent search** ” feature to recruiters and companies
+looking to discover and hire creative talents. [CLS] [SEP] by uploading a public profile
+or public project on the services, you agree that the public information may
+be included in talent search results. [CLS] [SEP]
+
+3.10 **creative cloud customer fonts.**
+
+(a) for any font or font file you upload or submit to the services and
+software (“ **creative cloud customer fonts** ”) you represent and warrant
+that you have all necessary rights to allow us to use, reproduce, display,
+host, and distribute the creative cloud customer fonts through the services
+and software for your use. [CLS] [SEP] creative cloud customer fonts are not considered
+content, as defined in the terms. [CLS] [SEP] adobe does not represent or warrant that any
+such creative cloud customer fonts will be compatible with or be suitable for
+use with the services or software. [CLS] [SEP]
+
+(b) in the event we are informed by a third party or become aware that you do
+not have the rights to which you warrant in section 3.10(a) (creative cloud
+customer fonts) or that your creative cloud customer fonts violate third-party
+intellectual property rights, then we may remove the creative cloud customer
+fonts from your account, from the services, or from the content that uses that
+creative cloud customer fonts. [CLS] [SEP] if we remove your creative cloud customer fonts
+from your account, the services, or the content that uses the creative cloud
+customer fonts, the display of your content may change. [CLS] [SEP] [learn
+more](http://www.adobe.com/go/cc-fonts-faq) about how your content may change. [CLS] [SEP]
+
+(c) you may revoke our access to your creative cloud customer fonts and
+terminate our rights at any time by deleting your creative cloud customer
+fonts from the service. [CLS] [SEP]  
+
+(d) upon any termination or closure of your account, we reserve the right to
+delete your creative cloud customer fonts. [CLS] [SEP] some copies of your creative cloud
+customer fonts may be retained as part of our routine backups. [CLS] [SEP]  
+
+(e) we may collect information connected to your use of the creative cloud
+customer fonts, such as names of the creative cloud customer fonts that you
+upload and how you use the creative cloud customer fonts. [CLS] [SEP]
+
+3.11 **other license types.**
+
+(a) **prerelease or beta version.** we may designate the services or software,
+or a feature of the services or software, as a prerelease or beta version (“
+**beta version** ”). [CLS] [SEP] a beta version does not represent the final product and
+may contain bugs that may cause system or other failure and data loss. [CLS] [SEP] we may
+choose not to release a commercial version of the beta version. [CLS] [SEP] you must
+promptly cease using the beta version and destroy all copies of the beta
+version if we request you to do so. [CLS] [SEP] in exchange for your use of a beta
+version, you agree that adobe may collect data regarding your use of the beta
+version to improve our products and personalize your experience, regardless of
+whether or not you have opted-out of data collection for non-beta versions. [CLS] [SEP] if
+you do not wish to have your usage tracked, you must discontinue your use of
+the beta version by uninstalling such beta version or utilizing a non-beta
+version of the services or software. [CLS] [SEP] any separate agreement we enter into with
+you governing the beta version will supersede these provisions. [CLS] [SEP]
+
+(b) **education version.** if we designate the services or software to be for
+use by educational users (“ **educational version** ”), then you may only use
+the educational version if you meet the eligibility requirements stated
+[here](http://www.adobe.com/go/primary-secondary-institution-eligibility-
+guidelines). [CLS] [SEP] you may install and use the educational version only in the
+country where you are qualified as an educational user. [CLS] [SEP] if you reside in the
+european economic area, then the word “country” in the prior sentence means
+the european economic area. [CLS] [SEP]
+
+3.12 **third-party services and software.** the services and software may
+include third-party services and software, and you are responsible for
+complying with any and all third-party terms that apply. [CLS] [SEP] some [third-party
+terms](http://www.adobe.com/go/thirdparty) that may be applicable to your use
+of the services and software are available. [CLS] [SEP] access to third-party services and
+software is provided for convenience only, and adobe has no responsibility for
+such third-party services and software. [CLS] [SEP]
+
+**4\. [CLS] [SEP] your content.**
+
+4.1 **content.** “ **content** ” means any text, information, or material,
+such as audio files, video files, electronic documents, or images, that you
+upload and import into, or create with the services or software in connection
+with or through your use of the services. [CLS] [SEP] you must not upload any content that
+is prohibited by any applicable law. [CLS] [SEP] we reserve the right to remove content or
+restrict access to content, services, and software if any of your content is
+found to be in violation of these terms. [CLS] [SEP] we do not review all content uploaded
+to the services or software, but we may use available technologies, vendors,
+or processes to screen for certain types of illegal content (for example,
+child pornography) or other abusive content or behavior (for example, patterns
+of activity that indicate spam or phishing, or keywords that indicate adult
+content has been posted outside of the adult wall). [CLS] [SEP]
+
+4.2 **licenses to your content in order to operate the services and
+software.** solely for the purposes of operating or improving the services and
+software, when you upload content to the services or software, you grant us a
+nonexclusive, worldwide, royalty-free, sublicensable, and transferrable
+license to use, reproduce, publicly display, distribute, modify (so as to
+better showcase your content, for example), publicly perform, and translate
+the content. [CLS] [SEP]
+
+4.3 **sharing your content.**
+
+(a) **sharing.** some services and software may provide features that allow
+you to share your content with other users or to make it public. [CLS] [SEP] “ **share** ”
+means to email, post, transmit, stream, upload, or otherwise make available
+(whether to us or other users) through your use of the services and software. [CLS] [SEP]
+other users may use, copy, modify, or re-share your content in many ways. [CLS] [SEP]
+please carefully consider what you choose to share or make public as you are
+responsible for the content that you share. [CLS] [SEP]
+
+(b) **level of access.** we do not monitor or control what others do with your
+content. [CLS] [SEP] you are responsible for determining the limitations that are placed
+on your content and for applying the appropriate level of access to your
+content. [CLS] [SEP] if you do not choose the access level to apply to your content, the
+system may default to its most permissive setting. [CLS] [SEP] it is your responsibility
+to let other users know how your content may be shared and to adjust the
+setting related to accessing or sharing your content. [CLS] [SEP]
+
+(c) **comments.** any comments that you submit through the services and
+software are not anonymous and may be viewed by other users. [CLS] [SEP] your comments may
+be deleted by you, by other users, or by us. [CLS] [SEP]
+
+4.4 **termination of license.** you may revoke this license to your content
+and terminate our rights at any time by removing your content from the
+service. [CLS] [SEP] some copies of your content may be retained as part of our routine
+backups, however. [CLS] [SEP]
+
+4.5 **feedback.** you have no obligation to provide us with ideas,
+suggestions, proposals, or bug or crash reports (“ **feedback** ”). [CLS] [SEP] if you
+submit feedback to us however, then you grant us a non-exclusive, irrevocable,
+perpetual, worldwide, royalty-free, sublicensable, and transferable license to
+make, use, sell, have made, offer to sell, import, export, reproduce, publicly
+display, distribute, modify, and publicly perform the feedback. [CLS] [SEP]
+
+**5\. [CLS] [SEP] your account.**
+
+5.1 **account information.** you are responsible for all activity that occurs
+via your account even if that activity is not by you or is without your
+knowledge or consent. [CLS] [SEP] please notify customer support immediately if you become
+aware of any unauthorized use of your account. [CLS] [SEP] you may not (a) share your
+account information (except with an authorized account administrator), whether
+intentionally or unintentionally; or (b) use another person’s account. [CLS] [SEP] your
+account administrator may use your account information to manage your use and
+access to the services and software. [CLS] [SEP] for phonegap, we reserve the right to
+monitor and enforce subscription plan limits and restrictions, including, but
+not limited to, the right to charge for overages. [CLS] [SEP]
+
+5.2 **free account inactivity.** you are responsible for keeping your account
+active, which means you must sign in periodically to avoid any disruption or
+loss of access to the services and software, or termination of your account. [CLS] [SEP]
+if you don't sign into your account periodically, we reserve the right to
+assume your account is inactive, and you agree that we may close it for you. [CLS] [SEP]
+you understand that you will lose access to any content stored in your account
+upon closure. [CLS] [SEP] prior to closing your account for inactivity, we will attempt to
+provide notice to you. [CLS] [SEP] for the avoidance of doubt, this section 5.2 (account
+inactivity) does not apply to paid accounts in good standing. [CLS] [SEP]
+
+**6\. [CLS] [SEP] user conduct.**
+
+6.1 **responsible use.** the adobe communities often consist of users who
+expect a certain degree of courtesy and professionalism. [CLS] [SEP] you must use the
+services and software responsibly. [CLS] [SEP]
+
+6.2 **misuse.** you must not misuse the services or software. [CLS] [SEP] for example, you
+must not:
+
+(a) use the services or software without, or in violation of, a written
+license or agreement with adobe;
+
+(b) copy, modify, host, stream, sublicense, or resell the services or
+software;
+
+(c) enable or allow others to use the services or software using your account
+information;
+
+(d) offer, use, or permit the use of the services or software in a computer
+services business, third-party outsourcing service, on a membership or
+subscription basis, on a service bureau basis, on a time-sharing basis, as a
+part of a hosted service, or on behalf of any third party;
+
+(e) use the software to construct any kind of database or dataset;
+
+(f) access or attempt to access the services or software by any means other
+than the interface we provide or authorize;
+
+(g) circumvent any access or use restrictions put into place to prevent
+certain uses of the services or software;
+
+(h) share content or creative cloud customer fonts or otherwise engage in
+behavior that violates anyone’s intellectual property rights. [CLS] [SEP] “ **intellectual
+property rights** ” means copyright, moral rights, trademark, trade dress,
+patent, trade secret, unfair competition, right of privacy, right of
+publicity, and any other proprietary rights;
+
+(i) share any content that is unlawful, harmful, threatening, obscene,
+violent, abusive, tortious, defamatory, libelous, vulgar, lewd, profane,
+invasive of another’s privacy, hateful, or otherwise objectionable;
+
+(j) share any content that sexualizes minors or that is intended to facilitate
+inappropriate interactions with minors, other adobe users, or the public;
+
+(k) impersonate any person or entity, or falsely state or otherwise
+misrepresent your affiliation with a person or entity;
+
+(l) attempt to disable, impair, or destroy the services or software;
+
+(m) upload, transmit, store, or make available any content, creative cloud
+customer fonts, or code that contains any viruses, malicious code, malware, or
+any components designed to harm or limit the functionality of the services or
+software;
+
+(n) disrupt, interfere with, or inhibit any other user from using the services
+or software (such as stalking, intimidation, harassment, or incitement or
+promotion of violence or self-harm);
+
+(o) engage in chain letters, junk mails, pyramid schemes, phishing, spamming,
+fraudulent activities, or other unsolicited messages;
+
+(p) place an advertisement of any products or services in the services except
+with our prior written approval;
+
+(q) use any data mining or similar data gathering and extraction methods in
+connection with the services or software, including data scraping for machine
+learning or other purposes;
+
+(r) artificially manipulate or disrupt the services or software (such as
+manipulating appreciations on behance or driving users to third-party sites);
+
+(s) create adobe accounts for the purpose of violating these terms or for
+circumventing account termination or other types of actions taken by adobe;
+
+(t) manipulate or otherwise display the services or software by using framing
+or similar navigational technology; or
+
+(u) violate applicable law. [CLS] [SEP]
+
+**7\. [CLS] [SEP] fees and payment.**
+
+7.1 **taxes and third-party fees.** you must pay any applicable taxes and
+third-party fees (including, for example, telephone toll charges, mobile
+carrier fees, isp charges, data plan charges, credit card fees, foreign
+exchange fees, and foreign transaction fees). [CLS] [SEP] we are not responsible for these
+fees. [CLS] [SEP] contact your financial institution with questions about fees. [CLS] [SEP] we may
+take steps to collect the fees you owe us. [CLS] [SEP] you are responsible for all related
+collection costs and expenses. [CLS] [SEP] if you are located in a different country from
+the applicable adobe entity with which you are transacting (i.e., adobe inc. [CLS] [SEP]
+for north american customers and adobe systems software ireland limited for
+customers in all other countries), your payments will be made to a foreign
+entity. [CLS] [SEP]
+
+7.2 **credit card information.** you authorize us to store your payment method
+and use it in connection with your use of the services and software as
+described in your subscription and cancellation terms. [CLS] [SEP] to avoid interruption
+of your service, we may participate in programs supported by your card
+provider to try to update your payment information. [CLS] [SEP] you authorize us to
+continue billing your account with the updated information that we obtain. [CLS] [SEP]
+
+**8\. [CLS] [SEP] your warranty and indemnification obligations.**
+
+8.1 **warranty.** by uploading your content to the services or software, you
+agree that you have: (a) all necessary licenses and permissions to use and
+share your content; and (b) the rights necessary to grant the licenses in the
+terms. [CLS] [SEP]
+
+8.2 **indemnification.** you will indemnify us and our subsidiaries,
+affiliates, officers, agents, employees, partners, and licensors from any
+claim, demand, loss, or damage, including reasonable attorneys’ fees, arising
+out of or related to your content, creative cloud customer fonts, your use of
+the services or software (as applicable), or your violation of the terms. [CLS] [SEP] we
+have the right to control the defense of any claim, action, or matter subject
+to indemnification by you with counsel of our own choosing. [CLS] [SEP] you will fully
+cooperate with us in the defense of any such claim, action, or matter. [CLS] [SEP]
+
+**9\. [CLS] [SEP] disclaimers of warranties.**
+
+9.1 **unless stated in the additional terms, the services and software are
+provided “as-is.” to the maximum extent permitted by law, we disclaim all
+warranties, express or implied, including the implied warranties of non-
+infringement, merchantability, and fitness for a particular purpose. [CLS] [SEP] we make
+no commitments about the content within the services. [CLS] [SEP] we further disclaim any
+warranty that (a) the services or software will meet your requirements or will
+be constantly available, uninterrupted, timely, secure, or error-free; (b) the
+results obtained from the use of the services or software will be effective,
+accurate, or reliable; (c) the quality of the services or software will meet
+your expectations; or (d) any errors or defects in the services or software
+will be corrected.**
+
+9.2 **we specifically disclaim all liability for any actions resulting from
+your use of any services or software. [CLS] [SEP] you may use and access the services or
+software at your own discretion and risk, and you are solely responsible for
+any damage to your computer system or loss of data that results from the use
+of and access to any service or software.**
+
+9.3 **if you post your content on our servers to publicly share through the
+services, we are not responsible for: (a) any loss, corruption, or damage to
+your content; (b) the deletion of content by anyone other than adobe; or (c)
+the inclusion of your content by third parties on other websites or in other
+media.**
+
+**10\. [CLS] [SEP] limitation of liability.**
+
+10.1 **unless stated in the additional terms, we are not liable to you or
+anyone else for any special, incidental, indirect, consequential, moral,
+exemplary or punitive damages whatsoever, regardless of cause, including
+losses and damages (a) resulting from loss of use, data, reputation, revenue,
+or profits; (b) based on any theory of liability, including breach of contract
+or warranty, negligence, or other tortious action; or (c) arising out of or in
+connection with your use of or access to the services or software. [CLS] [SEP] nothing in
+the terms limits or excludes our liability for gross negligence, intentional
+misconduct of adobe or its employees, death, or personal injury.**
+
+10.2 **our total liability in any matter arising out of or related to the
+terms is limited to the greater of (a) us $100; or (b) the aggregate amount
+that you paid for access to the services and software during the three-month
+period preceding the event giving rise to the liability.**
+
+10.3 **these limitations and exclusions in this section 10 (limitation of
+liability) apply to the maximum extent permitted by law even if (a) a remedy
+does not fully compensate you for any losses or fails of its essential
+purpose; or (b) we knew or should have known about the possibility of
+damages.**
+
+10.4 **these terms set forth the entire liability of adobe and its affiliates
+as well as your exclusive remedy with respect to access and use of the
+services and software.**
+
+**11\. [CLS] [SEP] termination.**
+
+11.1 **termination by you.** you may stop using the services and software at
+any time. [CLS] [SEP] termination of your account does not relieve you of any obligation
+to pay any outstanding fees. [CLS] [SEP]
+
+11.2 **termination by us.** if we terminate the terms, or your use of the
+service(s) or software for reasons other than for cause, we will make
+reasonable efforts to notify you at least 30 days prior to termination via the
+email address you provide to us with instructions on how to retrieve your
+content. [CLS] [SEP] please note you may lose access to your content upon termination, as
+described in section 4.4 (termination of license). [CLS] [SEP] unless stated in any
+additional terms, we may, at any time, terminate or suspend your right to use
+and access the services or software if:
+
+(a) you breach any provision of the terms (or act in a manner that clearly
+shows you do not intend to, or are unable to, comply with the terms);
+
+(b) you fail to make the timely payment of fees for the services or software,
+if any;
+
+(c) you physically, verbally, or through other means abuse, threaten, bully,
+or harass us or our personnel (in such circumstances, we may alternatively
+suspend or restrict your access to the services or software);
+
+(d) you have repeatedly made complaints in bad faith or without a reasonable
+basis, and continue to do so after we have asked you to stop (in such
+circumstances, we may alternatively suspend or restrict your access to the
+services or software);
+
+(e) we are required to do so by law (for example, where the provision of the
+services or software to you is, or becomes, unlawful);
+
+(f) we elect to discontinue the services or software, in whole or in part
+(such as if it becomes impractical for us to continue offering services in
+your region due to change of law); or
+
+(g) there has been an extended period of inactivity in your free account. [CLS] [SEP]
+
+11.3 **survival.** upon the expiration or termination of the terms, some or
+all of the services and software may cease to operate without prior notice. [CLS] [SEP]
+your indemnification obligations, our warranty disclaimers and limitations of
+liabilities, and dispute resolution provisions stated in the terms will
+survive. [CLS] [SEP]
+
+**12\. [CLS] [SEP] trade sanctions and export control compliance.** the services and
+software, and your use of them, are subject to laws, restrictions, and
+regulations of the united states and other jurisdictions that (a) govern the
+import, export, and use of the services and software; and (b) may prohibit us
+from providing the services and software to you without notice. [CLS] [SEP] by using the
+services and software, you agree to comply with all such laws, restrictions,
+and regulations, and you warrant that you are not prohibited from receiving
+the services and software by the laws of any jurisdiction. [CLS] [SEP]
+
+**13\. [CLS] [SEP] australian consumer law.** nothing in the terms is intended to exclude,
+restrict, or modify any consumer rights under the competition and consumer act
+2010 (cth) (cca) or any other legislation which may not be excluded,
+restricted, or modified by agreement. [CLS] [SEP] if the cca or any other legislation
+implies a condition, warranty, or term into the terms or provides statutory
+guarantees in connection with the terms, in respect of goods or services
+supplied (if any), our liability for breach of such a condition, warranty,
+other term or guarantee is limited (at our election), to the extent it is able
+to do so: (a) in the case of supply of goods, us doing any one or more of the
+following: (1) replacing the goods or supplying equivalent goods; (2)
+repairing the goods; (3) paying the cost of replacing the goods or of
+acquiring equivalent goods; and (4) paying the cost of having the goods
+repaired; or (b) in the case of supply of services, our doing either or both
+of the following: (1) supplying the services again; and (2) paying the cost of
+having the services supplied again. [CLS] [SEP]
+
+**14\. [CLS] [SEP] dispute resolution.**
+
+14.1 **process.** if you have any concern or dispute, you agree to first try
+to resolve the dispute informally by contacting us. [CLS] [SEP] if a dispute is not
+resolved within 30 days of receipt by us, any resulting legal actions must be
+resolved through final and binding arbitration, including any question of
+whether arbitration is required, except that you may assert claims in small
+claims court if your claims qualify. [CLS] [SEP] claims related to the terms, services, or
+software are permanently barred if not brought within one year of the event
+resulting in the claim. [CLS] [SEP]
+
+14.2 **rules.** if you reside in the americas, jams will administer the
+arbitration in santa clara county, california pursuant to its comprehensive
+arbitration rules and procedures. [CLS] [SEP] if you reside in australia, new zealand,
+japan, mainland china, hong kong sar of china, macau sar of china, taiwan
+region, south korea, india, sri lanka, bangladesh, nepal, or a member state of
+the association of southeast asian nations (asean), then the singapore
+international arbitration centre (siac) will administer the arbitration in
+singapore under its rules of arbitration, which rules are deemed to be
+incorporated by reference in this section. [CLS] [SEP] otherwise, the london court of
+international arbitration (lcia) will administer the arbitration in london
+under the lcia arbitration rules. [CLS] [SEP] there will be one arbitrator that you and
+adobe mutually select. [CLS] [SEP] the arbitration will be conducted in the english
+language, but any witness whose native language is not english may give
+testimony in the witness’ native language, with simultaneous translation into
+english (at the expense of the party presenting the witness). [CLS] [SEP] judgment upon
+the award rendered may be entered and will be enforceable in any court of
+competent jurisdiction having jurisdiction over you and us. [CLS] [SEP]
+
+14.3 **no class actions. [CLS] [SEP] you may only resolve disputes with us on an
+individual basis, and you may not bring a claim as a plaintiff or a class
+member in a class, consolidated, or representative action.**
+
+14.4 **injunctive relief.** notwithstanding the foregoing, in the event of
+your or others’ unauthorized access to or use of the services or software in
+violation of the terms, you agree that we are entitled to apply for injunctive
+remedies (or an equivalent type of urgent legal relief) in any jurisdiction. [CLS] [SEP]
+
+**15\. [CLS] [SEP] audit rights.** if you are a business, then we may, no more than once
+every 12 months, upon seven 7 days’ prior notice to you, appoint our personnel
+or an independent third-party auditor who is obliged to maintain
+confidentiality to inspect (including manual inspection, electronic methods,
+or both) your records, systems, and facilities to verify that your
+installation and use of any and all services or software is in conformity with
+its valid licenses from us. [CLS] [SEP] additionally, you will provide us with all records
+and information requested by us within 30 days of our request in order for us
+to verify that the installation and use of any and all services and software
+is in conformity with your valid licenses. [CLS] [SEP] if the verification discloses a
+shortfall in licenses for the services or software, you will immediately
+acquire any necessary licenses, subscriptions, and applicable back maintenance
+and support. [CLS] [SEP] if the underpaid fees exceed 5% of the value of the payable
+license fees, then you will also pay for our reasonable cost of conducting the
+verification. [CLS] [SEP]
+
+**16\. [CLS] [SEP] updates to services and software and availability.**
+
+16.1 **updates to the services and software.** we may modify, update, or
+discontinue the services or software (including any portions or features) at
+any time, without liability to you or anyone else. [CLS] [SEP] however, for changes to
+paid offerings, we will make reasonable efforts to notify you of the
+modification, update, or discontinuation. [CLS] [SEP] if we discontinue the services or
+software in its entirety, we will use reasonable commercial efforts to allow
+you to transition your content, and we may provide you with a pro rata refund
+for any unused fees for that service or software that you prepaid. [CLS] [SEP]
+
+16.2 **availability.** webpages describing the services are accessible
+worldwide, but this does not mean all services or service features are
+available in your country or that user-generated content available via the
+services is legal or available in your country. [CLS] [SEP] access to certain services (or
+certain service features, sample files, or content files) in certain countries
+may be blocked by us or foreign governments. [CLS] [SEP] it is your responsibility to make
+sure your use of the services is legal or available where you use them. [CLS] [SEP]
+services are not available in all languages. [CLS] [SEP]
+
+**17\. [CLS] [SEP] no modifications, reverse engineering.** except as expressly permitted
+in the terms, you may not (a) modify, port, adapt, or translate any portion of
+the services or software; or (b) reverse engineer (including but not limited
+to monitoring or tracking the inputs and outputs flowing through a system or
+an application in order to recreate that system), decompile, disassemble, or
+otherwise attempt to discover, within any service or software, the source
+code, data representations or underlying algorithms, processes, methods, and
+any other portion of such service or software. [CLS] [SEP] if the laws of your
+jurisdiction give you the right to decompile the services or software to
+obtain information necessary to render the licensed portions of the services
+or software interoperable with other software, you must first request such
+information from us. [CLS] [SEP] we may, in our discretion, either provide such
+information to you or impose reasonable conditions, including a reasonable
+fee, on your decompilation of the services or software to ensure that our and
+our suppliers’ proprietary rights in the services and software are protected. [CLS] [SEP]
+
+**18\. [CLS] [SEP] miscellaneous.**
+
+18.1 **english version.** the english version of the terms will be the version
+used when interpreting or construing the terms. [CLS] [SEP]
+
+18.2 **notice to adobe.** you may send notices to us at the following address:
+adobe inc., 345 park avenue, san jose, california, 95110-2704, usa, attention:
+general counsel. [CLS] [SEP]
+
+18.3 **notice to you.** we may notify you by email, postal mail, postings
+within the services, or other legally accepted means. [CLS] [SEP] it is your
+responsibility to keep your account information current to receive
+notifications. [CLS] [SEP]
+
+18.4 **non-assignment.** you may not assign or otherwise transfer the terms or
+your rights and obligations under the terms, in whole or in part, without our
+written consent, and any such attempt will be void. [CLS] [SEP] we may transfer our rights
+under the terms to a third party. [CLS] [SEP]
+
+18.5 **government terms.** if you are a u.s. [CLS] [SEP] government entity, or if the
+terms become subject to the federal acquisition regulations (far), then, the
+services and software, provided under the terms are “commercial item(s),” as
+that term is defined at 48 c.f.r. [CLS] [SEP] §2.101, consisting of “commercial computer
+software” and “commercial computer software documentation,” and services
+related thereto, as such terms are used in 48 c.f.r. [CLS] [SEP] §12.212 or 48 c.f.r. [CLS] [SEP]
+§227.7202, as applicable. [CLS] [SEP] consistent with 48 c.f.r. [CLS] [SEP] §12.212 or 48 c.f.r. [CLS] [SEP]
+§227.7202-1 through §227.7202-4, as applicable, the commercial computer
+software and commercial computer software documentation are being licensed to
+u.s. [CLS] [SEP] federal government end users (a) only as commercial items; and (b) with
+only those rights as are granted to all other end users pursuant to the terms
+and conditions of the terms. [CLS] [SEP] unpublished rights are reserved under the laws of
+the united states- adobe inc., 345 park avenue, san jose, ca 95110-2704, usa. [CLS] [SEP]
+
+18.6 **headings.** headings used in the terms are provided for convenience
+only and will not be used to construe meaning or intent. [CLS] [SEP]
+
+18.7 **severability.** if any provision of the terms is held invalid or
+unenforceable for any reason, the remainder of the terms will continue in full
+force and effect. [CLS] [SEP]
+
+18.8 **no waiver.** our failure to enforce or exercise any provision of the
+terms is not a waiver of that provision. [CLS] [SEP]
+
+18.9 **force majeure.** neither party will be liable to the other for any
+delay or failure to perform any obligation (other than your payment
+obligations to adobe) under the terms if the delay or failure is due to
+unforeseen events, which occur after the effectiveness of the terms and which
+are beyond the reasonable control of the parties, such as strikes, blockade,
+war, terrorism, riots, natural disasters, refusal of license by the government
+or other governmental agencies, in so far as such an event prevents or delays
+the affected party from fulfilling its obligations and such party is not able
+to prevent or remove the force majeure at reasonable cost. [CLS] [SEP]
+
+**19\. [CLS] [SEP] dmca.** we respect the intellectual property rights of others, and we
+expect our users to do the same. [CLS] [SEP] we will respond to clear notices of copyright
+infringement consistent with the digital millennium copyright act (“dmca”). [CLS] [SEP]
+you can learn more about adobe’s ip takedown policies and practices
+[here](https://www.adobe.com/legal/dmca.html). [CLS] [SEP]
+
+adobe inc.: 345 park avenue, san jose, california 95110-2704
+
+adobe systems software ireland limited: 4-6 riverwalk, city west business
+campus, saggart, dublin 24
+
+adobe_general_terms_of_use-en_us-20200416
+
+###### language navigation
+
+language navigation
+
+__
+
+## choose your region
+
+selecting a region changes the language and/or content on adobe.com. [CLS] [SEP]
+
+  * ### americas
+
+  * [ brasil ](https://www.adobe.com/br/legal/terms.html)
+  * [ canada - english ](https://www.adobe.com/ca/legal/terms.html)
+  * [ canada - français ](https://www.adobe.com/ca_fr/legal/terms.html)
+  * [ latinoamérica ](https://www.adobe.com/la/legal/terms.html)
+  * [ méxico ](https://www.adobe.com/mx/legal/terms.html)
+  * [ united states ](https://www.adobe.com/legal/terms.html)
+  * ### europe, middle east and africa
+
+  * [ ](https://www.adobe.com/mena_fr/)
+  * [ africa - english ](https://www.adobe.com/africa/legal/terms.html)
+  * [ belgique - français ](https://www.adobe.com/be_fr/legal/terms.html)
+  * [ belgium - english ](https://www.adobe.com/be_en/legal/terms.html)
+  * [ belgië - nederlands ](https://www.adobe.com/be_nl/legal/terms.html)
+  * [ cyprus - english ](https://www.adobe.com/cy_en/legal/terms.html)
+  * [ danmark ](https://www.adobe.com/dk/legal/terms.html)
+  * [ deutschland ](https://www.adobe.com/de/legal/terms.html)
+  * [ eesti ](https://www.adobe.com/ee/legal/terms.html)
+  * [ españa ](https://www.adobe.com/es/legal/terms.html)
+  * [ france ](https://www.adobe.com/fr/legal/terms.html)
+  * [ greece - english ](https://www.adobe.com/gr_en/legal/terms.html)
+  * [ ireland ](https://www.adobe.com/ie/legal/terms.html)
+  * [ israel - english ](https://www.adobe.com/il_en/legal/terms.html)
+  * [ italia ](https://www.adobe.com/it/legal/terms.html)
+  * [ latvija ](https://www.adobe.com/lv/legal/terms.html)
+  * [ lietuva ](https://www.adobe.com/lt/legal/terms.html)
+  * [ luxembourg - deutsch ](https://www.adobe.com/lu_de/legal/terms.html)
+  * [ luxembourg - english ](https://www.adobe.com/lu_en/legal/terms.html)
+  * [ luxembourg - français ](https://www.adobe.com/lu_fr/legal/terms.html)
+  * [ magyarország ](https://www.adobe.com/hu/legal/terms.html)
+  * [ malta - english ](https://www.adobe.com/mt/legal/terms.html)
+  * [ middle east and north africa - english ](https://www.adobe.com/mena_en/legal/terms.html)
+  * [ nederland ](https://www.adobe.com/nl/legal/terms.html)
+  * [ norge ](https://www.adobe.com/no/legal/terms.html)
+  * [ polska ](https://www.adobe.com/pl/legal/terms.html)
+  * [ portugal ](https://www.adobe.com/pt/legal/terms.html)
+  * [ românia ](https://www.adobe.com/ro/legal/terms.html)
+  * [ schweiz ](https://www.adobe.com/ch_de/legal/terms.html)
+  * [ slovenija ](https://www.adobe.com/si/legal/terms.html)
+  * [ slovensko ](https://www.adobe.com/sk/legal/terms.html)
+  * [ suisse ](https://www.adobe.com/ch_fr/legal/terms.html)
+  * [ suomi ](https://www.adobe.com/fi/legal/terms.html)
+  * [ sverige ](https://www.adobe.com/se/legal/terms.html)
+  * [ svizzera ](https://www.adobe.com/ch_it/legal/terms.html)
+  * [ türkiye ](https://www.adobe.com/tr/legal/terms.html)
+  * [ united kingdom ](https://www.adobe.com/uk/legal/terms.html)
+  * [ österreich ](https://www.adobe.com/at/legal/terms.html)
+  * [ česká republika ](https://www.adobe.com/cz/legal/terms.html)
+  * [ българия ](https://www.adobe.com/bg/legal/terms.html)
+  * [ россия ](https://www.adobe.com/ru/legal/terms.html)
+  * [ україна ](https://www.adobe.com/ua/legal/terms.html)
+  * [ ישראל - עברית ](https://www.adobe.com/il_he/legal/terms.html)
+  * [ الشرق الأوسط وشمال أفريقيا - اللغة العربية ](https://www.adobe.com/mena_ar/legal/terms.html)
+  * ### asia pacific
+
+  * [ australia ](https://www.adobe.com/au/legal/terms.html)
+  * [ hong kong s.a.r. [CLS] [SEP] of china ](https://www.adobe.com/hk_en/legal/terms.html)
+  * [ india ](https://www.adobe.com/in/legal/terms.html)
+  * [ new zealand ](https://www.adobe.com/nz/legal/terms.html)
+  * [ southeast asia (includes indonesia, malaysia, philippines, singapore, thailand, and vietnam) - english ](https://www.adobe.com/sea/legal/terms.html)
+  * [ 中国 ](https://www.adobe.com/cn/legal/terms.html)
+  * [ 中國香港特別行政區 ](https://www.adobe.com/hk_zh/legal/terms.html)
+  * [ 台灣地區 ](https://www.adobe.com/tw/legal/terms.html)
+  * [ 日本 ](https://www.adobe.com/jp/legal/terms.html)
+  * [ 한국 ](https://www.adobe.com/kr/legal/terms.html)
+  * [ ](https://www.adobe.com/hr/)
+  * [ ](https://www.adobe.com/rs/)
+
+![](https://www.adobe.com/akam/11/pixel_31687cb8?a=dd01ntiwndu1n2nmzjiwzjvimzy3nzzjowy1nwizztkymwqwyzq2nzezjmpzpw9mzg==)
+

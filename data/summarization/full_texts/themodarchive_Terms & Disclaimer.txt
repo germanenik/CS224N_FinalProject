@@ -1,0 +1,331 @@
+[[?](index.php?faq-switches "about minibox ")] [[x](index.php?minibox=0
+"minimise minibox!")] [[c](censor.php?censor=0 "disable censor")]
+[[tmalite](http://lite.modarchive.org "visit the lite version of modarchive")]
+
+**[not logged in.](https://modarchive.org/login.php?request=log_in)**  
+  
+  
+detailed module view [[disabled]](index.php?detail=1)
+
+[![home](style/theme1/images/logo.png)](index.php "the mod archive website,
+since 1996")
+
+  * [member login](https://modarchive.org/login.php?request=log_in)
+    * [login](https://modarchive.org/login.php?request=log_in)
+    * [create account](https://modarchive.org/assistance.php?request=create_account_page)
+    * [forgotten password](https://modarchive.org/assistance.php?request=forgot_password_page)
+  * [music...](index.php?request=view_searchbox)
+    * [search...](index.php?request=view_searchbox)
+    * [new stuff](index.php?request=view_actions_uploads)
+      * [new comments](index.php?request=view_actions_ratings)
+      * [new additions](index.php?request=view_actions_uploads)
+    * [random pick!](index.php?request=view_random)
+    * [browse by...](index.php?request=view_searchbox)
+      * [searching](index.php?request=view_searchbox)
+      * [file name](index.php?request=view_by_list&query=a)
+      * [rating](index.php?request=view_by_rating_comments&query=10)
+      * [genre](index.php?request=view_genres)
+      * [license](index.php?request=view_by_license&query=publicdomain)
+    * [charts](index.php?request=view_chart&query=featured)
+      * [all featured modules](index.php?request=view_chart&query=featured)
+      * [top favourites](index.php?request=view_top_favourites)
+      * [most downloads](index.php?request=view_chart&query=tophits)
+      * [most revered](index.php?request=view_chart&query=topscore)
+      * [artist chart](index.php?request=view_chart&query=topartists)
+      * [member chart](index.php?request=view_chart&query=topmembers)
+    * [member favourites](index.php?request=view_members_with_favourites)
+  * [artists](index.php?request=view_artist)
+    * [the artist directory](index.php?request=view_artist)
+    * [recent users](index.php?request=lastseen_members_page)
+  * [help](index.php?help)
+    * [general help](index.php?help)
+    * [what's that box?](index.php?faq-switches)
+    * [registering](index.php?faq-registering)
+    * [modules](index.php?article-modules)
+      * [about modules](index.php?article-modules)
+      * [players modules](index.php?article-players)
+      * [uploading modules](index.php?faq-uploading)
+      * [module copyright](index.php?faq-licensing)
+      * [module removal policy](index.php?faq-removal-policy)
+    * [our torrents](index.php?faq-torrents)
+  * [latest news](news.php)
+    * [news](news.php)
+    * [articles](index.php?articles)
+  * [forums](http://forums.modarchive.org)
+    * [main forum](https://forums.modarchive.org)
+    * [support forum](https://forums.modarchive.org/index.php?board=9.0)
+    * [internet relay chat](index.php?request=view_chat)
+
+  
+
+#  terms & disclaimer  
+
+  
+
+_revised 2014-04-30_  
+  
+
+###  cookies  
+
+  
+by using our website, you agree to the use of cookies and other technologies
+as set out in this policy. [CLS] [SEP] if you do not agree to such use, please refrain
+from using the website. [CLS] [SEP] we use cookies to manage your experience on the site,
+without these you may suffer from lack of functionality, these are not used to
+track you. [CLS] [SEP]  
+  
+
+###  legalese. [CLS] [SEP]  
+
+  
+1.1 legal liability. [CLS] [SEP] by providing a song/file to our server you acknowledge
+that you may be held liable if the uploaded material is in any way illegal. [CLS] [SEP]
+you agree that you will notify the mod archive with no unnecessary delays
+should it at a later point be revealed that a song/file previously uploaded
+was illegally distributed, has illegal contents or is in some other way
+illegal to distribute. [CLS] [SEP]  
+  
+1.3 agreement term and termination. [CLS] [SEP] this agreement is non-terminable and may
+not be cancelled by any party. [CLS] [SEP] modified versions of this document may follow,
+but this agreement shall remain in effect for any songs/files uploaded under
+this agreement. [CLS] [SEP]  
+  
+1.4 agreement scope. [CLS] [SEP] this agreement sets forth the entire understanding and
+agreement of the parties as to this agreement's subject matter and supersedes
+all prior proposals, discussions or agreements with respect to such subject
+matter. [CLS] [SEP] all headings in the agreement are for convenience only and shall have
+no legal or contractual effect. [CLS] [SEP] should we choose not to exercise or enforce
+any right or provision of this agreement, this shall not constitute a waiver
+of such right or provisions. [CLS] [SEP] you agree that you and we are independent
+contractors under this agreement, and nothing in this agreement shall be used
+to create a partnership, or joint venture. [CLS] [SEP]  
+  
+1.5 link to third parties: the website may contain links to websites operated
+by third parties ("third party websites"). [CLS] [SEP] the mod archive does not have any
+influence or control over any such third party websites and, unless otherwise
+stated, is not responsible for and does not endorse any third party websites
+or their availability or contents. [CLS] [SEP]  
+  
+1.6 content: the mod archive does not in any way guarantee the accuracy of the
+information contained on the website nor does it guarantee that such
+information will be free of objectionable content or free of content which is
+unsuitable for minors. [CLS] [SEP]  
+  
+2.1 we reserve the right to change these terms of service without notice. [CLS] [SEP] you
+are responsible for regularly reviewing these terms of service. [CLS] [SEP] continued use
+of the mod archive after any such changes shall constitute your consent to
+such changes. [CLS] [SEP] the mod archive does not and will not assume any obligation to
+notify you of any changes to the terms of service. [CLS] [SEP]  
+  
+3\. [CLS] [SEP] general rules relating to conduct: the website service is made available
+for your own, personal use. [CLS] [SEP] the website service must not be used for any
+commercial purpose whatsoever or for any illegal or unauthorised purpose. [CLS] [SEP] when
+you use the website service you must comply with all applicable dutch laws
+relating to online conduct (including, without limitation, content which can
+be posted online) and with any applicable international laws, including the
+local laws in your country of residence (together referred to as "applicable
+laws"). [CLS] [SEP]  
+  
+4\. [CLS] [SEP] content submitted to the website: you are responsible for any information,
+data, text, music, software, sound, photographs, graphics, video, messages or
+other content ("content") which you post or upload and/or display (in public
+or privately) to the website. [CLS] [SEP] the mod archive may (but shall not be obliged
+to) delete, edit, lock, move or remove any content without notice and for any
+reason and/or to record the ip address from which any content is posted,
+uploaded and/or displayed without notice and for any reason, including,
+without limitation, content which, in our sole discretion, violates these
+terms or is or may be irrelevant, out of date, inappropriate or objectionable
+in any way whatsoever, or in respect of which the mod archive receives any
+complaint (whether justified or not). [CLS] [SEP] by posting, uploading and/or displaying
+any content to the website you warrant that: (a) you own all intellectual
+property and proprietary rights in such content or that you have a licence
+from the owner of such rights to post, upload and/or display such content on
+the website; and (b) the posting, uploading and/or displaying of such content
+on the website and the grant of the licence to the mod archive (on the terms
+set out below) will not infringe the intellectual property or proprietary
+rights of any third party. [CLS] [SEP]  
+  
+if you upload, post or otherwise transmit any content to the website, you
+automatically: (a) grant other users of the website and the website service
+the right to access the same and use it in accordance with these terms, and
+(b) grant the mod archive a non-exclusive, royalty free, sub-licensable,
+perpetual, world-wide licence to use, modify, publish, publicly perform,
+publicly display and distribute such content on and through the website and
+the website service and in any other form or medium. [CLS] [SEP] you continue to own the
+content after it is posted to the website. [CLS] [SEP]  
+  
+you acknowledge that the mod archive will not screen or otherwise check any
+content (with the exception of module uploads) which is submitted by you or
+any other user of the website service before it is posted, not monitor yours
+or any person’s use of the website service. [CLS] [SEP] as such, you as the user of the
+website service are responsible for any content you submit to the website and
+the manner in which the website service is used under your username. [CLS] [SEP] if you
+become aware of any misuse of the website service by any person including
+(without limitation) any posting of content which violates these terms, please
+contact us by following the instructions set out in paragraph 11 of these
+terms. [CLS] [SEP]  
+  
+5\. [CLS] [SEP] specific rules relating to conduct: you agree that when using the website
+service you will comply with all applicable laws (as defined in paragraph 3),
+these terms and you acknowledge that you are responsible for all acts and
+omissions which occur under your user-name. [CLS] [SEP] in particular, but without
+limitation, you agree not to:  
+  
+
+  * a. [CLS] [SEP] upload, post or otherwise display content which is or promotes behaviour which violates the rights (including, without limitation, the intellectual property rights) of a third party or which is unlawful, harmful, threatening, abusive, flaming, hateful, offensive (whether in relation to sex, race, religion or otherwise) harassing, hateful, defamatory, vulgar, obscene, invasive of another's privacy, solicits personal information from anyone under the age of 18 years, or contains any illegal content; or  
+
+  * b. [CLS] [SEP] upload, post or otherwise display any content which contains software viruses or any other files or programs that may interrupt, destroy or limit the functionality of the website or the website service or any server or networks connected to the website or another's computer, or that contains any chain letters, pyramid-selling schemes, bulk mail, junk mail or similar; or  
+
+  * c. [CLS] [SEP] upload, post or otherwise display any content containing a photograph of another person unless you have obtained that person’s consent;  
+
+  * d. [CLS] [SEP] harvest or collect any ip addresses or email addresses or other contact information of any members of the website, by electronic means or otherwise; or  
+
+  * e. [CLS] [SEP] upload, post or otherwise display any content for any commercial or business purpose including (without limitation) any content which contains any advertising or promotional materials; or  
+
+  * f. [CLS] [SEP] restrict or in any way inhibit any other person’s use of the website or the website service; or  
+
+  * g. [CLS] [SEP] upload, post or otherwise display any content which is false, misleading, un-necessary and/or repetitive including any content which is inaccurate, out of date or repeats that previously uploaded, posted or displayed by you or another visitor, unless absolutely necessary; or  
+
+  * h. [CLS] [SEP] upload, post or otherwise transmit any content to a part of the website which is irrelevant to the subject matter of the content; or  
+
+  * i. [CLS] [SEP] register an account with us under more than one user name and/or user account number; or  
+
+  * j. [CLS] [SEP] use the website or the website service in a manner that is inconsistent with these terms and/or any applicable laws in force from time to time or in a manner which promotes or encourages illegal activity; or  
+
+  * k. [CLS] [SEP] breach the terms of any suspension or ban or seek alternative access; or  
+
+  * l. [CLS] [SEP] in the interests of free speech, bring any action for defamation against the mod archive, or any of the companies in the same group; or  
+
+  * m. [CLS] [SEP] use or solicit any other account holder’s personal data for any purpose other than establishing non-commercial, lawful contact that such account holder would reasonably expect to welcome; or  
+
+  * n. [CLS] [SEP] submit content owned by a third party without consent from that third party or submit content in a manner which expressly or impliedly infers that such content is sponsored or endorsed by the website; or  
+
+  * o. [CLS] [SEP] use the website in any unlawful manner or in a manner which promotes or encourages illegal activity or in a manner which could damage, disable, overburden or impair the website or the website service; or  
+
+  * p. [CLS] [SEP] attempt to gain unauthorised access to the website or any networks, servers or computer systems connected to the website; or  
+
+  * q. [CLS] [SEP] modify, adapt, translate or reverse engineer any part of the website or use any robot, spider, site search/retrieval application or other device to retrieve or index any part of the website or re-format or frame any portion of the web pages comprising the website, unless permitted by law; or  
+
+  * r. [CLS] [SEP] remove or obstruct from view any advertisements and/or any copyright, trademark or other proprietary notices contained on or in the website; or  
+
+  * s. [CLS] [SEP] contact any other user of the website if they have expressly asked you not to; or  
+
+  * t. [CLS] [SEP] attempt to impersonate any other user or account holder of the website or the website service; or  
+
+  * u. [CLS] [SEP] use the username and/or password of any other account holder of the website or disclose your password to any other person; or  
+
+  * v. [CLS] [SEP] upload, post or otherwise display any content comprising an advertisement or accept payment or anything of value from any person in exchange for you uploading, posting or displaying any content or otherwise performing any commercial activity on or through the website or the website service on behalf of such person (including, without limitation, posting blogs/comments/profiles or bulletins for a commercial purpose and/or sending messages to other users of the website with a commercial purpose). [CLS] [SEP]  
+
+  
+you agree to indemnify the mod archive in full and on demand from and against
+any loss, damage, costs or expenses which they suffer or incur directly or
+indirectly as a result of your use of the website and/or the website service,
+and any use of the same under your username other than in accordance with
+these terms or applicable law. [CLS] [SEP]  
+  
+6\. [CLS] [SEP] **disclaimer / liability: use of the website and/or the website service is
+at your own risk. [CLS] [SEP] the website and the website service is provided on an “as
+is” basis. [CLS] [SEP] to the maximum extent permitted by law: (a) the mod archive
+disclaims all liability whatsoever, whether arising in contract, tort
+(including negligence) or otherwise in relation to the website and/or the
+website service; and (b) all implied warranties, terms and conditions relating
+to the website and/or the website service (whether implied by statue, common
+law or otherwise), including (without limitation) any warranty, term or
+condition as to accuracy, completeness, satisfactory quality, performance,
+fitness for purpose or any special purpose, availability, non infringement,
+information accuracy, interoperability, quiet enjoyment and title are, as
+between the mod archive and you, hereby excluded. [CLS] [SEP] in particular, but without
+prejudice to the foregoing, we accept no responsibility for the conduct of any
+user and/or account holder of the website and/or website service; any error,
+delay or failure in the transmission of any communication between users and/or
+account holders; any technical failure of the internet, the website and/or the
+website service; or any damage or injury to users or their equipment as a
+result of or relating to their use of the website or the website service. [CLS] [SEP] your
+statutory rights are not affected.**  
+  
+the mod archive will not be liable, in contract, tort (including, without
+limitation, negligence), under statute or otherwise, as a result of or in
+connection with the website and/or the website service, for any: (i) economic
+loss (including, without limitation, loss of revenues, profits, contracts,
+business or anticipated savings); or (ii) loss of goodwill or reputation; or
+(iii) special or indirect or consequential loss. [CLS] [SEP]  
+  
+nothing in these terms shall be construed as excluding or limiting the
+liability of the mod archive for death or personal injury caused by its
+negligence or for any other liability which cannot be excluded by dutch law. [CLS] [SEP]  
+  
+7\. [CLS] [SEP] access restriction and service suspension or termination: the mod archive
+reserves the right in its sole discretion to deny you access to the website
+and/or the website service, or any part thereof, with or without notice and
+for any reason including, without limitation, if you fail to comply with any
+clause 5 (member conduct) or any other provision of these terms. [CLS] [SEP] in
+particular, the mod archive may deny you access to the website and/or the
+website services if the mod archive exercises its right to delete, edit, lock
+or remove any content posted, uploaded or displayed by you. [CLS] [SEP] the mod archive
+reserves the right to suspend or cease providing all or any of the website
+service, without notice, and shall have no liability or responsibility to you
+in any manner whatsoever if it chooses to do so. [CLS] [SEP]  
+  
+8\. [CLS] [SEP] advertisers on the website: we accept no responsibility for adverts posted
+on the website. [CLS] [SEP] if you agree to purchase goods and/or services from any third
+party who advertises on the website, you do so at your own risk. [CLS] [SEP] the
+advertiser, not the mod archive, is responsible for such goods and/or services
+and if you have any queries or complaints in relation to them, your only
+recourse is against the advertiser. [CLS] [SEP]  
+  
+9\. [CLS] [SEP] account holder interaction you are responsible for how you interact with
+other account holders and users of the website and the website service. [CLS] [SEP] we
+reserve the right, but have no obligation, to monitor how you interact with
+those persons. [CLS] [SEP]  
+  
+10 general: these terms (as amended from time to time) constitute the entire
+agreement between you and the mod archive concerning your use of the website
+and the website service and supersede any previous arrangement, agreement,
+undertaking or proposal, written or oral between you and the mod archive in
+relation to such matters. [CLS] [SEP]  
+the mod archive reserves the right to update these terms from time to time. [CLS] [SEP] if
+it does so, the updated version will be effective as soon as it is uploaded on
+to this the website and your continued use of the website service following
+any changes constitutes your acceptance of the new terms. [CLS] [SEP] you are responsible
+for regularly reviewing these terms so that you are aware of any changes to
+them. [CLS] [SEP] no other variation to these terms shall be effective unless in writing
+and signed by an authorised representative on behalf of the mod archive. [CLS] [SEP]  
+these terms shall be governed by and construed in accordance with dutch law
+and you agree to submit to the exclusive jurisdiction of the dutch courts in
+relation to any dispute arising out of or relating to these terms and/or your
+use of the website and/or the website service. [CLS] [SEP]  
+if any provision(s) of these terms is held by a court of competent
+jurisdiction to be invalid or unenforceable, then such provision(s) shall be
+construed, as nearly as possible, to reflect the intentions of the parties (as
+reflected in the provision(s)) and all other provisions shall remain in full
+force and effect. [CLS] [SEP]  
+the mod archive's failure to exercise or enforce any right or provision of
+these terms shall not constitute a waiver of such right or provision unless
+acknowledged and agreed to by the mod archive in writing. [CLS] [SEP]  
+unless otherwise expressly stated, nothing in the terms shall create any
+rights or any other benefits whether pursuant to the contracts (rights of
+third parties) act 1999 or otherwise in favour of any person other than you
+and the mod archive. [CLS] [SEP]  
+  
+11\. [CLS] [SEP] contact: for support and help, use the appropriate forum within the [site
+forums](https://modarchive.org/forums). [CLS] [SEP]  
+  
+
+#  other conditions  
+
+  * [material upload terms](?terms-upload)  
+
+
+
+|
+
+website design & systems (c)2009-2019 by m0d and saga musix. [CLS] [SEP]  
+[follow us on twitter](https://twitter.com/modarchive_org) for status updates. [CLS] [SEP]  
+icons by [famfamfam](http://famfamfam.com/lab/icons/silk/)  
+hosted by [scenesat](https://scenesat.com/)  
+[disclaimer and terms of use](index.php?terms)  
+  
+---|---  
+  
+[π](http://nightbacon.com)
+

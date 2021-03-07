@@ -1,0 +1,60 @@
+# jontv
+
+this is the privacy policy on jontv.me
+
+[tos](tos.html)  
+"you"(or "you") refers to the account holder. [CLS] [SEP]
+
+## cookies
+
+we use cookies to keep you logged in and to keep your settings. [CLS] [SEP] to make things
+quicker, and to give better recommendations, stuff such as tags (keywords) of
+the videos you watch are saved in the session cookie, but is not being saved
+elsewhere. [CLS] [SEP]
+
+you're not being tracked, we do not sell anything about you. [CLS] [SEP]
+
+## data
+
+we only save your login and what you own, likes and dislikes (when pressing
+those buttons), you can delete account in [settings](../settings). [CLS] [SEP] below is a
+more detailed list. [CLS] [SEP]
+
+## required:
+
+### stored physically
+
+  * mail
+  * name
+  * password
+  * channel id
+  * date when account was created. [CLS] [SEP]
+
+### stored temporary
+
+  * ipaddress on signup to prevent account spam. [CLS] [SEP]
+
+## optional:
+
+### stored physically
+
+  * icon / channel avatar
+  * subscriptions
+  * liked videos
+  * disliked videos
+  * uploaded content
+  * history - [settings](/settings)
+
+## cookie session (stored temporary)
+
+  * if current video has been seen. [CLS] [SEP]
+  * channel information (id, icon) to smoothen loading times. [CLS] [SEP]
+  * which tags the videos you've seen has had so that they can be used in recommendations. [CLS] [SEP]
+
+  
+
+### third parties
+
+only ads are from third-parties, it's how we and our creators get paid. [CLS] [SEP] no
+third parties gets your data. [CLS] [SEP]
+

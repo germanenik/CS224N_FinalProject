@@ -1,0 +1,280 @@
+## simple speak introduction for terms of service
+
+you’re busy. [CLS] [SEP] we get it. [CLS] [SEP] so we’ve summed up our terms of service in a few
+simple sentences. [CLS] [SEP] they don’t replace the official legal stuff, but they will
+give you an idea of what’s in there. [CLS] [SEP] any questions or concerns – please
+contact us. [CLS] [SEP]
+
+here are the headlines (imagine them with a clock bonging in the background if
+you like):
+
+  * you have to be 16 to use our tools. [CLS] [SEP]
+  * your content is yours – you own it, and you are responsible for it. [CLS] [SEP] we’ll only do what’s needed for our services to work properly... [CLS] [SEP]
+  * ...unless you are doing something illegal, in which case we can block and/or delete your stuff, and suspend your accounts. [CLS] [SEP]
+  * we may make changes to our terms, service and/or fees from time to time. [CLS] [SEP] if you have an account and don’t like something we change, you can always cancel at any time. [CLS] [SEP]
+  * and we should mention that you use our service at your own risk; we are not liable for any damages if things go wrong. [CLS] [SEP]
+
+and that’s it. [CLS] [SEP] seems fair right? you do you, we’ll do us and everything will
+be fine. [CLS] [SEP]
+
+* * *
+
+# terms of service
+
+18 august 2020 [ download pdf](https://we.tl/legaldocs "download pdf")
+
+wetransfer offers tools to move ideas, such as:
+
+  * a service to share files (“wetransfer file sharing”);
+  * a free (online) magazine (“wepresent”);
+  * a service that allows you to store, organize, share and receive content from multiple sources (“collect”);
+  * a service that allows you to capture your ideas through sketches, notes and images (“paper”);
+  * a service that allows you to present your ideas (“paste”); and
+  * additional features and functionalities. [CLS] [SEP]
+
+your use of and access to our services, software, websites (including browser
+extensions) and/or applications (together: “services”) are governed by these
+terms of service (“terms”). [CLS] [SEP]
+
+the services may be provided to you online, in the form of a mobile and/or
+desktop application(s) and/or may be integrated in a third party service. [CLS] [SEP]
+
+the services allow you to upload, submit, store, share, receive, collect,
+capture and/or visualize your ideas, texts, graphics, videos, data,
+information, files, presentation decks or other content, including third party
+content used by you (together:“content”). [CLS] [SEP] you retain all rights in- and
+responsibility and liability for all content. [CLS] [SEP] wetransfer does not claim
+ownership of your content. [CLS] [SEP]
+
+the services are provided to you as the user of the services by wetransfer
+b.v. [CLS] [SEP] (“wetransfer”, “we”), with its main office at willem fenengastraat 19,
+1096 bl amsterdam, the netherlands, registered at the dutch chamber of
+commerce under 34380998. [CLS] [SEP]
+
+  1. [CLS] [SEP] ### applicability
+
+    1. [CLS] [SEP] you are only allowed to use the services when aged 16 or older. [CLS] [SEP]
+
+    2. [CLS] [SEP] please read the terms carefully. [CLS] [SEP] by using the services (directly with us or through a third party application, plug-in, extension or integration) you agree and accept these terms and our [notice and take down policy](/legal/takedown) (“ntd policy”). [CLS] [SEP] to the use of personal data and cookies in relation to the services our [privacy & cookie statement](/legal/privacy) applies. [CLS] [SEP]
+
+    3. [CLS] [SEP] if the services include, are used in connection with, or are integrated in the services of third parties, the terms and conditions, notice and take down policies and/or privacy and cookie policies of those third parties may apply in addition to these terms. [CLS] [SEP] if you are using the services on behalf of your employer or another organization, you are agreeing to the terms of that organization and you represent and warrant that you have the authority to do so. [CLS] [SEP] wetransfer is not responsible for any third party services, terms and/or policies. [CLS] [SEP]
+
+    4. [CLS] [SEP] if you want to file a complaint or notice about unlawful content being stored or shared via the services or the wetransfer api, please read our [ntd policy](/legal/takedown). [CLS] [SEP]
+
+    5. [CLS] [SEP] if you become aware of a vulnerability in any of the services, please read our [responsible disclosure policy](/legal/disclosure). [CLS] [SEP]
+
+    6. [CLS] [SEP] if you want to use the wetransfer api (as described in the api terms of use) our [api terms of use](https://developers.wetransfer.com/terms) apply in addition to these terms. [CLS] [SEP]
+
+    7. [CLS] [SEP] wetransfer can amend the terms from time to time. [CLS] [SEP] the amended terms will become effective upon them being posted on wetransfer’s website(s) and/or on wetransfer’s mobile and/or desktop application(s), or at such later date as may be stated on the amended terms. [CLS] [SEP] therefore, we recommend that you review the terms from time to time and take note of any changes. [CLS] [SEP] by continuing your use of the services you accept the amended terms. [CLS] [SEP] in case of material changes to the terms, you will be informed prior to the change: (i) at the moment you use the services, or (ii) by a message to the contact details you provided to us, or (iii) by a posting of the notice of the change on wetransfer’s website(s) and/or on wetransfer’s mobile and/or desktop application(s). [CLS] [SEP] in the event you don’t accept a change you can cancel your subscription. [CLS] [SEP]
+
+    8. [CLS] [SEP] these terms supersede any and all prior oral and written quotations, terms, communications, agreements and understandings between you and wetransfer. [CLS] [SEP]
+
+    9. [CLS] [SEP] the following parts of these terms apply to specific services only:
+
+      * clause 2: wetransfer file sharing;
+      * clause 3: wepresent;
+      * clause 4: collect;
+      * clause 5: paper;
+      * clause 6: paste;
+      * clause 7 and 8: all paid subscription services. [CLS] [SEP]
+
+all other clauses apply to all services. [CLS] [SEP]
+
+  2. [CLS] [SEP] ### wetransfer file sharing
+
+    1. [CLS] [SEP] wetransfer file sharing allows you to share your content with others. [CLS] [SEP]
+
+    2. [CLS] [SEP] to share your content you need to upload it and provide us with (a limited number of) email addresses of recipient(s) (“email transfer”) or choose to distribute a download link yourself (“link transfer”). [CLS] [SEP] if you use link transfer you will not be informed of any downloads by others. [CLS] [SEP]
+
+    3. [CLS] [SEP] wetransfer file sharing provides the possibility to share content up to a maximum total capacity. [CLS] [SEP] uploaded content is stored on wetransfer’s servers for a limited period of time after which the ability to download expires. [CLS] [SEP] depending on the transfer type some limitations apply, which you can find [here](https://wetransfer.zendesk.com/hc/en-us/articles/202603916-how-long-are-transfers-available-to-download-). [CLS] [SEP]
+
+    4. [CLS] [SEP] after the expiry period wetransfer will permanently delete the uploaded files. [CLS] [SEP] these files will not be available nor retrievable anymore. [CLS] [SEP]
+
+    5. [CLS] [SEP] the basic functionality of wetransfer file sharing is (currently) free from registration and charge. [CLS] [SEP]
+
+    6. [CLS] [SEP] we also offer “wetransfer pro”, a paid subscription version that - compared to the free version - offers you a set of premium services and different subscription terms.. [CLS] [SEP] you can find more information [here](https://wetransfer.com/pro). [CLS] [SEP]
+
+    7. [CLS] [SEP] if you have a wetransfer pro subscription, we offer “pro pass”. [CLS] [SEP] with pro pass you can unlock collect pro and paste pro. [CLS] [SEP] you can find more information [here](https://pro.bywetransfer.com/pro-pass). [CLS] [SEP]
+
+    8. [CLS] [SEP] wetransfer reserves the right to automatically delete all content uploaded with wetransfer pro and still available on our servers, 28 days after your wetransfer pro subscription has ended. [CLS] [SEP]
+
+    9. [CLS] [SEP] wetransfer treats content as confidential and does not control the use of download links, regardless of whether they are originally distributed by us or by you. [CLS] [SEP] recipients can forward the links and allow others to use them. [CLS] [SEP] you are solely responsible for the content you upload and share. [CLS] [SEP]
+
+  3. [CLS] [SEP] ### wepresent
+
+    1. [CLS] [SEP] wepresent is an (online) magazine that presents creative stories and showcases art, photography, music and more from around the world. [CLS] [SEP] any content included on wepresent is owned by or licensed to wetransfer and can only be used with express prior written permission from wetransfer. [CLS] [SEP]
+
+    2. [CLS] [SEP] wetransfer offers wepresent as a free service. [CLS] [SEP] although care and attention is devoted to the content of our (online) magazine, wetransfer cannot warrant that it is always complete and accurate. [CLS] [SEP] wetransfer disclaims any liability in relation to the use of such content. [CLS] [SEP]
+
+  4. [CLS] [SEP] ### collect
+
+    1. [CLS] [SEP] collect allows you to store, organize, share and receive content from multiple sources using the collect services. [CLS] [SEP]
+
+    2. [CLS] [SEP] the basic functionality of collect is (currently) free from registration and charge. [CLS] [SEP] the content you use, share or receive in the collect application will be stored on your device and/or on our servers. [CLS] [SEP] we are not responsible for any content stored on your device. [CLS] [SEP] your content may be lost if you remove your content from the collect application, if you remove the collect application from your device, or if you lose your device. [CLS] [SEP]
+
+    3. [CLS] [SEP] for additional functionality (such as the “save to collect” browser extension) you have to create an account and provide us with your email address and/or other details. [CLS] [SEP] you can find more information [here](https://collect.wetransfer.com/). [CLS] [SEP]
+
+    4. [CLS] [SEP] wetransfer reserves the right to permanently delete content when you stop interacting with collect, when you delete your content from the collect services, when you delete the collect services from your device(s), when you cancel your wetransfer pro subscription with pro pass (as set out in section 2.7) or when you delete your account. [CLS] [SEP] full payment of applicable fees is considered to be active use of collect. [CLS] [SEP] for more information on wetransfer’s data retention policy, please contact our [help center](https://we.tl/help). [CLS] [SEP]
+
+    5. [CLS] [SEP] we also offer “collect pro”, a paid subscription service that - compared to the free version of collect - offers you a set of premium services. [CLS] [SEP] more information can be found [here](https://collect.wetransfer.com/). [CLS] [SEP]
+
+  5. [CLS] [SEP] ### paper
+
+    1. [CLS] [SEP] paper allows you to capture your ideas with tools to sketch, type, paint, draw, etc. [CLS] [SEP] using the paper services. [CLS] [SEP] any content included in the “journals” (including but not limited to digital workbooks, planners, drawings, tutorials, videos) is owned by or licensed to wetransfer and can only be used with express prior written permission from wetransfer. [CLS] [SEP]
+
+    2. [CLS] [SEP] the content you create with paper will be stored on your device and not on our servers. [CLS] [SEP] your content may be lost if you remove your content from the paper services, if you remove the paper services from your device or if you lose your device. [CLS] [SEP] if you choose to export any content and share it with others, it may be stored elsewhere. [CLS] [SEP]
+
+    3. [CLS] [SEP] the basic functionality of paper (“paper basic”) is (currently) free from registration and charge. [CLS] [SEP]
+
+    4. [CLS] [SEP] we also offer “paper pro”, a paid subscription service that - compared to paper basic - offers you a set of premium services. [CLS] [SEP] you can find more information [here](https://paper.bywetransfer.com). [CLS] [SEP]
+
+    5. [CLS] [SEP] when your paper (pro) subscription is linked to your apple id, you are also allowed to store your paper content in the icloud or to synchronize the paper content on your device(s) through your icloud account. [CLS] [SEP] the terms and limitations of apple (including retention policies) may apply in addition to these terms. [CLS] [SEP]
+
+  6. [CLS] [SEP] ### paste
+
+    1. [CLS] [SEP] paste allows you to create presentation slides with different content sources (such as screenshots, videos, documents, links), use auto-layout formats, gather input and share presentation decks with other users using the paste services. [CLS] [SEP]
+
+    2. [CLS] [SEP] to use paste you have to create an account and provide us with your email address and other details. [CLS] [SEP] alternatively, you can also use paste through (your account of) a third party service. [CLS] [SEP] as such, the terms of the third party may apply in addition to these terms. [CLS] [SEP]
+
+    3. [CLS] [SEP] the basic functionality of paste is (currently) free of charge. [CLS] [SEP] you can also sign up for a paid subscription, which offers a set of premium services. [CLS] [SEP] you can find the current subscription options and their specific characteristics [here](https://paste.bywetransfer.com/pricing). [CLS] [SEP]
+
+    4. [CLS] [SEP] the content you create, share or otherwise use in the paste application is stored on our servers. [CLS] [SEP]
+
+    5. [CLS] [SEP] wetransfer reserves the right to permanently delete content when you stop interacting with paste, when you delete your content from the paste application, when you delete the paste application from your device(s), when you cancel your wetransfer pro subscription with pro pass (as set out in section 2.7) or when you delete your account. [CLS] [SEP] full payment of applicable fees is considered to be an active use of paste. [CLS] [SEP] for more information on wetransfer’s data retention policy, please contact our help center. [CLS] [SEP]
+
+  7. [CLS] [SEP] ### payment conditions
+
+    1. [CLS] [SEP] if you use a paid subscription service, the initial subscription term starts once the fees due have been paid in full. [CLS] [SEP]
+
+    2. [CLS] [SEP] we may introduce or change the fees for the services from time to time, for which we will give you advance notice. [CLS] [SEP] if you have a fixed term and price subscription, that price will remain in force for the fixed term. [CLS] [SEP] if you do not agree with the price change, you must cancel your subscription and stop using the services by the end of the then-current service term. [CLS] [SEP] if you continue to use the services after the price change goes into effect, you agree to pay the changed price. [CLS] [SEP] fee introductions will require your prior consent and registration. [CLS] [SEP]
+
+    3. [CLS] [SEP] depending on the payment method you choose, the issuer of the payment method may charge you certain fees relating to the processing of your payment. [CLS] [SEP]
+
+    4. [CLS] [SEP] you can change your payment method in your account settings of the respective service or by contacting our [help center](https://wetransfer.zendesk.com/hc/en-us). [CLS] [SEP]
+
+    5. [CLS] [SEP] wetransfer may suspend or cancel the services to you if a payment is not successfully settled (for instance in case of insufficient funds, expiration of credit cards, a change in payment details or otherwise). [CLS] [SEP] suspension or cancellation of the services for non-payment can result in a loss of access to and use of your account and your content. [CLS] [SEP]
+
+    6. [CLS] [SEP] if you subscribe and pay us through the apple app store or google play store, the terms of apple or google may also apply. [CLS] [SEP]
+
+  8. [CLS] [SEP] ### term and cancellation of a subscription
+
+    1. [CLS] [SEP] the initial subscription term varies depending on your choice and/or the service it applies to. [CLS] [SEP]
+
+    2. [CLS] [SEP] you have the right to cancel your subscription during the first 14 days, unless you start using the service during this period whereby you waive your right to cancel. [CLS] [SEP]
+
+    3. [CLS] [SEP] the subscription period will be renewed automatically for the selected subscription period, unless you have cancelled your subscription on time (before the last day of your subscription). [CLS] [SEP]
+
+    4. [CLS] [SEP] in case of cancellation you will continue to have access to the services until the end of your paid subscription period. [CLS] [SEP] for instance: if the commencement date of your monthly subscription is 2 february and you cancel your subscription on 17 october, you will continue to have access until 2 november. [CLS] [SEP]
+
+    5. [CLS] [SEP] pro pass is linked to your wetransfer pro subscription. [CLS] [SEP] so if you cancel your subscription you will lose access to paste pro and collect pro. [CLS] [SEP]
+
+    6. [CLS] [SEP] cancellation does not give you any right to reimbursement of (part of) the subscription fee, unless local mandatory consumer law obliges to do so. [CLS] [SEP]
+
+    7. [CLS] [SEP] in case your subscription is automatically renewed for a period of more than three (3) months, you will have the right to cancel the subscription at any time after such renewal with a cancellation term of one (1) month. [CLS] [SEP] in case of cancellation based on this clause you may request reimbursement of part of the subscription fee. [CLS] [SEP] this means that you pay for the period until the cancellation enters into force, based on the standard monthly fee for the respective service. [CLS] [SEP]
+
+    8. [CLS] [SEP] upon cancellation or if a payment is not successfully settled (for instance due to expiration or insufficient funds), your account will be deactivated after the end of your subscription period. [CLS] [SEP] you will then not have access to your personal data, address book and any content stored using the service(s). [CLS] [SEP] you can reactivate your subscription at any time in your account settings by making payment within four weeks after deactivation. [CLS] [SEP] your subscription will then be renewed as from the day of reactivation. [CLS] [SEP]
+
+    9. [CLS] [SEP] if you do not reactivate your subscription within the term set out above, any of your content stored using the service(s) and any of your information, including your personal content, settings, address book and any files stored for transfer may have been automatically and permanently deleted from our servers. [CLS] [SEP]
+
+    10. [CLS] [SEP] if you subscribe through the apple app store, the terms of apple may apply to the term and cancellation of your subscription instead of the terms in this clause. [CLS] [SEP]
+
+  9. [CLS] [SEP] ### content ownership, permissions and responsibility
+
+    1. [CLS] [SEP] wetransfer does not claim any ownership of the content you create, use, store or share through the services and you are solely responsible for it. [CLS] [SEP] also you are solely responsible for sharing it with the correct recipients. [CLS] [SEP] any liability for damages relating to the content lies with the individual that creates, uses, stores and/or shares it within the services. [CLS] [SEP] you acknowledge that download and/or access links can be forwarded and that recipients having access to such link, can access the content it’s connected with. [CLS] [SEP]
+
+    2. [CLS] [SEP] some of the services allow you to protect content or transfers with a password. [CLS] [SEP] the user is solely responsible for the confidentiality and/or the distribution of passwords. [CLS] [SEP]
+
+    3. [CLS] [SEP] by using the services you warrant that you have, for any content you create, use, store or share using the services, all required permissions (including from copyright and other intellectual property rights owners) to distribute, sub-license, transfer, store and/or make the content online available as part of the services. [CLS] [SEP]
+
+    4. [CLS] [SEP] wetransfer is not liable to you or any third party for any damages arising out of or in relation to the content created, used, stored or shared by you within the services, including but not limited to, copyright protected works and/or trademarks. [CLS] [SEP]
+
+    5. [CLS] [SEP] wetransfer requires a license from you with regards to the content **for the sole purpose of operating, enabling, and improving the services**. [CLS] [SEP] solely for this explicit purpose and until you delete the content from the services, you agree and acknowledge that by using the services, you grant us an unlimited, worldwide, royalty-free license to (i) use, host, store, scan, search, sort, index, create previews and (ii) reproduce, communicate, publish, publicly display, distribute and edit (including but not limited to scaling, cropping, adapting and translating) the content. [CLS] [SEP] the license part under (ii) does not apply to wetransfer file sharing as set out in clause 2 of these terms. [CLS] [SEP] for the avoidance of doubt, wetransfer will not sell or advertise the content: wetransfer only requires the license **for the sole purpose of operating, enabling, and improving the services**. [CLS] [SEP]
+
+    6. [CLS] [SEP] wetransfer does not provide any public search function, catalogue or listing to find content. [CLS] [SEP]
+
+    7. [CLS] [SEP] wetransfer may show you ads from advertisers and artists selected by wetransfer (such as full-page wallpaper ads) when you use the services. [CLS] [SEP]
+
+    8. [CLS] [SEP] more information on the use of your personal data and cookies (including for performance marketing) is available in our [privacy & cookie statement](/legal/privacy). [CLS] [SEP]
+
+  10. [CLS] [SEP] ### restrictions
+
+    1. [CLS] [SEP] wetransfer respects your rights and expects that you respect those of others, including wetransfer, its artists, advertisers and third parties. [CLS] [SEP] this includes respecting the right to privacy, corporate intelligence, business secrets and intellectual property rights, such as trademarks, copyrights, trade names and logos. [CLS] [SEP] you agree not to use the services to commit, promote, enable or facilitate any unlawful or criminal acts or breach of these terms or facilitate or promote others to do so. [CLS] [SEP]
+
+    2. [CLS] [SEP] as a condition to make use of the services you agree not to create, use, store or share any content that:
+
+      * features csai (child sexual abuse imagery);
+      * is obscene, defamatory, libelous, slanderous, profane, indecent, discriminating, threatening, abusive, harmful, lewd, vulgar, or unlawful;
+      * promotes racism, violence or hatred;
+      * is factually inaccurate, false, misleading, misrepresenting or deceptive;
+      * you don’t hold the rights to;
+      * infringes, violates or misappropriates intellectual property rights, privacy rights, including data protection rights, and/or any other kind of rights;
+      * infringes on or violates any applicable law or regulation; and/or
+      * constitutes ‘hate speech’, whether directed at an individual or a group, and whether based upon the race, sex, creed, national origin, religious affiliation, sexual orientation, language or another characteristic of such individual or group. [CLS] [SEP]
+    3. [CLS] [SEP] in addition, you agree not to:
+
+      * abuse, harass, stalk, intimidate, threaten, commit violence, or otherwise act unlawful, or encourage anyone else to do so;
+      * impersonate or falsely pretend affiliation with any person or entity;
+      * access any non-public areas of the services;
+      * interfere with any access or use restrictions;
+      * use any data mining or data gathering or extraction methods, or otherwise collect information about the users of the services;
+      * send viruses, worms, malware, ransomware, junk email, spam, chain letters, phishing emails, unsolicited messages, promotions or advertisements of any kind and for any purpose;
+      * interfere with, damage or disrupt the services or act in a way that may do so;
+      * attempt to probe, scan, compromise or test the vulnerability of the services or any related service, system or network or breach any security or authentication, unless you do so in accordance with our responsible disclosure policy;
+      * use automated means to access or use the services without our permission;
+      * reverse engineer or decompile any (part) of the services;
+      * resell, sublicence, rent, lease, offer or otherwise commercialize the services without our permission; and/or
+      * allow others to use your account. [CLS] [SEP]
+  11. [CLS] [SEP] ### violation of the terms of service
+
+    1. [CLS] [SEP] wetransfer reserves the right to investigate, provide to third parties, (temporarily) block and/or permanently delete from it servers, without prior notice or liability, any content and/or account information or to block anyone from accessing any part of the services, when wetransfer ascertains, at its sole discretion or after receiving substantiated and valid complaints, that you breach these terms or act in violation of any applicable law or regulation. [CLS] [SEP] more information is available in our [notice and takedown policy](/legal/takedown). [CLS] [SEP]
+
+  12. [CLS] [SEP] ### intellectual property rights
+
+    1. [CLS] [SEP] all intellectual property rights and/or similar rights on the services (including the software, wallpapers, wepresent content, photography, graphic design, typography, portraits, logos, trademarks, trade names, domain names, copyrights and patents) are vested in wetransfer and/or its licensors and you are not allowed to use, remove, modify, copy, mirror, distribute, decompile, or reverse engineer any of it in any way. [CLS] [SEP]
+
+    2. [CLS] [SEP] wetransfer is not responsible or liable for third party content published within the services, in-ad links to external websites or the content, products or services offered on external websites. [CLS] [SEP] you acknowledge and accept that all use outside the services is at your own risk. [CLS] [SEP]
+
+    3. [CLS] [SEP] you will always respect and observe the good name and reputation of wetransfer and ensure that your use of the services will in no way prejudice any rights and/or the good name and reputation of wetransfer and its licensors. [CLS] [SEP]
+
+  13. [CLS] [SEP] ### disclaimer and account registration
+
+    1. [CLS] [SEP] wetransfer provides the services “as-is”, without any warranty of any kind. [CLS] [SEP] without limiting the foregoing, wetransfer explicitly disclaims any warranties of merchantability, fitness for a particular purpose and non-infringement. [CLS] [SEP] wetransfer makes no warranty that the services are available on an uninterrupted, secure or error-free basis. [CLS] [SEP] your use of the services is at your own risk. [CLS] [SEP] you acknowledge and agree that wetransfer is not responsible for any damages to the computer system or mobile device of you or any third party that result from the use of the services and is not responsible for any failure of the services to store, transfer or delete a file or for the corruption or loss of any data, information or content contained in a file. [CLS] [SEP]
+
+    2. [CLS] [SEP] wetransfer may change, terminate or expand its services from time to time and reserves the right to limit access to or eliminate any features or functionality of the services in its own discretion. [CLS] [SEP]
+
+    3. [CLS] [SEP] some of the services require you to register and provide us with data such as your email address, password and/or payment details. [CLS] [SEP] you must ensure that these are accurate and keep them updated in your account settings. [CLS] [SEP] you are responsible for any activity from or by your account, so you should not share your password and you should protect it carefully. [CLS] [SEP] should registrations or account data appear to be misused, wetransfer reserves the right to delete the account. [CLS] [SEP] wetransfer is not liable for any loss or damage arising from the unauthorized use of your account. [CLS] [SEP]
+
+  14. [CLS] [SEP] ### indemnity and liability
+
+    1. [CLS] [SEP] you will defend, indemnify and hold harmless wetransfer (including its employees and affiliates) from and against any claims, incidents, liabilities, procedures, damages, losses and expenses (including legal and accounting fees), arising out of or in any way connected with your access to or use of the services or your breach of these terms, including any third party claims that content created, used, stored or shared using the services by you or through your account, infringe or violate any third party rights. [CLS] [SEP]
+
+    2. [CLS] [SEP] the services may provide integration with third-party services. [CLS] [SEP] you acknowledge that: (i) wetransfer is not responsible for any acts or omissions of such third-party services; (ii) that wetransfer is not an agent of such third-party services; and (iii) your use of those services is subject to any applicable terms and conditions between you and the providers of such services. [CLS] [SEP]
+
+    3. [CLS] [SEP] wetransfer is not liable for any damage or personal injury resulting from any use of the services, including any (temporary) unavailability or (accidental) removal of your content or account. [CLS] [SEP] the limitation of liability referred to in this clause shall not apply if the liability for damage caused by intent or gross negligence on the part of wetransfer. [CLS] [SEP] in the event wetransfer is liable for damage under mandatory law, wetransfer’s aggregate liability to you for any and all claims arising out of or in connection with the use of the services will in no event exceed the amount of one hundred euro (€100) per incident. [CLS] [SEP]
+
+  15. [CLS] [SEP] ### waiver, severability & assignment
+
+    1. [CLS] [SEP] wetransfer’s failure to enforce a provision is not a waiver of its right to do so later. [CLS] [SEP]
+
+    2. [CLS] [SEP] if any (part of a) provision of these terms is found to be illegal, unenforceable or otherwise invalid, then (i) the rest of the terms will remain in full force and effect to the extent permissible under or consistent with the relevant laws; and (ii) that part will be deemed to be deleted and substituted by a valid one which in its economic effect comes closest to the invalid part. [CLS] [SEP]
+
+    3. [CLS] [SEP] you may not assign any of your rights under these terms. [CLS] [SEP] wetransfer is at any time entitled to assign its rights to any of its affiliates or subsidiaries, or to any successor in interest of any business associated with the services without your consent or any other restriction. [CLS] [SEP]
+
+  16. [CLS] [SEP] ### applicable law and jurisdiction
+
+    1. [CLS] [SEP] these terms and any non-contractual obligations arising out of or in connection with it will be governed by and construed and interpreted in accordance with dutch law. [CLS] [SEP] these terms will not limit any consumer protection rights that you may be entitled to under the mandatory laws of your country of residence. [CLS] [SEP]
+
+    2. [CLS] [SEP] any disputes regarding these terms will be submitted to the exclusive jurisdiction of the competent court in the netherlands (with the exception of dutch private international law). [CLS] [SEP]
+
+  17. [CLS] [SEP] ### contact
+
+    1. [CLS] [SEP] you can contact wetransfer at [legal@wetransfer.com](mailto:legal@wetransfer.com) or by using our [help center](https://we.tl/help) if you have any questions, just send us an email in english or dutch. [CLS] [SEP]
+
+# uh-oh... [CLS] [SEP]
+
+we couldn't load some important parts of our website. [CLS] [SEP] they may have been
+blocked by your firewall, proxy or browser set-up. [CLS] [SEP] try refreshing the page or
+get in touch through our [help center](https://wetransfer.zendesk.com). [CLS] [SEP]
+
+you need a javascript-enabled browser to use wetransfer
+

@@ -1,0 +1,69 @@
+# [letterboxd -- your life in film](/)
+
+username or email
+
+password
+
+__ remember me
+
+[forgotten password?](/user/request-password-reset)
+
+__
+
+×
+
+search:
+
+  * [terms of use](/legal/terms-of-use/)
+  * [privacy policy](/legal/privacy-policy/)
+  * [community policy](/legal/community-policy/)
+
+# privacy policy
+
+  1. [CLS] [SEP] **your privacy** : letterboxd is committed to ensuring the privacy of your information. [CLS] [SEP]
+  2. [CLS] [SEP] **application** : this privacy policy applies to all personal information submitted by you on _letterboxd.com_ (the "website"), or via an official letterboxd app (the "app"), or via use of the letterboxd api (the "api"), and any information that may be automatically retrieved through your use of these channels. [CLS] [SEP]
+  3. [CLS] [SEP] **consent** : by accepting our [terms of use](/legal/terms-of-use/) and this privacy policy when you create a letterboxd account, and by accessing and using the website, app or api, you consent to the collection, use, disclosure, storage and processing of your information in accordance with this privacy policy. [CLS] [SEP]
+  4. [CLS] [SEP] **changes to privacy policy** : we may amend or update this privacy policy from time to time, with or without notice to you. [CLS] [SEP] you agree to be bound by the privacy policy that is in effect at the time you access and use the website, app or api. [CLS] [SEP]
+  5. [CLS] [SEP] **personal information** : in order to use particular services that we offer, you may need to submit certain personal information such as your email address, name, address, telephone number, gender and date of birth. [CLS] [SEP] you may be asked to submit further information from time to time. [CLS] [SEP] if you connect your facebook or twitter accounts to your account with letterboxd, we will access these accounts to identify which of your friends on those services are also using letterboxd. [CLS] [SEP]
+  6. [CLS] [SEP] **cookies** : a cookie is a small piece of data that is stored on your computer or mobile device. [CLS] [SEP] like many websites, we use cookies and similar technologies to collect additional website usage data and to operate our services. [CLS] [SEP] although most web browsers automatically accept cookies, many browsers' settings can be set to decline cookies or alert you when a website is attempting to place a cookie on your computer. [CLS] [SEP] however, some of our services may not function properly if you disable cookies. [CLS] [SEP] when your browser or device allows it, we use both session cookies and persistent cookies to keep you signed in, to better understand how you interact with our services, to monitor aggregate usage patterns, and to personalize and otherwise operate our services such as by providing account security and personalized content. [CLS] [SEP] our service also uses cookies and similar tracking technologies such as the common id cookie to provide its services. [CLS] [SEP] cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. [CLS] [SEP] the common id cookie stores a unique id in the first-party domain that is accessible to our ad partners. [CLS] [SEP] this id can be utilized to improve user matching, especially when delivering ads to ios and macos browsers. [CLS] [SEP] users may opt out of common id tracking here. [CLS] [SEP]
+  7. [CLS] [SEP] **advertising privacy** : _(eu users only)_ when you use our website, pre-selected companies may access and use certain information on your device and about your interests to serve ads or personalized content. [CLS] [SEP] you may change your consent choices at any time here. [CLS] [SEP]
+  8. [CLS] [SEP] **log data** : we also receive information when you view content on, or otherwise interact with, our services, which we refer to as "log data", even if you have not created a letterboxd account. [CLS] [SEP] this log data includes information such as your ip address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device information (including device and application ids), search terms, and cookie information. [CLS] [SEP] we use log data to operate our services and to ensure their secure, reliable, and robust performance. [CLS] [SEP] for example, we use log data to protect the security of your account and to determine what features are popular on our services. [CLS] [SEP] we also use this data to improve the content we show you and to identify potential misuse of our services. [CLS] [SEP]
+  9. [CLS] [SEP] **use of information** : the personal information you provide us will only be used in relation to the services we provide you, to communicate with you in relation to our services or to co-operate with any government, industry or regulatory authorities. [CLS] [SEP]
+  10. [CLS] [SEP] **disclosure of information** : unless you have expressly authorised us to do so, we will not disclose your personal information to any third party except where disclosure relates to the purposes for which the information was collected (as stated in paragraph 8 above). [CLS] [SEP]
+  11. [CLS] [SEP] **access to and updates of information** : you may request at any time to [access](https://letterboxd.com/settings/data/) the personal information that we hold on your behalf or to correct or update any of your personal information (to the extent that you are unable to do so yourself on the website). [CLS] [SEP] if you have registered an account with letterboxd, you can access, correct, delete, or modify the personal information you provided to us and associated with your account via your [settings](https://letterboxd.com/settings/) page. [CLS] [SEP]
+  12. [CLS] [SEP] **access to and updates of information** : you may request at any time to access the personal information that we hold on your behalf or to correct or update any of your personal information (to the extent that you are unable to do so yourself on the website). [CLS] [SEP] if you have registered an account with letterboxd, you can access, correct, delete, or modify the personal information you provided to us and associated with your account via your settings page on the website. [CLS] [SEP]
+  13. [CLS] [SEP] **storage of information** : we will securely store your personal information in the united states, although you acknowledge and agree that your personal information may be transferred outside of the united states in connection with the services we offer, as further set out in clause 12 below. [CLS] [SEP]
+  14. [CLS] [SEP] **global operations and privacy shield** : to bring you our services, we operate globally. [CLS] [SEP] where the laws of your country allow you to do so, you authorize us to transfer, store, and use your data in the united states, new zealand and any other country where we might operate. [CLS] [SEP] in some of the countries to which we transfer personal data, the privacy and data protection laws and rules regarding when government authorities may access data may vary from those of your country. [CLS] [SEP] when we transfer personal data outside of the european union or efta states, we ensure an adequate level of protection for the rights of data subjects based on the adequacy of the receiving country's data protection laws, contractual obligations placed on the recipient of the data, or eu-us and swiss-us privacy shield principles
+  15. [CLS] [SEP] **retention:** we will hold your personal information both before and after the deactivation or your account, but only for as long as we are lawfully entitled to do so, or until you request that we permanently delete it. [CLS] [SEP]
+  16. [CLS] [SEP] **deactivation and deletion:** your account can be deactivated in [settings](https://letterboxd.com/settings/), and you can request permanent deletion via email following deactivation. [CLS] [SEP] when deactivated, your letterboxd account, including your username, profile and content will no longer be viewable on the website, app or api, but they will be retained unless and until you separately request permanent deletion via email. [CLS] [SEP] if you don't request deletion, then it is possible to request the reactivation of your account if it was accidentally or wrongfully deactivated. [CLS] [SEP] we cannot restore permanently deleted accounts. [CLS] [SEP]
+  17. [CLS] [SEP] **deactivation and deletion:** your account can be deactivated from settings on the website, and you can request permanent deletion via email following deactivation. [CLS] [SEP] when deactivated, your letterboxd account, including your username, profile and content will no longer be viewable on the website, app or api, but they will be retained unless and until you separately request permanent deletion via email. [CLS] [SEP] if you don't request deletion, then it is possible to request the reactivation of your account if it was accidentally or wrongfully deactivated. [CLS] [SEP] we cannot restore permanently deleted accounts. [CLS] [SEP]
+  18. [CLS] [SEP] **portability** : letterboxd provides you a means to download the information you have shared through our services by using the account export option on your [settings](https://letterboxd.com/settings/data/) page. [CLS] [SEP]
+  19. [CLS] [SEP] **portability** : letterboxd provides you a means to download the information you have shared through our services by using the account export option on your settings page on the website. [CLS] [SEP]
+  20. [CLS] [SEP] **security** : you must keep any login, password or account information relating to your use of the website secure at all times, and must immediately notify us of any unauthorized use of such information or any other breach of security. [CLS] [SEP] we will not be liable for any loss or damage if you fail to comply with this security obligation. [CLS] [SEP]
+  21. [CLS] [SEP] **captcha** : this site is protected by recaptcha and the google [privacy policy](https://policies.google.com/privacy) and [terms of service](https://policies.google.com/terms) apply. [CLS] [SEP]
+
+_this policy was last updated in september 2020 and is effective immediately._
+
+  * [about](/about/)
+  * [news](https://news.letterboxd.com)
+  * [pro](/pro/)
+  * [apps](/apps/)
+  * [year in review](/year-in-review/)
+  * [gift guide](/gift-guide/)
+  * [podcast](http://letterboxd.show)
+  * [help](/welcome/)
+  * [terms](/legal/terms-of-use/)
+  * [api](/api-beta/)
+  * [contact](/contact/)
+
+[twitter](https://twitter.com/letterboxd "letterboxd on twitter")
+__[facebook](https://www.facebook.com/letterboxd "letterboxd on facebook")
+__[instagram](https://www.instagram.com/letterboxd "letterboxd on instagram")
+
+(c) letterboxd limited. [CLS] [SEP] made by [fans](/about/crew/) in auckland, new zealand. [CLS] [SEP]
+[film data](https://letterboxd.com/about/film-data/) from
+[tmdb](https://www.themoviedb.org). [CLS] [SEP] mobile site. [CLS] [SEP]  
+this site is protected by recaptcha and the google [privacy
+policy](https://policies.google.com/privacy) and [terms of
+service](https://policies.google.com/terms) apply. [CLS] [SEP]
+

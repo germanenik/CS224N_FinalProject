@@ -1,0 +1,453 @@
+  * [ image/svg+xml ](/)
+    * [ site news ](/news)
+
+* * *
+
+    * [ contact ](/contact)
+    * [ about blend swap ](/page/about)
+    * [ site status ](/status)
+
+* * *
+
+    * [ terms of use ](/page/terms-of-use)
+    * [ f.a.q. [CLS] [SEP] ](/page/faq)
+    * [ file licensing ](/page/licenses)
+  * [ blends  ](/blends)
+
+* * *
+
+    * [ all blends ](/blends)
+    * [ pending blends ](/blends/pending)
+    * [ staff picks ](/blends/staffpicks)
+    * [ categories ](/blends/categories)
+    * [ blend collections ](/collections)
+
+* * *
+
+    * by file license 
+      * [ under cc-0 license ](/blends/index/filter:true/license:cc-0)
+      * [ under cc-by license ](/blends/index/filter:true/license:cc-by)
+      * [ under cc-by-nc license ](/blends/index/filter:true/license:cc-by-nc)
+      * [ under cc-by-sa license ](/blends/index/filter:true/license:cc-by-sa)
+      * [ under cc-by-nc-sa license ](/blends/index/filter:true/license:cc-by-nc-sa)
+    * by blender version 
+      * [ blender 2.4x ](/blends/index/filter:true/blender_version:249)
+      * [ blender 2.5x ](/blends/index/filter:true/blender_version:250)
+      * [ blender 2.6x ](/blends/index/filter:true/blender_version:260)
+      * [ blender 2.7x ](/blends/index/filter:true/blender_version:270)
+    * more lists 
+      * [ durian open movie ](/blends/tagged/durian)
+
+* * *
+
+      * [ hjm military contest ](/blends/tagged/hjmsmc)
+      * [ fantasy content ](/blends/tagged/fantasycontest)
+
+* * *
+
+    * [ rss feed ](/blends.rss)
+  * [ requests  ](/requests)
+
+* * *
+
+    * [ all requests ](/requests)
+    * [ weekend challenges ](/requests/challenges)
+
+* * *
+
+    * [ open requests ](/requests/index/status:open)
+    * [ closed requests ](/requests/index/status:closed)
+
+* * *
+
+    * [ rss feed ](/requests.rss)
+  * [ questions ](/questions)
+
+* * *
+
+    * [ all questions ](/questions)
+    * [ open questions ](/questions/index/status:open)
+    * [ solved questions ](/questions/index/status:solved)
+
+* * *
+
+    * [ rss feed ](/questions.rss)
+  * [ users ](/users)
+    * [ artists for hire ](/users/forhire)
+    * [ top ranking ](/users)
+    * [ user achievements ](/achievements)
+  * [ search ](/blends/search "search anything on blend swap!")
+    * [ search in blends ](/blends/search)
+    * [ search everything else ](/search)
+  * [ sign up ](/register)
+  * [ enter  ](/users/login)
+    * [ log in ](/users/login)
+    * [ register ](/register)
+    * [ reset password ](/users/password)
+  * [ help  ](/help)
+    * [ send us a bug report ](/bugs)
+    * [ f.a.q. [CLS] [SEP] ](/page/faq)
+    * [ get help ](/help)
+    * [ known issues ](/page/issues)
+    * [ all documentation ](/pages)
+
+* * *
+
+    * [ contact blend swap ](/contact)
+
+your browser's javascript interpreter is disabled, blend swap will not work at
+100% for you. [CLS] [SEP] please enable javascript so you can enjoy blend swap to it's
+full glory
+
+your browser doesn't support local storage. [CLS] [SEP] some features will not work fine
+for you... [CLS] [SEP]
+
+your browser doesn't support advanced css calculations. [CLS] [SEP] some parts of the site
+might look out of place for you... [CLS] [SEP]
+
+your browser doesn't support history push state. [CLS] [SEP] some features will not work
+fine for you... [CLS] [SEP]
+
+your browser doesn't support web fonts. [CLS] [SEP] some text lines and icons might look
+weird to you... [CLS] [SEP]
+
+#  licenses
+
+blend swap uses the[creative commons](http://creativecommons.org/licenses/)
+license system. [CLS] [SEP] we've decided to use three licenses for all the models on
+blend swap. [CLS] [SEP] we've done this to keep licensing as simple as we can on the site
+while still offering authors a variety of ways to distribute and protect their
+art. [CLS] [SEP]
+
+the following is a short enumeration of how every license applies:
+
+* * *
+
+![crative commons zero mark](/img/cc/cc-0-256.png)
+
+# creative commons zero mark (cc-0)
+
+this license lets creators and owners of copyright-protected content to waive
+**all** copyright interests in their works and thereby place them as
+completely as possible in the **public domain** , so that others may freely
+build upon, enhance and reuse the works for any purposes without restrictions
+under copyright. [CLS] [SEP]
+
+you should be aware that by choosing this license you are granting the entire
+world (where applicable by law) to use your work for any purpose, even without
+the requirement to credit you. [CLS] [SEP] be careful with this license because once you
+marked a blend as cc-zero it's out of your hands, **forever**. [CLS] [SEP]
+
+[read more about the cc0 mark](http://creativecommons.org/publicdomain/)
+
+* * *
+
+![creative commons attribution](/img/cc/cc-by-256.png)
+
+# creative commons attribution (cc-by)
+
+this license lets others distribute, remix, tweak, and build upon your work,
+**even commercially** , as long as they credit you for the original creation. [CLS] [SEP]
+this is the most accommodating of licenses offered, in terms of what others
+can do with your works licensed under attribution. [CLS] [SEP]
+
+this license grants everybody in the world (where applicable by law)
+permission to use a blend for any purpose, even commercial, but under an
+attribution requirement, that is, the original author asks to be credited for
+the blend in the derivative works of the work users. [CLS] [SEP] if a user of the blend
+will not credit the original author the user has no permission to use the
+blend. [CLS] [SEP]
+
+[ view license deed](http://creativecommons.org/licenses/by/3.0) |[view legal
+code](http://creativecommons.org/licenses/by/3.0/legalcode)
+
+* * *
+
+![creative commons attribution-sharealike](/img/cc/cc-by-sa_256.png)
+
+# creative commons attribution-sharealike (cc-by-sa)
+
+this license lets others remix, tweak, and build upon your work **even
+commercially** , as long as they credit you and license their new creations
+under the identical terms. [CLS] [SEP] this license is often compared to open source
+software licenses. [CLS] [SEP] all new works based on yours will carry the same license,
+so any derivatives will also allow commercial use. [CLS] [SEP]
+
+this license grants everybody in the world (where applicable by law)
+permission to use the blend for any purpose, even commercial, as long as they
+credit the original author of the blend and redistribute their derivative
+works under the same license. [CLS] [SEP]
+
+if you use a cc-by-sa licensed blend, you **must** credit the original author
+of the blend and your derivative work__must__ be released under the same cc-
+by-sa license to the rest of the world. [CLS] [SEP]
+
+[view license deed](http://creativecommons.org/licenses/by-sa/3.0) |[view
+legal code](http://creativecommons.org/licenses/by-sa/3.0/legalcode)
+
+* * *
+
+![creative commons attribution-noncommercial-sharealike](/img/cc/cc-by-nc-
+sa-256.png)
+
+## creative commons attribution-noncommercial-sharealike (cc-by-nc-sa)
+
+this license lets others remix, tweak, and build upon your work **non-
+commercially** , as long as they credit you and license their new creations
+under the identical terms. [CLS] [SEP]
+
+if you use a cc-by-sa licensed blend, you **must** credit the original author
+of the blend and your derivative work **must** be released under the same cc-
+by-sa license to the rest of the world. [CLS] [SEP] additionaly, you **must not** use the
+work for commercial purposes unless you get express consent from the original
+author. [CLS] [SEP]
+
+[view license deed](http://creativecommons.org/licenses/by-nc-sa/3.0) |[view
+legal code](http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)
+
+* * *
+
+## what does creative commons mean to blend swap?
+
+creative commons enables blend swap to operate under the premise of providing
+free/libre blends to the world, and enables our community and features to keep
+growing under the rights granted to all of us by the authors who share their
+work on the site, enabling us to serve their works to the world and them to
+get exposure in the blender community. [CLS] [SEP]
+
+* * *
+
+## how should i use the works hosted on blend swap?
+
+all blends hosted on blend swap are usable for any purpose, even commercial,
+**except cc-by-nc-sa** â as long as you respect the license the blend is
+under. [CLS] [SEP]
+
+blends under cc-0 (creative commons zero) license can be used without ever
+asking for permission, for any purpose, even commercially. [CLS] [SEP] you areâ advisedâ
+to give attribution but you are not required to do so. [CLS] [SEP]
+
+blends under cc-by (creativecommons-attribution) license can be used for any
+purpose, even commercially, but you have the__obligation__ to credit the
+author. [CLS] [SEP] if you can't credit the author, for example, because you are using the
+blend in a tv spot, where credits don't exist, you must message the author of
+the blend to ask for a license exclusion, but it's up to the author of the
+blend to give this permission. [CLS] [SEP] blend swap will not intermediate in these
+transactions. [CLS] [SEP] if the author refuses to give theâ exemptionâ permission you
+will not use the blend. [CLS] [SEP]
+
+the rule above applies also for blends under cc-by-sa (creativecommons-
+attribution-sharealike) license and its extra sa clause. [CLS] [SEP] you can message the
+author asking for exclusion of either of the clauses or both, but it's up to
+them to give the permission. [CLS] [SEP]
+
+keep in mind our[terms of use](/terms/ "terms of use"). [CLS] [SEP]
+
+* * *
+
+## how do i credit the author(s)?
+
+when using the blend in a film production, include the author in your credits
+roll. [CLS] [SEP]
+
+if in a rendered still image, include a text file with the downloadable image
+file, or add their credit to the image description meta data. [CLS] [SEP]
+
+if you are uploading a new updated version of the blend to blend swap, please
+include a link to the original blend in your blend description in this format:
+
+> this blend uses [ name of the blend
+> ](http://www.blendswap.com/url/to/the/blend/) by [ author name
+> ](http://www.blendswap.com/author/profile/url/), originally released under [
+> _originallicense_ ](http://www.blendswap.com/licenses/)
+
+you are advised to keep the license the same as the original, but you can
+"upgrade" them in these two ways
+
+cc-0 â cc-by or cc-by-sa
+
+cc-by â cc-by-sa
+
+no other license change is allowed. [CLS] [SEP]
+
+* * *
+
+have you seen a suspicious blend?[let us know â](/contact/)
+
+* * *
+
+## fan art:
+
+blend swap is open for everybody to upload their 3d models and related files. [CLS] [SEP]
+we have insisted time and time again that you should only upload **your own
+work** , made by you from the ground up, that is: _your design, your meshes,
+your textures_. [CLS] [SEP]
+
+however we're conscious that many fans of tv shows, movies, games, and
+manufactured products love to use the site to share their recreations of
+famous designs and ideas originally created by third party companies. [CLS] [SEP] these
+works fall under the special categorization of **fan art** , that is, a model
+or piece of 2d/3d art that depicts a design, logo, product or character
+originally conceived by a third party artist or company not related to the
+blend author or blend swap. [CLS] [SEP]
+
+all blend swap users must know one very important thing, **fan art is not fair
+use of third party designs and ideas** , as described in the english wikipedia
+entry:
+
+> the legal status of fan made art in america may be tricky due to the
+> vagaries of the united states [copyright
+> act](http://en.wikipedia.org/wiki/copyright_act "copyright act"). [CLS] [SEP] generally,
+> the right to reproduce and display pieces of artwork is controlled by the
+> original author or artist under [17
+> u.s.c.](http://en.wikipedia.org/wiki/17_u.s.c. [CLS] [SEP] "17 u.s.c.") â§ 106. [CLS] [SEP] however,
+> fan art using settings and characters from a previously created work could
+> be considered a [derivative
+> work](http://en.wikipedia.org/wiki/derivative_work "derivative work"), which
+> would place control of the copyright with the owner of that original work. [CLS] [SEP]
+> display and distribution of fan art that would be considered a derivative
+> work would be unlawful. [CLS] [SEP]
+>
+> however, american copyright law allows for the production, display and
+> distribution of derivative works if they fall under a [fair
+> use](http://en.wikipedia.org/wiki/fair_use "fair use") exemption, 17 u.s.c. [CLS] [SEP]
+> â§ 107. [CLS] [SEP] a court would look at all relevant facts and circumstances to
+> determine whether a particular use qualifies as fair use; a multi-pronged
+> rubric for this decision involves evaluating the amount and substantiality
+> of the original appropriated, the transformative nature of the derivative
+> work, whether the derivative work was done for educational or noncommercial
+> use, and the economic effect that the derivative work imposes on the
+> copyright holder's ability to make and exploit their own derivative works. [CLS] [SEP]
+> none of these factors is alone dispositive. [CLS] [SEP]
+>
+> american courts also typically grant broad protection to
+> [parody](http://en.wikipedia.org/wiki/parody "parody"), and some fan art may
+> fall into this category. [CLS] [SEP] this has not explicitly been adjudicated with
+> respect to fan art, however. [CLS] [SEP] moreover, while parody is typically afforded
+> protection under â§ 107, a court must engage in a fact-intensive, case-
+> specific inquiry for each work. [CLS] [SEP]
+
+this means that we have to exclude your fan art from commercial use for it to
+be _eligible_ for fair use exemption, this, however does **not** warrant any
+type of fair use exclusion under us law (and other parts of the world), so the
+copyright holder can still initiate a lawsuit for copyright infringement. [CLS] [SEP]
+
+this is why we implemented the fan art mark on the site, to let people know,
+that regardless of the license attached to the file,â nooneâ should ever use
+the fan art marked works for commercial purposes. [CLS] [SEP]
+
+using copyrighted designs for commercial purposes without the consent of the
+copyright holder is against the law in the us and most parts of the world, and
+according to our terms of use, which you accept by just using the site, any
+copyright infringement is your sole liability and blend swap is exempt from
+your use of the site and the files you upload. [CLS] [SEP]
+
+we must ask you to please mark your blends depicting any character, design,
+product, logo etc, made by a third party unrelated to you as fan art so
+everybody on the site knows about the restrictions actually ruling your file,
+regardless of the cc license attached to it. [CLS] [SEP]
+
+blend swap will stop serving or completely remove files reported for copyright
+infringement by another user that presents evidence of the authorship problem
+or if we receive a cease and desist request from a big company. [CLS] [SEP] as the
+copyright holders companies have all their right to request complete removal
+of files featuring their designs. [CLS] [SEP]
+
+if you represent a company that has detected unlawful use of your company's
+design please send a cease and desist note to:
+
+  * blend swap, llc  
+3208 e 17th st. [CLS] [SEP]  
+sioux falls, sd 57103
+
+with the following information:
+
+  * names of the products/characters/etc
+  * links of the offending models
+
+and your request to pull the offending content offline. [CLS] [SEP]
+
+* * *
+
+### note:
+
+if the third party design is a cc licensed in an open source fashion, like the
+open movie projects from the blender institute, or the design was released
+under cc-by, cc-by-sa, cc-zero, by the original author, you don't have to mark
+your blend as fan art, because this type of original material is open source
+and as such, you only have to respect the original license. [CLS] [SEP] for more
+information on how cc licenses apply, please read our
+[licensing](/page/licenses) page. [CLS] [SEP]
+
+* * *
+
+### remember:
+
+according to our terms of use: by using the site and it's services and
+features you accept the [terms of use](/page/terms-of-use "our terms of
+use."), which clearly state all the content you submit or upload to the site
+is your soleâ responsibilityâ including, but not limited to, files, comments,
+feedback entries, messages, contact submissions, etc. [CLS] [SEP] ultimately, you are
+responsible for copyright infringement and you have acknowledged that in no
+instance shall blend swap be held responsible for the content you submit to
+the website. [CLS] [SEP]
+
+* * *
+
+### furthermore:
+
+we do not tolerate plagiarism, ripping or impersonation. [CLS] [SEP] any user found to be
+performing any of these faults, according to our [terms of use](/page/terms-
+of-use), will be immediately and permanently blocked, if not banned. [CLS] [SEP] 3d art is
+a very valuable asset and blatant plagiarism really does nothing good for your
+reputation. [CLS] [SEP] **if you steal from another artist, sooner or later, we will
+know.**
+
+if you copy something, followed a tutorial, or revamped an open source
+model/file, please say so. [CLS] [SEP] there's no shame in copying or modifying but there
+is in stealing. [CLS] [SEP]
+
+* * *
+
+last updated on april 01, 2015, @ 02:55 pm (america/chicago)
+
+![](/img/defaults/advertisement_short.png)
+
+![](/img/defaults/advertisement_short.png)
+
+![](/img/defaults/advertisement_tall.png)
+
+![](/img/defaults/dummy_ad_short.png)
+
+### blend swap
+
+  * services 
+  * user accounts 
+  * information 
+  * legal 
+
+  * [blend assets](/blends)
+  * [blend requests](/requests)
+  * [blender q&a](/questions)
+  * [content search](/search)
+
+  * [top users](/users)
+  * [artists for hire](/users/forhire)
+  * [register your account](/register)
+  * [log in](/login)
+
+  * [about blend swap](/about)
+  * [the news blog](/news)
+  * [site status](/status)
+  * [f.a.q.](/page/faq)
+  * [contact us](/contact)
+
+  * [terms of use](/page/terms-of-use)
+  * [asset licensing](/page/licenses)
+  * [privacy policy](/page/privacy)
+  * [user's code of conduct](/page/code-of-conduct)
+
+(c) 2009-2021, [blend swap llc](/). [CLS] [SEP] developed by [poifox](http://poifox.com). [CLS] [SEP]
+
+![loading...](/img/async-light.gif)
+

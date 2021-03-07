@@ -1,0 +1,322 @@
+__ limited-time offer: black friday sale, get up to 50% off. [CLS] [SEP] limited-time
+offer: cyber monday sale, get up to 50% off. [CLS] [SEP] extended black friday sale, get
+up to 50% off. [CLS] [SEP] [select your deal
+now.](blackfriday?itm_content=bf2020banner_mail) [exclusive black friday
+deals](blackfriday?itm_content=bf2020banner_mail) [exclusive cyber monday
+deals](blackfriday?itm_content=bf2020banner_mail) [extended black friday
+deals](blackfriday?itm_content=bf2020banner_mail)
+
+[ __](https://facebook.com/protonmail "facebook") [
+__](https://twitter.com/protonmail "twitter") [
+__](https://reddit.com/r/protonmail "reddit") [
+__](https://instagram.com/protonmail "instagram") [ mastodon
+](https://mastodon.social/@protonmail "mastodon")
+
+  * català
+  * čeština
+  * dansk
+  * deutsch
+  * ελληνικά
+  * english
+  * español (españa)
+  * français
+  * hrvatski
+  * magyar
+  * bahasa (indonesia)
+  * íslenska
+  * italiano
+  * 日本語
+  * taqbaylit
+  * dutch
+  * polski
+  * português (brasil)
+  * português (portugal)
+  * română
+  * русский
+  * svenska
+  * türkçe
+  * українська
+  * 简体中文
+  * 繁體中文
+  * [help translate](https://protonmail.com/blog/translation-project/)
+
+toggle navigation [ ![protonmail](images/pm-logo-white.svg) ](./)
+
+  * [about](about)
+  * [security](security-details)
+  * [blog](/blog/)
+  * [careers](https://careers.protonmail.com/)
+  * [support](/support/)
+  * professional __
+    * [individual](professional)
+    * [business](business)
+  * [ vpn ](https://protonvpn.com)
+  * [log in](https://mail.protonmail.com/login)
+  * [sign up](signup)
+
+language: català čeština dansk deutsch ελληνικά english español (españa)
+français hrvatski magyar bahasa (indonesia) íslenska italiano 日本語 taqbaylit
+dutch polski português (brasil) português (portugal) română русский svenska
+türkçe українська 简体中文 繁體中文
+
+# terms and conditions
+
+by using the protonmail.com web site and making use of protonmail, a service
+offered by proton technologies ag (“the company”), you are agreeing to be
+bound by the following terms and conditions. [CLS] [SEP] these terms and conditions cover
+all present and future features provided by your protonmail account (including
+but not limited to protonmail, protoncontacts, protoncalendar and
+protondrive), individually and collectively referred to as the “service”. [CLS] [SEP]
+
+if you are agreeing to these terms and conditions on behalf of a company or
+another legal entity, you represent that you have the authority to bind such
+entity, its affiliates and all users who access the service through your
+account to these terms and conditions. [CLS] [SEP] in the absence of such an authority,
+you may not use the service. [CLS] [SEP]
+
+### users of the service
+
+this service is provided exclusively to individuals who are at least 13 years
+of age, or to minors who have obtained parental or legal guardian consent to
+open and maintain an account. [CLS] [SEP]
+
+this service is provided exclusively to persons. [CLS] [SEP] accounts registered by “bots”
+or automated methods are not authorized and will be terminated. [CLS] [SEP]
+
+each user is solely responsible for all of his or her messages sent through
+the service. [CLS] [SEP]
+
+### use of the service
+
+you agree to not use this service for any unlawful or prohibited activities. [CLS] [SEP]
+you also agree to not disrupt the company’s networks and servers. [CLS] [SEP]
+
+for the purpose of these terms and conditions, spam shall refer to irrelevant
+or unsolicited messages sent over the internet, typically to large numbers of
+users, for the purposes of advertising, phishing, spreading malware or virus
+(“spam”). [CLS] [SEP]
+
+you agree to not use the service to send spam, junk mail, bulk emails or
+mailing list emails that contain persons that have not specifically agreed to
+be included on that list. [CLS] [SEP] you further agree to not use the service to store or
+share unlawful content. [CLS] [SEP]
+
+any account found to be sending, storing or sharing the aforementioned type of
+emails or contents will be immediately suspended. [CLS] [SEP]
+
+having multiple free accounts is not considered an acceptable use of our
+service (e.g. [CLS] [SEP] bulk-signups, large number of free accounts created by a single
+organization or individual). [CLS] [SEP] free accounts can also only be created and
+maintained by their effective users (e.g. [CLS] [SEP] it is not acceptable to create
+accounts in anyone else’s name and later transfer credentials to that third
+party). [CLS] [SEP]
+
+the company reserves the right to take actions against any free account
+considered abusive in that regard. [CLS] [SEP]
+
+trading or selling a protonmail account to a third party is prohibited and the
+company reserves the right to suspend infringing accounts. [CLS] [SEP] this rule does not
+apply to our lifetime accounts, which can be sold or traded exclusively
+through the company. [CLS] [SEP]
+
+we may also terminate accounts which are being used for illegal activities,
+particularly in response to court orders from the competent authorities
+informing us of such illegal activity. [CLS] [SEP]
+
+the company has no obligation to store or forward the contents of terminated
+accounts. [CLS] [SEP] we also have no obligation to store messages or contents for
+accounts that exceed their storage quotas. [CLS] [SEP]
+
+due to the encrypted nature of the service, you acknowledge that the company
+has no ability or obligation to recover your data if you misplace your
+decryption password. [CLS] [SEP]
+
+although it is not the current practice, we reserve the right to suspend or
+delete accounts that are inactive for over three months. [CLS] [SEP] paid accounts with
+active paid status are not subject to this measure. [CLS] [SEP]
+
+### limited warranties and liability
+
+the company cannot make any warranty about the reliability of the service or
+guarantee the security of user data, despite best efforts. [CLS] [SEP] the service is
+provided “as is” and you agree to not hold the company responsible nor to seek
+indemnification for any damages that may arise as a result of the loss of use,
+data, or profits connected to the performance of the service or failure in
+such performance. [CLS] [SEP]
+
+furthermore, you will not hold the company liable or seek indemnification if
+confidential material is unintentionally released as the result of a security
+failure or vulnerability in the performance of the service. [CLS] [SEP]
+
+we may make improvements and changes to the service at any time without
+notice. [CLS] [SEP] the company may at its sole discretion, terminate service without
+cause or notice. [CLS] [SEP]
+
+### service level agreement (sla)
+
+for protonmail professional plan users, the company aims to provide service
+availability of 99.95% or better. [CLS] [SEP] if downtime in any one month exceeds 0.05%
+of that month, the company will credit the user’s account. [CLS] [SEP] service credits are
+applied at the user’s request and will apply toward the balance due at the end
+of the next billing cycle (either monthly or yearly). [CLS] [SEP]
+
+the company calculates service credits in the following way:
+
+  * if the monthly uptime is less than 99.95% but equal to or greater than 99.0%, the service credit is equal to 10% of the service’s monthly cost. [CLS] [SEP]
+  * if the monthly uptime is less than 99.0%, the service credit is equal to 30% of the service’s cost. [CLS] [SEP]
+
+some performance issues are excluded from downtime calculations, such as:
+
+  * issues caused by factors outside of the company’s reasonable control. [CLS] [SEP]
+  * issues that resulted from any actions or inaction by a user or a third-party. [CLS] [SEP]
+  * issues that resulted from the user’s equipment and/or third-party equipment (not within the primary control of the company). [CLS] [SEP] for the avoidance of any doubt, the company does not provide any internet or network services and any performance issues related to that type of services shall be deemed not in the primary control of the company. [CLS] [SEP]
+  * issues that arise from the company’s suspension or termination of rights to use the service in accordance with our terms of service. [CLS] [SEP]
+  * downtime caused by reasonable scheduled maintenance that is announced in advance. [CLS] [SEP]
+
+### indemnification
+
+you agree that the company, and any parents, subsidiaries, officers,
+employees, or third party contractors cannot be held responsible for any third
+party claim, demand, or damages, including reasonable attorneys’ fees, arising
+out of your use of this service. [CLS] [SEP]
+
+### privacy
+
+our privacy policy (<https://protonmail.com/privacy-policy>) explains the way
+we handle and protect your personal data and privacy in relation to your use
+of the service and your browsing of the protonmail.com web site. [CLS] [SEP] by agreeing
+to the present terms and conditions and to be able to use the service, you
+also agree to our privacy policy. [CLS] [SEP]
+
+to the extent that protonmail processes any personal data that is subject to
+the eu general data protection regulation (gdpr), on the user’s behalf, in the
+provision of the service, the terms of the protonmail data processing
+agreement ([https://protonmail.com/dpa](/dpa.html)), which are hereby
+incorporated by reference, shall apply. [CLS] [SEP]
+
+### terms of payment
+
+due to their nature, the paid services provided by the company are generally
+non-refundable and any refunds or credits given will be at the sole discretion
+of the company. [CLS] [SEP] paid accounts which are terminated due to a violation of these
+terms and conditions will incur the loss of all payments and credits and are
+not eligible for refund. [CLS] [SEP]
+
+if the company chooses to issue a refund for any reason, the company is only
+obligated to refund in the original currency of payment. [CLS] [SEP] if you request a
+credit balance to be converted between different currencies which the company
+supports, the company has discretion over the exchange rate applied. [CLS] [SEP]
+
+the company has the right to discontinue service immediately if a fraudulent
+payment is detected, such as the use of a stolen credit card, and such cases
+may be further referred to the competent authorities. [CLS] [SEP]
+
+you authorize the company to charge any credit card supplied on a monthly, bi-
+annually, or annually re-occurring basis (depending on your selection). [CLS] [SEP] credit
+balances will also automatically be deducted on a monthly, bi-annual, or
+annual basis. [CLS] [SEP] you are responsible for keeping card information up to date. [CLS] [SEP]
+
+if you fail to fulfill your obligation of payment as a user of a paid account,
+we may suspend your account or delete it after an extended period of default. [CLS] [SEP]
+
+if you rely on dispute or chargeback mechanisms of third-party payment
+processors and the result of that mechanism causes the company to be liable
+for an amount exceeding the price paid for the service (e.g. [CLS] [SEP] dispute fee), you
+authorize the company to charge that amount on your account. [CLS] [SEP]
+
+### modification to terms of service
+
+within the limits of applicable law, the company reserves the right to review
+and change this agreement at any time. [CLS] [SEP] you are responsible for regularly
+reviewing these terms and conditions. [CLS] [SEP] continued use of the service after such
+changes shall constitute your consent to such changes. [CLS] [SEP]
+
+### applicable law
+
+this agreement shall be governed in all respects by the substantive laws of
+switzerland. [CLS] [SEP] any controversy, claim, or dispute arising out of or relating to
+the agreement shall be subject to the jurisdiction of the competent courts of
+the canton of geneva, the jurisdiction of the swiss federal court being
+expressly reserved. [CLS] [SEP]
+
+
+
+## protonmail
+
+  * [pricing](https://protonmail.com/pricing)
+  * [security](https://protonmail.com/security-details)
+  * [shop](https://shop.protonmail.com/)
+  * [press/media kit](https://protonmail.com/press)
+  * [onion site](https://protonmail.com/tor)
+  * [protonmail status](https://protonstatus.com/)
+
+## features
+
+  * [ios app](https://itunes.apple.com/us/app/protonmail-encrypted-email/id979659905)
+  * [android app](https://play.google.com/store/apps/details?id=ch.protonmail.android)
+  * [imap/smtp bridge](https://protonmail.com/bridge)
+  * [protonvpn](https://protonvpn.com/)
+  * [business email](https://protonmail.com/business/)
+  * [encrypted contacts](https://protonmail.com/support/knowledge-base/encrypted-contacts/)
+
+## legal
+
+  * [imprint](https://protonmail.com/imprint)
+  * [privacy policy](https://protonmail.com/privacy-policy)
+  * [terms & conditions](https://protonmail.com/terms-and-conditions)
+  * [transparency report](https://protonmail.com/blog/transparency-report/)
+  * [report abuse](mailto:abuse@protonmail.com)
+  * [gdpr compliance](https://protonmail.com/gdpr)
+
+## company
+
+  * [blog](https://protonmail.com/blog/)
+  * [team](https://protonmail.com/about)
+  * [careers](https://careers.protonmail.com/)
+  * [support](https://protonmail.com/support/)
+  * [donate](https://protonmail.com/donate)
+  * [open source](https://protonmail.com/blog/openpgpjs-3-release/)
+
+## social
+
+  * [__facebook](https://facebook.com/protonmail)
+  * [__twitter](https://twitter.com/protonmail)
+  * [__reddit](https://www.reddit.com/r/protonmail/)
+  * [__instagram](https://www.instagram.com/protonmail/)
+  * [ mastodon ](https://mastodon.social/@protonmail)
+  * [__feedback forum](https://protonmail.uservoice.com/)
+
+
+
+[![innosuisse - swiss innovation
+agency](/images/swiss.svg)](https://www.innosuisse.ch/inno/en/home.html)
+[![this project is supported by the european union's horizon 2020 program
+\(grant no 848554\)](/images/logo-gdpr-eu-
+white.svg)](https://ec.europa.eu/programmes/horizon2020/en)
+
+(c) $currentyear proton technologies ag. [CLS] [SEP] all rights reserved. [CLS] [SEP]
+
+[català](/ca/) | [čeština](/cs/) | [dansk](/da/) | [deutsch](/de/) |
+[ελληνικά](/el/) | [english](/) | [español (españa)](/es/) | [français](/fr/)
+| [hrvatski](/hr/) | [magyar](/hu/) | [bahasa (indonesia)](/id/) |
+[íslenska](/is/) | [italiano](/it/) | [日本語](/jp/) | [taqbaylit](/kab/) |
+[dutch](/nl/) | [polski](/pl/) | [português (brasil)](/pt_br/) | [português
+(portugal)](/pt/) | [română](/ro/) | [русский](/ru/) | [svenska](/sv/) |
+[türkçe](/tr/) | [українська](/ua/) | [简体中文](/zh-hans/) | [繁體中文](/zh-hant/)
+
+×
+
+#### general inquiries
+
+for customer support inquiries, please submit the following form for the
+fastest response:  
+<https://protonmail.com/support-form>
+
+for all other inquiries:  
+[contact@protonmail.com](mailto:contact@protonmail.com)
+
+you can also tweet to us:  
+[twitter.com/protonmail](https://twitter.com/protonmail)
+
+close
+

@@ -1,0 +1,222 @@
+[ ](https://mastodon.social/)[profile directory](/explore)
+[about](/about/more) [mobile apps](https://joinmastodon.org/apps)
+
+[log in](/auth/sign_in) [sign up](https://joinmastodon.org/#getting-started)
+
+![mastodon](https://files.mastodon.social/site_uploads/files/000/000/001/original/vlcsnap-2018-08-27-16h43m11s127.png)
+
+home to **539k** users
+
+who authored **28.2m** statuses
+
+![](https://static-
+cdn.mastodon.social/packs/media/images/elephant_ui_plane-72f8702db120a51a1cdbc4fb7f5ef59d.svg)
+
+#### administered by:
+
+[![](https://files.mastodon.social/accounts/avatars/000/000/001/original/d96d39a0abb45b92.jpg)**eugen**
+@gargron](https://mastodon.social/@gargron)
+
+####  contact:
+
+[staff@mastodon.social](mailto:staff@mastodon.social "staff@mastodon.social")
+
+## code of conduct
+
+### summary
+
+__no racism, sexism, homophobia, transphobia, xenophobia, casteism  
+__no sexual depictions of minors  
+__no spam  
+__no bots  
+
+### in-depth
+
+the following guidelines are not a legal document, and final interpretation is
+up to the administration of mastodon.social; they are here to provide you with
+an insight into our content moderation policies:
+
+  1. [CLS] [SEP] the following types of content will be removed from the public timeline: 
+    1. [CLS] [SEP] excessive advertising
+    2. [CLS] [SEP] uncurated news bots posting from third-party news sources
+    3. [CLS] [SEP] untagged nudity, pornography and sexually explicit content, including artistic depictions
+    4. [CLS] [SEP] untagged gore and extremely graphic violence, including artistic depictions
+  2. [CLS] [SEP] the following types of content will be removed from the public timeline, and may result in account suspension and revocation of access to the service: 
+    1. [CLS] [SEP] racism or advocation of racism
+    2. [CLS] [SEP] sexism or advocation of sexism
+    3. [CLS] [SEP] casteism or advocation of casteism
+    4. [CLS] [SEP] discrimination against gender and sexual minorities, or advocation thereof
+    5. [CLS] [SEP] xenophobic and/or violent nationalism
+    6. [CLS] [SEP] spreading disinformation or conspiracy theories that undermine public health
+  3. [CLS] [SEP] the following types of content are explicitly disallowed and will result in revocation of access to the service: 
+    1. [CLS] [SEP] sexual depictions of children
+    2. [CLS] [SEP] content illegal in germany and/or france, such as holocaust denial or nazi symbolism
+    3. [CLS] [SEP] conduct promoting the ideology of national socialism
+  4. [CLS] [SEP] any conduct intended to stalk or harass other users, or to impede other users from utilizing the service, or to degrade the performance of the service, or to harass other users, or to incite other users to perform any of the aforementioned actions, is also disallowed, and subject to punishment up to and including revocation of access to the service. [CLS] [SEP] this includes, but is not limited to, the following behaviors: 
+    1. [CLS] [SEP] continuing to engage in conversation with a user that has specifically has requested for said engagement with that user to cease and desist may be considered harassment, regardless of platform-specific privacy tools employed. [CLS] [SEP]
+    2. [CLS] [SEP] aggregating, posting, and/or disseminating a person's demographic, personal, or private data without express permission (informally called doxing or dropping dox) may be considered harassment. [CLS] [SEP]
+    3. [CLS] [SEP] inciting users to engage another user in continued interaction or discussion after a user has requested for said engagement with that user to cease and desist (informally called brigading or dogpiling) may be considered harassment. [CLS] [SEP]
+
+these provisions notwithstanding, the administration of the service reserves
+the right to revoke any user's access permissions, at any time, for any
+reason, except as limited by law. [CLS] [SEP]
+
+## cross-posting
+
+"cross-posting" is the automatic copying of posts from one platform to
+another. [CLS] [SEP] that definition does **not** include the simultaneous posting to
+multiple platforms from the same app, such as twidere or postybirb. [CLS] [SEP] if you use
+those apps, we consider those posts original, and the following need not
+apply. [CLS] [SEP]
+
+cross-posting from mastodon to other platforms is fully permitted. [CLS] [SEP] **cross-
+posting into mastodon from another platform is permitted under the following
+terms:**
+
+  1. [CLS] [SEP] the posts do not include platform-specific references, e.g. [CLS] [SEP] talking about "here" meaning twitter, or including text from other non-mastodon users verbatim (e.g. [CLS] [SEP] cross-posted quote tweets)
+  2. [CLS] [SEP] the account is at least semi-regularly monitored by the author, so that interactions from mastodon users are not ignored
+  3. [CLS] [SEP] the account being cross-posted is owned by the same person. [CLS] [SEP] third-party copying of content is not permitted
+
+## staff
+
+in addition to the site's owner, [@gargron](https://mastodon.social/@gargron),
+mastodon.social's moderation staff include:
+
+  * [@cm_kropot](https://mastodon.social/@cm_kropot)
+  * [@citrustwee](https://mastodon.social/@citrustwee)
+  * [@johnmoderator](https://mastodon.social/@johnmoderator)
+
+## funding
+
+this server is crowdfunded by [patreon
+donations](https://patreon.com/mastodon). [CLS] [SEP] for a list of sponsors, see
+[joinmastodon.org](https://joinmastodon.org/sponsors)
+
+## imprint
+
+eugen rochko  
+c/o grosch postflex #92  
+emsdettener straße 10  
+48268 greven  
+germany  
+e-mail: hello@joinmastodon.org  
+vat id: de316095554
+
+## moderated servers
+
+mastodon generally allows you to view content from and interact with users
+from any other server in the fediverse. [CLS] [SEP] these are the exceptions that have
+been made on this particular server. [CLS] [SEP]
+
+### filtered media
+
+media files from these servers will not be processed or stored, and no
+thumbnails will be displayed, requiring manual click-through to the original
+file:
+
+server | reason  
+---|---  
+pawoo.net |  inappropriate content  
+bsd.moe |  harassment  
+freezepeach.xyz |  harassment  
+toot.love |  harassment  
+  
+### silenced servers
+
+posts from these servers will be hidden in public timelines and conversations,
+and no notifications will be generated from their users interactions, unless
+you are following them:
+
+server | reason  
+---|---  
+brighteon.social |  conspiracy theories  
+mstdn.foxfam.club |  third-party bots  
+noagendasocial.com |  harassment  
+shitposter.club |  harassment  
+sinblr.com |  spam  
+bsd.moe |  harassment  
+freezepeach.xyz |  harassment  
+toot.love |  harassment  
+  
+### suspended servers
+
+no data from these servers will be processed, stored or exchanged, making any
+interaction or communication with users from these servers impossible:
+
+server | reason  
+---|---  
+10minutepleroma.com |  spam  
+baraag.net |  inappropriate content  
+birdsite.link |  third-party bots  
+birdsite.monster |  third-party bots  
+catgirl.life |  harassment  
+cnet.site |  harassment  
+coom.club |  harassment  
+daffodil-11.org |  spam  
+dlf.social |  inappropriate content  
+fedi.app |  harassment  
+feminism.lgbt |  harassment  
+freespeechextremist.com |  hate speech  
+gab.ai |  harassment  
+gab.com |  harassment  
+gameliberty.club |  bot that announces blocks  
+glindr.org |  transphobia  
+iddqd.social |  harassment  
+jaeger.website |  harassment  
+kiwifarms.cc |  harassment  
+kiwifarms.is |  harassment  
+kiwifarms.net |  harassment  
+lus*.*oe |  inappropriate content  
+mastodonhub.com |  mirroring other mastodon accounts without permission  
+mela******.tk |  inappropriate content  
+mouse.services |  harassment  
+neckbeard.xyz |  inappropriate content  
+nnia.space |  maps  
+pieville.net |  harassment  
+pl.smuglo.li |  inappropriate content  
+poa.st |  hate speech  
+prete*******.biz |  inappropriate content  
+raplst.town |  harassment  
+skippers-bin.com |  inappropriate content  
+spinster.xyz |  transphobia  
+twitter.1d4.us |  third-party bots  
+twitter.activitypub.actor |  third-party bots  
+wagesofsinisdeath.com |  harassment  
+waifuappreciation.club |  harassment  
+waifu.social |  harassment  
+weedis.life |  spam  
+yggdrasil.social |  hate speech  
+  
+  * code of conduct
+    * summary
+    * in-depth
+  * cross-posting
+  * staff
+  * funding
+  * imprint
+  * moderated servers
+
+#### resources
+
+  * [terms of service](/terms)
+  * [privacy policy](/terms)
+
+#### developers
+
+  * [documentation](https://docs.joinmastodon.org/)
+  * [api](https://docs.joinmastodon.org/client/intro/)
+
+#### [what is mastodon?](https://joinmastodon.org/)
+
+[](https://mastodon.social/)
+
+#### mastodon.social
+
+  * [about](/about/more)
+  * v3.3.0
+
+#### more…
+
+  * [source code](https://github.com/tootsuite/mastodon)
+  * [mobile apps](https://joinmastodon.org/apps)
+

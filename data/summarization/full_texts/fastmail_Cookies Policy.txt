@@ -1,0 +1,214 @@
+cookies policy | fastmail [fastmail email on your side](/)
+
+why fastmail?
+
+[powerful features](/features/) [privacy and security](/privacy-and-security/)
+[our values](/values/) [great for business](/business/) [our company](/about/)
+
+[pricing](/pricing/) [news](https://fastmail.blog/) [get
+support](https://www.fastmail.help/hc/en-us) [log in](/login/) [sign
+up](/signup/)
+
+# cookies policy
+
+this cookies policy came into effect on **may 25th, 2020**. [CLS] [SEP] the only change
+from our [previous policy](/about/cookies2019/) is the amendment of 'fastmail'
+to 'fastmail' to reflect our updated name. [CLS] [SEP]
+
+* * *
+
+last update: 2020-05-25
+
+## introduction
+
+fastmail pty ltd ("we", "our" or "us") uses cookies on the following websites:
+fastmail.com, fastmailusercontent.com, topicbox.com, pobox.com, listbox.com
+("website"). [CLS] [SEP] the information set out in this policy is provided in addition to
+our privacy policy, and should be read alongside our [privacy
+policy](https://www.fastmail.com/about/privacy.html). [CLS] [SEP]
+
+cookies are small text files that are placed on your computer or mobile device
+by websites that you visit. [CLS] [SEP] they are widely used in order to make websites
+work, or work more efficiently, as well as to provide web services and
+functionalities for users. [CLS] [SEP] we use cookies to securely log you in to your
+account, and to provide us with anonymous information on the use of our
+website. [CLS] [SEP]
+
+most web browsers are set to accept cookies. [CLS] [SEP] cookies are required for logging
+in to your account, however you do not need to have cookies turned on to visit
+our marketing and help pages. [CLS] [SEP] in the majority of cases, a cookie does not
+provide us with any personal information. [CLS] [SEP]
+
+## types of cookies
+
+cookies may be either "persistent" cookies or "session" cookies. [CLS] [SEP] the website
+uses both persistent and session cookies. [CLS] [SEP]
+
+a **persistent cookie** consists of a text file sent by a web server to a web
+browser, which allows us to keep you logged in (where you have chosen to do
+so), collect and analyze (on an anonymous basis) traffic and use of the
+website, monitor the system and improve operating performance, for example,
+store your preferences to enhance your subsequent visits. [CLS] [SEP] it will not be
+automatically deleted when the browser is closed but is stored by the browser
+and will remain valid until its set expiry date (unless deleted by the user
+before the expiry date). [CLS] [SEP]
+
+a **session cookie** is like a persistent cookie, but is stored temporarily
+during a browsing session and will expire at the end if the user session, when
+the web browser is closed. [CLS] [SEP] the website will use a session cookie to manage
+login and access to reserved features when you have not asked us to keep you
+logged in past the end of your session. [CLS] [SEP]
+
+a complete list of the cookies we use is set out at the end of this policy. [CLS] [SEP]
+this list (together with the rest of this policy) is subject to change by
+fastmail from time to time. [CLS] [SEP]
+
+## other tracking technologies
+
+**local storage**. [CLS] [SEP] when accessing the website, we store program code, certain
+user preferences and other information used to improve operating performance
+in the web browser's local storage. [CLS] [SEP] all these are optional and are used for
+enhancing the service. [CLS] [SEP] this information is not used for tracking and is not
+sent to the server. [CLS] [SEP]
+
+**third party analytics**. [CLS] [SEP] we have engaged innocraft's
+[matomo](https://www.innocraft.com/) to analyse the activities of visitors to
+the website through the use of cookies and other tracking technologies which
+enable them to monitor traffic to, and use of the website. [CLS] [SEP] this enables us to
+evaluate usage of the website. [CLS] [SEP] these third party cookies are governed by each
+third party's privacy or cookies policy. [CLS] [SEP]
+
+third party analytics are only used on our marketing and help pages. [CLS] [SEP] there are
+no third party analytics on any page for which you need to be logged in or
+that contain personal data such as your mail, contacts or calendars. [CLS] [SEP]
+
+## our use of cookies
+
+we do not automatically capture or store personal information from browsers to
+the website, other than to log your ip address (which in certain circumstances
+will be your personal data) and session information such as the duration of
+the visit to our site and the nature of the browser used. [CLS] [SEP] this information is
+used only for administration of the website and in the compilation of
+statistics which we use for analysis in order to improve the website and
+understand in general terms who uses our website. [CLS] [SEP]
+
+cookies are required to allow you to access and participate in certain areas
+of the website. [CLS] [SEP] once you have closed your browser, this type of cookie is
+deactivated unless you have chosen to remain logged in. [CLS] [SEP] like all cookies, you
+are able to remove or blockâ particular cookies at any time (see below). [CLS] [SEP]
+
+## your cookie choices
+
+the majority of browsers will allow you to alter the settings used for cookies
+and to disable and enable them as you require. [CLS] [SEP]
+
+you can reject all cookies (except strictly necessary cookies) in case you
+prefer not to receive them, and you can have your computer warn you whenever
+cookies are being used. [CLS] [SEP] you can delete the cookies that are already on your
+computer and you can set your browser to prevent them from being placed. [CLS] [SEP]
+disabling cookies may, however, prevent some web services (including on the
+website) from working correctly. [CLS] [SEP] please be aware that when you have set your
+computer to reject cookies, it can limit the functionality of the website and
+it is possible then that you will not have access to some of the features on
+the website. [CLS] [SEP]
+
+to disable cookies, or to receive a warning whenever cookies are being used,
+you have to adjust your browser settings. [CLS] [SEP] you can adjust your browser settings
+to delete certain cookies. [CLS] [SEP] visit the "help" section of your browser for how to
+manage your cookie settings, or follow the links below:
+
+  * [internet explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [mozilla firefox](https://support.mozilla.com/en-us/kb/cookies-information-websites-store-on-your-computer)
+  * [google chrome](https://support.google.com/chrome/answer/95647)
+  * [safari](https://support.apple.com/kb/ph21411)
+  * [opera](https://www.opera.com/help/tutorials/security/privacy/)
+
+## list of cookies used
+
+below is a list of the cookies we set on our websites and the purpose of each:
+
+### fastmail.com
+
+  * `s_...` â login cookie â this is used to allow you to log in to the website. [CLS] [SEP]
+  * `f_...` â security cookie â used as part of login and account recovery for keeping your account secure. [CLS] [SEP]
+  * `d_...` â stores the domain you came in with, so we can keep you on the same domain when you log out. [CLS] [SEP]
+  * `campaign` â if you came to our marketing site via a particular ad or campaign on a third party site, we set this so we can measure how effective the campaign was. [CLS] [SEP]
+
+### fastmailusercontent.com
+
+  * `sk_â¦` login cookie â this is used to authenticate your requests for message attachments and other user content. [CLS] [SEP]
+
+### topicbox.com
+
+  * `s_...` â login cookie â this is used to allow you to log in to the website. [CLS] [SEP]
+  * `f_...` â security cookie â used as part of login and account recovery for keeping your account secure. [CLS] [SEP]
+
+### pobox.com
+
+  * `pobox_session` â login cookie â this is used to allow you to log in to the website. [CLS] [SEP]
+  * `browsertoken` â security cookie â used as part of login and account recovery for keeping your account secure. [CLS] [SEP]
+  * `sprymedia_datatables_...` â used for temporary storage of view parameters for data views (no user data)
+
+### listbox.com
+
+  * `mason` â login cookie â this is used to allow you to log in to the website. [CLS] [SEP]
+
+## third party services that set cookies
+
+when you visit our websites, or purchase products or services, we use the
+following third party services which may set cookies:
+
+**marketing activities** use cookies to inform us of the effectiveness of paid
+advertisements we place on other sites on the internet. [CLS] [SEP]
+
+  * [matomo](https://www.innocraft.com/)
+  * [twitter](https://www.twitter.com)
+  * [facebook](https://www.facebook.com)
+  * [capterra](https://www.capterra.com)
+  * [google adwords](https://policies.google.com/technologies/types)
+
+**stop spam** when people contact us and block automated signups. [CLS] [SEP]
+
+  * [google captcha](https://www.google.com/recaptcha/intro/invisible.html)
+
+**customer support** tool to manage our help desk. [CLS] [SEP]
+
+  * [helpspot](https://www.helpspot.com) for email support
+  * [olark](https://www.olark.com) for realtime chat services
+
+fastmail
+
+##### why fastmail
+
+  * [powerful features](/features/)
+  * [privacy and security](/privacy-and-security/)
+  * [our values](/values/)
+  * [great for business](/business/)
+  * [pricing](/pricing/)
+  * [compare to gmail](/gmail-alternative/)
+
+##### company
+
+  * [about us](/about/)
+  * [press](/about/press/)
+  * [news](https://fastmail.blog/)
+  * [jobs](/about/jobs/)
+
+##### get support
+
+  * [help center](https://www.fastmail.help/hc/en-us/)
+  * [contact us](/support/)
+  * [system status](https://www.fastmailstatus.com)
+  * [download the app](https://www.fastmail.help/hc/en-us/articles/360060590873-the-fastmail-mobile-app)
+  * [referral program](https://www.fastmail.help/hc/en-us/articles/1500000279701-referrals)
+  * [report a security issue](/about/bugbounty/)
+
+  * [download the app on the app store ](https://apps.apple.com/us/app/fastmail-email-calendars-contacts/id931370077)
+  * [download the app on google play ](https://play.google.com/store/apps/details?id=com.fastmail.app)
+
+[privacy policy](/about/privacy/) [terms of service](/about/tos/)
+
+[facebook ](https://www.facebook.com/fastmail/) [twitter
+](https://twitter.com/fastmail) [linkedin
+](https://www.linkedin.com/company/fastmail)
+

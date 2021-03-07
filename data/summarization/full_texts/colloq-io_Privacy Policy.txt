@@ -1,0 +1,212 @@
+we honour [do-not-track](https://en.wikipedia.org/wiki/do_not_track) and
+protect your privacy. [CLS] [SEP] by using colloq, you agree to our [privacy
+policy](https://colloq.io/privacy) which explains how we store personal data. [CLS] [SEP]
+
+skip to main content
+
+  1. [CLS] [SEP] [ ![colloq](https://colloq.io/assets/87836c3ffada2375451fb8e2760fed870deeacde/images/logo-colloq.svg) ](https://colloq.io/)
+  2. [CLS] [SEP] query 
+
+search
+
+  3. [CLS] [SEP] [events](https://colloq.io/events)
+  4. [CLS] [SEP] [pricing](https://colloq.io/pricing)
+  5. [CLS] [SEP] [ topics ](https://colloq.io/topics)
+  6. [CLS] [SEP] [ livestreams ](https://colloq.io/live)
+  7. [CLS] [SEP] [ collections ](https://colloq.io/collections)
+  8. [CLS] [SEP] [blog](https://colloq.io/blog)
+  9. [CLS] [SEP]     1. [CLS] [SEP] add event 
+      1. [CLS] [SEP] [ **submit a suggestion** suggest an event you‘d like to see. [CLS] [SEP] ](https://colloq.io/suggestions;create)
+      2. [CLS] [SEP] [ **create new event** add your event and get noticed. [CLS] [SEP]  
+you‘ll also get all the right tools to make managing your information a
+breeze. [CLS] [SEP] ](https://colloq.io/events;import)
+
+    2. [CLS] [SEP] [login](https://colloq.io/account;login?from=%2fprivacy)
+    3. [CLS] [SEP] [register](https://colloq.io/pricing)
+
+# privacy policy
+
+## in general
+
+**we try our best to minimise the data we collect.** we do not share your data
+with any third parties unless required to operate our service or separately
+agreed by you. [CLS] [SEP] we only use your personal data for the exact reason it was
+provided. [CLS] [SEP]
+
+## personal information collection
+
+by using this service, we collect private information from you. [CLS] [SEP] if you create
+an account, we are required to collect personal data from you in order to
+provide you with our service. [CLS] [SEP] **we only require a bare minimum of data** but
+may allow you to optionally store additional personal information to enhance
+your experience or personal profile page. [CLS] [SEP]
+
+we may collect the following personal information:
+
+  * contact information, such as your name, email address, mailing address, phone number or voluntarily provided biographic information
+  * demographic information, such as age, interests or location information
+  * billing information, such as the billing address and vat id
+  * unique identifiers, such as username, account identifier or a hash of your password
+  * information about your business, such as the company name and address
+  * geographic location based on your ip address
+  * personal technical information, such as your ip address, browser information or session cookies to ensure we can securely operate the service
+
+we may also collect personal information, such as name and email address, from
+people that you invite or add to colloq. [CLS] [SEP] please ensure that you are allowed to
+provide us with this information. [CLS] [SEP] we will only use this information for the
+exact reason it was provided. [CLS] [SEP] in case you want your personal information
+removed from our database, please [contact us](/contact). [CLS] [SEP]
+
+**the collected personal information as described above is used for billing,
+identification, authentication, service operation, and to contact you.**
+
+## personal information access
+
+it is your right to access or delete the personal information we store as long
+as it is not in conflict with local law to retain certain information. [CLS] [SEP] in
+order to access your data, you need to log in to your account where you can
+download an archive of your personal information data. [CLS] [SEP] the archive may contain
+additional data for your records which might not be considered personal
+information. [CLS] [SEP] in case you can’t access your account, you can also contact us
+via email with a possibility to reliably identify yourself. [CLS] [SEP] we will respond to
+such request within reasonable time and remove your information as soon as
+possible. [CLS] [SEP] please note that due to local laws to retain certain data, we may
+not be able to remove all of your information immediately, but will do our
+best to comply with your request to delete the data as soon as possible. [CLS] [SEP]
+
+## information sharing
+
+### server / hosting
+
+we use [digital ocean](https://www.digitalocean.com/) inc. [CLS] [SEP] (101 avenue of the
+americas 10th floor, new york, ny 10013, united states of america) as a
+service provider to host our server infrastructure. [CLS] [SEP] we use
+[ovh](https://www.ovh.de/) gmbh, dudweiler landstraße 5, 66123 saarbrücken,
+germany to ensure our service availability. [CLS] [SEP] while we are currently hosting our
+services in frankfurt, germany, we may expand to other server locations
+offered by our hosting service providers in order to ensure the reliablity and
+performance of our service around the world. [CLS] [SEP]
+
+### emails
+
+we will occasionally use your name and/or email address to send you
+newsletters or transactional emails. [CLS] [SEP] **we won’t send you newsletters unless
+you[signed up for them](/newsletter/subscriber;create).** we may send you
+transactional emails in order to fulfill our service agreement and provide you
+the requested information. [CLS] [SEP] you can opt-out of any marketing or other emails
+not required to operate our service safely and in compliance to laws at any
+time via the ‘unsubscribe’ link in each email. [CLS] [SEP] for sending transactional
+emails and newsletters we use [amazon ses](https://aws.amazon.com/ses/) by
+amazon web services, inc. [CLS] [SEP] (410 terry ave north, seattle, wa 98109-5210, united
+states of america), currently using their only european ses location (ireland)
+for which their terms and conditions and their privacy policy applies. [CLS] [SEP]
+
+### analytics
+
+**we do not use any third party analytics or tracking software.** the only
+data we collect are log files generated by our web server which may contain
+personal information such as your ip address, referrer, browser details and
+network provider information. [CLS] [SEP] by default we do not store this information but
+we reserve the right to collect the data to ensure the reliability, security
+and continued availability of our service. [CLS] [SEP]
+
+### local storage information
+
+we use local storage information such as (session) cookies to allow our users
+to sign in and to optionally “remember” the login data or to save generic
+preferences of users. [CLS] [SEP] our payment provider ([stripe payments europe,
+limited](https://stripe.com), 1 grand canal street lower, grand canal dock,
+dublin, ireland) uses cookies for the payment process on our site. [CLS] [SEP]
+
+### third-party platform integrations
+
+we provide several platform integrations to show external content on our
+platform. [CLS] [SEP] in this case, the services’ terms of service and privacy policy do
+apply. [CLS] [SEP] please review their terms and privacy policies when using a third-party
+service on our platform. [CLS] [SEP] we don’t own or control these integrations and and
+while trying to limit data collection where we can, we don’t exactly know what
+personal information these third-parties might collect and how they use it. [CLS] [SEP]
+
+in case do-not-track (dnt) is enabled while attempting to view external
+content, we show a privacy warning that users can explicitly agree to. [CLS] [SEP] with
+dnt enabled, external services default to being inaccessible. [CLS] [SEP]
+
+### financial transactions
+
+for any financial transaction we use [stripe payments europe,
+limited](https://stripe.com), 1 grand canal street lower, grand canal dock,
+dublin, ireland. [CLS] [SEP] the service provider will gather and process personal data
+required to process payments. [CLS] [SEP] for payments and related data to be processed
+and get verified, the terms and conditions and privacy policy of the payment
+provider apply. [CLS] [SEP] **credit card numbers are never shared with us** , and thus,
+never stored by us. [CLS] [SEP]
+
+## security
+
+even though we would like to, we can’t promise you absolute security until the
+end of times. [CLS] [SEP] what we can guarantee, is that we keep your personal information
+as safe as possible and are doing our best to protect all data stored on
+colloq. [CLS] [SEP] in case we will become aware of any sort of data breach, we will
+inform all affected users promptly. [CLS] [SEP]
+
+## updates to the privacy policy
+
+we may update this privacy policy in the future. [CLS] [SEP] if we make any material
+changes we will notify you by email (using the email address stored in your
+account) or by displaying a notice banner on our site before the changes
+become effective. [CLS] [SEP] we encourage you to review the privacy policy periodically
+to ensure you are aware of the latest information. [CLS] [SEP] for your convenience we
+will publish a changelog describing the latest changes to the privacy policy
+below. [CLS] [SEP]
+
+* * *
+
+## changelog
+
+  * **may, 15th 2018:** we restructured our privacy policy to be easier to read, understand and to comply with the eu gdpr. [CLS] [SEP] we added useful information about what data we collect and why, how to access or delete your personal data, added information about our service providers and listed our third-party integrations. [CLS] [SEP]
+  * **march, 23rd 2018:** simpler and clearer language in the ‘security’ section and added stripe as service provider for financial transactions. [CLS] [SEP]
+
+* * *
+
+this document can be found in our public [terms
+repository](http://github.com/colloq/terms) on github, which includes [all
+changes](https://github.com/colloq/terms/commits/master) made over time. [CLS] [SEP]
+
+#### subscribe now!
+
+stay up to date and receive event tips straight to your inbox. [CLS] [SEP]
+
+do not fill this field, please:
+
+a panda is black and
+
+email required
+
+sign up
+
+#### product
+
+  * [for organisers](https://colloq.io/for/organizers)
+  * [for speakers](https://colloq.io/for/speakers)
+  * [for attendees](https://colloq.io/for/attendees)
+  * [pricing](https://colloq.io/pricing)
+  * [changelog](https://colloq.io/changelog)
+
+#### support
+
+  * [contact us](https://colloq.io/contact)
+  * [faq](https://colloq.io/faq)
+
+#### company
+
+  * [blog](https://colloq.io/blog)
+  * [about us](https://colloq.io/about)
+
+#### legal
+
+  * [terms & conditions](https://colloq.io/terms)
+  * [privacy policy](https://colloq.io/privacy)
+  * [legal](https://colloq.io/legal)
+  * [code of conduct](https://colloq.io/code-of-conduct)
+  * (c) 2021 colloq
+

@@ -44,7 +44,11 @@ def swap_separators(path_to_texts):
 
 
 def download_ToS_pages():
-    """ Go through each of the links in the text doc and download their Terms of Service/Cookie Policy pages 
+    """ Go through each of the links in the text doc and download their Terms of Service/Cookie Policy pages
+        Note -- failed pages:
+            - openmailbox Privacy Policy
+            - guerrillamail Terms of Service
+            - guerrillamail About
     """
     resulting_path = 'new_full_texts/'
     df = pd.read_csv("links_to_add.csv", encoding='utf-8-sig')
@@ -52,14 +56,19 @@ def download_ToS_pages():
     for index, row in df.iterrows():
         service = row['service']
         docname = re.sub('/', '', row['source_doc'])
+        used = row['used']
+        if (used == 'y'):
+            continue
         url = row['url']
+        if (pd.isna(url)):
+            break
         try:
             html_content = requests.get(url, 
             headers={"User-Agent": 
             "Mozilla/5.0 (X11; CrOS x86_64 12871.102.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.141 Safari/537.36"}
             ).text  # => str, not bytes
         except requests.exceptions.ConnectionError as e:
-            print('FAILED: ', service_name, name)
+            print('FAILED: ', service, docname)
             continue
 
         rendered_content = html2text.html2text(html_content).lower()
@@ -70,3 +79,5 @@ def download_ToS_pages():
 if __name__ == '__main__':
     # swap_separators('full_texts/')
     # swap_separators('quotes/')
+    #download_ToS_pages()
+    add_separators_to_texts('new_full_texts/')

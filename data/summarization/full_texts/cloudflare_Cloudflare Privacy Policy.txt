@@ -1,0 +1,1038 @@
+[sales:](/plans/enterprise/contact/) [+1 650 319 8930](tel:+16503198930) [+1
+650 319 8930](tel:+16503198930) | support
+
+  * [contact support](https://dash.cloudflare.com/?to=/:account/support)
+  * [help center](https://support.cloudflare.com/)
+  * [cloudflare community](https://community.cloudflare.com/)
+
+| my account
+
+  * [my profile](https://dash.cloudflare.com/profile)
+  * [account home](https://dash.cloudflare.com/?to=/:account/)
+  * [billing](https://dash.cloudflare.com/?to=/:account/billing)
+  * [secure remote employees with cloudflare](/teams)
+
+| english
+
+  * [english](https://www.cloudflare.com/en-us/privacypolicy/)
+  * [english (united kingdom)](https://www.cloudflare.com/en-gb/privacypolicy/)
+  * [english (canada)](https://www.cloudflare.com/en-ca/privacypolicy/)
+  * [english (australia)](https://www.cloudflare.com/en-au/privacypolicy/)
+  * [english (india)](https://www.cloudflare.com/en-in/privacypolicy/)
+  * [deutsch](https://www.cloudflare.com/de-de/privacypolicy/)
+  * [español (españa)](https://www.cloudflare.com/es-es/privacypolicy/)
+  * [español (latinoamérica)](https://www.cloudflare.com/es-la/privacypolicy/)
+  * [français](https://www.cloudflare.com/fr-fr/privacypolicy/)
+  * [italiano](https://www.cloudflare.com/it-it/privacypolicy/)
+  * [日本語](https://www.cloudflare.com/ja-jp/privacypolicy/)
+  * [한국어](https://www.cloudflare.com/ko-kr/privacypolicy/)
+  * [português](https://www.cloudflare.com/pt-br/privacypolicy/)
+  * [繁體中文](https://www.cloudflare.com/zh-tw/privacypolicy/)
+  * [简体中文](https://www.cloudflare.com/zh-cn/privacypolicy/)
+
+[support](https://support.cloudflare.com/) |
+[sales:](/plans/enterprise/contact/) [+1 650 319 8930](tel:+16503198930) [+1
+650 319 8930](tel:+16503198930) | english ▶▼
+
+  * [english](https://www.cloudflare.com/en-us/privacypolicy/)
+  * [english (united kingdom)](https://www.cloudflare.com/en-gb/privacypolicy/)
+  * [english (canada)](https://www.cloudflare.com/en-ca/privacypolicy/)
+  * [english (australia)](https://www.cloudflare.com/en-au/privacypolicy/)
+  * [english (india)](https://www.cloudflare.com/en-in/privacypolicy/)
+  * [deutsch](https://www.cloudflare.com/de-de/privacypolicy/)
+  * [español (españa)](https://www.cloudflare.com/es-es/privacypolicy/)
+  * [español (latinoamérica)](https://www.cloudflare.com/es-la/privacypolicy/)
+  * [français](https://www.cloudflare.com/fr-fr/privacypolicy/)
+  * [italiano](https://www.cloudflare.com/it-it/privacypolicy/)
+  * [日本語](https://www.cloudflare.com/ja-jp/privacypolicy/)
+  * [한국어](https://www.cloudflare.com/ko-kr/privacypolicy/)
+  * [português](https://www.cloudflare.com/pt-br/privacypolicy/)
+  * [繁體中文](https://www.cloudflare.com/zh-tw/privacypolicy/)
+  * [简体中文](https://www.cloudflare.com/zh-cn/privacypolicy/)
+
+[ ![cloudflare](/img/logo-cloudflare-dark.svg) ![cloudflare](/img/logo-
+cloudflare.svg) ](/)
+
+  * solutions 
+  * products 
+  * documentation 
+  * resources 
+  * partners 
+  * [ for enterprise ](/enterprise/)
+  * pricing 
+
+  * [ log in ](https://dash.cloudflare.com/login)
+  * [ sign up ](https://dash.cloudflare.com/sign-up)
+  * under attack?
+
+solutions deliver superior online experiences [mitigate ddos attacks](/ddos/)
+[stop malicious bot abuse](/products/bot-management/) [accelerate internet
+applications](/performance/accelerate-internet-applications/) [ensure
+application availability](/performance/ensure-application-availability/)
+[optimize web experiences](/website-optimization/) [stream videos on-
+demand](/products/cloudflare-stream/) secure employee applications and devices
+[deliver zero trust access to applications](/teams-access/) [implement secure
+access service edge (sase)](/teams-sase/) [protect users accessing the
+internet](/teams-gateway/) [protect corporate networks](/teams/) [manage
+secure contractor access](/teams/third-party-access/) [replace virtual private
+networks (vpns)](/teams/vpn-replacement/) [secure your remote
+workforce](/teams/remote-workforces/) [stop zero day attacks with browser
+isolation](/teams/browser-isolation/)   protect and accelerate networks
+[mitigate l3 ddos attacks](/magic-transit/) [connect network infrastructure
+with cloudflare](/network-interconnect/) [transform corporate
+networks](/cloudflare-one/) code on the network edge [build a serverless
+application](https://workers.cloudflare.com) [deploy a static
+website](https://workers.cloudflare.com/sites) [configure a
+cdn](https://developers.cloudflare.com/workers/tutorials/configure-your-cdn)
+[define conditional request
+routing](https://developers.cloudflare.com/workers/templates/pages/conditional_response/)
+manage a secure cloud [secure hybrid, cloud, & saas platforms](/multi-cloud/)
+[enable ssl for saas applications](/ssl-for-saas-providers/) [reduce cloud
+data transfer costs](/bandwidth-alliance/) register a website [register or
+transfer a website](/products/registrar/) industries [ecommerce](/ecommerce/)
+[financial services](/financial-services/) [gaming](/gaming/) [healthcare and
+life sciences](/healthcare/) [media and entertainment](/media-and-
+entertainment/) [public sector](/public-sector/) [saas](/saas/) public
+interest [election campaigns](/campaigns/) [athenian project](/athenian/)
+[project galileo](/galileo/) [project fair shot](/fair-shot/) for
+infrastructure application & network security [ddos protection](/ddos/)
+[waf](/waf/) [bot management](/products/bot-management/) [magic
+transit](/magic-transit/) [rate limiting](/rate-limiting/) [ssl / tls](/ssl/)
+[cloudflare spectrum](/products/cloudflare-spectrum/) [network
+interconnect](/network-interconnect/) performance & reliability [cdn](/cdn/)
+[dns](/dns/) [argo smart routing](/products/argo-smart-routing/) [load
+balancing](/load-balancing/) [stream delivery](/products/stream-delivery/)
+[china network](/network/china/) [waiting room](/waiting-room/) for teams
+[cloudflare for teams](/teams-home/) [access](/teams-access/)
+[gateway](/teams-gateway/) [browser isolation](/teams/browser-isolation/) for
+developers serverless applications [cloudflare workers](/products/cloudflare-
+workers/) [cloudflare workers kv](/products/workers-kv/) domain registration
+[cloudflare registrar](/products/registrar/) website development [cloudflare
+pages](https://pages.cloudflare.com/) [cloudflare
+stream](/products/cloudflare-stream/) for everyone [1.1.1.1](https://1.1.1.1)
+[1.1.1.1 with warp (app)](https://blog.cloudflare.com/1111-warp-better-vpn/)
+[1.1.1.1 for families](https://blog.cloudflare.com/introducing-1-1-1-1-for-
+families/) insights [analytics](/analytics/) [cloudflare
+logs](/products/cloudflare-logs/) [web analytics](/web-analytics/) [cloudflare
+radar](https://radar.cloudflare.com/) privacy [data localization](/data-
+localization/) [compliance](/privacy-and-compliance/) for infrastructure
+advanced security [bot management](https://support.cloudflare.com/hc/en-
+us/articles/360027519452-understanding-cloudflare-bot-management) [firewall
+rules](https://developers.cloudflare.com/firewall/) [magic
+transit](https://developers.cloudflare.com/magic-transit/) [spectrum
+(tcp/udp)](https://developers.cloudflare.com/spectrum/)
+[ssl](https://developers.cloudflare.com/ssl/)
+[waf](https://developers.cloudflare.com/waf/) performance & reliability
+[cdn](https://support.cloudflare.com/hc/en-
+us/articles/200172516-understanding-cloudflare-s-cdn) [dns](/dns/) [image
+resizing](https://developers.cloudflare.com/images/) [load
+balancing](https://developers.cloudflare.com/load-balancing) [stream
+(video)](https://developers.cloudflare.com/stream/)   insights
+[analytics](https://developers.cloudflare.com/analytics/)
+[](https://developers.cloudflare.com/logs/) domain registration
+[registrar](https://developers.cloudflare.com/registrar/) for serverless
+applications [workers quick
+start](https://developers.cloudflare.com/workers/quickstart) [cloudflare
+pages](https://developers.cloudflare.com/pages/) [sample workers
+projects](https://developers.cloudflare.com/workers/templates/) [workers
+tutorials](https://developers.cloudflare.com/workers/tutorials) [command-line
+(wrangler)](https://developers.cloudflare.com/workers/tooling/wrangler)
+[runtime](https://developers.cloudflare.com/workers/reference/apis) for teams
+[cloudflare for teams](https://developers.cloudflare.com/cloudflare-one/)
+explore cloudflare api [cloudflare api](https://api.cloudflare.com/) [api
+authentication](https://developers.cloudflare.com/api/) documentation hub [dev
+documentation hub](https://developers.cloudflare.com/) resources [resource
+hub](/resource-hub/) [whitepapers](/resource-hub/?resourcetype=whitepaper)
+[webinars](/webinars/) [solutions & product guides](/resource-
+hub/?resourcetype=solution+%26+product+guides) [case studies](/case-studies/)
+[analysts](/analysts/) explore [what's new?](/whats-new/) [network
+map](/network/) [cloudflare in china](/network/china/)
+[gdpr](/gdpr/introduction/) get started [register your
+website](/products/registrar/) [welcome center](/welcome-center/) [get
+help](https://support.cloudflare.com) learn [learning center](/learning/)
+[security](/learning/security/what-is-web-application-security/)
+[ddos](/learning/ddos/what-is-a-ddos-attack/) [bot
+management](/learning/bots/what-is-a-bot/) [ssl](/learning/ssl/what-is-ssl/)
+[identity and access management](/learning/access-management/what-is-identity-
+and-access-management/) [performance](/learning/performance/why-site-speed-
+matters/) [cdn](/learning/cdn/what-is-a-cdn/) [dns](/learning/dns/what-is-
+dns/) [cloud](/learning/cloud/what-is-the-cloud/)
+[serverless](/learning/serverless/what-is-serverless/) [network
+layer](/learning/network-layer/what-is-the-network-layer/) connect
+[blog](https://blog.cloudflare.com)
+[community](https://community.cloudflare.com) compliance
+[gdpr](/gdpr/introduction/) [transparency report](/transparency/)
+[compliance](/privacy-and-compliance/) contact [+1 650 319
+8930](tel:+16503198930) channel & alliance partners [partner
+network](/partners/) [partner portal](https://portal.cloudflarepartners.com)
+technology partners [overview](/partners/technology-partners/) [analytics
+partners](/partners/analytics/) [bandwidth alliance](/bandwidth-alliance/)
+[interconnect partnerships](/network-interconnect-partnerships/) [peering
+portal](/partners/peering-portal/) pricing by plan [free](/plans/)
+[pro](/plans/pro/) [business](/plans/business/)
+[enterprise](/plans/enterprise/) compare and explore [need help choosing a
+plan?](/about-your-website/) [add ons](/plans/#addons) [compare all
+plans](/plans/)
+
+  * solutions
+solutions deliver superior online experiences [mitigate ddos attacks](/ddos/)
+[stop malicious bot abuse](/products/bot-management/) [accelerate internet
+applications](/performance/accelerate-internet-applications/) [ensure
+application availability](/performance/ensure-application-availability/)
+[optimize web experiences](/website-optimization/) [stream videos on-
+demand](/products/cloudflare-stream/) secure employee applications and devices
+[deliver zero trust access to applications](/teams-access/) [implement secure
+access service edge (sase)](/teams-sase/) [protect users accessing the
+internet](/teams-gateway/) [protect corporate networks](/teams/) [manage
+secure contractor access](/teams/third-party-access/) [replace virtual private
+networks (vpns)](/teams/vpn-replacement/) [secure your remote
+workforce](/teams/remote-workforces/) [stop zero day attacks with browser
+isolation](/teams/browser-isolation/)   protect and accelerate networks
+[mitigate l3 ddos attacks](/magic-transit/) [connect network infrastructure
+with cloudflare](/network-interconnect/) [transform corporate
+networks](/cloudflare-one/) code on the network edge [build a serverless
+application](https://workers.cloudflare.com) [deploy a static
+website](https://workers.cloudflare.com/sites) [configure a
+cdn](https://developers.cloudflare.com/workers/tutorials/configure-your-cdn)
+[define conditional request
+routing](https://developers.cloudflare.com/workers/templates/pages/conditional_response/)
+manage a secure cloud [secure hybrid, cloud, & saas platforms](/multi-cloud/)
+[enable ssl for saas applications](/ssl-for-saas-providers/) [reduce cloud
+data transfer costs](/bandwidth-alliance/) register a website [register or
+transfer a website](/products/registrar/) industries [ecommerce](/ecommerce/)
+[financial services](/financial-services/) [gaming](/gaming/) [healthcare and
+life sciences](/healthcare/) [media and entertainment](/media-and-
+entertainment/) [public sector](/public-sector/) [saas](/saas/) public
+interest [election campaigns](/campaigns/) [athenian project](/athenian/)
+[project galileo](/galileo/) [project fair shot](/fair-shot/)
+
+  * products
+for infrastructure application & network security [ddos protection](/ddos/)
+[waf](/waf/) [bot management](/products/bot-management/) [magic
+transit](/magic-transit/) [rate limiting](/rate-limiting/) [ssl / tls](/ssl/)
+[cloudflare spectrum](/products/cloudflare-spectrum/) [network
+interconnect](/network-interconnect/) performance & reliability [cdn](/cdn/)
+[dns](/dns/) [argo smart routing](/products/argo-smart-routing/) [load
+balancing](/load-balancing/) [stream delivery](/products/stream-delivery/)
+[china network](/network/china/) [waiting room](/waiting-room/) for teams
+[cloudflare for teams](/teams-home/) [access](/teams-access/)
+[gateway](/teams-gateway/) [browser isolation](/teams/browser-isolation/) for
+developers serverless applications [cloudflare workers](/products/cloudflare-
+workers/) [cloudflare workers kv](/products/workers-kv/) domain registration
+[cloudflare registrar](/products/registrar/) website development [cloudflare
+pages](https://pages.cloudflare.com/) [cloudflare
+stream](/products/cloudflare-stream/) for everyone [1.1.1.1](https://1.1.1.1)
+[1.1.1.1 with warp (app)](https://blog.cloudflare.com/1111-warp-better-vpn/)
+[1.1.1.1 for families](https://blog.cloudflare.com/introducing-1-1-1-1-for-
+families/) insights [analytics](/analytics/) [cloudflare
+logs](/products/cloudflare-logs/) [web analytics](/web-analytics/) [cloudflare
+radar](https://radar.cloudflare.com/) privacy [data localization](/data-
+localization/) [compliance](/privacy-and-compliance/)
+
+  * documentation
+for infrastructure advanced security [bot
+management](https://support.cloudflare.com/hc/en-
+us/articles/360027519452-understanding-cloudflare-bot-management) [firewall
+rules](https://developers.cloudflare.com/firewall/) [magic
+transit](https://developers.cloudflare.com/magic-transit/) [spectrum
+(tcp/udp)](https://developers.cloudflare.com/spectrum/)
+[ssl](https://developers.cloudflare.com/ssl/)
+[waf](https://developers.cloudflare.com/waf/) performance & reliability
+[cdn](https://support.cloudflare.com/hc/en-
+us/articles/200172516-understanding-cloudflare-s-cdn) [dns](/dns/) [image
+resizing](https://developers.cloudflare.com/images/) [load
+balancing](https://developers.cloudflare.com/load-balancing) [stream
+(video)](https://developers.cloudflare.com/stream/)   insights
+[analytics](https://developers.cloudflare.com/analytics/)
+[](https://developers.cloudflare.com/logs/) domain registration
+[registrar](https://developers.cloudflare.com/registrar/) for serverless
+applications [workers quick
+start](https://developers.cloudflare.com/workers/quickstart) [cloudflare
+pages](https://developers.cloudflare.com/pages/) [sample workers
+projects](https://developers.cloudflare.com/workers/templates/) [workers
+tutorials](https://developers.cloudflare.com/workers/tutorials) [command-line
+(wrangler)](https://developers.cloudflare.com/workers/tooling/wrangler)
+[runtime](https://developers.cloudflare.com/workers/reference/apis) for teams
+[cloudflare for teams](https://developers.cloudflare.com/cloudflare-one/)
+explore cloudflare api [cloudflare api](https://api.cloudflare.com/) [api
+authentication](https://developers.cloudflare.com/api/) documentation hub [dev
+documentation hub](https://developers.cloudflare.com/)
+
+  * resources
+resources [resource hub](/resource-hub/) [whitepapers](/resource-
+hub/?resourcetype=whitepaper) [webinars](/webinars/) [solutions & product
+guides](/resource-hub/?resourcetype=solution+%26+product+guides) [case
+studies](/case-studies/) [analysts](/analysts/) explore [what's new?](/whats-
+new/) [network map](/network/) [cloudflare in china](/network/china/)
+[gdpr](/gdpr/introduction/) get started [register your
+website](/products/registrar/) [welcome center](/welcome-center/) [get
+help](https://support.cloudflare.com) learn [learning center](/learning/)
+[security](/learning/security/what-is-web-application-security/)
+[ddos](/learning/ddos/what-is-a-ddos-attack/) [bot
+management](/learning/bots/what-is-a-bot/) [ssl](/learning/ssl/what-is-ssl/)
+[identity and access management](/learning/access-management/what-is-identity-
+and-access-management/) [performance](/learning/performance/why-site-speed-
+matters/) [cdn](/learning/cdn/what-is-a-cdn/) [dns](/learning/dns/what-is-
+dns/) [cloud](/learning/cloud/what-is-the-cloud/)
+[serverless](/learning/serverless/what-is-serverless/) [network
+layer](/learning/network-layer/what-is-the-network-layer/) connect
+[blog](https://blog.cloudflare.com)
+[community](https://community.cloudflare.com) compliance
+[gdpr](/gdpr/introduction/) [transparency report](/transparency/)
+[compliance](/privacy-and-compliance/) contact [+1 650 319
+8930](tel:+16503198930)
+
+  * partners
+channel & alliance partners [partner network](/partners/) [partner
+portal](https://portal.cloudflarepartners.com) technology partners
+[overview](/partners/technology-partners/) [analytics
+partners](/partners/analytics/) [bandwidth alliance](/bandwidth-alliance/)
+[interconnect partnerships](/network-interconnect-partnerships/) [peering
+portal](/partners/peering-portal/)
+
+  * [for enterprise](/enterprise/)
+  * pricing
+pricing by plan [free](/plans/) [pro](/plans/pro/)
+[business](/plans/business/) [enterprise](/plans/enterprise/) compare and
+explore [need help choosing a plan?](/about-your-website/) [add
+ons](/plans/#addons) [compare all plans](/plans/)
+
+  * support
+[contact support](https://dash.cloudflare.com/?to=/:account/support) [help
+center](https://support.cloudflare.com/) [cloudflare
+community](https://community.cloudflare.com/)
+
+  * my account
+[my profile](https://dash.cloudflare.com/profile) [account
+home](https://dash.cloudflare.com/?to=/:account/)
+[billing](https://dash.cloudflare.com/?to=/:account/billing) [secure remote
+employees with cloudflare](/teams/)
+
+  * english 
+    * [ english (united kingdom) ](https://www.cloudflare.com/en-gb/)
+    * [ english (canada) ](https://www.cloudflare.com/en-ca/)
+    * [ english (australia) ](https://www.cloudflare.com/en-au/)
+    * [ english (india) ](https://www.cloudflare.com/en-in/)
+    * [ deutsch ](https://www.cloudflare.com/de-de/)
+    * [ español (españa) ](https://www.cloudflare.com/es-es/)
+    * [ español (latinoamérica) ](https://www.cloudflare.com/es-la/)
+    * [ français ](https://www.cloudflare.com/fr-fr/)
+    * [ italiano ](https://www.cloudflare.com/it-it/)
+    * [ 日本語 ](https://www.cloudflare.com/ja-jp/)
+    * [ 한국어 ](https://www.cloudflare.com/ko-kr/)
+    * [ português ](https://www.cloudflare.com/pt-br/)
+    * [ 繁體中文 ](https://www.cloudflare.com/zh-tw/)
+    * [ 简体中文 ](https://www.cloudflare.com/zh-cn/)
+[log in](https://dash.cloudflare.com/login) [sign
+up](https://dash.cloudflare.com/sign-up)
+
+  * under attack?
+
+solutions deliver superior online experiences [mitigate ddos attacks](/ddos/)
+[stop malicious bot abuse](/products/bot-management/) [accelerate internet
+applications](/performance/accelerate-internet-applications/) [ensure
+application availability](/performance/ensure-application-availability/)
+[optimize web experiences](/website-optimization/) [stream videos on-
+demand](/products/cloudflare-stream/) secure employee applications and devices
+[deliver zero trust access to applications](/teams-access/) [implement secure
+access service edge (sase)](/teams-sase/) [protect users accessing the
+internet](/teams-gateway/) [protect corporate networks](/teams/) [manage
+secure contractor access](/teams/third-party-access/) [replace virtual private
+networks (vpns)](/teams/vpn-replacement/) [secure your remote
+workforce](/teams/remote-workforces/) [stop zero day attacks with browser
+isolation](/teams/browser-isolation/)   protect and accelerate networks
+[mitigate l3 ddos attacks](/magic-transit/) [connect network infrastructure
+with cloudflare](/network-interconnect/) [transform corporate
+networks](/cloudflare-one/) code on the network edge [build a serverless
+application](https://workers.cloudflare.com) [deploy a static
+website](https://workers.cloudflare.com/sites) [configure a
+cdn](https://developers.cloudflare.com/workers/tutorials/configure-your-cdn)
+[define conditional request
+routing](https://developers.cloudflare.com/workers/templates/pages/conditional_response/)
+manage a secure cloud [secure hybrid, cloud, & saas platforms](/multi-cloud/)
+[enable ssl for saas applications](/ssl-for-saas-providers/) [reduce cloud
+data transfer costs](/bandwidth-alliance/) register a website [register or
+transfer a website](/products/registrar/) industries [ecommerce](/ecommerce/)
+[financial services](/financial-services/) [gaming](/gaming/) [healthcare and
+life sciences](/healthcare/) [media and entertainment](/media-and-
+entertainment/) [public sector](/public-sector/) [saas](/saas/) public
+interest [election campaigns](/campaigns/) [athenian project](/athenian/)
+[project galileo](/galileo/) [project fair shot](/fair-shot/) for
+infrastructure application & network security [ddos protection](/ddos/)
+[waf](/waf/) [bot management](/products/bot-management/) [magic
+transit](/magic-transit/) [rate limiting](/rate-limiting/) [ssl / tls](/ssl/)
+[cloudflare spectrum](/products/cloudflare-spectrum/) [network
+interconnect](/network-interconnect/) performance & reliability [cdn](/cdn/)
+[dns](/dns/) [argo smart routing](/products/argo-smart-routing/) [load
+balancing](/load-balancing/) [stream delivery](/products/stream-delivery/)
+[china network](/network/china/) [waiting room](/waiting-room/) for teams
+[cloudflare for teams](/teams-home/) [access](/teams-access/)
+[gateway](/teams-gateway/) [browser isolation](/teams/browser-isolation/) for
+developers serverless applications [cloudflare workers](/products/cloudflare-
+workers/) [cloudflare workers kv](/products/workers-kv/) domain registration
+[cloudflare registrar](/products/registrar/) website development [cloudflare
+pages](https://pages.cloudflare.com/) [cloudflare
+stream](/products/cloudflare-stream/) for everyone [1.1.1.1](https://1.1.1.1)
+[1.1.1.1 with warp (app)](https://blog.cloudflare.com/1111-warp-better-vpn/)
+[1.1.1.1 for families](https://blog.cloudflare.com/introducing-1-1-1-1-for-
+families/) insights [analytics](/analytics/) [cloudflare
+logs](/products/cloudflare-logs/) [web analytics](/web-analytics/) [cloudflare
+radar](https://radar.cloudflare.com/) privacy [data localization](/data-
+localization/) [compliance](/privacy-and-compliance/) for infrastructure
+advanced security [bot management](https://support.cloudflare.com/hc/en-
+us/articles/360027519452-understanding-cloudflare-bot-management) [firewall
+rules](https://developers.cloudflare.com/firewall/) [magic
+transit](https://developers.cloudflare.com/magic-transit/) [spectrum
+(tcp/udp)](https://developers.cloudflare.com/spectrum/)
+[ssl](https://developers.cloudflare.com/ssl/)
+[waf](https://developers.cloudflare.com/waf/) performance & reliability
+[cdn](https://support.cloudflare.com/hc/en-
+us/articles/200172516-understanding-cloudflare-s-cdn) [dns](/dns/) [image
+resizing](https://developers.cloudflare.com/images/) [load
+balancing](https://developers.cloudflare.com/load-balancing) [stream
+(video)](https://developers.cloudflare.com/stream/)   insights
+[analytics](https://developers.cloudflare.com/analytics/)
+[](https://developers.cloudflare.com/logs/) domain registration
+[registrar](https://developers.cloudflare.com/registrar/) for serverless
+applications [workers quick
+start](https://developers.cloudflare.com/workers/quickstart) [cloudflare
+pages](https://developers.cloudflare.com/pages/) [sample workers
+projects](https://developers.cloudflare.com/workers/templates/) [workers
+tutorials](https://developers.cloudflare.com/workers/tutorials) [command-line
+(wrangler)](https://developers.cloudflare.com/workers/tooling/wrangler)
+[runtime](https://developers.cloudflare.com/workers/reference/apis) for teams
+[cloudflare for teams](https://developers.cloudflare.com/cloudflare-one/)
+explore cloudflare api [cloudflare api](https://api.cloudflare.com/) [api
+authentication](https://developers.cloudflare.com/api/) documentation hub [dev
+documentation hub](https://developers.cloudflare.com/) resources [resource
+hub](/resource-hub/) [whitepapers](/resource-hub/?resourcetype=whitepaper)
+[webinars](/webinars/) [solutions & product guides](/resource-
+hub/?resourcetype=solution+%26+product+guides) [case studies](/case-studies/)
+[analysts](/analysts/) explore [what's new?](/whats-new/) [network
+map](/network/) [cloudflare in china](/network/china/)
+[gdpr](/gdpr/introduction/) get started [register your
+website](/products/registrar/) [welcome center](/welcome-center/) [get
+help](https://support.cloudflare.com) learn [learning center](/learning/)
+[security](/learning/security/what-is-web-application-security/)
+[ddos](/learning/ddos/what-is-a-ddos-attack/) [bot
+management](/learning/bots/what-is-a-bot/) [ssl](/learning/ssl/what-is-ssl/)
+[identity and access management](/learning/access-management/what-is-identity-
+and-access-management/) [performance](/learning/performance/why-site-speed-
+matters/) [cdn](/learning/cdn/what-is-a-cdn/) [dns](/learning/dns/what-is-
+dns/) [cloud](/learning/cloud/what-is-the-cloud/)
+[serverless](/learning/serverless/what-is-serverless/) [network
+layer](/learning/network-layer/what-is-the-network-layer/) connect
+[blog](https://blog.cloudflare.com)
+[community](https://community.cloudflare.com) compliance
+[gdpr](/gdpr/introduction/) [transparency report](/transparency/)
+[compliance](/privacy-and-compliance/) contact [+1 650 319
+8930](tel:+16503198930) channel & alliance partners [partner
+network](/partners/) [partner portal](https://portal.cloudflarepartners.com)
+technology partners [overview](/partners/technology-partners/) [analytics
+partners](/partners/analytics/) [bandwidth alliance](/bandwidth-alliance/)
+[interconnect partnerships](/network-interconnect-partnerships/) [peering
+portal](/partners/peering-portal/) pricing by plan [free](/plans/)
+[pro](/plans/pro/) [business](/plans/business/)
+[enterprise](/plans/enterprise/) compare and explore [need help choosing a
+plan?](/about-your-website/) [add ons](/plans/#addons) [compare all
+plans](/plans/)
+
+## ddos protection hotline
+
+![success logo](/img/icon_check-white.svg)
+
+### thank you
+
+someone from cloudflare will be in touch with you shortly. [CLS] [SEP]
+
+  * contact us
+  * [help! i'm under attack!](/under-attack-hotline/)
+  * [email sales](/plans/enterprise/contact/)
+  * [support](https://support.cloudflare.com/)
+  * [1-888-993-5273](tel:18889935273)
+
+# cloudflare privacy policy
+
+this privacy policy is effective as of october 27, 2020. [CLS] [SEP]
+
+_we have updated our march 31, 2020 privacy policy to reflect that we no
+longer rely on the eu-u.s. [CLS] [SEP] and swiss-u.s. [CLS] [SEP] privacy shields as a basis under the
+eu general data protection regulation (gdpr) for the transfer of personal data
+from the eu, uk, and switzerland to the united states._
+
+* * *
+
+_this cloudflare privacy policy (“policy”) outlines the personal information
+that cloudflare, inc. [CLS] [SEP] (“cloudflare”, “we”, “us” or “our”) gathers, how we use
+that personal information, and the options you have to access, correct, or
+delete such personal information._
+
+* * *
+
+## cloudflare’s promise
+
+our mission to help build a better internet is rooted in the importance we
+place on establishing trust with our customers, users, and the internet
+community globally. [CLS] [SEP] to earn and maintain that trust, we commit to
+communicating transparently, providing security, and protecting the privacy of
+data on our systems. [CLS] [SEP]
+
+we keep your personal information personal and private. [CLS] [SEP] we will not sell or
+rent your personal information to anyone. [CLS] [SEP] we will not share or otherwise
+disclose your personal information except as necessary to provide our services
+or as otherwise described in this policy without first providing you with
+notice and the opportunity to consent. [CLS] [SEP]  
+  
+
+## 1\. [CLS] [SEP] policy application
+
+this policy applies to cloudflare’s collection, use, and disclosure of the
+personal information of the following categories of data subjects:
+
+  * **attendees:** those who visit our offices or provide their information to cloudflare or cloudflare representatives when they attend or register to attend cloudflare-sponsored events or other events at which cloudflare (and/or its representatives) participates, as well as those who participate in cloudflare’s studies such as user experience research. [CLS] [SEP]
+
+  * **website visitors:** those who visit our websites, including those who may opt to provide an email address or other contact information to receive communications from cloudflare, fill out a survey, or provide feedback. [CLS] [SEP] for the purposes of this policy, “websites” refer collectively to [www.cloudflare.com](http://www.cloudflare.com) as well as any other websites cloudflare operates for its own behalf and that link to this policy. [CLS] [SEP] for clarity, “websites” does not include any sites owned or operated by our customers, including where we serve as registrar. [CLS] [SEP]
+
+  * **customers:** individuals or entities who enter into a subscription agreement with cloudflare (or its authorized partner) and to whom cloudflare provides services pursuant to such agreement. [CLS] [SEP] for purposes of this policy, “services” shall refer to all of the cloud-based solutions offered, marketed, or sold by cloudflare or its authorized partners that are designed to increase the performance, security, and availability of internet properties, applications, devices, and networks, along with any software, software development kits, and application programming interfaces ("apis") made available in connection with the foregoing. [CLS] [SEP]
+
+  * **administrators:** those with login credentials for a cloudflare account and/or those who administer any of the services for a customer. [CLS] [SEP] in some cases, an administrator and customer may be the same individual. [CLS] [SEP] in other cases, an administrator may be an agent acting on behalf of a customer. [CLS] [SEP]
+
+  * **public dns resolver users:** those who use cloudflare’s 1.1.1.1 public recursive domain name system (“dns”) resolver service, including 1.1.1.1 for families ("1.1.1.1 resolver"). [CLS] [SEP] learn more about the 1.1.1.1 resolver [here](https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver/ "cloudflare's commitment to privacy: 1.1.1.1 public dns resolver"). [CLS] [SEP]
+
+  * **end users:** those who (i) access or use our customers’ domains, networks, websites, application programming interfaces, and applications, or (ii) are authorized cloudflare for teams users, such as our customers’ employees, agents, or contractors. [CLS] [SEP]
+
+  * **registrants:** users of cloudflare’s domain registrar services. [CLS] [SEP] cloudflare is an [icann](https://www.icann.org/ "icann")-accredited registrar and complies with the [2013 registrar accreditation agreement](https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en "2013 raa") (“raa”). [CLS] [SEP]
+
+this policy does not apply to “application users”—those individuals who use
+cloudflare’s consumer-facing applications, such as the 1.1.1.1 application. [CLS] [SEP]
+see the [1.1.1.1 application privacy
+policy](https://www.cloudflare.com/application/privacypolicy/) for more
+information about the data collection and use practices for cloudflare's
+1.1.1.1 application and the associated 1.1.1.1 application services. [CLS] [SEP]
+
+this policy also does not apply to our customers’ domains, websites, apis,
+applications, and networks, which may have their own terms and privacy
+policies. [CLS] [SEP] our customers are solely responsible for establishing policies for
+and ensuring compliance with all applicable laws and regulations, including
+those relating to the collection of personal information, in connection with
+the use of our services by end users with whom our customers interact. [CLS] [SEP]
+
+cloudflare’s websites and services are not intended for, nor designed to
+attract, individuals under the age of eighteen. [CLS] [SEP] cloudflare does not knowingly
+collect personal information from any person under the age of eighteen. [CLS] [SEP]
+
+when cloudflare is a reverse proxy, our ip addresses may appear in whois and
+dns records for websites using our services. [CLS] [SEP] we are a conduit for information
+controlled by others. [CLS] [SEP] it is our customers and their users who are responsible
+for the content transmitted across our network (e.g., images, written content,
+graphics, etc.). [CLS] [SEP]  
+  
+
+## 2\. [CLS] [SEP] information we collect (categories of data subjects)
+
+  * **attendees**
+    * **name, email address, and other contact information:** we may ask for and collect personal information such as your name, address, phone number and email address when you visit our offices, register for or attend a sponsored event or other events at which cloudflare (and/or its representatives) participates, or participate in cloudflare’s studies such as user experience research. [CLS] [SEP]
+    * **image and voice:** when you participate in a cloudflare study, we may ask for your permission to record your voice and/or image during your participation in the study. [CLS] [SEP]
+  
+
+  * **website visitors**
+    * **name, email address, and other contact information:** we ask for and—at your option—collect personal information from you when you submit web forms on our websites, including opportunities to sign up for and agree to receive email communications from us. [CLS] [SEP] we also may ask you to submit such personal information if you choose to use interactive features of the websites, including participation in surveys, contests, promotions, sweepstakes, or studies, requesting customer support, submitting feedback, or otherwise communicating with us. [CLS] [SEP] we will send such communications in accordance with applicable law. [CLS] [SEP]
+    * **log files:** just as when you visit and interact with most websites and services delivered via the internet, when you visit our websites, including the cloudflare community forum, we gather certain information and store it in log files. [CLS] [SEP] this information may include but is not limited to internet protocol (ip) addresses, system configuration information, urls of referring pages, and locale and language preferences. [CLS] [SEP] 
+    * **cookies and other tracking technologies:** we may use cookies and other information-gathering technologies for a variety of purposes, such as providing us with information about how you interact with our websites and assisting us in our marketing efforts. [CLS] [SEP] you can control how websites use cookies by configuring your browser's privacy settings (please refer to your browser's help function to learn more about cookie controls). [CLS] [SEP] note that if you disable cookies entirely, cloudflare’s websites may not function properly. [CLS] [SEP] we may also use cookies and similar technologies to provide you advertising on third-party sites based upon your browsing activities and interests. [CLS] [SEP] if you wish not to have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://optout.networkadvertising.org/?c=1 "nai us") (or if located in the european union, the united kingdom, or switzerland, click [here](https://www.youronlinechoices.eu/ "nai eu")). [CLS] [SEP] you may view a complete list of cookies and change your cookie preferences by clicking on the “cookie preferences” link in the footer of the cloudflare homepage at cloudflare.com. [CLS] [SEP] for more information about the cookies cloudflare uses and your privacy choices, please see our [cookie policy](https://www.cloudflare.com/cookie-policy/ "cookie policy"). [CLS] [SEP] 
+    * **material contributed in interactive areas:** the websites may offer publicly accessible blogs, community forums, comments sections, discussion forums, or other interactive features (“interactive areas”). [CLS] [SEP] if you choose to participate in any of these interactive areas, please be aware that any information that you post in an interactive area might be read, collected, and used by others who access it. [CLS] [SEP] if you wish to remove your personal information from any of our interactive areas, please see the section 8, below. [CLS] [SEP] 
+  
+
+  * **customers and administrators**
+    * **customer account information:** when you register for an account, we collect contact information. [CLS] [SEP] depending on subscription level, this contact information may include your customer name, the email address(es) of your account administrator(s), telephone number, and addresses necessary to process payment and delivery of services. [CLS] [SEP] in addition, when you use the services, we collect information about how you configure your account and the services (e.g., firewall settings for the domains you administer), and we maintain logs of administrator activity. [CLS] [SEP] we refer to all of this information collectively as “customer account information” for the purposes of this policy. [CLS] [SEP] customer account information is required to enable your access to your cloudflare account and services. [CLS] [SEP] by providing us with any personal information, you represent that you are the owner of such personal information or otherwise have the requisite consent to provide it to us. [CLS] [SEP]
+    * **payment information:** we do not require our customers to have payment information on file with us unless they have a paid subscription to our services. [CLS] [SEP] when you sign up for one of our paid services, you must provide payment and billing information. [CLS] [SEP] the information you will need to submit depends on which payment method you choose. [CLS] [SEP] for example, if you pay with a credit card, we will collect your card information and billing address, although we do not store full credit card numbers or personal account numbers. [CLS] [SEP]
+  
+
+  * **public dns resolver users**
+    * **limited dns query data:** we will collect limited dns query data that is sent to our 1.1.1.1 resolver. [CLS] [SEP] our 1.1.1.1 resolver service does not log personal data, and the bulk of the limited non-personally identifiable query data is only stored for 25 hours. [CLS] [SEP] you can learn more about our 1.1.1.1 resolver commitment to privacy [here](https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver/ "cloudflare’s commitment to privacy: 1.1.1.1 public dns resolver"). [CLS] [SEP]
+    * please note that our data handling practices for our 1.1.1.1 application, which is not covered by this policy, are somewhat different than our 1.1.1.1 resolver data handling practices and are described [here](https://www.cloudflare.com/application/privacypolicy/). [CLS] [SEP]
+  
+
+  * **end users**
+    * **log data:** cloudflare processes end users’ information on behalf of our customers. [CLS] [SEP] this information is processed when end users access or use our customers’ domains, websites, apis, applications, devices, end points, and networks that use one or more of our services. [CLS] [SEP] cloudflare also processes end users’ information on behalf of our customers when the end users access our services pursuant to our customers’ authorization. [CLS] [SEP] the information processed may include but is not limited to ip addresses, system configuration information, and other information about traffic to and from customers’ websites, devices, applications, and/or networks (collectively, “log data”). [CLS] [SEP]
+  
+
+  * **registrants**
+    * **contact and domain information:** we collect data such as domain name and status, contact information (such as name, organization, address, phone number and email address), name server, dnssec, and form of approval (i.e., full whois capture at time of transfer into our system, including the ip address that initiated the transfer). [CLS] [SEP]
+  
+
+in addition, cloudflare stores server and network activity data, and
+observations and analyses derived from traffic data collected by cloudflare in
+the course of providing the services (together, “operational metrics”). [CLS] [SEP]
+examples of operational metrics include service uptime and service
+availability metrics, request volumes, error rates, cache rates, and ip threat
+scores. [CLS] [SEP]  
+  
+
+## 3\. [CLS] [SEP] how we use information we collect
+
+cloudflare only processes personal information in a way that is compatible
+with and relevant to the purpose for which it was collected or authorized. [CLS] [SEP] as
+a general matter, for all categories of data described in section 2 above,
+except 1.1.1.1 resolver user data, we may use the information (including
+personal information, to the extent applicable) to:
+
+  * provide, operate, maintain, improve, and promote the websites and services for all users of the websites and services;
+
+  * enable you to access and use the websites and services;
+
+  * process and complete transactions, and send you related information, including purchase confirmations and invoices;
+
+  * send transactional messages, including responses to your comments, questions, and requests; provide customer service and support; and send you technical notices, updates, security alerts, and support and administrative messages;
+
+  * send commercial communications, in accordance with your communication preferences, such as providing you with information about products and services, features, surveys, newsletters, offers, promotions, contests, and events about us and our partners; and send other news or information about us and our partners. [CLS] [SEP] see section 9 below for information on managing your communication preferences. [CLS] [SEP]
+
+  * process and deliver contest or sweepstakes entries and rewards;
+
+  * monitor and analyze trends, usage, and activities in connection with the websites and services and for marketing or advertising purposes;
+
+  * comply with legal obligations as well as to investigate and prevent fraudulent transactions, unauthorized access to the services, and other illegal activities;
+
+  * personalize the websites and services, including by providing features or content that match your interests and preferences;
+
+  * to register visitors to our offices and to manage non-disclosure agreements that visitors may be required to sign, to the extent such processing is necessary for our legitimate interest in protecting our offices and our confidential information against unauthorized access; and
+
+  * process for other purposes for which we obtain your consent. [CLS] [SEP]
+
+**public dns resolver users.** we use information we collect from 1.1.1.1
+resolver users to operate and improve the 1.1.1.1 resolver, such as to assist
+us in our debugging efforts if an issue arises. [CLS] [SEP] our 1.1.1.1 resolver service
+does not store 1.1.1.1 resolver users’ personal data. [CLS] [SEP] we will not combine any
+information collected from dns queries to our 1.1.1.1 resolver with any other
+cloudflare or third party data in any way that can be used to identify
+individual end users. [CLS] [SEP] learn more about our 1.1.1.1 resolver commitment to
+privacy [here](https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-
+resolver/ "cloudflare’s commitment to privacy: 1.1.1.1 public dns resolver"). [CLS] [SEP]
+
+**log data from end users.** we use and process the log data from end users to
+fulfill our obligations under our customer agreements and as may be required
+by law. [CLS] [SEP] we act as a data processor and service provider pursuant to data
+processing instructions by our customers. [CLS] [SEP]
+
+**information from third party services.** we may combine information we
+collect as described in section 2 above with personal information we obtain
+from third parties. [CLS] [SEP] for example, we may combine information entered on a
+cloudflare sales submission form with information we receive from a third-
+party sales intelligence platform vendor to enhance our ability to market our
+services to customers or potential customers. [CLS] [SEP]  
+  
+
+## 4\. [CLS] [SEP] data aggregation
+
+cloudflare may aggregate data we acquire about our customers, administrators,
+and end users, including the log data described above. [CLS] [SEP] for example, we may
+assemble data to determine how web crawlers index the internet and whether
+they are engaged in malicious activity or to compile web traffic reports and
+statistics. [CLS] [SEP] non-personally identifiable, aggregated data may be shared with
+third parties. [CLS] [SEP]  
+  
+
+## 5\. [CLS] [SEP] notice to uk and eu residents
+
+please note that the “personal information” referenced in this privacy policy
+means “personal data” as that term is defined under the european union (“eu”)
+general data protection regulations (“gdpr”) and its united kingdom (“uk”)
+gdpr counterpart. [CLS] [SEP] cloudflare is a data controller for the personal data
+collected from all categories of data subjects listed above except for the
+personal data of end users. [CLS] [SEP] cloudflare processes the personal data of end
+users on behalf of its customers. [CLS] [SEP]
+
+if you are an individual from the european economic area (the “eea”), the uk
+or switzerland, please note that our legal basis for collecting and using your
+personal information will depend on the personal information collected and the
+specific context in which we collect it. [CLS] [SEP] we normally will collect personal
+information from you only where: (a) we have your consent to do so, (b) where
+we need your personal information to perform a contract with you (e.g. [CLS] [SEP] to
+deliver the cloudflare services you have requested), or (c) where the
+processing is in our legitimate interests. [CLS] [SEP] please note that in most cases, if
+you do not provide the requested information, cloudflare will not be able to
+provide the requested service to you. [CLS] [SEP]
+
+in some cases, we may also have a legal obligation to collect personal
+information from you, or may otherwise need the personal information to
+protect your vital interests or those of another person. [CLS] [SEP] where we rely on your
+consent to process your personal data, you have the right to withdraw or
+decline consent at any time. [CLS] [SEP] where we rely on our legitimate interests to
+process your personal data, you have the right to object. [CLS] [SEP]
+
+if you have any questions about or need further information concerning the
+legal basis on which we collect and use your personal information, please
+contact us at
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com). [CLS] [SEP]  
+  
+
+## 6\. [CLS] [SEP] information sharing
+
+we work with other companies who help us run our business (“service
+providers”). [CLS] [SEP] these companies provide services to help us deliver customer
+support, process credit card payments, manage and contact our existing
+customers and administrators as well as sales leads, provide marketing
+support, and otherwise operate and improve our services. [CLS] [SEP] these service
+providers may only process personal information pursuant to our instructions
+and in compliance both with this privacy policy and other applicable
+confidentiality and security measures and regulations, including our
+obligations under the eu-us and swiss-us privacy shield frameworks described
+in section 7, below. [CLS] [SEP]
+
+specifically, we do not permit our service providers to sell any personal
+information we share with them or to use any personal information we share
+with them for their own marketing purposes or for any purpose other than in
+connection with the services they provide to us. [CLS] [SEP]
+
+in addition to sharing with service providers as described above, we also may
+share your information with others in the following circumstances:
+
+  * within the cloudflare group (defined for the purposes of this policy as cloudflare, inc. [CLS] [SEP] (united states) and its subsidiaries listed section 16;
+
+  * with our resellers and other sales partners who may help us distribute the services to customers;
+
+  * with an app developer when you install an app from our app marketplace;
+
+  * in the event of a merger, sale, change in control, or reorganization of all or part of our business;
+
+  * when we are required to disclose personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. [CLS] [SEP] (learn more about how we handle law enforcement requests [here](https://www.cloudflare.com/transparency/ "transparency"));
+
+  * where we have a good-faith belief sharing is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our website terms of use, self-serve subscription agreement, and/or enterprise subscription terms of service; or as otherwise required to comply with our legal obligations; or
+
+  * as you may otherwise consent from time to time. [CLS] [SEP]
+
+**public dns resolver users.** cloudflare does not share 1.1.1.1 resolver logs
+with any third parties except for anonymous logs shared with apnic pursuant to
+a research cooperative agreement. [CLS] [SEP] learn more about information sharing
+specific to the 1.1.1.1 resolver
+[here](https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver/
+"cloudflare’s commitment to privacy: 1.1.1.1 public dns resolver"). [CLS] [SEP]
+
+**registrants.** if you purchase a domain name from cloudflare’s registrar
+service, icann (the internet corporation for assigned names and numbers) and
+the relevant registry operators overseeing the domain’s top-level domain
+require us to collect registrant data for the purposes of domain registration
+and via the whois protocol. [CLS] [SEP] we may also be required to share this public data
+with icann, the relevant registry operators and other such providers with whom
+we contract in order to provide our domain name services, and additionally
+upon the legitimate request of third parties. [CLS] [SEP] registrant data may include the
+domain name, registrant name and other contact information, and domain name
+server information. [CLS] [SEP] see our domain registration agreement
+[here](https://www.cloudflare.com/domain-registration-agreement/ "domain
+registration agreement"). [CLS] [SEP]
+
+**notice to california residents.** we do not sell, rent, or share personal
+information with third parties as defined under the california consumer
+privacy act of 2018 (california civil code sec. [CLS] [SEP] 1798.100 et seq.), nor do we
+sell, rent, or share personal information with third parties for their direct
+marketing purposes as defined under california civil code sec. [CLS] [SEP] 1798.83. [CLS] [SEP]  
+  
+
+## 7\. [CLS] [SEP] international information transfers
+
+cloudflare is a u.s.-based, global company. [CLS] [SEP] we primarily store your
+information in the united states and the european economic area. [CLS] [SEP] to facilitate
+our global operations, we may transfer and access such information from around
+the world, including from other countries in which the cloudflare group has
+operations for the purposes described in this policy. [CLS] [SEP]
+
+whenever cloudflare shares personal information originating in the eea, the
+uk, or switzerland with a cloudflare entity outside the eea, the uk, or
+switzerland, we will do so on the basis of the eu standard contractual clauses
+(adjusted to address transfers from the uk). [CLS] [SEP]
+
+if you are accessing or using our websites or services or otherwise providing
+information to us, we may transfer your personal information outside of the
+eea, the uk, or switzerland, ensuring appropriate safeguards are in place to
+protect your personal information. [CLS] [SEP] we describe our additional safeguards
+[here](https://www.cloudflare.com/en-gb/gdpr/introduction/). [CLS] [SEP] if you have any
+questions about or need further information concerning the appropriate
+safeguards cloudflare has in place to protect your personal information,
+please contact us at
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com). [CLS] [SEP]
+
+while cloudflare no longer relies on the eu-u.s. [CLS] [SEP] and the swiss -u.s. [CLS] [SEP] privacy
+shield as a lawful basis for international transfers of personal data from the
+eea and switzerland to the u.s., cloudflare remains
+[certified](https://www.privacyshield.gov/participant?id=a2zt0000000gnzkaa0&status=active)
+under both the eu-u.s. [CLS] [SEP] and the swiss-u.s. [CLS] [SEP] privacy shield frameworks
+respectively as set forth by the u.s. [CLS] [SEP] department of commerce regarding the
+collection, use, and retention of personal information transferred from the
+eea, the uk, and switzerland to the united states, respectively (“privacy
+shields”). [CLS] [SEP] we commit to periodically review and verify the accuracy of our
+policies and our compliance with the privacy shields. [CLS] [SEP] if there is any conflict
+between the terms in this policy and the privacy shield principles, the
+privacy shield principles shall govern. [CLS] [SEP] for more information on the eu-u.s. [CLS] [SEP]
+privacy shield or swiss-u.s. [CLS] [SEP] privacy shield, please visit the u.s. [CLS] [SEP] department
+of commerce’s privacy shield website at:
+<https://www.privacyshield.gov/welcome>. [CLS] [SEP]
+
+if you believe that we maintain copies of your personal data within the scope
+of the privacy shields, you may direct any inquiries to
+[sar@cloudflare.com](mailto:sar@cloudflare.com) or via mail to: cloudflare,
+inc., 101 townsend st., san francisco, ca 94107, attn: data protection
+officer. [CLS] [SEP] we will respond to your inquiry within 30 days of receipt and
+verification of your identity. [CLS] [SEP]
+
+if you have an unresolved privacy or data use concern that we have not
+addressed satisfactorily, please contact our u.s.-based third party dispute
+resolution provider (free of charge) at <https://feedback-
+form.truste.com/watchdog/request>. [CLS] [SEP] if neither we nor our dispute resolution
+provider are able to resolve your complaint, as a last resort you may engage
+in binding arbitration through the privacy shield panel. [CLS] [SEP]
+
+our commitments under the privacy shields are subject to the investigatory and
+enforcement powers of the u.s. [CLS] [SEP] federal trade commission. [CLS] [SEP] we may be required to
+disclose personal data in response to lawful requests by public authorities,
+including to meet national security or law enforcement requirements. [CLS] [SEP] under
+such circumstances, we may be prohibited by law, court order or other legal
+process from providing notice of disclosure. [CLS] [SEP]  
+  
+
+## 8\. [CLS] [SEP] data subject rights and choices
+
+for any subject access request ("sar"), we will need to verify a requestor is
+inquiring about their own information before we can assist. [CLS] [SEP] where a sar may
+implicate the personal data of another individual, we must balance the request
+against the risk of violating another person’s privacy rights. [CLS] [SEP] we will comply
+with sars to the extent required by applicable law or the us-swiss or us-eu
+privacy shield. [CLS] [SEP] in the eea, the uk, and switzerland, you also have the right
+to lodge a complaint with a supervisory authority. [CLS] [SEP]
+
+**attendees, website visitors, customers, administrators, and registrants.**
+you have the right to access, correct, update, export, or delete your personal
+information. [CLS] [SEP] you may email us at
+[sar@cloudflare.com](mailto:sar@cloudflare.com) with any such subject access
+requests (“sar”), and we will respond within thirty (30) days. [CLS] [SEP] customers and
+administrators also can access, correct, export, or update their account
+information by editing their profile or organization record at cloudflare.com. [CLS] [SEP]
+
+**public dns resolver users.** we do not retain any personal information about
+1.1.1.1 resolver users that would be subject to the data subject rights
+described above. [CLS] [SEP]
+
+**end users.** cloudflare has no direct relationship with end users. [CLS] [SEP] even
+where “cloudflare” may be indicated as the authoritative name server for a
+domain, unless cloudflare is the owner of that domain, we have no control over
+a domain’s content. [CLS] [SEP] accordingly, we rely upon our customers to comply with the
+underlying legal requirements for subject access requests. [CLS] [SEP] if an end user
+requests that we access, correct, update, or delete their information, or no
+longer wishes to be contacted by one of our customers that use our services,
+we will direct that end user to contact the customer website(s) with which
+they interacted directly. [CLS] [SEP] our customers are solely responsible for ensuring
+compliance with all applicable laws and regulations with respect to their
+website users. [CLS] [SEP]
+
+  
+
+## 9\. [CLS] [SEP] communication preferences
+
+cloudflare will send you commercial communications based on the communication
+preferences in your account settings. [CLS] [SEP] cloudflare also will send you service-
+related communications. [CLS] [SEP] you may manage your receipt of commercial
+communications by clicking on the “unsubscribe” link located on the bottom of
+such emails, through your account settings if you have a cloudflare account,
+or you may send a request to
+[unsubscribe@cloudflare.com](mailto:unsubscribe@cloudflare.com). [CLS] [SEP]  
+  
+
+## 10\. [CLS] [SEP] data security, data integrity and access
+
+we take all reasonable steps to protect information we receive from you from
+loss, misuse or unauthorized access, disclosure, alteration and/or
+destruction. [CLS] [SEP] we have put in place appropriate physical, technical and
+administrative measures to safeguard and secure your information, and we make
+use of privacy-enhancing technologies such as encryption. [CLS] [SEP] if you have any
+questions about the security of your personal information, you can contact us
+at [privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com). [CLS] [SEP]  
+  
+
+## 11\. [CLS] [SEP] notification of changes
+
+if we make changes to this policy that we believe materially impact the
+privacy of your personal information, we will promptly provide notice of any
+such changes (and, where necessary, obtain consent), as well as post the
+updated policy on this website noting the effective date of any changes. [CLS] [SEP]  
+  
+
+## 12\. [CLS] [SEP] business transactions
+
+we may assign or transfer this policy, as well as information covered by this
+policy, in the event of a merger, sale, change in control, or reorganization
+of all or part of our business. [CLS] [SEP]  
+  
+
+## 13\. [CLS] [SEP] english language controls
+
+non-english translations of this policy are provided for convenience only. [CLS] [SEP] in
+the event of any ambiguity or conflict between translations, the english
+version is authoritative and controls. [CLS] [SEP]  
+  
+
+## 14\. [CLS] [SEP] dispute resolution
+
+if you have an unresolved privacy or data-use concern that we have not
+addressed satisfactorily, please contact our u.s.-based third party dispute
+resolution provider (free of charge) at <https://feedback-
+form.truste.com/watchdog/request>. [CLS] [SEP]  
+  
+
+## 15\. [CLS] [SEP] eu representative
+
+cloudflare portugal, unipessoal lda., further identified in the contact
+information section below, is our eu representative pursuant to article 27 of
+the eu gdpr. [CLS] [SEP] cloudflare, ltd., further identified in the contact information
+section, is our uk representative pursuant to the uk gdpr. [CLS] [SEP]  
+  
+
+## 16\. [CLS] [SEP] contact information
+
+**cloudflare, inc.**  
+101 townsend st. [CLS] [SEP]  
+san francisco, ca 94107  
+attention: data protection officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+**cloudflare, ltd.**  
+county hall/the riverside building  
+belvedere road  
+london, se1 7pb  
+attention: data protection officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+**cloudflare portugal, unipessoal lda.**  
+largo rafael bordalo pinheiro 29  
+1200-369 lisboa  
+attention: data protection officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+**cloudflare germany gmbh**  
+rosental 7  
+80331 münchen  
+attention: data protection officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+**cloudflare pte., ltd.**  
+182 cecil street, #35-01  
+frasers tower, singapore 069547  
+attention: data protection officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+**cloudflare australia pty ltd.**  
+333 george st., 5th floor  
+sydney, nsw 2000  
+attention: data protection officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+**cloudflare (beijing) information technology co., ltd.**  
+16 south guangshun street  
+donghuang building 17th floor  
+chaoyang district beijing 100015  
+attention: data protection officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+**cloudflare france sas**  
+6 place de la madeleine  
+75008 paris  
+attention: data protection officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+**cloudflare japan k.k.**  
+3-1-6 motoazabu, minato-ku  
+tokyo, 106-0046  
+attention: data protection officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+**cloudflare (canada) information technology co., ltd.**  
+suite 2600, three bentall centre  
+595 burrard street, p.o. [CLS] [SEP] box 49314  
+vancouver, bc v7x 1l3  
+attention: data protection officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+### legal
+
+  * [website terms of use](/website-terms)
+  * [self-serve subscription agreement](/terms)
+  * [supplemental terms](/supplemental-terms)
+  * [privacy policy](/privacypolicy)
+  * [cookie policy](/cookie-policy)
+  * [trust & safety](/abuse)
+  * [transparency report](/transparency)
+  * [domain registration agreement](/domain-registration-agreement)
+  * [modern slavery act statement](/modern-slavery-act-statement)
+
+### have questions?
+
+if you have questions about these terms or anything else about cloudflare,
+please don't hesitate to contact us:
+
++1 (650) 319-8930
+
+**cloudflare, inc.**  
+101 townsend st,  
+san francisco, ca 94107  
+usa  
+attention: data protection officer  
+[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+
+  * sales ![grey arrow pointing down](/img/icons/gray/caret-down.svg)
+  * [ enterprise sales ](/plans/enterprise/contact/)
+  * [ become a partner ](/partners/)
+
+contact sales:  
+[+1 650 319 8930](tel:+16503198930) [+1 650 319 8930](tel:+16503198930)
+
+  * getting started ![grey arrow pointing down](/img/icons/gray/caret-down.svg)
+  * [ industry analysts ](/analysts/)
+  * [ pricing ](/plans/)
+  * [ case studies ](/case-studies/)
+  * [ white papers ](/resources/)
+  * [ webinars ](/webinars/)
+  * [ learning center ](/learning/)
+
+  * community ![grey arrow pointing down](/img/icons/gray/caret-down.svg)
+  * [ community hub ](https://community.cloudflare.com)
+  * [ blog ](https://blog.cloudflare.com)
+  * [ project galileo ](/galileo/)
+  * [ athenian project ](/athenian/)
+  * [ cloudflare for campaigns ](/campaigns/)
+  * [ cloudflare tv ](https://cloudflare.tv/)
+
+  * developers ![grey arrow pointing down](/img/icons/gray/caret-down.svg)
+  * [ developer hub ](https://developers.cloudflare.com)
+  * [ cloudflare workers ](/products/cloudflare-workers/)
+  * [ integrations ](/integrations/)
+
+  * support ![grey arrow pointing down](/img/icons/gray/caret-down.svg)
+  * [ help center ](https://support.cloudflare.com)
+  * [ cloudflare status ](https://www.cloudflarestatus.com)
+  * [ compliance ](/compliance/)
+  * [ gdpr ](/gdpr/introduction/)
+  * [ trust & safety ](/abuse/)
+
+  * company ![grey arrow pointing down](/img/icons/gray/caret-down.svg)
+  * [ about cloudflare ](/about-overview/)
+  * [ investor relations ](https://cloudflare.net)
+  * [ our team ](/people/)
+  * [ press ](/press/)
+  * [ careers ](/careers/)
+  * [ internet summit ](/internetsummit/)
+  * [ logo ](/logo/)
+  * [ network map ](/network/)
+
+[![facebook](/img/footer/facebook.svg)](https://www.facebook.com/cloudflare/)
+[![twitter](/img/footer/twitter.svg)](https://twitter.com/cloudflare)
+[![linkedin](/img/footer/linkedin.svg)](https://www.linkedin.com/company/cloudflare)
+[![youtube](/img/footer/youtube.svg)](https://www.youtube.com/cloudflare)
+[![instagram](/img/footer/instagram.svg)](https://www.instagram.com/cloudflare)
+(c) 2021 cloudflare, inc. [CLS] [SEP] [privacy policy](/privacypolicy/) [terms of
+use](/website-terms/) [disclosure](/disclosure/) cookie preferences
+[trademark](/trademark/)
+
+to provide you with the best possible experience on our website, we may use
+cookies, as described [here](/cookie-policy/). [CLS] [SEP]  
+by clicking accept, closing this banner, or continuing to browse our websites,
+you consent to the use of such cookies. [CLS] [SEP]
+
+i accept
+

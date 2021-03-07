@@ -1,0 +1,968 @@
+  * [documentation](https://upcloud.com/docs/)
+  * [api](https://developers.upcloud.com/)
+  * [faq](https://upcloud.com/faq/)
+  * [contact sales](https://upcloud.com/contact/)
+
+[ upcloud brand guide-0 created with sketch. [CLS] [SEP] ](https://upcloud.com)
+
+  * [products](https://upcloud.com/products/)
+    * compute
+      * [cloud servers](https://upcloud.com/products/cloud-servers/)
+      * [private cloud](https://upcloud.com/products/private-cloud/)
+    * storage
+      * [maxiops](https://upcloud.com/products/maxiops-storage/)
+      * [object storage](https://upcloud.com/products/object-storage/)
+      * [simple backup](https://upcloud.com/products/backup/)
+    * networking
+      * [sdn private networks](https://upcloud.com/products/software-defined-networking/)
+      * [network transfer pool](https://upcloud.com/products/network-transfer-pool/)
+  * [pricing](https://upcloud.com/pricing/)
+  * [compare](https://upcloud.com/compare/)
+    * [aws ec2](https://upcloud.com/compare/aws-ec2/)
+    * [azure](https://upcloud.com/compare/azure/)
+    * [digitalocean](https://upcloud.com/compare/digitalocean/)
+    * [linode](https://upcloud.com/compare/linode/)
+    * [vultr](https://upcloud.com/compare/vultr/)
+  * [resources](https://upcloud.com/community/)
+    * community
+      * [overview](https://upcloud.com/community//)
+      * [use cases](https://upcloud.com/community//stories/)
+      * [events](https://upcloud.com/community//events/)
+    * resources
+      * [tutorials](https://upcloud.com/community//tutorials/)
+      * [resources](https://upcloud.com/community//resources/)
+      * [documentation](https://upcloud.com/docs)
+      * [data centres](https://upcloud.com/data-centres/)
+      * [faq](https://upcloud.com/faq/)
+      * [api](https://developers.upcloud.com/)
+  * [partners](https://upcloud.com/partners/)
+  * company
+    * [about us](https://upcloud.com/about/)
+    * [blog](https://upcloud.com/blog//)
+    * [careers](https://upcloud.com/careers/)
+    * [media centre](https://upcloud.com/media-centre/)
+    * [contact us](https://upcloud.com/contact/)
+    * [newsletter](https://upcloud.com/sign-up-newsletter/)
+
+[ log in](https://hub.upcloud.com) [ sign up](https://upcloud.com/signup/)
+
+  * [products](https://upcloud.com/products/)
+    * compute
+      * [cloud servers](https://upcloud.com/products/cloud-servers/)
+      * [private cloud](https://upcloud.com/products/private-cloud/)
+    * storage
+      * [maxiops](https://upcloud.com/products/maxiops-storage/)
+      * [object storage](https://upcloud.com/products/object-storage/)
+      * [simple backup](https://upcloud.com/products/backup/)
+    * networking
+      * [sdn private networks](https://upcloud.com/products/software-defined-networking/)
+      * [network transfer pool](https://upcloud.com/products/network-transfer-pool/)
+  * [pricing](https://upcloud.com/pricing/)
+  * [compare](https://upcloud.com/compare/)
+    * [aws ec2](https://upcloud.com/compare/aws-ec2/)
+    * [azure](https://upcloud.com/compare/azure/)
+    * [digitalocean](https://upcloud.com/compare/digitalocean/)
+    * [linode](https://upcloud.com/compare/linode/)
+    * [vultr](https://upcloud.com/compare/vultr/)
+  * [resources](https://upcloud.com/community/)
+    * community
+      * [overview](https://upcloud.com/community//)
+      * [use cases](https://upcloud.com/community//stories/)
+      * [events](https://upcloud.com/community//events/)
+    * resources
+      * [tutorials](https://upcloud.com/community//tutorials/)
+      * [resources](https://upcloud.com/community//resources/)
+      * [documentation](https://upcloud.com/docs)
+      * [data centres](https://upcloud.com/data-centres/)
+      * [faq](https://upcloud.com/faq/)
+      * [api](https://developers.upcloud.com/)
+  * [partners](https://upcloud.com/partners/)
+  * company
+    * [about us](https://upcloud.com/about/)
+    * [blog](https://upcloud.com/blog//)
+    * [careers](https://upcloud.com/careers/)
+    * [media centre](https://upcloud.com/media-centre/)
+    * [contact us](https://upcloud.com/contact/)
+    * [newsletter](https://upcloud.com/sign-up-newsletter/)
+
+[ log in](https://hub.upcloud.com) [ sign up](https://upcloud.com/signup/)
+
+# terms of service
+
+## general terms
+
+these terms applies to all our existing users as of 2018-05-17, and any new
+users as of 2018-04-17. [CLS] [SEP]
+
+**please note!** not everybody has a law degree or speak english natively, so
+we have added helpful **tl;dr** ("too long; didn't read") in plain english
+that summarize each term. [CLS] [SEP] these are only meant to help you understand the
+general meaning and are not legally binding terms of service!
+
+
+
+### scope. [CLS] [SEP]
+
+these general terms of service ("terms") will be applied to an agreement
+between upcloud ltd, a finnish private limited company with business id
+2431560-5, having its registered address at eteläranta 12, 6. [CLS] [SEP] krs, fi-00130
+helsinki, finland ("upcloud"), and a customer ("customer") to whom upcloud
+provides cloud-based infrastructure and software services for the customer's
+commercial purposes ("service"). [CLS] [SEP] in these terms, upcloud and customer are
+referred to jointly as the "parties" and individually as a "party". [CLS] [SEP] the
+parties expressly acknowledge that the service is neither intended nor fit for
+use by consumers. [CLS] [SEP]
+
+**tl;dr** these terms are a general agreement between us at upcloud and you
+the user. [CLS] [SEP] they exist to protect both you as a user of the provided services
+and us as a service provider, and help you understand your rights and
+obligations as a customer. [CLS] [SEP]
+
+### agreement documents. [CLS] [SEP]
+
+an agreement is formed between the parties when upcloud receives an
+appropriately filled-in registration or order form ("order") which the
+customer has submitted through a registration and/or purchasing procedure on
+upcloud's website. [CLS] [SEP] in connection with the registration procedure the customer
+will create a service account. [CLS] [SEP] any referral herein to "agreement" includes the
+order, service descriptions attached or referred to in the order, the service
+level agreement ("sla"), the acceptable use policy ("aup") and these terms. [CLS] [SEP]
+the sla and the aup are available on upcloud’s website. [CLS] [SEP]
+
+**tl;dr** you agree to these terms when registering for an account through our
+website. [CLS] [SEP]
+
+### provision of service. [CLS] [SEP]
+
+upcloud shall provide the customer with the service, which is specified in the
+order. [CLS] [SEP] if the provided service differs from the specifications, upcloud shall
+correct the service promptly after a notification by the customer. [CLS] [SEP]
+
+**tl;dr** we promise to provide your services as you requested. [CLS] [SEP] and if not,
+let us know and we’ll be happy to remedy it. [CLS] [SEP]
+
+### service levels. [CLS] [SEP]
+
+upcloud shall offer compensation to the customer for all unscheduled
+interruptions in the provision of the service in accordance with the sla in
+force from time to time. [CLS] [SEP]
+
+**tl;dr** if we fail to provide you with your services, we will provide you
+with a compensation according to our sla – service level agreement. [CLS] [SEP]
+
+### support. [CLS] [SEP]
+
+upcloud shall provide the customer's administrative users with technical
+support with respect to the service through the means described under the
+support page on upcloud’s website. [CLS] [SEP] contact details and service hours are
+provided on upcloud's website. [CLS] [SEP]
+
+**tl;dr** we will assist you with technical issues related to our services,
+and provide you with the details and means to reach our support team. [CLS] [SEP]
+
+### access to service account. [CLS] [SEP]
+
+the customer will be responsible for activities that occur under the
+customer's service account, including actions taken by the customer's
+employees and other representatives ("user") as well as their compliance with
+user instructions and the aup. [CLS] [SEP] the customer must promptly notify upcloud if
+the customer suspects that an unauthorised third party is using, or may have
+access to, the service or the customer's service account. [CLS] [SEP]
+
+**tl;dr** you need to make sure to follow our acceptable usage policy (aup)
+and inform us if you think someone else might have accessed your account
+without permission. [CLS] [SEP]
+
+### third-party software. [CLS] [SEP]
+
+the customer must comply with third-party software license terms if the use of
+such software is offered by upcloud for the provision of the service, or if
+such software is obtained and uploaded in the service by the customer, with
+upcloud’s separate instructions. [CLS] [SEP] certain third-party software cannot be
+uploaded by the customer but must always be offered by upcloud. [CLS] [SEP]
+
+**tl;dr** you can use third-party software on your servers as long as you have
+a valid license, but with the exception of certain software (such as windows
+server) that must be provided by us. [CLS] [SEP] if in doubt, contact us for more
+information. [CLS] [SEP]
+
+### paid subscription and free trials. [CLS] [SEP]
+
+the service and the prices for the service ("service fee") are described in
+the service descriptions available on upcloud’s website. [CLS] [SEP] upcloud may from time
+to time offer trials of the service for a specified period without payment. [CLS] [SEP]
+upcloud reserves the right, in its sole discretion, to determine customer’s
+eligibility for a free trial and, subject to applicable laws, to withdraw or
+to modify an offer trial at any time without prior notice and with no
+liability, to the greatest extent permitted under the law. [CLS] [SEP] for a free trial of
+the service, upcloud may require customer to provide payment details to start
+the trial. [CLS] [SEP] at the end of such trial, upcloud may automatically start to charge
+the applicable service fees for the service immediately after the end of the
+free trial in accordance with section payment terms and according to the price
+list on upcloud’s website. [CLS] [SEP] the applicable subscription to the service must be
+cancelled through customer’s account’s subscription page, or the service must
+be terminated in its entirety, before the end of the trial period in case
+customer does not accept the applicable prices provided on upcloud's website. [CLS] [SEP]
+customer shall ensure that the authorised users use the service in compliance
+with this agreement. [CLS] [SEP] misuse of the service by customer or any user may lead to
+termination of the agreement or suspension or denial of access to the service. [CLS] [SEP]
+
+**tl;dr** we may offer time limited free trials but are not obligated to
+provide one. [CLS] [SEP] and while the trial is completely free, you might be required to
+verify your payment details to start your trial. [CLS] [SEP] if you wish to continue using
+the services after your trial, you will need to make a payment. [CLS] [SEP]
+
+### right to use the service and eligibility. [CLS] [SEP]
+
+subject to due subscription to the service and compliance with the agreement,
+upcloud grants to customer a non-exclusive, nontransferable and limited right
+to enter and use the service and grant users access rights to the service. [CLS] [SEP]
+
+**tl;dr** you are welcome to use our services as long as you follow these
+terms. [CLS] [SEP]
+
+### external back-up copies. [CLS] [SEP]
+
+the customer is responsible for making appropriate back-up copies of the
+customer data (as defined below) stored in the service. [CLS] [SEP] such back-up copies
+shall be stored outside the service. [CLS] [SEP]
+
+**tl;dr** make sure to keep backups of your data and store them at an external
+location, outside of upcloud’s services. [CLS] [SEP]
+
+### changes to the service. [CLS] [SEP]
+
+upcloud is entitled to develop its services and business offerings. [CLS] [SEP] in case of
+a change in the service, upcloud will notify the customer in advance. [CLS] [SEP] if
+upcloud considers that a change will have a material effect in the service,
+upcloud will notify the customer at least 30 days before the change will be
+effected and reserve the customer a possibility to terminate the agreement. [CLS] [SEP]
+
+**tl;dr** we are continuously developing our services and sometimes need to
+make changes that will affect you and the services you use. [CLS] [SEP] we will always
+notify you at least 30 days before any significant changes, such as the prices
+of the services you use. [CLS] [SEP]
+
+### prices. [CLS] [SEP]
+
+the prices of the service are specified in the order. [CLS] [SEP] unless otherwise agreed,
+upcloud charges the customer in advance for each one-hour period of the
+service according to upcloud's price list which is valid at the time and is
+available on upcloud’s website. [CLS] [SEP] applicable value added tax and other duties
+will be added to the prices unless the prices are specified vat inclusive. [CLS] [SEP]
+
+**tl;dr** all services provided by us are charged by the hour and at the start
+of each hour. [CLS] [SEP] to see a complete pricing list for our services, please visit
+our website. [CLS] [SEP]
+
+### payment terms. [CLS] [SEP]
+
+upcloud shall charge the service by debiting credits from the customer's
+service account on a pre-paid basis after the customer has submitted the
+order. [CLS] [SEP] invoices are made available on the customer's service account. [CLS] [SEP] with the
+exception of credits offered by upcloud free-of-charge for a trial period, the
+customer will purchase credits that will be deposited into the customer's
+service account. [CLS] [SEP] the customer cannot order the service unless the customer has
+sufficient credits on the service account. [CLS] [SEP] the credits are not refundable
+unless otherwise decided by upcloud at its sole discretion. [CLS] [SEP]
+
+**tl;dr** to use our services, you will need to have a positive credits
+balance on your upcloud account. [CLS] [SEP] please note that payments are non-refundable
+unless otherwise stated. [CLS] [SEP]
+
+### customer’s obligations and rights. [CLS] [SEP]
+
+when subscribing to the service, customer shall provide true, accurate and
+complete information as prompted by the order and update such information when
+required. [CLS] [SEP] please note that this agreement only covers the service and the use
+thereof and any and all linked third party services and platforms are provided
+by the relevant third parties and covered by their terms of service or other
+agreement or license. [CLS] [SEP] upcloud does not assume any liability in regard to use
+of such third-party services and platforms, whether or not they are linked to
+the service. [CLS] [SEP]
+
+**tl;dr** when using our services, it’s your responsibility to keep your
+contact information up to date. [CLS] [SEP] in addition, we can’t be held responsible for
+any third-party services you might use together with our services. [CLS] [SEP]
+
+### use restrictions. [CLS] [SEP]
+
+customer is not permitted and not entitled to permit the users or any other
+parties to do any of the following:
+
+  * copy, redistribute, reproduce, record, transfer, perform or display to the public, broadcast, or make available to the public any part of the service, or otherwise make any use of the service which is not expressly permitted under the agreement or applicable law or which otherwise infringes the intellectual property rights (such as copyright) in the service or any part of it or any other intellectual property rights of third parties;
+  * use the service in any manner that could damage, disable, overburden or impair the service available through the service;
+  * use any data mining, robots, scraping, or similar data gathering or extraction methods;
+  * sign up for an account on behalf of someone else;
+  * use, sell, rent, transfer, license or otherwise provide anybody with the service, except as provided herein;
+  * interfere with other customers’ use and enjoyment of the service;
+  * circumvent or try to circumvent any usage control or anti-copy functionalities of the service;
+  * reverse engineer or decompile the service or access the source code thereof, except as permitted by law;
+  * use the service for transmitting any unauthorised advertising, promotional materials, junk mail, spam, chain letters, contests, pyramid schemes, or any other form of solicitation or mass messaging;
+  * use the service in violation of applicable law;
+  * use the service in ways that violate intellectual property rights, business secrets or privacy of third parties;
+  * use the service to transmit any material that contains adware, malware, spyware, software viruses, worms or any other computer code designed to interrupt, destroy, or limit the functionality of computer software or equipment. [CLS] [SEP]
+
+**tl;dr** you must not use our services for anything illegal or that would
+cause problems to us or our users. [CLS] [SEP] please contact us if you are uncertain, and
+we will be happy to clarify this for you. [CLS] [SEP]
+
+### indemnification. [CLS] [SEP]
+
+upcloud will defend customer against any claim that the service infringes the
+intellectual property rights of a third party and pay any damages finally
+settled or awarded in a trial to the third party with respect to any such
+claim, provided that upcloud is notified promptly in writing of the claim and
+given sole control of the defense and all related settlement negotiations in
+relation to the claim as well as reasonable assistance and necessary
+authorisations from customer to defend or settle the claims on behalf of
+customer. [CLS] [SEP] at any time, if upcloud reasonably deems that any part of the
+service infringes the intellectual property rights of any third party, upcloud
+has the right at its own expense to (i) modify/replace the service to
+eliminate the infringement in such a manner that the modified service complies
+with this agreement, or (ii) procure to customer a right to use the service. [CLS] [SEP]
+if none of the aforementioned alternatives are reasonably possible, upcloud
+shall have the right to terminate this agreement and upcloud shall refund to
+customer the prices paid for the service by customer less the price
+corresponding the time customer has been able to use the service in accordance
+with this agreement. [CLS] [SEP] upcloud shall, however, not be liable for any
+infringement or claim thereof in the event the claim (i) is made by any
+affiliates of customer; (ii) has resulted from customer’s or customer’s
+supplier’s or user’s use or modification of or addition to the service; (iii)
+could have been avoided by using the latest version of the service provided by
+upcloud; or (iv) is not related to the service or any part of the service for
+which upcloud is not responsible for pursuant to this agreement or statutory
+requirements. [CLS] [SEP] this section contains upcloud’s entire liability and customer’s
+sole and exclusive remedy in case of intellectual property rights
+infringements. [CLS] [SEP] customer shall indemnify, defend, and hold upcloud harmless
+from and against all liabilities, damages and costs (including settlement
+costs and reasonable attorneys’ fees) arising out of any breaches of this
+agreement by customer, customer’s personnel and/or users. [CLS] [SEP]
+
+**tl;dr** we will defend you against any claim that our services infringe on
+someone else’s intellectual property rights, as long as you have followed
+these rules. [CLS] [SEP] if you receive such a claim, please notify us as soon as possible
+so that we can assist you with it. [CLS] [SEP]
+
+### customer data. [CLS] [SEP]
+
+customer data shall mean all customer’s data that a customer or another party
+acting on customer’s behalf generates in or submits to the service ("customer
+data") or the data customer submits to a third-party service or platform which
+might be accessed by the service, subject to and on the basis of the
+permissions or consents customer has granted. [CLS] [SEP] customer agrees that upcloud
+does not assume any liability or responsibility in respect to any customer
+data, with the exceptions relating to personal data as set forth in section
+data processing below. [CLS] [SEP] customer shall at all times ensure that customer data
+does not infringe any third party intellectual property rights or violate any
+applicable laws or legislation. [CLS] [SEP] customer shall not upload any illegal,
+offensive, threatening, libellous, defamatory, or otherwise inappropriate data
+to the service. [CLS] [SEP] for clarity, upcloud is not responsible and shall not be held
+liable for any customer data, nor does it endorse any opinion contained in any
+customer data. [CLS] [SEP] aside from the rights specifically granted herein, customer
+retains ownership of all rights, including intellectual property rights, in
+the customer data. [CLS] [SEP]
+
+**tl;dr** any data uploaded to or generated on your cloud servers are yours
+and yours only. [CLS] [SEP] we cannot be held responsible for it and we refrain from
+applying our opinions and values towards it, as long as it’s not illegal or
+breaking our terms of service. [CLS] [SEP] in additional, we promise to keep your personal
+data safely and privately stored. [CLS] [SEP]
+
+### data processing. [CLS] [SEP]
+
+in order to provide the service, upcloud may process personal data on behalf
+of the customer as a data processor for the purposes of providing the service. [CLS] [SEP]
+upcloud processes certain personal data also as a data controller. [CLS] [SEP] such
+personal data includes, inter alia, data of the customer’s contact persons,
+invoicing details and other personal data of customer’s contact persons which
+upcloud processes in order to maintain the customer relationship. [CLS] [SEP] the
+requirements relating to the personal data upcloud processes as data
+controller are set out in our privacy policy available on upcloud’s website. [CLS] [SEP]
+in this section, "personal data" refers to any information relating to an
+identified or identifiable natural person the customer enters into the service
+and upcloud processes on behalf of the customer in the course and within the
+scope of providing the services. [CLS] [SEP] in connection with the use of the service,
+the customer may transfer various data to upcloud for processing on behalf of
+the customer. [CLS] [SEP] such data might include personal data. [CLS] [SEP] the customer shall be
+considered as the sole data controller and upcloud as the sole data processor
+with respect to such data. [CLS] [SEP] the following terms and conditions set forth in
+this section concern the data processing activities of upcloud as a data
+processor with respect to the personal data it processes on behalf of the
+customer. [CLS] [SEP]
+
+**tl;dr** we collect and process certain personal data (contact, billing and
+behavioural) in compliance with gdpr to better be able to provide you with our
+services. [CLS] [SEP] this does not include any personal data you store on your cloud
+servers, which are not accessible by us and under your sole discretion. [CLS] [SEP]
+
+### general requirements relating to processing of personal data. [CLS] [SEP]
+
+the customer shall be responsible for the lawful collection, processing and
+use, and for the accuracy of the personal data, as well as for preserving the
+rights of the individuals concerned. [CLS] [SEP] if and to the extent legally required,
+the customer shall inform the individuals concerned regarding the processing
+of their personal data by upcloud, and shall obtain their consent if
+necessary. [CLS] [SEP] the personal data processed by upcloud on behalf of the customer
+may include e.g. [CLS] [SEP] personal data of the customer’s employees and end-customers,
+such as contact details of the aforementioned data subjects. [CLS] [SEP] the customer
+acknowledges that due to the nature of the service, upcloud cannot control and
+has no obligation to verify personal data the customer transfers to upcloud
+for processing on behalf of the customer when the customer uses the service. [CLS] [SEP]
+the customer ensures that the customer is entitled to transfer the personal
+data to upcloud so that upcloud may lawfully process the personal data on
+behalf of the customer in accordance with this agreement. [CLS] [SEP] upcloud shall not
+use personal data for any purpose other than that of rendering and providing
+the service and will not assert liens or other rights over, or sell or
+disclose the personal data to any third parties, without the customer’s prior
+written approval. [CLS] [SEP] upcloud shall process personal data in accordance with this
+agreement and documented instructions from the customer. [CLS] [SEP] the customer’s
+instructions must be commercially reasonable, compliant with applicable data
+protection laws and consistent with this agreement. [CLS] [SEP] upcloud shall not be
+obliged to verify whether any instructions given by the customer are
+consistent with applicable laws, as the customer is responsible for such
+compliance verification of its instructions. [CLS] [SEP] however, if upcloud detects that
+any instruction given by the customer is non-compliant with the requirements
+of any data protection legislation applicable to upcloud’s operations, upcloud
+shall inform the customer in writing. [CLS] [SEP] upcloud and the customer shall comply
+with the eu regulation 2016/679 on the protection of natural persons with
+regard to the processing of personal data and on the free movement of such
+data ("regulation") and any applicable european or foreign data protection
+laws as amended, as well as data protection authorities’ orders and
+guidelines. [CLS] [SEP] upcloud and the customer shall implement and maintain appropriate
+technical and organizational security measures to protect the personal data
+within their area of responsibility, in order to safeguard the personal data
+against unauthorised or unlawful processing or access and against accidental
+loss, destruction or damage. [CLS] [SEP] such measures include where necessary and
+appropriate, taking into account the state of the art, the costs of
+implementation and the nature, scope, context and purposes of processing as
+well as the risk of varying likelihood and severity for the rights and
+freedoms of natural persons the following measures:
+
+  * access right controls to systems containing personal data;
+  * the pseudonymisation and encryption of personal data;
+  * the ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services;
+  * the ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident;
+  * a process for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures for ensuring the security of the processing. [CLS] [SEP]
+
+**tl;dr** if you collect or process any personal data using our services, you
+are required to follow the general data protection regulation. [CLS] [SEP]
+
+### upcloud’s assistance obligations. [CLS] [SEP]
+
+to respond to requests from individuals exercising their rights as foreseen in
+applicable data protection law, such as the right of access and the right to
+rectification or erasure, the customer shall primarily use the corresponding
+functions of the services, such as the upcloud control panel. [CLS] [SEP] upcloud shall
+provide the customer with commercially reasonable assistance, without undue
+delay, taking into account the nature of the processing. [CLS] [SEP] upcloud shall further
+provide the customer with commercially reasonable assistance in ensuring
+compliance with the customer’s obligations to perform security and data
+protection assessments, breach notifications and prior consultations of the
+competent supervisory authority, as set out in the applicable data protection
+law, taking into account the nature of the processing and the information
+available to upcloud. [CLS] [SEP] in case such assistance requires extensive measures from
+upcloud, the customer shall pay additional reasonable remuneration to upcloud
+for handling such assistance requests. [CLS] [SEP] in addition, upcloud shall, and shall
+procure that its personnel (including its subcontractors’ personnel) shall:
+
+  * only process personal data in accordance with the customer’s written instructions and not for upcloud’s own purposes;
+  * ensure that individuals processing personal data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality. [CLS] [SEP]
+
+**tl;dr** you can exercise your right to view, modify, or delete your personal
+data through the upcloud control panel. [CLS] [SEP] in cases where you collect and process
+any personal data, we can help you to ensure compliance with gdpr. [CLS] [SEP] please note
+that extensive work may include additional costs. [CLS] [SEP]
+
+### transfers of personal data. [CLS] [SEP]
+
+the customer accepts that upcloud may have personal data processed and
+accessible by its subprocessors outside the customer’s country of domicile to
+provide the service. [CLS] [SEP] in case the processing is subject to any eu data
+protection law and personal data is transferred from the european economic
+area ("eea") to a subprocessor for processing in any country outside the eea
+that is not recognized by the european commission as providing an adequate
+level of protection for personal data, upcloud provides for appropriate
+safeguards by standard contractual clauses, adopted or approved by the
+european commission and applicable to the processing by the non-eea
+subprocessor or by any other appropriate safeguard as foreseen under
+regulation. [CLS] [SEP]
+
+**tl;dr** if we need to transfer your personal data to another country outside
+the eu we’ll ensure the data remains secure. [CLS] [SEP]
+
+### audits. [CLS] [SEP]
+
+the customer shall have the right to audit the facilities and processing
+activities of upcloud under this agreement to examine the level of protection
+and security provided for personal data processed under this agreement and to
+assess the compliance of upcloud with the terms and conditions relating to
+personal data set out herein. [CLS] [SEP] each party shall bear its own costs for any such
+audit. [CLS] [SEP] where an audit may lead to the disclosure of business or trade secrets
+of upcloud or threaten intellectual property rights of upcloud, the customer
+shall employ an independent expert to carry out the audit, and the expert
+shall agree to be bound to confidentiality to upcloud’s benefit. [CLS] [SEP]
+
+**tl;dr** you have the right to audit our personal data protection and
+security processes. [CLS] [SEP] if the audit would contain confidential information, you
+will need to employ an independent expert to do the audit. [CLS] [SEP]
+
+### subprocessors. [CLS] [SEP]
+
+general authorization. [CLS] [SEP] the customer gives its general authorization to allow
+upcloud to involve upcloud’s affiliated companies and other subcontractors as
+subprocessors to process personal data in connection with the provision of the
+service, to the extent such appointment does not lead to non-compliance with
+any applicable law or upcloud’s obligations under this agreement. [CLS] [SEP] upcloud
+ensures that the involved subprocessors are properly qualified, will be under
+a data processing agreement with upcloud, and comply with data processing
+obligations similar to the ones which apply to upcloud under this agreement. [CLS] [SEP]
+upcloud shall be liable towards the customer for the processing of personal
+data carried out by upcloud’s subprocessors. [CLS] [SEP]
+
+**tl;dr** we might use third-parties that need to process your personal data
+to provide you with our services. [CLS] [SEP] in such case we’ll make sure they secure
+your data according to the same requirements as we do. [CLS] [SEP]
+
+### change of subprocessor. [CLS] [SEP]
+
+upcloud is free to choose and change its subprocessors. [CLS] [SEP] upon request, upcloud
+shall inform the customer of subprocessors currently involved. [CLS] [SEP] in case there
+is a later change of subprocessor (addition or replacement), upcloud shall
+notify the customer of such change. [CLS] [SEP] in case the customer objects such change
+of subprocessor on reasonable grounds, the customer has the right to request
+change of the subprocessor. [CLS] [SEP] if upcloud is not willing to change the
+subprocessor the customer has objected, the customer shall have the right to
+terminate the service and this agreement. [CLS] [SEP]
+
+**tl;dr** we can change partners when needed. [CLS] [SEP] you can ask about our current
+partners that might process your personal data and we’ll let you know if they
+change in the future. [CLS] [SEP]
+
+### breaches. [CLS] [SEP]
+
+upcloud shall, without undue delay after having become aware of it, inform the
+customer in writing about any data breaches relating to personal data and any
+other events where the security of personal data processed on behalf of the
+customer has been compromised. [CLS] [SEP] upcloud’s notification about the breach to the
+customer shall include at least the following:
+
+  * description of the nature of the breach;
+  * name and contact details of upcloud’s contact point where more information can be obtained;
+  * description of the measures taken by upcloud to address the breach, including, where appropriate, measures to mitigate its possible adverse effects. [CLS] [SEP]
+
+**tl;dr** we’ll inform you of any security breach where your personal data
+might have been compromised. [CLS] [SEP]
+
+### deletion and return of personal data. [CLS] [SEP]
+
+upcloud shall not take any action to intentionally erase any personal data
+processed on behalf of the customer, without the customer’s explicit request. [CLS] [SEP]
+personal data shall be processed under this agreement until the customer has
+ceased to use the service. [CLS] [SEP] within a reasonable time after the termination or
+expiry of this agreement, or after the customer has permanently ceased to use
+the service, upcloud shall permanently delete personal data from its storage
+media, except to the extent that upcloud is under a statutory obligation to
+continue storing such personal data. [CLS] [SEP] on the customer’s request, upcloud shall
+confirm the deletion in writing. [CLS] [SEP] the obligation to delete personal data shall
+not apply to personal data contained in regular back-up copies of
+comprehensive datasets from which the individual deletion of personal data
+would not be possible without significant efforts or costs. [CLS] [SEP]
+
+**tl;dr** we will delete your personal data if requested, to the extent we are
+allowed to, and confirm it to you in writing. [CLS] [SEP]
+
+### confidentiality. [CLS] [SEP]
+
+the parties may exchange confidential information during the performance of
+this agreement. [CLS] [SEP] confidential information shall mean any information which is
+marked as confidential or which should be understood as confidential,
+irrespective of its form of storage or disclosure. [CLS] [SEP] all confidential
+information shall remain the property of the disclosing party and the
+receiving party shall keep confidential and refrain from using such
+confidential information otherwise than for the purposes of this agreement,
+during the term of this agreement and after the termination of this agreement. [CLS] [SEP]
+for the avoidance of doubt, any information of or relating to a party or that
+party’s personnel, suppliers, contractors, customers or end-users, which
+information is obtained or detected by the other party or processed or
+generated in the course of providing or receiving the service shall be deemed
+confidential information of that party. [CLS] [SEP] each party shall promptly upon
+termination of the service cease using confidential material and information
+received from the other party and use reasonable means to destroy such
+material. [CLS] [SEP] each party shall, however, be entitled to retain the copies required
+by law or regulations. [CLS] [SEP]
+
+**tl;dr** we will keep any confidential information we have exchanged between
+each other secured, and we expect you to do the same. [CLS] [SEP]
+
+### intellectual property rights. [CLS] [SEP]
+
+all intellectual property rights to and in the service as well as intellectual
+property rights pertaining thereto, are exclusive property of upcloud or its
+licensors with all rights reserved. [CLS] [SEP] all intellectual property rights to the
+content uploaded into the service by or on behalf of the customer will remain
+the exclusive property of the customer or its licensors. [CLS] [SEP] customer agrees not
+to resell the service or redistribute or transfer the service. [CLS] [SEP] all
+intellectual property rights relating to the provision of the services,
+including suggestions for improvements made by the customer, will remain the
+exclusive property of upcloud or its licensors. [CLS] [SEP]
+
+**tl;dr** you retain your rights to any data uploaded onto our services and we
+retain the rights to our intellectual property. [CLS] [SEP]
+
+### limited warranty. [CLS] [SEP]
+
+upcloud will offer service level compensations to the customer in accordance
+with the sla. [CLS] [SEP] in all other respects the service is provided on "as-is" and
+"as-available" basis, and upcloud will not give the customer any warranty or
+guarantee, express or implied, for the service, including but without
+limitation to warranties of merchantability, fitness for any particular
+purpose, performance, or non-infringement. [CLS] [SEP] the parties expressly note that the
+service is not designed to be error-free or uninterrupted and therefore they
+are neither intended nor fit for purposes that require fail-safe performance. [CLS] [SEP]
+
+**tl;dr** we offer compensation for interruptions to our services according to
+our service level agreement but cannot provide any warranty or guarantee. [CLS] [SEP]
+
+### limited liability. [CLS] [SEP]
+
+upcloud will not be liable for indirect damage or consequential damages caused
+to the customer. [CLS] [SEP] upcloud’s total aggregate liability under or in connection
+with this agreement shall be limited to the aggregate service fee paid by the
+customer for the service for the last six (6) months preceding the occurrence
+for which damages are claimed. [CLS] [SEP] these limitations will not apply to damage
+caused by willful misconduct or gross negligence. [CLS] [SEP] in order to be valid and
+enforceable, all claims for damages must be made within 30 days from the date
+the damage was or should reasonably have been noticed by the customer. [CLS] [SEP]
+
+**tl;dr** if things go really badly, our maximum compensation is up to the
+amount you have paid us during the past 6 months, unless the issue was caused
+intentionally by us or through gross negligence on our part. [CLS] [SEP]
+
+### assignment and third-party benefits. [CLS] [SEP]
+
+upcloud may assign the agreement in whole or in part to another group company
+or in connection with the trade sale which includes the provision of the
+service. [CLS] [SEP] the customer may assign the agreement to a third party with upcloud's
+prior written consent which upcloud will not unreasonably withhold. [CLS] [SEP] the
+agreement will not create any third-party beneficiary rights in any third
+party. [CLS] [SEP]
+
+**tl;dr** this agreement can be assigned to another company by us or to
+another user by your request and our written approval. [CLS] [SEP]
+
+### temporary suspension. [CLS] [SEP]
+
+if the customer has breached the provisions of the agreement or upcloud has
+justifiable reasons to believe such a breach exists, upcloud may temporarily
+suspend the provision of the service. [CLS] [SEP]
+
+**tl;dr** if you break these rules, we may temporarily suspend access to your
+account and services. [CLS] [SEP]
+
+### termination for convenience. [CLS] [SEP]
+
+the customer may terminate the agreement for any reason by issuing 5 days
+written notice to upcloud. [CLS] [SEP] upcloud may terminate the agreement for any reason
+by issuing 30 days written notice to the customer. [CLS] [SEP]
+
+**tl;dr** if you would like to terminate this agreement, please give us 5 days
+written notice. [CLS] [SEP] in case we decide to terminate this agreement, we will give
+you 30 days written notice. [CLS] [SEP]
+
+### termination for cause. [CLS] [SEP]
+
+either party may terminate the agreement with immediate effect if the other
+party has materially breached the provisions of the agreement. [CLS] [SEP]
+
+**tl;dr** if either of us breaks this agreement, it can be terminated
+immediately. [CLS] [SEP]
+
+### transition service. [CLS] [SEP]
+
+upcloud will provide the customer with transition services in order to enable
+the customer to transfer the customer data to another service provider. [CLS] [SEP] the
+customer must order the transition services before the termination of the
+agreement. [CLS] [SEP] the description of the transition services and applicable prices
+are provided on upcloud's website. [CLS] [SEP]
+
+**tl;dr** we can help you transfer your data to another provider for a fee. [CLS] [SEP]
+
+### entire agreement and amendments. [CLS] [SEP]
+
+the agreement constitutes the entire agreement and supersedes all previous
+commitments between the parties in respect of the provision of the service. [CLS] [SEP]
+all amendments to the agreement must be made in writing. [CLS] [SEP] upcloud may modify
+this agreement by notifying the customer in writing, such as by e-mail or by
+posting a revised document version on upcloud's website. [CLS] [SEP] if upcloud considers
+that a revision will have a material effect on the agreement, upcloud will
+notify the customer at least 30 days before the revision will be effected and
+reserve the customer a possibility to terminate the agreement. [CLS] [SEP]
+
+**tl;dr** these terms are agreed to in full and any changes must be made in
+writing. [CLS] [SEP] if any changes would significantly affect you, we will inform you at
+least 30 days in advance. [CLS] [SEP]
+
+### non-waiver. [CLS] [SEP]
+
+a failure by either party to enforce any provision of the agreement will not
+be deemed to constitute a present or future waiver of such provision. [CLS] [SEP] all
+waivers must be made in writing. [CLS] [SEP]
+
+**tl;dr** these terms will remain effective even if not strictly enforced. [CLS] [SEP]
+
+### force majeure. [CLS] [SEP]
+
+force majeure is an event that prevents, or makes unduly difficult, the
+performance of the service or the fulfilment of the provisions of the
+agreement, such as war, rebellion, natural catastrophe, general interruption
+in energy distribution or telecommunications, fire, strike, embargo, or
+another equally significant and unforeseen event independent of the parties. [CLS] [SEP]
+each party shall be entitled to suspend its duties without liability thereof
+in case of force majeure affecting the party either directly or through its
+subcontractor. [CLS] [SEP]
+
+**tl;dr** neither of us can be held responsible in a case of a major issue
+that is out of our hands. [CLS] [SEP]
+
+### severability. [CLS] [SEP]
+
+should any provision of the agreement be declared unenforceable by a court of
+competent jurisdiction, the remaining provisions of the agreement will remain
+in full force and effect to the fullest extent permitted by law. [CLS] [SEP] the parties
+shall attempt through negotiation in good faith to replace the unenforceable
+provision with such provisions that correspond as closely as possible to the
+original intention of the parties. [CLS] [SEP]
+
+**tl;dr** the rest of these terms will remain in effect even if deemed
+unenforceable by a court, and we will instead negotiate a replacement in good
+faith. [CLS] [SEP]
+
+### governing law and arbitration. [CLS] [SEP]
+
+the agreement will be governed by the substantive laws of finland, with the
+exception of any conflict of law principles. [CLS] [SEP] any and all disputes, which the
+parties fail to settle amicably, arising out of or relating to the agreement
+will be finally settled by arbitration in english language in accordance with
+the rules of the arbitration institute of the finland chamber of commerce. [CLS] [SEP]
+
+**tl;dr** any disputes will be decided in english and by the finland chamber
+of commerce. [CLS] [SEP]
+
+## service level agreement
+
+**scope.** this service level agreement ("sla") is an integral part of the
+contract between upcloud and the customer. [CLS] [SEP]
+
+**service guarantee.** upcloud will guarantee 100% virtual server and network
+availability to the customer. [CLS] [SEP] the network will be deemed available if
+upcloud's routers and switches are available and responding properly. [CLS] [SEP] for all
+unscheduled interruptions in the provision of the services, which are due to
+hardware or telecommunications failures that last longer than 5 minutes,
+upcloud shall offer compensation to the customer. [CLS] [SEP]
+
+**scheduled interruptions.** upcloud will notify the customer by e-mail or on
+upcloud's website about scheduled interruptions in the provision of the
+services at least 24 hours in advance, with the exception of important
+security updates and patches which upcloud may deploy without prior notice. [CLS] [SEP]
+
+**error notifications.** in case of an interruption in the services, the
+customer has to notify upcloud by e-mail to [[email protected]](/cdn-
+cgi/l/email-protection#2c4359584d4b495f6c595c4f40435948024f4341). [CLS] [SEP] the
+interruption is deemed to begin when the failure starts to affect the
+customer's use of the services, and to end when the failure has been
+corrected. [CLS] [SEP] upcloud will notify the customer about the correction of the
+failure. [CLS] [SEP]
+
+**payment of compensation.** when a failure in the services has been
+corrected, upcloud will offer the customer compensation which the customer may
+reclaim within 15 days. [CLS] [SEP] the compensation will be paid to the customer's
+service account in the form of credits and may not be exchanged for cash or
+other forms of payment. [CLS] [SEP]
+
+**amount of compensation.** the amount of compensation will be 50 times
+upcloud's charges for the services allocated for the period of the
+interruption of the services. [CLS] [SEP] the maximum amount of compensation for an
+individual interruption is 100% of upcloud's charges for the services during
+30 calendar days preceding the interruption. [CLS] [SEP] the total sum of aggregated
+compensations cannot exceed 250% of upcloud's charges for the services during
+30 calendar days preceding the latest interruption. [CLS] [SEP]
+
+**sole remedy.** the above-mentioned payment of compensation will be the sole
+remedy of the customer for interruptions or other failures in the services. [CLS] [SEP] in
+case of a disagreement over the amount of the compensation payable to the
+customer, upcloud's decision on the issue will be binding and final. [CLS] [SEP]
+
+**exemptions from service guarantee.** the following situations will be exempt
+from upcloud's service guarantee:
+
+  1. [CLS] [SEP] scheduled interruptions
+  2. [CLS] [SEP] failures caused by errors in third party software utilized in the services
+  3. [CLS] [SEP] failures in products or services which are not included in the services
+  4. [CLS] [SEP] failures caused by the customer's actions contrary to user instructions or resulting from the customer's operating systems or application software used within the services
+  5. [CLS] [SEP] violations of upcloud's acceptable use policy
+  6. [CLS] [SEP] failures due to hostile actions by third parties such as denial-of-service attacks
+  7. [CLS] [SEP] interruptions resulting from law and public authority enforced activities
+  8. [CLS] [SEP] customer does not have sufficient pre-paid balance on the customer's service account for the use of the services at the time of the interruption in the services. [CLS] [SEP]
+
+no compensation will be payable to the customer during a free-of-charge trial
+period. [CLS] [SEP]
+
+## acceptable use policy
+
+**scope.** this acceptable use policy ("aup") is an integral part of the
+contract between upcloud and the customer. [CLS] [SEP]
+
+**user instructions.** the customer must comply with separate user
+instructions concerning the services. [CLS] [SEP] the customer shall provide reasonable
+cooperation with regard to investigations on suspected breaches of the
+contract. [CLS] [SEP]
+
+**customer 's legal compliance.** the customer must comply with applicable
+laws and regulations. [CLS] [SEP] for example, the customer must have necessary rights to
+use the content which has been uploaded in the service by or on behalf of the
+customer. [CLS] [SEP]
+
+**illegal or offensive use of services.** the customer is not entitled to use
+the services for purposes which upcloud deems to be illegal or offensive. [CLS] [SEP] if
+the customer is uncertain whether or not its use of the services could be
+deemed illegal or offensive, the customer should contact upcloud in advance
+and request permission. [CLS] [SEP] for example, upcloud considers the following actions
+or content to be illegal or offensive:
+
+  1. [CLS] [SEP] use of the services in connection with fraudulent activities
+  2. [CLS] [SEP] storage or transfer of, or linking to, content that violates trade secrets, copyrights, trademarks, patents, or other intellectual property rights, or contributes to the said violations
+  3. [CLS] [SEP] storage or transfer of, or linking to, content that is harassing or excessively violent, inciting to hate or violence, or threatening with violence
+  4. [CLS] [SEP] storage or transfer of, or linking to child pornography or content containing non-consensual sexual acts
+  5. [CLS] [SEP] promotion of illegal material or products
+  6. [CLS] [SEP] unauthorized access to, or attempting to access, systems, networks or data
+  7. [CLS] [SEP] use of a user account or computing without the owner's authorisation
+  8. [CLS] [SEP] collection of user information such as email addresses without the consent of the person identified (phishing)
+  9. [CLS] [SEP] monitoring of network traffic or data without authorization
+
+**mass emailing.** if the customer wishes to use the services for sending of
+bulk e-mail or other mass communications, the customer must first receive
+upcloud's written consent. [CLS] [SEP]
+
+**disruptive use of services.** the customer may use, investigate, and modify
+the operating environment of the services only within the limits of the user
+instructions. [CLS] [SEP] the customer may not use the services in any way that causes
+security risks to the service or interferes with the operation of the
+services. [CLS] [SEP] for example, upcloud considers the following actions to be
+disruptive on the operation of the services:
+
+  1. [CLS] [SEP] intentional or careless use of the services in excess of a typically expected server load, such as continuosly high cpu or i/o use rate
+  2. [CLS] [SEP] intentional or careless configuration of servers that enables unauthorized third party access or otherwise lacks adequate security requirements
+  3. [CLS] [SEP] measures which are mainly aimed to circumvent, or interfere with, the monitoring, controlling, or charging of the services by upcloud
+
+## locations
+
+  * helsinki (hq)
+  * london
+  * singapore
+  * seattle
+
+### helsinki (hq)
+
+in the capital city of finland, you will find our headquarters, and our first
+data centre. [CLS] [SEP] this is where we handle most of our development and innovation. [CLS] [SEP]
+
+### email
+
+general[[email protected]](/cdn-cgi/l/email-
+protection#f8909d949497b88d889b94978d9cd69b9795)  
+sales[[email protected]](/cdn-cgi/l/email-
+protection#89fae8e5ecfac9fcf9eae5e6fceda7eae6e4)  
+support[[email protected]](/cdn-cgi/l/email-
+protection#75060005051a070135000516191a00115b161a18)  
+
+### london
+
+london was our second office to open, and a important step in introducing
+upcloud to the world. [CLS] [SEP] here our amazing staff can help you with both sales and
+support, in addition to host tons of interesting meetups. [CLS] [SEP]
+
+### email
+
+general[[email protected]](/cdn-cgi/l/email-
+protection#84ece1e8e8ebc4f1f4e7e8ebf1e0aae7ebe9)  
+sales[[email protected]](/cdn-cgi/l/email-
+protection#1a697b767f695a6f6a7976756f7e34797577)  
+support[[email protected]](/cdn-cgi/l/email-
+protection#f1828481819e8385b18481929d9e8495df929e9c)  
+
+### singapore
+
+singapore was our 3rd office to be opened, and enjoys one of most engaged and
+fastest growing user bases we have ever seen. [CLS] [SEP]
+
+### email
+
+general[[email protected]](/cdn-cgi/l/email-
+protection#ff979a939390bf8a8f9c93908a9bd19c9092)  
+sales[[email protected]](/cdn-cgi/l/email-
+protection#2a594b464f596a5f5a4946455f4e04494547)  
+support[[email protected]](/cdn-cgi/l/email-
+protection#84f7f1f4f4ebf6f0c4f1f4e7e8ebf1e0aae7ebe9)  
+
+### seattle
+
+seattle is our 4th and latest office to be opened, and our way to reach out
+across the pond to our many users in the americas. [CLS] [SEP]
+
+### email
+
+general[[email protected]](/cdn-cgi/l/email-
+protection#026a676e6e6d427772616e6d77662c616d6f)  
+sales[[email protected]](/cdn-cgi/l/email-
+protection#1a697b767f695a6f6a7976756f7e34797577)  
+support[[email protected]](/cdn-cgi/l/email-
+protection#88fbfdf8f8e7fafcc8fdf8ebe4e7fdeca6ebe7e5)  
+
+  * [products](https://upcloud.com/products/)
+    * [cloud servers](https://upcloud.com/products/cloud-servers/)
+    * [maxiops storage](https://upcloud.com/products/maxiops-storage/)
+    * [object storage](https://upcloud.com/products/object-storage/)
+    * [simple backup](https://upcloud.com/products/backup/)
+    * [sdn private networks](https://upcloud.com/products/software-defined-networking/)
+    * [network transfer pool](https://upcloud.com/products/network-transfer-pool/)
+    * [private cloud](https://upcloud.com/products/private-cloud/)
+  * [compare](https://upcloud.com/compare/)
+    * [aws ec2](https://upcloud.com/compare/aws-ec2/)
+    * [azure](https://upcloud.com/compare/azure/)
+    * [digitalocean](https://upcloud.com/compare/digitalocean/)
+    * [linode](https://upcloud.com/compare/linode/)
+    * [vultr](https://upcloud.com/compare/vultr/)
+  * [community](https://upcloud.com/community/)
+    * [overview](https://upcloud.com/community/)
+    * [use cases](https://upcloud.com/community/stories/)
+    * [events](https://upcloud.com/community/events/)
+    * [newsletter](https://upcloud.com/sign-up-newsletter/)
+  * resources
+    * [resources](https://upcloud.com/community/resources/)
+    * [tutorials](https://upcloud.com/community/tutorials/)
+    * [documentation](https://upcloud.com/docs/)
+    * [api](https://developers.upcloud.com/1.3/)
+    * [status page](https://status.upcloud.com/)
+    * [faq](https://upcloud.com/faq/)
+  * company
+    * [about upcloud](https://upcloud.com/about/)
+    * [blog & news](https://upcloud.com/blog/)
+    * [partners](https://upcloud.com/partners/)
+    * [careers](https://upcloud.com/careers/)
+    * [media centre](https://upcloud.com/media-centre/)
+    * [brand assets](https://upcloud.com/brand-assets/)
+    * [contact us](https://upcloud.com/contact/)
+
+[ ](https://upcloud.com "upcloud")
+
+upcloud ltd (c) 2020\. [CLS] [SEP] all rights reserved. [CLS] [SEP]
+
+[terms of service](/terms-of-service/) [privacy policy](/privacy-policy/)
+
+[ ](https://www.facebook.com/upcloudltd) [ ](https://twitter.com/upcloud) [
+](https://github.com/upcloudltd) [
+](https://www.linkedin.com/company/upcloud/) [
+](https://www.instagram.com/upcloud/) [
+](https://www.youtube.com/channel/uckikxf5pbtblygyhxdiuuuw)
+

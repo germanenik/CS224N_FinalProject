@@ -1,7 +1,0 @@
-*.pyc
-*.swp
-.venv
-*.egg-info
-.pytest_cache
-.nfs*
-experiments

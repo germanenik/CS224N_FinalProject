@@ -1,0 +1,463 @@
+[ ![brave software home](/static-assets/images/brave-logo.svg)
+](https://brave.com/) |||
+
+  * [browser](/features/)
+    * [firewall + vpn](/firewall-vpn/)
+    * [features](/features/)
+    * [why brave?](/compare/chrome/)
+    * [brave today](/brave-today/)
+    * [brave rewards](/brave-rewards/)
+    * [tipping](/tips/)
+  * [creators](https://creators.brave.com/)
+    * [overview](https://creators.brave.com/)
+    * [media assets](/media-assets/)
+  * [advertisers](/brave-ads/)
+  * [company](/about/)
+    * [about](/about/)
+    * [careers](/careers/)
+    * [community](https://community.brave.com/)
+    * [help center](https://support.brave.com/)
+    * [brand assets](/brave-branding-assets/)
+  * [blog](/blog/)
+    * [latest news](/blog/)
+    * [brave insights](/insights/)
+    * [brave research](/research/)
+  * [brave search](/search/)
+  * [download](/download/)
+
+last updated december 9, 2020
+
+# brave browser privacy policy
+
+_our company does not store any record of peopleâs browsing history. [CLS] [SEP] we
+donât write any personal data to the blockchain. [CLS] [SEP] the only way a userâs
+data is stored by brave is if the user has switched on rewards or sync._
+
+read this document to understand how the brave browser uses data. [CLS] [SEP]
+
+to learn how we use data to operate our websites, forums, and communications,
+visit the [website privacy policy](/privacy/website/). [CLS] [SEP] to learn how we use
+data for publishers and creators visit the [publisher privacy
+policy](/privacy/publishers-creators/) on the basic attention token website. [CLS] [SEP]
+
+in this policy âweâ, âusâ, etc. [CLS] [SEP] refers to brave software inc, while
+âbraveâ refers to the browser. [CLS] [SEP]
+
+## security & updates __
+
+brave automatically checks with us for updates. [CLS] [SEP] this ensures that you always
+have access to the latest security fixes. [CLS] [SEP] we count the number and type of
+these requests when we receive them to produce aggregate statistics. [CLS] [SEP] no
+particular personâs information can be identified in the statistics we
+produce. [CLS] [SEP]
+
+you can also update to the latest version [here](/download/). [CLS] [SEP]
+
+## sync __
+
+if you switch on sync then your bookmarks (and soon passwords and other data)
+will be saved in an encrypted file on a cloud storage service, to which you
+will have the only decryption key. [CLS] [SEP] the data1 are entirely inaccessible to
+brave and to the cloud storage provider. [CLS] [SEP] [learn
+how](https://support.brave.com/hc/en-us/articles/360021218111-how-do-i-set-up-
+sync-) to switch on sync here. [CLS] [SEP] (note that only brave version 0.59 and above
+have the sync feature. [CLS] [SEP] you can update to the latest version
+[here](/download/).)
+
+## location __
+
+if you use brave to visit a website that wants to determine your location, you
+will be asked whether you want it to be allowed to know where you are. [CLS] [SEP] if you
+click yes to this message, then the website will be sent an approximation of
+where you are based on your ip address. [CLS] [SEP] your ip address will not be stored by
+brave, but it may be stored by the website you have visited. [CLS] [SEP] see data
+processing detail. [CLS] [SEP]
+
+## brave rewards __
+
+if you switch on brave rewards you are assigned a âwalletâ identifier by
+uphold, our payments partner. [CLS] [SEP] we record this identifier on servers operated by
+amazon and heroku (a salesforce company) in the united states. [CLS] [SEP] we take a range
+of technical and organisational measures to safeguard any personal data
+including the use of eu standard contractual clauses. [CLS] [SEP]
+
+brave uses your wallet identifier to determine when to send you a monthly gift
+of attention tokens (bat). [CLS] [SEP] you can disable this in preferences or settings. [CLS] [SEP]
+
+> **tip:** you can quickly access settings by copying **_brave://rewards_**
+> into your address bar. [CLS] [SEP] [learn how](https://support.brave.com/hc/en-
+> us/sections/360003095931-rewards) brave rewards works here. [CLS] [SEP]
+
+each time brave sends users a monthly gift of bat it makes a record of their
+ip addresses that can be analysed to safeguard against fraud. [CLS] [SEP] brave checks to
+see whether we are currently offering tokens to brave users. [CLS] [SEP] this request
+includes the identifier of your unique rewards wallet. [CLS] [SEP] see data processing
+detail. [CLS] [SEP]
+
+even with brave rewards enabled, we never collect your browsing history or
+similar information, and we canât derive this information from your
+contributions to content creators and sites. [CLS] [SEP] instead, we aggregate
+contributions among all brave users, and we cannot trace contributions to
+individual users, or link any of your contributions together. [CLS] [SEP]
+
+if you verify ownership of your brave rewards wallet with uphold, direct
+contributions you make will be processed by uphold as part of your uphold
+account. [CLS] [SEP] when you make a direct contribution, brave sends all the details of
+that transaction to uphold so that they can execute the transaction. [CLS] [SEP] this is
+subject to [upholdâs privacy policy](https://uphold.com/en/legal/privacy-
+policy). [CLS] [SEP]
+
+## ads __
+
+if you switch on brave rewards we automatically enable brave ads. [CLS] [SEP] this means
+you will receive ads in the form of notifications and in-browser sponsored
+content, and basic attention tokens to reward you for viewing those ads. [CLS] [SEP] while
+the categories of ads that you see and when you see them are inferred from
+your browsing activity, the data are stored on your device and are
+inaccessible to us. [CLS] [SEP] we will receive anonymized confirmations for ads that you
+have viewed, but no data that identifies you or that can be linked to you as
+an individual leaves the brave browser on your device. [CLS] [SEP] you can disable ads by
+visiting `settings > brave rewards > ads` and turning off the ads default. [CLS] [SEP]
+
+in the cases where we collect high-level statistics relating to web activity
+data (e.g. [CLS] [SEP] what are the estimated amount of ads that can be served to
+different content categories that users encounter as they browse the web) we
+use proven privacy mechanisms like local differential privacy that guarantee
+that no information about individual users will ever be revealed to us. [CLS] [SEP] read
+more about how we achieve this with [privacy preserving product
+analytics](https://brave.com/privacy-preserving-product-analytics-p3a/) and
+[private advertising analytics](https://github.com/brave/brave-
+browser/wiki/randomized-response-for-private-advertising-analytics). [CLS] [SEP] to read
+more about brave ads and privacy have a look at our
+[faq](https://support.brave.com/hc/en-us/articles/360026361072-brave-ads-faq). [CLS] [SEP]
+
+## brave today __
+
+brave today is a private content feed integrated into the browser. [CLS] [SEP] while the
+content is collected from a content server and the content sort order is
+informed by your recent browsing activity, brave today is private and
+anonymous. [CLS] [SEP]
+
+content for the brave today feed is collected securely by your device through
+a private and encrypted proxy method. [CLS] [SEP] the proxy removes ip addresses before
+passing the encrypted request to the content server which sends the encrypted
+reply back to the browser through the proxy. [CLS] [SEP] the feed is temporarily stored on
+your device, and it is replaced upon starting or refreshing your brave today
+session. [CLS] [SEP] no personal data, behavior activity or browsing history ever leaves
+the brave browser on your device. [CLS] [SEP] your brave today sessions are not logged or
+saved. [CLS] [SEP] see data processing detail. [CLS] [SEP]
+
+**note:** ip addresses are only shared between the userâs browser and the
+independent proxy which subsequently drops them. [CLS] [SEP] at no point does brave have
+access to users' ip addresses used for content requests for brave today. [CLS] [SEP]
+
+## brave together __
+
+brave together is a private video conference tool that you can use to call
+with your friends and colleagues. [CLS] [SEP] nothing that you say or type in the service
+is logged or saved. [CLS] [SEP] see data processing detail. [CLS] [SEP]
+
+**note:** your ip address is available to your internet provider. [CLS] [SEP] if your
+internet provider requires the use of a turn server, then your ip address will
+also be available to a company called 8ã8, which operates the turn server. [CLS] [SEP]
+the content of your call is encrypted between your browser and the brave
+server, so your audio and video stay private from intermediaries. [CLS] [SEP]
+
+**to avoid scams:** for the avoidance of phishing attacks, note that we at
+brave never contact brave browser users in a together call. [CLS] [SEP]
+
+## brave firewall + vpn on ios __
+
+users of brave on ios can switch on brave firewall + vpn. [CLS] [SEP] this is operated on
+braveâs behalf by [guardian](https://guardianapp.com/). [CLS] [SEP] see data processing
+detail. [CLS] [SEP]
+
+## how we improve brave __
+
+### crash reports __
+
+when brave crashes, it creates a report that can be sent to us to help us fix
+whatever caused the problem. [CLS] [SEP] this report contains technical information about
+your computer system which is typically distinctive. [CLS] [SEP] we use a service called
+backtrace.io to store them. [CLS] [SEP] you can choose whether to send us these reports. [CLS] [SEP]
+even if you have chosen to send reports in the past, you can turn off future
+reports in [settings](https://support.brave.com/hc/en-
+us/articles/360017905872-how-do-i-enable-or-disable-automatic-crash-
+reporting-). [CLS] [SEP]
+
+### privacy preserving product analytics __
+
+the browser sends us anonymous reports to alert us to product problems and
+necessary improvements. [CLS] [SEP] none of the information it reports harms your privacy. [CLS] [SEP]
+the report only describes general use of the browser, such as a general range
+of how many extensions are installed, a general range of how many tabs are
+open, and whether features like shields, rewards, and ads are switched on. [CLS] [SEP]
+[see the full list of questions here](https://github.com/brave/brave-
+browser/wiki/p3a). [CLS] [SEP] these reports are stripped of metadata, and aggregated with
+measurements reported by many other instances of brave. [CLS] [SEP] the data are not
+personal, and cannot be combined to identify you. [CLS] [SEP] you can deactivate privacy-
+preserving product analytics in settings. [CLS] [SEP]
+
+### your feedback __
+
+if you write feedback for brave, we will use this to improve the product. [CLS] [SEP] see
+data processing detail. [CLS] [SEP]
+
+### nightly, dev, and beta browser versions __
+
+[nightly](/download-nightly/), [dev](/download-dev/), and [beta](/download-
+beta/) versions of the brave browser are experimental previews of new brave
+browser versions. [CLS] [SEP] they allow us to test new features so that we can find and
+fix errors before releasing a new version of the brave browser. [CLS] [SEP] these test
+versions of the browser may automatically send crash reports to brave so that
+we can identify and fix problems. [CLS] [SEP] a crash report can contain personal
+information. [CLS] [SEP] see data processing details. [CLS] [SEP]
+
+**how to switch this feature off.** you can switch off âautomatically send
+usage statistics and crash reports to brave softwareâ in settings. [CLS] [SEP]
+
+> **tip:**  you can quickly access settings by copying _**brave://settings**_
+> into your address bar. [CLS] [SEP]
+
+these incomplete versions of brave represent unfinished and untested work on
+future versions of brave, and their incomplete behavior may not be adequately
+described by this policy. [CLS] [SEP] more information about the safety & reliability of
+pre-release versions of brave can be found in our [development
+documentation](https://github.com/brave/brave-browser/wiki/release-channel-
+descriptions). [CLS] [SEP]
+
+###  location
+
+purpose of processing| categories of personal data processed| legal basis of
+processing| duration of storage  
+---|---|---|---  
+to estimate the userâs physical location at the request of a website and
+with the confirmation of the user. [CLS] [SEP] | ip address, and information about nearby
+wifi access points (mac address, signal strength, and ssid). [CLS] [SEP] | legitimate
+interest. [CLS] [SEP] | no storage. [CLS] [SEP]  
+  
+###  brave rewards
+
+purpose of processing| categories of personal data processed| legal basis of
+processing| duration of storage  
+---|---|---|---  
+to make and verify (including anti-fraud) basic attention token contributions. [CLS] [SEP]
+| ip address at time of claiming a monthly grant of bat tokens, and wallet id
+(this id is not tied to what you browse or do because your browsing is kept
+anonymous by brave) | necessary for the performance of a [contract between
+us](https://basicattentiontoken.org/user-terms-of-service/) (and necessary for
+us to provide the requested service) | the duration of the userâs account,
+plus 4 years in order to comply with us internal revenue service requirements. [CLS] [SEP]  
+  
+###  brave today
+
+purpose of processing| categories of personal data processed| legal basis of
+processing| duration of storage  
+---|---|---|---  
+to collect content from the server in order to display it for the user. [CLS] [SEP] | ip
+addresses. [CLS] [SEP] | legitimate interest. [CLS] [SEP] the data are used in order to deliver the
+service, and the risk of the processing of the data is minimal. [CLS] [SEP] | the duration
+of the request and response  
+  
+###  brave together
+
+purpose of processing| categories of personal data processed| legal basis of
+processing| duration of storage  
+---|---|---|---  
+to provide the brave together video calling service at the request of the
+user. [CLS] [SEP] | ip address, chat text, video, and audio legitimate interest. [CLS] [SEP] | the
+user requested the service, and the risk of the processing of the data is
+minimal. [CLS] [SEP] | the duration of the call. [CLS] [SEP]  
+to allow users of the brave together video calling service to store profile
+information | profile photo and name | legitimate interest. [CLS] [SEP] the user requested
+the service, and the risk of the processing of the data is minimal. [CLS] [SEP] | the
+duration of the call. [CLS] [SEP] the userâs device stores the data. [CLS] [SEP]  
+  
+###  brave firewall + vpn on ios
+
+purpose of processing| categories of personal data processed| legal basis of
+processing| duration of storage  
+---|---|---|---  
+to verify that the user is a subscriber. [CLS] [SEP] | digital receipt from apple. [CLS] [SEP] |
+necessary for the performance of the contract (to deliver the service) agreed
+between both the user and brave. [CLS] [SEP] | none. [CLS] [SEP]  
+to send an alert to the user when a firewall rule is triggered (a server-side
+buffer is required when the app is not loaded for some time). [CLS] [SEP] | pseudonymous
+user id, details of the blocked tracker/firewall rule triggered. [CLS] [SEP] | necessary
+for the performance of the contract (to deliver the service) agreed between
+both the user and brave. [CLS] [SEP] | 3 days. [CLS] [SEP]  
+to create private connections. [CLS] [SEP] | ip address. [CLS] [SEP] | necessary for the performance
+of the contract (to deliver the service) agreed between both the user and
+brave. [CLS] [SEP] | none. [CLS] [SEP]  
+to provide customer support. [CLS] [SEP] | personal data that a user may include in the
+text they write when communicating with guardian for customer support. [CLS] [SEP] |
+necessary for the performance of the contract (to deliver the service) agreed
+between both the user and brave. [CLS] [SEP] | indefinite (guardian). [CLS] [SEP]  
+  
+###  brave ipfs public gateway
+
+purpose of processing| categories of personal data processed| legal basis of
+processing| duration of storage  
+---|---|---|---  
+to allow access to ipfs content when the user cannot access it via a local
+ipfs node | ip address | legitimate interest. [CLS] [SEP] the user requested the service,
+and the risk of the processing of the data is minimal. [CLS] [SEP] | indefinite. [CLS] [SEP] (protocol
+labs)  
+  
+###  your feedback
+
+purpose of processing| categories of personal data processed| legal basis of
+processing| duration of storage  
+---|---|---|---  
+to use feedback sent by users to improve the product. [CLS] [SEP] | personal data that a
+user may include in the text they write when sending feedback through an app
+store or any other means. [CLS] [SEP] | legitimate interest. [CLS] [SEP] the user intends for the data
+to be used for this purpose, and the risk of the processing of the data is
+minimal. [CLS] [SEP] | 2 years. [CLS] [SEP]  
+  
+###  browser testing and research (nightly, dev, and beta versions only)
+
+purpose of processing| categories of personal data processed| legal basis of
+processing| duration of storage  
+---|---|---|---  
+to fix problems in the brave browser by acting on issues highlighted by crash
+reports from beta and dev versions of the browser | device model, ios version,
+language, timezone, cpu architecture, carrier, connection status. [CLS] [SEP] optional:
+crash log (crash logs will also be sent if you opted-in when activating ios)
+optional: comments and screenshots you share if you send feedback through
+testflight. [CLS] [SEP] | our interest in testing the product and fixing problems. [CLS] [SEP] the
+data are used in a way that does not negatively affect your rights or
+interests. [CLS] [SEP] | apple retains the data for one year. [CLS] [SEP] brave may retain some crash
+reports indefinitely, if useful for testing. [CLS] [SEP]  
+  
+__
+
+## help with privacy settings in brave __
+
+you can find guides on how to change privacy settings in brave [in the help
+center.](https://support.brave.com/hc/en-us/articles/360017989132-how-do-i-
+change-my-privacy-settings-). [CLS] [SEP]
+
+## contacting brave about your privacy __
+
+we are always interested in hearing and responding to questions and concerns
+at [twitter.com/brave](https://twitter.com/brave) and at
+[github.com/brave](https://github.com/brave). [CLS] [SEP] more in-depth conversations can
+be had at [community.brave.com](https://community.brave.com/). [CLS] [SEP]
+
+we are represented in europe by brave software europe ltd (based in the uk). [CLS] [SEP]
+you can contact our data protection officer and the rest of our privacy team
+at [privacy@brave.com](mailto:privacy@brave.com). [CLS] [SEP] however, from the 1st
+january 2021, given the ukâs exit from the eu, brave has appointed an eu
+nominated representative and which you may contact if you would prefer not to
+contact brave directly:
+
+brave eu nominated representative  
+care of castlebridge  
+unit 7, 12 mountjoy square,  
+dublin 1  
+ireland
+
+[brave@gdprnomrep.eu](mailto:brave@gdprnomrep.eu)
+
+you can ask to know what information we have about you, update incorrect
+information, delete it, object to our use of it, or get a copy of it. [CLS] [SEP] if
+youâre in the european union, you also have the right to complain to your
+[local data protection authority](https://edpb.europa.eu/about-
+edpb/board/members_en) (though everyone should have this right). [CLS] [SEP]
+
+weâll update this policy whenever we make material changes to our practices,
+and weâll announce it to let you know. [CLS] [SEP] we hope youâll find any changes
+agreeable, but if youâre not comfortable with changes to the info we collect
+or how we use it, we understand your choice to stop using brave. [CLS] [SEP]
+
+* * *
+
+* * *
+
+  1. [CLS] [SEP] data are personal if the data can single a person out (on their own or in combination with other data), without an unlikely degree of effort or expense or technological development. [CLS] [SEP] the gdpr definition of âpersonal dataâ includes any data that can indirectly contribute to singling out an individual, including unique ids codes, certain types of ip addresses, and encrypted data that one can decrypt without disproportionate effort. [CLS] [SEP] but data that are entirely impossible to access are not personal. [CLS] [SEP] â©ï¸
+
+#### resources
+
+  * [f.a.q](/faq/)
+  * [brave store](https://store.brave.com)
+  * [help center](https://support.brave.com)
+  * [community](/the-brave-community/)
+  * [brave branding](/brave-branding-assets/)
+  * [media assets](/media-assets/)
+  * [status](https://status.brave.com)
+  * [transparency report](/transparency/)
+  * [learn](/learn/)
+
+#### product
+
+  * [brave release](/download/)
+  * [brave beta](/download-beta/)
+  * [brave nightly](/download-nightly/)
+
+#### privacy policy
+
+  * [brave browser](/privacy/browser/)
+  * [website & email](/privacy/website/)
+  * [publishers & creators](/privacy/publishers-creators/)
+  * [advertisers](/privacy/advertiser/)
+
+#### company
+
+  * [research](/research/)
+  * [careers](/careers/)
+  * [in the press](/press/)
+  * [github](https://github.com/brave/)
+  * [blog](/blog/)
+
+#### social media
+
+  * [reddit ](https://www.reddit.com/r/brave_browser)
+  * [twitter](https://twitter.com/brave)
+  * [facebook](https://www.facebook.com/bravesoftware/)
+  * [youtube](https://www.youtube.com/bravesoftware)
+
+#### contact
+
+##### support
+
+[community.brave.com](https://community.brave.com/)
+
+##### advertising
+
+[adsales@brave.com please only use this email address if you are interested in
+purchasing advertising with brave. [CLS] [SEP] for support, please visit
+community.brave.com.](mailto:adsales@brave.com)
+
+##### business
+
+[bizdev@brave.com](mailto:bizdev@brave.com)
+
+##### press
+
+[press@brave.com](mailto:press@brave.com)
+
+#### offices
+
+##### brave san francisco
+
+512 second st., floor 2  
+san francisco, ca 94107
+
+choose a language
+
+english
+
+![brave software home](/static-assets/images/brave-logo.svg)
+
+[terms of use](/terms-of-use/ "terms of use") | [report a security
+issue](https://hackerone.com/brave "report a security issue")
+
+[
+
+**coming soon: brave search.** a new search engine that respects your privacy. [CLS] [SEP]
+
+](/search/)
+
+![](https://analytics.brave.com/piwik.php?idsite=2&rec=1)
+

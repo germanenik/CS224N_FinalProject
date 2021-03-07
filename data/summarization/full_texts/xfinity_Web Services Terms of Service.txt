@@ -1,0 +1,832 @@
+[hello!](https://customer.xfinity.com/#/users/me) [sign
+out](https://oauth.xfinity.com/oauth/sp-logout?client_id=my-xfinity) [sign
+in](https://auth.xfinity.com/oauth/login?state=https%3a%2f%2fcustomer.xfinity.com%2f%23%2f%3fcmp%3dilc_signin_myxfinity_re)
+
+[ ](https://xfinityconnect.email.comcast.net/ "email")
+
+[terms of service](/terms) |  [web terms of service](/terms/web/) |  [software
+license](/terms/license/) |  [residential services
+policies](http://www.xfinity.com/policies) |  [report abuse to
+comcast](/terms/abuse/) |  [terms for feedback](/terms/feedback/) |  [open
+source software](/terms/opensource/) |  [purchased content terms and
+conditions](/terms/purchases/)
+
+[web services terms of service archive (previous
+versions)](/terms/web/archive/)
+
+# web services terms of service
+
+### revised and effective: october 21, 2019
+
+## 1\. [CLS] [SEP] about the web services terms of service and comcast web services
+
+within these web services terms of service (" **terms** ") the term "
+**comcast** " or " **we** " (and related pronouns) will refer to comcast cable
+communications management, llc, and its respective subsidiaries and affiliates
+that own and operate websites and internet services on its behalf. [CLS] [SEP] the term "
+**you** " (and related pronouns) refers to you as a user of comcast's websites
+and internet services described below. [CLS] [SEP]
+
+**note: these terms contain a binding arbitration provision in section 19 that
+affects your rights under these terms with respect to all of the comcast web
+services. [CLS] [SEP] the arbitration provision requires that disputes be resolved in
+individual binding arbitrations or small claims court proceedings. [CLS] [SEP] in
+arbitration, there is no judge or jury and there is less discovery and
+appellate review than in court.**
+
+these terms set forth the terms and conditions through which comcast will
+permit you to use these comcast-owned and operated websites and services:
+
+  * comcast-branded websites and web services that link to these terms, such as: [comcast.net](http://my.xfinity.com/), [xfinity.com/stream](https://xfinity.com/stream/), [my.xfinity.com](http://my.xfinity.com/), [xfinityhomesecurity.com](http://www.xfinityhomesecurity.com/), and [internet.xfinity.com](https://internet.xfinity.com/), excluding certain co-branded websites and web services provided by third parties through contractual arrangements with comcast, as further described below ( (the **"comcast sites"** );
+
+  * all mobile applications provided by comcast that link to these terms (such as xfinity stream, xfinity connect, and xfinity xfi ios and android applications) (the **"comcast apps"** ); and
+
+  * xfinity wi-fi services, if you are not an xfinity subscriber or you are an xfinity subscriber but your subscription does not include access to xfinity wi-fi; and
+
+  * a comcast-provided email address (such as yourname@comcast.net), if you are not an xfinity internet or xfinity voice subscriber (collectively, items (1) through (5) are referred to as the " **comcast web services **"). [CLS] [SEP]
+
+your use of any xfinity - or comcast-branded - software provided in connection
+with the comcast web services, including comcast apps and any devices provided
+by comcast for use with those apps, are subject to the terms of the comcast
+software license agreement at
+[http://my.xfinity.com/terms/license/](/terms/license/) (the "comcast software
+license"). [CLS] [SEP]
+
+## what is outside the scope of these terms?
+
+these terms **_do not apply_** to your use of any other products or services
+provided by comcast such as xfinity tv, xfinity voice, xfinity internet,
+xfinity home, or the xfinity stream app and xfinity.com/stream to deliver
+xfinity tv when used within the residence at which you have an xfinity tv and
+xfinity internet subscription. [CLS] [SEP] if you subscribe to or use one or more of these
+services (including using the comcast web services to place or receive xfinity
+voice calls), you can see the terms that apply to the residential versions of
+these services by visiting
+<http://www.comcast.com/corporate/customers/policies/policies.html>. [CLS] [SEP]
+
+some of the comcast web services contain links to other websites, including
+websites of third parties who are acting on our behalf as our agents,
+suppliers, or providers. [CLS] [SEP] these other websites are not operated by comcast and
+have their own terms of service that you should read before you use them. [CLS] [SEP]
+other sites that we link to may contain comcast branding or co-branding, but
+these non-comcast websites and resources are provided by parties other than
+comcast. [CLS] [SEP] examples of these non-comcast websites include websites where you are
+required to log-in using a username and password other than your username and
+password for the comcast web services, such as the "jobs" channel and the
+"dating" channel on xfinity.com. [CLS] [SEP] these terms do not apply to those non-comcast
+sites. [CLS] [SEP] you acknowledge and agree that comcast is not responsible for (i) the
+availability of any of these non-comcast websites or resources, and does not
+endorse any advertising, products or other materials on or available from
+these websites or resources, and (ii) for any loss or damage which may be
+incurred by you as a result of the availability of those websites or
+resources, or as a result of any reliance placed by you on the completeness,
+accuracy or existence of any advertising, products or other materials on, or
+available from, these websites or resources. [CLS] [SEP]
+
+## 2\. [CLS] [SEP] accepting the terms
+
+in order for you to use any of the comcast web services, you must first accept
+these terms and the comcast software license. [CLS] [SEP] you can accept these terms and
+the comcast software license by:
+
+  1. [CLS] [SEP] signing in or checking a box next to "by signing in, you agree to these terms of service and privacy policy" (or similar language); or
+
+  2. [CLS] [SEP] using any of the comcast web services, in which case you understand and agree that these terms and the comcast software license will apply to your use of those services (or any parts of them) (the earlier of the dates you checked such box or first used the comcast web services, the " **effective date** "). [CLS] [SEP]
+
+you may wish to print or save a local copy of the terms and the comcast
+software license for your records. [CLS] [SEP]
+
+## 3\. [CLS] [SEP] registration
+
+in order to use certain comcast web services you may be required to provide
+information about yourself (such as identification or contact details). [CLS] [SEP] you
+agree that any registration information you give to comcast will be accurate,
+complete, and current. [CLS] [SEP] you will notify comcast immediately of any changes to
+any of the foregoing information. [CLS] [SEP] you are responsible for updating your email
+address, so that if you use any of the account management features of the
+comcast web services, such as online bill pay, comcast can send you notices
+relating to these features, such as notice that your online bill has posted. [CLS] [SEP]
+if your email address is not current, you will not receive online bill
+postings; however, your payment due date will remain unchanged. [CLS] [SEP]
+
+## 4\. [CLS] [SEP] prohibited uses
+
+you specifically agree not to:
+
+  * use the comcast web services to undertake or accomplish any unlawful purpose including, but not limited to, posting, storing, transmitting or disseminating information, data or material which is libelous, obscene, unlawful, threatening or defamatory, or which infringes the intellectual property rights of any person or entity, or which in any way constitutes or encourages conduct that would constitute a criminal offense, or otherwise violate any local, state, federal, or non-u.s. [CLS] [SEP] law, order, or regulation;
+  * post, store, send, transmit, or disseminate on the comcast web services any information or material which a reasonable person could deem to be unlawful;
+  * upload, post, publish, transmit, reproduce, create derivative works of, or distribute on the comcast web services in any way information, software or other material that is protected by copyright or other proprietary right, without obtaining any required permission of the owner;
+  * post on or distribute through the comcast web services unsolicited bulk or commercial messages commonly known as "spam;"
+  * send very large numbers of copies of the same or substantially similar messages, empty messages, or messages which contain no substantive content, or send very large messages or files that disrupt a blog, newsgroup, chat, or similar feature of the comcast web services;
+  * initiate, perpetuate, or in any way participate in any pyramid or other illegal scheme through the comcast web services;
+  * participate in the collection of very large numbers of email addresses, screen names, or other identifiers of others (without their prior consent) from the comcast web services, a practice sometimes known as spidering or harvesting, or participate in the use of software (including "spyware") designed to facilitate this activity;
+  * collect responses from unsolicited bulk messages posted on or distributed through the comcast web services;
+  * impersonate any person or entity, engage in sender address falsification, forge anyone else's digital or manual signature, or perform any other similar fraudulent activity (for example, "phishing") on the comcast web services;
+  * restrict, inhibit, or otherwise interfere with the ability of any other person, regardless of intent, purpose or knowledge, to use or enjoy the comcast web services (except for tools for safety and security functions such as parental controls, for example), including, without limitation, posting or transmitting any information or software which contains a worm, virus, or other harmful feature, or generating levels of traffic sufficient to impede others' ability to use, send, or retrieve information;
+  * register under the name of, or attempt to use the comcast web services under the name of, another person;
+  * allow another person to access the comcast web services using your credentials;
+  * access (or attempt to access) the comcast web services through any automated means (including use of scripts or web crawlers), except through apis or other interfaces specifically provided for this purpose, or violate the instructions set out in any robots.txt or similar file present within the comcast web services;
+  * engage in the systematic retrieval of data or other content from the comcast web services, except though apis or other interfaces specifically provided for this purpose, to create or compile, directly or indirectly, a collection, compilation, database or directory, without comcast's prior written consent;
+  * capture, rip, download, or otherwise create a copy of any content that is shown on the comcast web services without obtaining any required permission of the content owner;
+  * take any actions for the purpose of manipulating or distorting, or that may undermine the integrity and accuracy of, any ratings or reviews of any movie or other entertainment program, service or product that may be presented by the comcast web services; or
+  * attempt to or actually circumvent any method used by comcast to control access to comcast web services, including, but not limited to, spoofing or otherwise impersonating an ip address for your computer that is not actually assigned to your computer or setting up a proxy or other device that allows others to access the comcast web services through it. [CLS] [SEP]
+
+if you are an xfinity internet customer, you can find the guidelines for
+acceptable use of the internet service, including any xfinity email or webmail
+services, at
+<http://www.comcast.com/corporate/customers/policies/policies.html>. [CLS] [SEP]
+
+## 5\. [CLS] [SEP] your passwords and unauthorized use of your account
+
+you are responsible for maintaining the confidentiality of your comcast web
+services account and its password(s). [CLS] [SEP] in addition you are responsible for
+controlling access to any pcs, mobile devices, gateways, or other end points
+that you allow to store your password, or on which you enable a "remember me"
+or similar functionality (" **activated device** "). [CLS] [SEP] accordingly, you agree
+that you will be solely responsible to comcast for all activities that occur
+under your comcast web services accounts, including the activities of any
+individual with whom you share your comcast web services account or an
+activated device, and will be responsible for any breach of these terms caused
+by these activities. [CLS] [SEP] if you become aware of any unauthorized use of your
+password or of your account, you agree to notify comcast immediately. [CLS] [SEP] to
+protect your privacy, comcast recommends logging out of the comcast web
+services after each visit when you are using a public or shared pc, mobile
+device, or other end point. [CLS] [SEP]
+
+comcast does not permit credential sharing. [CLS] [SEP] you agree that comcast web
+services account usernames and passwords associated with your account: (i)
+shall be used only by you and members of your household whose primary
+residential address is the same as the premises at which your comcast web
+services account is located; (ii) shall not be shared with any user other than
+members of your household for any reason (including, but not limited to, for
+accessing any third party video services and platforms); and (iii) shall be
+used only on devices used by you or a member of your household primarily at
+the residential address location of the comcast web services account. [CLS] [SEP] you
+agree you are responsible for maintaining the confidentiality and security of
+all comcast web services account usernames and passwords associated with your
+account, including those used by members of your household. [CLS] [SEP]
+
+## 6\. [CLS] [SEP] privacy and your personal information
+
+to understand how comcast collects and uses information through the comcast
+web services, please read the web services privacy policy at
+[http://my.xfinity.com/privacy/](/privacy/). [CLS] [SEP]
+
+comcast is not responsible for any information provided by you to third
+parties, and this information is not subject to the web services privacy
+policy. [CLS] [SEP] you assume all privacy, security, and other risks associated with
+providing any information, including personally identifiable information, to
+third parties via the comcast web services. [CLS] [SEP] for a description of the privacy
+protections associated with providing information to third parties, you should
+refer to any privacy policies provided by those third parties. [CLS] [SEP]
+
+if you use any of the voice control features of the comcast web services, like
+the voice control feature of the x1 remote app, all voice commands are sent to
+comcast or its contracted service provider. [CLS] [SEP] comcast, and its provider, use
+these voice commands to provide the voice control service (including quality
+assurance, troubleshooting, and customer support), improve comcast's products
+and services, and improve their voice recognition algorithms. [CLS] [SEP] if you use any
+of the voice control features of the comcast web services, you consent to
+comcast and its contracted service provider recording, storing, and using your
+voice input as described herein. [CLS] [SEP]
+
+you understand and agree that comcast (and its providers) may collect and use
+technical and related information, including information about your computers
+and/or mobile devices, operating systems, peripherals (such as gateways and
+extenders), applications, connected devices, network traffic, location data,
+and data use to deliver the comcast web services and for other purposes
+including support and related services. [CLS] [SEP]
+
+## 7\. [CLS] [SEP] content on the comcast web services
+
+certain comcast web services allow you to access content and information, such
+as collections of data, video, audio, or other multimedia, and photographs and
+other static images (the " **content** "). [CLS] [SEP] this content may be owned by
+comcast, other companies that give comcast the right to distribute their
+content (like movie publishers), or users of the comcast web services (like
+you). [CLS] [SEP] comcast grants you a limited, non-exclusive, non-assignable license to
+view the content and to use the comcast web services for personal, non-
+commercial purposes as set forth in these terms or in a manner that does not
+require a license. [CLS] [SEP] except for activities that do not require a license, unless
+the content was legally posted by you on the comcast web services, you may not
+distribute copies of the content in any form (including by email or other
+electronic means), without prior written permission from its owner. [CLS] [SEP] of course,
+you are free to encourage others to access the content and to tell them how to
+find it. [CLS] [SEP]
+
+in addition, our content providers want to remind you that you must not
+remove, alter, interfere with, or circumvent any copyright, trademark, or
+other proprietary notices marked on the content or any digital rights
+management mechanism, device, or other content protection or access control
+measure associated with the content. [CLS] [SEP] the copying, downloading, stream
+capturing, reproduction, duplication, archiving, distribution, uploading,
+publication, modification, translation, broadcast, performance, display, sale,
+or transmission of the content is strictly prohibited unless it is expressly
+permitted by comcast in writing or is an activity that does not require a
+license. [CLS] [SEP] you may not incorporate the content into any hardware or software
+application. [CLS] [SEP] this prohibition applies even if you intend to give away the
+derivative materials free of charge. [CLS] [SEP]
+
+you understand that by using the comcast web services you may be exposed to
+content that you may find offensive, indecent or objectionable. [CLS] [SEP] in this
+respect, you use the comcast web services at your own risk. [CLS] [SEP] if you would like
+to use them, there are commercially available services and software that can
+limit exposure to material that you may find objectionable. [CLS] [SEP] the xfinity
+internet service provides security information and tools for all users,
+including parents, at <http://internetsecurity.xfinity.com/>. [CLS] [SEP] some of the
+tools may require that you be a registered xfinity internet user in order to
+download and use them. [CLS] [SEP] other tools may require that you purchase a separate
+license to use them. [CLS] [SEP]
+
+you understand that comcast has the right to change the comcast web services
+at any time with or without notice to you. [CLS] [SEP] we also may rearrange, delete, add
+to, or otherwise change content or other features or functionality contained
+within the comcast web services. [CLS] [SEP] if we do give you notice of these changes, it
+may be provided on any of the comcast web sites, or via email, newspaper, bill
+insert, or any other reasonable means of communication. [CLS] [SEP] if you find a change
+in the comcast web services unacceptable, you have the right to cancel your
+comcast web services account or to stop using the comcast web services. [CLS] [SEP]
+however, if you continue to use the comcast web services after the change,
+this will constitute your acceptance of the change. [CLS] [SEP]
+
+## 8\. [CLS] [SEP] user submissions
+
+some of the material appearing on the comcast web services will be provided by
+users or third parties. [CLS] [SEP] pursuant to section 230 of the federal communications
+decency act, providers of interactive computer services are not considered or
+treated as publishers or speakers of information that is provided by other
+information content providers. [CLS] [SEP] comcast does not claim ownership of any
+material that users submit or post on the comcast web services. [CLS] [SEP] you agree that
+you are solely responsible for (and that comcast has no responsibility to you
+or to any third party for) any material that you create, transmit, or display
+while using the comcast web services, and for the consequences of your actions
+(including any loss or damage which comcast may suffer) by doing so. [CLS] [SEP] further,
+you agree that, with respect to any communication you submit to us for posting
+on the comcast web services, you will not: (i) include any content that
+violates a third party's copyright or other proprietary or privacy rights;
+(ii) publish falsehoods or misrepresentations portrayed as fact; (iii) include
+any advertising or solicitations; or (iv) submit any material that is
+unlawful, obscene, defamatory, libelous, threatening, pornographic, harassing,
+hateful, racially or ethnically offensive, or encourages conduct that would be
+considered a criminal offense, give rise to civil liability, violate any law,
+or is otherwise clearly inappropriate. [CLS] [SEP]
+
+if you post any content to the comcast web services, you hereby grant comcast
+and its licensees a worldwide, perpetual, royalty-free, non-exclusive right
+and license to use, reproduce, publicly display, publicly perform, modify,
+sublicense, and distribute the content, on or in connection with the comcast
+web services or the promotion of the comcast web services, and incorporate it
+in other works, in whole or in part, in any manner. [CLS] [SEP] you represent and warrant
+that you own the content or otherwise have sufficient rights in it to grant to
+comcast the license set forth in this section without infringing or violating
+the rights of any third party. [CLS] [SEP] if you remove content that you have posted to
+the comcast web services or terminate your comcast web services account, this
+license will automatically expire, with a few limited exceptions. [CLS] [SEP] comcast may
+retain copies of your content that were archived in the normal course of
+comcast's systems operations. [CLS] [SEP] in addition, copies of content that you have
+shared with other users of the comcast web services may be retained by comcast
+and associated with those other users' accounts in order to provide them with
+the comcast web services. [CLS] [SEP] comcast does not assert any ownership over content
+that you post to the comcast web services; rather, as between us and you,
+subject to the rights granted to us in these terms, you retain full ownership
+of and/or licenses to all content you post to the comcast web services and any
+intellectual property rights or other proprietary rights associated with that
+content. [CLS] [SEP]
+
+the comcast web services may also contain links to community forums, bulletin
+boards, chat rooms, and blogs about the various comcast web services. [CLS] [SEP] children
+under the age of 13 should not post in any of the forums, boards, chat rooms,
+blogs, or other editorial sections of the comcast web services. [CLS] [SEP] participants
+in these forums, bulletin boards, chat rooms, and blogs are solely responsible
+for all content that they post there. [CLS] [SEP] comcast retains the right, but not the
+obligation, to correct any errors or omissions in any of this content, as it
+may determine in its sole discretion. [CLS] [SEP] comcast further reserves the right to
+delete or remove any content from the forums or blogs without prior notice or
+liability. [CLS] [SEP] you agree that your participation in these forums, bulletin boards,
+chat rooms, and blogs will at all times conform to the posted comment policy
+for that forum, bulletin board, chat room, or blog. [CLS] [SEP]
+
+comcast reserves the right, but does not assume any obligation, to review any
+user submission prior to its display on the comcast web services using
+automated tools or manual processes. [CLS] [SEP] comcast may refuse to display or remove
+any user submission from the comcast web services for any reason in our sole
+discretion. [CLS] [SEP] however, we will typically only do so when we become aware that
+the material in question is harmful, clearly illegal, or likely to be
+considered highly offensive or objectionable to a large segment of our users. [CLS] [SEP]
+
+## 9\. [CLS] [SEP] feedback
+
+comcast will receive any feedback you provide under the terms at
+[http://my.xfinity.com/terms/feedback/](/terms/feedback/). [CLS] [SEP]
+
+## 10\. [CLS] [SEP] proprietary rights
+
+you acknowledge and agree that comcast (or comcast's licensors) owns all legal
+right, title, and interest in and to the comcast web services, including any
+intellectual property rights which subsist in the comcast web services
+(whether those rights happen to be registered or not, and wherever in the
+world those rights may exist). [CLS] [SEP]
+
+nothing in the terms gives you a right to use any of comcast's trade names,
+trademarks, service marks, logos, domain names, and other distinctive brand
+features. [CLS] [SEP] if you have been given an explicit right to use any of these brand
+features in a separate written agreement with comcast, then you agree that
+your use of these features shall comply with that agreement, any applicable
+provisions of the terms, and comcast's brand feature use guidelines as updated
+from time to time. [CLS] [SEP]
+
+nothing in the terms gives you a right to use any trademark, service mark,
+trade name, logo of any company or organization in a way that is likely or
+intended to cause confusion about the owner or authorized user of these marks,
+names or logos. [CLS] [SEP]
+
+## 11\. [CLS] [SEP] linking to the comcast sites
+
+comcast welcomes links to any of the comcast sites. [CLS] [SEP] you are free to establish
+a hypertext link to these websites so long as the link does not state or imply
+any affiliation, connection, endorsement, sponsorship, or approval of your
+site by comcast. [CLS] [SEP]
+
+## 12\. [CLS] [SEP] term; provisions that remain in effect after termination
+
+the terms apply to all users of the comcast web services, and will be in
+effect from the effective date until terminated by either comcast or you as
+set forth below. [CLS] [SEP]
+
+sections 8 through 10, 12 through 15, 19, and 20 of these terms will survive
+termination, and shall continue to apply indefinitely. [CLS] [SEP]
+
+## unregistered users
+
+if you use any of the comcast web services (or parts of those services) that
+are accessible without registration, you can simply discontinue use of those
+services at any time. [CLS] [SEP] doing so will terminate the applicability of these terms
+to you with respect to those services. [CLS] [SEP] if you breach any provision of these
+terms or other applicable policies, or for any other reason, comcast reserves
+the right to restrict, suspend, or terminate your use any or all of the
+comcast web services and terminate the terms. [CLS] [SEP] we may take these actions with
+or without notice to you. [CLS] [SEP] because unregistered users are generally unknown to
+us, in most cases we will be unable to give notice of these actions. [CLS] [SEP]
+
+## registered users
+
+if you use any of the comcast web services (or parts of those services) as a
+registered user, you may delete your registered user account at any time. [CLS] [SEP]
+doing so will terminate these terms with respect to that comcast web service. [CLS] [SEP]
+if you breach any provision of these terms or other applicable policies, or
+for any other reason, comcast reserves the right to restrict, suspend, or
+terminate your registered user account for any or all of the comcast web
+services and terminate the terms. [CLS] [SEP] we may take these actions with or without
+notice to you. [CLS] [SEP] because registered users are known to us, however, we will
+generally use reasonable efforts to give notice of these actions. [CLS] [SEP]
+
+currently, registered user accounts for comcast.net and xfinity.com are
+associated with xfinity tv, xfinity internet (including xfinity wi-fi), or
+xfinity voice service and cannot be deleted without also terminating the
+associated service. [CLS] [SEP]
+
+## 13\. [CLS] [SEP] exclusion of warranties
+
+because of the number of possible sources of information available through the
+comcast web services, and the inherent hazards and uncertainties of electronic
+distribution, there may be interruptions, delays, omissions, inaccuracies, or
+other problems with this information. [CLS] [SEP] if you rely on the comcast web services
+or any material available through them, you do so at your own risk. [CLS] [SEP] you
+understand and agree that the comcast web services are provided to you "as
+is," "with all faults," and "as available." comcast and its agents and
+licensors cannot and do not warrant the accuracy, completeness, usefulness,
+timeliness, noninfringement, merchantability or fitness for a particular
+purpose of the information available through the comcast web services. [CLS] [SEP] comcast
+and its agents and licensors cannot and do not warrant that the comcast web
+services will continuously be available or free of errors, viruses, or other
+harmful components. [CLS] [SEP] because some states do not permit the exclusion or
+limitation of certain warranties, these exclusions and limitations of
+warranties may not apply to you. [CLS] [SEP]
+
+## 14\. [CLS] [SEP] limitation of liability
+
+a. [CLS] [SEP] for purposes of this limitation of liability provision, “comcast” refers to
+not only comcast cable communications management, llc but also its parents,
+subsidiaries, affiliates, predecessors, successors, and assigns, and each of
+their respective officers, directors, employees, and agents. [CLS] [SEP]
+
+b. [CLS] [SEP] you waive the right to assert a claim against comcast more than twelve (12)
+months after the first event or fact that gives rise to the claim. [CLS] [SEP]
+
+c. [CLS] [SEP] except as expressly provided in this agreement, in no event shall comcast
+be liable to you or to any third party for any damages arising or resulting
+from any interruption in or disruption to the comcast web services. [CLS] [SEP] in no
+event shall comcast be liable to you or to any third party for any indirect,
+incidental, or consequential damages (including but not limited to lost data,
+lost profits, or lost business opportunities), regardless of the legal theory,
+regardless of whether such damages were foreseeable, and regardless of whether
+comcast was advised of the possibility of such damages. [CLS] [SEP] in no event shall
+comcast’s aggregate liability arising out of or relating to this agreement
+exceed the greater of: (1) $2,500; or (2) three (3) times the aggregate
+amounts paid or payable by you to comcast pursuant to this agreement in the
+twelve (12) months preceding the event that gave rise to the claim. [CLS] [SEP]
+notwithstanding the foregoing, the limitations of liability in this paragraph
+shall not apply to injuries: (1) to the body or person; or (2) caused by
+comcast’s willful, malicious, reckless, or grossly negligent acts or
+omissions. [CLS] [SEP]
+
+d. [CLS] [SEP] these limitations of liability shall survive the termination of this
+agreement. [CLS] [SEP] because the law regarding limitations of liability varies by state,
+these limitations of liability may not apply to you. [CLS] [SEP] notice to new jersey
+consumers: these limitations of liability apply in new jersey. [CLS] [SEP]
+
+## 15\. [CLS] [SEP] indemnification
+
+you agree to indemnify, defend, and hold harmless comcast (including its
+parents, subsidiaries, and affiliates and all of their respective officers,
+directors, employees, agents, licensors, suppliers and any third-party
+information providers) against all claims, losses, expenses, damages and costs
+(including reasonable attorney fees) resulting from any breach of the terms by
+you or any individual with whom you share your comcast web services account or
+an activated device. [CLS] [SEP] notwithstanding the foregoing, comcast will not seek
+indemnification from you from any losses, expenses, claims, damages and costs,
+including reasonable attorneys’ fees, resulting from its own conduct. [CLS] [SEP] comcast
+reserves the right, at its election, to assume the exclusive defense and
+control of any matter subject to indemnification by you and you agree to
+cooperate with comcast in connection with our defense. [CLS] [SEP]
+
+## 16\. [CLS] [SEP] copyright infringement
+
+comcast is committed to complying with u.s. [CLS] [SEP] copyright and related laws, and
+requires all users of the comcast web services to comply with these laws. [CLS] [SEP]
+accordingly, you may not use the comcast web services to store any material or
+content, or disseminate any material or content, in any manner that
+constitutes an infringement of third-party intellectual property rights,
+including rights granted by u.s. [CLS] [SEP] copyright law. [CLS] [SEP]
+
+if you are the owner of a copyrighted work and believe your rights under u.s. [CLS] [SEP]
+copyright law have been infringed by any material on the comcast web services,
+you may take advantage of certain provisions of the digital millennium
+copyright act (the "dmca") by sending comcast's authorized agent a
+notification of claimed infringement that satisfies the requirements of the
+dmca. [CLS] [SEP] upon comcast's receipt of a satisfactory notice of claimed infringement,
+comcast will respond expeditiously either directly or indirectly (i) to remove
+the allegedly infringing work(s) from the comcast web services or (ii) to
+disable access to the work(s). [CLS] [SEP] in accordance with the dmca, it is comcast's
+policy to reserve the right to terminate access to the comcast web services
+(or any part of those services) for any user who is either found to infringe
+third-party copyright or other intellectual property rights, including repeat
+infringers, or who comcast, in its sole discretion, believes is infringing
+these rights. [CLS] [SEP] comcast may terminate access to the comcast web services at any
+time with or without notice for any affected customer or user. [CLS] [SEP] if the affected
+user believes in good faith that the allegedly infringing works have been
+removed or blocked by mistake or misidentification, then that person may send
+a counter notification to comcast. [CLS] [SEP] upon comcast's receipt of a counter
+notification that satisfies the requirements of dmca, comcast will provide a
+copy of the counter notification to the person who sent the original
+notification of claimed infringement and will follow the dmca's procedures
+with respect to a received counter notification. [CLS] [SEP] in all events, you expressly
+agree that comcast will not be a party to any disputes or lawsuits regarding
+alleged copyright infringement. [CLS] [SEP]
+
+copyright owners may send comcast a notification of claimed infringement to
+report alleged infringements of their works to:
+
+comcast cable communications management, llc
+
+attn: general counsel/comcast web services dmca notice
+
+one comcast center
+
+philadelphia, pa 19103
+
+dmca_notice@comcast.com
+
+1-888-565-4329
+
+any notification of claimed infringement must be in a form that satisfies the
+requirements of section 512(c)(3) of the u.s. [CLS] [SEP] copyright act. [CLS] [SEP] under the dmca,
+anyone who knowingly makes misrepresentations regarding alleged copyright
+infringement may be liable to comcast, the alleged infringer, and the affected
+copyright owner for any damages incurred in connection with the removal,
+blocking, or replacement of allegedly infringing material. [CLS] [SEP]
+
+if a notification of claimed infringement has been filed against you, you can
+file a counter notification with comcast's designated agent using the contact
+information shown above. [CLS] [SEP] all counter notifications must satisfy the
+requirements of section 512(g)(3) of the u.s. [CLS] [SEP] copyright act. [CLS] [SEP]
+
+## 17\. [CLS] [SEP] changes to the terms
+
+comcast reserves the right to change these terms. [CLS] [SEP] when we do change them, we
+will make a copy of the updated terms available to you by posting it at
+[http://my.xfinity.com/terms/web/](/terms/web/), in xfinity my account, or
+through other methods. [CLS] [SEP] if we make material changes to these terms, we will
+also notify you in xfinity my account, by email, direct mail, or other
+reasonable methods that we select. [CLS] [SEP]
+
+you understand and agree that if you use any of the comcast web services after
+the effective date of the updated terms, comcast will consider your use as
+acceptance of the updated terms. [CLS] [SEP]
+
+## 18\. [CLS] [SEP] trademarks
+
+comcast®, the comcast design logo, xfinity®, and the xfinity design logo are
+all trademarks or service marks of comcast corporation or its subsidiaries. [CLS] [SEP]
+all other trademarks and service marks appearing on the comcast web services
+are the properties of their respective owners. [CLS] [SEP]
+
+## 19\. [CLS] [SEP] binding arbitration
+
+**a. [CLS] [SEP] purpose.** if you are a user of or subscriber to xfinity tv, xfinity
+voice, and/or xfinity internet, please refer to the binding arbitration
+section of the comcast agreement for residential services, which applies to
+any dispute (as defined in that agreement) between you and comcast for those
+services, available here:
+<http://www.comcast.com/corporate/customers/policies/policies.html>. [CLS] [SEP] if you
+are not a subscriber to these services, any dispute (as defined below in these
+terms) involving you and comcast shall be resolved through individual
+arbitration. [CLS] [SEP] in arbitration, there is no judge or jury and there is less
+discovery and appellate review than in court. [CLS] [SEP] this section 19 (the
+"arbitration provision") shall be broadly interpreted. [CLS] [SEP]
+
+**b. [CLS] [SEP] definitions.** the term "dispute" means any claim or controversy related
+to the comcast web services, including but not limited to any and all: (1)
+claims for relief and theories of liability, whether based in contract, tort,
+fraud, negligence, statute, regulation, ordinance, or otherwise; (2) claims
+that arose before these terms or any prior agreement; (3) claims that arise
+after the expiration or termination of these terms; and (4) claims that are
+the subject of purported class action litigation. [CLS] [SEP] as used in this arbitration
+provision, "comcast" means comcast and any of its predecessors, successors,
+assigns, parents, subsidiaries and affiliated companies and each of their
+respective officers, directors, employees and agents, and “you” means you and
+any users or beneficiaries of your access to the comcast web services. [CLS] [SEP]
+notwithstanding the foregoing, disputes relating to the scope, validity, or
+enforceability of this arbitration provision will not be subject to
+arbitration. [CLS] [SEP]
+
+**c. [CLS] [SEP] right to sue in small claims court.** notwithstanding anything in this
+arbitration provision, either you or comcast may elect to bring an individual
+action in small claims court if the claim is not aggregated with the claim of
+any other person and if the amount in controversy is properly within the
+jurisdiction of the small claims court. [CLS] [SEP]
+
+**d. [CLS] [SEP] right to opt out.** if you do not wish to arbitrate disputes you may
+decline to have your disputes with comcast arbitrated by notifying comcast in
+writing within 30 days of the later of your first access to or use of the
+comcast web services, or april 5, 2013, by visiting
+[www.comcast.com/webarboptout](http://www.comcast.com/webarboptout), or by
+mail to comcast 1701 john f. [CLS] [SEP] kennedy blvd., philadelphia, pa 19103-2838, attn:
+legal department/arbitration. [CLS] [SEP] your written notification to comcast must
+include your name, address and account number (if you are a comcast
+subscriber) or telephone number (if you are not a comcast subscriber) as well
+as a clear statement that you do not wish to resolve disputes with comcast
+through arbitration. [CLS] [SEP] your decision to opt out of this arbitration provision
+will have no adverse effect on your relationship with comcast or services
+provided by comcast. [CLS] [SEP] if you have previously opted out of arbitration with
+comcast, you do not need to do so again. [CLS] [SEP]
+
+**e. [CLS] [SEP] initiation of arbitration proceeding/selection of arbitrator.** the party
+initiating the arbitration proceeding may open a case with the american
+arbitration association (“aaa”) by visiting its website
+([www.adr.org](http://www.adr.org)) or calling its toll free number
+(1-800-778-7879). [CLS] [SEP] you may deliver any required or desired notice to comcast by
+mail to comcast, 1701 jfk boulevard, philadelphia, pa 19103-2838 – attn: legal
+department. [CLS] [SEP]
+
+**f. [CLS] [SEP] arbitration procedures.** this arbitration provision shall be governed by
+the federal arbitration act. [CLS] [SEP] arbitrations shall be administered by aaa
+pursuant to its consumer arbitration rules (the “aaa rules”) as modified by
+the version of this arbitration provision that is in effect when you notify
+comcast about your dispute. [CLS] [SEP] you can obtain the aaa rules from the aaa by
+visiting its website ([www.adr.org](http://www.adr.org)) or calling its toll-
+free number (1-800-778-7879). [CLS] [SEP] if there is a conflict between this arbitration
+provision and the rest of this agreement, this arbitration provision shall
+govern. [CLS] [SEP] if there is a conflict between this arbitration provision and the aaa
+rules, this arbitration provision shall govern. [CLS] [SEP] if the aaa will not administer
+a proceeding under this arbitration provision as written, the parties shall
+agree on a substitute arbitration organization. [CLS] [SEP] if the parties cannot agree,
+the parties shall mutually petition a court of appropriate jurisdiction to
+appoint an arbitration organization that will administer a proceeding under
+this arbitration provision as written applying the aaa consumer arbitration
+rules. [CLS] [SEP] a single arbitrator will resolve the dispute. [CLS] [SEP] unless you and comcast
+agree otherwise, any arbitration hearing will take place at a location
+convenient to you in the area where you receive or received any of the web
+services from comcast; or, if you reside in a location outside of the area
+where you receive or received any of the web services, then the arbitration
+hearing will take place at a location convenient to you in the county where
+you reside. [CLS] [SEP] the arbitrator will honor claims of privilege recognized by law
+and will take reasonable steps to protect customer account information and
+other confidential or proprietary information. [CLS] [SEP] the arbitrator shall issue a
+reasoned written decision that explains the arbitrator’s essential findings
+and conclusions. [CLS] [SEP] the arbitrator’s award may be entered in any court having
+jurisdiction over the parties only if necessary for purposes of enforcing the
+arbitrator’s award. [CLS] [SEP] an arbitrator’s award that has been fully satisfied shall
+not be entered in any court. [CLS] [SEP]
+
+**g. [CLS] [SEP] waiver of class actions and collective relief.** there shall be no right
+or authority for any claims to be arbitrated or litigated on a class action,
+joint or consolidated basis or on bases involving claims brought in a
+purported representative capacity on behalf of the general public (such as a
+private attorney general), other subscribers, or other persons. [CLS] [SEP] the arbitrator
+may award relief only in favor of the individual party seeking relief and only
+to the extent necessary to provide relief warranted by that individual party’s
+claim. [CLS] [SEP] the arbitrator may not award relief for or against anyone who is not a
+party. [CLS] [SEP] the arbitrator may not consolidate more than one person’s claims, and
+may not otherwise preside over any form of a representative or class
+proceeding. [CLS] [SEP] this waiver of class actions and collective relief is an essential
+part of this arbitration provision and cannot be severed from it. [CLS] [SEP] the
+remaining portions of this arbitration provision are not essential parts of
+this arbitration provision and can be severed from it by a court of competent
+jurisdiction. [CLS] [SEP]
+
+**h. [CLS] [SEP] arbitration fees and costs.** if your claim seeks more than $75,000 in
+the aggregate, the payment of the aaa’s fees and costs will be governed by the
+aaa rules. [CLS] [SEP] if your claims seek less than $75,000 in the aggregate, the payment
+of the aaa’s fees and costs will be comcast’s responsibility. [CLS] [SEP] however, if the
+arbitrator finds that your dispute was frivolous or brought for an improper
+purpose (as measured by the standards set forth in federal rule of civil
+procedure 11(b)), the payment of the aaa’s fees and costs shall be governed by
+the aaa rules and you shall reimburse comcast for all fees and costs that were
+your obligation to pay under the aaa rules. [CLS] [SEP] you may hire an attorney to
+represent you in arbitration. [CLS] [SEP] you are responsible for your attorneys’ fees and
+additional costs and may only recover your attorneys’ fees and costs in the
+arbitration to the extent that you could in court if the arbitration is
+decided in your favor. [CLS] [SEP] notwithstanding anything in this arbitration provision
+to the contrary, comcast will pay all fees and costs that it is required by
+law to pay. [CLS] [SEP]
+
+**i. [CLS] [SEP] survival.** this arbitration provision will survive the termination or
+expiration of these terms. [CLS] [SEP]
+
+## 20\. [CLS] [SEP] general legal terms
+
+the terms constitute the whole legal agreement between you and comcast and
+govern your use of the comcast web services, and completely replace any prior
+agreements between you and comcast in relation to the comcast web services. [CLS] [SEP]
+
+whether in court or in arbitration, you and we agree to waive the right to a
+trial by jury. [CLS] [SEP]
+
+upon termination of these terms for any reason, comcast and its suppliers
+reserve the right to delete all your data, files, electronic messages, or
+other information that is stored on comcast's or its suppliers' servers or
+systems. [CLS] [SEP] comcast shall have no responsibility whatsoever for the loss of any
+such data. [CLS] [SEP]
+
+you agree that comcast may provide you with notices, including those regarding
+changes to the terms, by email, regular mail, or postings on the comcast web
+services. [CLS] [SEP]
+
+you agree that if comcast does not exercise or enforce any contractual or
+legal right or remedy to which it is entitled, this will not be taken to be a
+formal waiver of comcast's rights and that those rights or remedies will still
+be available to comcast. [CLS] [SEP]
+
+you acknowledge and agree that each member of the group of companies of which
+comcast corporation is the parent shall be third-party beneficiaries to the
+terms and that these other companies shall be entitled to directly enforce,
+and rely upon, any provision of the terms which confers a benefit on (or
+rights in favor of) them. [CLS] [SEP] other than this, no other person or entity shall be
+third-party beneficiaries to the terms. [CLS] [SEP]
+
+the terms, and your relationship with comcast under the terms, shall be
+governed by the laws of the commonwealth of pennsylvania, without regard to
+its conflict of laws provisions. [CLS] [SEP] by using the comcast web services, you
+consent to the exclusive jurisdiction of the state and federal courts in
+philadelphia, pennsylvania, in all disputes arising out of or relating to the
+terms or comcast web services that are not subject to the arbitration
+provision above. [CLS] [SEP]
+
+## 21\. [CLS] [SEP] special note about content provided as part of your xfinity tv
+subscription. [CLS] [SEP]
+
+if you are a residential subscriber to xfinity tv and xfinity internet, you
+may be entitled to use your internet connection to access certain video
+content that is related to your xfinity tv subscription in addition to the
+content that is generally available on the comcast sites. [CLS] [SEP] for example, if you
+subscribe to hbo as part of your xfinity tv subscription, in addition to the
+content that is generally available on the comcast sites, you may be entitled
+to access hbo content on the comcast sites as well. [CLS] [SEP] this additional video
+content is intended to be used as a complement to your xfinity tv
+subscription, and therefore should only be viewed by members of the residence
+at which you have an xfinity tv subscription and others who you have invited
+to view the content without charge of a fee or other consideration. [CLS] [SEP] this
+specifically excludes any public presentation (e.g., a presentation in a dorm
+lounge) and any presentation by a place of public accommodation or other
+commercial establishment (e.g., a bar or restaurant), even if no fee is
+charged. [CLS] [SEP] you may not simultaneously view more than the following number of
+video streams of this additional content per residence at which you already
+have an xfinity tv subscription: one stream for xfinity on campus
+subscriptions, two streams for xfinity instant tv subscriptions, and three
+streams for most other xfinity tv subscriptions. [CLS] [SEP]
+
+## 22\. [CLS] [SEP] special note about xfinity wi-fi. [CLS] [SEP]
+
+if you are not an xfinity subscriber or you are an xfinity subscriber but your
+subscription does not include access to xfinity wi-fi, the following applies
+to your use of xfinity wi-fi ( **"wi-fi service"** ):
+
+## using the wi-fi service
+
+in order to access and use the wi-fi service, you must:
+
+  * provide comcast with accurate and complete registration information;
+  * have a wireless-enabled device (compliant with the ieee 802.11g or n standards, and or any later standard we support) with a web browser or its equivalent;
+  * provide all equipment and software necessary to connect to the wi-fi service (other than the access point provided by comcast);
+  * protect the password, username and security information you use to access the wi-fi service and notify comcast immediately of any unauthorized use of your account that you become aware of,
+  * comply with applicable laws and regulations, including but not limited to copyright and intellectual property rights laws, and
+  * be at least 18 years of age. [CLS] [SEP]
+
+certain locations ("venues") may offer you free use of xfinity wi-fi ("amenity
+wi-fi"). [CLS] [SEP] your use of amenity wi-fi is subject to these terms and any other
+terms and conditions made available by the venue ("venue policies"). [CLS] [SEP] comcast
+is not responsible for the venue policies or the actions of the venue. [CLS] [SEP] you
+should read the venue policies before using amenity wi-fi. [CLS] [SEP]
+
+when you go online with any wi-fi service, remember that wireless
+communications can be intercepted. [CLS] [SEP] for more information on your security
+options, please see the security tips for comcast wi-fi at
+<https://www.xfinity.com/support/internet/provision-devices-secure-xfinity-
+wifi/>. [CLS] [SEP] in addition to the online resources at <http://wifi.xfinity.com>,
+comcast provides limited telephone support for this service, available at
+1-800-xfinity. [CLS] [SEP]
+
+## termination
+
+comcast reserves the right at any time to terminate your use of the wi-fi
+service if you fail to comply in full with any term of these terms, or any
+other terms, agreements, or policies that apply to this wi-fi service and the
+use of it. [CLS] [SEP] if you paid to access the wi-fi service on ppu (pay per use) basis,
+you may contact comcast by phone at 1-866-366-5756 to terminate the wi-fi
+service. [CLS] [SEP] in addition, comcast reserves the right at any time to delete,
+terminate, or suspend any wi-fi service account registration and related
+information including user names and passwords. [CLS] [SEP]
+
+## restrictions on use
+
+you may not use the wi-fi service to do any of the following:
+
+  * falsify, alter, or remove message headers;
+  * falsify references to comcast or its network, by name or other identifier, in messages;
+  * violate the rules, regulations, terms of service, or policies applicable to any network, server, computer database, service, application, system, or web site that you access or use;
+  * access any other person's computer or computer system, network, software, or data without his or her knowledge and consent; breach the security of another user or system; or attempt to circumvent the user authentication or security of any host, network, or account. [CLS] [SEP] this includes, but is not limited to, accessing data not intended for you, logging into or making use of a server or account you are not expressly authorized to access, or probing the security of other hosts, networks, or accounts without express permission to do so;
+  * use or distribute tools or devices designed or used for compromising security or whose use is otherwise unauthorized, such as password guessing programs, decoders, password gatherers, keystroke loggers, analyzers, cracking tools, packet sniffers, encryption circumvention devices, or trojan horse programs. [CLS] [SEP] unauthorized port scanning is strictly prohibited;
+  * copy, distribute, or sublicense any proprietary software provided in connection with the wi-fi service by comcast or any third party, except that you may make one copy of each software program for back-up purposes only; 
+  * distribute programs that make unauthorized changes to software (cracks);
+  * use or run dedicated, stand-alone equipment or servers, also commonly referred to as public services or servers. [CLS] [SEP] examples of prohibited equipment and servers include, but are not limited to, email, web hosting, file sharing, and proxy services and servers;
+  * use the wi-fi service, or use or run programs that provide network content or any other services, except for personal and non-commercial use; 
+  * service, alter, modify, or tamper with any comcast equipment or service or permit any other person who is not authorized by comcast to do so;
+  * use the wi-fi service for operation as an internet service provider or for any business, other legal entity, or organization purpose (whether or not for profit);
+  * resell or otherwise make available the wi-fi service, in whole or in part, directly or indirectly;
+  * interfere with computer networking or telecommunications service to any user, host or network, including, without limitation, denial of service attacks, flooding of a network, overloading a service, improper seizing and abusing operator privileges, and attempts to "crash" a host;
+  * falsify, alter, spoof, or otherwise modify or change any ip or mac address assigned to or associated with your device to access the wi-fi service; or
+  * access and use the wi-fi service with anything other than a dynamic ip address that adheres to the dynamic host configuration protocol ("dhcp"). [CLS] [SEP] you may not configure your device to use this wi-fi service or any related equipment to access or use a static ip address or use any protocol other than dhcp or for any unlawful purpose. [CLS] [SEP]
+
+## 23\. [CLS] [SEP] special note about comcast email for users who are not xfinity
+internet subscribers. [CLS] [SEP]
+
+if you are not a subscriber to our residential xfinity internet or xfinity
+voice service, the following applies to your use of a comcast-provided email
+address such as yourname@comcast.net (" **email service** "):
+
+## modifications, suspension, and termination
+
+you understand that comcast may modify or discontinue the email service at any
+time with or without notice to you. [CLS] [SEP] if we do give you notice, it may be
+provided on any of the comcast services, or via email, newspaper, or any other
+permissible communication. [CLS] [SEP] you understand that comcast may suspend or
+terminate your access to the email service for any suspected or actual
+violation of these terms. [CLS] [SEP] in addition, you understand that comcast may suspend
+or terminate your access to the email service if you have not used the email
+service at least once within a nine-month period. [CLS] [SEP] if comcast suspends or
+terminates your email service, your email will be deleted without the ability
+to recover it. [CLS] [SEP]
+
+## acceptable use and network management
+
+you will not use the email service to communicate or distribute email or other
+forms of communications in violation of these terms. [CLS] [SEP] as described in section
+iii of our acceptable use for xfinity internet policy, comcast uses reasonable
+network management tools and techniques to protect customers from receiving
+spam and from sending spam (often without their knowledge over an infected
+computer). [CLS] [SEP] comcast's anti-spam approach is explained in the faqs under the
+topic "what is comcast doing about spam?" located
+[here](http://customer.comcast.com/help-and-support/internet/reducing-spam-
+email/). [CLS] [SEP]
+
+comcast is not responsible for deleting or forwarding any email sent to the
+wrong email address by you or by someone else trying to send email to you. [CLS] [SEP]
+comcast is also not responsible for forwarding email sent to any email service
+account that has been suspended or terminated. [CLS] [SEP] this email will be returned to
+the sender, ignored, deleted, or stored temporarily at comcast's sole
+discretion. [CLS] [SEP] if you cancel or terminate your email service account for any
+reason, all email associated with that account (and any secondary accounts)
+will be permanently deleted as well. [CLS] [SEP]
+
+if comcast believes in its sole discretion that any subscriber name, account
+name, or email address (collectively, an " **identifier** ") on the email
+service may be used for, or is being used for, any misleading, fraudulent, or
+other improper or illegal purpose, comcast (i) reserves the right to block
+access to and prevent the use of any of these identifiers and (ii) may at any
+time require any customer to change his or her identifier. [CLS] [SEP] in addition,
+comcast may at any time reserve any identifiers on the email service for its
+own purposes. [CLS] [SEP]
+
+revised and effective: october 21, 2019
+

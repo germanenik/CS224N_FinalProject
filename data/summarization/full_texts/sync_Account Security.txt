@@ -1,0 +1,328 @@
+[![](https://www.sync.com/images/sync-q-
+lightbg.svg)![](https://www.sync.com/images/sync-w-lightbg.svg)](/)
+
+  * [sync for business](https://www.sync.com/business/)
+  * [pricing](https://www.sync.com/pricing/)
+  * [why sync?](https://www.sync.com/your-privacy/)
+
+  * [sign in](https://cp.sync.com/)
+
+[sign up free](/)
+
+# get help
+
+# account security
+
+[sign in](https://cp.sync.com/account/info) to the sync.com web panel to
+manage your account security settings. [CLS] [SEP]
+
+**in this article:**
+
+  * how to i enable or disable two-factor authentication (2fa)?
+  * how do i enable or disable single sign on (sso)?
+  * how do i manage web panel session time (auto-logout)?
+  * how do i disable a lost or stolen computer or device?
+  * how do i re-enable (unsuspend) a computer or device?
+  * how do i remotely sign out from the sync.com web panel?
+  * how do i disable or enable password change from the sync desktop app?
+
+* * *
+
+##  how to i enable or disable two-factor authentication (2fa)?  
+
+two-factor authentication is a recommended security feature that can help
+protect your sync account from unauthorized access. [CLS] [SEP] enabling two-factor
+authentication means that the sync apps and web panel will require an
+additional security code (along with your password ) when you sign in to your
+account or add a new computer or device. [CLS] [SEP]
+
+you can enable two-factor authentication using a mobile authenticator app
+(such as google authenticator) or using email delivery. [CLS] [SEP]
+
+* * *
+
+**to enable or disable 2fa using email delivery (easiest):**
+
+  1. [CLS] [SEP] [sign in to the web panel](https://cp.sync.com/account/security). [CLS] [SEP]
+  2. [CLS] [SEP] click your **email address** (or display name) on the top right corner of the blue menu bar. [CLS] [SEP]
+  3. [CLS] [SEP] select **settings.**
+  4. [CLS] [SEP] click the **security** tab. [CLS] [SEP]
+  5. [CLS] [SEP] click **edit** beside two-factor authentication. [CLS] [SEP]
+  6. [CLS] [SEP] click **enable 2-fa via email** (or **disable** to disable 2fa if you previously enabled it). [CLS] [SEP]
+  7. [CLS] [SEP] be sure to download the **backup codes** and store them in a safe place. [CLS] [SEP] you can use each backup code once, in the event that you need to sign in and do not have access to your email. [CLS] [SEP] 
+
+2fa is now enabled. [CLS] [SEP] you will have to check your email address for the
+additional security code each time you sign in into the web panel or install
+sync on a new computer or device. [CLS] [SEP]
+
+* * *
+
+**to enable 2fa using a mobile authenticator app (such as google
+authenticator):**
+
+before you begin you will need to download and install the google
+authenticator app on your phone or tablet. [CLS] [SEP] get it on the [apple app
+store](https://itunes.apple.com/ca/app/google-authenticator/id388497605?mt=8)
+or [google play
+store](https://play.google.com/store/apps/details?id=com.google.android.apps.auth). [CLS] [SEP]
+
+  1. [CLS] [SEP] [sign in to the web panel](https://cp.sync.com/account/security). [CLS] [SEP]
+  2. [CLS] [SEP] click your **email address** (or display name) on the top right corner of the blue menu bar. [CLS] [SEP]
+  3. [CLS] [SEP] select **settings.**
+  4. [CLS] [SEP] click the **security** tab. [CLS] [SEP]
+  5. [CLS] [SEP] click **edit** beside two-factor authentication. [CLS] [SEP]
+  6. [CLS] [SEP] click **enable 2-fa via google authenticator**. [CLS] [SEP] note: if 2fa is currently set to email, click **disable** and then click **edit** again to enable 2-fa via google authenticator. [CLS] [SEP]
+  7. [CLS] [SEP] open the google authenticator app on your mobile device and tap **scan a barcode**. [CLS] [SEP] you may have to tap **+** first, if you've already setup the app with other services. [CLS] [SEP] 
+  8. [CLS] [SEP] scan the qr code displayed on the sync web panel, into the google authenticator app. [CLS] [SEP]
+  9. [CLS] [SEP] the google authenticator app will provide a 6-digit verification code. [CLS] [SEP] **enter the verification code** on the sync web panel and click **save**. [CLS] [SEP]
+  10. [CLS] [SEP] be sure to download the **backup codes** and store them in a safe place. [CLS] [SEP] you can use each backup code once, in the event that you do not have access to your mobile device. [CLS] [SEP]
+
+2fa is now enabled. [CLS] [SEP] you will have to check the google authenticator app for
+the additional security code each time you sign in into the web panel or
+install sync on a new computer or device. [CLS] [SEP]
+
+* * *
+
+##  how do i enable or disable single sign on (sso)?  
+
+sync includes a single sign on feature, allowing you to automatically sign in
+to the web panel from an authenticated sync desktop app installed on your
+computer. [CLS] [SEP]
+
+once you've installed the sync desktop app you can click the **sync icon** on
+the windows system tray or the mac menu bar and select the **go to sync.com
+web panel** quick link. [CLS] [SEP] this will sign you into the web panel automatically,
+as the desktop app has already been authenticated. [CLS] [SEP]
+
+* * *
+
+**to enable or disable single sign on:**
+
+  1. [CLS] [SEP] [sign in to the web panel](https://cp.sync.com/account/security). [CLS] [SEP]
+  2. [CLS] [SEP] click your **email address** (or display name) on the top right corner of the blue menu bar. [CLS] [SEP]
+  3. [CLS] [SEP] select **settings.**
+  4. [CLS] [SEP] click the **security** tab. [CLS] [SEP]
+  5. [CLS] [SEP] click **edit** beside single sign-on. [CLS] [SEP]
+  6. [CLS] [SEP] enable or disable the option as needed and click the **enable** or **disable** button to confirm. [CLS] [SEP]
+
+if sso is disabled, you will be prompted to enter your username and password
+each time you access the web panel from the desktop app go to sync.com web
+panel quick link. [CLS] [SEP]
+
+sso does not override two-factor authentication. [CLS] [SEP] with 2fa enabled you will be
+prompted for an additional security code each time you sign in into the web
+panel, regardless of your sso settings. [CLS] [SEP]
+
+* * *
+
+##  how do i manage web panel session time (auto-logout)?  
+
+you can set the web panel to automatically log you out when there is no
+activity. [CLS] [SEP] this is recommended if you frequently sign in to your sync account
+from public computers. [CLS] [SEP]
+
+* * *
+
+**to manage auto-logout:**
+
+  1. [CLS] [SEP] [sign in to the web panel](https://cp.sync.com/account/security). [CLS] [SEP]
+  2. [CLS] [SEP] click your **email address** (or display name) on the top right corner of the blue menu bar. [CLS] [SEP]
+  3. [CLS] [SEP] select **settings.**
+  4. [CLS] [SEP] click the **security** tab. [CLS] [SEP]
+  5. [CLS] [SEP] click **edit** beside automatic logout. [CLS] [SEP]
+  6. [CLS] [SEP] select your **auto logout time**. [CLS] [SEP]
+  7. [CLS] [SEP] click **save**. [CLS] [SEP]
+
+* * *
+
+##  how do i disable a lost or stolen computer, phone or tablet?
+
+if your computer or mobile device is lost or stolen you can unlink it from
+your sync account to disable the sync app from downloading and syncing your
+files or making changes to your account settings. [CLS] [SEP]
+
+* * *
+
+**to disable (unlink) a device:**
+
+  1. [CLS] [SEP] [sign in to the web panel](https://cp.sync.com/account/devices). [CLS] [SEP]
+  2. [CLS] [SEP] click your **email address** (or display name) on the top right corner of the blue menu bar. [CLS] [SEP]
+  3. [CLS] [SEP] select **settings.**
+  4. [CLS] [SEP] click the **devices** tab. [CLS] [SEP]
+  5. [CLS] [SEP] click the __(ellipsis) icon beside the computer or device you want to disable. [CLS] [SEP]
+  6. [CLS] [SEP] select **delete**. [CLS] [SEP]
+  7. [CLS] [SEP] check the **confirm** box and click **delete**. [CLS] [SEP]
+
+note: if your device was lost and you re-locate it, you can enable it. [CLS] [SEP]
+
+* * *
+
+##  how do i re-enable (unsuspend) a computer, phone or tablet?
+
+**to restore a previously disabled your computer or mobile device:**
+
+  1. [CLS] [SEP] [sign in to the web panel](https://cp.sync.com/account/devices). [CLS] [SEP]
+  2. [CLS] [SEP] click your **email address** (or display name) on the top right corner of the blue menu bar. [CLS] [SEP]
+  3. [CLS] [SEP] select **settings.**
+  4. [CLS] [SEP] click the **devices** tab. [CLS] [SEP]
+  5. [CLS] [SEP] click **show deleted** at the bottom of the device list. [CLS] [SEP]
+  6. [CLS] [SEP] click the __(ellipsis) icon beside the deleted computer or device you want to re-enable. [CLS] [SEP]
+  7. [CLS] [SEP] select **restore**. [CLS] [SEP]
+
+* * *
+
+##  how do i remotely sign out from the sync.com web panel?
+
+if you forgot to sign out from the web panel, or you suspect that someone has
+signed in using your account credentials, you can remotely logout anytime. [CLS] [SEP]
+
+  1. [CLS] [SEP] [sign in to the web panel](https://cp.sync.com/account/devices). [CLS] [SEP]
+  2. [CLS] [SEP] click your **email address** (or display name) on the top right corner of the blue menu bar. [CLS] [SEP]
+  3. [CLS] [SEP] select **settings.**
+  4. [CLS] [SEP] click the **devices** tab. [CLS] [SEP]
+  5. [CLS] [SEP] click the __(ellipsis) icon beside the web session you want to disable. [CLS] [SEP]
+  6. [CLS] [SEP] select **logout**. [CLS] [SEP]
+
+* * *
+
+##  how do i disable or enable password change from the sync desktop app?  
+
+if you've installed the sync desktop app on a computer that is shared by
+multiple people, you can disable the password reset feature of the app. [CLS] [SEP] this
+can help you control who can change your sync account password. [CLS] [SEP]
+
+**important:** if you disable password change on your computer it is highly
+recommend that you [enable email-based password
+reset](https://www.sync.com/help/passwords/#securitypasswordreset) and [set a
+password hint](https://www.sync.com/help/passwords/#securitypasswordhint), to
+prevent being locked out of your account permanently due to a forgotten
+password. [CLS] [SEP]
+
+**to manage this setting per computer:**
+
+  1. [CLS] [SEP] [sign in to the web panel](https://cp.sync.com/account/devices). [CLS] [SEP]
+  2. [CLS] [SEP] click your **email address** (or display name) on the top right corner of the blue menu bar. [CLS] [SEP]
+  3. [CLS] [SEP] select **settings.**
+  4. [CLS] [SEP] click the **devices** tab. [CLS] [SEP]
+  5. [CLS] [SEP] click the __(ellipsis) icon beside the computer you want to disable password change on. [CLS] [SEP]
+  6. [CLS] [SEP] select **set permission**. [CLS] [SEP]
+  7. [CLS] [SEP] choose **disabled** or **enabled** as required. [CLS] [SEP]
+  8. [CLS] [SEP] click **save settings**. [CLS] [SEP]
+
+* * *
+
+  
+[tweet](https://twitter.com/share)
+
+  * [desktop apps](https://www.sync.com/help/category/desktop-app/)
+  * [sync.com web panel](https://www.sync.com/help/category/web-panel/)
+  * [mobile apps](https://www.sync.com/help/category/mobile/)
+  * [sharing - links](https://www.sync.com/help/category/shared-links/)
+  * [sharing - team shares](https://www.sync.com/help/category/team-shares/)
+  * [file requests](https://www.sync.com/help/requesting-files-with-upload-enabled-links/)
+  * [vault](https://www.sync.com/help/category/vault/)
+  * [business pro](https://www.sync.com/help/business-pro/)
+  * [account & billing](https://www.sync.com/help/category/account-billing/)
+  * [passwords & security](https://www.sync.com/help/category/security/)
+  * [ contact support](https://www.sync.com/support)
+  * [system status](https://sync.statuspage.io/)
+
+  
+  
+
+  
+  
+  
+back to top
+
+company
+
+[
+
+  * about us __
+](https://www.sync.com/about/)[
+
+  * blog __
+](https://www.sync.com/blog/)[
+
+  * careers __
+](https://www.sync.com/careers/)[
+
+  * security & privacy __
+](https://www.sync.com/your-privacy/)
+
+products
+
+[
+
+  * business plan __
+](https://www.sync.com/business/)[
+
+  * features __
+](https://www.sync.com/pricing/#features)[
+
+  * pricing __
+](https://www.sync.com/pricing/)[
+
+  * resellers __
+](https://www.sync.com/help/does-sync-have-an-affiliate-commission-or-rewards-
+program/)
+
+help
+
+[
+
+  * contact us __
+](https://www.sync.com/support/)[
+
+  * help center __
+](https://www.sync.com/help/)[
+
+  * download __
+](https://www.sync.com/install/)[
+
+  * sign in to web __
+](https://cp.sync.com/)
+
+industry
+
+[
+
+  * legal __
+](https://www.sync.com/lawfirms/)[
+
+  * healthcare & hipaa __
+](https://www.sync.com/healthcare/)[
+
+  * accounting __
+](https://www.sync.com/accountants/)[
+
+  * canadian cloud storage __
+](https://www.sync.com/canadian-cloud-storage/)
+
+uses
+
+[
+
+  * dropbox alternative __
+](https://www.sync.com/secure-dropbox-alternative/)[
+
+  * free cloud storage __
+](https://www.sync.com/free-cloud-storage/)[
+
+  * secure file sharing __
+](https://www.sync.com/secure-file-sharing/)[
+
+  * email large files __
+](https://www.sync.com/email-large-files/)
+
+[__](http://twitter.com/sync)  [__](https://www.youtube.com/user/filesync)
+[__](https://www.sync.com/blog/)
+
+* * *
+
+(c) 2021 sync.com inc. [CLS] [SEP]  
+[privacy policy](https://www.sync.com/privacy/) * [terms of
+service](https://www.sync.com/terms/) * [gdpr](https://www.sync.com/privacy-
+policy-gdpr/)
+

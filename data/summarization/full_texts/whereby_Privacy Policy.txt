@@ -1,0 +1,349 @@
+[](/)
+
+  * product
+
+product
+
+    * [feature overview](/information/features/)
+    * [business](/information/business/)
+    * [pro](/information/pro/)
+    * [embedded](/information/embedded/)
+
+product
+
+    * [feature overview](/information/features/)
+    * [business](/information/business/)
+    * [pro](/information/pro/)
+    * [embedded](/information/embedded/)
+
+  * [pricing](/information/pricing/)
+  * [support](https://whereby.helpscoutdocs.com/)
+  * [log in](/user/login)
+  * [get started](/user/signup)
+
+# privacy policy
+
+effective date: june 25th, 2020
+
+this privacy statement (the "privacy statement") is provided by:
+
+video communication services as ("whereby"/"we")
+
+gate 1 no. [CLS] [SEP] 101, 6700 måløy, norway
+
+business organization number no 918470573
+
+## introduction
+
+this policy describes what information we collect when you use whereby’s
+sites, services, mobile applications, products, and content (“services”). [CLS] [SEP] it
+also provides information about how we store, transfer, use, and delete that
+information, and what choices you have with respect to the information. [CLS] [SEP]
+
+this policy applies to whereby’s online video meeting tool, including the
+website and mobile applications, and other whereby websites (collectively “the
+websites”), as well as other interaction (e.g. [CLS] [SEP] customer support conversations,
+user surveys and interviews etc.) you may have with whereby. [CLS] [SEP]
+
+this policy applies where we are acting as a data controller with respect to
+the personal data of users of our services; in other words, where we determine
+the purposes and means of the processing of that personal data. [CLS] [SEP] for content
+and data that you upload to or make available through the service (“user
+content”), you are responsible for ensuring this content is in accordance with
+our terms of service, and that the content is not violating other users’
+privacy. [CLS] [SEP]
+
+## how we collect, process and store information
+
+we in whereby are committed to safeguarding the privacy of our users. [CLS] [SEP] our
+business model is to provide a paid service to users who need additional
+features on top of the free version, and does not rely on widespread
+collection of general user data. [CLS] [SEP] we will only collect and process information
+that we need to deliver the service to you, and to continue to maintain and
+develop the service. [CLS] [SEP]
+
+whereby may collect, store and process various kinds of data, with different
+legal grounds, as listed below. [CLS] [SEP] for the categories of data that require your
+consent, we will actively ask you for consent before collecting any data. [CLS] [SEP] you
+can give and revoke your consents at any time in your settings page in
+<https://whereby.com>. [CLS] [SEP]
+
+the following is a list of data we collect, process or store, with the purpose
+and legal ground listed for each item or group of items having the same
+purpose and legal ground:
+
+  * **user account information.** users that choose to register in whereby, will have to provide a valid email address or phone number. [CLS] [SEP] the user can also choose to enter a display name and/or add a profile picture that will be used to represent them in conversations. [CLS] [SEP] if you as a user choose to sign up with an external authentication service, e.g. [CLS] [SEP] google sign-in, we will fetch and store email address, name and profile image url from this service. [CLS] [SEP] 
+  * **room information.** to create a room in whereby, you as a user will have to select a room name. [CLS] [SEP] this name will be publicly visible, and will be used by other users accessing meetings in that room. [CLS] [SEP] you as a user is responsible for the content you enter into a room name, and the content has to be compliant with our guidelines for prohibited content in terms of services. [CLS] [SEP]
+
+> the information may be used for the purposes of operating our website,
+> providing our services, ensuring the security of our website and services,
+> maintaining back-ups of our databases and communicating with you. [CLS] [SEP] this is
+> required to deliver the service to you as user, by taking steps, at your
+> request, to enter into and to fulfilling such a contract (terms of service)
+> cf. [CLS] [SEP] gdpr art. [CLS] [SEP] 6 (1) item b. [CLS] [SEP]
+
+  * **transaction information.** customers that choose to purchase a paid version of the services provide whereby (and our payment processors) with billing details such as credit card information, billing email, banking information, location at the time of transaction and/or a billing address. [CLS] [SEP]
+
+> the transaction data may be processed for the purpose of supplying the
+> purchased services and keeping proper records of those transactions. [CLS] [SEP] this
+> data may be used for the purpose of delivering the services to you. [CLS] [SEP]
+> processing this information is required for fulfilling the contract we
+> entered into with you, at your request (our terms of service) cf. [CLS] [SEP] gdpr art. [CLS] [SEP]
+> 6 (1) item b. [CLS] [SEP] additionally, this information needs to be retained in order
+> to comply with accounting and tax regulation cf. [CLS] [SEP] gdpr art. [CLS] [SEP] 6 (1) item c. [CLS] [SEP]
+
+  * **usage information.** when you as a user interact with the services, we collect and process metadata to provide additional context about the way the service is being used. [CLS] [SEP] the usage data may include your ip address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use. [CLS] [SEP] the source of the usage data is our server software and our analytics tracking system. [CLS] [SEP]
+
+    * **product analytics data.** whereby logs activities by you and other users when the users interact with our websites or apps, when a page or a room is visited or where there is a conversation. [CLS] [SEP] we will never collect or record the content in conversations. [CLS] [SEP]
+    * **technical log data.** like most digital services, our servers automatically collect information when websites or services are accessed or used and record it in log files. [CLS] [SEP] this log data may include the internet protocol (ip) address, the address of the web page visited within the services, browser type and settings, the date and time the services were used, information about browser configuration and plugins, language preferences and cookie data. [CLS] [SEP]
+    * **device information.** whereby may collect and process information about devices used to access the services, including type of device, what operating system is used, device settings, application ids, unique device identifiers and crash data. [CLS] [SEP] whether we collect and process some or all of this information depends on the type of device used and its settings. [CLS] [SEP]
+    * **location information.** we receive information from you and other third-parties that helps us approximate your location. [CLS] [SEP] we may, for example, use a business address submitted by your employer, or an ip address received from your browser or device to determine approximate location. [CLS] [SEP] whereby may also collect location information from devices in accordance with the consent process provided by your device. [CLS] [SEP]
+
+> the legal basis for this processing is our legitimate interests cf. [CLS] [SEP] gdpr
+> art. [CLS] [SEP] 6 (1) item f, namely using this data for the purpose of ensuring the
+> proper administration of our website and business, analyzing the use of the
+> website and services, monitoring and improving our website and services,
+> improving the user experience, preventing abuse, and assisting users with
+> support inquiries. [CLS] [SEP] for information about cookies and how to opt out of
+> cookies, see our [cookie policy](https://whereby.com/information/tos/cookie-
+> policy/). [CLS] [SEP]
+
+  * **customer support information.** we may process information that you send to us, should you choose to submit a ticket to our support email. [CLS] [SEP] if you contact us, we may use your account, room, transaction or usage information to respond. [CLS] [SEP]
+
+> processing this information it is required for performing the contract we
+> entered into with you, at your request (our terms of service), as well as
+> our legitimate interest of handling your requests cf. [CLS] [SEP] gdpr art. [CLS] [SEP] 6 (1) item
+> f. [CLS] [SEP]
+
+  * **product & marketing communication.** we may process information that you provide to us for the purpose of subscribing to our email newsletters. [CLS] [SEP] you can opt in to emails such as digests, newsletters, and activity notifications through your account’s “settings > privacy > consents” page. [CLS] [SEP]
+
+> the notification data may be processed for the purposes of sending you
+> relevant product information or newsletters. [CLS] [SEP] the legal basis for this
+> processing is your consent cf. [CLS] [SEP] gdpr art. [CLS] [SEP] 6 (1) item a. [CLS] [SEP]
+
+  * **service and transactional notifications.** sometimes we’ll send you emails about your account, service changes or new policies. [CLS] [SEP] you can’t opt out of this type of “service or transactional” emails (unless you delete your account) as they are necessary information for the services. [CLS] [SEP]
+
+> the legal grounds for processing this information is that it is required for
+> performing our commitment about communicating changes in plans and pricing
+> to you in the contract we entered into with you, at your request (our terms
+> of service) cf. [CLS] [SEP] gdpr art. [CLS] [SEP] 6 (1) item b, and our legitimate interest of
+> communicating important information about your account to you, cf. [CLS] [SEP] gdpr art. [CLS] [SEP]
+> 6 (1) item f. [CLS] [SEP]
+
+  * **correspondence information.** we may process information that you choose to share with us if you participate in a focus group, contest, activity or event, apply for a job, interact with our social media accounts or otherwise communicate with whereby
+
+> the correspondence data may be processed for the purposes of communicating
+> with you and record-keeping. [CLS] [SEP] the legal basis for this processing is our
+> legitimate interests cf. [CLS] [SEP] gdpr art. [CLS] [SEP] 6 (1) item f, namely the proper
+> administration of our website and business and communications with users. [CLS] [SEP]
+
+  * **integrations with external services** you as a participant in a meeting may choose to open one of the integrations we provide (google drive, youtube, trello and others) in rooms where these have been enabled. [CLS] [SEP] we may store data from use of integrations in a local browser storage, and process this to enrich the user experience. [CLS] [SEP] this data can be deleted with the delete option in the integration settings or by deleting it from the cache of your browser. [CLS] [SEP] when using an integration, metadada like title, thumbnail, dates and share permissions about content selected may be fetched and displayed in the web page. [CLS] [SEP] we may store non-personal/non-restricted information (eg. [CLS] [SEP] content id and access date) in a local browser storage to display lists of recent opened integrations. [CLS] [SEP] restricted metadata is always stored by the services themselves and requires explicit consent given by the facing user to fetch it. [CLS] [SEP] the implementation is in compliance with the services privacy policies: [google privacy policy](http://www.google.com/policies/privacy/), [trello privacy policy](https://www.atlassian.com/legal/privacy-policy) and [miro privacy policy](https://miro.com/legal/privacy-policy/). [CLS] [SEP]
+
+> the information may be used for the purposes of operating our website and
+> providing our services. [CLS] [SEP] this is required to deliver the service to you as
+> user, by taking steps, at your request, to enter into and to fulfilling such
+> a contract (terms of service) cf. [CLS] [SEP] gdpr art. [CLS] [SEP] 6 (1) item b. [CLS] [SEP]
+
+## how we process media (audio/video)
+
+we will never store any media sent between participants in a room. [CLS] [SEP] customers
+who have access to the “recording” feature will be able to record meetings,
+and they are then responsible for collecting consents from all participants in
+the meeting prior to starting the recording. [CLS] [SEP] they are also responsible for
+storing and processing the recording in compliance with regulations after
+downloading it from whereby. [CLS] [SEP]
+
+### security
+
+in the free version of the service, users can use “small meeting” mode (up to
+4 participants). [CLS] [SEP] in “small meeting” mode, communication between participants
+are primarily sent through peer-to-peer connections, where audio and video
+streams are sent directly between participants and do not pass through any of
+our servers. [CLS] [SEP] video and audio transmitted in the service is then sent directly
+between the participants in a room and is encrypted (dtls-srtp) with client-
+generated encryption keys. [CLS] [SEP] in cases where a user is behind a strict firewall
+or nat, video and audio need to be relayed via a turn server, but end-to-end
+encryption is still maintained. [CLS] [SEP]
+
+if you have upgraded a room to pro, you can choose to use “large meeting” mode
+(up to 12 participants). [CLS] [SEP] calls using “large meeting” mode will use a dedicated
+server infrastructure to allow more people in conversation, and better
+stability. [CLS] [SEP] your stream will be sent through video router servers which
+transmits it to the other participants in the call, and also transmits their
+streams to you. [CLS] [SEP] streams will always be encrypted (dtls-srtp) in transit, but
+will be decrypted and re-encrypted when passing through the video routers. [CLS] [SEP] we
+operate an infrastructure of video routers distributed across the world, and
+you will be automatically routed to the closest one. [CLS] [SEP] the video router servers
+and all of our infrastructure adhere to strict security measures, preventing
+any eavesdropping or interruption of the video/audio streams. [CLS] [SEP]
+
+## providing your personal data to others
+
+we may share information about with third parties in some circumstances,
+including: (1) with your consent; (2) to a service provider or partner who
+meets our data protection standards; (3) with academic or non-profit
+researchers, with aggregation, anonymization; (4) when we have a good faith
+belief it is required by law, such as pursuant to a subpoena or other legal
+process; (5) to protect the vital interest of others, when we have reason to
+believe that doing so will prevent harm to someone or illegal activities. [CLS] [SEP]
+
+our categories of service providers and partners are:
+
+  * hosting/infrastructure/storage providers
+  * payment processors
+  * analysis tools providers
+  * customer support tools providers
+  * marketing and email providers
+  * recruiting tools providers
+  * internal communication tools providers
+
+### business transfers
+
+we may disclose your personal data to any member of our group of companies
+(this means our subsidiaries, our ultimate holding company and all its
+subsidiaries) insofar as reasonably necessary for the purposes, and on the
+legal bases, set out in this policy. [CLS] [SEP]
+
+in the case where we are involved in a merger, acquisition, bankruptcy,
+reorganization or sale of assets such that your information would be
+transferred or become subject to a different privacy policy, we will notify
+you in advance and give you the option to delete your data before the
+transfer. [CLS] [SEP]
+
+## international transfers of your personal data
+
+in some circumstances your personal data may be transferred to countries
+outside the european economic area (eea). [CLS] [SEP] you acknowledge that personal data
+that you submit for publication through our website or services may be
+available, via the internet, around the world. [CLS] [SEP] we cannot prevent the use (or
+misuse) of such personal data by others. [CLS] [SEP] for information about what types of
+content you as a user is responsible, see this [terms of
+service](https://whereby.com/information/tos/). [CLS] [SEP]
+
+we and our other group companies have offices and facilities in norway,
+sweden, united states. [CLS] [SEP] the hosting facilities for account information stored
+by whereby are situated in ireland. [CLS] [SEP] the hosting facilities for usage
+information are situated in ireland and the united states. [CLS] [SEP] transfers to the
+united states will be protected by appropriate safeguards, namely the use of
+standard data protection clauses adopted or approved by the european
+commission, a copy of which can be obtained from
+<https://ec.europa.eu/info/law/law-topic/data-protection/international-
+dimension-data-protection/standard-contractual-clauses-scc_en>. [CLS] [SEP]
+
+## retaining and deleting personal data
+
+personal data that we process for any purpose or purposes shall not be kept
+for longer than is necessary for that purpose or those purposes. [CLS] [SEP]
+
+we will retain your personal data as follows:
+
+  * transaction information will be retained for a minimum period of 5 years following date of the transaction, and for a maximum period of 10 years following the date of the transaction. [CLS] [SEP]
+
+in some cases it is not possible for us to specify in advance the periods for
+which your personal data will be retained. [CLS] [SEP] in such cases, we will determine
+the period of retention based on the following criteria:
+
+  1. [CLS] [SEP] account information, room information will be retained until you decide to delete your account or delete a room in whereby. [CLS] [SEP]
+  2. [CLS] [SEP] information about you used for product & marketing communication will be retained as long as you have given us consent to use this information. [CLS] [SEP]
+  3. [CLS] [SEP] the period of retention of usage information will be determined based on the need for historical data to determine statistical validity and relevance for product decisions and technical monitoring. [CLS] [SEP]
+
+regardless of the provisions above, we may retain your personal data where
+such retention is necessary for compliance with a legal obligation to which we
+are subject, or in order to protect your vital interests or the vital
+interests of another natural person. [CLS] [SEP]
+
+## changes to this policy
+
+we can change these terms at any time. [CLS] [SEP] we keep a historical record of all
+changes to our terms on [github](https://github.com/whereby/policy). [CLS] [SEP] if a
+change is material, we’ll let you know before it takes effect. [CLS] [SEP] by using
+whereby on or after that effective date, you agree to the new terms. [CLS] [SEP] if you
+don’t agree to them, you should delete your account before they take effect,
+otherwise your use of the service and content will be subject to the new
+terms. [CLS] [SEP]
+
+## managing and deleting your personal information
+
+if you have a whereby account, you can access, modify or export your personal
+information, or delete your account in
+[settings](https://whereby.com/user/profile). [CLS] [SEP] if you delete your account, your
+information and content will be unrecoverable after that time. [CLS] [SEP] you may
+instruct us at any time not to process your personal information for marketing
+purposes, by adjusting your [privacy
+settings](https://whereby.com/user/privacy/consents)). [CLS] [SEP] we may withhold
+personal information that you request to the extent permitted by law. [CLS] [SEP]
+
+## your rights
+
+as an individual you are granted rights according to the applicable data
+protection law:
+
+  * the right to access to your personal data
+  * the right to rectification of your personal data
+  * the right to object to and restriction of our processing of your personal data
+  * the also right to be forgotten; erasure of your data. [CLS] [SEP]
+  * the right to data portability. [CLS] [SEP]
+
+if you have provided your consent to your processing of personal data, you may
+also withdraw your consent at any time, on our settings > consent page. [CLS] [SEP]
+
+the rights are not absolute, and you may read more about your rights in the eu
+general data protection regulation chapter iii, or at
+<https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-
+citizens_en>
+
+to exercise your rights or if you otherwise have any questions regarding our
+processing of your personal data, we encourage you to contact us as described
+below. [CLS] [SEP] however, we also notify you that you may raise complaint to a data
+protection authority. [CLS] [SEP] as a norwegian company, whereby uses the norwegian data
+protection authority (datatilsynet) as a supervising authority. [CLS] [SEP] you may find
+further information on their website: <https://www.datatilsynet.no/>. [CLS] [SEP] you may
+contact your national/state supervisory authority, but whereby will retain the
+norwegian data protection authority as our lead supervisory authority. [CLS] [SEP]
+
+## data protection officer
+
+our data protection officer's contact details are: jonas lybech jensen,
+privacy@whereby.com
+
+to learn more, visit the [privacy section in our
+faq](https://whereby.helpscoutdocs.com/article/526-data-storage-and-security). [CLS] [SEP]
+
+for any questions about this privacy policy, please contact legal@whereby.com. [CLS] [SEP]
+
+### about
+
+  * [about us](/information/about-us/)
+  * [our vision](/information/our-vision/)
+  * [careers](https://jobs.lever.co/whereby)
+  * [press](/information/press/)
+  * [video conferencing](/information/video-conferencing-apps/)
+
+### sales
+
+  * [pricing](/information/pricing/)
+  * [pro](/information/pro/)
+  * [business](/information/business/)
+  * [embedded](/information/product-api/)
+
+### social
+
+  * [blog](https://whereby.com/blog)
+  * [twitter](https://twitter.com/whereby)
+  * [linkedin](https://www.linkedin.com/company/whereby)
+  * [instagram](https://www.instagram.com/wherebymeetings/)
+  * [facebook](https://www.facebook.com/whereby)
+
+### support
+
+  * [getting started](https://whereby.helpscoutdocs.com/article/452-getting-started)
+  * [support center](https://whereby.helpscoutdocs.com)
+  * [terms of service](/information/tos/)
+  * [cookie policy](/information/tos/cookie-policy/)
+  * [privacy policy](/information/tos/privacy-policy/)
+  * [sitemap](/sitemap/)
+
+### get in touch
+
+  * [contact sales](/information/contact-sales/)
+

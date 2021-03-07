@@ -1,0 +1,146 @@
+[ ](https://mastodon.social/)[profile directory](/explore)
+[about](/about/more) [mobile apps](https://joinmastodon.org/apps)
+
+[log in](/auth/sign_in) [sign up](https://joinmastodon.org/#getting-started)
+
+## privacy policy
+
+### what information do we collect?
+
+  * _basic account information_ : if you register on this server, you may be asked to enter a username, an e-mail address and a password. [CLS] [SEP] you may also enter additional profile information such as a display name and biography, and upload a profile picture and header image. [CLS] [SEP] the username, display name, biography, profile picture and header image are always listed publicly. [CLS] [SEP]
+  * _posts, following and other public information_ : the list of people you follow is listed publicly, the same is true for your followers. [CLS] [SEP] when you submit a message, the date and time is stored as well as the application you submitted the message from. [CLS] [SEP] messages may contain media attachments, such as pictures and videos. [CLS] [SEP] public and unlisted posts are available publicly. [CLS] [SEP] when you feature a post on your profile, that is also publicly available information. [CLS] [SEP] your posts are delivered to your followers, in some cases it means they are delivered to different servers and copies are stored there. [CLS] [SEP] when you delete posts, this is likewise delivered to your followers. [CLS] [SEP] the action of reblogging or favouriting another post is always public. [CLS] [SEP]
+  * _direct and followers-only posts_ : all posts are stored and processed on the server. [CLS] [SEP] followers-only posts are delivered to your followers and users who are mentioned in them, and direct posts are delivered only to users mentioned in them. [CLS] [SEP] in some cases it means they are delivered to different servers and copies are stored there. [CLS] [SEP] we make a good faith effort to limit the access to those posts only to authorized persons, but other servers may fail to do so. [CLS] [SEP] therefore it's important to review servers your followers belong to. [CLS] [SEP] you may toggle an option to approve and reject new followers manually in the settings. [CLS] [SEP] _please keep in mind that the operators of the server and any receiving server may view such messages_ , and that recipients may screenshot, copy or otherwise re-share them. [CLS] [SEP] _do not share any dangerous information over mastodon._
+  * _ips and other metadata_ : when you log in, we record the ip address you log in from, as well as the name of your browser application. [CLS] [SEP] all the logged in sessions are available for your review and revocation in the settings. [CLS] [SEP] the latest ip address used is stored for up to 12 months. [CLS] [SEP] we also may retain server logs which include the ip address of every request to our server. [CLS] [SEP]
+
+* * *
+
+### what do we use your information for?
+
+any of the information we collect from you may be used in the following ways:
+
+  * to provide the core functionality of mastodon. [CLS] [SEP] you can only interact with other people's content and post your own content when you are logged in. [CLS] [SEP] for example, you may follow other people to view their combined posts in your own personalized home timeline. [CLS] [SEP]
+  * to aid moderation of the community, for example comparing your ip address with other known ones to determine ban evasion or other violations. [CLS] [SEP]
+  * the email address you provide may be used to send you information, notifications about other people interacting with your content or sending you messages, and to respond to inquiries, and/or other requests or questions. [CLS] [SEP]
+
+* * *
+
+### how do we protect your information?
+
+we implement a variety of security measures to maintain the safety of your
+personal information when you enter, submit, or access your personal
+information. [CLS] [SEP] among other things, your browser session, as well as the traffic
+between your applications and the api, are secured with ssl, and your password
+is hashed using a strong one-way algorithm. [CLS] [SEP] you may enable two-factor
+authentication to further secure access to your account. [CLS] [SEP]
+
+* * *
+
+### what is our data retention policy?
+
+we will make a good faith effort to:
+
+  * retain server logs containing the ip address of all requests to this server, in so far as such logs are kept, no more than 90 days. [CLS] [SEP]
+  * retain the ip addresses associated with registered users no more than 12 months. [CLS] [SEP]
+
+you can request and download an archive of your content, including your posts,
+media attachments, profile picture, and header image. [CLS] [SEP]
+
+you may irreversibly delete your account at any time. [CLS] [SEP]
+
+* * *
+
+### do we use cookies?
+
+yes. [CLS] [SEP] cookies are small files that a site or its service provider transfers to
+your computer's hard drive through your web browser (if you allow). [CLS] [SEP] these
+cookies enable the site to recognize your browser and, if you have a
+registered account, associate it with your registered account. [CLS] [SEP]
+
+we use cookies to understand and save your preferences for future visits. [CLS] [SEP]
+
+* * *
+
+### do we disclose any information to outside parties?
+
+we do not sell, trade, or otherwise transfer to outside parties your
+personally identifiable information. [CLS] [SEP] this does not include trusted third
+parties who assist us in operating our site, conducting our business, or
+servicing you, so long as those parties agree to keep this information
+confidential. [CLS] [SEP] we may also release your information when we believe release is
+appropriate to comply with the law, enforce our site policies, or protect ours
+or others rights, property, or safety. [CLS] [SEP]
+
+your public content may be downloaded by other servers in the network. [CLS] [SEP] your
+public and followers-only posts are delivered to the servers where your
+followers reside, and direct messages are delivered to the servers of the
+recipients, in so far as those followers or recipients reside on a different
+server than this. [CLS] [SEP]
+
+when you authorize an application to use your account, depending on the scope
+of permissions you approve, it may access your public profile information,
+your following list, your followers, your lists, all your posts, and your
+favourites. [CLS] [SEP] applications can never access your e-mail address or password. [CLS] [SEP]
+
+* * *
+
+### site usage by children
+
+if this server is in the eu or the eea: our site, products and services are
+all directed to people who are at least 16 years old. [CLS] [SEP] if you are under the age
+of 16, per the requirements of the gdpr ([general data protection
+regulation](https://en.wikipedia.org/wiki/general_data_protection_regulation))
+do not use this site. [CLS] [SEP]
+
+if this server is in the usa: our site, products and services are all directed
+to people who are at least 13 years old. [CLS] [SEP] if you are under the age of 13, per
+the requirements of coppa ([children's online privacy protection
+act](https://en.wikipedia.org/wiki/children%27s_online_privacy_protection_act))
+do not use this site. [CLS] [SEP]
+
+law requirements can be different if this server is in another jurisdiction. [CLS] [SEP]
+
+* * *
+
+### changes to our privacy policy
+
+if we decide to change our privacy policy, we will post those changes on this
+page. [CLS] [SEP]
+
+this document is cc-by-sa. [CLS] [SEP] it was last updated march 7, 2018. [CLS] [SEP]
+
+originally adapted from the [discourse privacy
+policy](https://github.com/discourse/discourse). [CLS] [SEP]
+
+![mastodon](https://files.mastodon.social/site_uploads/files/000/000/001/original/vlcsnap-2018-08-27-16h43m11s127.png)
+
+server run by the main developers of the project
+![🐘](https://mastodon.social/emoji/1f418.svg) it is not focused on any
+particular niche interest - everyone is welcome as long as you follow our code
+of conduct!
+
+#### trending now
+
+#### resources
+
+  * [terms of service](/terms)
+  * [privacy policy](/terms)
+
+#### developers
+
+  * [documentation](https://docs.joinmastodon.org/)
+  * [api](https://docs.joinmastodon.org/client/intro/)
+
+#### [what is mastodon?](https://joinmastodon.org/)
+
+[](https://mastodon.social/)
+
+#### mastodon.social
+
+  * [about](/about/more)
+  * v3.3.0
+
+#### more…
+
+  * [source code](https://github.com/tootsuite/mastodon)
+  * [mobile apps](https://joinmastodon.org/apps)
+

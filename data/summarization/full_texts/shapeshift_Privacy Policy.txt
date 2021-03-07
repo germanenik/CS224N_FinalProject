@@ -1,0 +1,399 @@
+[![](https://assets-global.website-
+files.com/5cec55545d0f47cfe2a39a8e/5cef10eb635ae7a3e66e8e17_logo-mark.svg)](/)
+
+about
+
+back
+
+[leadership  
+](/company)[careers  
+](/careers)[testimonials  
+](/company/testimonials)[release notes  
+](/release-notes)[newsroom  
+](/newsroom)
+
+[learn](/library)
+
+back
+
+[blog  
+](/library)
+
+[bitcoin](/category/bitcoin)
+
+[crypto 101](/category/crypto-101)
+
+[crypto pro](/category/crypto-pro)
+
+[ethereum](/category/ethereum)
+
+products
+
+back
+
+[shapeshift platform  
+](http://beta.shapeshift.com/)[shapeshift classic  
+](http://classic.shapeshift.com/)[how it works  
+](/how-shapeshift-works)[fox tokens  
+](/fox-token)[free trading  
+](/commission-free-trading)[coincap  
+](https://coincap.io/)[keepkey  
+](/keepkey)
+
+resources
+
+back
+
+[developer portal  
+](/developer-portal)[brand assets  
+](/brand-assets)[help center  
+](https://shapeshift.zendesk.com/)[miner fees  
+](/miner-fees)
+
+[buy crypto](/buy-crypto-with-debit)
+
+[try shapeshift](https://beta.shapeshift.com/)[log
+in](https://auth.shapeshift.com/oauth/authorize?response_type=code&client_id=5a6dd0ac-0039-4561-95c4-87e0a2b35390&state=&redirect_uri=https%3a%2f%2fbeta.shapeshift.com%2fredirect&scope=users%3aread)
+
+## shapeshift privacy policy
+
+ _last modified: february 2021_
+
+this privacy policy lists the data privacy practices and processes of
+shapeshift global limited, a private limited company formed in the united
+kingdom (âshapeshiftâ, âweâ, âourâ, or âusâ) and includes
+detailed descriptions of the third-party services we utilize to collect and
+process your data. [CLS] [SEP] protection and security of the data of our users is very
+important to shapeshift and our affiliates, as is your trust in us and the
+services we provide. [CLS] [SEP] shapeshift is committed to handling your data responsibly
+and in compliance with all legal requirements. [CLS] [SEP] this policy describes how we
+collect, process, transfer, and secure your personal data when you access and
+use shapeshift.com, shapeshift.io, any of our mobile applications, or any
+other product or service offered by shapeshift (â **services** â). [CLS] [SEP] all
+other aspects of your interaction with our services are governed by our [terms
+of service](https://shapeshift.com/terms-of-service) (â **terms** â). [CLS] [SEP] any
+conflicts between this policy and the terms will be resolved in favor of this
+policy. [CLS] [SEP]  
+  
+ **your acceptance of this policy  
+** by accessing or using the services, are accepting all aspects of this
+policy. [CLS] [SEP] if we require additional or direct consent from you to further process
+your personal information, we will ask for your consent for the collection,
+use, or disclosure of your personal information. [CLS] [SEP] we may provide additional
+"just-in-time" disclosures or information about the data processing practices
+of specific services. [CLS] [SEP] these notices may supplement or clarify our privacy
+practices or may provide you with additional choices about how we process your
+data. [CLS] [SEP] **if you do not agree with or you are not comfortable with any aspect of
+this policy, you should immediately discontinue access or use of our services. [CLS] [SEP]  
+  
+how we may change this policy**  
+shapeshift, in its sole discretion, may modify or update this policy at any
+time, so you should review this page periodically. [CLS] [SEP] if we update this policy,
+the âlast modifiedâ date will list the month when such update(s) were
+made. [CLS] [SEP] if we make any material changes to this policy, we notify our registered
+users via email and summarize those changes. [CLS] [SEP] your continued use of our
+services after any change to this policy is deemed your acceptance of such
+change(s). [CLS] [SEP]  
+  
+ **with whom we share your personal data  
+** in connection with our services, to protect our legitimate interests, to
+fulfill legal requirements, or to perform under agreements we enter into
+(including our terms), we may be required to share your personal data with our
+affiliate shapeshift us, inc., with our business partners (described in more
+detail below), as well as with public authorities in connection with a
+facially valid official law enforcement request. [CLS] [SEP] specifically, such sharing of
+data may be necessary to manage your registration (such as to verify your
+identity), to respond to your inquiries, to execute a transaction you request,
+to provide access to additional information, or to inform you about new
+services or offers. [CLS] [SEP] further, to the extent we are legally required by public
+authorities or courts, we will share your personal data with them or other
+third-parties. [CLS] [SEP] the data sharing may include transfers to companies or
+organizations in countries without an adequate standard of data protection. [CLS] [SEP] in
+these cases, we transfer personal data in accordance with applicable
+provisions on the international transfer of personal data, such as, where
+applicable, the respective provisions of the eu general data protection
+regulation (â **gdpr** â). [CLS] [SEP] **by accessing our services, you expressly
+allow us to export data outside of the jurisdiction in which you reside or are
+located when you utilize the services.**  
+ **  
+** **data we collect and process in order to make the services generally
+available  
+** you can use some aspects of our services, including our websites, and
+obtain information about our services without telling us who you are, however,
+when accessing any website, a user makes a connection with a webserver, which
+automatically logs and stores certain technical data including: that userâs
+internet protocol address (â **ip address** â), the operating system of
+that userâs device, the time the website was accessed, or the web browser
+used to access the site. [CLS] [SEP] logging this data is required in order to make the
+services available to you and other users and ensure the functionality of the
+services. [CLS] [SEP] to the extent we, thereby, process such personal data, we do so
+based on our legitimate interest to bring you the best possible user
+experience and to safeguard the security and stability of our systems. [CLS] [SEP]  
+  
+similarly, our services use google fonts (previously known as google web
+fonts), a library of open-source font families that enhance your browsing
+experience, which are licensed by google llc (â **google** â). [CLS] [SEP] to
+integrate google fonts into our websites, your browser establishes a
+connection to googleâs server and the ip address of your device is
+transmitted to google. [CLS] [SEP] google logs records of font queries and protects this
+data from unauthorized access. [CLS] [SEP] google analyzes aggregated data to optimize
+google fonts and identify which websites use google fonts. [CLS] [SEP] further information
+on google fonts can be found [here](https://fonts.google.com/) and information
+on how google handles personal data can be found
+[here](https://policies.google.com/privacy?hl=en). [CLS] [SEP]  
+  
+we use amazon web services (â **aws** â) to host all of our websites. [CLS] [SEP]
+thus, any data collected by us on any of our websites will be stored on
+awsâs servers in the republic of ireland. [CLS] [SEP] some of this data is either
+processed by us directly or transferred to and processed by one of our third-
+party partners, both of which are described in further detail in this policy. [CLS] [SEP]
+aws provides a list of frequently asked questions about their data privacy
+practices [here](https://aws.amazon.com/compliance/data-privacy-faq/). [CLS] [SEP]  
+  
+ **data we collect and process to provide services to you, specifically  
+** if you interact with registration, application, order, or inquiry forms on
+the services (e.g. [CLS] [SEP] signing up for an account, namely in order to use our
+services; application for becoming an affiliate of shapeshift; or requesting
+support for the services), we will collect and process the information that
+you provide to us providing the services and information about the services to
+you, including providing asset management dashboard services. [CLS] [SEP] this information
+may include your:
+
+  * full name; 
+  * residence address; 
+  * date of birth; 
+  * phone number; 
+  * social security number or other tax identification number; 
+  * details about your government issued identification such as identification number and expiration date or a copy of the identification document; 
+  * e-mail address; and
+  * election to use two-factor authentication (â2faâ) on our services. [CLS] [SEP]
+
+any wallet you connect to our services will provide us with such walletâs:
+extended public keys, which are used to derive public digital wallet addresses
+(known as â **xpubs** â); transaction history; and digital asset balance. [CLS] [SEP]
+you can select the âforget my walletâ option at any time to disconnect
+your wallet (and xpubs) from our services. [CLS] [SEP] some aspects of the services may be
+inaccessible without a connected wallet. [CLS] [SEP]
+
+the collection of words associated with a wallet, commonly known as â **seed
+phrases** â are extremely important because they provide a back-up method to
+access your wallet. [CLS] [SEP] shapeshift does not have access to or store seed phrases
+of its users. [CLS] [SEP] we highly encourage you to write down all seed phrases upon the
+time they are issued to you in connection with a wallet, and thereafter store
+them in a secure location. [CLS] [SEP] shapeshift may not be able to assist you if you
+cannot access your wallet due to a forgotten/lost password or seed phrase. [CLS] [SEP]
+
+if you use the google single-sign-on option (â **sso** â), which is
+denoted by the âsign up with google buttonâ, google will automatically
+provide us with your email address upon your successful sign-in with google. [CLS] [SEP]
+
+where such processing of your personal data is not strictly necessary to
+perform our contractual obligations (such as in connection with providing
+financial services to you) or at your request, we will use this personal data
+based on our legitimate interest to: verify your identity; respond to your
+inquiry; process your registration, applications, or orders; develop, enhance,
+and improve the services to bring you the best possible experience; or to
+safeguard the security and stability of the services. [CLS] [SEP] **â**
+
+ **data we collect and process to analyze and improve the use of the services;
+our use of cookies  
+** based on our legitimate interest to bring you the best possible user
+experience, we collect and process certain data to analyze how our users use
+of the services to gain insight on how we may improve our services. [CLS] [SEP] this data
+may include information on the type of web browser or device you use to access
+the website, the geographical region where you access the website, the date
+and time of your access, and the parts of the website you access. [CLS] [SEP]
+
+we also use â **cookies** â, which are text files that are downloaded to
+your computer or mobile device when you visit a website to analyze the use of
+the website, to optimize our services, and to enable the use of marketing
+tools. [CLS] [SEP] you can prevent the storage of cookies on your device and the
+collection of data. [CLS] [SEP] by adjusting your web-browserâs settings accordingly. [CLS] [SEP]
+note, however, that some functions of the services may be limited or
+unavailable if you disable the storing of cookies. [CLS] [SEP]
+
+â _in connection with the above, we use the following third-party services
+to collect and analyze the data of our users:_ **â**
+
+  * we use **google analytics** , a web analytics service provided by google. [CLS] [SEP] google analytics uses cookies to collect the information required to evaluate your use of our websites to analyze your use of the websites and to provide other services that support our analysis and improvement of the use of the websites, in which we have a legitimate interest. [CLS] [SEP] we use google analytics only with ip address anonymization enabled. [CLS] [SEP] this means that your ip address will be shortened beforehand. [CLS] [SEP] only in exceptional cases will the full ip address be transmitted to a google server in the usa and shortened there. [CLS] [SEP] accordingly, google only stores the information collected via cookies in anonymous form and processes it in aggregated form. [CLS] [SEP] for further information on how google analytics anonymizes ip addresses click[ here](https://support.google.com/analytics/answer/2763052). [CLS] [SEP] additionally, you can prevent google analytics from using your data by installing a browser add-on to disable google analytics[ here](https://tools.google.com/dlpage/gaoptout?hl=en). [CLS] [SEP] lastly, details on data protection and your options in connection with google analytics can be found[ here](https://support.google.com/analytics/answer/6004245?hl=en).â 
+  * we also use the google analytics tool firebase (â **firebase** â) for additional improvements to our services, in which we have a legitimate interest. [CLS] [SEP] firebase specifically tracks user analytics in our mobile app such as where a user is located, the userâs email address associated with their shapeshift account, and the type of device theyâre using to access the services. [CLS] [SEP] we use firebase to analyze our user testing and updating of features. [CLS] [SEP] further information on data protection and your options in connection with firebaseâs services can be found[ here](https://firebase.google.com/support/privacy).â 
+  * we use the web analytics services provided by mixpanel, inc. [CLS] [SEP] (â **mixpanel** â). [CLS] [SEP] mixpanel uses cookies to collect the information that is required to evaluate your use of our websites in order to create reports and to provide other services that support our analysis and improvement of the use of the website, in which we have a legitimate interest. [CLS] [SEP] further information on data protection and your options in connection with the mixpanelâs services can be found[ here](https://mixpanel.com/legal/privacy-policy/).â 
+  * we use cloudflare, inc. [CLS] [SEP] (â **cloudflare** â) in order to identify trusted web traffic (i.e. [CLS] [SEP] to identify individual clients behind a shared ip address and apply security settings on a per-client basis), which assists us in securing our services, in which we have a legitimate interest. [CLS] [SEP] cloudflare uses cookies in order to provide these services. [CLS] [SEP] the cookies do not correspond to any user id in your web application, and do not store any personal data. [CLS] [SEP] further information on data protection and your options in connection with the cloudflareâs services can be found[ here](https://www.cloudflare.com/privacypolicy/) and cloudflareâs cookie policy[ here](https://www.cloudflare.com/cookie-policy/).â 
+  * we use the fullstory, inc. [CLS] [SEP] (â **fullstory** â) for analytics about how you use our services, such as where you click, non-sensitive text you enter on our websites, and mouse movements. [CLS] [SEP] our support team uses fullstory to generate recordings which assists them in recreating customer service issues, the resolution of which we have a legitimate interest in so we can provide the highest quality services possible. [CLS] [SEP] you can read fullstoryâs privacy policy[ here](https://fullstory.com/legal/privacy). [CLS] [SEP] you can opt out of sharing data with fullstory[ here](https://www.fullstory.com/optout/). [CLS] [SEP]
+  * we use segment.io, inc. [CLS] [SEP] (â **segment** â) to track and analyze user data to improve the functionality of our services and the overall user experience. [CLS] [SEP] segment uses cookies and other similar tracking technologies to collect registered usersâ: ip address, geographic area (i.e., not a targeted geolocation), and what language their browser is set to in order to provide these services. [CLS] [SEP] further information on data protection and your options in connection with segmentâs services can be found[ here](https://segment.com/docs/legal/privacy/).â 
+  * we use sharethis, inc (â **sharethis** â) to allow users to share information about our websites more easily via social networks, in which we have a legitimate interest because it helps promote our services. [CLS] [SEP] if you visit a website containing the social plugin of sharethis (â **sharethis plugin** â), your browser establishes a connection to the sharethis server and loads the sharethis plugin and its content on your browser in order to be integrated into the website you visit. [CLS] [SEP] the sharethis plugin uses cookies and informs sharethis that you visited the website. [CLS] [SEP] further data may be collected if you interact with the sharethis plugin (e.g. [CLS] [SEP] by clicking on the dedicated icon or by sharing information via the sharethis plugin). [CLS] [SEP] the information collected by sharethis may include user data (including ip address) and the geographical region as well as technical data. [CLS] [SEP] your browser may also establish a connection to the servers of the social networks implemented in the sharethis plugin. [CLS] [SEP] these social networks may use cookies for their own purposes. [CLS] [SEP] further information on data protection and your options in connection with these social networks can be found in the privacy policies of these social networks. [CLS] [SEP] further information on data protection and your options in connection with sharethisâs services can be found[ here](https://www.sharethis.com/privacy/).â 
+  * we use amplitude, inc. [CLS] [SEP] (â **amplitude** â), which provides analytics and aggregation services, in order to track product usage and investigate user reported bugs on the services. [CLS] [SEP] amplitude automatically collects data about users such as ip address, device type, country, and language. [CLS] [SEP] further information on data protection and your options in connection with amplitudeâs services can be found[ here](https://amplitude.com/privacy). [CLS] [SEP]
+  * we use sprout social, inc. [CLS] [SEP] (â **sprout social** â) to analyze and track data related to our social media posts, namely those occurring on twitter. [CLS] [SEP] sprout social pulls demographic information from social media sites and aggregates it such that any data we receive is anonymized. [CLS] [SEP] any information that sprout social accesses on our behalf is information you have provided the applicable social media platform and may include your social media handle, username, profile picture, biography, follower counts, website url, first and last name (if provided by user), and messages or communications with our customers. [CLS] [SEP] more information about sprout socialâs privacy policy can be found[ here](https://sproutsocial.com/privacy-policy/). [CLS] [SEP] we also encourage you to review the privacy settings and policies of any social media platforms you utilize that may interact with our respective social media accounts. [CLS] [SEP]
+  * we use branch metrics, inc. [CLS] [SEP] (â **branch** â) to collect and analyze data about the source of where a user came to download our mobile app (e.g., which link a user clicked on prior to and which led them to download our mobile app). [CLS] [SEP] this allows us to track and determine the success of our marketing campaigns. [CLS] [SEP] more information on branchâs privacy policies can be found[ here](https://branch.io/policies/#privacy). [CLS] [SEP] **â**
+
+ **data we collect and process in order to communicate with you  
+â**if you provide us with your email address, either through our
+registration process, by inputting it in a field associated with a prompt
+about being added to our mailing list (e.g., âletâs stay in touchâ or
+similar language), or otherwise responding to an express request to contact
+you, we will, based on your consent, send you certain commercial information
+about shapeshift generally, such as our email newsletter, updates on our
+services or other products, blog posts, or other related communications. [CLS] [SEP]
+however, at any time you may opt-out of receiving these communications by
+utilizing the âunsubscribeâ function in any email sent to you by us, or by
+contacting us here with the subject line âunsubscribeâ. [CLS] [SEP] shapeshift does
+not engage in direct marketing. [CLS] [SEP]
+
+in furtherance of the above, we use the following third-party services to
+communicate with our users:
+
+  * for transactional emails, such as account creation emails, password resets, purchase receipts, and other account notifications, we use twilio sendgrid (â **sendgrid** â). [CLS] [SEP] further information on data protection and your options in connection with sendgridâs services can be found[ here](https://www.twilio.com/legal/privacy).â 
+  * to better reach our registered users, we use autopilothq, inc. [CLS] [SEP] (â **autopilot** â), an email automation platform. [CLS] [SEP] through autopilotâs platform, we send emails to our users to convey information related to the services, such as general updates, product or feature additions, other product news, partnerships, event announcements, and survey requests. [CLS] [SEP] autopilot does not sell or otherwise use the information it collects on behalf of shapeshift, except as discussed in this policy. [CLS] [SEP] more information about data protection and your options in connection with autopilotâs services can be found[ here](https://www.autopilothq.com/legal/privacy-policy).â 
+  * we use onesignal, inc. [CLS] [SEP] (â **onesignal** â) for sending push notifications and in-app messages to users. [CLS] [SEP] further information on data protection and your options in connection with onesignalâs services can be found[ here](https://onesignal.com/privacy_policy). [CLS] [SEP]
+  *  **â** we use **google tag manager** to generate tags for our websites and applications. [CLS] [SEP] these tags help us tailor marketing our services to potential new customers. [CLS] [SEP] in connection with google tag manager, we use advertising technologies by **googleâs adwords** platform. [CLS] [SEP] google sets conversion cookies in accordance with our settings in google tag manager. [CLS] [SEP] this is necessary for checking the effectiveness of the respective advertising campaigns. [CLS] [SEP] we have a legitimate interest in this. [CLS] [SEP] we also use google tag manager to set re-targeting tags. [CLS] [SEP] these tags enable us to target users with information about our services when they visit different websites. [CLS] [SEP] for information about your options in connection with cookies, see the section above titled âdata we collect and process to analyze and improve the use of the services; use of cookiesâ. [CLS] [SEP] lastly, for information on how google handles personal data can be found[ here](https://policies.google.com/privacy?hl=en). [CLS] [SEP]
+  * we use zendesk, inc. [CLS] [SEP] (â **zendesk** â) to assist in our responses to queries made by users of the services and provide higher quality customer support to our users, which is necessary to perform our agreements with our users. [CLS] [SEP] zendesk uses cookies as well as the inquiring userâs email address in order to provide these services. [CLS] [SEP] no other information will be shared with zendesk unless specifically provided by the user. [CLS] [SEP] further information on data protection and your options in connection with zendeskâs services can be found[ here](https://www.zendesk.com/company/customers-partners/privacy-policy/) and zendeksâs cookie policy can be found[ here](https://www.zendesk.com/company/customers-partners/cookie-policy/). [CLS] [SEP]
+
+for general information regarding your choices in relation to usage-based
+online advertising, see:[
+http://www.youronlinechoices.com](http://www.youronlinechoices.com/). [CLS] [SEP]
+
+ **data we collect and process due to legal obligations  
+â**in various jurisdictions we are required by law to verify the identity or
+locations of a user before allowing such user to access certain aspects of the
+services, in particular when that user seeks to trade digital assets with us
+directly through the services. [CLS] [SEP] this practice is known as â **know-your-
+customer** â or â **kyc** â (any data collected in connection with kyc,
+such as name, address, phone number, date of birth, government identification
+number, or a copy of a government issued identification, is referred to as â
+**kyc data** â) and accordingly any collection or processing of kyc data is
+done in compliance with a legal obligation. [CLS] [SEP] additionally, shapeshift has a
+commitment to prevent fraud or other criminal activity on the services, thus
+we may contact you directly to better understand information about
+transactions that you initiate on the services. [CLS] [SEP] we use the following third-
+party services to process kyc data consistent with these obligations:
+
+  * we use the idology inc. [CLS] [SEP] (â **idology** â) to verify kyc data provided by users. [CLS] [SEP] further information on data protection and your options in connection with idologyâs services can be found[ here](https://www.idology.com/privacy-policy).â 
+  * we also use onfido limited (â **onfido** â) to verify kyc data provided by users. [CLS] [SEP] further information on data protection and your options in connection with onfidoâs services can be found[ here](https://onfido.com/us/privacy/).â 
+  * we use ivxs uk limited a/k/a complyadvantage (â **complyadvantage** â) to analyze the personal data our registered users provide us for our legal compliance obligations. [CLS] [SEP] further information on data protection and your options in connection with complyadvantageâs services can be found[ here](https://complyadvantage.com/terms-and-conditions/#privacy-cookies). [CLS] [SEP]
+
+â we do not collect or require any kyc data from you trade on a decentralized
+exchange (dex) on our services.â  
+
+â **how we process and protect your personal data; how long we store it  
+â**we collect, process, and protect your personal data responsibly and in
+accordance with applicable laws and best practices. [CLS] [SEP] we apply adequate
+technical and organizational security measures, commensurate with the level of
+known risk, in order to protect the confidentiality and integrity of the
+personal data we collect when using the services. [CLS] [SEP] **specifically,** **we store
+all of the personal data you provide to us in an encrypted fashion and only
+allow access to certain employees or contractors who are required to perform
+the purposes for which you provide the personal data to us or as set forth in
+this policy.** for more information on our encryption and securities practices
+see this[ article](https://shapeshift.com/library/how-shapeshift-protects-
+your-data).â
+
+we store your personal data only for as long as this is necessary: in the case
+of kyc data, we are required by law to store this for 5 years; and for all
+other data, we retain this indefinitely to assist our provision and
+maintenance of our services, however, subject to the prior sentence, you may
+request that we delete your account information by emailing us at the address
+below.â  
+
+â **the rights you have regarding your personal data  
+â**you have certain rights regarding the personal data that we collect and
+process about you. [CLS] [SEP] in particular, generally, you have the following rights:â
+
+  * to access or receive certain information about your personal data we collect in machine readable format;â 
+  * to have your personal data rectified;â 
+  * to object to the processing of your personal data, or to ask us to restrict processing; or
+  * to have us delete your personal data.â 
+
+â if the gdpr applies to you (i.e., if you reside in the eu or are an eu data
+subject) and we collect or process your personal data to perform a contract
+with you (such as providing the service) or based on your consent, you also
+have the right to receive a copy of your personal data for the purpose of
+transferring such data to a third-party.â â
+
+please note, however, that your rights are subject to exceptions or
+derogations. [CLS] [SEP] specifically, we may need to further process and retain your
+personal data to perform a contract with you, to protect our legitimate
+interests (such as the establishment, exercise or defense of legal claims), or
+to comply with legal requirements. [CLS] [SEP] to the extent permitted by law, namely, to
+protect the rights and freedoms of others or to protect our own legitimate
+interests, we may therefore refuse to satisfy your request or we may satisfy
+your request with qualifications. [CLS] [SEP] lastly, you have a right to submit a
+complaint with a competent supervisory authority. [CLS] [SEP]  
+
+ **transfers outside of the uk  
+â**if we transfer any of your data to processors outside of the united
+kingdom, including transfers to affiliates or third-parties included above, we
+will ensure that appropriate safeguards are in place, including european
+commission adequacy decisions and model clauses approved by the european
+commission on the basis of art. [CLS] [SEP] 26(4) of directive 95/46/ec. [CLS] [SEP]  
+
+â **who we are and how to contact us  
+â**shapeshift is the controller in relation to the collection and processing
+of personal data through the services. [CLS] [SEP] to inquire about our collection or
+processing of your personal data, or if you have any questions or concerns
+about this policy, you may contact us via email at privacy@shapeshift.io. [CLS] [SEP] for
+all correspondence, please include any necessary identifying information such
+as your name, return e-mail, and any other information relevant to your
+request. [CLS] [SEP] failure to do so may prevent us from or cause a delay in providing a
+response. [CLS] [SEP] techgdpr dpc gmbh serves as our data protection officer, and it can
+be contacted by email[ here](mailto:shapeshift.dpo@techgdpr.com).â **  
+**
+
+### when we started shapeshift, a future world of natively digital assets was
+very theoretical
+
+\- erik voorhees, shapeshift ceo
+
+![](https://assets-global.website-
+files.com/5cec55545d0f47cfe2a39a8e/5cf18f8c3b29a226ec1b1855_logo-footer.svg)
+
+[![](https://assets-global.website-
+files.com/5cec55545d0f47cfe2a39a8e/5cf5407bee1b5263d29faec4_icon-
+facebook.svg)](https://www.facebook.com/shapeshiftplatform/)[![](https://assets-
+global.website-
+files.com/5cec55545d0f47cfe2a39a8e/5cf5407b3b29a25c28266a74_icon-
+twitter.svg)](https://twitter.com/shapeshift_io)[![](https://assets-
+global.website-
+files.com/5cec55545d0f47cfe2a39a8e/5cf5407b6e00f535f03e274e_icon-
+instagram.svg)](https://www.instagram.com/shapeshift_io/)[![](https://assets-
+global.website-
+files.com/5cec55545d0f47cfe2a39a8e/5cf5407bee1b5204229faec5_icon-
+youtube.svg)](https://www.youtube.com/channel/ucu3mayveb18l2b1gqjo5keq)[![](https://assets-
+global.website-
+files.com/5cec55545d0f47cfe2a39a8e/5d0aadc77ffb575064234d86_icon-
+medium.svg)](https://medium.com/shapeshift-stories)[![](https://assets-
+global.website-
+files.com/5cec55545d0f47cfe2a39a8e/5d0aac4951ff3f603ede0213_icon-
+discord.svg)](https://discordapp.com/invite/dvvkmhb)[![](https://assets-
+global.website-
+files.com/5cec55545d0f47cfe2a39a8e/5dd4f818b1461d5ff1e92ae2_telegram.svg)](https://t.me/shapeshiftofficial)
+
+###### products
+
+[shapeshift platform](https://beta.shapeshift.com)[shapeshift.io
+classic](https://shapeshift.io/)[keepkey](/keepkey)[coincap](https://coincap.io/)[portis](https://www.portis.io/)
+
+###### help
+
+[helpdesk](https://shapeshift.zendesk.com/hc/en-
+us)[api](https://docs.shapeshift.io/?version=latest)cookie preferences[terms
+of service](/terms-of-service)[faq](/faq)[miner fees](/miner-fees)[privacy
+policy](/privacy)[responsible disclosure policy](/responsible-disclosure-
+program)
+
+###### resources
+
+[fox token](/fox-token)[free trading](/commission-free-
+trading)[blog](https://medium.com/shapeshift-stories)[release notes](/release-
+notes-old)[brand assets](/brand-
+assets)[careers](/careers)[leadership](/company)[developer portal](/developer-
+portal)[press](/company/press)
+
+ **â© 2021 shapeshift. [CLS] [SEP] all rights reserved â | â**[ **sitemap**  
+](/sitemap.xml)trezor and the trezor logo are registered trademarks of
+satoshilabs s.r.o. [CLS] [SEP] in the united states and/or other countries. [CLS] [SEP] ledger and the
+ledger logo are registered trademarks of ledger sas societe par actions
+simplifiee in the united states and/or other countries. [CLS] [SEP] shapeshift is not
+associated or affiliated with satoshilabs s.r.o. [CLS] [SEP] or ledger sas societe par
+actions simplifiee, and expressly disclaims any and all rights to any such
+marks. [CLS] [SEP]
+

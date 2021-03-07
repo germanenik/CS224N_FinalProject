@@ -1,0 +1,183 @@
+[![lib.reviews](/static/img/logo.svg)](/ "load frontpage. [CLS] [SEP]
+
+keyboard shortcut: \[modifier key\(s\) + h\]")
+
+  * [sign in](/signin?returnto=/terms "keyboard shortcut: \[modifier key\(s\) + i\]")
+  * [register](/register?returnto=/terms) 
+
+# terms of use
+
+welcome! these terms of use are deliberately written in non-legalistic human-
+friendly language. [CLS] [SEP] please take a spin through them! they're made to make your
+experience better, and to help you understand our philosophy and values. [CLS] [SEP] if
+you think they can be improved, don't hesitate to submit a pull request ([you
+can do that without special
+software](https://help.github.com/articles/editing-files-in-another-user-s-
+repository/)), preferably to the [english
+version](https://github.com/eloquence/lib.reviews/blob/master/views/multilingual/terms-
+en.hbs). [CLS] [SEP]
+
+## privacy
+
+we store visitor logs for up to 90 days. [CLS] [SEP] these logs typically contain one line
+for each request (to a page, image, api, etc.). [CLS] [SEP] each line contains info such
+as ip address, url, user-agent data (your browser and version number), referer
+info, and other standard data your browser sends when you visit any website. [CLS] [SEP]
+
+we may collect additional anonymized logs of user actions (e.g., how many
+people clicked on a certain button), to make the site better. [CLS] [SEP] if we do, we'll
+strive to make that data public, so we're not the only ones who can learn from
+it. [CLS] [SEP]
+
+we use standard methods ([cookies](https://en.wikipedia.org/wiki/http_cookie),
+[web storage](https://en.wikipedia.org/wiki/web_storage)) to store information
+in your browser, such as your user session key, your preferred user interface
+language, or drafts of information you've not published yet. [CLS] [SEP]
+
+we may be required to respond to legal requests for user information (e.g.,
+due to a subpoena). [CLS] [SEP] in those cases, we will notify you wherever reasonable,
+and will resist requests we consider to be invalid. [CLS] [SEP]
+
+we do not monetize our users. [CLS] [SEP] we don't show you advertising or sell or share
+your private data with anyone (with the exception of when legally required to
+do so, as noted above), nor do we use any tracking or analytics services
+operated by third parties. [CLS] [SEP]
+
+## conduct and content policy
+
+we believe that in order to be welcoming and open, and to get good work done,
+our community needs to be healthy and committed to a set of shared, basic
+principles, some of which are articulated in this document as policies. [CLS] [SEP]
+
+other sites sometimes enforce policies only when users complain loudly enough,
+and they leave it to users to create their own "filter bubbles", interacting
+only with other users they can get along with. [CLS] [SEP] we don’t think this leads to
+healthy communities, and we will strive to be consistent in our application of
+these policies. [CLS] [SEP]
+
+our core behavioral policies are as follows:
+
+**harassment:** we take harassment seriously. [CLS] [SEP] that means no personal attacks
+on others, no bullying or threatening, no unwanted sexual advances, and no
+outing or doxxing. [CLS] [SEP]
+
+**hatred:** if you hate black people, white people, asian people, fat people,
+skinny people, women, men, gays, heteros, people who are or aren't
+transgender, jews, muslims, christians, atheists, or any group of sentient
+beings, you'll either have to leave that at the door or we can't have you
+here. [CLS] [SEP] it's fine to criticize ideas, and indeed we support forming groups
+around topics like "anti-nuclear power" or "pro-nuclear power". [CLS] [SEP] but we will
+never tolerate the use of this platform to spread hatred. [CLS] [SEP]
+
+**libel:** since we allow reviews of absolutely anything, there will be
+situations where individuals may be motivated to post false information in
+order to discredit someone or something. [CLS] [SEP] conversely, there will be situations
+where people will be motivated to claim that accurate information is libelous. [CLS] [SEP]
+this is difficult terrain, and we will generally try to resolve these things
+by supporting dialogue and building various trust/reputation features into the
+site. [CLS] [SEP] however, upon reviewing a specific case, moderators may take down a
+review if it is deemed likely to be false and defamatory. [CLS] [SEP]
+
+**self-promotion and spamming:** this isn't a place to promote something
+you've made yourself or are intimately involved with. [CLS] [SEP] we do encourage you to
+add metadata about your product/business/website/etc., as we add support for
+it to the site. [CLS] [SEP] it's also fine to review competitors' products and services,
+as long as you disclose any conflict of interest clearly in your review. [CLS] [SEP] and
+we ask you to respond to reviews which you think are inaccurate. [CLS] [SEP] spamming
+constitutes abuse (see below) and will be dealt with accordingly. [CLS] [SEP]
+
+**abuse:** lib.reviews has a pretty clear and obvious site purpose, and if
+users systematically use it for another purpose or deliberately tamper with
+it, this is grounds for a ban and potentially escalation to legal authorities
+in severe cases. [CLS] [SEP]
+
+**illegal content and behavior:** you can't post any content that would be
+illegal to distribute under united states law, and we may be legally and
+morally obligated to report such uses to the authorities in certain cases. [CLS] [SEP] in
+the case of sexually explicit content, we will draw the line more strictly
+than the law does: any sexually explicit content involving minors is off-
+limits. [CLS] [SEP] similarly, you're not permitted to perform actions on the site that
+are illegal under united states law. [CLS] [SEP]
+
+**reviews of illegal content, products or services:** reviewing products or
+services that clearly target a specific jurisdiction where they're legal
+(e.g., a marijuana dispensary in a location that permits such sales) is
+completely fine. [CLS] [SEP] for online content that's illegal in the us (e.g., a warez
+site), or services that are illegal where they're advertised (e.g., "escort"
+services in most us states), you're not allowed to post reviews since they
+could be seen as wayfinders for breaking the law. [CLS] [SEP] at the same time, in legally
+ambiguous cases (e.g., a controversial website like wikileaks), we will aim to
+err on the side of free speech. [CLS] [SEP]
+
+**sexually explicit content, shocking content:** we strive to serve people of
+all ages, which means that we want to identify content targeting adults
+clearly as such. [CLS] [SEP] so, if you feel sexually explicit content not otherwise
+forbidden in this document is appropriate in a given context, we'll ask you to
+flag it as such (or moderators may do it for you). [CLS] [SEP] we may also flag content
+that is graphic/shocking in other ways. [CLS] [SEP]
+
+**humans are not products:** we don't permit reviews of individual human
+beings (reviewing business entities operated by only one person is fine). [CLS] [SEP] so
+you can't write a review of your neighbor, or your teacher, or your boss. [CLS] [SEP] this
+is because we believe it's very difficult to protect people's dignity and
+reputation once you cross that line. [CLS] [SEP]
+
+**trolling:** we don't tolerate users who get joy out of making others
+miserable, wasting other people's time, or causing disruption for its own
+sake. [CLS] [SEP] such users may attempt to follow the letter of the above policies, while
+violating their spirit. [CLS] [SEP] this paragraph is here to say clearly that in such
+cases, the moderators have discretion to ban users. [CLS] [SEP]
+
+if you violate our rules, the site moderators (most likely volunteers like
+yourself) may temporarily or permanently ban you, or may temporarily suspend
+specific privileges. [CLS] [SEP] we will try to be consistent and fair, but we also give
+moderators a degree of discretion in enforcing these rules. [CLS] [SEP] over time we may
+reference some precedent decisions as appropriate (you may consider this a
+[common law](https://en.wikipedia.org/wiki/common_law) approach to policy). [CLS] [SEP]
+
+many sites include terms about data download and data mining as well, limiting
+download, scraping, and other data re-use. [CLS] [SEP] in contrast, the information
+published on lib.reviews is inteded to be re-used! as long as you follow the
+license (see below), don't use data for purposes otherwise forbidden in this
+document, and don't make excessive use of our system resources, you're okay. [CLS] [SEP]
+:-)
+
+## licensing
+
+the name "lib.reviews" references the [gratis versus
+libre](https://en.wikipedia.org/wiki/gratis_versus_libre) distinction. [CLS] [SEP] the
+work we do here is intended to be shared and built upon, and to be made
+available to the world indefinitely. [CLS] [SEP] as a consequence, whether explicitly
+stated in every context or not, by publishing information through this site
+you agree to do it under appropriate [free
+licenses](http://freedomdefined.org/definition). [CLS] [SEP] we've settled on the
+following licenses:
+
+  * the text of reviews and posts (comments, blog posts, etc.) published through this platform is made available under the [creative commons attribution/share-alike license](https://creativecommons.org/licenses/by-sa/4.0/), the license used by [wikipedia](https://www.wikipedia.org/). [CLS] [SEP] that means that if you want to re-use this content, you have to credit the authors by username next to their specific contributions. [CLS] [SEP] we recommend linking the name to their profile on this site, so the attribution is exact even in cases of pseudonyms or common names. [CLS] [SEP] (beyond this, you're not required to mention lib.reviews itself, though it's nice if you do!) if you modify the content, your modifications/additions need to also be made available under this license, a principle known as copyleft. [CLS] [SEP] 
+  * as we add metadata to the things that are being reviewed (e.g., the hours during which a business is open), that data is available primarily under the [cc-0](https://creativecommons.org/publicdomain/zero/1.0/) license (the license used by [wikidata](https://wikidata.org/); equivalent to the public domain -- "do whatever you want with this data"). [CLS] [SEP] the exception is data imported from external sources under other free licenses that may require attribution and/or copyleft. [CLS] [SEP] in those cases, specific licensing requirements will be noted in both human-readable and machine-readable form. [CLS] [SEP] 
+  * the software (including static text pages like this one which are part of the software) is also under the cc-0 license, except for external open source libraries that may be under different licenses, which will be clearly indicated in the source code repository. [CLS] [SEP] 
+users may include images and other media in their reviews and posts, and those
+images may not always be their own work. [CLS] [SEP] given the noncommercial nature of
+this site, we consider many typical uses of such external web content [fair
+use](https://en.wikipedia.org/wiki/fair_use), but we will generally take down
+content if a copyright owner makes a plausible claim. [CLS] [SEP] if you intend to make
+commercial use of content on this site, you may need to apply additional
+scrutiny to ensure that fair use still applies. [CLS] [SEP]
+
+## version history
+
+  * august 1, 2016: first version posted
+
+language:  bn - bengali (বাংলা) de - german (deutsch) en - english eo -
+esperanto (esperanto) es - spanish (español) fr - french (français) hu -
+hungarian (magyar) it - italian (italiano) ja - japanese (日本語) mk - macedonian
+(македонски) nl - dutch (nederlands) pt - brazilian portuguese (português do
+brasil) pt-pt - european portuguese (português europeu) sv - swedish (svenska)
+zh - simplified chinese (简体中文) zh-hant - traditional chinese (繁體中文)  change
+language
+
+lib.reviews respects your freedom:  
+[terms of use](/terms) - [source
+code](https://github.com/eloquence/lib.reviews) - [database
+downloads](/static/downloads) - [faq](/faq)
+
