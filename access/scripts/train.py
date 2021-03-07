@@ -7,7 +7,7 @@
 
 from access.fairseq.main import fairseq_train_and_evaluate
 from access.resources.prepare import prepare_wikilarge, prepare_turkcorpus
-
+import random
 
 if __name__ == '__main__':
     print('Training a model from scratch')
@@ -17,12 +17,12 @@ if __name__ == '__main__':
         'arch': 'transformer',
         'warmup_updates': 4000,
         'parametrization_budget': 256,
-        'beam': 8,
+        'beam': random.randint(2, 10),
         'dataset': 'simplification',
-        'dropout': 0.7,
+        'dropout': random.random(),
         'fp16': False,
-        'label_smoothing': 0.54,
-        'lr': 0.0011,
+        'label_smoothing': random.random(),
+        'lr': random.random() * 10^(random.randint(-5, 0)),
         'lr_scheduler': 'fixed',
         'max_epoch': 100,
         'max_tokens': 5000,
@@ -30,16 +30,16 @@ if __name__ == '__main__':
         'optimizer': 'adam',
         'preprocessors_kwargs': {
             'LengthRatioPreprocessor': {
-                'target_ratio': 0.5  # Default initial value
+                'target_ratio': random.random()  # Default initial value
             },
             'LevenshteinPreprocessor': {
-                'target_ratio': 0.5  # Default initial value
+                'target_ratio': random.random()  # Default initial value
             },
             'WordRankRatioPreprocessor': {
-                'target_ratio': 0.5  # Default initial value
+                'target_ratio': random.random()  # Default initial value
             },
             'DependencyTreeDepthRatioPreprocessor': {
-                'target_ratio': 0.5  # Default initial value
+                'target_ratio': random.random()  # Default initial value
             },
             'SentencePiecePreprocessor': {
                 'vocab_size': 10000
