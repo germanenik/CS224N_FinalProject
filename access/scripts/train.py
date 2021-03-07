@@ -22,7 +22,7 @@ if __name__ == '__main__':
         'dropout': random.random(),
         'fp16': False,
         'label_smoothing': random.random(),
-        'lr': random.random() * (10^(random.randint(-5, 0))),
+        'lr': random.random() * (10.0 ** random.randint(-5, -1)),
         'lr_scheduler': 'fixed',
         'max_epoch': 100,
         'max_tokens': 5000,
