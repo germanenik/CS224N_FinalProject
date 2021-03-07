@@ -19,10 +19,10 @@ if __name__ == '__main__':
         'parametrization_budget': 256,
         'beam': 8,
         'dataset': 'simplification',
-        'dropout': 0.2,
+        'dropout': 0.7,
         'fp16': False,
         'label_smoothing': 0.54,
-        'lr': 0.00011,
+        'lr': 0.0011,
         'lr_scheduler': 'fixed',
         'max_epoch': 100,
         'max_tokens': 5000,
@@ -30,16 +30,16 @@ if __name__ == '__main__':
         'optimizer': 'adam',
         'preprocessors_kwargs': {
             'LengthRatioPreprocessor': {
-                'target_ratio': 0.8  # Default initial value
+                'target_ratio': 0.5  # Default initial value
             },
             'LevenshteinPreprocessor': {
-                'target_ratio': 0.8  # Default initial value
+                'target_ratio': 0.5  # Default initial value
             },
             'WordRankRatioPreprocessor': {
-                'target_ratio': 0.8  # Default initial value
+                'target_ratio': 0.5  # Default initial value
             },
             'DependencyTreeDepthRatioPreprocessor': {
-                'target_ratio': 0.8  # Default initial value
+                'target_ratio': 0.5  # Default initial value
             },
             'SentencePiecePreprocessor': {
                 'vocab_size': 10000

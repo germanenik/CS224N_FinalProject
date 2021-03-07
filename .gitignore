@@ -154,3 +154,6 @@ dmypy.json
 ehthumbs.db
 Thumbs.db
 access/model
+access/venv
+access/experiments
+access/tensorboard
