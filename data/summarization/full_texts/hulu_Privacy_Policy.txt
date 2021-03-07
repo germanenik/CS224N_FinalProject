@@ -67,7 +67,7 @@ back to top
 ## 2\. [CLS] [SEP] information we collect
 
 hulu may collect the following information from or about you, including
-personal information, from the following sources:
+personal information, from the following sources: [CLS] [SEP]
 
 information you provide to us. [CLS] [SEP] we collect information you provide to us. [CLS] [SEP] for
 instance, when you register to use the hulu services, we may collect
@@ -277,9 +277,9 @@ effectiveness of their campaigns. [CLS] [SEP]
 third parties when required by law or when necessary to protect your or our
 rights. [CLS] [SEP] in some instances, we may disclose information from or about you
 without providing you a choice. [CLS] [SEP] for example, we may disclose your information
-in the following ways: to protect the legal rights of hulu and our affiliates
-or partners; to protect the safety and security of users of the hulu services
-or third parties; to enforce our terms of use; to protect against fraud; and
+in the following ways: [CLS] [SEP] to protect the legal rights of hulu and our affiliates
+or partners; [CLS] [SEP] to protect the safety and security of users of the hulu services
+or third parties; [CLS] [SEP] to enforce our terms of use; to protect against fraud; [CLS] [SEP] and
 to comply with or respond to the law or legal process or a request for
 cooperation by a government entity, whether or not legally required. [CLS] [SEP]
 

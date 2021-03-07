@@ -209,7 +209,7 @@ we collect may include:
   * purchase activity
   * people with whom you communicate or share content
   * activity on third-party sites and apps that use our services
-  * chrome browsing history you’ve [synced with your google account](privacy#footnote-chrome-sync)
+  * chrome browsing history you’ve [synced with your google account](privacy#footnote-chrome-sync) [CLS] [SEP]
 
 if you use our [services to make and receive calls or send and receive
 messages](privacy#footnote-calls-messages), we may collect call and message
@@ -686,7 +686,7 @@ your information. [CLS] [SEP]
 we regularly review this privacy policy and make sure that we process your
 information in ways that comply with it. [CLS] [SEP]
 
-## data transfers
+## data transfers [CLS] [SEP]
 
 we maintain [servers around the world](privacy#footnote-servers) and your
 information may be processed on servers located outside of the country where

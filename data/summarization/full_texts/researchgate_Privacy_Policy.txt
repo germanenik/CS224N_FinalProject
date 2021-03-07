@@ -676,11 +676,11 @@ advertisers or ad networks may collect this information through the use of
 tracking technologies like browser cookies and web beacons (see explanations
 above), and they may use a single tracking technology or multiple tracking
 technologies at the same time. [CLS] [SEP]  
-the information collected may be used to:
+the information collected may be used to: [CLS] [SEP]
 
-    * measure how effective advertisements are;
+    * measure how effective advertisements are; [CLS] [SEP]
 
-    * offer you targeted advertising in order to personalize your experience by showing you advertisements that are more relevant to you; and/or
+    * offer you targeted advertising in order to personalize your experience by showing you advertisements that are more relevant to you; [CLS] [SEP] and/or 
 
     * undertake web analytics to analyze traffic and other user activity to improve your experience. [CLS] [SEP]
 

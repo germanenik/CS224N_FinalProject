@@ -59,7 +59,7 @@ are not defined in this privacy policy have the meaning given to them in our
 if you are a california resident, please see the section below titled
 additional information for california residents. [CLS] [SEP]
 
- **the information we collect**
+ **the information we collect** [CLS] [SEP]
 
 we collect information directly from individuals, from third parties, and
 automatically through the quora platform. [CLS] [SEP]
@@ -137,7 +137,7 @@ your choices related to advertising and personalization. [CLS] [SEP] we may also
 information about you from third parties, such as other users, partners
 (including ad partners), or our affiliated companies. [CLS] [SEP]
 
- **how we use your information**
+ **how we use your information** [CLS] [SEP]
 
 we do not sell your personal information – such as your name and contact
 information – to third parties to use for their own marketing purposes. [CLS] [SEP] quora

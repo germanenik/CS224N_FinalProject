@@ -296,29 +296,29 @@ incorporated in or accompanying the services. [CLS] [SEP]
  **7. [CLS] [SEP] _restrictions on use of services._** the rights granted to you in this
 agreement are subject to the following restrictions: (a) you shall not
 license, sell, rent, lease, transfer, assign, reproduce, distribute, host or
-otherwise commercially exploit the services or any portion of the services;
+otherwise commercially exploit the services or any portion of the services; [CLS] [SEP]
 (b) you shall not frame or use framing techniques to enclose any trademark,
-logo or services (including images, text, page layout or form) of meredith;
+logo or services (including images, text, page layout or form) of meredith; [CLS] [SEP]
 (c) you shall not use any metatags or other "hidden text" using meredith's
-name or trademarks; (d) you shall not modify, translate, adapt, merge, make
+name or trademarks; [CLS] [SEP] (d) you shall not modify, translate, adapt, merge, make
 derivative works of, disassemble, decompile, reverse compile or reverse
 engineer any part of the services except to the extent the foregoing
-restrictions are expressly prohibited by applicable law; (e) you shall not use
+restrictions are expressly prohibited by applicable law; [CLS] [SEP] (e) you shall not use
 any manual or automated software, devices or other processes (including but
 not limited to spiders, robots, scrapers, crawlers, avatars, data mining tools
 or the like) to "scrape" or download data from the services (except that we
 grant the operators of public search engines revocable permission to use
 spiders to copy materials from the website for the sole purpose of and solely
 to the extent necessary for creating publicly available searchable indices of
-the materials, but not caches or archives of such materials); (f) you shall
+the materials, but not caches or archives of such materials); [CLS] [SEP] (f) you shall
 not access the services to build a similar or competitive website, application
-or service; (g) except as expressly stated herein, no part of the services may
+or service; [CLS] [SEP] (g) except as expressly stated herein, no part of the services may
 be copied, reproduced, distributed, republished, downloaded, displayed, posted
-or transmitted in any form or by any means; (h) you shall not remove or
+or transmitted in any form or by any means; [CLS] [SEP] (h) you shall not remove or
 destroy any copyright notices or other proprietary markings contained on or in
-the services; (i) you shall not interfere with or attempt to interfere with
+the services; [CLS] [SEP] (i) you shall not interfere with or attempt to interfere with
 the proper functioning of the services or use the services in any way not
-expressly permitted by this agreement; and (j) you shall not attempt to harm
+expressly permitted by this agreement; [CLS] [SEP] and (j) you shall not attempt to harm
 our services, including but not limited to, by violating or attempting to
 violate any related security features, introducing viruses, worms, or similar
 harmful code into the services, or interfering or attempting to interfere with
@@ -337,14 +337,14 @@ representations with respect to them, or any content, products or services
 accessible through such links. [CLS] [SEP] your use of all third-party links is at your
 own risk. [CLS] [SEP]  
   
- **9\. [CLS] [SEP] indemnification.** you agree to indemnify and hold meredith, its
+ **9\. [CLS] [SEP] indemnification.** [CLS] [SEP] you agree to indemnify and hold meredith, its
 corporate parents, subsidiaries, and affiliates, and the officers, directors,
 employees, agents, representatives, partners and licensors of each
 (collectively, the " **meredith parties** ") harmless from any damages,
 losses, costs, liabilities and expenses (including reasonable attorneys' fees)
-relating to or arising out of any claims concerning: (a) your content; (b)
-your misuse of the services; (c) your violation of this agreement; (d) your
-violation of any rights of another party, including any users; or (e) your
+relating to or arising out of any claims concerning: [CLS] [SEP] (a) your content. [CLS] [SEP] (b)
+your misuse of the services. [CLS] [SEP] (c) your violation of this agreement. [CLS] [SEP] (d) your
+violation of any rights of another party, including any users. [CLS] [SEP] or (e) your
 violation of any applicable laws, rules or regulations. [CLS] [SEP] meredith reserves the
 right, at its own cost, to assume the exclusive defense and control of any
 matter otherwise subject to indemnification by you, in which event you will

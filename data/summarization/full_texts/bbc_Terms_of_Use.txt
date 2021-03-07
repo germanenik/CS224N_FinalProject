@@ -546,7 +546,7 @@ but we can't guarantee it. [CLS] [SEP]
 we usually show your name alongside your creation. [CLS] [SEP] we'll try to remove it if
 you ask us to, but this isn't always possible. [CLS] [SEP]
 
-**g. [CLS] [SEP] moral rights**
+**g. [CLS] [SEP] moral rights
 
 when you upload a creation, you give up your moral rights to it. [CLS] [SEP] that means we
 can:

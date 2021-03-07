@@ -1,1 +1,4 @@
-we implement appropriate technical and organisational measures to help protect the security of your personal data. [CLS] [SEP] however, please note that no system is ever completely secure. [CLS] [SEP] we share your personal data when we in good faith believe it is necessary for us to do so in order to comply with a legal obligation under applicable law, or respond to valid legal process, such as a search warrant, a court order, or a subpoena. [CLS] [SEP] 
+we implement
+appropriate technical and organisational measures to help protect the security
+of your personal data; however, please note that no system is ever completely
+secure. [CLS] [SEP] however, please note that no system is ever completely secure. [CLS] [SEP] we share your personal data when we in good faith believe it is necessary for us to do so in order to comply with a legal obligation under applicable law, or respond to valid legal process, such as a search warrant, a court order, or a subpoena. [CLS] [SEP] 

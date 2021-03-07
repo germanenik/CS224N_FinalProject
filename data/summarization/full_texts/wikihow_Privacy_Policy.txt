@@ -276,19 +276,19 @@ discretion to remove any user content that is shared via the service. [CLS] [SEP
 you agree not to post user content that: (i) may create a risk of harm, loss,
 physical or mental injury, emotional distress, death, disability,
 disfigurement, or physical or mental illness to you, to any other person, or
-to any animal; (ii) may create a risk of any other loss or damage to any
-person or property; (iii) seeks to harm or exploit children by exposing them
+to any animal; [CLS] [SEP] (ii) may create a risk of any other loss or damage to any
+person or property; [CLS] [SEP] (iii) seeks to harm or exploit children by exposing them
 to inappropriate content, asking for personally identifiable details or
-otherwise; (iv) may constitute or contribute to a crime or tort; (v) contains
+otherwise; [CLS] [SEP] (iv) may constitute or contribute to a crime or tort; [CLS] [SEP] (v) contains
 any information or content that we deem to be unlawful, harmful, abusive,
 racially or ethnically offensive, defamatory, infringing, invasive of personal
 privacy or publicity rights, harassing, humiliating to other people (publicly
 or otherwise), libelous, threatening, profane, obscene, or otherwise
-objectionable; (vi) contains any information or content that is illegal
+objectionable; [CLS] [SEP] (vi) contains any information or content that is illegal
 (including, without limitation, the disclosure of insider information under
-securities law or of another party’s trade secrets); (vii) contains any
+securities law or of another party’s trade secrets); [CLS] [SEP] (vii) contains any
 information or content that you do not have a right to make available under
-any law or under contractual or fiduciary relationships; or (viii) contains
+any law or under contractual or fiduciary relationships; [CLS] [SEP] or (viii) contains
 any information or content that you know is not correct and current. [CLS] [SEP] you agree
 that any user content that you post does not and will not violate third-party
 rights of any kind, including without limitation any intellectual property
@@ -449,7 +449,7 @@ you acknowledge that apple has no obligation whatsoever to furnish any
 maintenance and support services with respect to the itunes-sourced software. [CLS] [SEP]
 in the event of any failure of the itunes-sourced software to conform to any
 applicable warranty, you may notify apple, and apple will refund the purchase
-price for the itunes-sourced software to you; to the maximum extent permitted
+price for the itunes-sourced software to you; [CLS] [SEP] to the maximum extent permitted
 by applicable law, apple will have no other warranty obligation whatsoever
 with respect to the itunes-sourced software, and any other claims, losses,
 liabilities, damages, costs or expenses attributable to any failure to conform

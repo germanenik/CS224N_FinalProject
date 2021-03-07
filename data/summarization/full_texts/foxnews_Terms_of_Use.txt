@@ -240,7 +240,7 @@ information you submit to create an account must be accurate and kept up to
 date. [CLS] [SEP] your failure to do so will constitute a breach of the agreement, which
 may result in immediate termination of your account. [CLS] [SEP] you may not (i) select or
 use as a username a name of another person with the intent to impersonate that
-person; or (ii) use as a username a name subject to any rights of another
+person; [CLS] [SEP] or (ii) use as a username a name subject to any rights of another
 person without appropriate authorization. [CLS] [SEP] company reserves the right to refuse
 registration of, or cancel, a username, in its sole discretion. [CLS] [SEP] if we cancel
 your registration, you agree that you will not create another one or otherwise
@@ -449,26 +449,26 @@ services. [CLS] [SEP] if you do so, you acknowledge you will have caused substan
 to company, but that the amount of harm would be extremely difficult to
 measure. [CLS] [SEP] as a reasonable estimation of such harm, and by way of liquidated
 damages and not as a penalty, you agree to pay company $50 for each actual or
-intended recipient of such communication;
+intended recipient of such communication; [CLS] [SEP]
 
 \- solicit, collect or request any personal information for commercial or
-unlawful purposes;
+unlawful purposes; [CLS] [SEP]
 
 \- post, upload or otherwise transmit an image or video of another person
-without that person's consent;
+without that person's consent; [CLS] [SEP]
 
 \- engage in commercial activity (including but not limited to advertisements
 or solicitations of business; sales; contests; sweepstakes; creating,
 recreating, distributing or advertising an index of any significant portion of
 the company content; or building a business using the company content) without
-company's prior written consent;
+company's prior written consent; [CLS] [SEP]
 
 \- using technology or other means to access, index, frame, or link to the
 company sites (including the content) that is not authorized by the company
 sites (including by removing disabling, bypassing, or circumventing any
 content protection or access control mechanisms intended to prevent the
 unauthorized download, stream capture, linking, framing, reproduction, access
-to, or distribution of company content);
+to, or distribution of company content); [CLS] [SEP]
 
 \- accessing the company sites (including the content) through any automated
 means, including "robots," "spiders," or "offline readers" (other than by
@@ -476,12 +476,12 @@ individually performed searches on publicly accessible search engines for the
 sole purpose of, and solely to the extent necessary for, creating publicly
 available search indices - but not caches or archives - of the company sites
 and excluding those search engines or indices that host, promote, or link
-primarily to infringing or unauthorized content;
+primarily to infringing or unauthorized content; [CLS] [SEP]
 
-\- use the company services to advertise or promote competing services;
+\- use the company services to advertise or promote competing services; [CLS] [SEP]
 
 \- use the company services in a manner inconsistent with any and all
-applicable law;
+applicable law; [CLS] [SEP]
 
 \- attempt, facilitate, induce, aid and abet, or encourage others to do any of
 the foregoing. [CLS] [SEP]

@@ -125,9 +125,9 @@ policy. [CLS] [SEP]
   
 
 **because we believe that you shouldn’t have to provide personal information
-to participate in the free knowledge movement, you may:**
+to participate in the free knowledge movement, you may: [CLS] [SEP]
 
-  * read, edit, or use any wikimedia site without registering an account. [CLS] [SEP]
+  * read, edit, or use any wikimedia site without registering an account; [CLS] [SEP]
   * register for an account without providing an email address or real name. [CLS] [SEP]
 
 **because we want to understand how wikimedia sites are used so we can make
@@ -658,7 +658,7 @@ more on locally stored data
   
 ---  
   
-locally stored data, javascript, and tracking pixels help us do things like:
+locally stored data, javascript, and tracking pixels help us do things like: [CLS] [SEP]
 
   * provide you with a customizable experience, such as using cookies to know your language preference, to remember the user preferences you set so we can provide you with the customized look and feel that you want, and to tell you about interesting wikimedia issues and events in your area. [CLS] [SEP]
   * deliver more relevant content to you faster. [CLS] [SEP] for example, we use local storage to store your most recently read articles directly on your device, so they can be retrieved quickly. [CLS] [SEP] also, we use cookies to learn about the topics searched so that we can optimize the search results we deliver to you. [CLS] [SEP]
@@ -1126,7 +1126,7 @@ up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/wwc_arrow_up.png)](/wiki/p
 
 ### changes to this privacy policy
 
-substantial changes to this policy will not be made until after a public
+[CLS] [SEP] substantial changes to this policy will not be made until after a public
 comment period of at least 30 days. [CLS] [SEP]
 
 because things naturally change over time and we want to ensure our privacy
@@ -1170,8 +1170,7 @@ up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/wwc_arrow_up.png)](/wiki/p
 "privacy policy#top")
 
 * * *
-
-**this version was approved by[katherine maher](/wiki/user:katherine_\(wmf\)
+[CLS] [SEP] this version was approved by[katherine maher] [CLS] [SEP] (/wiki/user:katherine_\(wmf\)
 "user:katherine \(wmf\)") on may 17, 2018, pursuant to the [delegation of
 policy-making authority](/wiki/resolution:delegation_of_policy-
 making_authority "resolution:delegation of policy-making authority") by the

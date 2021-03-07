@@ -640,14 +640,14 @@ when you submit any ideas, suggestions, documents and/or proposals relating to
 the service (or other products or services) to evernote through the “contact
 us,” user forum or support interfaces or through any other channel or
 mechanism (collectively, “contributions”), you acknowledge and agree that: (i)
-your contributions do not contain confidential or proprietary information;
+your contributions do not contain confidential or proprietary information. [CLS] [SEP]
 (ii) evernote is not under any obligation of confidentiality, express or
-implied, with respect to the contributions; (iii) evernote shall be entitled
+implied, with respect to the contributions. [CLS] [SEP] (iii) evernote shall be entitled
 to use or disclose (or choose not to use or disclose) such contributions for
-any purpose, in any way; (iv) evernote may have something similar to the
-contributions already under consideration or in development; (v) your
+any purpose, in any way. [CLS] [SEP] (iv) evernote may have something similar to the
+contributions already under consideration or in development. [CLS] [SEP] (v) your
 contributions automatically become the property of evernote without any
-obligation of evernote to you; and (vi) you are not entitled to any
+obligation of evernote to you. [CLS] [SEP] and (vi) you are not entitled to any
 accounting, compensation or reimbursement of any kind from evernote under any
 circumstances. [CLS] [SEP]
 
@@ -703,7 +703,7 @@ expressly understand and agree that:
 
   1. [CLS] [SEP] your use of the service and the purchase and use of any services are all at your sole risk. [CLS] [SEP]
   2. [CLS] [SEP] the service is provided on an “as is” and “as available” basis. [CLS] [SEP] to the maximum extent permitted by law, evernote expressly disclaims all warranties and conditions of any kind, whether express or implied, including, but not limited to the implied warranties and conditions of merchantability, fitness for a particular purpose and non-infringement. [CLS] [SEP]
-  3. [CLS] [SEP] evernote does not warrant that (i) the service will meet all of your requirements; (ii) the service will be uninterrupted, timely, secure or error-free; or (iii) all errors in the software or service will be corrected. [CLS] [SEP]
+  3. [CLS] [SEP] evernote does not warrant that (i) the service will meet all of your requirements. [CLS] [SEP] (ii) the service will be uninterrupted, timely, secure or error-free. [CLS] [SEP] or (iii) all errors in the software or service will be corrected. [CLS] [SEP]
   4. [CLS] [SEP] any material downloaded or otherwise obtained through the use of the service is done at your own discretion and risk and you are solely responsible for any damage to your computer or other device or loss of data resulting from the download or use of any such material. [CLS] [SEP]
   5. [CLS] [SEP] no advice or information, whether oral or written, obtained by you from evernote or through or from the service shall create any warranty not expressly stated in these terms of service. [CLS] [SEP]
 

@@ -312,14 +312,14 @@ fair use of w3schools also includes:
 
 ## using w3schools in teaching
 
-fair use includes using copyrighted material in teaching under this balancing:
+fair use includes using copyrighted material in teaching under this balancing: [CLS] [SEP]
 
-### favorable use:
+### favorable use: [CLS] [SEP]
 
   * copying examples and code snippets for non-profit teaching and research. [CLS] [SEP]
   * copying small quantities, appropriate for classroom teaching. [CLS] [SEP]
 
-### not favorable use:
+### not favorable use: [CLS] [SEP]
 
   * copying for profitable or commercial use. [CLS] [SEP]
   * massive or verbatim copying. [CLS] [SEP]
@@ -415,7 +415,7 @@ and contact you as needed. [CLS] [SEP]
 
 ## optional tools
 
-we may provide you with access to third-party tools over which we neither
+[CLS] [SEP] we may provide you with access to third-party tools over which we neither
 monitor nor have any control nor input. [CLS] [SEP]  you acknowledge and agree that we
 provide access to such tools "as is" and "as available" without any
 warranties, representations or conditions of any kind and without any
@@ -518,19 +518,19 @@ modified or updated. [CLS] [SEP]
 in addition to other prohibitions as set forth in the terms of service, you
 are prohibited from using the site or its content:
 
-(a) for any unlawful purpose; (b) to solicit others to perform or participate
-in any unlawful acts; (c) to violate any international, federal, provincial or
-state regulations, rules, laws, or local ordinances; (d) to infringe upon or
+(a) for any unlawful purpose; [CLS] [SEP] (b) to solicit others to perform or participate
+in any unlawful acts; [CLS] [SEP] (c) to violate any international, federal, provincial or
+state regulations, rules, laws, or local ordinances; [CLS] [SEP] (d) to infringe upon or
 violate our intellectual property rights or the intellectual property rights
-of others; (e) to harass, abuse, insult, harm, defame, slander, disparage,
+of others; [CLS] [SEP] (e) to harass, abuse, insult, harm, defame, slander, disparage,
 intimidate, or discriminate based on gender, sexual orientation, religion,
-ethnicity, race, age, national origin, or disability; (f) to submit false or
-misleading information; (g) to upload or transmit viruses or any other type of
+ethnicity, race, age, national origin, or disability; [CLS] [SEP] (f) to submit false or
+misleading information; [CLS] [SEP] (g) to upload or transmit viruses or any other type of
 malicious code that will or may be used in any way that will affect the
 functionality or operation of the service or of any related website, other
-websites, or the internet; (h) to collect or track the personal information of
-others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for
-any obscene or immoral purpose; or (k) to interfere with or circumvent the
+websites, or the internet; [CLS] [SEP] (h) to collect or track the personal information of
+others; [CLS] [SEP] (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for
+any obscene or immoral purpose; [CLS] [SEP] or (k) to interfere with or circumvent the
 security features of the service or any related website, other websites, or
 the internet. [CLS] [SEP]
 

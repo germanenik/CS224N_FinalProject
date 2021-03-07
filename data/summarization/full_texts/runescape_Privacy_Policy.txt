@@ -5,9 +5,10 @@
 menu [english](/en-gb/terms/privacy) [français](/fr-fr/terms/privacy)
 [deutsch](/de-de/terms/privacy) [português do brasil](/pt-br/terms/privacy)
 
+[CLS] [SEP]
 # privacy policy
 
-version 0.6
+version 0.6 [CLS] [SEP]
 
 date june 25 2020
 
@@ -135,7 +136,7 @@ details, will be collected and processed by our external payment service
 provider. [CLS] [SEP] we will not have access, collect, use, store or transfer your
 financial data. [CLS] [SEP]
 
-we also collect, use and share **aggregated data** such as statistical or
+we also collect, use and share aggregated data such as statistical or
 demographic data for any purpose. [CLS] [SEP] aggregated data may be derived from your
 personal data but is not considered personal data in law as this data does
 **not** directly or indirectly reveal your identity. [CLS] [SEP] for example, we may
