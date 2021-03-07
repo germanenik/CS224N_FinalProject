@@ -1,0 +1,631 @@
+[ ![ripe ncc network
+coordination](https://www.ripe.net/++resource++ripe.plonetheme.images/ripe_ncc_logo.png)](https://www.ripe.net
+"home")
+
+  * ripe database (whois)
+  * website
+
+__
+
+search site
+
+__
+
+only in current section
+
+by searching you explicitly express your agreement with the ripe database
+terms and conditions
+
+__
+
+  * [ manage ips and asns __](https://www.ripe.net/manage-ips-and-asns)
+
+we distribute internet number resources to our members and provide tools to
+help them manage their allocations and assignments. [CLS] [SEP]
+
+more information about [ manage ips and asns __](https://www.ripe.net/manage-
+ips-and-asns)
+
+[ipv4](https://www.ripe.net/manage-ips-and-asns/ipv4)
+
+    * [request /24 allocation](https://www.ripe.net/manage-ips-and-asns/ipv4)
+    * [ipv4 run-out](https://www.ripe.net/manage-ips-and-asns/ipv4/ipv4-run-out)
+    * [ipv4 waiting list](https://www.ripe.net/manage-ips-and-asns/ipv4/ipv4-waiting-list)
+    * [how does the ipv4 waiting list work?](https://www.ripe.net/manage-ips-and-asns/ipv4/how-waiting-list-works)
+    * [ipv4 transfer request](https://www.ripe.net/manage-ips-and-asns/resource-transfers-and-mergers/transfer-of-ip-addresses-and-as-numbers)
+
+[ipv6](https://www.ripe.net/manage-ips-and-asns/ipv6)
+
+    * [request ipv6](https://www.ripe.net/manage-ips-and-asns/ipv6/request-ipv6)
+    * [ipv6 info centre](https://www.ripe.net/publications/ipv6-info-centre)
+
+[as numbers](https://www.ripe.net/manage-ips-and-asns/as-numbers)
+
+    * [request an as number](https://www.ripe.net/manage-ips-and-asns/as-numbers/request-an-as-number)
+    * [reassigning referenced as numbers](https://www.ripe.net/manage-ips-and-asns/as-numbers/reassigning-as-numbers)
+
+[ripe database](https://www.ripe.net/manage-ips-and-asns/db)
+
+    * [related software and tools](https://www.ripe.net/manage-ips-and-asns/db/tools)
+    * [webupdates](https://www.ripe.net/manage-ips-and-asns/db/webupdates)
+    * [release notes](https://www.ripe.net/manage-ips-and-asns/db/release-notes)
+    * [database support](https://www.ripe.net/manage-ips-and-asns/db/support)
+
+[dns](https://www.ripe.net/manage-ips-and-asns/dns)
+
+    * [reverse dns](https://www.ripe.net/manage-ips-and-asns/dns/reverse-dns)
+    * [dnssec](https://www.ripe.net/manage-ips-and-asns/dns/dnssec)
+
+[lir portal](https://www.ripe.net/manage-ips-and-asns/lir-portal)
+
+[documentation for resource management](https://www.ripe.net/manage-ips-and-
+asns/resource-management)
+
+    * [resource public key infrastructure (rpki)](https://www.ripe.net/manage-ips-and-asns/resource-management/rpki)
+    * [policy implementation status](https://www.ripe.net/manage-ips-and-asns/resource-management/policy-implementation-status)
+    * [assisted registry check](https://www.ripe.net/manage-ips-and-asns/resource-management/assisted-registry-check)
+
+[resource transfers and mergers](https://www.ripe.net/manage-ips-and-
+asns/resource-transfers-and-mergers)
+
+    * [inter-rir transfers](https://www.ripe.net/manage-ips-and-asns/resource-transfers-and-mergers/inter-rir-transfers)
+    * [mergers and acquisitions](https://www.ripe.net/manage-ips-and-asns/resource-transfers-and-mergers/mergers-and-acquisitions)
+    * [ipv4 transfer listing service](https://www.ripe.net/manage-ips-and-asns/resource-transfers-and-mergers/listing)
+    * [brokers](https://www.ripe.net/manage-ips-and-asns/resource-transfers-and-mergers/brokers)
+
+[legacy internet resources](https://www.ripe.net/manage-ips-and-asns/legacy-
+resources)
+
+    * [legacy space in the ripe registry ](https://www.ripe.net/manage-ips-and-asns/legacy-resources/legacy-space-in-the-ripe-registry)
+    * [documentation](https://www.ripe.net/manage-ips-and-asns/legacy-resources/legacy-internet-resources-documentation)
+
+  * [ analyse __](https://www.ripe.net/analyse)
+
+we collect a wide range of internet data and provide statistics and tools that
+our members and the wider internet community can use for their own operations
+and analyses. [CLS] [SEP]
+
+more information about [ analyse __](https://www.ripe.net/analyse)
+
+[statistics](https://www.ripe.net/analyse/statistics)
+
+    * [total number of lirs](https://labs.ripe.net/statistics/number-of-lirs)
+    * [remaining ipv4 addresses](https://www.ripe.net/manage-ips-and-asns/ipv4/ipv4-pool)
+    * [ipv6 ripeness](https://labs.ripe.net/statistics/ipv6-ripeness-summary)
+    * [other ripe ncc statistics](https://labs.ripe.net/statistics?az=true)
+    * [ripestat](https://www.ripe.net/analyse/statistics/ripestat)
+
+[internet measurements](https://www.ripe.net/analyse/internet-measurements)
+
+    * [ripe atlas](https://www.ripe.net/analyse/internet-measurements/atlas)
+    * [internet traffic maps](https://atlas.ripe.net/results/maps/)
+    * [analyses and use cases](https://labs.ripe.net/atlas/user-experiences)
+    * [routing information service (ris)](https://www.ripe.net/analyse/internet-measurements/routing-information-service-ris)
+    * [ixp country jedi (alpha)](https://www.ripe.net/analyse/internet-measurements/ixp-country-jedi)
+    * [ripe ipmap](https://www.ripe.net/analyse/internet-measurements/ipmap)
+
+[dns](https://www.ripe.net/analyse/dns)
+
+    * [dnsmon](https://www.ripe.net/analyse/dns/dnsmon)
+    * [reverse dns zonecheck](https://www.ripe.net/analyse/dns/reverse-delegation-dns-zonecheck)
+    * [k-root](https://www.ripe.net/analyse/dns/k-root)
+
+[raw datasets](https://www.ripe.net/analyse/raw-data-sets)
+
+    * [ripe atlas raw data format](https://atlas.ripe.net/docs/data_struct/)
+    * [ripe atlas raw data](https://data-store.ripe.net/datasets/atlas-daily-dumps/)
+    * [ris raw data](https://labs.ripe.net/datarepository/data-sets/routing-information-service-ris-raw-data-set)
+    * [terms and conditions](https://labs.ripe.net/datarepository/conditions/basic)
+
+[archived projects](https://www.ripe.net/analyse/archived-projects)
+
+    * [ris tools and web interfaces](https://www.ripe.net/analyse/archived-projects/ris-tools-web-interfaces)
+    * [ttm](https://www.ripe.net/analyse/archived-projects/ttm)
+    * [rrcc](https://www.ripe.net/analyse/archived-projects/rrcc)
+    * [disi](https://www.ripe.net/analyse/archived-projects/disi)
+    * [irrtoolset](https://www.ripe.net/analyse/archived-projects/irrtoolset)
+    * [re-implementation project](https://www.ripe.net/analyse/archived-projects/rpsl)
+    * [dbconstat](https://www.ripe.net/analyse/archived-projects/dbconstat)
+
+  * [ participate __](https://www.ripe.net/participate)
+
+the smooth running of the internet depends on the involvement of those who
+give their input on membership and policy issues. [CLS] [SEP] and there are many ways to
+get involved, online and in person. [CLS] [SEP]
+
+more information about [ participate __](https://www.ripe.net/participate)
+
+[ripe ncc membership ](https://www.ripe.net/participate/member-support)
+
+    * [become a member](https://www.ripe.net/participate/member-support/become-a-member)
+    * [lir basics for members](https://www.ripe.net/participate/member-support/lir-basics)
+    * [ripe ncc access](https://www.ripe.net/participate/member-support/ripe-ncc-access)
+    * [billing, payment and fees](https://www.ripe.net/participate/member-support/payment)
+    * [member lunches](https://www.ripe.net/participate/member-support/member-lunches)
+    * [ripe ncc surveys](https://www.ripe.net/participate/member-support/surveys)
+
+[ripe community](https://www.ripe.net/participate/ripe)
+
+    * [the ripe chair team](https://www.ripe.net/participate/ripe/chair)
+    * [working groups](https://www.ripe.net/participate/ripe/wg)
+    * [ripe community plenary](https://www.ripe.net/participate/ripe/ripe-community-plenary)
+    * [task forces](https://www.ripe.net/participate/ripe/tf)
+    * [nro nc/aso ac](https://www.ripe.net/participate/ripe/address-council-election-procedure)
+    * [academic cooperation (raci)](https://www.ripe.net/participate/ripe/raci)
+    * [ripe fellowship](https://www.ripe.net/participate/ripe/ripe-fellowship)
+    * [rob blokzijl foundation](http://rob-blokzijl-foundation.org/)
+
+[meetings and events](https://www.ripe.net/participate/meetings)
+
+    * [ripe meetings](https://www.ripe.net/participate/meetings/ripe-meetings)
+    * [regional meetings](https://www.ripe.net/participate/meetings/regional-meetings)
+    * [general meetings](https://www.ripe.net/participate/meetings/gm)
+    * [roundtable meetings](https://www.ripe.net/participate/meetings/roundtable)
+    * [open house](https://www.ripe.net/participate/meetings/open-house)
+    * [upcoming events](https://www.ripe.net/participate/meetings/calendar)
+
+[policy development](https://www.ripe.net/participate/policies)
+
+    * [current policy proposals](https://www.ripe.net/participate/policies/current-proposals)
+    * [policy implementation status](https://www.ripe.net/manage-ips-and-asns/resource-management/policy-implementation-status)
+    * [monthly policy updates](https://www.ripe.net/participate/policies/policy-updates)
+
+[join a discussion](https://www.ripe.net/participate/mail)
+
+    * [membership mailing lists](https://www.ripe.net/participate/mail/ripe-ncc-mailing-lists)
+    * [ripe mailing lists](https://www.ripe.net/participate/mail/ripe-mailing-lists)
+    * [ripe forum](https://www.ripe.net/participate/mail/ripe-forum)
+
+[internet governance](https://www.ripe.net/participate/internet-governance)
+
+    * [iana stewardship transition](https://www.ripe.net/participate/internet-governance/internet-technical-community/iana/iana-stewardship-transition)
+    * [internet technical community](https://www.ripe.net/participate/internet-governance/internet-technical-community)
+    * [multi-stakeholder engagement](https://www.ripe.net/participate/internet-governance/multi-stakeholder-engagement)
+    * [internet governance news](https://www.ripe.net/participate/internet-governance/internet-governance-news)
+
+  * [ get support __](https://www.ripe.net/support)
+
+we support members and the ripe community through several channels to offer
+timely and efficient help – whether it’s a ticket, a tweet or a training
+course. [CLS] [SEP]
+
+more information about [ get support __](https://www.ripe.net/support)
+
+[contact us](https://www.ripe.net/support/contact)
+
+    * [office information](https://www.ripe.net/support/contact/office-information)
+    * [ripe ncc report form](https://www.ripe.net/support/contact/report-form)
+    * [report technical emergency](https://www.ripe.net/support/contact/technical-emergency-hotline)
+
+[training and education](https://www.ripe.net/support/training)
+
+    * [ripe ncc academy](https://www.ripe.net/support/training/ripe-ncc-academy)
+    * [webinars](https://www.ripe.net/support/training/webinars)
+    * [ripe ncc::educa](https://www.ripe.net/support/training/ripe-ncc-educa)
+    * [training courses](https://www.ripe.net/support/training/courses)
+    * [training material](https://www.ripe.net/support/training/material)
+    * [videos](https://www.ripe.net/support/training/videos)
+
+[documentation](https://www.ripe.net/support/documentation)
+
+    * [developer documentation](https://www.ripe.net/support/documentation/developer-documentation)
+    * [ripe database documentation](https://www.ripe.net/manage-ips-and-asns/db/support/documentation/ripe-database-documentation)
+    * [faqs](https://www.ripe.net/support/documentation/faqs)
+
+[spam, hacking and phishing](https://www.ripe.net/support/abuse)
+
+    * [ripe database abuse finder](https://apps.db.ripe.net/search/abuse-finder.html)
+    * [ripestat abuse contact finder](https://stat.ripe.net/specials/abuse)
+
+[service and security announcements](https://www.ripe.net/support/service-
+announcements)
+
+[community projects fund](https://www.ripe.net/support/cpf)
+
+    * [call for applications](https://www.ripe.net/support/cpf/call-for-applications)
+
+[certified professionals](https://www.ripe.net/support/certified-
+professionals)
+
+    * [schedule an exam](https://www.ripe.net/support/certified-professionals/schedule-an-exam)
+    * [vouchers and fees](https://www.ripe.net/support/certified-professionals/vouchers)
+
+  * [ publications __](https://www.ripe.net/publications)
+
+stay informed about everything internet-related, from ripe policy and ripe ncc
+member information to ripe labs blog posts and the latest internet news. [CLS] [SEP]
+
+more information about [ publications __](https://www.ripe.net/publications)
+
+[ipv6 info centre](https://www.ripe.net/publications/ipv6-info-centre)
+
+    * [about ipv6](https://www.ripe.net/publications/ipv6-info-centre/about-ipv6)
+    * [deploy ipv6 now](https://www.ripe.net/publications/ipv6-info-centre/deployment-planning)
+    * [statistics and tools](https://www.ripe.net/publications/ipv6-info-centre/statistics-and-tools)
+    * [training and materials](https://www.ripe.net/publications/ipv6-info-centre/training-and-materials)
+    * [documents](https://www.ripe.net/publications/ipv6-info-centre/ipv6-documents)
+    * [community](https://www.ripe.net/publications/ipv6-info-centre/ipv6-community)
+
+[ripe ncc organisational documents](https://www.ripe.net/publications/ripe-
+ncc-organisational-documents)
+
+    * [activity plan and budget](https://www.ripe.net/publications/ripe-ncc-organisational-documents/budgets)
+    * [annual reports](https://www.ripe.net/publications/ripe-ncc-organisational-documents/reports)
+    * [charging schemes](https://www.ripe.net/publications/ripe-ncc-organisational-documents/charging-schemes)
+
+[ripe labs](https://www.ripe.net/publications/ripe-labs)
+
+    * [ contributing to ripe labs](https://www.ripe.net/support/documentation/ripe-labs-documentation/contributing-to-ripe-labs)
+
+[ripe document store](https://www.ripe.net/publications/docs)
+
+    * [ripe documents by number](https://www.ripe.net/publications/docs/all-ripe-documents-by-number)
+    * [ripe documents by category ](https://www.ripe.net/publications/docs/ripe-documents)
+    * [ripe policies](https://www.ripe.net/publications/docs/ripe-policies)
+
+[news](https://www.ripe.net/publications/news)
+
+    * [rss news feeds](https://www.ripe.net/publications/news/feeds)
+
+  * [ about us __](https://www.ripe.net/about-us)
+
+we're a not-for-profit membership association, a regional internet registry
+and the secretariat for the ripe community supporting the internet through
+technical coordination. [CLS] [SEP]
+
+more information about [ about us __](https://www.ripe.net/about-us)
+
+[what we do](https://www.ripe.net/about-us/what-we-do)
+
+    * [regional internet registry](https://www.ripe.net/about-us/what-we-do/regional-internet-registry)
+    * [ripe ncc service region](https://www.ripe.net/about-us/what-we-do/ripe-ncc-service-region)
+    * [coordination function](https://www.ripe.net/about-us/what-we-do/coordination-function)
+    * [statistics](https://www.ripe.net/analyse/statistics)
+    * [transition to ipv6](https://www.ripe.net/publications/ipv6-info-centre)
+    * [list of ripe ncc services](https://www.ripe.net/about-us/what-we-do/list-of-ripe-ncc-services)
+
+[staff](https://www.ripe.net/about-us/staff)
+
+    * [ripe ncc staff structure](https://www.ripe.net/about-us/staff/structure)
+    * [careers at the ripe ncc](https://www.ripe.net/about-us/staff/careers-at-the-ripe-ncc)
+
+[executive board](https://www.ripe.net/about-us/executive-board)
+
+    * [functions and expectations ](https://www.ripe.net/about-us/executive-board/ripe-ncc-executive-board-functions-and-expectations)
+    * [minutes from executive board meetings](https://www.ripe.net/about-us/executive-board/minutes)
+
+[financial information](https://www.ripe.net/about-us/financial-information)
+
+    * [current charging scheme](https://www.ripe.net/publications/docs/charging)
+    * [current billing procedure](https://www.ripe.net/participate/billing/procedure)
+
+[press centre](https://www.ripe.net/about-us/press-centre)
+
+    * [ripe ncc in the news](https://www.ripe.net/about-us/press-centre/ripe-ncc-in-the-news)
+    * [publications and presentations](https://www.ripe.net/about-us/press-centre/publications)
+    * [press releases](https://www.ripe.net/about-us/press-centre/press-releases)
+    * [press quality photos](https://www.ripe.net/about-us/press-centre/press-photos)
+
+[legal](https://www.ripe.net/about-us/legal)
+
+    * [corporate governance](https://www.ripe.net/about-us/legal/corporate-governance)
+    * [internet number resources](https://www.ripe.net/about-us/legal/internet-number-resources)
+    * [arbitration](https://www.ripe.net/about-us/legal/arbitration-documents)
+    * [other ripe ncc services](https://www.ripe.net/about-us/legal/other-ripe-ncc-services-documents)
+    * [information for law enforcement agencies](https://www.ripe.net/about-us/legal/information-for-law-enforcement-agencies)
+
+[contact](https://www.ripe.net/about-us/contact)
+
+__
+
+[ __](https://access.ripe.net/?originalurl=https%3a%2f%2fwww.ripe.net%2fabout-
+us%2flegal%2fripe-ncc-privacy-statement "add this page to your bookmarks
+widget")
+
+__
+
+##### add this page to your bookmarks widget
+
+title:
+
+you are here: [home](https://www.ripe.net) > [about
+us](https://www.ripe.net/about-us) > [legal](https://www.ripe.net/about-
+us/legal) > ripe ncc privacy statement
+
+__[about us](https://www.ripe.net/about-us)
+
+  * __[what we do](https://www.ripe.net/about-us/what-we-do)
+    * [regional internet registry](https://www.ripe.net/about-us/what-we-do/regional-internet-registry)
+    * [ripe ncc service region](https://www.ripe.net/about-us/what-we-do/ripe-ncc-service-region)
+    * [coordination function](https://www.ripe.net/about-us/what-we-do/coordination-function)
+    * [statistics](https://www.ripe.net/analyse/statistics)
+    * [internet governance](https://www.ripe.net/participate/internet-governance)
+    * [transition to ipv6](https://www.ripe.net/publications/ipv6-info-centre)
+    * [list of ripe ncc services](https://www.ripe.net/about-us/what-we-do/list-of-ripe-ncc-services)
+    * [engagement with external organisations](https://www.ripe.net/about-us/what-we-do/engagement-external-organisations)
+  * __[staff](https://www.ripe.net/about-us/staff)
+    * [ripe ncc staff structure](https://www.ripe.net/about-us/staff/structure)
+    * [careers at the ripe ncc](https://www.ripe.net/about-us/staff/careers-at-the-ripe-ncc)
+  * __[executive board](https://www.ripe.net/about-us/executive-board)
+    * [functions and expectations ](https://www.ripe.net/about-us/executive-board/ripe-ncc-executive-board-functions-and-expectations)
+    * [minutes from executive board meetings](https://www.ripe.net/about-us/executive-board/minutes)
+    * [former executive board members](https://www.ripe.net/about-us/executive-board/former-executive-board-members)
+  * __[financial information](https://www.ripe.net/about-us/financial-information)
+    * [current charging scheme](https://www.ripe.net/publications/docs/charging)
+    * [current billing procedure](https://www.ripe.net/participate/billing/procedure)
+  * __[press centre](https://www.ripe.net/about-us/press-centre)
+    * [ripe ncc logos](https://www.ripe.net/about-us/press-centre/ripe-ncc-logos)
+    * [ripe ncc in the news](https://www.ripe.net/about-us/press-centre/ripe-ncc-in-the-news)
+    * [ripe ncc brand guidelines](https://www.ripe.net/about-us/press-centre/ripe-ncc-brand-guidelines)
+    * [publications and presentations](https://www.ripe.net/about-us/press-centre/publications)
+    * [press releases](https://www.ripe.net/about-us/press-centre/press-releases)
+    * [press quality photos](https://www.ripe.net/about-us/press-centre/press-photos)
+  * __[legal](https://www.ripe.net/about-us/legal)
+    * [corporate governance](https://www.ripe.net/about-us/legal/corporate-governance)
+    * [internet number resources](https://www.ripe.net/about-us/legal/internet-number-resources)
+    * [arbitration](https://www.ripe.net/about-us/legal/arbitration-documents)
+    * [other ripe ncc services](https://www.ripe.net/about-us/legal/other-ripe-ncc-services-documents)
+    * [information for law enforcement agencies](https://www.ripe.net/about-us/legal/information-for-law-enforcement-agencies)
+  * [contact](https://www.ripe.net/about-us/contact)
+  * [ripe ncc celebrates its 25th anniversary](https://www.ripe.net/about-us/ripe-ncc-25)
+
+ripe ncc privacy statement this ripe ncc privacy statement applies to all
+personal information the ripe ncc processes, including the collecting,
+publication, sharing and usage of personal information
+https://www.ripe.net/about-us/legal/ripe-ncc-privacy-statement
+https://www.ripe.net/logo.png
+
+# ripe ncc privacy statement
+
+this is a live document. [CLS] [SEP] we will keep reviewing our processes and updating the
+privacy statement accordingly. [CLS] [SEP]
+
+## 1\. [CLS] [SEP] introduction
+
+the ripe ncc respects the privacy of your personal information and is
+committed to protecting the personal information that you provide. [CLS] [SEP] this ripe
+ncc privacy statement applies to all personal information the ripe ncc
+processes, including the collecting, publication, sharing and usage of
+personal information. [CLS] [SEP] the ripe ncc privacy statement describes how the ripe
+ncc processes your personal data and how you can access and make changes to
+your personal data. [CLS] [SEP]
+
+## 2\. [CLS] [SEP] processing your personal data
+
+the main purpose for which the ripe ncc processes personal information is to
+support its role as a regional internet registry (rir). [CLS] [SEP] the main activity to
+fulfil this role is the registration and administration of internet number
+resources, including the maintenance of the public ripe database (see 2.1). [CLS] [SEP]
+
+additionally, the ripe ncc processes personal information for the purpose of
+performing activities for the benefit of the ripe ncc members or for the
+benefit of the ripe community (see 2.2). [CLS] [SEP]
+
+### 2.1. [CLS] [SEP] personal data in the ripe database
+
+the public ripe database shows registration details of internet number
+resources. [CLS] [SEP] the records may contain contact details (name, email address, phone
+and fax numbers and postal address) of persons responsible for the operation
+of networks or routers and/or for maintaining the information in the ripe
+database. [CLS] [SEP]
+
+in some cases, the ripe ncc provides the initial registration. [CLS] [SEP] subsequently,
+the personal information pertaining to a specific registration is provided and
+maintained by a person authorised by, or acting on behalf of, the person or
+entity to which the internet number resources have been registered. [CLS] [SEP] updating
+is subject to an authentication and authorisation procedure (see 5). [CLS] [SEP] please
+note that the ripe ncc is not responsible for data entered into the ripe
+database by third parties. [CLS] [SEP] the person who enters personal data is responsible
+for keeping all data they maintain accurate and up-to-date, including
+maintaining correct contact details (see 6). [CLS] [SEP]
+
+the ripe ncc publishes the contact details as part of the registration details
+of internet number resources to make it possible for the ripe ncc and the
+internet network community to contact the appropriate persons when it is
+necessary:
+
+  * to secure the proper functioning of the internet;
+  * to prevent or redress possible misuse of the internet;
+  * to improve the quality of the data;
+  * to protect the information stored in the ripe database;
+  * to prevent any unauthorised modification of information stored in the ripe database;
+  * to ensure accountability for information entered into the ripe database. [CLS] [SEP]
+
+the ripe database may also be mirrored to databases operated by other rirs,
+excluding database objects that are meant to include personal information. [CLS] [SEP] the
+databases of other rirs may also be mirrored to databases operated by the ripe
+ncc. [CLS] [SEP] this system allows users to retrieve data on all internet resource
+registrations worldwide from the rir in their region  
+  
+the ripe ncc also, for the purposes specified above, allows proxy access to
+the ripe database via third parties. [CLS] [SEP] in addition, third parties may use a near
+real time mirror (nrtm) of the ripe database or access its contents in bulk
+via nightly dump and split files that are published by the ripe ncc. [CLS] [SEP] in both
+cases, database objects that are meant to include personal information are
+excluded. [CLS] [SEP]
+
+where necessary for the above purposes, and to comply with statutory
+obligations, the ripe ncc may also keep historical data (data that was
+published in the ripe database before the record was updated) and ripe
+database update requests. [CLS] [SEP]
+
+### 2.2. [CLS] [SEP] processing your personal data for other purposes
+
+in addition to the collection and use of personal data in relation to the ripe
+database, the ripe ncc provides other services and activities that may require
+the processing of your personal information. [CLS] [SEP] these include:
+
+  1. [CLS] [SEP] ripe ncc member services: the ripe ncc may request contact details for services such as relationship management, accounting and billing;
+  2. [CLS] [SEP] lir portal and the ripe ncc website (www.ripe.net): processing of messages, service requests and information requests;
+  3. [CLS] [SEP] ripe community and ripe ncc membership mailing lists: messages including name, email address, date and message content are published in the mailing lists and mailing list archives to support the open and transparent ripe policy development process and discussions of membership-related issues;
+  4. [CLS] [SEP] event registration administration for meetings, training courses and other organised events: the ripe ncc may publish lists of attendees on a website as part of its commitment to open and transparent policy development. [CLS] [SEP] these lists contain the name of the attendee and their organisation, but no contact details or other personal details. [CLS] [SEP]
+  5. [CLS] [SEP] publicly-available services as defined in the ripe ncc website and publicly available services terms of service: the ripe ncc may request contact details for purposes related to the provision and proper function of these services such as information requests, installation, support, maintenance, billing, relationship management and administration. [CLS] [SEP]
+
+the ripe ncc may use contact details provided in relation to all of the above
+activities to send you relevant information on its activities and services,
+such as announcements on network upgrades, outages, ripe ncc services, ripe
+meetings, training courses and other organised events. [CLS] [SEP] the ripe ncc may also
+forward public messages to a particular mailing list on occasion if it is
+relevant and appropriate for that list. [CLS] [SEP] if you do not wish to receive such
+messages, you can unsubscribe yourself at any time (see 5). [CLS] [SEP]
+
+in addition to the above, the ripe ncc may register, process or transfer your
+personal data where such is required pursuant to a statutory duty. [CLS] [SEP]
+
+### 2.3. [CLS] [SEP] sharing your personal data with third parties
+
+the ripe ncc may engage third parties for the provision of ripe ncc services. [CLS] [SEP]
+in such cases, personal data collected for that particular purpose may be
+shared with these parties. [CLS] [SEP]
+
+the ripe ncc undertakes to engage parties that offer equivalent levels of
+security and protection and to make any appropriate contractual and
+organisational arrangements so that the data shared is limited to that
+required for the respective purpose and is not processed for longer than
+necessary. [CLS] [SEP]
+
+if for the provision of the third-party services,  personal data is
+transferred to a country outside the european economic area, this will happen
+in accordance with the dutch and eu data protection laws. [CLS] [SEP]
+
+### 3\. [CLS] [SEP] protection and secrecy of your information
+
+the ripe ncc maintains strict procedures to authenticate people's identity and
+verify their right to authorise changes to their personal information. [CLS] [SEP]
+
+personal data held in the ripe database is available to the public. [CLS] [SEP] use of the
+ripe database is subject to the[ ripe database terms and
+conditions](https://www.ripe.net/manage-ips-and-
+asns/db/support/documentation/terms). [CLS] [SEP] the ripe ncc operates a technical query-
+limiting process as well as an [acceptable use
+policy](https://www.ripe.net/manage-ips-and-
+asns/db/support/documentation/ripe-database-acceptable-use-policy/ripe-
+database-acceptable-use-policy) to prevent data mining of large amounts of
+personal data through the ripe database query service. [CLS] [SEP] people attempting to
+abuse this service will have their access to the ripe database blocked. [CLS] [SEP]
+
+the ripe ncc maintains a high level of physical security and protection for
+all of its computer and network facilities, especially those in which personal
+information may be stored. [CLS] [SEP]
+
+## 4\. [CLS] [SEP] use of cookies
+
+#### 4.1 what is a cookie and what are cookies used for?
+
+"cookies" are small files that a browser can record after visiting a website. [CLS] [SEP]
+these files are set on your computer (or any other device with which you visit
+a website) through your browser. [CLS] [SEP]
+
+websites operated by the ripe ncc use cookies that:
+
+      * are strictly necessary for the provision of the services that are available through the website and facilitate your use of these services (e.g. [CLS] [SEP] to identify you when you are logged in)
+      * improve your experience by recording information about your settings (e.g. [CLS] [SEP] your location)
+      * collect anonymous statistical information on the use of the website that help us improve the performance of the ripe ncc website (e.g. [CLS] [SEP] the number of visitors to each part of our websites and their origin)
+      * help us study the ipv6 capability of visitors, by making sure that your ipv6 capability is only measured once
+
+the ripe ncc **does not use** cookies for online behavioural advertising
+purposes nor does it share information collected via cookies with any third
+parties. [CLS] [SEP]
+
+some of these cookies are deleted once you close your browser. [CLS] [SEP] others are set
+for longer periods of time. [CLS] [SEP]
+
+for detailed information about the cookies used by the ripe ncc, the purpose
+of these cookies and the period they remain active, please see [the list of
+cookies](https://www.ripe.net/about-us/legal/cookies). [CLS] [SEP]
+
+#### 4.2 third party cookies
+
+during your visit to the ripe ncc website, third parties may also set cookies
+on your device. [CLS] [SEP] these cookies are set when you visit a page which has content
+embedded from third-party sites, such as youtube. [CLS] [SEP]
+
+#### 4.3 disabling cookies
+
+you can disable cookies by adjusting your browser settings please check the
+"help" menu of your browser for information about how to change your cookie
+preferences. [CLS] [SEP] however you may not be able to use all website features if
+cookies are disabled. [CLS] [SEP]
+
+## 5\. [CLS] [SEP] accessing and changing your information
+
+you have the right to ask that inaccurate or incomplete data relating to you
+is rectified. [CLS] [SEP] in order to fulfil our obligation, the ripe ncc will ask you to
+identify yourself. [CLS] [SEP]
+
+ripe ncc members can view their registration information online via the lir
+portal. [CLS] [SEP] you may be able to access and change your personal data using the lir
+portal on behalf of your organisation. [CLS] [SEP] the ripe ncc will help those who may
+have trouble modifying their own data. [CLS] [SEP] to prevent unauthorised access and
+changes to your personal data, you will have to log in with your credentials
+(i.e. [CLS] [SEP] reg id, username and password). [CLS] [SEP]
+
+if you are not authorised to change your personal data in the ripe database,
+please refer to the authorised person (the maintainer, i.e. [CLS] [SEP] the person or
+entity indicated on the record as "mnt-by:"). [CLS] [SEP] if the maintainer does not
+respond, you may refer to the [ripe ncc procedure for the removal of personal
+contact details from the ripe database](https://www.ripe.net/manage-ips-and-
+asns/db/support/documentation/removal-of-personal-data). [CLS] [SEP]
+
+this procedure describes the terms under which the ripe ncc may remove
+personal data from the ripe database upon the request of the data subject. [CLS] [SEP]
+
+if you are subscribed to any ripe mailing lists, you can unsubscribe yourself
+at any time or change your preferences by accessing this web page:
+
+[http://www.ripe.net/participate/mail](https://www.ripe.net/participate/mail)
+
+if you are subscribed to a ripe ncc membership mailing list, you can
+unsubscribe by logging in to the lir portal of the member you represent and
+changing your details in the "subscribed mailing lists" section. [CLS] [SEP]
+
+if your name has been published on the ripe ncc website as part of the
+attendee list for an event or meeting and you wish to be deleted from the
+list, please contact [meeting _at_ ripe _dot_
+net](contact#meeting_at_ripe_dot_net). [CLS] [SEP]
+
+if you have questions or concerns about the accuracy or appropriateness of any
+other personal information held by the ripe ncc, please contact [ncc _at_ ripe
+_dot_ net](contact#ncc_at_ripe_dot_net). [CLS] [SEP] ripe ncc will respond and seek to
+correct any problems as soon as possible. [CLS] [SEP]
+
+if you disagree with the ripe ncc's response or did not receive adequate
+support, you have the right to file a complaint with the [dutch data
+protection authority (autoriteit
+persoonsgegevens](https://autoriteitpersoonsgegevens.nl/)). [CLS] [SEP]
+
+## 6\. [CLS] [SEP] changes to this privacy statement
+
+the ripe ncc may change this privacy statement from time to time. [CLS] [SEP] the current
+version of the privacy statement will be available on www.ripe.net. [CLS] [SEP]
+
+## 7\. [CLS] [SEP] questions or suggestions
+
+if you have any questions, suggestions or concerns about the issues discussed
+in this document, please email us at [ncc _at_ ripe _dot_
+net](contact#ncc_at_ripe_dot_net). [CLS] [SEP]
+
+
+
+created: 23 dec 2010 \- last updated: 30 jun 2020 --
+[legal](https://www.ripe.net/search?subject%3alist=legal)
+
+[ __________](https://www.ripe.net/support/contact/social-networking)
+
+[home](/) [sitemap](https://www.ripe.net/sitemap) [contact
+us](https://www.ripe.net/support/contact) [service
+announcements](https://www.ripe.net/support/service-announcements) [privacy
+statement](https://www.ripe.net/about-us/legal/ripe-ncc-privacy-statement)
+[legal](https://www.ripe.net/about-us/legal)
+[cookies](https://www.ripe.net/about-us/legal/cookies) [copyright
+statement](https://www.ripe.net/about-us/legal/copyright-statement) [terms of
+service](https://www.ripe.net/about-us/legal/terms-of-service)
+
+__
+
+the ripe ncc uses cookies. [CLS] [SEP] some of these cookies may have been set already. [CLS] [SEP]
+more information about our cookies can be found in our [privacy
+policy](https://www.ripe.net/about-us/legal/ripe-ncc-privacy-
+statement#cookies). [CLS] [SEP] you can accept our cookies either by clicking here or by
+continuing to use the site. [CLS] [SEP]
+

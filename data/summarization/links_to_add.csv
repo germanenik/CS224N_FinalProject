@@ -1,959 +1,906 @@
 ﻿,service,source_doc,url
-0,signal,Terms of Service & Privacy Policy,
-1,signal,Signal and the General Data Protection Regulation (GDPR),
-2,signal,"Grand jury subpoena for Signal user data, Eastern District of Virginia",
-3,wemod,Privacy Policy,
-4,wemod,Terms and Conditions,
-5,whatismyip-com,Privacy Policy,
-6,whatismyip-com,Terms And Conditions Of Use,
-7,upcloud,Privacy policy,
-8,upcloud,Terms of service,
-9,mozilla-persona,Troy,
-10,customink,User Agreement & Policies,
-11,customink,Privacy Policy,
-12,brilliant,Cookie Policy,
-13,brilliant,Terms of Use,
-14,brilliant,Privacy Policy,
-15,clockify,Privacy Policy,
-16,nextdns,Privacy Policy,
-17,ebsco,Privacy Policy,
-18,miraheze,Terms of Use,
-19,miraheze,Privacy Policy,
-20,pure,Privacy Policy,
-21,jontv,Privacy,
-22,cbsinteractive,Privacy Policy,
-23,openmailbox,Privacy Policy,
-24,zenimaxmediainc-,Privacy Policy,
-25,qwant,Terms of Service,
-26,toptree-cc(discontinued?),Terms of Service,
-27,virtbiz,Terms of Service,
-28,any-do,Application License Agreement,
-29,pixel8earth,Privacy Policy,
-30,pixel8earth,Terms of Use,
-31,pcloud,Terms and Conditions,
-32,pcloud,Privacy Notice,
-33,amazonprimevideo,Amazon Interest-Based Ads,
-34,amazonprimevideo,Amazon Prime Video Terms of Use,
-35,amazonprimevideo,Amazon Privacy Notice,
-36,sprint,Sprint Terms and Conditions,
-37,stackoverflow,Terms of Service,
-38,stackoverflow,Privacy Policy,
-39,stackoverflow,Cookie Policy,
-40,stackoverflow,"Stack Exchange, Inc. Cookie Policy",
-41,stackoverflow,Public Network Terms of Service,
-42,symantec,Website Terms of Use,
-43,gitlab,Terms of Service,
-44,gitlab,Privacy Policy,
-45,vk,Terms of Service,
-46,airbnb,Privacy Policy,
-47,airbnb,Cookie Policy,
-48,adobe,Terms of Use,
-49,adobe,Privacy Policy,
-50,websaver,Terms and Conditions,
-51,mcdonald's,Terms and Conditions,
-52,mcdonald's,Privacy Policy,
-53,sanctionedsuicide,Privacy Policy,
-54,kitsu,"Terms (Version 1.0; Dec 1, 2016) [Pastebin mirror]",
-55,meetup,Privacy Policy,
-56,meetup,Terms of Service,
-57,meetup,Cookie Policy,
-58,akshit'sblog,Privacy Policy,
-59,roblox-com,Community Rules,
-60,weebly,Terms of Service,
-61,joinrun,Privacy Policy,
-62,pexgle, Content Policy ,
-63,pexgle,Privacy Policy ,
-64,pexgle, Terms and Conditions ,
-65,pexgle, Content Policy ,
-66,apple,Website Terms of Service,
-67,apple,Privacy Policy,
-68,apple,iCloud Terms of Service,
-69,apple,iTunes Terms of Service,
-70,dr-mcdougall'shealth&medicalcenter,Terms of Service,
-71,newegg-com,Privacy Policy,
-72,yelp,Terms of Service,
-73,yelp,Privacy Policy,
-74,carfax,Privacy Statement,
-75,instructure,Marketing Privacy Policy,
-76,genius,Terms of Service,
-77,genius,Privacy Policy,
-78,vivaldi,Cookie Policy,
-79,vivaldi,Community Privacy Policy,
-80,vivaldi,End User License Agreement,
-81,ynab,Privacy Policy,
-82,kairossoftware,Privacy Policy,
-83,jetbrains,Terms of Use,
-84,jetbrains,Privacy Policy,
-85,diytubevideocommunity,DIY TUBE Terms and Conditions,
-86,windowslogicproductions,Terms of Service,
-87,windowslogicproductions,Privacy Policy (09-04-20),
-88,discogs,Terms of Service,
-89,digitaladvertisingplatform|reklamstore,Cookie Policy,
-90,digitaladvertisingplatform|reklamstore,Terms and Conditions,
-91,square,General Terms of Service,
-92,cnn,Terms of Use,
-93,forbes,Terms and Conditions,
-94,forbes,Privacy Statement,
-95,hulu,Terms of Use,
-96,hulu,Privacy Policy,
-97,npm,Open-Source Terms,
-98,w3schools,Cookies and Privacy Policy - About Privacy,
-99,w3schools,Terms of Use - About Copyright,
-100,etesync,Terms and Conditions,
-101,librarything,"Privacy Policy, Community Rules, and Terms of Service",
-102,surfshark,Privacy Policy,
-103,surfshark,Terms Of Service,
-104,wikimedia,Terms of Use,
-105,wikimedia,Privacy Policy,
-106,yubico,Yubico terms and conditions of sale and license,
-107,algolia,Privacy Policy,
-108,target,Target Privacy Policy,
-109,imdb,Terms of Service,
-110,pathofexile,Cookies Notice,
-111,pathofexile,Terms of Use,
-112,ripencc,Cookies used by the RIPE NCC,
-113,ripencc,Privacy Statement,
-114,ripencc,Terms of Service,
-115,freecodecamp,Terms of Service,
-116,steam,Steam Subscriber Agreement,
-117,steam,Privacy Policy Agreement,
-118,crunchyroll,Privacy Policy,
-119,reputation.com,Terms of Use,
-120,reputation.com,Privacy Policy,
-121,coursehero,Privacy Policy,
-122,coursehero,Terms of Use,
-123,vox,Cookie Policy,
-124,vox,Terms of Use,
-125,vox,Privacy Policy,
-126,osu!,Privacy Policy,
-127,pricecharting,Terms of Service,
-128,pricecharting,Privacy Policy,
-129,guerrillamail,Terms of Service,
-130,guerrillamail,About,
-131,universityofsouthflorida,Privacy Policy,
-132,nordvpn,Privacy Policy,
-133,nordvpn,Terms of Service,
-134,myspace,Terms of Service,
-135,tellonym,Terms of Use,
-136,goguardian,Privacy Policy,
-137,xfinity,Web Services Terms of Service,
-138,fandango,Terms of Use,
-139,fandango,Privacy Policy,
-140,fandango,Cookies and Tracking,
-141,fandango,Do Not Sell My Info,
-142,quora,Terms of Service,
-143,quora,Privacy Policy,
-144,lastpass,Terms of Service,
-145,mewe,Terms of Service,
-146,mewe,Privacy Policy,
-147,rightsstatements,Privacy Policy,
-148,chilliapps-abandonmentprotector,Chilliapps's Data Processing Addendum,
-149,chilliapps-abandonmentprotector,Privacy Policy,
-150,chilliapps-abandonmentprotector, Unsubscribe and delete my information from any sender using this app ,
-151,chilliapps-abandonmentprotector,Terms and Conditions of Use,
-152,ancestry,Terms and Conditions,
-153,ancestry,Privacy Statement,
-154,pythonanywhere,Terms and Conditions,
-155,pythonanywhere,Privacy and Cookies Policy,
-156,sonic-net,All Policies,
-157,poker-engine,Privacy Policy,
-158,electronicfrontierfoundation,Privacy Policy: Software and Technology Projects,
-159,wikia,Terms of Use,
-160,allrecipes,Privacy Policy,
-161,allrecipes,Terms and Conditions,
-162,virustotal,Privacy Policy,
-163,runescape,Privacy Policy,
-164,runescape,Terms and Conditions,
-165,kongregate,User Agreement,
-166,moddb-com,Privacy Policy,
-167,amnestyinternationallimited(uk),Privacy Policy,
-168,amnestyinternationallimited(uk),Cookie Statement,
-169,lootcrate,Terms and Conditions,
-170,nitrokey,Data Privacy Policy,
-171,standardnotes,What information does Standard Notes collect about me?,
-172,standardnotes,What services does Standard Notes use for daily operation?,
-173,standardnotes,Our Privacy Manifesto,
-174,liberapay,Terms of Service,
-175,liberapay,Privacy,
-176,tiktok,Terms of Service - EU,
-177,tiktok,Privacy Policy - EU,
-178,tiktok,Terms of Service,
-179,tiktok,Community Guidelines,
-180,tiktok,Privacy Policy - non-EU,
-181,tiktok,Terms of Service - other countries,
-182,protonmail,Privacy Policy,
-183,protonmail,Terms of Service,
-184,protonmail,Open Source,
-185,protonmail,Information for Law Enforcement Authorities,
-186,hackingwithswift,Privacy Policy,
-187,riseup-net,Riseup and Government FAQ,
-188,riseup-net,Terms of Service,
-189,riseup-net,Privacy Policy,
-190,codewars,Privacy Policy,
-191,codewars,Website Terms of Service,
-192,phone2action,Privacy Policy,
-193,phone2action,Terms of Use,
-194,anonaddy,Terms Of Service,
-195,anonaddy,Privacy Policy,
-196,discord,Terms Of Service,
-197,discord,Privacy Policy,
-198,samsung, Samsung Services Terms and Conditions,
-199,furaffinity,Terms of Service,
-200,furaffinity,Privacy Policy,
-201,roblox,Terms of Use,
-202,roblox,Privacy and Cookie Policy,
-203,roblox,Community Rules,
-204,guidefox,Privacy Policy,
-205,guidefox,Terms and Conditions,
-206,fandom,Terms of Use,
-207,fandom,Privacy Policy,
-208,attendify,Terms of Service,
-209,attendify,Privacy Policy,
-210,gog-com,Privacy Policy,
-211,cityofreading,CoReadingWebPrivacyPolicy,
-212,cityofreading,Linking Policy,
-213,amazon,Conditions of Use,
-214,amazon,EU-US and Swiss-US Privacy Shield,
-215,amazon,Amazon Maps Terms of Use,
-216,indeed.com,Terms of Service,
-217,instagram,Terms of Use,
-218,instagram,Data Policy,
-219,instagram,About Cookies,
-220,instagram,Law Enforcement,
-221,instagram,Community Guidelines,
-222,fok!,Privacy Policy,
-223,salesmate,Privacy Policy,
-224,sparknotes,Terms of Use,
-225,wetransfer,Terms of Service,
-226,wetransfer,Privacy Policy,
-227,researchgate,Privacy Policy,
-228,researchgate,Terms of Service,
-229,patreon,Cookie Policy,
-230,ko-fi,Terms and Conditions of Use,
-231,seats2meet(s2m),Privacy,
-232,rainforestalliance,Privacy Policy,
-233,livearchivistblog,Privacy Policy,
-234,bit-ly,Bitly Privacy Policy,
-235,bit-ly,Bitly Terms of Service,
-236,inruptinc,Terms of Service,
-237,letterboxd,Terms and conditions,
-238,letterboxd,Privacy Policy,
-239,bing,Privacy Policy,
-240,speaky,Privacy Policy,
-241,speaky,Terms of Use,
-242,bitchute,Terms & Conditions,
-243,miicharacters,Privacy Policy,
-244,ccleaner,What Happens to Your Data,
-245,ccleaner,Privacy Policy,
-246,ccleaner,End User License Agreement,
-247,ryver,Privacy Policy,
-248,ryver,Terms of Service,
-249,hugeminiatures,Privacy Policy,
-250,photofeeler,Terms of Use,
-251,bitcasa,Acceptable Use Policy,
-252,heretechnologies|here, Service Terms,
-253,heretechnologies|here, Privacy Policy,
-254,heretechnologies|here,"HERE WeGo, HERE application and HERE Maps Service Terms ",
-255,heretechnologies|here,Mobility Products Privacy Policy,
-256,mondosol,Cookies Policy,
-257,mondosol,Privacy Notice,
-258,apple-icloud,Terms of Service (US),
-259,apple-icloud,Terms of Service (EU),
-260,apple-icloud,Privacy policy,
-261,apple-icloud,iCloud security overview,
-262,apple-icloud,Canada (English) Terms and Conditions,
-263,paypal-com,Privacy Statement,
-264,paypal-com,User Agreement for PayPal Services,
-265,rationalwiki,Privacy Policy,
-266,nickwasused-com,Privacy Policy,
-267,nickwasused-com,Terms of Service,
-268,duolingo,Privacy Policy,
-269,duolingo,Terms of Service,
-270,picturethis,Terms of Service,
-271,pornhub,Terms & Conditions,
-272,vimeo,Terms of Service,
-273,vimeo,Privacy Policy,
-274,startpage,Startpage Privacy Policy,
-275,paypal,Privacy Statement,
-276,paypal,User Agreement (US),
-277,paypal,Privacy Policy,
-278,paypal,Cookie Statement,
-279,web&seodesigners,T & C,
-280,academia-edu,Privacy Policy,
-281,hackernews,Terms of Use,
-282,mastodon-social,Privacy Policy,
-283,mastodon-social,Code of Conduct,
-284,mastodon-social,Terms of Service,
-285,brainly,Terms of Use,
-286,keybase,Terms of Service,
-287,pixelcatproductionsjbauth,Terms Of Service,
-288,pixelcatproductionsjbauth,Privacy Policy,
-289,pixelcatproductionsjbauth,Forums Terms of Service,
-290,lib-reviews,Terms and Conditions,
-291,isodme,Privacy Policy,
-292,isodme,Terms of Service,
-293,parsec,Privacy Policy,
-294,parsec,Terms of Service,
-295,intuitivepassword,Terms of Service,
-296,yase,Privacy Policy,
-297,yase,About,
-298,dictionary-com,"Privacy & Cookie Policy, Terms of Service",
-299,tinyurl,Terms of Service,
-300,mailinator,TERMS OF SERVICE AND PRIVACY POLICY + COOKIE/INFORMATION POLICY,
-301,piratepartyaustralia,Privacy Policy,
-302,scientology,Privacy Policy,
-303,jobaccomodationnetwork,Privacy Statement,
-304,jobaccomodationnetwork,Disclaimer,
-305,stackexchange,Terms of Service,
-306,openweathermap,Privacy Policy,
-307,jobvite,Terms of Use,
-308,fosstodon,Privacy Policy,
-309,openstreetmap,Privacy Policy,
-310,openstreetmap,Terms of Service,
-311,techsmith|screencast-com,Screencast Content Deletion Policy,
-312,wigwamdesign,Privacy Policy,
-313,fivestars,Privacy Policy,
-314,fivestars,Legal,
-315,bbc,Privacy and Cookies Policy,
-316,bbc,Terms of Use,
-317,urban-dictionary,Privacy Policy,
-318,urban-dictionary,Terms of Service,
-319,huntandjump-stablemanaginggame,Rules and Conditions,
-320,icloud,Terms of Service (US),
-321,icloud,Privacy policy,
-322,icloud,Terms of Service (EU),
-323,icloud,iCloud security overview,
-324,icloud,Canada (English) Terms and Conditions,
-325,waze,Cookie Policy,
-326,waze,Privacy Policy,
-327,waze,Copyright Policy,
-328,waze,Terms of Use,
-329,colloq-io,Privacy Policy,
-330,colloq-io,Terms and Conditions,
-331,nationalgeographic,Privacy Policy,
-332,nationalgeographic,Terms of Service,
-333,nationalgeographic,Sustainability Policy,
-334,ics_masjidtucson,Privacy Policy,
-335,skype,Terms of Use,
-336,ifttt,Terms of Use,
-337,ifttt,Privacy Policy,
-338,internetarchive,Terms,
-339,toodledo,Terms of Service,
-340,toodledo,Privacy Policy,
-341,runalyze,Terms of Service,
-342,runalyze,Privacy Policy,
-343,medium,Copyright and DMCA Policy,
-344,minecraft,Terms and Conditions,
-345,nanowrimo,Privacy & Terms,
-346,f-lux,Privacy Policy,
-347,blizzard,Privacy Policy,
-348,blizzard,End User License Agreement,
-349,blizzard,Blizzard Entertainment Dispute Resolution Policy,
-350,last.fm,Terms of Use,
-351,last.fm,CBS Privacy Policy,
-352,duckduckgo,Privacy Policy,
-353,psychonautwiki,Privacy policy,
-354,ubuntu,Privacy Policy (EN),
-355,searchencrypt,Terms of Service,
-356,lichess,Privacy Policy,
-357,lichess,Terms of Service,
-358,ubisoft,PRIVACY POLICY,
-359,ubisoft,UBISOFT TERMS OF USE,
-360,itch-io,Terms,
-361,itch-io,Privacy Policy,
-362,totemproject,Terms of Service,
-363,totemproject,Privacy Policy,
-364,readthedocscommunity,Privacy Policy,
-365,uiiverse,Terms of Service,
-366,uiiverse,Code of Conduct,
-367,grammarly,Privacy Policy,
-368,grammarly,Terms of Service and License Agreement,
-369,expobeds,Privacy Policy,
-370,expobeds,Cookies Policy,
-371,banned-video,Privacy Policy,
-372,edx,Terms of Service and Honor Code,
-373,edx,Privacy Policy,
-374,sparkforappraisers,Privacy Policy and Terms of Use,
-375,theguardian,Privacy Policy,
-376,theguardian,Terms and Conditions,
-377,dribbble,Privacy Policy,
-378,dribbble,Terms of Service,
-379,cnet,Terms of Use,
-380,foxnews,Privacy Policy,
-381,foxnews,Terms of Use,
-382,ballotpedia,Privacy Policy,
-383,roboform,RoboForm License and Terms of Use,
-384,whereby,Privacy Policy,
-385,flickr,Additional Terms of Service,
-386,snopes,Terms Of Use,
-387,huffingtonpost,Terms of Service,
-388,huffingtonpost,Privacy Policy,
-389,uber,Terms of Service,
-390,twitch,Privacy Notice,
-391,twitch,Cookie Policy,
-392,twitch,Terms of Service,
-393,anki,Privacy Policy,
-394,goodreads,Terms of Service,
-395,goodreads,Privacy Policy,
-396,posteo,Terms and Conditions,
-397,posteo,Privacy Policy,
-398,snapchat,Privacy Center,
-399,snapchat,Custom Creative Tools Terms,
-400,bygabyardigo,Privacy Policy,
-401,bygabyardigo,Terms Of Service,
-402,bygabyardigo,Refund Policy,
-403,listudy,Privacy Policy,
-404,listudy,Terms of Service,
-405,skycloud,Privacy Policy,
-406,brave,Privacy policy,
-407,brave,"Brave websites, forums and email privacy policy",
-408,brave,Brave Rewards Advertiser Privacy Policy,
-409,criptext,Privacy Policy,
-410,spotify,Terms and Conditions of Use,
-411,spotify,Privacy Policy,
-412,easynews,Privacy Policy,
-413,adventurer'scodex,Terms & Conditions ,
-414,adventurer'scodex,Privacy Policy,
-415,auttaja,Privacy Policy,
-416,pepper&carrot,Terms of Service and Privacy,
-417,doxy,Terms of Service,
-418,doxy,Privacy Policy,
-419,discovery,Visitor Agreement,
-420,threemaweb,Privacy Policy,
-421,tinder,Terms of Service,
-422,tinder,Privacy Policy,
-423,letsencrypt,Privacy Policy,
-424,themodarchive,Terms & Disclaimer,
-425,eve-online,EVE Online - Terms of Service,
-426,uncrownedempire,Privacy Policy,
-427,uncrownedempire,Terms of Use,
-428,4chan,Rules,
-429,mapquest,Privacy Policy,
-430,kingjamesbibleapp,Privacy Policy,
-431,spideroak,Terms of Use,
-432,spideroak,Privacy Policy,
-433,dailymotion,Copyright Notification,
-434,dailymotion,Terms of Use,
-435,dailymotion,Cookie Policy,
-436,dailymotion,Privacy Policy,
-437,leagueoflegends,Terms of Service,
-438,leagueoflegends,Privacy Notice,
-439,leagueoflegends,Cookie Policy,
-440,liamrosenfeld-com,Privacy Policy,
-441,malwarebytes,Terms of Service,
-442,malwarebytes,Privacy Policy,
-443,groupon,Privacy Policy,
-444,bitbucket,Atlassian Cloud Terms of Service,
-445,bitbucket,Privacy Policy,
-446,bitbucket,Cookies & Tracking Notice,
-447,etsy,Privacy Policy,
-448,etsy,Terms of Use,
-449,etsy,Terms of Use (updated),
-450,etsy,Cookies & Similar Technologies Policy (June 2019),
-451,uphold,Membership Agreement - USA Users,
-452,sync,Terms of Service,
-453,sync,Privacy Policy,
-454,sync,Account Security,
-455,crowdmark,Privacy Policy,
-456,crowdmark,Terms of Service,
-457,shapeshift,Privacy Policy,
-458,firefox-accounts,Terms of Service,
-459,firefox-accounts,"Websites, Communications & Cookies Privacy Notice",
-460,how-togeek,Privacy Policy,
-461,securisend,Terms of Service,
-462,securisend,Privacy Policy,
-463,masjidtucson,Privacy Policy,
-464,creditkarma,Terms of Service (full),
-465,humblebundle,Cookie Policy,
-466,youtube,Terms of Service,
-467,youtube,Privacy Policy,
-468,youtube,Violent Criminal Organizations Policy,
-469,fullcontact,Privacy Policy,
-470,jagex,Terms and Conditions,
-471,jagex,Cookies Policy,
-472,jagex,Privacy Policy,
-473,humanrightsfoundation,Privacy Policy,
-474,fastmail,Privacy Policy,
-475,fastmail,Terms of Service,
-476,fastmail,Cookies Policy,
-477,fastmail,2FA,
-478,fastmail,Help and Support,
-479,fastmail,How Fastmail provide a secure service,
-480,biblegateway,Terms of Use,
-481,biblegateway,Privacy Policy,
-482,biblegateway,Widget Terms of Service,
-483,tumblr,Terms of Service,
-484,tumblr,Privacy Policy,
-485,neurohrbytessoftware,Privacy Policy [English],
-486,cloudflare,Cloudflare Self-Serve Subscription Agreement,
-487,cloudflare,Cloudflare Cookie Policy,
-488,cloudflare,Website Terms of Use,
-489,cloudflare,Cloudflare Privacy Policy,
-490,blackboard, Blackboard Privacy Statement,
-491,blackboard, Blackboard Cookie Statement,
-492,blackboard, Blackboard Privacy Shield Statement,
-493,blackboard, Blackboard Terms of Use,
-494,couchsurfing,Privacy Policy,
-495,couchsurfing,Terms of Use,
-496,opentradestatistics,Project goals,
-497,opentradestatistics,Code of conduct,
-498,vinted,Terms and conditions,
-499,amazonaws, AWS Privacy Notice,
-500,toptree-cc,Terms of Service,
-501,toptree-cc,Privacy Policy,
-502,duplicateofservice596,Terms of Service,
-503,bumble,Terms of Service,
-504,attainbyaetna,Privacy Policy,
-505,kickstarter,Cookies & Other Technologies,
-506,kickstarter,Terms of Use,
-507,wikihow,Privacy Policy,
-508,wikihow,Cookie Policy,
-509,disqus,Terms of Service,
-510,disqus,Third Party Advertising Partners,
-511,disqus,Privacy Policy,
-512,osmand,Privacy Policy,
-513,arc-games,Terms of Service,
-514,shmoop,Privacy Policy,
-515,telegram,Terms of Service,
-516,telegram,FAQ,
-517,telegram,Privacy Policy,
-518,kaspersky,Web Privacy Policy,
-519,1password,AgileBits Privacy Policy,
-520,1password,Terms of Service,
-521,intercom,Intercom Subscription Terms of Service,
-522,blendswap,Terms of Use,
-523,blendswap,Licenses,
-524,icann,Terms of service,
-525,icann,Cookies policy,
-526,icann,Privacy policy,
-527,yahoo,Terms of Service,
-528,yahoo,Privacy Policy,
-529,yahoo,Privacy Topic Location,
-530,planio,Terms and Conditions,
-531,planio,Privacy Policy,
-532,bitdefender,Privacy Policy for Bitdefender Home Solutions,
-533,bitdefender,Privacy Policy For BitDefender Websites,
-534,albine,Privacy Policy,
-535,massdrop,Privacy Policy,
-536,massdrop,Terms of Service,
-537,nabucasa,Privacy Policy,
-538,aliexpress,Terms of Use,
-539,indiegogo,Terms of Use,
-540,indiegogo,Cookie Policy,
-541,pocket,Terms of Service,
-542,pocket,Privacy Policy,
-543,epicgames,Terms of Service,
-544,epicgames,Privacy Policy,
-545,epicgames,Enable Multi-Factor Authentication (MFA): Epic Games Account Security & Privacy,
-546,offtopical-netpodcast,Privacy,
-547,lydia,Privacy Policy,
-548,istudiez,Privacy Policy,
-549,netflix,Privacy Statement,
-550,netflix,Terms of Use,
-551,trello,Privacy Policy,
-552,trello,Trello Privacy Policy,
-553,trello,Atlassian Cloud Terms of Service,
-554,habbo,Privacy Policy,
-555,habbo,Terms of Service,
-556,hq,Rules,
-557,hq,Rest of the World Privacy Policy,
-558,hq,Terms of Use,
-559,genshinimpact,Privacy Policy,
-560,zappos,Terms of Use,
-561,shortcutworld-com,Terms of Use,
-562,directly-cxautomation;expertsattheheartofai,"Privacy Policy Effective Date: Last Updated as of March 18, 2019.",
-563,directly-cxautomation;expertsattheheartofai,"Terms of Service  Effective Date: Last Updated as of March 18, 2019.",
-564,herbalife,Terms of Use,
-565,honey,Privacy Policy,
-566,controlc-com,DMCA Policy,
-567,controlc-com,Terms of Use & Privacy Policy,
-568,youtubekids,Privacy Notice,
-569,coinbase,MARKET DATA TERMS OF USE,
-570,coinbase,COINBASE USER AGREEMENT,
-571,deepl,Privacy Policy,
-572,idka,Terms and Conditions,
-573,idka,Privacy Policy,
-574,idka,Cookie Policy,
-575,zoosk,Privacy Policy,
-576,420a3-com,Cookie Policy,
-577,420a3-com,Privacy Policy,
-578,420a3-com,Terms of Service,
-579,layersoflondon,Contributor Agreement,
-580,ikeausa,Privacy Policy,
-581,codecombat,Privacy Policy,
-582,wordpress-com,Terms of Service,
-583,wordpress-com,Privacy Policy (Automattic),
-584,khanacademy,Terms of Service,
-585,khanacademy,Privacy Policy,
-586,qubesos,Privacy Policy,
-587,boingo,Privacy Policy,
-588,boingo,Terms of Service and Acceptable Use Policy,
-589,nytimes,Privacy Policy,
-590,houseparty,Privacy Policy,
-591,houseparty,Terms of Service,
-592,newyorktimes,Terms of Service,
-593,grabcraft,Indemnity,
-594,paper-li,Privacy Policy,
-595,paper-li,Terms of Service,
-596,razer,Privacy Policy,
-597,musicbrainz,Privacy Policy,
-598,musicbrainz,Data License,
-599,musicbrainz,Social Contract,
-600,blogspot,Privacy Policy,
-601,linustechtips-com,Registration Terms,
-602,linustechtips-com,Privacy Policy,
-603,expertsattheheartofai,"Privacy Policy Effective Date: Last Updated as of March 18, 2019.",
-604,yandex,Privacy Policy,
-605,yandex,Terms of service,
-606,repl-it,Repl.it Privacy Policy,
-607,ebird,Terms of Use,
-608,freesteamkeys,Privacy Policy,
-609,freesteamkeys,Terms of Use,
-610,wanikani,Terms of Service,
-611,wanikani,Privacy Policy,
-612,perfectprivacyvpn,Privacy Policy,
-613,perfectprivacyvpn,Customer Policy,
-614,youneedabudget,Terms Of Service,
-615,youneedabudget,Privacy Policy,
-616,quake,Privacy Policy,
-617,quake,Legal Notices,
-618,quake,Terms of Use,
-619,quake,EULA,
-620,remove-bg,Terms of  Service,
-621,remove-bg,Privacy Policy,
-622,tempmail,Privacy Policy,
-623,kjvpce,We Respect your privacy,
-624,viagogo,Terms and Conditions,
-625,viagogo,Privacy Policy,
-626,viagogo,Cookies Policy,
-627,bluestacks,Terms of Use,
-628,overleaf,Privacy & Terms,
-629,kolabnow,Terms of Service,
-630,statefarm,Terms of Use,
-631,avaaz,Privacy Policy,
-632,fireapps,Privacy Policy,
-633,tapas,Terms,
-634,tapas,Privacy Policy,
-635,hackerwars,Privacy Policy,
-636,hackerwars,Terms of Service and Use,
-637,ytmp3-cc,Privacy Policy,
-638,ytmp3-cc,Terms of Use,
-639,inaturalist,Privacy Policy,
-640,sony,Terms of Service,
-641,whatsapp,Terms of Service ,
-642,whatsapp,Privacy Policy,
-643,cloudant,Terms of Service,
-644,flightrising,Terms of Use,
-645,flightrising,Privacy Policy,
-646,prezi,Security,
-647,prezi,Terms of Use,
-648,tutanota,FAQs,
-649,tutanota,CGV,
-650,tutanota,Privacy,
-651,aleksandartodorović(r3bl),Privacy Policy,
-652,protonvpn,Does ProtonVPN store user information?,
-653,protonvpn,Terms and Conditions of Service,
-654,protonvpn,Privacy Policy,
-655,yr,Privacy Policy,
-656,redpocket,Terms and Conditions,
-657,redpocket,Privacy Policy,
-658,freeforums,Privacy Policy,
-659,pocketcasts,Privacy Policy,
-660,pocketcasts,Terms of Use – Pocket Casts Plus,
-661,facebook,Cookie Policy,
-662,facebook,What information does Facebook get when I visit a site with the Like button?,
-663,facebook,Data Policy,
-664,facebook,Terms of Service,
-665,royalsocietyofchemistry,Privacy Policy,
-666,mailin-vote,main page,
-667,microsoft-store,Privacy Statement,
-668,ctrlaltdev,Privacy Policy,
-669,craigslist,Terms of Use,
-670,craigslist,Privacy Policy,
-671,ruqqus,Terms of Service,
-672,ruqqus,Content Policy,
-673,ruqqus,Legal Policies,
-674,betterhelp,Terms and Conditions,
-675,betterhelp,Privacy Policy,
-676,sharklasers,SharkLasers Terms of Service,
-677,thumbzilla,Terms of Service,
-678,wikipedia,Terms of Use,
-679,wikipedia,Privacy Policy,
-680,crowdin,Privacy Policy,
-681,honeypot,Privacy Policy,
-682,spinonline,Privacy Policy,
-683,dnd5e-info,Privacy Statement,
-684,vudu,Terms of Service,
-685,ask,Terms of Use,
-686,ask,Cookie Policy,
-687,ask,Privacy Policy,
-688,jstor,Privacy Policy,
-689,turnitin,Privacy Policy,
-690,turnitin,End-User License Agreement,
-691,enpass,Terms of Use,
-692,archiveofourown,Terms of Service,
-693,shoutwiki,Privacy Policy,
-694,shoutwiki,Terms of use,
-695,prioritymatrix,Privacy Policy,
-696,fiverr,Privacy Policy,
-697,devsoap,Privacy Policy,
-698,webmd,Cookie Policy,
-699,webmd,Terms and Conditions of Use,
-700,webmd,Privacy Policy,
-701,10minutemail,Privacy Policy,
-702,newgrounds,Privacy Policy,
-703,newgrounds,Terms Of Use,
-704,saveourbank,Privacy policy,
-705,moovweb,Corporate Website ToS,
-706,blablacar,Privacy Policy,
-707,blablacar,Cookies Policy,
-708,blablacar,Terms and Conditions,
-709,bol-d-air-net,Privacy Policy,
-710,likee,TERMS OF USE,
-711,likee,Privacy Policy,
-712,likee,Cookie Policy,
-713,shopify, Terms of Service,
-714,ello,Terms,
-715,bittorrent,Privacy Policy,
-716,chase,Terms of Use,
-717,wizardsofthecoast,Privacy Policy,
-718,jonhosting,Privacy Policy,
-719,microsoft,Terms of Use,
-720,microsoft,Services Agreement,
-721,microsoft,Privacy Statement,
-722,taskade,Privacy Policy,
-723,taskade,Terms of Service,
-724,mycroftai,Terms of use,
-725,mycroftai,Privacy Policy,
-726,quizlet,Privacy Policy,
-727,quizlet,Cookie Policy,
-728,quizlet,Terms of Service,
-729,quizlet,DMCA,
-730,cengage,Terms of Use ,
-731,blendermarket,Privacy Policy,
-732,eyewire,Terms & Privacy Policy,
-733,creativecommons,Master Privacy Policy,
-734,creativecommons,Master Terms of Use,
-735,nabble,Terms of Service,
-736,byte,Privacy Policy,
-737,byte,Terms of Service,
-738,spigotmc,Terms & Rules,
-739,spigotmc,Cookie Usage,
-740,spigotmc,Privacy Policy,
-741,rapidshare,Privacy Policy,
-742,uswarrantservice,Warning,
-743,hcaptcha,Privacy Policy,
-744,hcaptcha,Master Terms of Service,
-745,observable,Terms of Service,
-746,kahoot!,Privacy Policy,
-747,kahoot!,Terms and Conditions,
-748,scratch,Privacy Policy,
-749,scratch,Scratch Community Guidelines,
-750,scratch,Terms of Use,
-751,scratch,DMCA,
-752,evaneos,Privacy Policy,
-753,actblue,Privacy Policy,
-754,actblue,The Fine Print,
-755,rampow,Terms of use,
-756,harpermacawshop,Privacy Policy – Harper Macaw,
-757,harpermacawshop,Terms & Conditions – Harper Macaw,
-758,fakku,Privacy Policy,
-759,fakku,Terms of Service,
-760,nokia,User Agreement,
-761,softpedia,Terms and Conditions of Use,
-762,at-t,Privacy Policy,
-763,zillow,Terms of Use,
-764,zillow,Privacy Policy,
-765,mysudo,Terms of Service,
-766,dashlane,Terms of Service,
-767,xvideos,Terms of service,
-768,xvideos,Anti-Piracy Statement,
-769,xvideos,Anti-Piracy Statement,
-770,gravatar,Terms of Service,
-771,gladly,Privacy Policy,
-772,gladly,Terms of Service,
-773,faceapp,Terms of Use,
-774,pinboard,Pinboard Terms of Service,
-775,niche,User Agreement,
-776,niche,Privacy Policy,
-777,quickbooks,Intuit Terms of Service (USA),
-778,coursera,Terms of Use,
-779,coursera,Cookies Policy,
-780,weasyl,Privacy Policy,
-781,weasyl,Terms of Service,
-782,packagetrackr,Terms of Service,
-783,dropbox,Terms,
-784,dropbox,Privacy Policy,
-785,dropbox,Privacy Policy FAQ,
-786,discoursehosting,Privacy Policy,
-787,discoursehosting,Terms of Service,
-788,blogtrottr,"Policies, Terms and Conditions",
-789,openwrtforum,Privacy,
-790,openwrtforum,Terms of Service,
-791,whirlpool,Terms of Use,
-792,venmo,User Agreement,
-793,yakka,Privacy Policy,
-794,cloze,Privacy Policy,
-795,virtualworldcomputingcocoonmydatarewards,Terms of Service,
-796,envato,Privacy Policy,
-797,envato,Envato Market Terms,
-798,1muslim,Terms and Conditions,
-799,abc-australia,Terms of Use,
-800,mozilla-org,Privacy policy,
-801,mozilla-org,Website Privacy policy,
-802,tacticaltech,Tactical tech's data use policy,
-803,digitalocean,Terms of Service,
-804,tosdr,Terms Of Service,
-805,doublelist,Terms of Use,
-806,github,Terms of Service,
-807,github,Privacy Policy,
-808,witches-livemastodon,Terms,
-809,artspace,Terms of Use,
-810,artspace,Privacy Policy,
-811,patook,Terms of Service,
-812,patook,Privacy Policy,
-813,twitter,Terms of Service,
-814,twitter,Privacy Policy,
-815,mullvad,Privacy Policy,
-816,gab,Guidelines,
-817,netsymstechnologies,Legal and Service Information,
-818,politics&war,Game Rules,
-819,coinbase–,COINBASE COOKIE POLICY,
-820,coinbase–,MARKET DATA TERMS OF USE,
-821,coinbase–,CB Payments & COINBASE UK PRIVACY POLICY,
-822,pythontutor,Terms of Service,
-823,drop,Privacy Policy,
-824,drop,Terms of Service,
-825,mailfence,Terms of Use,
-826,mailfence,Privacy Policy,
-827,mailfence,2FA,
-828,mailfence,Encryption details,
-829,ankiweb,Privacy Policy,
-830,ankiweb,Terms and Conditions,
-831,"atlassian(incl-trello,bitbucket)",Atlassian Cloud ToS,
-832,"atlassian(incl-trello,bitbucket)",Privacy Policy,
-833,"atlassian(incl-trello,bitbucket)",Cookies & Tracking Notice,
-834,ironhorsegames,Iron Horse Games' Privacy Policy,
-835,ironhorsegames,License Terms,
-836,nintendo,Nintendo Tech Support Forums Terms of Use,
-837,evernote,Terms of Service,
-838,evernote,Privacy Policy,
-839,ebay,Cookie notice,
-840,ebay,User Agreement,
-841,slack,Privacy Policy,
-842,slack,Terms of Service,
-843,slack,Acceptable Use,
-844,privacytoolsio,forum.privacytools.io Terms of Service,
-845,flattr,Terms of Use,
-846,flattr,Privacy Policy,
-847,wattpad,Terms of service,
-848,wattpad,Privacy Policy,
-849,thesession,Privacy policy,
-850,reddit,Privacy Policy,
-851,reddit,Reddit User Agreement,
-852,gov-uk,Cookies,
-853,gov-uk, Privacy notice,
-854,cashapp,Terms of Service,
-855,cashapp,Privacy Policy,
-856,cashapp,Terms of Service Square Inc,
-857,kink-com,Privacy Policy,
-858,kink-com,Terms of Use,
-859,bitwarden,Terms of service,
-860,feedly,Privacy Policy,
-861,feedly,Terms of Service,
-862,google,Privacy Policy,
-863,myanimelist,Terms of Use Agreement,
-864,myanimelist,Privacy Policy,
-865,ecosia,Privacy,
-866,livejournal,Terms of Service,
-867,tos;drphoenix,Terms of Service and Privacy Policy,
-868,soundcloud,Privacy Policy,
-869,soundcloud,Terms of Service,
-870,houzz,Privacy Policy,
-871,houzz,Terms of Use,
-872,infosechandbook,Privacy policy,
-873,linewebtoon,Terms of Use,
-874,musescore,Terms of Service,
-875,redbubble,User Agreement,
-876,redbubble,Intellectual Property and Publicity Rights,
-877,redbubble,Privacy Policy,
-878,privacyinternational,Privacy Policy,
-879,theomnigroup,Unsolicited Idea Submission Policy,
-880,plexsolutions,Privacy Policy,
-881,plexsolutions,Tracking Technologies,
-882,plexsolutions,Terms of Service,
-883,icepop,Privacy Policy,
-884,godaddy,Privacy Policy,
-885,royalsocietyofchemistrypublications,Privacy Policy,
-886,scrubly,Terms of Use,
-887,pinterest,Privacy policy,
-888,pinterest,Terms of Service,
-889,pinterest,Personalization and Data Help Page,
-890,linkedin,Terms of Service,
-891,linkedin,Privacy Policy,
-892,linkedin,Do Not Track Policy,
-893,tartle,Privacy Policy & ToS,
-894,projectgutenberg,Terms of Use,
-895,paypal-com-duplicateofservice230,Privacy Statement,
-896,metacafe,Privacy Policy,
-897,metacafe,Terms of Service,
-898,setlisting,Cookies and Privacy Policy,
-899,setlisting,Terms of Use,
-900,slither-io,Privacy Policy,
-901,alignable,Terms and Conditions,
-902,bose,Privacy Policy,
-903,masonbee,Privacy Policy,
-904,warnerbros,Privacy Policy,
-905,seenthis,Intellectual Property,
-906,sophos,End User License Agreement,
-907,sophos,Privacy Policy,
-908,speedtestbyookla,Privacy Policy,
-909,speedtestbyookla,Terms of Use,
-910,pixabay,Privacy Policy,
-911,pixabay,Terms of Service,
-912,roll20,Who owns Orr Group materials?,
-913,hinterlandforums,Registration Terms,
-914,hinterlandforums,Privacy Policy,
-915,strava,Cookie Policy,
-916,strava,Terms of Service,
-917,presearch,Terms & Conditions,
-918,rabbit,Terms of Service & User License,
-919,bandcamp,Copyright Policy,
-920,bandcamp,Terms of Use,
-921,bandcamp,Privacy Policy,
-922,openhumans,Data Use Policy,
-923,openhumans,Public Data Guidelines,
-924,nvidia,Privacy Policy,
-925,mailchimp, Terms of Use ,
-926,oculus,Oculus Cookie Policy,
-927,olx,Policy on Cookies and Similar Technologies,
-928,olx,Terms of Use,
-929,olx,Privacy Policy,
-930,wire,Privacy Policy,
-931,e621_e926,e621:terms of service,
-932,e621_e926,Takedown Policy and Process,
-933,e621_e926,e621 Community Code of Conduct and Site Rules,
-934,walmart,Walmart Privacy Policy,
-935,thebuttonbox,Privacy policy,
-936,mint.com,Terms of Use,
-937,mint.com,Privacy Policy,
-938,deviantart,Terms of Service,
-939,deviantart,Privacy Policy,
-940,xing,Terms and Conditions.txt,
-941,healthline,Terms of Use,
-942,healthline,Privacy Policy,
-943,goodtodo,Privacy Policy,
-944,zapier,Privacy Policy,
-945,huawei,Privacy Policy,
-946,huawei,Terms of Use,
-947,huawei,Cookies Policy,
-948,openbookpublishers,Privacy Policy,
-949,tripadvisor,Privacy Policy,
-950,tripadvisor,Terms of Service,
-951,medtinker,Privacy Policy,
-952,sonicdrive-in,Terms of Use,
-953,tos;dr,Legal information,
-954,tos;dr,About our edit tool,
-955,tos;dr,Terms of Service,
-956,e926,e621:terms of service,
-957,e926,e621 Community Code of Conduct and Site Rules,
+0,signal,Terms of Service & Privacy Policy,https://signal.org/legal/
+1,signal,Signal and the General Data Protection Regulation (GDPR),https://support.signal.org/hc/en-us/articles/360007059412-Signal-and-the-General-Data-Protection-Regulation-GDPR-
+2,signal,"Grand jury subpoena for Signal user data, Eastern District of Virginia",https://signal.org/bigbrother/eastern-virginia-grand-jury/
+3,wemod,Privacy Policy,https://www.wemod.com/privacy
+4,wemod,Terms and Conditions,https://www.wemod.com/terms
+5,whatismyip-com,Privacy Policy,https://www.whatismyip.com/privacy-policy/
+6,whatismyip-com,Terms And Conditions Of Use,https://www.whatismyip.com/terms-and-conditions-of-use/
+7,upcloud,Privacy policy,https://upcloud.com/privacy-policy/
+8,upcloud,Terms of service,https://upcloud.com/terms-of-service/
+9,customink,User Agreement & Policies,https://www.customink.com/about/user_agreement
+10,customink,Privacy Policy,https://www.customink.com/about/privacy
+11,brilliant,Cookie Policy,https://brilliant.org/terms-of-use/
+12,brilliant,Terms of Use,https://brilliant.org/cookie-policy/
+13,brilliant,Privacy Policy,https://brilliant.org/privacy/
+14,clockify,Privacy Policy,https://clockify.me/privacy
+15,nextdns,Privacy Policy,https://nextdns.io/privacy
+16,ebsco,Privacy Policy,https://www.ebsco.com/company/privacy-policy
+17,miraheze,Terms of Use,https://meta.miraheze.org/wiki/Terms_of_Use
+18,miraheze,Privacy Policy,https://meta.miraheze.org/wiki/Privacy_Policy
+19,pure,Privacy Policy,https://pure.app/policy/
+20,jontv,Privacy,https://jontv.me/legal/privacy.html
+21,cbsinteractive,Privacy Policy,https://cbsinteractive.com/legal/cbsi/privacy-policy/20150528
+22,openmailbox,Privacy Policy,https://openmailbox.com/privacy
+23,zenimaxmediainc-,Privacy Policy,https://www.zenimax.com/legal_privacy
+24,qwant,Terms of Service,https://about.qwant.com/legal/terms-of-service/qwant-boards/#help_details
+25,virtbiz,Terms of Service,https://www.virtbiz.com/about/tos/
+26,any-do,Application License Agreement,https://www.any.do/legal/app-license-agreement
+27,pixel8earth,Privacy Policy,https://pixel8.earth/#/privacy
+28,pixel8earth,Terms of Use,https://pixel8.earth/#/terms
+29,pcloud,Terms and Conditions,https://www.pcloud.com/terms_and_conditions.html
+30,pcloud,Privacy Notice,https://www.pcloud.com/privacy_policy.html
+31,amazonprimevideo,Amazon Interest-Based Ads,https://www.amazon.com/gp/help/customer/display.html?nodeId=GLVB9XDF9M8MU7UZ
+32,amazonprimevideo,Amazon Privacy Notice,https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ
+33,sprint,Sprint Terms and Conditions,https://www.sprint.com/en/legal/terms-and-conditions.html
+34,stackoverflow,Privacy Policy,https://stackoverflow.com/legal/privacy-policy
+35,stackoverflow,Cookie Policy,https://stackoverflow.com/legal/cookie-policy
+36,stackoverflow,Public Network Terms of Service,https://stackoverflow.com/legal/terms-of-service/public
+37,nortonlifelock,Website Terms of Use,https://www.nortonlifelock.com/us/en/legal/terms-of-use/
+38,gitlab,Terms of Service,https://about.gitlab.com/terms/
+39,gitlab,Privacy Policy,https://about.gitlab.com/privacy/
+40,vk,Terms of Service,https://vk.com/terms
+41,airbnb,Privacy Policy,https://www.airbnb.com/help/article/2855/privacy-policy
+42,airbnb,Cookie Policy,https://www.airbnb.com/help/article/2866/airbnb-cookie-policy
+43,adobe,Terms of Use,https://www.adobe.com/legal/terms.html
+44,adobe,Privacy Policy,https://www.adobe.com/privacy/policy.html
+45,websaver,Terms and Conditions,https://websaver.ca/en_ca/terms-conditions/
+46,mcdonald's,Terms and Conditions,https://www.mcdonalds.com/us/en-us/terms-and-conditions.html
+47,mcdonald's,Privacy Policy,https://www.mcdonalds.com/us/en-us/privacy.html
+48,kitsu,Terms,https://kitsu.io/terms
+49,meetup,Privacy Policy,https://www.meetup.com/privacy/
+50,meetup,Terms of Service,https://help.meetup.com/hc/en-us/articles/360027447252
+51,meetup,Cookie Policy,https://help.meetup.com/hc/en-us/articles/360046339551
+52,akshit'sblog,Privacy Policy,https://axit.me/cdn/privacy-policy.pdf
+53,roblox-com,Community Rules,https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Rules
+54,weebly,Terms of Service,https://www.weebly.com/terms-of-service
+55,joinrun,Privacy Policy,https://join.run/privacy
+56,pexgle, Content Policy ,https://www.pexgle.com/content-policy/
+57,pexgle,Privacy Policy ,https://www.pexgle.com/privacy-policy/
+58,pexgle, Terms and Conditions ,https://www.pexgle.com/terms-and-conditions/
+59,apple,Website Terms of Service,https://www.apple.com/legal/internet-services/terms/site.html
+60,apple,Privacy Policy,https://www.apple.com/legal/privacy/en-ww/
+61,apple,iCloud Terms of Service,https://www.apple.com/legal/internet-services/icloud/
+62,apple,iTunes Terms of Service,https://www.apple.com/legal/internet-services/itunes/us/terms.html
+63,dr-mcdougall'shealth&medicalcenter,Terms of Service,https://www.drmcdougall.com/terms-of-service/
+64,newegg-com,Privacy Policy,https://kb.newegg.com/knowledge-base/privacy-policy-newegg/
+65,yelp,Terms of Service,https://terms.yelp.com/tos/en_us/20200101_en_us/
+66,yelp,Privacy Policy,https://terms.yelp.com/privacy/en_us/20200101_en_us/
+67,carfax,Privacy Statement,https://www.carfax.com/company/privacy-statement
+68,instructure,Marketing Privacy Policy,https://www.instructure.com/policies/marketing-privacy
+69,genius,Terms of Service,https://genius.com/static/terms
+70,genius,Privacy Policy,https://genius.com/static/privacy_policy
+71,vivaldi,Cookie Policy,https://vivaldi.com/privacy/cookie-policy/
+72,vivaldi,Community Privacy Policy,https://vivaldi.com/privacy/community-privacy-policy/
+73,vivaldi,End User License Agreement,https://vivaldi.com/privacy/vivaldi-end-user-license-agreement/
+74,ynab,Privacy Policy,https://www.youneedabudget.com/privacy-policy/
+75,kairossoftware,Privacy Policy,https://kairos-software.net/privacy-policy/
+76,jetbrains,Terms of Use,https://www.jetbrains.com/legal/docs/company/useterms.html
+77,jetbrains,Privacy Policy,https://www.jetbrains.com/legal/docs/privacy/privacy.html
+78,diytubevideocommunity,DIY TUBE Terms and Conditions,https://www.diytube.info/terms-of-service/
+79,windowslogicproductions,Terms of Service,https://windowslogic.co.uk/terms.php
+80,windowslogicproductions,Privacy Policy,https://windowslogic.co.uk/privacy-policy.php
+81,discogs,Terms of Service,https://support.discogs.com/hc/en-us/articles/360009334333-Terms-of-Service
+82,digitaladvertisingplatform|reklamstore,Cookie Policy,https://www.reklamstore.com/cookie-policy//
+83,digitaladvertisingplatform|reklamstore,Terms and Conditions,https://www.reklamstore.com/terms-and-conditions
+84,square,General Terms of Service,https://squareup.com/us/en/legal/general/ua
+85,cnn,Terms of Use,https://www.cnn.com/terms
+86,forbes,Terms and Conditions,https://www.forbes.com/terms-and-conditions/
+87,forbes,Privacy Statement,https://www.forbes.com/privacy/english/
+88,hulu,Terms of Use,https://www.hulu.com/terms
+89,hulu,Privacy Policy,https://www.hulu.com/privacy
+90,npm,Open-Source Terms,https://www.npmjs.com/policies/open-source-terms
+91,w3schools,Cookies and Privacy Policy - About Privacy,https://www.w3schools.com/about/about_privacy.asp
+92,w3schools,Terms of Use - About Copyright,https://www.w3schools.com/about/about_copyright.asp
+93,etesync,Terms and Conditions,https://www.etesync.com/tos/
+94,librarything,"Privacy Policy, Community Rules, and Terms of Service",https://www.librarything.com/privacy
+95,surfshark,Privacy Policy,https://surfshark.com/privacy-policy
+96,surfshark,Terms Of Service,https://surfshark.com/terms-of-service
+97,wikimedia,Terms of Use,https://foundation.wikimedia.org/wiki/Terms_of_Use/en
+98,wikimedia,Privacy Policy,https://foundation.wikimedia.org/wiki/Privacy_policy
+99,yubico,Yubico terms and conditions of sale and license,https://www.yubico.com/support/terms-conditions/yubico-license-agreement/
+100,algolia,Privacy Policy,https://www.algolia.com/policies/privacy/
+101,target,Target Privacy Policy,https://www.target.com/c/target-privacy-policy/-/N-4sr7p
+102,imdb,Terms of Service,https://www.imdb.com/conditions
+103,ripencc,Cookies used by the RIPE NCC,https://www.ripe.net/about-us/legal/cookies
+104,ripencc,Privacy Statement,https://www.ripe.net/about-us/legal/ripe-ncc-privacy-statement
+105,ripencc,Terms of Service,https://www.ripe.net/about-us/legal/terms-of-service
+106,freecodecamp,Terms of Service,https://www.freecodecamp.org/news/terms-of-service/
+107,steam,Steam Subscriber Agreement,https://store.steampowered.com/subscriber_agreement/
+108,steam,Privacy Policy Agreement,https://store.steampowered.com/privacy_agreement/
+109,crunchyroll,Privacy Policy,https://www.crunchyroll.com/privacy
+110,reputation.com,Terms of Use,https://reputation.com/terms-of-use/
+111,reputation.com,Privacy Policy,https://reputation.com/privacy-policy/
+112,coursehero,Privacy Policy,https://www.coursehero.com/privacy-policy/
+113,coursehero,Terms of Use,https://www.coursehero.com/terms-of-use/
+114,vox,Cookie Policy,https://www.voxmedia.com/legal/cookie-policy
+115,vox,Terms of Use,https://www.voxmedia.com/legal/terms-of-use
+116,vox,Privacy Policy,https://www.voxmedia.com/legal/privacy-notice
+117,osu!,Privacy Policy,https://osu.ppy.sh/legal/en/Privacy
+118,pricecharting,Terms of Service,https://www.pricecharting.com/page/terms-of-service
+119,pricecharting,Privacy Policy,https://www.pricecharting.com/page/privacy-policy
+120,guerrillamail,Terms of Service,https://www.guerrillamail.com/tos
+121,guerrillamail,About,https://www.guerrillamail.com/tos
+122,universityofsouthflorida,Privacy Policy,https://www.usf.edu/it/documentation/privacy-policy.aspx
+123,nordvpn,Privacy Policy,https://my.nordaccount.com/legal/privacy-policy/
+124,nordvpn,Terms of Service,https://my.nordaccount.com/legal/terms-of-service/
+125,myspace,Terms of Service,https://myspace.com/pages/toschanges
+126,tellonym,Terms of Use,https://help.tellonym.me/hc/en-us/articles/360003228980-Terms-of-Use
+127,goguardian,Privacy Policy,https://www.goguardian.com/product-privacy/
+128,xfinity,Web Services Terms of Service,https://my.xfinity.com/terms/web/
+129,fandango,Terms of Use,https://www.fandango.com/policies/terms-of-use
+130,fandango,Privacy Policy,https://www.fandango.com/policies/privacy-policy
+131,fandango,Cookies and Tracking,https://www.fandango.com/policies/cookies-and-tracking
+132,fandango,Do Not Sell My Info,https://privacyportal.onetrust.com/webform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/32a60552-d51c-4734-9c16-70a45aa78080
+133,quora,Terms of Service,https://www.quora.com/about/tos
+134,quora,Privacy Policy,https://www.quora.com/about/privacy
+135,lastpass,Terms of Service,https://www.logmein.com/legal/terms-and-conditions
+136,mewe,Terms of Service,https://mewe.com/terms
+137,mewe,Privacy Policy,https://mewe.com/privacy
+138,rightsstatements,Privacy Policy,https://rightsstatements.org/en/privacy_policy
+139,chilliapps-abandonmentprotector,Chilliapps's Data Processing Addendum,https://www.chilliapps.com/dpa
+140,chilliapps-abandonmentprotector,Privacy Policy,https://www.chilliapps.com/privacy
+141,chilliapps-abandonmentprotector, Unsubscribe and delete my information from any sender using this app ,https://unroll.chilliapps.com/followup/delete_information
+142,chilliapps-abandonmentprotector,Terms and Conditions of Use,https://www.chilliapps.com/terms
+143,ancestry,Terms and Conditions,https://www.ancestry.com/cs/legal/termsandconditions
+144,ancestry,Privacy Statement,https://www.ancestry.com/cs/legal/privacystatement
+145,pythonanywhere,Terms and Conditions,https://www.pythonanywhere.com/terms_v2/
+146,pythonanywhere,Privacy and Cookies Policy,https://www.pythonanywhere.com/privacy_v2/
+147,sonic-net,All Policies,https://help.sonic.com/hc/en-us/articles/235963988-Sonic-net-Policies
+148,poker-engine,Privacy Policy,https://poker-engine.com/privacy
+149,electronicfrontierfoundation,Privacy Policy: Software and Technology Projects,https://www.eff.org/code/privacy/policy
+150,wikia,Terms of Use,https://www.fandom.com/terms-of-use
+151,allrecipes,Privacy Policy,https://www.meredith.com/nmg/privacy
+152,allrecipes,Terms and Conditions,https://www.meredith.com/legal/terms
+153,virustotal,Privacy Policy,https://support.virustotal.com/hc/en-us/articles/115002168385-Privacy-Policy
+154,runescape,Privacy Policy,https://www.jagex.com/en-GB/terms/privacy
+155,runescape,Terms and Conditions,https://www.jagex.com/en-GB/terms
+156,kongregate,User Agreement,https://www.kongregate.com/user-agreement
+157,moddb-com,Privacy Policy,https://www.moddb.com/privacy-policy
+158,amnestyinternationallimited(uk),Privacy Policy,https://www.amnesty.org/en/about-us/privacy-policy/
+159,amnestyinternationallimited(uk),Cookie Statement,https://www.amnesty.org/en/about-us/cookie-statement/
+160,lootcrate,Terms and Conditions,https://lootcrate.com/pages/terms-of-service
+161,nitrokey,Data Privacy Policy,https://www.nitrokey.com/data-privacy-policy
+162,standardnotes,What information does Standard Notes collect about me?,https://standardnotes.org/help/5/what-information-does-standard-notes-collect-about-me
+163,standardnotes,What services does Standard Notes use for daily operation?,http://standardnotes.org/help/52/what-services-does-standard-notes-use-for-daily-operation
+164,standardnotes,Our Privacy Manifesto,https://standardnotes.org/privacy
+165,liberapay,Terms of Service,https://liberapay.com/about/legal
+166,liberapay,Privacy,https://liberapay.com/about/privacy
+167,tiktok,Privacy Policy,https://www.tiktok.com/legal/privacy-policy
+168,tiktok,Community Guidelines,https://www.tiktok.com/community-guidelines?lang=en
+169,protonmail,Privacy Policy,https://protonmail.com/privacy-policy
+170,protonmail,Terms of Service,https://protonmail.com/terms-and-conditions
+171,protonmail,Open Source,https://protonmail.com/blog/protonmail-open-source/
+172,protonmail,Information for Law Enforcement Authorities,https://protonmail.com/law-enforcement
+173,hackingwithswift,Privacy Policy,https://www.hackingwithswift.com/privacy
+174,riseup-net,Riseup and Government FAQ,https://riseup.net/en/about-us/policy/government-faq
+175,riseup-net,Terms of Service,https://riseup.net/en/tos
+176,riseup-net,Privacy Policy,https://riseup.net/en/privacy-policy
+177,codewars,Privacy Policy,https://www.codewars.com/about/privacy
+178,codewars,Website Terms of Service,https://www.codewars.com/about/terms-of-service
+179,phone2action,Privacy Policy,https://phone2action.com/privacy-policy-3/
+180,phone2action,Terms of Use,https://phone2action.com/termsofuse/
+181,anonaddy,Terms Of Service,https://anonaddy.com/terms/
+182,anonaddy,Privacy Policy,https://anonaddy.com/privacy/
+183,discord,Terms Of Service,https://discord.com/terms
+184,discord,Privacy Policy,https://discord.com/privacy
+185,samsung, Samsung Services Terms and Conditions,https://terms.account.samsung.com/contents/legal/usa/eng/general.html
+186,furaffinity,Terms of Service,https://www.furaffinity.net/tos
+187,furaffinity,Privacy Policy,https://www.furaffinity.net/privacy
+188,roblox,Terms of Use,https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use
+189,roblox,Privacy and Cookie Policy,https://en.help.roblox.com/hc/en-us/articles/115004630823
+190,roblox,Community Rules,https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Rules
+191,guidefox,Privacy Policy,https://guidefox.org/pages/1/privacy-policy
+192,guidefox,Terms and Conditions,https://guidefox.org/pages/2/terms-of-service
+193,fandom,Terms of Use,https://www.fandom.com/terms-of-use
+194,fandom,Privacy Policy,https://www.fandom.com/privacy-policy
+195,attendify,Terms of Service,https://attendify.com/terms-of-service.html
+196,attendify,Privacy Policy,https://attendify.com/privacy-policy.html
+197,gog-com,Privacy Policy,https://support.gog.com/hc/en-us/articles/212632109-Privacy-Policy?product=gog
+198,cityofreading,CoReadingWebPrivacyPolicy,https://www.readingpa.gov/content/website-privacy-policy
+199,cityofreading,Linking Policy,https://www.readingpa.gov/content/website-linking-policy
+200,amazon,Conditions of Use,https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM
+201,amazon,EU-US and Swiss-US Privacy Shield,https://www.amazon.com/gp/help/customer/display.html?nodeId=202135380
+202,amazon,Amazon Maps Terms of Use,https://www.amazon.com/gp/help/customer/display.html?nodeId=201544030
+203,indeed.com,Terms of Service,https://www.indeed.com/legal?hl=en&redirect=true#tos
+204,instagram,Terms of Use,https://help.instagram.com/581066165581870
+205,instagram,Data Policy,https://help.instagram.com/519522125107875
+206,instagram,About Cookies,https://help.instagram.com/1896641480634370
+207,instagram,Law Enforcement,https://help.instagram.com/494561080557017
+208,instagram,Community Guidelines,https://help.instagram.com/477434105621119/?helpref=hc_fnav&bc[0]=Instagram%20Help&bc[1]=Privacy%20and%20Safety%20Center
+209,salesmate,Privacy Policy,https://www.salesmate.io/privacy-policy/
+210,sparknotes,Terms of Use,https://www.sparknotes.com/terms-of-use/
+211,wetransfer,Terms of Service,https://wetransfer.com/legal/terms
+212,wetransfer,Privacy Policy,https://wetransfer.com/legal/privacy
+213,researchgate,Privacy Policy,https://www.researchgate.net/privacy-policy
+214,researchgate,Terms of Service,https://www.researchgate.net/terms-of-service
+215,patreon,Cookie Policy,https://www.patreon.com/policy/cookies
+216,ko-fi,Terms and Conditions of Use,https://more.ko-fi.com/terms
+217,seats2meet(s2m),Privacy,https://www.seats2meet.com/en/privacy
+218,rainforestalliance,Privacy Policy,https://www.rainforest-alliance.org/privacy-policy
+219,bit-ly,Bitly Privacy Policy,https://bitly.com/pages/privacy
+220,bit-ly,Bitly Terms of Service,https://bitly.com/pages/terms-of-service
+221,inruptinc,Terms of Service,https://inrupt.com/terms-conditions/
+222,letterboxd,Terms and conditions,https://letterboxd.com/legal/terms-of-use/
+223,letterboxd,Privacy Policy,https://letterboxd.com/legal/privacy-policy/
+224,speaky,Privacy Policy,https://www.speaky.com/privacy/
+225,speaky,Terms of Use,https://www.speaky.com/terms/
+226,bitchute,Terms & Conditions,https://support.bitchute.com/policy/terms/
+227,miicharacters,Privacy Policy,https://www.miicharacters.com/privacy.php
+228,ccleaner,What Happens to Your Data,https://www.ccleaner.com/about/privacy-policy/what-happens-to-your-data
+229,ccleaner,Privacy Policy,https://www.ccleaner.com/about/privacy-policy
+230,ccleaner,End User License Agreement,https://www.ccleaner.com/legal/end-user-license-agreement
+231,ryver,Privacy Policy,https://ryver.com/privacy-policy/
+232,ryver,Terms of Service,https://ryver.com/privacy-policy/terms-of-service/
+233,hugeminiatures,Privacy Policy,https://hugeminis.com/privacy-policy/
+234,photofeeler,Terms of Use,https://www.photofeeler.com/terms
+235,heretechnologies|here, Service Terms,https://legal.here.com/us-en/terms
+236,heretechnologies|here, Privacy Policy,https://legal.here.com/us-en/privacy/policy
+237,heretechnologies|here,"HERE WeGo, HERE application and HERE Maps Service Terms ",https://legal.here.com/en-gb/terms/here-wego-here-application-and-here-maps-service-terms
+238,heretechnologies|here,Mobility Products Privacy Policy,https://legal.here.com/en-gb/privacy/mobility-products-privacy-policy
+239,mondosol,Cookies Policy,https://moodlecloud.com/app/en/cookies
+240,mondosol,Privacy Notice,https://mondosol.com/privacy/
+241,apple-icloud,Terms of Service (US),https://www.apple.com/legal/internet-services/icloud/en/terms.html
+242,apple-icloud,Terms of Service (EU),https://www.apple.com/uk/legal/internet-services/icloud/en/terms.html
+243,apple-icloud,Privacy policy,https://www.apple.com/legal/privacy/pdfs/apple-privacy-policy-en-ww.pdf
+244,apple-icloud,iCloud security overview,https://support.apple.com/en-us/HT202303
+245,apple-icloud,Canada (English) Terms and Conditions,https://www.apple.com/ca/legal/internet-services/icloud/en/terms.html
+246,paypal,Privacy Statement,https://www.gabcc.org/media/PayPal-Privacy-Policy.pdf
+247,paypal,User Agreement for PayPal Services,https://www.paypal.com/sg/webapps/mpp/ua/useragreement-full
+248,paypal,User Agreement (US),https://www.paypal.com/us/webapps/mpp/ua/useragreement-full
+249,paypal,Privacy Policy,https://www.paypal.com/us/webapps/mpp/ua/privacy-full
+250,paypal,Cookie Statement,https://www.paypal.com/US/webapps/mpp/ua/cookie-full
+251,rationalwiki,Privacy Policy,https://rationalwiki.org/wiki/RationalWiki:Privacy_policy
+252,duolingo,Privacy Policy,https://www.duolingo.com/privacy
+253,duolingo,Terms of Service,https://www.duolingo.com/terms
+254,picturethis,Terms of Service,https://www.picturethisai.com/static/user_agreement
+255,pornhub,Terms & Conditions,https://www.pornhub.com/information/terms
+256,vimeo,Terms of Service,https://vimeo.com/terms
+257,vimeo,Privacy Policy,https://vimeo.com/privacy
+258,startpage,Startpage Privacy Policy,https://www.startpage.com/en/privacy-policy/
+259,academia-edu,Privacy Policy,https://www.academia.edu/privacy
+260,mastodon-social,Privacy Policy,https://mastodon.social/terms
+261,mastodon-social,Code of Conduct,https://mastodon.social/about/more
+262,brainly,Terms of Use,https://brainly.com/pages/terms_of_use
+263,keybase,Terms of Service,https://keybase.io/docs/terms
+264,lib-reviews,Terms and Conditions,https://lib.reviews/terms
+265,isodme,Privacy Policy,https://www.isodme.com/privacy-policy
+266,isodme,Terms of Service,https://www.isodme.com/terms-of-service
+267,parsec,Privacy Policy,https://parsec.app/privacy
+268,parsec,Terms of Service,https://parsec.app/terms
+269,intuitivepassword,Terms of Service,https://www.intuitivepassword.com/en/Company/TermsOfService
+270,dictionary-com,"Privacy & Cookie Policy, Terms of Service",https://www.dictionary.com/e/terms/
+271,tinyurl,Terms of Service,https://tinyurl.im/page/terms
+272,piratepartyaustralia,Privacy Policy,https://pirateparty.org.au/privacy/
+273,scientology,Privacy Policy,https://www.scientology.org/privacy-notice.html
+274,jobaccomodationnetwork,Privacy Statement,https://askjan.org/privacy-statement.cfm
+275,jobaccomodationnetwork,Disclaimer,https://askjan.org/disclaimer.cfm
+276,openweathermap,Privacy Policy,https://openweather.co.uk/privacy-policy
+277,jobvite,Terms of Use,https://www.jobvite.com/terms-of-use/
+278,fosstodon,Privacy Policy,https://fosstodon.org/terms
+279,openstreetmap,Privacy Policy,https://wiki.osmfoundation.org/wiki/Privacy_Policy
+280,openstreetmap,Terms of Service,https://wiki.osmfoundation.org/wiki/Terms_of_Use
+281,techsmith|screencast-com,Screencast Content Deletion Policy,https://support.techsmith.com/hc/en-us/articles/360002565371-TechSmith-Screencast-com-Content-Deletion-Policy-FAQ
+282,wigwamdesign,Privacy Policy,https://www.wigwam.design/privacy
+283,fivestars,Privacy Policy,https://www.fivestars.com/privacy/
+284,fivestars,Legal,https://www.fivestars.com/legal/
+285,bbc,Privacy and Cookies Policy,https://www.bbc.co.uk/usingthebbc/privacy-policy/
+286,bbc,Terms of Use,https://www.bbc.co.uk/usingthebbc/terms/
+287,urban-dictionary,Privacy Policy,https://about.urbandictionary.com/privacy
+288,urban-dictionary,Terms of Service,https://about.urbandictionary.com/tos
+289,huntandjump-stablemanaginggame,Rules and Conditions,https://www.huntandjump.com/rules.php
+290,waze,Cookie Policy,https://www.waze.com/legal/cookies
+291,waze,Privacy Policy,https://www.waze.com/legal/privacy
+292,waze,Copyright Policy,https://www.waze.com/legal/copyright
+293,waze,Terms of Use,https://www.waze.com/legal/tos
+294,colloq-io,Privacy Policy,https://colloq.io/privacy
+295,colloq-io,Terms and Conditions,https://colloq.io/terms
+296,nationalgeographic,Privacy Policy,https://www.nationalgeographic.org/privacy-notice/
+297,nationalgeographic,Terms of Service,https://www.nationalgeographic.org/terms-of-service/
+298,nationalgeographic,Sustainability Policy,https://www.nationalgeographic.org/sustainability-policy/
+299,masjidtucson,Privacy Policy,https://www.masjidtucson.org/quran/app/privacy_policy_Quran_app.html
+300,skype,Terms of Use,https://www.skype.com/en/legal/ios/tos/
+301,ifttt,Privacy Policy,https://ifttt.com/terms
+302,internetarchive,Terms,https://archive.org/about/terms.php
+303,toodledo,Terms of Service,https://www.toodledo.com/info/terms.php
+304,toodledo,Privacy Policy,https://www.toodledo.com/info/privacy.php
+305,runalyze,Terms of Service,https://runalyze.com/legal/tos?_locale=en
+306,runalyze,Privacy Policy,https://runalyze.com/en/legal/privacy
+307,medium,Copyright and DMCA Policy,https://help.medium.com/hc/en-us/articles/214120487-Copyright-DMCA-Policy
+308,minecraft,Terms and Conditions,https://account.mojang.com/terms
+309,nanowrimo,Privacy & Terms,https://nanowrimo.org/terms-conditions
+310,f-lux,Privacy Policy,https://justgetflux.com/privacy/
+311,blizzard,Privacy Policy,https://www.blizzard.com/en-us/legal/a4380ee5-5c8d-4e3b-83b7-ea26d01a9918/blizzard-entertainment-online-privacy-policy
+312,blizzard,End User License Agreement,https://www.blizzard.com/legal/fba4d00f-c7e4-4883-b8b9-1b4500a402ea/blizzard-end-user-license-agreement
+313,blizzard,Blizzard Entertainment Dispute Resolution Policy,https://www.blizzard.com/legal/b2e0b082-fddb-4824-93fa-ee9c1bf814f8/blizzard-entertainment-dispute-resolution-policy
+314,last.fm,Terms of Use,https://www.last.fm/legal/terms
+315,last.fm,CBS Privacy Policy,https://www.last.fm/legal/privacy
+316,duckduckgo,Privacy Policy,https://duckduckgo.com/privacy
+317,psychonautwiki,Privacy policy,https://psychonautwiki.org/wiki/Privacy_policy
+318,ubuntu,Privacy Policy (EN),https://ubuntu.com/legal/data-privacy
+319,searchencrypt,Terms of Service,https://www.searchencrypt.com/about/terms-of-service
+320,lichess,Privacy Policy,https://lichess.org/privacy
+321,lichess,Terms of Service,https://lichess.org/terms-of-service
+322,ubisoft,PRIVACY POLICY,https://legal.ubi.com/privacypolicy/en-US
+323,ubisoft,UBISOFT TERMS OF USE,https://legal.ubi.com/termsofuse/en-US
+324,itch-io,Terms,https://itch.io/docs/legal/terms
+325,itch-io,Privacy Policy,https://itch.io/docs/legal/privacy-policy
+326,totemproject,Terms of Service,https://totem-project.org/terms.html
+327,totemproject,Privacy Policy,https://totem-project.org/privacy.html
+328,readthedocscommunity,Privacy Policy,https://docs.readthedocs.io/en/stable/privacy-policy.html
+329,grammarly,Privacy Policy,https://www.grammarly.com/privacy-policy
+330,grammarly,Terms of Service and License Agreement,https://www.grammarly.com/terms
+331,expobeds,Privacy Policy,https://www.expobeds.com/info/privacy-policy
+332,expobeds,Cookies Policy,https://www.expobeds.com/info/cookies-policy
+333,banned-video,Privacy Policy,https://www.iubenda.com/privacy-policy/31079721/legal
+334,edx,Terms of Service and Honor Code,https://www.edx.org/edx-terms-service
+335,edx,Privacy Policy,https://www.edx.org/edx-privacy-policy
+336,sparkforappraisers,Privacy Policy and Terms of Use,https://app.sparkforappraisers.com/termsandprivacy.html
+337,theguardian,Privacy Policy,https://www.theguardian.com/help/privacy-policy
+338,theguardian,Terms and Conditions,https://www.theguardian.com/help/terms-of-service
+339,dribbble,Privacy Policy,https://dribbble.com/privacy
+340,dribbble,Terms of Service,https://dribbble.com/terms
+341,cnet,Terms of Use,https://cnet-global.com/terms_of_use/
+342,foxnews,Privacy Policy,https://www.foxnews.com/privacy-policy
+343,foxnews,Terms of Use,https://www.foxnews.com/terms-of-use
+344,ballotpedia,Privacy Policy,https://ballotpedia.org/Ballotpedia:Privacy_policy
+345,roboform,RoboForm License and Terms of Use,https://www.roboform.com/license
+346,whereby,Privacy Policy,https://whereby.com/information/tos/privacy-policy/
+347,flickr,Additional Terms of Service,https://www.flickr.com/help/terms
+348,snopes,Terms Of Use,https://www.snopes.com/terms-and-conditions/
+349,huffingtonpost,Terms of Service,https://www.huffingtonpost.ca/static/terms
+350,huffingtonpost,Privacy Policy,https://www.huffpost.com/static/privacy-policy
+351,uber,Terms of Service,https://www.uber.com/legal/en/document/?country=pakistan&lang=en&name=general-terms-of-use
+352,twitch,Privacy Notice,https://www.twitch.tv/p/en/legal/cookie-notice/
+353,twitch,Cookie Policy,https://www.twitch.tv/p/en/legal/privacy-notice/
+354,twitch,Terms of Service,https://www.twitch.tv/p/en/legal/terms-of-service/
+355,goodreads,Terms of Service,https://www.goodreads.com/about/terms
+356,goodreads,Privacy Policy,https://www.goodreads.com/about/privacy
+357,posteo,Terms and Conditions,https://posteo.de/en/site/terms
+358,posteo,Privacy Policy,https://posteo.de/en/site/privacy_policy
+359,snapchat,Privacy Center,https://snap.com/en-US/privacy/privacy-center
+360,snapchat,Custom Creative Tools Terms,https://snap.com/en-US/terms/custom-creative-tools
+361,listudy,Privacy Policy,https://listudy.org/en/privacy
+362,listudy,Terms of Service,https://listudy.org/en/terms-of-service
+363,skycloud,Privacy Policy,https://skycloud.doric.com/en/footer-menu/privacy-policy/
+364,brave,Privacy policy,https://brave.com/privacy/browser/
+365,brave,"Brave websites, forums and email privacy policy",https://brave.com/privacy/website/
+366,brave,Brave Rewards Advertiser Privacy Policy,https://brave.com/privacy/advertiser/
+367,criptext,Privacy Policy,https://www.criptext.com/privacy/
+368,spotify,Terms and Conditions of Use,https://www.spotify.com/us/legal/end-user-agreement/
+369,spotify,Privacy Policy,https://www.spotify.com/us/legal/privacy-policy/
+370,easynews,Privacy Policy,https://www.easynews.com/privacypolicy/
+371,adventurer'scodex,Terms & Conditions ,https://adventurerscodex.com/terms.html
+372,adventurer'scodex,Privacy Policy,https://adventurerscodex.com/privacy.html
+373,auttaja,Privacy Policy,https://app.termly.io/document/privacy-policy/140d203f-604d-4619-a7da-9f61799a62a1
+374,pepper&carrot,Terms of Service and Privacy,https://www.peppercarrot.com/en/static13/terms-of-service-and-privacy
+375,doxy,Terms of Service,https://doxy.me/en/terms-of-service/
+376,doxy,Privacy Policy,https://doxy.me/privacy-policy
+377,discovery,Visitor Agreement,https://corporate.discovery.com/visitor-agreement/
+378,threemaweb,Privacy Policy,https://threema.ch/en/privacy
+379,tinder,Terms of Service,https://policies.tinder.com/terms/us/en
+380,tinder,Privacy Policy,https://policies.tinder.com/privacy/intl/en
+381,letsencrypt,Privacy Policy,https://letsencrypt.org/privacy/
+382,themodarchive,Terms & Disclaimer,https://modarchive.org/index.php?terms
+383,eve-online,EVE Online - Terms of Service,https://community.eveonline.com/support/policies/terms-of-service-en/
+384,uncrownedempire,Privacy Policy,https://uncrownedempire.com/index.php?/privacy/
+385,uncrownedempire,Terms of Use,https://uncrownedempire.com/index.php?/terms/
+386,4chan,Rules,https://www.4channel.org/rules
+387,mapquest,Privacy Policy,https://map-quest.co/privacy-policy/
+388,spideroak,Terms of Use,https://spideroak.com/terms-of-service/
+389,spideroak,Privacy Policy,https://spideroak.com/privacy-policy/
+390,dailymotion,Copyright Notification,https://www.dailymotion.com/legal/copyright
+391,dailymotion,Terms of Use,https://www.dailymotion.com/legal
+392,dailymotion,Cookie Policy,https://www.dailymotion.com/legal/cookiemanagement
+393,dailymotion,Privacy Policy,https://www.dailymotion.com/legal/privacy
+394,leagueoflegends,Terms of Service,https://www.riotgames.com/en/terms-of-service
+395,leagueoflegends,Privacy Notice,https://www.riotgames.com/en/privacy-notice
+396,leagueoflegends,Cookie Policy,https://euw.leagueoflegends.com/en/legal/cookie-policy
+397,malwarebytes,Terms of Service,https://www.malwarebytes.com/tos/
+398,malwarebytes,Privacy Policy,https://www.malwarebytes.com/privacy/
+399,groupon,Privacy Policy,https://www.groupon.com/legal/privacypolicy
+400,bitbucket,Atlassian Cloud Terms of Service,https://www.atlassian.com/legal/cloud-terms-of-service
+401,bitbucket,Privacy Policy,https://www.atlassian.com/legal/privacy-policy
+402,bitbucket,Cookies & Tracking Notice,https://www.atlassian.com/legal/cookies
+403,etsy,Privacy Policy,https://www.etsy.com/legal/privacy/
+404,etsy,Terms of Use,https://www.etsy.com/legal/terms-of-use?ref=ftr
+405,etsy,Cookies & Similar Technologies Policy,https://www.etsy.com/legal/cookies/
+406,uphold,Membership Agreement - USA Users,https://uphold.com/en/legal/membership-agreement/usa
+407,sync,Terms of Service,https://www.sync.com/terms/
+408,sync,Privacy Policy,https://www.sync.com/privacy/
+409,sync,Account Security,https://www.sync.com/help/account-security/
+410,crowdmark,Privacy Policy,https://crowdmark.com/privacy/
+411,crowdmark,Terms of Service,https://crowdmark.com/tos/
+412,shapeshift,Privacy Policy,https://shapeshift.com/privacy
+413,firefox-accounts,Terms of Service,https://www.mozilla.org/en-US/about/legal/terms/services/
+414,firefox-accounts,"Websites, Communications & Cookies Privacy Notice",https://www.mozilla.org/en-US/privacy/websites/
+415,how-togeek,Privacy Policy,https://www.howtogeek.com/privacy-policy/
+416,securisend,Terms of Service,https://securisend.com/terms
+417,securisend,Privacy Policy,https://securisend.com/privacy
+418,creditkarma,Terms of Service (full),https://www.creditkarma.ca/terms/
+419,humblebundle,Cookie Policy,https://www.humblebundle.com/cookie-policy
+420,youtube,Terms of Service,https://www.youtube.com/static?template=terms
+421,youtube,Privacy Policy,https://policies.google.com/privacy?hl=en
+422,youtube,Violent Criminal Organizations Policy,https://support.google.com/youtube/answer/9229472?hl=en
+423,fullcontact,Privacy Policy,https://www.fullcontact.com/privacy/privacy-policy/
+424,jagex,Terms and Conditions,https://www.jagex.com/en-GB/terms
+425,jagex,Cookies Policy,https://www.jagex.com/terms/cookies
+426,jagex,Privacy Policy,https://www.jagex.com/en-GB/terms/privacy
+427,humanrightsfoundation,Privacy Policy,https://hrf.org/legal/privacy-policy/
+428,fastmail,Privacy Policy,https://www.fastmail.com/about/privacy/
+429,fastmail,Terms of Service,https://www.fastmail.com/about/tos/
+430,fastmail,Cookies Policy,https://www.fastmail.com/about/cookies/
+431,fastmail,2FA,https://www.fastmail.help/hc/en-us/articles/360058752374-Using-two-step-verification-2FA-
+432,fastmail,How Fastmail provide a secure service,https://www.fastmail.help/hc/en-us/articles/1500000280221-How-Fastmail-provides-a-secure-service
+433,biblegateway,Terms of Use,https://www.biblegateway.com/legal/terms/
+434,biblegateway,Privacy Policy,https://www.biblegateway.com/legal/privacy/
+435,biblegateway,Widget Terms of Service,https://www.biblegateway.com/legal/widget-terms/
+436,tumblr,Terms of Service,https://www.tumblr.com/policy/en/terms-of-service
+437,tumblr,Privacy Policy,https://www.tumblr.com/privacy
+438,neurohrbytessoftware,Privacy Policy [English],https://neurohr.bytes.software/data-protection
+439,cloudflare,Cloudflare Self-Serve Subscription Agreement,https://www.cloudflare.com/terms/
+440,cloudflare,Cloudflare Cookie Policy,https://www.cloudflare.com/cookie-policy/
+441,cloudflare,Website Terms of Use,https://www.cloudflare.com/website-terms/
+442,cloudflare,Cloudflare Privacy Policy,https://www.cloudflare.com/privacypolicy
+443,blackboard, Blackboard Privacy Statement,https://help.blackboard.com/Privacy_Statement
+444,blackboard, Blackboard Cookie Statement,https://help.blackboard.com/Cookie_Statement
+445,blackboard, Blackboard Privacy Shield Statement,https://help.blackboard.com/Privacy_Shield
+446,blackboard, Blackboard Terms of Use,https://help.blackboard.com/Terms_of_Use
+447,couchsurfing,Privacy Policy,https://about.couchsurfing.com/about/privacy-policy/
+448,couchsurfing,Terms of Use,https://about.couchsurfing.com/about/terms-of-use/
+449,opentradestatistics,Project goals,https://docs.tradestatistics.io/
+450,vinted,Terms and conditions,https://www.vinted.com/terms_and_conditions
+451,amazonaws, AWS Privacy Notice,https://aws.amazon.com/privacy/
+452,bumble,Terms of Service,https://bumble.com/terms
+453,kickstarter,Cookies & Other Technologies,https://www.kickstarter.com/cookies/may2018
+454,kickstarter,Terms of Use,https://www.kickstarter.com/terms-of-use
+455,wikihow,Privacy Policy,https://www.wikihow.com/wikiHow:Privacy-Policy
+456,wikihow,Cookie Policy,https://www.wikihow.com/wikiHow:Cookie-Policy
+457,disqus,Terms of Service,https://help.disqus.com/en/articles/1717102-terms-of-service
+458,disqus,Third Party Advertising Partners,https://help.disqus.com/en/articles/1944034-third-party-advertising-partners
+459,disqus,Privacy Policy,https://help.disqus.com/en/articles/1717103-disqus-privacy-policy
+460,osmand,Privacy Policy,https://osmand.net/help-online/privacy-policy
+461,arc-games,Terms of Service,https://www.arcgames.com/en/about/terms/
+462,shmoop,Privacy Policy,https://www.shmoop.com/privacy-policy
+463,telegram,Terms of Service,https://telegram.org/tos
+464,telegram,FAQ,https://telegram.org/faq
+465,telegram,Privacy Policy,https://telegram.org/privacy
+466,kaspersky,Web Privacy Policy,https://www.kaspersky.com/web-privacy-policy
+467,1password,AgileBits Privacy Policy,https://1password.com/legal/privacy/
+468,1password,Terms of Service,https://1password.com/legal/terms-of-service/
+469,intercom,Intercom Subscription Terms of Service,https://www.intercom.com/legal/terms-and-policies
+470,blendswap,Terms of Use,https://www.blendswap.com/terms
+471,blendswap,Licenses,http://dev.blendswap.com/page/licenses
+472,icann,Terms of service,
+473,icann,Cookies policy,
+474,icann,Privacy policy,
+475,yahoo,Terms of Service,
+476,yahoo,Privacy Policy,
+477,yahoo,Privacy Topic Location,
+478,planio,Terms and Conditions,
+479,planio,Privacy Policy,
+480,bitdefender,Privacy Policy for Bitdefender Home Solutions,
+481,bitdefender,Privacy Policy For BitDefender Websites,
+482,albine,Privacy Policy,
+483,massdrop,Privacy Policy,
+484,massdrop,Terms of Service,
+485,nabucasa,Privacy Policy,
+486,aliexpress,Terms of Use,
+487,indiegogo,Terms of Use,
+488,indiegogo,Cookie Policy,
+489,pocket,Terms of Service,
+490,pocket,Privacy Policy,
+491,epicgames,Terms of Service,
+492,epicgames,Privacy Policy,
+493,epicgames,Enable Multi-Factor Authentication (MFA): Epic Games Account Security & Privacy,
+494,offtopical-netpodcast,Privacy,
+495,lydia,Privacy Policy,
+496,istudiez,Privacy Policy,
+497,netflix,Privacy Statement,
+498,netflix,Terms of Use,
+499,trello,Privacy Policy,
+500,trello,Trello Privacy Policy,
+501,trello,Atlassian Cloud Terms of Service,
+502,habbo,Privacy Policy,
+503,habbo,Terms of Service,
+504,hq,Rules,
+505,hq,Rest of the World Privacy Policy,
+506,hq,Terms of Use,
+507,genshinimpact,Privacy Policy,
+508,zappos,Terms of Use,
+509,shortcutworld-com,Terms of Use,
+510,directly-cxautomation;expertsattheheartofai,"Privacy Policy Effective Date: Last Updated as of March 18, 2019.",
+511,directly-cxautomation;expertsattheheartofai,"Terms of Service  Effective Date: Last Updated as of March 18, 2019.",
+512,herbalife,Terms of Use,
+513,honey,Privacy Policy,
+514,controlc-com,DMCA Policy,
+515,controlc-com,Terms of Use & Privacy Policy,
+516,youtubekids,Privacy Notice,
+517,coinbase,MARKET DATA TERMS OF USE,
+518,coinbase,COINBASE USER AGREEMENT,
+519,deepl,Privacy Policy,
+520,idka,Terms and Conditions,
+521,idka,Privacy Policy,
+522,idka,Cookie Policy,
+523,zoosk,Privacy Policy,
+524,420a3-com,Cookie Policy,
+525,420a3-com,Privacy Policy,
+526,420a3-com,Terms of Service,
+527,layersoflondon,Contributor Agreement,
+528,ikeausa,Privacy Policy,
+529,codecombat,Privacy Policy,
+530,wordpress-com,Terms of Service,
+531,wordpress-com,Privacy Policy (Automattic),
+532,khanacademy,Terms of Service,
+533,khanacademy,Privacy Policy,
+534,qubesos,Privacy Policy,
+535,boingo,Privacy Policy,
+536,boingo,Terms of Service and Acceptable Use Policy,
+537,nytimes,Privacy Policy,
+538,houseparty,Privacy Policy,
+539,houseparty,Terms of Service,
+540,newyorktimes,Terms of Service,
+541,grabcraft,Indemnity,
+542,paper-li,Privacy Policy,
+543,paper-li,Terms of Service,
+544,razer,Privacy Policy,
+545,musicbrainz,Privacy Policy,
+546,musicbrainz,Data License,
+547,musicbrainz,Social Contract,
+548,blogspot,Privacy Policy,
+549,linustechtips-com,Registration Terms,
+550,linustechtips-com,Privacy Policy,
+551,expertsattheheartofai,"Privacy Policy Effective Date: Last Updated as of March 18, 2019.",
+552,yandex,Privacy Policy,
+553,yandex,Terms of service,
+554,repl-it,Repl.it Privacy Policy,
+555,ebird,Terms of Use,
+556,freesteamkeys,Privacy Policy,
+557,freesteamkeys,Terms of Use,
+558,wanikani,Terms of Service,
+559,wanikani,Privacy Policy,
+560,perfectprivacyvpn,Privacy Policy,
+561,perfectprivacyvpn,Customer Policy,
+562,youneedabudget,Terms Of Service,
+563,youneedabudget,Privacy Policy,
+564,quake,Privacy Policy,
+565,quake,Legal Notices,
+566,quake,Terms of Use,
+567,quake,EULA,
+568,remove-bg,Terms of  Service,
+569,remove-bg,Privacy Policy,
+570,tempmail,Privacy Policy,
+571,kjvpce,We Respect your privacy,
+572,viagogo,Terms and Conditions,
+573,viagogo,Privacy Policy,
+574,viagogo,Cookies Policy,
+575,bluestacks,Terms of Use,
+576,overleaf,Privacy & Terms,
+577,kolabnow,Terms of Service,
+578,statefarm,Terms of Use,
+579,avaaz,Privacy Policy,
+580,fireapps,Privacy Policy,
+581,tapas,Terms,
+582,tapas,Privacy Policy,
+583,hackerwars,Privacy Policy,
+584,hackerwars,Terms of Service and Use,
+585,ytmp3-cc,Privacy Policy,
+586,ytmp3-cc,Terms of Use,
+587,inaturalist,Privacy Policy,
+588,sony,Terms of Service,
+589,whatsapp,Terms of Service ,
+590,whatsapp,Privacy Policy,
+591,cloudant,Terms of Service,
+592,flightrising,Terms of Use,
+593,flightrising,Privacy Policy,
+594,prezi,Security,
+595,prezi,Terms of Use,
+596,tutanota,FAQs,
+597,tutanota,CGV,
+598,tutanota,Privacy,
+599,aleksandartodorović(r3bl),Privacy Policy,
+600,protonvpn,Does ProtonVPN store user information?,
+601,protonvpn,Terms and Conditions of Service,
+602,protonvpn,Privacy Policy,
+603,yr,Privacy Policy,
+604,redpocket,Terms and Conditions,
+605,redpocket,Privacy Policy,
+606,freeforums,Privacy Policy,
+607,pocketcasts,Privacy Policy,
+608,pocketcasts,Terms of Use – Pocket Casts Plus,
+609,facebook,Cookie Policy,
+610,facebook,What information does Facebook get when I visit a site with the Like button?,
+611,facebook,Data Policy,
+612,facebook,Terms of Service,
+613,royalsocietyofchemistry,Privacy Policy,
+614,mailin-vote,main page,
+615,microsoft-store,Privacy Statement,
+616,ctrlaltdev,Privacy Policy,
+617,craigslist,Terms of Use,
+618,craigslist,Privacy Policy,
+619,ruqqus,Terms of Service,
+620,ruqqus,Content Policy,
+621,ruqqus,Legal Policies,
+622,betterhelp,Terms and Conditions,
+623,betterhelp,Privacy Policy,
+624,sharklasers,SharkLasers Terms of Service,
+625,thumbzilla,Terms of Service,
+626,wikipedia,Terms of Use,
+627,wikipedia,Privacy Policy,
+628,crowdin,Privacy Policy,
+629,honeypot,Privacy Policy,
+630,spinonline,Privacy Policy,
+631,dnd5e-info,Privacy Statement,
+632,vudu,Terms of Service,
+633,ask,Terms of Use,
+634,ask,Cookie Policy,
+635,ask,Privacy Policy,
+636,jstor,Privacy Policy,
+637,turnitin,Privacy Policy,
+638,turnitin,End-User License Agreement,
+639,enpass,Terms of Use,
+640,archiveofourown,Terms of Service,
+641,shoutwiki,Privacy Policy,
+642,shoutwiki,Terms of use,
+643,prioritymatrix,Privacy Policy,
+644,fiverr,Privacy Policy,
+645,devsoap,Privacy Policy,
+646,webmd,Cookie Policy,
+647,webmd,Terms and Conditions of Use,
+648,webmd,Privacy Policy,
+649,10minutemail,Privacy Policy,
+650,newgrounds,Privacy Policy,
+651,newgrounds,Terms Of Use,
+652,saveourbank,Privacy policy,
+653,moovweb,Corporate Website ToS,
+654,blablacar,Privacy Policy,
+655,blablacar,Cookies Policy,
+656,blablacar,Terms and Conditions,
+657,bol-d-air-net,Privacy Policy,
+658,likee,TERMS OF USE,
+659,likee,Privacy Policy,
+660,likee,Cookie Policy,
+661,shopify, Terms of Service,
+662,ello,Terms,
+663,bittorrent,Privacy Policy,
+664,chase,Terms of Use,
+665,wizardsofthecoast,Privacy Policy,
+666,jonhosting,Privacy Policy,
+667,microsoft,Terms of Use,
+668,microsoft,Services Agreement,
+669,microsoft,Privacy Statement,
+670,taskade,Privacy Policy,
+671,taskade,Terms of Service,
+672,mycroftai,Terms of use,
+673,mycroftai,Privacy Policy,
+674,quizlet,Privacy Policy,
+675,quizlet,Cookie Policy,
+676,quizlet,Terms of Service,
+677,quizlet,DMCA,
+678,cengage,Terms of Use ,
+679,blendermarket,Privacy Policy,
+680,eyewire,Terms & Privacy Policy,
+681,creativecommons,Master Privacy Policy,
+682,creativecommons,Master Terms of Use,
+683,nabble,Terms of Service,
+684,byte,Privacy Policy,
+685,byte,Terms of Service,
+686,spigotmc,Terms & Rules,
+687,spigotmc,Cookie Usage,
+688,spigotmc,Privacy Policy,
+689,rapidshare,Privacy Policy,
+690,uswarrantservice,Warning,
+691,hcaptcha,Privacy Policy,
+692,hcaptcha,Master Terms of Service,
+693,observable,Terms of Service,
+694,kahoot!,Privacy Policy,
+695,kahoot!,Terms and Conditions,
+696,scratch,Privacy Policy,
+697,scratch,Scratch Community Guidelines,
+698,scratch,Terms of Use,
+699,scratch,DMCA,
+700,evaneos,Privacy Policy,
+701,actblue,Privacy Policy,
+702,actblue,The Fine Print,
+703,rampow,Terms of use,
+704,harpermacawshop,Privacy Policy – Harper Macaw,
+705,harpermacawshop,Terms & Conditions – Harper Macaw,
+706,fakku,Privacy Policy,
+707,fakku,Terms of Service,
+708,nokia,User Agreement,
+709,softpedia,Terms and Conditions of Use,
+710,at-t,Privacy Policy,
+711,zillow,Terms of Use,
+712,zillow,Privacy Policy,
+713,mysudo,Terms of Service,
+714,dashlane,Terms of Service,
+715,xvideos,Terms of service,
+716,xvideos,Anti-Piracy Statement,
+717,xvideos,Anti-Piracy Statement,
+718,gravatar,Terms of Service,
+719,gladly,Privacy Policy,
+720,gladly,Terms of Service,
+721,faceapp,Terms of Use,
+722,pinboard,Pinboard Terms of Service,
+723,niche,User Agreement,
+724,niche,Privacy Policy,
+725,quickbooks,Intuit Terms of Service (USA),
+726,coursera,Terms of Use,
+727,coursera,Cookies Policy,
+728,weasyl,Privacy Policy,
+729,weasyl,Terms of Service,
+730,packagetrackr,Terms of Service,
+731,dropbox,Terms,
+732,dropbox,Privacy Policy,
+733,dropbox,Privacy Policy FAQ,
+734,discoursehosting,Privacy Policy,
+735,discoursehosting,Terms of Service,
+736,blogtrottr,"Policies, Terms and Conditions",
+737,openwrtforum,Privacy,
+738,openwrtforum,Terms of Service,
+739,whirlpool,Terms of Use,
+740,venmo,User Agreement,
+741,yakka,Privacy Policy,
+742,cloze,Privacy Policy,
+743,virtualworldcomputingcocoonmydatarewards,Terms of Service,
+744,envato,Privacy Policy,
+745,envato,Envato Market Terms,
+746,1muslim,Terms and Conditions,
+747,abc-australia,Terms of Use,
+748,mozilla-org,Privacy policy,
+749,mozilla-org,Website Privacy policy,
+750,tacticaltech,Tactical tech's data use policy,
+751,digitalocean,Terms of Service,
+752,doublelist,Terms of Use,
+753,github,Terms of Service,
+754,github,Privacy Policy,
+755,witches-livemastodon,Terms,
+756,artspace,Terms of Use,
+757,artspace,Privacy Policy,
+758,patook,Terms of Service,
+759,patook,Privacy Policy,
+760,twitter,Terms of Service,
+761,twitter,Privacy Policy,
+762,mullvad,Privacy Policy,
+763,gab,Guidelines,
+764,netsymstechnologies,Legal and Service Information,
+765,politics&war,Game Rules,
+766,coinbase–,COINBASE COOKIE POLICY,
+767,coinbase–,MARKET DATA TERMS OF USE,
+768,coinbase–,CB Payments & COINBASE UK PRIVACY POLICY,
+769,pythontutor,Terms of Service,
+770,drop,Privacy Policy,
+771,drop,Terms of Service,
+772,mailfence,Terms of Use,
+773,mailfence,Privacy Policy,
+774,mailfence,2FA,
+775,mailfence,Encryption details,
+776,ankiweb,Privacy Policy,
+777,ankiweb,Terms and Conditions,
+778,"atlassian(incl-trello,bitbucket)",Atlassian Cloud ToS,
+779,"atlassian(incl-trello,bitbucket)",Privacy Policy,
+780,"atlassian(incl-trello,bitbucket)",Cookies & Tracking Notice,
+781,ironhorsegames,Iron Horse Games' Privacy Policy,
+782,ironhorsegames,License Terms,
+783,nintendo,Nintendo Tech Support Forums Terms of Use,
+784,evernote,Terms of Service,
+785,evernote,Privacy Policy,
+786,ebay,Cookie notice,
+787,ebay,User Agreement,
+788,slack,Privacy Policy,
+789,slack,Terms of Service,
+790,slack,Acceptable Use,
+791,privacytoolsio,forum.privacytools.io Terms of Service,
+792,flattr,Terms of Use,
+793,flattr,Privacy Policy,
+794,wattpad,Terms of service,
+795,wattpad,Privacy Policy,
+796,thesession,Privacy policy,
+797,reddit,Privacy Policy,
+798,reddit,Reddit User Agreement,
+799,gov-uk,Cookies,
+800,gov-uk, Privacy notice,
+801,cashapp,Terms of Service,
+802,cashapp,Privacy Policy,
+803,cashapp,Terms of Service Square Inc,
+804,kink-com,Privacy Policy,
+805,kink-com,Terms of Use,
+806,bitwarden,Terms of service,
+807,feedly,Privacy Policy,
+808,feedly,Terms of Service,
+809,google,Privacy Policy,
+810,myanimelist,Terms of Use Agreement,
+811,myanimelist,Privacy Policy,
+812,ecosia,Privacy,
+813,livejournal,Terms of Service,
+814,tos;drphoenix,Terms of Service and Privacy Policy,
+815,soundcloud,Privacy Policy,
+816,soundcloud,Terms of Service,
+817,houzz,Privacy Policy,
+818,houzz,Terms of Use,
+819,infosechandbook,Privacy policy,
+820,linewebtoon,Terms of Use,
+821,musescore,Terms of Service,
+822,redbubble,User Agreement,
+823,redbubble,Intellectual Property and Publicity Rights,
+824,redbubble,Privacy Policy,
+825,privacyinternational,Privacy Policy,
+826,theomnigroup,Unsolicited Idea Submission Policy,
+827,plexsolutions,Privacy Policy,
+828,plexsolutions,Tracking Technologies,
+829,plexsolutions,Terms of Service,
+830,icepop,Privacy Policy,
+831,godaddy,Privacy Policy,
+832,royalsocietyofchemistrypublications,Privacy Policy,
+833,scrubly,Terms of Use,
+834,pinterest,Privacy policy,
+835,pinterest,Terms of Service,
+836,pinterest,Personalization and Data Help Page,
+837,linkedin,Terms of Service,
+838,linkedin,Privacy Policy,
+839,linkedin,Do Not Track Policy,
+840,tartle,Privacy Policy & ToS,
+841,projectgutenberg,Terms of Use,
+842,paypal-com-duplicateofservice230,Privacy Statement,
+843,metacafe,Privacy Policy,
+844,metacafe,Terms of Service,
+845,setlisting,Cookies and Privacy Policy,
+846,setlisting,Terms of Use,
+847,slither-io,Privacy Policy,
+848,alignable,Terms and Conditions,
+849,bose,Privacy Policy,
+850,masonbee,Privacy Policy,
+851,warnerbros,Privacy Policy,
+852,seenthis,Intellectual Property,
+853,sophos,End User License Agreement,
+854,sophos,Privacy Policy,
+855,speedtestbyookla,Privacy Policy,
+856,speedtestbyookla,Terms of Use,
+857,pixabay,Privacy Policy,
+858,pixabay,Terms of Service,
+859,roll20,Who owns Orr Group materials?,
+860,hinterlandforums,Registration Terms,
+861,hinterlandforums,Privacy Policy,
+862,strava,Cookie Policy,
+863,strava,Terms of Service,
+864,presearch,Terms & Conditions,
+865,rabbit,Terms of Service & User License,
+866,bandcamp,Copyright Policy,
+867,bandcamp,Terms of Use,
+868,bandcamp,Privacy Policy,
+869,openhumans,Data Use Policy,
+870,openhumans,Public Data Guidelines,
+871,nvidia,Privacy Policy,
+872,mailchimp, Terms of Use ,
+873,oculus,Oculus Cookie Policy,
+874,olx,Policy on Cookies and Similar Technologies,
+875,olx,Terms of Use,
+876,olx,Privacy Policy,
+877,wire,Privacy Policy,
+878,e621_e926,e621:terms of service,
+879,e621_e926,Takedown Policy and Process,
+880,e621_e926,e621 Community Code of Conduct and Site Rules,
+881,walmart,Walmart Privacy Policy,
+882,thebuttonbox,Privacy policy,
+883,mint.com,Terms of Use,
+884,mint.com,Privacy Policy,
+885,deviantart,Terms of Service,
+886,deviantart,Privacy Policy,
+887,xing,Terms and Conditions.txt,
+888,healthline,Terms of Use,
+889,healthline,Privacy Policy,
+890,goodtodo,Privacy Policy,
+891,zapier,Privacy Policy,
+892,huawei,Privacy Policy,
+893,huawei,Terms of Use,
+894,huawei,Cookies Policy,
+895,openbookpublishers,Privacy Policy,
+896,tripadvisor,Privacy Policy,
+897,tripadvisor,Terms of Service,
+898,medtinker,Privacy Policy,
+899,sonicdrive-in,Terms of Use,
+900,tos;dr,Legal information,
+901,tos;dr,About our edit tool,
+902,tos;dr,Terms of Service,
+903,e926,e621:terms of service,
+904,e926,e621 Community Code of Conduct and Site Rules,

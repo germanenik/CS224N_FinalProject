@@ -1,0 +1,525 @@
+jump to: content, navigation, search
+
+## navigation menu
+
+[](/wiki/main_page "visit the main page")
+
+  * [main page](/wiki/main_page "visit the main page \[z\]")
+  * [about](/wiki/about)
+  * [contact](/wiki/contact)
+  * [faq](/wiki/faq)
+
+# privacy policy
+
+from openstreetmap foundation
+
+## contents
+
+  * 1 introduction
+  * 2 why do we store and process personal data?
+  * 3 what data do we store and process?
+    * 3.1 data from contributions to openstreetmap
+    * 3.2 osmf membership data
+    * 3.3 conference and event registration data
+  * 4 who has access to the data
+  * 5 where do we store the data
+  * 6 how can you control the processing of your data and reduce privacy related issues
+  * 7 right to object
+  * 8 detailed information
+    * 8.1 gps trace data
+    * 8.2 map data
+    * 8.3 user 'home' location
+    * 8.4 email addresses
+      * 8.4.1 gravatar
+    * 8.5 surveys
+    * 8.6 data you may voluntarily add to your profile or diary posts
+    * 8.7 data we receive automatically
+    * 8.8 third party provided services and data
+    * 8.9 communication via osmf provided systems
+    * 8.10 account removal
+    * 8.11 cookies
+  * 9 other relevant policies
+  * 10 contact
+
+## introduction
+
+this document states the openstreetmap **privacy policy** for services
+formally operated and provided by the [openstreetmap foundation
+(osmf)](http://osmfoundation.org/). [CLS] [SEP] in particular these are
+
+  * the openstreetmap.org website and associated services and apis,
+  * the openstreetmap data distribution,
+  * the openstreetmap wiki and help sites,
+  * the openstreetmap mailing lists and forums. [CLS] [SEP]
+
+it describes what personal information we may be gathering from you, who can
+see this information, and what options you have for controlling this. [CLS] [SEP] we value
+your privacy and strive to achieve a balance between the legitimate interests
+of the openstreetmap project and your interests and rights. [CLS] [SEP]
+
+this document is mainly intended for openstreetmap contributors, if you are
+using services provided by the osmf without contributing, section  data we
+receive automatically will be most relevant for you. [CLS] [SEP]
+
+as the osmf has many legacy systems and practices that have currently not been
+fully reviewed and documented, it is possible that a subject of particular
+interest to you has not been covered yet or is inaccurately described. [CLS] [SEP] please
+use the  contact information if you have any such questions or believe that
+you have found a discrepancy. [CLS] [SEP] as we will be updating this document regularly
+to reflect our better understanding of these issues, please check from time to
+time for updates. [CLS] [SEP]
+
+openstreetmap developers, contributors and related companies will often use
+the openstreetmap name and logo to set up groups or services on third-party
+web sites. [CLS] [SEP] for example, there might be a facebook page, a google plus page, a
+slack channel, a page on xing or linkedin, a meetup group, and so on. [CLS] [SEP] the
+privacy practices of such services are outside of osmf's control and might be
+located in countries with different data protection rules. [CLS] [SEP] data you share on
+these platforms cannot, therefore, be covered by this policy. [CLS] [SEP] please refer to
+the privacy policies of those third-party services. [CLS] [SEP]
+
+## why do we store and process personal data?
+
+the purpose of the openstreetmap project and the osmf is to provide open
+geographic data, such as street maps, to anyone. [CLS] [SEP]
+
+to fulfill the goal of distributing data that is truly open, untethered by
+rights of third parties and of high quality, we do not support anonymous
+contributions and retain additional, non-geographic, data on a legitimate
+interest basis (see [gdpr article 6.1f ](https://gdpr-info.eu/art-6-gdpr/)),
+to enable:
+
+  * identifying all the contributions made by an account,
+  * contacting the contributor in the case of questions in respect to the nature and source of the contributions,
+  * detection, removal and correction of spam accounts, vandallism and violations of the rights of third parties,
+  * facilitating the communication between openstreetmap contributors. [CLS] [SEP]
+  * research and analysis on aggregate contributions to improve or prioritise osmf services, such as evaluating mapping efficacy, map completeness, determining if locations or mappers are disproportionately represented. [CLS] [SEP]
+
+## what data do we store and process?
+
+### data from contributions to openstreetmap
+
+besides the geographic data contributed (points lines, and areas with
+associated attributes and gps trace data), and communications related data
+(diary posts and comments, the user page, changeset comments, messages) we
+store
+
+  * editing session meta-data. [CLS] [SEP] for example comments added by the user, any version and similar information added by the editing application, which editing application and which aerial imagery layers where used. [CLS] [SEP]
+  * user id and login name of the author of every change to an object and a timestamp when that change occured. [CLS] [SEP]
+  * the e-mail address associated with your account,
+  * any blocks the user has received and associated messages. [CLS] [SEP]
+  * network access data (example ip addresses) for the systems and services operated by the osmf. [CLS] [SEP] see  data we receive automatically . [CLS] [SEP]
+
+### osmf membership data
+
+the full personal name and residential address of members of the organisation
+according to the companies act are, by law, required to be added to the osmf
+register of members. [CLS] [SEP] terminating membership does not lead to the entry being
+deleted. [CLS] [SEP] associate members are not required to provide their full details and
+the information can be deleted if membership is terminated. [CLS] [SEP] payment details
+for both classes of members is retained for accounting purposes as long as
+required by law. [CLS] [SEP] the processing of this data is necessary for compliance with
+a legal obligation (see [gdpr article 6.1c](https://gdpr-
+info.eu/art-6-gdpr/)). [CLS] [SEP]
+
+more details on osmf membership options can be found on
+<https://join.osmfoundation.org/>. [CLS] [SEP]
+
+### conference and event registration data
+
+some events organized by the osmf require prior registration to be able to
+participate, most notably our annual state of the map conference. [CLS] [SEP] this data is
+required to verify payment of entry fees, planning of venues, catering and
+scheduling of talks and presentations and is visible to the group organizing
+the event. [CLS] [SEP] the processing of this data is necessary for the performance of a
+contract (see [gdpr article 6.1b](https://gdpr-info.eu/art-6-gdpr/)). [CLS] [SEP]
+
+## who has access to the data
+
+we do not share email addresses associated with accounts with any third party
+and they are only accessible to our operations and working group personnel
+that have signed confidentiality agreements. [CLS] [SEP] user to user messages are visible
+to the sender and recipient, other access is limited to our operations staff
+and only if required for operational reasons, to enforce our acceptable use
+policies, to fulfil any legal obligations and most notably to prevent spam. [CLS] [SEP]
+
+similarly, network access data is only used for internal purposes and access
+is limited to operating personnel for operational and vandalism and spam
+protection purposes. [CLS] [SEP]
+
+the other data is made available, depending on the use case, via the website,
+via the editing api and from our data dumps, to users with accounts and to the
+general public. [CLS] [SEP] some of the non-geographic data may be available only by some
+methods however this is subject to change. [CLS] [SEP]
+
+to reduce the distribution of the non-geographic information we offer our data
+dumps with and without the additional data. [CLS] [SEP] entities that require and process
+the additional data can register with the osmf and you can find contact
+information for them here: [registered data
+controllers](/wiki/registered_data_controllers "registered data controllers"). [CLS] [SEP]
+we do not contract with them and any processing of the data carried out by
+such entities is done on their own behalf. [CLS] [SEP]
+
+## where do we store the data
+
+the website, api servers, databases and the servers for auxiliary services are
+currently located in the united kingdom and the netherlands. [CLS] [SEP]
+
+map tiles are provided by a global network of cache servers, which tile server
+your browser or app access is determined dynamically by geolocation of the ip
+address and selection of the cache server "nearest" to you. [CLS] [SEP] while in general
+this means that you will be using the tile cache physically nearest to you,
+this can be affected by
+
+  * uncertainties in determining the location of the client from its ip address
+  * operational issues (server downtime etc)
+  * network topology and load
+
+the current list of tile cache servers can be found here:
+<https://hardware.openstreetmap.org/#tile-caches> and you can determine which
+one is currently being used with the following link
+<https://tile.openstreetmap.org/cgi-bin/debug>. [CLS] [SEP]
+
+## how can you control the processing of your data and reduce privacy related
+issues
+
+while not required by law, we provide the following mechanism to reduce the
+exposure of potentially privacy related information for you. [CLS] [SEP]
+
+  * you can select a non identifying login name and change it at any time you want,
+  * you are not required to include personal data in diary posts, comments, email listserv, the wiki, or other osm communications methods, and you may delete diary posts at any time through your account,
+  * you can [request your account to be deleted](https://wiki.openstreetmap.org/wiki/faq#how_can_i_close_my_account.3f) (restrictions see below) and this will be conveyed to registered entities that are using our full data. [CLS] [SEP]
+
+you should not enable gravatar support or use an e-mail address you have
+associated with a gravatar with if privacy is a concern. [CLS] [SEP]
+
+you can further reduce exposure by not adding personal information to the map
+data (personal names and similar). [CLS] [SEP] such information is in general not
+considered to be an useful addition to our data and you should refrain from
+adding it. [CLS] [SEP]
+
+## right to object
+
+you have a [right to object](https://gdpr-info.eu/art-21-gdpr/) against
+processing based on legitimate interests of the data controller. [CLS] [SEP]
+
+## detailed information
+
+### gps trace data
+
+the uploading of gps data is entirely optional and not a prerequisite for
+contributions to openstreetmap. [CLS] [SEP] if you do submit gps data, it is uploaded in
+the form of individual gpx files. [CLS] [SEP] these are kept as raw files, as well as
+imported into the database. [CLS] [SEP] gpx files can be marked
+"[public](https://wiki.openstreetmap.org/wiki/visibility_of_gps_traces)" by
+the uploader; this is completely unrelated to the option of making one's
+_edits_ "public". [CLS] [SEP]
+
+when gps data for an area is downloaded via the api no indication is provided
+of which user uploaded a point, or of the timestamp that was associated with
+the point. [CLS] [SEP] points are however returned in timestamp order. [CLS] [SEP] gps data downloaded
+in this way will include points from traces which were not marked as public. [CLS] [SEP]
+
+if a gps trace is marked as public when it is uploaded then the raw trace may
+be downloaded from the web site or using an api call. [CLS] [SEP] in this case the user's
+display name is shown (regardless of whether the user has made their _edits_
+public) and the timestamps in the gpx file will be included. [CLS] [SEP] also, any
+additional information placed in the gpx file will still be present, e.g. [CLS] [SEP]
+waypoints with their names and/or notes entered, associated symbols, elevation
+data, etc. [CLS] [SEP] you should remove any such information from the data and trim
+enough information from beginning and end of the trace to obscure start and
+destination before uploading it if you have privacy concerns
+
+### map data
+
+all edits made to the map are recorded in the database with the user id of the
+user making the change, and a timestamp at the time of change upload. [CLS] [SEP] in
+general all of this information is also made available to everyone via the
+website, including links to allow everyone to easily cross-reference which
+user has made which edit. [CLS] [SEP]
+
+editing programs (such as josm and id) can store further data in the database
+that may be relevant to your privacy. [CLS] [SEP] please refer to the respective authors
+and distributors of the programs for more information. [CLS] [SEP] for example, id and
+josm may add the language settings of your device to the metadata of each
+changeset and the make and operating system of the device may be visible from
+the transmitted version strings. [CLS] [SEP]
+
+### user 'home' location
+
+if a user sets a home location then they will appear on the "nearby mappers"
+list for other people with a home location near theirs. [CLS] [SEP] this is an option on
+your account settings page. [CLS] [SEP]
+
+### email addresses
+
+the registered email address for an osm user account will never intentionally
+be published on the internet anywhere, shared with third party organisations,
+or revealed directly to other users. [CLS] [SEP] email addresses will be used by the
+server to notify the user if another user has sent a message through the
+website, and for other system generated notifications. [CLS] [SEP]
+
+only [system
+administrators](https://wiki.openstreetmap.org/wiki/system_administrators)
+will have direct access to email address data associated with the osm account. [CLS] [SEP]
+it may be used by these people to contact users directly about their edits or
+other openstreetmap related issues. [CLS] [SEP]
+
+email addresses associated with wiki, forum and help site accounts are stored
+separately from the osm user account data in the respective systems. [CLS] [SEP] these
+address are used for notifications and user to user communication (if
+enabled). [CLS] [SEP] these addresses are not publicly visible or shared with third
+parties, but may be visible to the administrators of the systems. [CLS] [SEP]
+
+note that some other types of
+[accounts](https://wiki.openstreetmap.org/wiki/accounts) used by
+developers/community do expose email address information more publicly (due to
+technical limitations of the software used, rather than policy decisions). [CLS] [SEP] the
+trac system exposes your email address in plaintext on the page if the email
+address (rather than the display name) is used to login. [CLS] [SEP] the mailing list
+system exposes email addresses of people posting messages to everyone who
+receives the message, as well as in the archive web pages. [CLS] [SEP] if you want to post
+to the list, the system also requires you to register with your proper 'from'
+address, not a forwarding address. [CLS] [SEP]
+
+#### gravatar
+
+the openstreetmap.org website supports the display of
+[gravatars](http://gravatar.com/), these are retrieved from gravatar.com by
+generating a globally unique key from your e-mail address. [CLS] [SEP] our website
+software will check on the initial signup and on every email address change if
+you have a gravatar for the new address and start displaying it if one exists. [CLS] [SEP]
+you can stop this behaviour by explicitly turning gravatar support off in your
+account settings. [CLS] [SEP] you should be aware that, if a gravatar is displayed, the
+key can be used to track your account over any website that has gravatar
+support. [CLS] [SEP]
+
+### surveys
+
+the foundation may from time to time conduct surveys, both of the foundation
+membership and of others, including the broader openstreetmap community, in
+order to determine the opinions of foundation membership, the openstreetmap
+community, and others, and better to serve the members and the community, a
+legitimate purpose of the foundation. [CLS] [SEP] distributing surveys and processing
+their results may require the use of personal data such as names and email
+addresses. [CLS] [SEP] personal data gathered or used in connection with surveys will be
+processed in accordance with applicable data privacy laws and will be retained
+only as long as reasonably necessary. [CLS] [SEP]
+
+email addresses of members of the osmf may be used to invite foundation
+members to participate in surveys. [CLS] [SEP]
+
+if survey data are made publicly available (for instance, for analysis by the
+osm- or research communities at large) the data will be anonymized. [CLS] [SEP] if the
+anonymized data are organized in such a fashion that individuals might be
+reasonably identifiable (for instance, a group with few individuals that is
+identifiable with a specific geography or function) the grouping will be
+merged to deter identification. [CLS] [SEP] further, the foundation board reserves the
+right to exclude from public release any variables that might permit
+deanonymization of the data. [CLS] [SEP]
+
+anonymized survey data, which may be useful to the foundation in the future
+for comparison purposes, may be retained indefinitely in accordance with
+applicable data privacy laws. [CLS] [SEP]
+
+### data you may voluntarily add to your profile or diary posts
+
+you are not required to fill out your profile or make diary posts. [CLS] [SEP] by
+voluntarily entering personal data in your user profile or diary posts, you
+consent to that information being publicly available and stored by osmf as
+long as you maintain an osm account. [CLS] [SEP] you may edit your public profile or your
+diary posts at any time to remove such information if you change your mind. [CLS] [SEP]
+
+### data we receive automatically
+
+the osmf operates a number of services for the openstreetmap community,
+examples are the openstreetmap.org website, the "standard" style online map,
+the osm api and the nominatim search facility. [CLS] [SEP]
+
+when you visit an osmf website, access any of the services via a browser or
+via applications that utilize the provided apis, records of that use are
+produced, we collect information about your browser or application and your
+interaction with our website, including (a) ip address, (b) browser and device
+type, (c) operating system, (d) referring web page, (e) the date and time of
+page visits, and (f) the pages accessed on our websites. [CLS] [SEP]
+
+further we may operate user interaction tracking software that will generate
+additional records of user activity, for example piwik. [CLS] [SEP]
+
+services that use geo-dns or similar mechanisms to distribute load to
+geographically distributed servers will potentially generate a record of your
+location at a large scale (for example the osmf tile cache network determines
+the country you are likely to be located in and directs your requests to an
+appropriate server). [CLS] [SEP]
+
+these records are used or can be used in the following ways:
+
+  * in support of the operation of the services from a technical, security and planning point of view. [CLS] [SEP]
+  * as anonymised, summarised data for research and other purposes. [CLS] [SEP] such data may be offered publicly via <https://planet.openstreetmap.org> or other channels and used by 3rd parties. [CLS] [SEP]
+  * to improve the openstreetmap dataset. [CLS] [SEP] for example by analysing nominatim queries for missing addresses and postcodes and providing such data to the osm community. [CLS] [SEP]
+
+the data collected on the systems will be accessible by the system
+administrators and the appropriate osmf working groups, for example the data
+working group. [CLS] [SEP] no personal information or information that is linked to an
+individual will be released to third parties, except as required by law. [CLS] [SEP]
+
+ip addresses stored by piwik are shortened to two bytes and detailed usage
+information is retained for 180 days. [CLS] [SEP]
+
+given the temporary nature of this storage, it is generally not feasible for
+us to provide access to ip addresses or the logs associated with them. [CLS] [SEP]
+
+the above mentioned data is processed on a legitimate interest basis (see
+[gdpr article 6.1f ](https://gdpr-info.eu/art-6-gdpr/)). [CLS] [SEP]
+
+### third party provided services and data
+
+third party services providing content linked to via or third party javascript
+files utilised by osmf provided sites are not covered by this policy and you
+will need to refer to the respective service providers for more information. [CLS] [SEP]
+using these services will typically transmit at least your internet address
+and browser information to the operators. [CLS] [SEP]
+
+these are specifically
+
+    
+
+  * cycle and transport map layers available via the openstreetmap.org website operated by [gravitystorm limited, new malden, united kingdom](http://www.thunderforest.com/contact/)
+  * humanitarian map layer available via the openstreetmap.org website operated by the [openstreetmap france c/o maison des associations du 2ème arrondissement, 23 rue greneta, 75002 paris](http://openstreetmap.fr/contact)
+  * overpass-api used by the query function on the openstreetmap.org website operated by [fossgis e.v., römerweg 5, 79199 kirchzarten, germany](https://www.fossgis.de/datenschutzerklaerung)
+  * 3rd party service integrations in editing applications available from openstreetmap.org: 
+    * background layers, see the [editor layer index](https://github.com/osmlab/editor-layer-index) for information on the operators of the numerous imagery layers. [CLS] [SEP]
+    * mapillary street-level imagery is provided by mapillary ab, bredgatan 4, 211 30 malmö, sweden, [privacy policy](https://www.mapillary.com/privacy). [CLS] [SEP]
+    * openstreetcam street-level imagery is provided by telenav, inc. [CLS] [SEP] usa, [privacy policy](https://www.skobbler.com/legal#privacyprivacy). [CLS] [SEP]
+  * gravatar images in user profiles that display these are provided by aut o’mattic a8c ireland ltd., business centre, no.1 lower mayor street, international financial services centre, dublin 1, ireland [privacy policy](https://automattic.com/privacy/)
+
+### communication via osmf provided systems
+
+the osm community uses a number of channels for public and inter-personal
+communication. [CLS] [SEP] some of the systems are operated and controlled by third
+parties and can be located in countries other than the uk. [CLS] [SEP] you will need to
+refer to the respective service providers for more information. [CLS] [SEP]
+
+these 3rd party operated systems are:
+
+  * mailboxes for the osmf e-mail addresses are provided by google llc, 1600 amphitheatre parkway, mountain view, ca 94043. [CLS] [SEP] usa
+  * irc channels on the [oftc network](https://www.oftc.net/)
+  * openstreetmap organisation and source code repositories on [github](https://help.github.com/articles/github-privacy-statement/)
+
+by using those systems that are provided by the osmf, for example the
+messaging system on openstreetmap.org, you agree to your communications being
+intercepted by osmf system managers when necessary to address operational
+issues, to enforce our acceptable use policies, most notably to prevent spam,
+and to fulfil any legal obligations. [CLS] [SEP]
+
+you should be aware of the above when communicating sensitive information and
+you should employ encryption to protect your communications content. [CLS] [SEP]
+
+### account removal
+
+you can [request your account to be
+removed](//wiki.openstreetmap.org/wiki/faq#how_can_i_close_my_account.3f) and
+we will honor such requests as far as possible. [CLS] [SEP]
+
+if you have not actively contributed to the project we will not retain any
+records, user page, diary posts and similar will be removed. [CLS] [SEP]
+
+if you have contributed your account will be renamed to user_ _userid_ and
+contributions and changeset comments will be retained with this name, diary
+entries and your user page will be removed. [CLS] [SEP] since we do not allow anonymous
+edits we will non-publicly retain your email address in case you need to be
+contacted with respect to your contributions. [CLS] [SEP]
+
+wiki and forum accounts will be renamed to a pseudo-anonymous name, but
+otherwise will remain as is. [CLS] [SEP] you can unsubscribe yourself from any mailing
+lists, however you need to realize that personal copies held by the recipients
+of any mails you sent to the lists and the archives on lists.openstreetmap.org
+can not be removed. [CLS] [SEP]
+
+in your request for account removal you need to identify all accounts that are
+affected as we do not have information on which accounts belong to which
+openstreetmap id. [CLS] [SEP]
+
+### cookies
+
+numerous osmf operated services use cookies to store information on your login
+and site navigation state. [CLS] [SEP] we also use cookies and similar technologies to
+recognize and improve your use of our websites.. [CLS] [SEP] you may delete cookies from
+your computer, and most browsers provide the option to block them. [CLS] [SEP] if you
+block cookies placed by us (first party cookies), you will not be able to
+access parts of the osmf websites and services that require a login. [CLS] [SEP] however,
+your access to our websites will not be affected if you disable cookies placed
+by third parties. [CLS] [SEP]
+
+## other relevant policies
+
+as well as privacy issues, users and contributors must also be aware of the
+[openstreetmap license](http://www.openstreetmap.org/copyright). [CLS] [SEP] this includes
+[disclaimers](https://wiki.openstreetmap.org/wiki/disclaimer). [CLS] [SEP] we also have an
+[acceptable use
+policy](https://wiki.openstreetmap.org/wiki/acceptable_use_policy) covering
+various types of server usage. [CLS] [SEP]
+
+## contact
+
+if you have questions or concerns with respect to this policy, please contact
+the osmf via our [contact
+channels](https://wiki.openstreetmap.org/wiki/contact_channels). [CLS] [SEP]
+
+if you believe that we hold information that would allow us to correct, amend,
+or delete inaccurate information about you or if you believe that information
+about you has been processed in violation of this privacy policy please email
+us at [privacy@osmfoundation.org](mailto:privacy@osmfoundation.org) . [CLS] [SEP] note
+that you may change your username, email associated with your account, and
+‘home’ location through your account without contacting the osmf. [CLS] [SEP]
+
+retrieved from
+"[https://wiki.osmfoundation.org/w/index.php?title=privacy_policy&oldid=8025](https://wiki.osmfoundation.org/w/index.php?title=privacy_policy&oldid=8025)"
+
+### personal tools
+
+  * english
+  * [log in](/w/index.php?title=special:userlogin&returnto=privacy+policy "you are encouraged to log in; however, it is not mandatory \[o\]")
+
+  * this page was last edited on 6 february 2021, at 22:30. [CLS] [SEP]
+  * content is available under [creative commons attribution-sharealike 2.0 license](/wiki/wiki_content_license "wiki content license") unless otherwise noted. [CLS] [SEP]
+
+### namespaces
+
+  * [page](/wiki/privacy_policy "view the content page \[c\]")
+  * [discussion](/w/index.php?title=talk:privacy_policy&action=edit&redlink=1 "discussion about the content page \(page does not exist\) \[t\]")
+
+###  variants
+
+### views
+
+  * [view](/wiki/privacy_policy)
+  * [view source](/w/index.php?title=privacy_policy&action=edit "this page is protected. [CLS] [SEP]
+you can view its source \[e\]")
+
+  * [history](/w/index.php?title=privacy_policy&action=history "past revisions of this page \[h\]")
+
+### more
+
+###  search
+
+### navigation
+
+  * [main page](/wiki/main_page "visit the main page \[z\]")
+  * [osmf blog](http://blog.osmfoundation.org)
+  * [donate](/wiki/donate)
+  * [join osmf](/wiki/join)
+  * [recent changes](/wiki/special:recentchanges "a list of recent changes in the wiki \[r\]")
+
+### tools
+
+  * [what links here](/wiki/special:whatlinkshere/privacy_policy "a list of all wiki pages that link here \[j\]")
+  * [related changes](/wiki/special:recentchangeslinked/privacy_policy "recent changes in pages linked from this page \[k\]")
+  * [special pages](/wiki/special:specialpages "a list of all special pages \[q\]")
+  * [printable version](/w/index.php?title=privacy_policy&printable=yes "printable version of this page \[p\]")
+  * [permanent link](/w/index.php?title=privacy_policy&oldid=8025 "permanent link to this revision of the page")
+  * [page information](/w/index.php?title=privacy_policy&action=info "more information about this page")
+  * [cite this page](/w/index.php?title=special:citethispage&page=privacy_policy&id=8025 "information on how to cite this page")
+
+powered by [mediawiki](https://mediawiki.org)
+

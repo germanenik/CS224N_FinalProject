@@ -1,0 +1,1513 @@
+  * __****
+    * [english](?setln=en)
+    * [bahasa indonesia](?setln=id)
+    * [bahasa melayu](?setln=ms)
+    * [deutsch](?setln=de)
+    * [español](?setln=es)
+    * [français](?setln=fr)
+    * [italiano](?setln=it)
+    * [nederlands](?setln=nl)
+    * [o‘zbek](?setln=uz)
+    * [polski](?setln=pl)
+    * [português (brasil)](?setln=pt-br)
+    * [türkçe](?setln=tr)
+    * [беларуская](?setln=be)
+    * [русский](?setln=ru)
+    * [українська](?setln=uk)
+    * [العربية](?setln=ar)
+    * [فارسی](?setln=fa)
+    * [한국어](?setln=ko)
+  * [ __twitter](https://twitter.com/telegram)
+
+  * [home](/)
+  * [faq](/faq)
+  * [apps](/apps)
+  * [api](//core.telegram.org/api)
+  * [protocol](//core.telegram.org/mtproto)
+
+# telegram faq
+
+> this faq provides answers to basic questions about telegram. [CLS] [SEP]  
+> check out our [advanced faq](https://core.telegram.org/techfaq) for more
+> technical information. [CLS] [SEP]
+
+**general**
+
+  * what is telegram?
+  * who is it for?
+  * how is it different from whatsapp?
+  * how old is telegram?
+  * is it available on my device?
+  * who are the people behind telegram?
+  * where is telegram based?
+  * how do you make money?
+  * what are your thoughts on internet privacy?
+  * what about gdpr?
+  * do you process takedown requests?
+  * do you process data requests?
+
+**telegram basics**
+
+  * who can i message?
+  * who can message me?
+  * who has telegram?
+  * inviting friends
+  * what do the check marks mean in telegram?
+  * can i hide my 'last seen'?
+  * who can see me 'online'?
+  * what is 'people nearby'?
+  * can i delete my messages?
+  * voice, video and group calls
+  * using emoticons
+
+**groups and channels**
+
+  * what makes telegram groups cool?
+  * how are channels and groups different?
+  * creating a group
+  * adding members and using invite links
+
+**usernames and t.me**
+
+  * what are usernames? how do i get one?
+  * how does t.me work?
+  * what can i use as my username?
+  * do i need a username?
+  * will people know my number?
+  * how do i delete my username?
+  * what do i do if my username is taken?
+  * what if someone is pretending to be me?
+
+**security**
+
+  * how secure is telegram?
+  * how do you encrypt data?
+  * why should i trust you?
+  * do i need to trust telegram for it to be secure?
+  * what if my hacker friend doubts you?
+  * can telegram protect me against everything?
+  * how does 2-step verification work?
+
+**secret chats**
+
+  * what is a _secret chat?_
+  * starting a secret chat
+  * using the self-destruct timer
+  * screenshot alerts
+  * encryption key picture
+  * why not make all chats 'secret'?
+
+**your account**
+
+  * who can see my phone number?
+  * i have a new phone number, what do i do?
+  * log out of telegram
+  * change your phone number
+  * delete your telegram account
+  * how does account self-destruction work?
+  * my phone was stolen. [CLS] [SEP] what do i do?
+
+**bots**
+
+  * how do i create a bot?
+  * how do i get rid of a bot?
+  * are bots safe?
+  * where can i get more bots?
+
+**deeper questions**
+
+  * can i get telegram's server-side code?
+  * can i use my own server?
+  * can i use the telegram api?
+  * do you have a privacy policy?
+  * why do you have two apps in the mac app store?
+  * can i translate telegram?
+  * can i help?
+
+**troubleshooting**
+
+  * sms, login, register
+  * getting a login code via a phone call
+  * getting codes via telegram
+  * notification problems
+  * problems with contacts
+  * deleting contacts on android
+  * secret chats
+  * can't send messages to non contacts
+  * telegram uses the camera or microphone in the background
+
+**contact telegram support**  
+ **follow us on twitter**  
+ **facebook**  
+[ **advanced faq**](https://core.telegram.org/techfaq)
+
+* * *
+
+### __general questions
+
+#### __q: what is telegram? what do i do here?
+
+telegram is a messaging app with a focus on speed and security, it’s super-
+fast, simple and free. [CLS] [SEP] you can use telegram on all your devices **at the same
+time** — your messages sync seamlessly across any number of your phones,
+tablets or computers. [CLS] [SEP] telegram has over **500 million** monthly active users
+and is one of the **10 most downloaded apps** in the world. [CLS] [SEP]
+
+with telegram, you can send messages, photos, videos and
+[**files**](/blog/shared-files) of any type (doc, zip, mp3, etc), as well as
+create groups for up to **200,000** people or [channels](/blog/channels) for
+broadcasting to **unlimited** audiences. [CLS] [SEP] you can write to your phone contacts
+and find people by their **usernames**. [CLS] [SEP] as a result, telegram is like sms and
+email combined — and can take care of all your personal or business messaging
+needs. [CLS] [SEP] in addition to this, we support end-to-end encrypted
+[**voice**](https://telegram.org/blog/calls) and [**video
+calls**](https://telegram.org/blog/video-calls), as well as [**voice chats in
+groups**](https://telegram.org/blog/voice-chats) for thousands of
+participants. [CLS] [SEP]
+
+> follow our [**tips channel**](https://t.me/telegramtips) to learn more about
+> telegram features. [CLS] [SEP]
+
+#### __q: who is telegram for?
+
+telegram is for everyone who wants fast and reliable messaging and
+[calls](https://telegram.org/blog/calls). [CLS] [SEP] business users and small teams may
+like the large groups, [usernames](https://telegram.org/faq#usernames-and-t-
+me), [desktop apps](https://desktop.telegram.org) and powerful [file
+sharing](https://telegram.org/blog/shared-files) options. [CLS] [SEP]
+
+since telegram groups can have up to [200,000
+members](https://telegram.org/blog/replies-mentions-stickers), we support
+[replies, mentions and hashtags](https://telegram.org/blog/replies-mentions-
+hashtags) that help maintain order and keep communication in large communities
+[efficient](https://telegram.org/blog/replies-mentions-stickers). [CLS] [SEP] you can
+appoint [admins with advanced tools](https://telegram.org/blog/admin-
+revolution) to help these communities prosper in peace. [CLS] [SEP] [public
+groups](https://telegram.org/blog/supergroups5k) can be joined by anyone and
+are powerful platforms for discussions and collecting feedback. [CLS] [SEP]
+
+in case you're more into pictures, telegram has animated [gif
+search](/blog/gif-revolution), a state of the art [photo
+editor](https://telegram.org/blog/photo-editor-and-passcodes), and an [open
+sticker platform](/blog/stickers-revolution) (find some cool stickers
+[here](https://t.me/durov/40) or [here](https://t.me/sticker)). [CLS] [SEP] what's more,
+there is no need to worry about disk space on your device. [CLS] [SEP] with telegram's
+cloud support and [cache management options](https://telegram.org/blog/cache-
+and-stickers), telegram can take up nearly **zero** space on your phone. [CLS] [SEP]
+
+those looking for extra privacy should check out our [advanced
+settings](/blog/privacy-revolution) and rather revolutionary
+[policy](/privacy). [CLS] [SEP] and if you want secrecy, try our device-specific secret
+chats with self-destructing messages, photos, and videos — and lock your app
+with an additional [passcode](https://telegram.org/blog/photo-editor-and-
+passcodes). [CLS] [SEP]
+
+> we keep evolving — check out our [brief history of
+> telegram](https://telegram.org/evolution) and follow us on
+> [twitter](https://twitter.com/telegram) and
+> [telegram](https://t.me/telegram) to stay in touch. [CLS] [SEP]
+
+#### __q: how is telegram different from whatsapp?
+
+unlike whatsapp, telegram is a cloud-based messenger with **seamless sync**. [CLS] [SEP]
+as a result, you can access your messages from several devices at once,
+including tablets and computers, and share an unlimited number of photos,
+videos and files (doc, zip, mp3, etc.) of up to **2 gb** _each_. [CLS] [SEP]
+
+telegram needs less than **100 mb** on your device – you can keep **all your
+media** in the cloud without deleting things – simply [clear your cache to
+free up space](https://t.me/telegramtips/206). [CLS] [SEP]
+
+thanks to telegram' multi-data center infrastructure and encryption, is faster
+and way more secure. [CLS] [SEP] on top of that, private messaging on telegram is free and
+will stay free — no ads, no subscription fees, forever. [CLS] [SEP]
+
+telegram's api and code is open, and developers are welcome to create their
+own telegram apps. [CLS] [SEP] we also have a [bot api](https://core.telegram.org/bots), a
+platform for developers that allows anyone to easily build specialized tools
+for telegram, [integrate any services](https://telegram.org/blog/inline-bots),
+and even [accept payments](https://telegram.org/blog/payments) from users
+around the world. [CLS] [SEP]
+
+and that's just the tip of the iceberg. [CLS] [SEP]
+
+> follow our [**tips channel**](https://t.me/telegramtips) to learn more about
+> telegram features. [CLS] [SEP]
+
+#### __q: how old is telegram?
+
+telegram for ios was launched on **august 14, 2013**. [CLS] [SEP] the alpha version of
+telegram for android officially launched on october 20, 2013. [CLS] [SEP] more and more
+[telegram clients](/apps) appear, built by independent developers using
+telegram's [open platform](//core.telegram.org/api). [CLS] [SEP]
+
+#### __q: which devices can i use?
+
+you can use telegram on smartphones, tablets, and even computers. [CLS] [SEP] we have apps
+for [ios](https://telegram.org/dl/ios) (9.0 and above),
+[android](https://telegram.org/dl/android) (4.1 and up), a native [macos
+app](https://macos.telegram.org) and a universal [desktop
+app](https://desktop.telegram.org) for windows, macos, and linux. [CLS] [SEP] [telegram
+web](https://web.telegram.org) can also help to quickly do something on the
+go. [CLS] [SEP]
+
+> you can log in to telegram from as many of your devices as you like — all
+> **at the same time**. [CLS] [SEP] just use your main mobile phone number to log in
+> everywhere, your cloud chats will sync instantly. [CLS] [SEP]
+
+the [telegram api](//core.telegram.org/api) is open for developers, should you
+want to build your own applications for other platforms. [CLS] [SEP]
+
+#### __q: who are the people behind telegram?
+
+telegram is supported by [pavel
+durov](https://en.wikipedia.org/wiki/pavel_durov) and his brother nikolai. [CLS] [SEP]
+pavel supports telegram financially and ideologically while nikolai's input is
+technological. [CLS] [SEP] to make telegram possible, nikolai developed a unique custom
+data protocol, which is open, secure and optimized for work with multiple
+data-centers. [CLS] [SEP] as a result, telegram combines security, reliability and speed
+on any network. [CLS] [SEP]
+
+> see also: [articles about telegram](/press)
+
+#### __q: where is telegram based?
+
+the telegram development team is based in dubai. [CLS] [SEP]
+
+most of the developers behind telegram originally come from st. [CLS] [SEP] petersburg,
+the city famous for its unprecedented number of [highly skilled
+engineers](https://en.wikipedia.org/wiki/acm_international_collegiate_programming_contest#winners). [CLS] [SEP]
+the telegram team had to leave russia due to local it regulations and has
+tried a number of locations as its base, including berlin, london and
+singapore. [CLS] [SEP] we’re currently happy with dubai, although are ready to relocate
+again if local regulations change. [CLS] [SEP]
+
+#### __q: will you have ads in my private chats and groups? or sell my data?
+or steal my beloved and enslave my children?
+
+no. [CLS] [SEP] see [this post](https://t.me/durov/142) for details. [CLS] [SEP]
+
+#### __q: how are you going to make money out of this?
+
+we believe in fast and secure messaging that is also 100% free. [CLS] [SEP]
+
+our founder and ceo [pavel durov](/press), who financed telegram throughout
+most of its history, has outlined a **strategy to make telegram sustainable**
+in [this post](https://t.me/durov/142). [CLS] [SEP]
+
+while telegram will introduce monetization in 2021 to pay for the
+infrastructure and developer salaries, making profits will never be an end-
+goal for us. [CLS] [SEP]
+
+#### __q: what are your thoughts on internet privacy?
+
+we think that the two most important components of internet privacy should be:
+
+  1. [CLS] [SEP] protecting your private conversations from snooping third parties, such as officials, employers, etc. [CLS] [SEP]
+  2. [CLS] [SEP] protecting your personal data from third parties, such as marketers, advertisers, etc. [CLS] [SEP]
+
+telegram's aim is to create a truly free messenger, with a revolutionary
+[privacy policy](/privacy). [CLS] [SEP]
+
+#### __q: what about gdpr?
+
+the general data protection regulation (gdpr) came into force in europe on may
+25, 2018. [CLS] [SEP] since taking back our right to privacy was the reason we made
+telegram, there wasn't much we had to change. [CLS] [SEP] we don’t use your data for ad
+targeting, we don’t sell it to others, and we're not part of any ~~mafia
+family~~ “family of companies.”
+
+telegram only keeps the information it needs to function as a feature-rich
+cloud service. [CLS] [SEP] for example, your cloud chats – so that you can access them
+from any devices without using third-party backups, or your contacts – so that
+you can rely on your existing social graph when messaging people on telegram. [CLS] [SEP]
+please see our [privacy policy](https://telegram.org/privacy) for more
+information. [CLS] [SEP]
+
+you can use [**@gdprbot**](https://t.me/gdprbot) to:
+
+  * request a copy of all your data that telegram stores. [CLS] [SEP]
+  * contact us about data privacy. [CLS] [SEP]
+
+#### __q: there's illegal content on telegram. [CLS] [SEP] how do i take it down?
+
+all telegram chats and group chats are private amongst their participants. [CLS] [SEP] we
+do not process any requests related to them. [CLS] [SEP]
+
+but **sticker sets** , **channels** , and **bots** on telegram are _publicly
+available_. [CLS] [SEP] if you find sticker sets or bots on telegram that you think are
+illegal, please ping us at [abuse@telegram.org](mailto:abuse@telegram.org). [CLS] [SEP]
+
+you can also use the 'report' buttons right inside our apps, see [this
+post](https://t.me/isiswatch/2) on our official [@isiswatch
+channel](https://t.me/isiswatch) for details. [CLS] [SEP]
+
+> note: if a scammer is pretending to be you, contact
+> [@notoscam](https://t.me/notoscam)
+
+#### __q: a bot or channel is infringing on my copyright. [CLS] [SEP] what do i do?
+
+all telegram chats and group chats are private amongst their participants. [CLS] [SEP] we
+do not process any requests related to them. [CLS] [SEP] but **sticker sets** ,
+**channels** , and **bots** on telegram are _publicly available_. [CLS] [SEP]
+
+if you see a bot, channel, or sticker set that is infringing on your
+copyright, kindly submit a complaint to
+[dmca@telegram.org](mailto:dmca@telegram.org). [CLS] [SEP] please note that such requests
+should only be submitted by the copyright owner or an agent authorized to act
+on the owner’s behalf. [CLS] [SEP]
+
+#### __q: wait! 0_o do you process take-down requests from third parties?
+
+our mission is to provide a secure means of communication that works
+everywhere on the planet. [CLS] [SEP] to do this in the places where it is most needed
+(and to continue distributing telegram through the app store and google play),
+we have to process legitimate requests to take down illegal **public** content
+(e.g., sticker sets, bots, and channels) within the app. [CLS] [SEP] for example, we can
+take down sticker sets that violate intellectual property rights or porn bots. [CLS] [SEP]
+
+user-uploaded stickers sets, channels, and bots by third-party developers are
+not part of the core telegram ui. [CLS] [SEP] whenever we receive a complaint at
+[abuse@telegram.org](mailto:abuse@telegram.org) or
+[dmca@telegram.org](mailto:dmca@telegram.org) regarding the legality of public
+content, we perform the necessary legal checks and take it down when deemed
+appropriate. [CLS] [SEP]
+
+please note that this does **not** apply to local restrictions on freedom of
+speech. [CLS] [SEP] for example, if criticizing the government is illegal in some country,
+telegram won't be a part of such politically motivated censorship. [CLS] [SEP] this goes
+against our founders' [principles](https://mashable.com/2015/05/18/russias-
+mark-zuckerberg-pavel-durov/). [CLS] [SEP] while we do block terrorist (e.g. [CLS] [SEP] isis-related)
+bots and channels, we will not block anybody who peacefully expresses
+alternative opinions. [CLS] [SEP]
+
+#### __q: my bot or sticker set was banned unfairly, what do i do?
+
+if you think we banned your bot, channel, or sticker set for no apparent
+reasons, drop us a line at [abuse@telegram.org](mailto:abuse@telegram.org). [CLS] [SEP]
+
+#### __q: do you process data requests?
+
+secret chats use end-to-end encryption, thanks to which we don't have any data
+to disclose. [CLS] [SEP]
+
+to protect the data that is not covered by end-to-end encryption, telegram
+uses a distributed infrastructure. [CLS] [SEP] cloud chat data is stored in multiple data
+centers around the globe that are controlled by different legal entities
+spread across different jurisdictions. [CLS] [SEP] the relevant decryption keys are split
+into parts and are never kept in the same place as the data they protect. [CLS] [SEP] as a
+result, several court orders from different jurisdictions are required to
+force us to give up any data. [CLS] [SEP]
+
+thanks to this structure, we can ensure that no single government or block of
+like-minded countries can intrude on people's privacy and freedom of
+expression. [CLS] [SEP] telegram can be forced to give up data only if an issue is grave
+and universal enough to pass the scrutiny of several different legal systems
+around the world. [CLS] [SEP]
+
+to this day, we have disclosed 0 bytes of user data to third parties,
+including governments. [CLS] [SEP]
+
+### __telegram basics
+
+> follow our [**tips channel**](https://t.me/telegramtips) to learn more about
+> telegram features. [CLS] [SEP]
+
+#### __q: who can i write to?
+
+you can write to people who are in your phone contacts and have telegram. [CLS] [SEP]
+another way of contacting people is to type their telegram username into the
+search field – you don't need to know their phone number to do this. [CLS] [SEP]
+
+#### __q: who can contact me?
+
+people can contact you on telegram if they **know your phone number** or if
+you **message them first**. [CLS] [SEP]
+
+if they don't know your phone number, they can find you in these cases:
+
+  * when you both are members of the **same group**. [CLS] [SEP]
+  * if you set a **public username**. [CLS] [SEP] others can use **global search** and find you by your username. [CLS] [SEP]
+  * if you **opt-in** to appear in the people nearby section (this is **turned off** by default). [CLS] [SEP]
+
+#### __q: how do i know who in my contacts has telegram?
+
+your contacts, who have telegram, are shown at the top of your contacts. [CLS] [SEP] they
+also have pictures. [CLS] [SEP]
+
+#### __q: how do i invite my friends?
+
+_ios:_ the basic invitations are simple sms messages. [CLS] [SEP] they will be charged as
+standard outgoing sms by your carrier (unless sent via imessage). [CLS] [SEP] naturally,
+you have other options to bring your friends here. [CLS] [SEP] try sending them a download
+link via any other messaging service: email, facebook, whatsapp, an actual
+telegram — you name it. [CLS] [SEP] the link:
+[**<https://telegram.org/dl/>**](https://telegram.org/dl/)
+
+_android:_ open the app menu (swipe right in chat list) > invite friends. [CLS] [SEP] then
+choose an application via which you would like to send out invitations. [CLS] [SEP]
+
+> you can give your friends a t.me link with your username so that they can
+> easily find you on telegram even if they don't have your phone number. [CLS] [SEP]
+
+#### __q: what do the check marks mean?
+
+_one check_ — message delivered to the telegram cloud and your friend has been
+notified if he allows notifications. [CLS] [SEP]  
+ _two checks_ — message read (your friend opened telegram and opened the
+conversation with the message). [CLS] [SEP]
+
+we don't have a 'delivered to device' status for messages because telegram can
+run on as many devices as you want. [CLS] [SEP] so which particular one would that check
+mean?
+
+#### __q: can i hide my ‘last seen’ time?
+
+you can choose who sees this info in [privacy and
+security](https://telegram.org/blog/privacy-revolution) settings. [CLS] [SEP]
+
+remember that you won't see last seen timestamps for people with whom you
+don't share your own. [CLS] [SEP] you will, however, see an approximate last seen value. [CLS] [SEP]
+this keeps stalkers away but makes it possible to understand whether a person
+is reachable over telegram. [CLS] [SEP] there are four possible approximate values:
+
+  * **last seen recently** — covers anything between 1 second and 2-3 days
+  * **last seen within a week** — between 2-3 and seven days
+  * **last seen within a month** — between 6-7 days and a month
+  * **last seen a long time ago** — more than a month (this is also always shown to blocked users)
+
+#### __q: who can see me'online'?
+
+the last seen rules apply to your online status as well. [CLS] [SEP] people can only see
+you online if you're sharing your last seen status with them. [CLS] [SEP]
+
+there are some exceptions because sometimes it is obvious that you are online. [CLS] [SEP]
+regardless of the last seen settings, people will see you online for a brief
+period (~30 seconds) if you do the following:
+
+  * send them a message in a one-on-one chat or in a group where you both are members. [CLS] [SEP]
+  * read a message they sent you in a one-on-one chat. [CLS] [SEP]
+  * broadcast a “typing…” status to their chat with you or to a group where you both are members. [CLS] [SEP]
+
+if you're not sharing your last seen timestamp with someone and don't do
+anything of the above, they'll never see you online. [CLS] [SEP] another way of achieving
+this is to block that person. [CLS] [SEP]
+
+#### __q: what is people nearby?
+
+people nearby is an _optional_ feature that allows telegram users to **explore
+local groups** , **find friends** to chat with in their area, or quickly
+**exchange contacts** with people who are close. [CLS] [SEP]
+
+you can find it in _contacts > find people nearby_, as well as directly in the
+side menu on android. [CLS] [SEP]
+
+while you have the people nearby section **open on your screen** , people who
+are _very close_ will be able to see you there. [CLS] [SEP] if you don't open the section,
+others will **never** see you in 'people nearby'. [CLS] [SEP]
+
+you can also choose to permanently add your profile to the list of nearby
+people by tapping **make myself visible**. [CLS] [SEP] after becoming visible, you can
+remove your profile from the list at any time by tapping **stop showing me**. [CLS] [SEP]
+
+> **note:** people nearby is **never turned on by default** – users must
+> manually enable it. [CLS] [SEP] if you are receiving messages from someone you don't
+> know, see _q: who can contact me?_
+
+#### __q: can i delete my messages?
+
+yes. [CLS] [SEP] you can always delete any messages you **sent** or **received** for _both
+sides_ in _any_ one-on-one conversation (in groups, it's still your own
+messages only). [CLS] [SEP] you can also clear the entire chat history on both ends. [CLS] [SEP] on
+telegram, deleted messages do not leave a mark in the chat. [CLS] [SEP]
+
+together with privacy settings for [forwarded messages](/blog/unsend-privacy-
+emoji#anonymous-forwarding), this makes exchanging telegram messages similar
+to talking face to face (without a tape recorder). [CLS] [SEP] as a result, users no
+longer need to worry about the data accumulating in their chats over the
+years. [CLS] [SEP] both parties in a conversation have full control over what does and
+what doesn't belong to their online identity. [CLS] [SEP]
+
+#### __q: can i make calls via telegram?
+
+yes! you can make end-to-end encrypted [voice
+calls](https://telegram.org/blog/calls) and [video
+calls](https://telegram.org/blog/video-calls). [CLS] [SEP]
+
+if you want more participants, try starting a [voice
+chat](https://telegram.org/blog/voice-chats) in one of the **groups** you
+created. [CLS] [SEP] voice chats add a live layer of ephemeral talk to the group. [CLS] [SEP] they can
+be used as virtual office spaces for teams or informal lounges for any
+community. [CLS] [SEP] while voice chats are not group calls, they can achieve similar
+goals. [CLS] [SEP]
+
+#### __q: how can i use emoticons?
+
+type **one word** in your input field to get relevant [emoji
+suggestions](https://t.me/telegramtips/221). [CLS] [SEP] you can also type “:” followed by
+any keyword to open **emoji search** – like _:heart_. [CLS] [SEP]
+
+you can suggest missing keywords for emoji in your language using [this
+interface](https://translations.telegram.org/en/emoji) (this will open
+suggestions for _english_ , don't forget to change to your _language_ in the
+left menu). [CLS] [SEP]
+
+### __groups and channels
+
+#### __q: what makes telegram groups cool?
+
+telegram groups can have up to **200,000 members** each and are extremely
+powerful communication tools. [CLS] [SEP] here are a few key features that make them stand
+out in the messaging world:
+
+**unified history**  
+edit your messages after posting, delete them so that they disappear for
+everyone. [CLS] [SEP]
+
+**cross-platform availability**  
+access your messages anytime, from any number of your mobile or desktop
+devices. [CLS] [SEP]
+
+**instant search**  
+find the message you're looking for, even among millions. [CLS] [SEP] filter by sender to
+make searching easier. [CLS] [SEP]
+
+**replies, mentions, hashtags**  
+easily trace a conversation and keep communication efficient, no matter the
+group size. [CLS] [SEP]
+
+**smart notifications**  
+mute the group to get notifications only when people mention you or reply to
+your messages. [CLS] [SEP]
+
+**pinned messages**  
+you can pin any message to be displayed at the top of the chat screen. [CLS] [SEP] all
+members will get a notification — even if they muted ordinary messages from
+your group. [CLS] [SEP]
+
+**moderation tools**  
+appoint administrators that can mass-delete messages, control membership, and
+pin important messages. [CLS] [SEP] define their admin privileges with granular precision. [CLS] [SEP]
+
+**group permissions**  
+set default permissions to restrict all members from posting specific kinds of
+content. [CLS] [SEP] or even restrict members from sending messages altogether – and let
+the admins chat amongst themselves while everybody else is watching. [CLS] [SEP]
+
+**file sharing**  
+send and receive files of any type, up to 2 gb in size each, access them
+instantly on your other devices. [CLS] [SEP]
+
+**public groups**  
+get a short link for your group and make it public, like
+[t.me/publictestgroup](https://t.me/publictestgroup). [CLS] [SEP] this way, anybody can
+view the group's entire chat history and join to post messages. [CLS] [SEP]
+
+**customization via bots**  
+create custom tools for any specific needs using our [bot
+api](https://core.telegram.org/bots) and [inline
+bots](https://core.telegram.org/bots/inline). [CLS] [SEP]
+
+#### __q: what's the difference between groups and channels?
+
+telegram **groups** are ideal for sharing stuff with friends and family or
+collaboration in small teams. [CLS] [SEP] but groups can also grow very large and support
+communities of up to 200,000 members. [CLS] [SEP] you can make any group **public** ,
+toggle **persistent history** to control whether or not new members have
+access to earlier messages and appoint **administrators** with granular
+privileges. [CLS] [SEP] you can also pin important messages to the top of the screen so
+that all members can see them, including those who have just joined. [CLS] [SEP]
+
+**channels** are a tool for broadcasting messages to large audiences. [CLS] [SEP] in fact,
+a channel can have an unlimited number of subscribers. [CLS] [SEP] when you post in a
+channel, the message is signed with the channel's name and photo and not your
+own. [CLS] [SEP] each message in a channel has a **view counter** that gets updated when
+the message is viewed, including its forwarded copies. [CLS] [SEP]
+
+> [read more about channels in the channels faq »](/faq_channels)
+
+#### __q: how do i create a group?
+
+_ios:_ start a new message (tap the icon in the top right corner in chats) >
+'new group'. [CLS] [SEP]  
+ _android:_ tap the circular pencil icon in the chat list > 'new group'. [CLS] [SEP]  
+ _telegram desktop:_ click the menu button in the top left corner > 'new
+group'. [CLS] [SEP]
+
+#### __q: can i assign administrators?
+
+you can add administrators to help you manage your group and define their
+privileges with granular precision. [CLS] [SEP]
+
+_ios:_ go to group info (tap the photo in the top right corner on the group‘s
+chat screen) > edit > administrators. [CLS] [SEP]  
+ _android:_ go to group info (tap the name in the header) > the pencil icon
+(in the top right corner) > administrators. [CLS] [SEP]  
+ _telegram desktop:_ when in the group, click '…' in the top right corner >
+manage group > administrators. [CLS] [SEP]
+
+#### __q: how do i add more members? what's an invite link?
+
+you can add your contacts, or using search by username. [CLS] [SEP]
+
+it is easy to migrate existing groups to telegram by sending people an
+**invite link**. [CLS] [SEP] to create an invite link, go to group info > add member >
+invite to group via link. [CLS] [SEP]
+
+anyone who has telegram installed will be able to join your group by following
+this link. [CLS] [SEP] if you choose to revoke the link, it will stop working immediately. [CLS] [SEP]
+
+> [read more about invite links in our blog »](/blog/invite-links)
+
+### __usernames and t.me
+
+#### __q: what are usernames? how do i get one?
+
+you can set up a **public** username on telegram. [CLS] [SEP] it then becomes possible for
+other users to find you by that username — you will appear in contacts search
+under 'global results'. [CLS] [SEP] please note that people who find you will be able to
+send you messages, even if they don't know your number. [CLS] [SEP] if you are not
+comfortable with this, we advise against setting up a username in telegram. [CLS] [SEP]
+
+you can set up a username in settings and use the universal search box in the
+chat list to search for chats, messages, and usernames. [CLS] [SEP]
+
+#### __q: how does t.me work?
+
+once you've set up a username, you can give people a
+[t.me/username](https://t.me/username) link. [CLS] [SEP] opening that link on their phone
+will automatically fire up their telegram app and open a chat with you. [CLS] [SEP] you
+can share username links with friends, write them on business cards or put
+them up on your website. [CLS] [SEP]
+
+this way people can contact you on telegram without knowing your phone number. [CLS] [SEP]
+
+#### __q: what can i use as my username?
+
+you can use a-z, 0-9 and underscores. [CLS] [SEP] usernames are case-insensitive, but
+telegram will store your capitalization preferences (e.g. [CLS] [SEP] telegram and
+telegram is the same user). [CLS] [SEP] the username must be at least five characters
+long. [CLS] [SEP]
+
+#### __q: do i need a username?
+
+you don't have to get one. [CLS] [SEP] remember that telegram usernames are public and
+choosing a username on telegram makes it possible for people to find you in
+global search and send you messages even if they don't have your number. [CLS] [SEP] if
+you are not comfortable with this, we advise against setting up a username. [CLS] [SEP]
+
+#### __q: if someone finds me by username, messages and i reply — will they
+know my number?
+
+no. [CLS] [SEP] neither party will see another's phone number (unless this is permitted by
+your privacy settings). [CLS] [SEP] this is similar to the case when you message a person
+who you've met in a telegram group. [CLS] [SEP]
+
+#### __q: how do i delete my username?
+
+go to settings and save an empty username. [CLS] [SEP] this will remove your username;
+people will no longer be able to find you via search. [CLS] [SEP] this will not affect
+existing conversations. [CLS] [SEP]
+
+#### __q: what do i do if my username is taken?
+
+telegram usernames are distributed on a first come — first serve basis. [CLS] [SEP]
+
+we understand that certain usernames are part of an online identity for some
+of us. [CLS] [SEP] if your desired username is already taken, we will be happy to help you
+acquire it for your account or channel, provided that you have that same
+username on at least **two** of these services: facebook, twitter, instagram. [CLS] [SEP]
+
+due to the fact that one account can register multiple bot and channel
+usernames, we reserve the right to recall usernames assigned to unused bots
+and channels, as well as openly squatted usernames. [CLS] [SEP]
+
+to request a username, contact [@username_bot](https://t.me/username_bot). [CLS] [SEP]
+
+#### __q: what if someone is pretending to be me?
+
+if a scammer is pretending to be you, please contact
+[@notoscam](https://t.me/notoscam). [CLS] [SEP]
+
+### __security
+
+> if you are an advanced user, you may find our [faq for the technically
+> inclined](https://core.telegram.org/techfaq) useful as well. [CLS] [SEP]
+
+#### __q: how secure is telegram?
+
+telegram is more secure than mass market messengers like whatsapp and line. [CLS] [SEP] we
+are based on the mtproto protocol (see
+[description](https://core.telegram.org/mtproto) and [advanced
+faq](https://core.telegram.org/techfaq)), built upon time-tested algorithms to
+make security compatible with high-speed delivery and reliability on weak
+connections. [CLS] [SEP] we are continuously working with the community to improve the
+security of our protocol and clients. [CLS] [SEP]
+
+#### __q: what if i’m more paranoid than your regular user?
+
+we've got you covered. [CLS] [SEP] telegram’s special secret chats use end-to-end
+encryption, leave no trace on our servers, support self-destructing messages
+and don’t allow forwarding. [CLS] [SEP] on top of this, secret chats are not part of the
+telegram cloud and can only be accessed on their devices of origin. [CLS] [SEP]
+
+#### __q: so how do you encrypt data?
+
+we support two layers of secure encryption. [CLS] [SEP] [server-client
+encryption](https://core.telegram.org/mtproto) is used in cloud chats (private
+and group chats), secret chats use an additional layer of [client-client
+encryption](https://core.telegram.org/api/end-to-end). [CLS] [SEP] all data, regardless of
+type, is encrypted in the same way — be it text, media or files. [CLS] [SEP]
+
+our encryption is based on 256-bit symmetric aes encryption, 2048-bit rsa
+encryption, and diffie–hellman secure key exchange. [CLS] [SEP] you can find more info in
+the [advanced faq](https://core.telegram.org/techfaq). [CLS] [SEP]
+
+> see also: [do you process data requests?](https://telegram.org/faq#q-do-you-
+> process-data-requests)
+
+#### __q: why should i trust you?
+
+telegram is open, anyone can check our [source code](/apps#source-code),
+[protocol](//core.telegram.org/mtproto) and [api](//core.telegram.org/api),
+see how everything works and make an informed decision. [CLS] [SEP] telegram supports
+[verifiable builds](https://telegram.org/blog/verifiable-apps-and-more), which
+allow experts to independently verify that our code published on github is the
+**exact same code** that is used to build the apps you download from app store
+or google play. [CLS] [SEP]
+
+we welcome security experts to audit our system and appreciate any feedback at
+[security@telegram.org](mailto:security@telegram.org). [CLS] [SEP]
+
+on top of that, telegram's primary focus is not to bring a profit, so
+commercial interests will never interfere with our mission. [CLS] [SEP]
+
+> see also: [articles about telegram](/press)
+
+#### __q: do i need to trust telegram for this to be secure?
+
+when it comes to secret chats, you don't — just make sure that the visualized
+key of your secret chat matches the one in your friend's secret chat settings. [CLS] [SEP]
+[more about this below](faq#q-what-is-this-39encryption-key-39-thing). [CLS] [SEP]
+
+#### __q: what if my hacker friend says they could decipher telegram messages?
+
+anyone who claims that telegram messages can be deciphered is welcome to prove
+that claim in our competition and [win
+$300,000](https://telegram.org/blog/cryptocontest). [CLS] [SEP] you can check out the
+[cracking contest description](https://core.telegram.org/contest300k) to learn
+more. [CLS] [SEP]
+
+any comments on telegram's security are welcome at
+[security@telegram.org](mailto:security@telegram.org). [CLS] [SEP] all submissions which
+result in a change of code or configuration are eligible for bounties, ranging
+from **$100** to [**$100,000**](https://telegram.org/blog/crowdsourcing-a-
+more-secure-future) or more, depending on the severity of the issue. [CLS] [SEP] please
+note that we can not offer bounties for issues that are disclosed to the
+public before they are fixed. [CLS] [SEP]
+
+#### __q: can telegram protect me against everything?
+
+telegram can help when it comes to data transfer and secure communication. [CLS] [SEP]
+this means that all data (including media and files) that you send and receive
+via telegram cannot be deciphered when intercepted by your internet service
+provider, owners of wi-fi routers you connect to, or other third parties. [CLS] [SEP]
+
+but please remember that we cannot protect you from your own mother if she
+takes your unlocked phone without a passcode. [CLS] [SEP] or from your it-department if
+they access your computer at work. [CLS] [SEP] or from any other people that get physical
+or [root](https://en.wikipedia.org/wiki/superuser) access to your phones or
+computers running telegram. [CLS] [SEP]
+
+if you have reasons to worry about your personal security, we strongly
+recommend using only secret chats in official or at least verifiable open-
+source apps for sensitive information, preferably with a self-destruct timer. [CLS] [SEP]
+we also recommend enabling 2-step verification and setting up a strong
+passcode to lock your app, you will find both options in settings > privacy
+and security. [CLS] [SEP]
+
+#### __q: how does 2-step verification work?
+
+logging in with an sms code is an industry standard in messaging, but if
+you're looking for more security or have reasons to doubt your mobile carrier
+or government, we recommend protecting your cloud chats with an additional
+password. [CLS] [SEP]
+
+you can do this in **settings > privacy and security > 2-step verification**. [CLS] [SEP]
+once enabled, you will need both an sms code and a password to log in. [CLS] [SEP] you can
+also set up a recovery email address that will help regain access, should you
+forget your password. [CLS] [SEP] if you do so, please remember that it's important that
+the recovery email account is also protected with a strong password and 2-step
+verification when possible. [CLS] [SEP]
+
+[check this out](https://xkcd.com/936/) for tips on creating a strong password
+that is easy to remember. [CLS] [SEP]
+
+#### __q: why can jailbroken and rooted devices be dangerous?
+
+using a rooted or jailbroken device makes it easier for a potential attacker
+to gain full administrative control over your device — [root
+access](https://en.wikipedia.org/wiki/superuser). [CLS] [SEP]
+
+a user with root access can easily bypass security features built into the
+operating system, read process memory or access restricted areas, such as the
+[internal storage](https://developer.android.com/training/data-
+storage#filesinternal). [CLS] [SEP] once an attacker has root access, any efforts to
+mitigate threats become futile. [CLS] [SEP] no application can be called safe under these
+circumstances, no matter how strong the encryption. [CLS] [SEP]
+
+### __secret chats
+
+#### __q: how are secret chats different?
+
+secret chats are meant for people who want more secrecy than the average
+fella. [CLS] [SEP] all messages in secret chats use end-to-end encryption. [CLS] [SEP] this means only
+you and the recipient can read those messages — nobody else can decipher them,
+including us here at telegram (more on this here). [CLS] [SEP] on top of this, messages
+cannot be forwarded from secret chats. [CLS] [SEP] and when you delete messages on your
+side of the conversation, the app on the other side of the secret chat will be
+ordered to delete them as well. [CLS] [SEP]
+
+you can order your messages, photos, videos and files to self-destruct in a
+set amount of time after they have been read or opened by the recipient. [CLS] [SEP] the
+message will then disappear from both your and your friend's devices. [CLS] [SEP]
+
+all secret chats in telegram are device-specific and are not part of the
+telegram cloud. [CLS] [SEP] this means you can only access messages in a secret chat from
+their device of origin. [CLS] [SEP] they are safe for as long as your device is safe in
+your pocket. [CLS] [SEP]
+
+#### __q: how do i start a secret chat?
+
+open the profile of the user you want to contact. [CLS] [SEP] tap on ‘…’, then ‘start
+secret chat’. [CLS] [SEP]
+
+remember that telegram secret chats are device-specific. [CLS] [SEP] if you start a secret
+chat with a friend on one of your devices, this chat will only be available on
+that device. [CLS] [SEP] if you log out, you will lose all your secret chats. [CLS] [SEP] you can
+create as many different secret chats with the same contact as you like. [CLS] [SEP]
+
+#### __q: how do self-destructing messages work?
+
+the self-destruct timer is available for **all messages** in secret chats and
+for **media** in private cloud chats. [CLS] [SEP]
+
+to set the timer, simply tap the clock icon (in the input field on ios, top
+bar on android), and then choose the desired time limit. [CLS] [SEP] the clock starts
+ticking the moment the message is displayed on the recipient's screen (gets
+two check marks). [CLS] [SEP] as soon as the time runs out, the message disappears from
+**both** devices. [CLS] [SEP] we will try to send a notification if a screenshot is taken. [CLS] [SEP]
+
+please note that the timer in secret chats only applies to messages that were
+sent **after** the timer was set. [CLS] [SEP] it has no effect on earlier messages. [CLS] [SEP]
+
+#### __q: can i be certain that my conversation partner doesn't take a
+screenshot?
+
+unfortunately, there is no bulletproof way of detecting screenshots on certain
+systems (most notably, some android and windows phone devices). [CLS] [SEP] we will make
+every effort to alert you about screenshots taken in your secret chats, but it
+may still be possible to bypass such notifications and take screenshots
+silently. [CLS] [SEP] we advise to share sensitive information only with people you trust. [CLS] [SEP]
+after all, nobody can stop a person from taking a picture of their screen with
+a different device or an old school camera. [CLS] [SEP]
+
+#### __q: what is this'encryption key' thing?
+
+when a secret chat is created, the participating devices exchange encryption
+keys using the so-called [diffie-hellman key
+exchange](https://en.wikipedia.org/wiki/diffie%e2%80%93hellman_key_exchange). [CLS] [SEP]
+after the secure end-to-end connection has been established, we generate a
+picture that visualizes the encryption key for your chat. [CLS] [SEP] you can then compare
+this image with the one your friend has — if the two images are the same, you
+can be sure that the secret chat is secure, and no [man-in-the-middle
+attack](https://en.wikipedia.org/wiki/man-in-the-middle_attack) can succeed. [CLS] [SEP]
+
+newer versions of telegram apps will show a larger picture along with a
+textual representation of the key (this is not the key itself, of course!)
+when both participants are using an updated app. [CLS] [SEP]
+
+always compare visualizations using a channel that is known to be secure —
+it's safest if you do this in person, in an offline meeting with the
+conversation partner. [CLS] [SEP]
+
+#### __q: why not just make all chats'secret'?
+
+all telegram messages are always securely encrypted. [CLS] [SEP] messages in secret chats
+use **client-client** encryption, while cloud chats use **client-
+server/server-client** encryption and are stored encrypted in the telegram
+cloud (more [here](https://telegram.org/privacy#4-1-storing-data)). [CLS] [SEP] this
+enables your cloud messages to be both secure and immediately accessible from
+any of your devices – even if you lose your device altogether. [CLS] [SEP]
+
+the problem of restoring access to your chat history on a newly connected
+device (e.g. [CLS] [SEP] when you lose your phone) does not have an elegant solution in
+the end-to-end encryption paradigm. [CLS] [SEP] at the same time, reliable backups are an
+essential feature for any mass-market messenger. [CLS] [SEP] to solve this problem, some
+applications (like whatsapp and viber) allow [decryptable
+backups](https://www.eff.org/deeplinks/2016/10/where-whatsapp-went-wrong-effs-
+four-biggest-security-concerns) that put their users' privacy at risk – even
+if they do not enable backups themselves. [CLS] [SEP] other apps ignore the need for
+backups altogether and leave their users vulnerable to data loss. [CLS] [SEP]
+
+we opted for a third approach by offering two distinct types of chats. [CLS] [SEP]
+telegram disables default system backups and provides all users with an
+integrated security-focused backup solution in the form of cloud chats. [CLS] [SEP]
+meanwhile, the separate entity of secret chats gives you full control over the
+data you do not want to be stored. [CLS] [SEP]
+
+this allows telegram to be widely adopted in broad circles, not just by
+activists and dissidents, so that the simple fact of using telegram does not
+mark users as targets for heightened surveillance in certain countries. [CLS] [SEP] we are
+convinced that the separation of conversations into cloud and secret chats
+represents the most secure solution currently possible for a massively popular
+messaging application. [CLS] [SEP]
+
+> see also: [why telegram isn't end-to-end encrypted “by
+> default”](https://telegra.ph/why-isnt-telegram-end-to-end-encrypted-by-
+> default-08-14)
+
+### __your account
+
+#### __q: who can see my phone number?
+
+on telegram, you can send messages in private chats and groups without making
+your phone number visible. [CLS] [SEP] by default, your number is only visible to people
+who you've added to your address book as contacts. [CLS] [SEP] you can further modify this
+in _settings > privacy and security > phone number_. [CLS] [SEP]
+
+> note that people will always see your number if they know it already and
+> **saved** it in their address book. [CLS] [SEP]
+
+#### __q: i have a new phone number, what do i do?
+
+each phone number is a **separate** account on telegram. [CLS] [SEP] you have several
+options if you are using multiple phone numbers:
+
+  * if you will **no longer use the old number** (e.g., you moved to a new country or changed your number for good), simply go to settings and change the number connected to your telegram account to the new number. [CLS] [SEP] **important:** make sure you have access to your connected phone number – otherwise you risk losing access to your account. [CLS] [SEP]
+  * if you will use the new number for a **limited time** (e.g., you're on a trip or vacation), there's no need to do anything. [CLS] [SEP]
+  * if you want to keep using **both numbers** (e.g., you have a work phone and personal phone), choose one as your telegram number. [CLS] [SEP] you _may_ create another telegram account on the second number as well, for example, if you want to keep work and personal chats separated. [CLS] [SEP] it is possible to log in to one telegram app with up to **3** different [accounts](https://telegram.org/blog/autoplay#multiple-account-support) at once. [CLS] [SEP]
+
+#### __q: how do i log out?
+
+most users don't need to log out of telegram:
+
+  * you can use telegram on many devices **at the same time**. [CLS] [SEP] just use the same phone number to log in on all devices. [CLS] [SEP]
+  * you can go to _settings > data and storage > storage usage> clear cache_ to **free up space** on your device without logging out. [CLS] [SEP]
+  * if you use telegram with **multiple phone numbers** , you can [switch between accounts](https://telegram.org/blog/themes-accounts#multiple-accounts) without logging out. [CLS] [SEP]
+  * if you use telegram on a **shared device** , you can set up a passcode in _settings > privacy and security_ to make sure only you have access to your account. [CLS] [SEP]
+
+if you do want to log out for some reason, here's how you do that:
+
+_ios_ : go to settings > edit > log out. [CLS] [SEP]  
+ _android_ , _telegram desktop_ : go to settings > … (in the top right corner)
+> log out. [CLS] [SEP]
+
+if you log out, you will keep all your cloud messages. [CLS] [SEP] however, you **will
+lose** all your **secret chats** and **all messages** inside those secret
+chats when you log out. [CLS] [SEP]
+
+> note that logging out does **not** trigger remote deletion of your secret
+> chat messages on your partner's device — to do that, choose 'clear history'
+> first. [CLS] [SEP]
+
+#### __q: how do i change my phone number?
+
+you can change your number in telegram and keep **everything** , including all
+your contacts, messages, and media from the telegram cloud, as well as all
+your secret chats on all devices. [CLS] [SEP]
+
+to change your number, go to settings, then tap on your phone number (just
+above the username), then 'change number'. [CLS] [SEP] if you already have a different
+telegram account on the target number, you'll need to delete that account
+first. [CLS] [SEP]
+
+#### __q: how do i delete my account?
+
+if you would like to delete your account, you can do this on the [deactivation
+page](https://telegram.org/deactivate). [CLS] [SEP] deleting your account permanently
+removes all your **messages** and **contacts**. [CLS] [SEP] all groups and channels that
+you've created are orphaned and left without a creator but admins retain their
+rights. [CLS] [SEP]
+
+this action must be confirmed via your telegram account and cannot be undone. [CLS] [SEP]
+
+> we recommend using a non-mobile browser for this process. [CLS] [SEP]  
+> note that you'll receive the **code** via **telegram** , not sms. [CLS] [SEP]
+
+#### __q: what happens if i delete my account?
+
+as was just mentioned above, all your data will be flushed from our system:
+all messages, groups, and contacts associated with your account will be
+deleted. [CLS] [SEP] that said, your contacts will still be able to chat in the groups
+that you have created, and they will still have _their_ copy of the messages
+you sent them. [CLS] [SEP] so if you want to send messages that can vanish without a
+trace, try using our self-destruct timer instead. [CLS] [SEP]
+
+termination of a telegram account is irreversible. [CLS] [SEP] if you sign up again, you
+will appear as a new user and will not get your history, contacts or groups
+back. [CLS] [SEP] people, who have your phone number in their contacts, will be notified. [CLS] [SEP]
+the new user will be displayed as a separate conversation in their messages
+list and their conversation history with this new user will be empty. [CLS] [SEP]
+
+#### __q: how does account self-destruction work?
+
+telegram is not a commercial organization, and we value our disk space
+greatly. [CLS] [SEP] if you stop using telegram and don't come online for at least six
+months, your account will be deleted along with all messages, media, contacts
+and every other piece of data you store in the telegram cloud. [CLS] [SEP] you can change
+the exact period after which your inactive account will self-destruct in
+settings. [CLS] [SEP]
+
+#### __q: my phone was stolen, what do i do?
+
+first of all, sorry about your phone. [CLS] [SEP] unfortunately, the phone number is the
+only way for us to identify a telegram user at the moment. [CLS] [SEP] we don't collect
+additional information about you, so whoever has the number, has the account. [CLS] [SEP]
+this means we can't help you unless you have access either to the phone number
+or to telegram itself on any of your devices. [CLS] [SEP]
+
+###### __i have access to telegram on another device
+
+  1. [CLS] [SEP] go to telegram settings > privacy and security and turn on two-step verification. [CLS] [SEP] this way the phone number alone will not be enough to log in to your account. [CLS] [SEP]
+  2. [CLS] [SEP] go to settings > devices (or privacy & security > active sessions) and terminate your telegram session on the old device. [CLS] [SEP] whoever has your phone will not be able to log in again, since they don't know your password. [CLS] [SEP]
+  3. [CLS] [SEP] contact your phone provider, so that they block your old sim and issue a new one with your number. [CLS] [SEP]
+  4. [CLS] [SEP] if you decide to switch to a new phone number, don't forget to go to settings, tap on your phone number and change your telegram number to the new one. [CLS] [SEP]
+
+###### __i don't have access to telegram on any other devices
+
+  1. [CLS] [SEP] first and foremost, you need to contact your phone provider, so that they block your old sim and issue a new one with your number. [CLS] [SEP]
+  2. [CLS] [SEP] wait till you receive your new sim with the old number, log in to telegram, then go to settings > devices (or privacy & security > active sessions) and terminate your telegram session on the old device. [CLS] [SEP]
+
+###### __removing sensitive data
+
+common thieves usually throw out the sim card immediately (the phone is harder
+to locate this way), then wipe the devices and sell them, so there isn't much
+risk for the data in case of regular petty theft. [CLS] [SEP] but if you have reasons to
+worry about the data on the device and are unable to log out the other device,
+it is best that you wipe it remotely. [CLS] [SEP] you can read more about it here: [apple
+ios](https://support.apple.com/kb/ph2701),
+[android](https://www.google.com/android/devicemanager). [CLS] [SEP] unfortunately, this
+requires you to have prepared in advance for this scenario. [CLS] [SEP]
+
+you can delete your telegram account if you are logged in on at least one of
+your other devices (mobile or desktop). [CLS] [SEP] note that inactive telegram accounts
+self-destruct automatically after a period of time — 6 months being the
+default setting. [CLS] [SEP]
+
+### __bots
+
+> if you're a developer, you may find our [bots
+> faq](https://core.telegram.org/bots/faq) more useful. [CLS] [SEP]
+
+#### __q: what are bots?
+
+bots are like small programs that run right inside telegram. [CLS] [SEP] they are made by
+third-party developers using the [telegram bot
+api](https://core.telegram.org/bots). [CLS] [SEP]
+
+#### __q: how do i create a bot?
+
+creating telegram bots is super-easy, but you will need at least some skills
+in computer programming. [CLS] [SEP] if you're sure you're up to it, our [**introduction
+for developers**](https://core.telegram.org/bots) is a good place to start. [CLS] [SEP]
+
+unfortunately, there are no out-of-the-box ways to create a working bot if you
+are not a developer. [CLS] [SEP] but we're sure you'll soon find plenty of bots created by
+other people to play with. [CLS] [SEP]
+
+#### __q: a bot is sending me messages, how do i make it stop?
+
+if you don't want a bot to send you messages, feel free to block it – same as
+you would block a human user. [CLS] [SEP] some telegram clients have a 'stop bot' button
+right in the bot's profile. [CLS] [SEP]
+
+that said, most bot developers offer commands that silence the bot, check its
+_/help_ for clues. [CLS] [SEP]
+
+#### __q: are bots safe?
+
+yes. [CLS] [SEP] bots are no different from human users that you meet in groups for
+example. [CLS] [SEP] they can see your public name, username, and profile pictures, and
+they can see messages you send to them, that's it. [CLS] [SEP] they can't access your last
+seen status and **don 't** see your phone number (unless you decide to give it
+to them yourself). [CLS] [SEP]
+
+naturally, any bot should be treated as a stranger — don't give them your
+passwords, telegram codes or bank account numbers, even if they ask nicely. [CLS] [SEP]
+also, be careful when opening files sent by bots, same as you would deal with
+ordinary humans. [CLS] [SEP] example: if a bot sent us a file called _openme.exe_ , we
+probably wouldn't open it. [CLS] [SEP]
+
+#### __q: if i add a bot to my group, can it read my messages?
+
+bots can work in two modes when you add them to groups. [CLS] [SEP] by default, bots only
+see messages that are meant for them. [CLS] [SEP] in this case, you'll see 'has no access
+to messages' in the group members list next to the bot. [CLS] [SEP]
+
+some bots need more information to work, so developers may disable the privacy
+mode. [CLS] [SEP] in this case, the bot will see all messages sent to the group, and you
+will see 'has access to messages' in the members list next to the bot. [CLS] [SEP]
+
+[learn more about privacy mode for bots
+»](https://core.telegram.org/bots#privacy-mode)
+
+if your group contains very sensitive information, maybe it's better to avoid
+adding bots you don't trust 100%. [CLS] [SEP]
+
+#### __q: are bots made by telegram?
+
+no. [CLS] [SEP] while we have some official bots for specific purposes (like
+[@gif](https://t.me/gif) or [@gdprbot](https://t.me/gdprbot)), we don't
+usually make bots. [CLS] [SEP] bots are made by third-party developers using the [telegram
+bot api and platform](https://core.telegram.org/bots). [CLS] [SEP]
+
+#### __q: where can i find more bots?
+
+there is no official store at the moment, so you'll have to ask your friends
+or search the web for now. [CLS] [SEP] we're pretty sure you'll find some bots to play
+with. [CLS] [SEP]
+
+### __deeper questions
+
+#### __q: can i get telegram's server-side code?
+
+all telegram client apps are fully open source. [CLS] [SEP] we offer [verifiable builds
+both for ios and android](https://core.telegram.org/reproducible-builds) –
+this technology allows to independently verify that the application you
+download from the app stores was built using the **exact same code** that we
+publish. [CLS] [SEP]
+
+by contrast, publishing the server code doesn’t provide security guarantees
+neither for secret chats nor for cloud chats. [CLS] [SEP] this is because – unlike with
+the client-side code – there’s no way to verify that the **same code** is run
+on the servers. [CLS] [SEP]
+
+as for secret chats, you don’t need the server-side code to check their
+integrity – the point of end-to-end encryption is that it must be solid
+regardless of how the servers function. [CLS] [SEP]
+
+> in a [post on his channel](https://t.me/durov/146), pavel durov explained
+> why telegram hasn't published the server code, even as a publicity stunt. [CLS] [SEP]
+
+the [encryption](https://core.telegram.org/mtproto) and
+[api](https://core.telegram.org) used on telegram's servers are fully
+documented and open for review by security experts. [CLS] [SEP] we welcome any comments at
+_security@telegram.org_
+
+#### __q: can i run telegram using my own server?
+
+our architecture does not support federation yet. [CLS] [SEP] telegram is a unified cloud
+service, so creating forks where two users might end up on two different
+telegram clouds is unacceptable. [CLS] [SEP] to enable you to run your own telegram server
+while retaining both speed and security is a task in itself. [CLS] [SEP] at the moment, we
+are undecided on whether or not telegram should go in this direction. [CLS] [SEP]
+
+#### __q: can i use the telegram api?
+
+yes. [CLS] [SEP] developers for all platforms are welcome to use our
+[protocol](//core.telegram.org/mtproto), [api](//core.telegram.org/api) and
+even [source code](https://telegram.org/apps#source-code). [CLS] [SEP] check out the
+[getting started](//core.telegram.org/api#getting-started) section of the
+docs. [CLS] [SEP]
+
+> don't forget about our [bot api](https://core.telegram.org/bots) that lets
+> you build cool stuff on our platform. [CLS] [SEP]
+
+#### __q: do you have a privacy policy?
+
+sure. [CLS] [SEP] check [this](/privacy) out. [CLS] [SEP]
+
+#### __q: why do you have two apps in the mac app store?
+
+one is our [app for macos](https://macos.telegram.org), the other is telegram
+lite, the macos version of our [multi-platform
+client](https://desktop.telegram.org). [CLS] [SEP] both apps are official. [CLS] [SEP] both started
+out as unofficial applications by two different developers and vary in design
+and functionality. [CLS] [SEP]
+
+[telegram for macos](https://macos.telegram.org) supports many platform-
+specific features, such as the macbook pro touch bar, gesture navigation,
+integration with the mac's share menu and more. [CLS] [SEP] it has every feature from the
+ios version of the app including secret chats. [CLS] [SEP]
+
+[telegram lite](https://desktop.telegram.org) is a lightning-fast app,
+optimized for work-related tasks and handling large communities. [CLS] [SEP] it offers a
+three-column interface, perfect for multitasking and quick access to media,
+files and links shared in your chats. [CLS] [SEP] this app can also be used to [export
+your telegram data and chats](https://telegram.org/blog/export-and-more). [CLS] [SEP]
+
+#### __q: can i translate telegram?
+
+telegram is officially available in english, spanish, german, dutch, italian,
+french, arabic, portuguese, korean, malay, russian and ukrainian on most
+platforms, and we are gradually expanding the list of languages built into the
+apps. [CLS] [SEP]
+
+if you don’t like how a specific element in telegram's interface is translated
+in your language, or would like to help us maintain the translation, check out
+our [localization platform](https://translations.telegram.org). [CLS] [SEP] everyone can
+suggest translations and vote for the best ones, making telegram localization
+a community-driven effort. [CLS] [SEP]
+
+if you're looking to go beyond suggestions for individual phrases and would
+like to help us maintain the official translation to your language on a
+continuous basis, you can contact
+[@telegramauditions](https://t.me/telegramauditions). [CLS] [SEP] please include a hashtag
+with the english name of your language (e.g. [CLS] [SEP] #albanian) and a few links to
+phrases on this platform with your **translation suggestions** or
+**comments**. [CLS] [SEP] be sure read the [**style
+guide**](https://translations.telegram.org/#style-guide) carefully before you
+apply. [CLS] [SEP]
+
+#### __q: can i help?
+
+yes, we are always looking for volunteers to help us with user support. [CLS] [SEP] if you
+would be interested in answering questions about telegram to users from your
+country, contact our auditions account. [CLS] [SEP]
+
+before you apply, please check out the [telegram support
+initiative](https://core.telegram.org/tsi). [CLS] [SEP]
+
+### __passport
+
+**telegram passport** is a unified authorization method for services that
+require personal identification. [CLS] [SEP] with telegram passport, you can upload your
+documents once, then instantly share your data with services that require
+real-world id (finance, icos, etc.). [CLS] [SEP]
+
+your identity documents and personal data will be stored in the telegram cloud
+using **end-to-end encryption**. [CLS] [SEP] to telegram, this data is just random
+gibberish, and we have no access to the information you store in your telegram
+passport. [CLS] [SEP] when you share data, it goes directly to the recipient. [CLS] [SEP]
+
+> you can find more information about telegram passport on our
+> [blog](https://telegram.org/blog/passport). [CLS] [SEP]
+
+if you're a developer or owner of a service that requires real-life id, kindly
+take a look at [**this manual**](https://core.telegram.org/passport). [CLS] [SEP] you can
+also try requesting telegram passport data using [this
+page](https://core.telegram.org/passport/example). [CLS] [SEP]
+
+* * *
+
+### __troubleshooting
+
+#### __login and sms
+
+please make sure you are entering your mobile phone number in the
+international format. [CLS] [SEP]  
+i.e.: `+(country code)(city or carrier code)(your number)`
+
+if you are having registration or login problems, please contact us using
+[this form](https://telegram.org/support). [CLS] [SEP]
+
+#### __getting a code via a phone call
+
+for security reasons, login codes dictated via a phone call are only available
+for accounts that have **two-step verification** enabled (settings > privacy &
+security > two-step verification). [CLS] [SEP]
+
+please also note that telegram accounts can only be connected to a mobile
+number. [CLS] [SEP] we currently don't support landline numbers. [CLS] [SEP]
+
+#### __getting a code via telegram
+
+if you have recently used one of our apps on **another device** (it could also
+be a different app on the same device), we may send the login code **via
+telegram** instead of sms. [CLS] [SEP]
+
+to receive such a code, just check telegram from any of your connected
+devices. [CLS] [SEP] you will find it in the chat with telegram, a verified profile with a
+blue check:
+
+[![](/file/811140682/1a34/c6cnb93sl4w.36331/8d856ce132fda22ee0)](/file/811140682/1a34/c6cnb93sl4w.36331/8d856ce132fda22ee0)
+
+login code sent via telegram
+
+**warning!** please note that getting codes via telegram should not be
+considered an alternative to using an **up-to-date phone number**. [CLS] [SEP] in case of
+a change in numbers, always make sure telegram is connected to a phone number
+**you control** , otherwise you risk losing access to your account forever. [CLS] [SEP]
+
+#### __notification problems
+
+> if the tips below don't help, check out this detailed guide on
+> [**troubleshooting notification issues**](https://telegra.ph/notifications-
+> fix). [CLS] [SEP]
+
+**android**
+
+  1. [CLS] [SEP] go to telegram settings — notifications and sounds, make sure that notifications are **on** and importance is set to **“high”** or greater. [CLS] [SEP]
+  2. [CLS] [SEP] check whether contact or group is _muted_. [CLS] [SEP]
+  3. [CLS] [SEP] make sure [google play services](https://play.google.com/store/apps/details?id=com.google.android.gms) are installed on your phone. [CLS] [SEP]
+  4. [CLS] [SEP] check **notification priority** for telegram in **android settings** , it can be called _importance_ or _behaviour_ depending on your device. [CLS] [SEP]
+  5. [CLS] [SEP] if your phone uses some **battery saving software** , make sure that telegram is whitelisted in that application. [CLS] [SEP]
+
+> note: **huawei** and **xiaomi** devices have evil task killer services that
+> interfere with the telegram notification service. [CLS] [SEP] for our notifications to
+> work, you need to add telegram to allowed apps in those devices' security
+> settings. [CLS] [SEP] huawei: phone manager app > protected apps > add telegram to the
+> list. [CLS] [SEP] xiaomi: services > security > permissions > autostart, find telegram
+> and enable autostart. [CLS] [SEP]
+
+**ios**
+
+  1. [CLS] [SEP] go to telegram settings — notifications and sounds, make sure that notifications are on in telegram. [CLS] [SEP]
+  2. [CLS] [SEP] check that notifications are **on** in phone settings. [CLS] [SEP]
+  3. [CLS] [SEP] check, whether contact or group is _muted_. [CLS] [SEP]
+  4. [CLS] [SEP] shut down telegram (go to home screen, double tap home button, kill telegram (swipe upwards), then go to phone settings, set the alert style for telegram to none. [CLS] [SEP] relaunch telegram, go to phone settings, set alert style back to banners. [CLS] [SEP]
+
+#### __problems with contacts
+
+if you know your friends have telegram, but you can't see them — or they
+appear as numbers instead of names. [CLS] [SEP]
+
+_android:_
+
+  1. [CLS] [SEP] make sure you are using the latest version of the app. [CLS] [SEP]
+  2. [CLS] [SEP] relaunch the app (by terminating it from processes list and launching again). [CLS] [SEP]
+  3. [CLS] [SEP] temporarily change the name of the contact in phone contacts (add a few symbols, then change back again). [CLS] [SEP]
+  4. [CLS] [SEP] if that didn't help, re-login. [CLS] [SEP] remember that logging out kills your secret chats. [CLS] [SEP]
+
+_ios:_
+
+  1. [CLS] [SEP] force quit the app (double tap home button, then swipe up on telegram), then relaunch and check if it helped. [CLS] [SEP]
+  2. [CLS] [SEP] if that doesn't help, temporarily change the name of the contact in phone contacts (add a few symbols, then change back again). [CLS] [SEP]
+  3. [CLS] [SEP] if that doesn’t work, re-login: settings > edit > log out. [CLS] [SEP] remember that logging out kills all your secret chats. [CLS] [SEP] then log in again. [CLS] [SEP]
+
+#### __deleting contacts on android
+
+to delete a contact, open a chat with the person, tap on their profile photo
+in the top area of the chat screen, then tap on '…' in the top right corner >
+'delete'. [CLS] [SEP]
+
+if you want to delete the contact completely, make sure you also delete them
+from your phone contacts. [CLS] [SEP] telegram stays in sync and will add the contact back
+if you don't. [CLS] [SEP]
+
+#### __where did my secret chat messages go?
+
+secret chats are established between the two devices they were created on. [CLS] [SEP]
+this means that all those messages are not available in the cloud and cannot
+be accessed on other devices. [CLS] [SEP]
+
+moreover, secret chats are also tied to your current login session on the
+device. [CLS] [SEP] if you log out and in again, you will lose all your secret chats. [CLS] [SEP]
+
+#### __can't send messages to non-contacts
+
+when users report unwanted messages from a telegram account, we apply a limit:
+reported accounts can only send messages to people who have their number saved
+as a contact. [CLS] [SEP]
+
+this means that if you randomly contact people you don't know and send them
+annoying messages, you may lose the ability to do so in the future. [CLS] [SEP]
+
+if you think that this limit was applied to your account wrongly, please visit
+[this page](/faq_spam). [CLS] [SEP]
+
+#### __telegram uses the camera or microphone in the background!
+
+telegram can use the **microphone** in the background if you minimize the app
+when making a call, recording a video, or recording a voice/video message. [CLS] [SEP]
+
+permission monitors on samsung and xiaomi can inadvertently flag and notify
+you that telegram requested access to **camera** in the background. [CLS] [SEP] this
+happens when the app requests info about the camera — it isn’t using the
+camera. [CLS] [SEP] unfortunately it may look the same to the samsung and xiaomi
+permission monitors. [CLS] [SEP]
+
+camera info is requested by the app when you tap on the attachment button, or
+start recording a video or a video message. [CLS] [SEP] if you do this and quickly close
+the app, the already initiated request may try to run asynchronously when the
+app is already in the background, or be sent when the system wakes up the app
+to show a notification about a new message. [CLS] [SEP] in any case, these requests are
+only for the camera info, the app _never_ uses the camera itself in the
+background. [CLS] [SEP]
+
+anyone can check telegram’s [open source
+code](https://telegram.org/apps#source-code) and confirm that the app is not
+doing anything behind their back. [CLS] [SEP] we also offer [reproducible
+builds](https://telegram.org/blog/verifiable-apps-and-more) that can help you
+prove that the version you downloaded from app store or google play is built
+from the exact same source code we publish. [CLS] [SEP]
+
+* * *
+
+### __telegram support
+
+if you have any other questions, please contact telegram support (in telegram
+go to settings — ask a question). [CLS] [SEP] note that we rely on volunteers for support. [CLS] [SEP]
+
+if you can't log in to your account, please use [this
+form](https://telegram.org/support). [CLS] [SEP]
+
+> for **media requests** , please contact [@pressbot](https://t.me/pressbot)
+> on telegram. [CLS] [SEP]
+
+### __twitter?
+
+yep. [CLS] [SEP] follow us! [**@telegram**](https://twitter.com/telegram)  
+our twitter account in spanish:
+[@telegram_es](https://twitter.com/telegram_es)  
+in italian: [@telegram_it](https://twitter.com/telegram_it)  
+in korean: [@telegram_kr](https://twitter.com/telegram_kr)  
+in german: [@de_telegram](https://twitter.com/de_telegram)  
+for users from brazil: [@telegram_br](https://twitter.com/telegram_br)  
+our arabic-speaking users may find
+[@telegram_arabic](https://twitter.com/telegram_arabic) more interesting. [CLS] [SEP]
+
+### __@smstelegram, login help on twitter
+
+we have a special account that can help you with login problems,
+[**@smstelegram**](https://twitter.com/smstelegram). [CLS] [SEP] this account is official. [CLS] [SEP]
+don't be afraid to dm it the number you use for telegram, we need this info to
+investigate issues. [CLS] [SEP]
+
+be careful, we don't have any other support accounts on any social media
+platforms. [CLS] [SEP]
+
+### __facebook?
+
+if anyone on facebook is telling you they're us, they are **not**. [CLS] [SEP]
+
+##### telegram
+
+telegram is a cloud-based mobile and desktop messaging app with a focus on
+security and speed. [CLS] [SEP]
+
+##### [about](/faq)
+
+  * [faq](/faq)
+  * [blog](/blog)
+  * [jobs](/jobs)
+
+##### [mobile apps](/apps#mobile-apps)
+
+  * [iphone/ipad](/dl/ios)
+  * [android](/dl/android)
+  * [windows phone](/dl/wp)
+
+##### [desktop apps](/apps#desktop-apps)
+
+  * [pc/mac/linux](//desktop.telegram.org/)
+  * [macos](//macos.telegram.org/)
+  * [web-browser](/dl/web)
+
+##### [platform](//core.telegram.org/)
+
+  * [api](//core.telegram.org/api)
+  * [translations](//translations.telegram.org/)
+  * [instant view](//instantview.telegram.org/)
+
+##### [about](/faq)
+
+##### [blog](/blog)
+
+##### [apps](/apps)
+
+##### [platform](//core.telegram.org/)
+
+##### [twitter](https://twitter.com/telegram)
+

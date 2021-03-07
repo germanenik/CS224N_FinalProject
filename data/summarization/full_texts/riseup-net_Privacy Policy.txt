@@ -1,0 +1,191 @@
+[riseup home](/en)
+
+[home](https://riseup.net/) [donate!](https://riseup.net/donate)
+
+red accounts
+
+[account](https://account.riseup.net/) [support](https://support.riseup.net/)
+[email](https://mail.riseup.net/) [chat](https://riseup.net/chat)
+[vpn](https://riseup.net/vpn)
+
+black accounts
+
+[account](https://black.riseup.net/) [vpn](https://riseup.net/vpn)
+
+other services
+
+[lists](https://lists.riseup.net/) [pad](https://pad.riseup.net/)
+[share](https://share.riseup.net/) [groups](https://we.riseup.net/)
+
+[](/)
+
+  * [home](/en)
+  * [email](/en/email)
+  * [lists](/en/lists)
+  * [chat](/en/chat)
+  * [vpn](/en/vpn)
+  * [security](/en/security)
+  * [about us](/en/about-us)
+
+  * [canary](/en/canary)
+  * [contact](/en/about-us/contact)
+  * [newsletters](/en/about-us/newsletter)
+  * [donate](/en/donate)
+  * [policy](/en/about-us/policy)
+  * [political principles](/en/about-us/politics)
+  * [press](/en/about-us/press)
+  * [projects](/en/about-us/projects)
+  * [propaganda](/en/about-us/propaganda)
+
+[ä¸­æ](/zh/about-us/policy/privacy-policy) [espaã±ol](/es/about-
+us/policy/privacy-policy) [english](/en/about-us/policy/privacy-policy)
+[portuguãªs](/pt/about-us/policy/privacy-policy) [pyccä¸ð¸ð¹](/ru/about-
+us/policy/privacy-policy) [deutsch](/de/about-us/policy/privacy-policy)
+[franã§ais](/fr/about-us/policy/privacy-policy) [italiano](/it/about-
+us/policy/privacy-policy) [polski](/pl/about-us/policy/privacy-policy)
+[îî»î»î·î½î¹îºî¬](/el/about-us/policy/privacy-policy) [catalã ](/ca/about-
+us/policy/privacy-policy) [hindi](/hi/about-us/policy/privacy-policy)
+
+[support riseup!](/en/donate)
+
+# privacy policy
+
+  1. [CLS] [SEP] summary
+  2. [CLS] [SEP] information we collect and retain
+    1. [CLS] [SEP] registration information
+    2. [CLS] [SEP] help tickets
+    3. [CLS] [SEP] session identifiers
+    4. [CLS] [SEP] email transit logs
+    5. [CLS] [SEP] quarter of last log in
+  3. [CLS] [SEP] information we choose to not retain
+    1. [CLS] [SEP] ip addresses
+    2. [CLS] [SEP] browser fingerprint
+    3. [CLS] [SEP] message metadata
+  4. [CLS] [SEP] how we store and share collected information
+    1. [CLS] [SEP] encryption
+    2. [CLS] [SEP] we do not share user information
+    3. [CLS] [SEP] academic research
+  5. [CLS] [SEP] account deletion
+  6. [CLS] [SEP] changes to this policy
+
+this document describes what information we collect and what itâs used for. [CLS] [SEP]
+it applies to all interactions with riseup.net. [CLS] [SEP] your use of riseup.net
+services will constitute your agreement to our privacy policy. [CLS] [SEP] please also
+review our [terms of service](../tos/). [CLS] [SEP]
+
+## summary
+
+you have a reasonable expectation of privacy regarding any communication or
+data transiting or stored on this information system. [CLS] [SEP] we collect very little
+personal information, and none of the information we do collect is ever
+shared. [CLS] [SEP]
+
+## information we collect and retain
+
+### registration information
+
+when you create an account, we retain the date you registered (rounded to the
+nearest quarter year). [CLS] [SEP] account request information is removed after four
+months, and invite status is removed after one month. [CLS] [SEP] if you choose to set a
+reset email address, we retain this record but in a format that is unreadable
+by us (it is stored in a hashed digest, similar to how passwords are stored). [CLS] [SEP]
+
+### help tickets
+
+the content of any help ticket you create or comment on while authenticated
+will be associated with your user account. [CLS] [SEP] you can choose to fill out a help
+ticket anonymously by creating a ticket while not logged in. [CLS] [SEP] we periodically
+delete old help tickets that are closed. [CLS] [SEP]
+
+### session identifiers
+
+while currently logged in, we keep a temporary session identifier on your
+computer that your software uses to prove your authentication state. [CLS] [SEP] this is
+erased immediately after you log out or the session expires. [CLS] [SEP] we do not use any
+third party cookies or tracking of any kind. [CLS] [SEP]
+
+### email transit logs
+
+in order to detect when our servers are under attack from a âspam bombâ or
+when a spammer is using our system, we keep a log of the âfromâ or
+âtoâ information for every message relayed. [CLS] [SEP] these logs are purged on a
+daily basis. [CLS] [SEP]
+
+### quarter of last log in
+
+we keep a record of the quarter and year of your last successful
+authentication (in order to be able to disable and delete dormant accounts). [CLS] [SEP]
+we do not record the time or day of the last log in. [CLS] [SEP] for example, this
+information looks like "q3 2018". [CLS] [SEP]
+
+## information we choose to not retain
+
+### ip addresses
+
+no ip addresses of any user for any service are retained. [CLS] [SEP]
+
+### browser fingerprint
+
+your web browser communicates uniquely identifying information to all web
+servers it visits by allowing the site to know details about your operating
+system, browser information, plugins installed, fonts installed, screen
+resolution, and much more. [CLS] [SEP] we do not retain any of this information. [CLS] [SEP]
+
+### message metadata
+
+even when using end-to-end openpgp encryption for email messages, the email
+âsubjectâ and routing information regarding the message âfromâ and
+âtoâ are seen by our servers in the clear when the email initially
+arrives. [CLS] [SEP] this is due to inherent limitations in the email protocol and in
+openpgp. [CLS] [SEP]
+
+## how we store and share collected information
+
+### encryption
+
+all of your data is stored in an encrypted format, and only riseup has the
+keys to decrypt the data. [CLS] [SEP] additionally, as of march 2017, the storage for all
+new accounts is personally encrypted. [CLS] [SEP] riseup is unable to read any of the
+stored content for these accounts. [CLS] [SEP] any user with an account created prior to
+march 2017 may opt-in to personally encrypted storage. [CLS] [SEP]
+
+### we do not share user information
+
+we retain only the bare minimum of information about each user that is
+required to make the service work. [CLS] [SEP] we do not sell or share any of it. [CLS] [SEP]
+
+### academic research
+
+anonymous, aggregated information that cannot be linked back to an individual
+user may be made available to experienced researchers for the sole purpose of
+developing better systems for anonymous and secure communication. [CLS] [SEP] for example,
+we may aggregate information on how many messages a typical user sends and
+receives, and with what frequency. [CLS] [SEP]
+
+we will not read, search, or process any of your incoming or outgoing mail
+other than to protect you from viruses and spam or when directed to do so by
+you when troubleshooting. [CLS] [SEP]
+
+## account deletion
+
+you may choose to delete your riseup.net account at any time. [CLS] [SEP] doing so will
+destroy all the data we retain that is associated with your account. [CLS] [SEP] the
+usernames associated with deleted accounts remain unavailable for others to
+use for one year. [CLS] [SEP]
+
+## changes to this policy
+
+we reserve the right to change this policy. [CLS] [SEP] if we make major changes, we will
+notify our users in a clear and prominent manner (like our
+[newsletters](/en/about-us/newsletter)). [CLS] [SEP] minor changes may only be highlighted
+in the footer of our website. [CLS] [SEP]
+
+this site is run by riseup, your friendly â¶utonomous tech collective since
+1999
+
+  * [donate!](/en/donate)
+  * [about us](/en/about-us)
+  * [privacy policy](/en/privacy-policy)
+
+[please edit this site](https://github.com/riseupnet/riseup_help)
+

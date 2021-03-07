@@ -1,0 +1,572 @@
+hello guest [register](/members/register) or [sign in](/members/login)  or
+with: [](/members/loginext/steam "click to connect via
+steam")[](/members/loginext/google "click to connect via
+google")[](/members/loginext/twitter "click to connect via
+twitter")[](/members/loginext/facebook "click to connect via facebook")
+
+# privacy policy - mod db
+
+[](/ "mod db home")
+
+  * [home](/ "all platforms")
+  * [xone](/platforms/xone/set)
+  * [ps4](/platforms/ps4/set)
+  * [switch](/platforms/switch/set)
+  * [vr](/platforms/vr/set)
+  * [ios](/platforms/ios/set)
+  * [android](/platforms/android/set)
+  * [»](/platforms/selection "choose any platform")
+
+  * [games](/games)
+    * [popular](/games/top)
+    * [latest](/games/latest)
+    * [indies](https://www.indiedb.com)
+    * [publishing](https://modularity.games)
+    * [add game](/games/add)
+  * [mods](/mods)
+    * [popular](/mods/top)
+    * [latest](/mods/latest)
+    * [add mod](/mods/add)
+  * [addons](/addons)
+    * [popular](/addons/top)
+    * [latest](/addons/latest)
+    * [upload](/addons/add)
+  * [files](/downloads)
+    * [popular](/downloads/top)
+    * [latest](/downloads/latest)
+    * [upload](/downloads/add)
+  * [videos](/videos)
+    * [images](/images)
+    * [audio](/audio)
+  * [articles](/articles)
+    * [reviews](/reviews)
+    * [headlines](/headlines)
+    * [blogs](/blogs)
+    * [post article](/articles/add)
+  * [engines](/engines)
+    * [popular](/engines/top)
+    * [latest](/engines/latest)
+    * [add engine](/engines/add)
+  * [developers](/company)
+    * [popular](/company/top)
+    * [latest](/company/latest)
+    * [add dev](/company/add)
+  * [groups](/groups)
+    * [popular](/groups/top)
+    * [latest](/groups/latest)
+    * [add group](/groups/add)
+  * [forums](/forum)
+  * [jobs](/jobs)
+    * [post job](/jobs/add)
+
+## [mod db](/groups/moddb)
+
+###  official
+
+  * [members](/groups/moddb/members)
+  * [blog](/groups/moddb)
+  * [about](/groups/moddb/about)
+  * [advertise](/groups/moddb/advertise)
+  * [contact](/groups/moddb/contact)
+  * [sitemap](/groups/moddb/sitemap)
+  * [rss](/groups/moddb/rss)
+  * [howto](/groups/moddb/howto)
+  * [twitter](/groups/moddb/twitter)
+  * [terms](/groups/moddb/terms)
+  * [privacy](/groups/moddb/privacy)
+
+[![slidedb](https://media.moddb.com/images/global/slidedb.png)](https://www.slidedb.com)
+[![indie
+db](https://media.moddb.com/images/global/indiedb.png)](https://www.indiedb.com)
+[![mod
+db](https://media.moddb.com/images/global/moddb.png)](https://www.moddb.com)
+[![rss](https://media.moddb.com/images/global/rss.png)](https://rss.moddb.com/headlines/feed/rss.xml)
+[![fan us on
+facebook](https://media.moddb.com/images/global/facebook.png)](https://www.facebook.com/moddb)
+[![watch us on
+youtube](https://media.moddb.com/images/global/youtube.png)](https://youtube.com/gamedevtv)
+[![join us on
+steam](https://media.moddb.com/images/global/steam.png)](https://steamcommunity.com/groups/moddb)
+[![follow us on
+twitter](https://media.moddb.com/images/global/twitter.png)](https://twitter.com/moddb)
+
+if it's information about mod db and ramblings about mods in general that you
+are after - then you have come to the right place. [CLS] [SEP] welcome to the official mod
+db blog, [watch
+this](https://www.moddb.com/messages/ajax/action/?action=watch&sitearea=groups&siteareaid=449)
+profile to keep updated, [join
+to](https://www.moddb.com/groups/ajax/members/add/449) show your support. [CLS] [SEP]
+
+privacy policy
+
+**last modified: may 28, 2018. [CLS] [SEP]  
+effective date: may 28, 2018. [CLS] [SEP]  
+view our [previous privacy policy](?history=2016-01-21) here. [CLS] [SEP] **
+
+dbolical pty ltd ("us", "we", or "our") operates a network of connected game
+development communities including [gamefront.com](https://www.gamefront.com),
+[indiedb.com](https://www.indiedb.com) and [moddb.com](https://www.moddb.com)
+(the "service(s)"). [CLS] [SEP]
+
+this page informs you of our policies regarding the collection, use, and
+disclosure of personal data when you use our service and the choices you have
+associated with that data. [CLS] [SEP]
+
+we use your data to provide and improve the service. [CLS] [SEP] by using the service, you
+agree to the collection and use of information in accordance with this policy. [CLS] [SEP]
+unless otherwise defined in this privacy policy, terms used in this privacy
+policy have the same meanings as in our [terms of
+use](https://www.moddb.com/terms-of-use). [CLS] [SEP]
+
+## **definitions**
+
+  * **service**  
+service means the [gamefront.com](https://www.gamefront.com),
+[indiedb.com](https://www.indiedb.com) and [moddb.com](https://www.moddb.com)
+websites operated by dbolical pty ltd. [CLS] [SEP]  
+  
+
+  * **personal data**  
+personal data means data about a living individual who can be identified from
+that data (or from those and other information either in our possession or
+likely to come into our possession). [CLS] [SEP] we do not consider publicly available
+games, mods, engines, hardware, software, groups or related content you share
+or contribute too, to be personal data. [CLS] [SEP]  
+  
+
+  * **usage data**  
+usage data is data collected automatically either generated by the use of the
+service or from the service infrastructure itself (e.g. [CLS] [SEP] the duration of a page
+visit). [CLS] [SEP]  
+  
+
+  * **cookies**  
+cookies are small pieces of data stored on your device (computer or mobile
+device). [CLS] [SEP]  
+  
+
+  * **data controller**  
+data controller means the natural or legal person who (either alone or jointly
+or in common with other persons) determines the purposes for which and the
+manner in which any personal information are, or are to be, processed. [CLS] [SEP] for the
+purpose of this privacy policy, we are a data controller of your personal
+data. [CLS] [SEP]  
+  
+
+  * **data processors (or service providers)**  
+data processor (or service provider) means any natural or legal person who
+processes the data on behalf of the data controller. [CLS] [SEP] we may use the services
+of various service providers in order to process your data more effectively. [CLS] [SEP]  
+  
+
+  * **data subject (or user)**  
+data subject is any living individual who is using our service and is the
+subject of personal data. [CLS] [SEP]
+
+## **data collection and use**
+
+we collect several different types of data for various purposes to provide and
+improve our service to you. [CLS] [SEP]
+
+### types of data collected
+
+#### personal data
+
+while using our service, we may ask you to provide us with certain personally
+identifiable information that can be used to contact or identify you
+("personal data"). [CLS] [SEP] personally identifiable information may include, but is not
+limited to:
+
+  * email address
+  * country
+  * birthday
+  * gender (optional)
+  * first name and last name (optional)
+  * phone number (optional)
+  * address, state, province, zip/postal code, city (optional)
+  * cookies and usage data
+
+we may use your personal data to contact you with newsletters, marketing or
+promotional materials and other information that may be of interest to you. [CLS] [SEP]
+you may opt out of receiving any, or all, of these communications from us by
+following the unsubscribe link or instructions provided in any email we send. [CLS] [SEP]
+
+#### usage data
+
+we may also collect information automatically that your browser sends us
+whenever you visit our service or when you access the service by or through a
+mobile device ("usage data"). [CLS] [SEP]
+
+this usage data may include information such as your computer's internet
+protocol address (e.g. [CLS] [SEP] ip address), browser type, browser version, the pages
+of our service that you visit, the time and date of your visit, the time spent
+on those pages, unique device identifiers and other diagnostic data. [CLS] [SEP]
+
+when you access the service by or through a mobile device, this usage data may
+include information such as the type of mobile device you use, your mobile
+device unique id, the ip address of your mobile device, your mobile operating
+system, the type of mobile internet browser you use, unique device identifiers
+and other diagnostic data. [CLS] [SEP]
+
+#### tracking & cookies data
+
+we use cookies and similar tracking technologies to track the activity on our
+service and hold certain information. [CLS] [SEP]
+
+cookies are files with small amount of data which may include an anonymous
+unique identifier. [CLS] [SEP] cookies are sent to your browser from a website and stored
+on your device. [CLS] [SEP] tracking technologies also used are beacons, tags, and scripts
+to collect and track information and to improve and analyze our service. [CLS] [SEP]
+
+we do not support the 'do not track' browser option. [CLS] [SEP] instead we offer you the
+choices described in this policy to manage the collection and use of
+information about you. [CLS] [SEP] you can instruct your browser to refuse all cookies or
+to indicate when a cookie is being sent. [CLS] [SEP] however, if you do not accept
+cookies, you may not be able to use some portions of our service. [CLS] [SEP]
+
+examples of cookies we use:
+
+  * **session cookies.** we use session cookies to operate our service. [CLS] [SEP]  
+  
+
+  * **preference cookies.** we use preference cookies to remember your preferences and various settings. [CLS] [SEP]  
+  
+
+  * **security cookies.** we use security cookies for security purposes. [CLS] [SEP]  
+  
+
+  * **advertising cookies.** advertising cookies are used to serve you with advertisements that may be relevant to you and your interests. [CLS] [SEP]
+
+#### data through other services
+
+you may give us permission to collect your information in other services. [CLS] [SEP] for
+example, you may connect a social networking service such as facebook,
+twitter, google or steam to your service account. [CLS] [SEP] when you do this, it allows
+us to obtain information from those accounts (e.g. [CLS] [SEP] your email, age and bio). [CLS] [SEP]
+
+### how we use your data
+
+dbolical pty ltd uses the collected data for various purposes:
+
+  * to provide and maintain our service;
+  * to notify you about changes to our service;
+  * to allow you to participate in interactive features of our service when you actively choose to do so;
+  * to customize your experience on our service (e.g. [CLS] [SEP] recommend mods, games and content that we think may interest you based on your previous use);
+  * to provide customer support;
+  * to gather analysis or valuable information so that we can improve the quality of our service;
+  * to monitor the usage of our service;
+  * to detect, prevent and address technical issues (such as bug fixes); and
+  * to provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information. [CLS] [SEP]
+
+### how you use your data
+
+please remember that any information you publish or otherwise communicate via
+dbolical pty ltd services (e.g. [CLS] [SEP] private messages, comments, forum posts,
+reviews, articles, media or job ads) may reveal personally identifiable
+information, such as your screen name, and other details about you, and the
+content of any communications by you with other users. [CLS] [SEP] any data you post
+publicly using dbolical pty ltd services (e.g. [CLS] [SEP] your public profile, games,
+mods, engines, hardware, software, groups, downloads or giveaways) will be
+publicly available to service users and others. [CLS] [SEP] we are not responsible for
+private personal information, which you choose to make publicly available via
+dbolical pty ltd services, or the activities of other users, or other third-
+parties to whom you give or make available your data. [CLS] [SEP]
+
+## **legal basis for processing personal data under general data protection
+regulation (gdpr)**
+
+if you are from the european economic area (eea), dbolical pty ltd legal basis
+for collecting and using the personal information described in this privacy
+policy depends on the personal data we collect and the specific context in
+which we collect it. [CLS] [SEP]
+
+dbolical pty ltd may process your personal data because it has a legitimate
+interest in that data, such as in each of the following cases:
+
+  * we need to perform a contract with you;
+  * you have given us permission to do so;
+  * for payment processing purposes (e.g. [CLS] [SEP] tax laws require us to retain records of payments made through our service); and
+  * to comply with any applicable law. [CLS] [SEP]
+
+## **retention of data**
+
+dbolical pty ltd will retain personal data for so long as it may be relevant
+to the purposes identified herein, and your account remains active. [CLS] [SEP] to dispose
+of personal data, we may anonymize it, delete it or take other appropriate
+steps. [CLS] [SEP] data may persist in copies made for backup and business continuity
+purposes for additional time. [CLS] [SEP]
+
+dbolical pty ltd will also retain usage data for internal service improvement
+purposes. [CLS] [SEP] usage data is generally retained for a shorter period of time,
+except when this data is used to strengthen the security or to improve the
+functionality of our service, or we are legally obligated to retain this data
+for longer time periods. [CLS] [SEP]
+
+## **transfer of data**
+
+your information, including personal data, may be transferred to - and
+maintained on - computers located outside of your jurisdiction where the data
+protection laws may differ than those from your jurisdiction. [CLS] [SEP]
+
+if you are located outside the united states and choose to provide information
+to us, please note that we transfer the data, including personal data, to the
+united states and process it there. [CLS] [SEP]
+
+your consent to this privacy policy followed by your submission of such
+information represents your agreement to that transfer. [CLS] [SEP]
+
+dbolical pty ltd will take all steps reasonably necessary to ensure that your
+data is treated securely and in accordance with this privacy policy and no
+transfer of your personal data will take place to an organization or a country
+unless there are adequate controls in place including the security of your
+data and other personal information. [CLS] [SEP]
+
+## **disclosure of data**
+
+### business transaction
+
+if dbolical pty ltd is involved in a merger, acquisition or asset sale, your
+personal data may be transferred. [CLS] [SEP] we will provide notice before your personal
+data is transferred and becomes subject to a different privacy policy. [CLS] [SEP]
+
+### disclosure for law enforcement
+
+under certain circumstances, dbolical pty ltd may be required to disclose your
+personal data if required to do so by law or in response to valid requests by
+public authorities (e.g. [CLS] [SEP] a court or a government agency). [CLS] [SEP] we respond to such
+requests, wherever required to do so. [CLS] [SEP]
+
+### agents, consultants and related third-parties
+
+under certain circumstances, dbolical pty ltd may hire other companies or
+individuals to perform certain business-related functions. [CLS] [SEP] examples of such
+functions include mailing information, maintaining databases, backups and
+processing payments. [CLS] [SEP]
+
+### legal requirements
+
+dbolical pty ltd may disclose your personal data in the good faith belief that
+such action is necessary to:
+
+  * comply with a legal obligation;
+  * protect and defend the rights or property of dbolical pty ltd;
+  * prevent or investigate possible wrongdoing in connection with the service;
+  * protect the personal safety of users of the service or the public; and
+  * protect against legal liability. [CLS] [SEP]
+
+### aggregated or non-identifiable data
+
+we may also share aggregated or non-personally identifiable information with
+our partners or others for business purposes, such as improving the quality of
+the service to our users generally. [CLS] [SEP]
+
+## **security of data**
+
+the security of your data is important to us, but remember that no method of
+transmission over the internet, or method of electronic storage is 100%
+secure. [CLS] [SEP] while we strive to use commercially acceptable means to protect your
+personal data, we cannot guarantee its absolute security. [CLS] [SEP]
+
+## **your data protection rights and choices**
+
+we believe that users should be treated equally no matter where they are, and
+so we are making the following options to control your data available to all
+users, regardless of their location. [CLS] [SEP]
+
+you can update certain information by accessing your [account
+settings](https://www.moddb.com/members/settings). [CLS] [SEP] you can request deletion of
+your personal data using the [privacy
+tools](https://www.moddb.com/members/privacy) provided in your profile. [CLS] [SEP] you
+can unsubscribe from certain emails by clicking the "unsubscribe" link they
+contain. [CLS] [SEP]
+
+individuals in the european economic area, canada, costa rica and some other
+jurisdictions outside the united states have certain legal rights to obtain
+confirmation of whether we hold personal data about them, to access personal
+data we hold about them, and to obtain its correction, update, amendment or
+deletion in appropriate circumstances. [CLS] [SEP] they may also object to our uses or
+disclosures of personal data, to request a restriction on its processing, or
+withdraw any consent, though such actions typically will not have retroactive
+effect. [CLS] [SEP] they also will not affect our ability to continue processing data in
+lawful ways. [CLS] [SEP]
+
+  * **the right to access, update or to delete the information we have on you.** whenever made possible, you can access, update or request deletion of your personal data using the [account settings](https://www.moddb.com/members/settings) and [privacy tools](https://www.moddb.com/members/privacy) provided in your profile. [CLS] [SEP] if you are unable to perform these actions yourself, please contact us to assist you. [CLS] [SEP]  
+  
+
+  * **the right of rectification.** you have the right to have your information rectified if that information is inaccurate or incomplete. [CLS] [SEP]  
+  
+
+  * **the right to object.** you have the right to object to our processing of your personal data. [CLS] [SEP]  
+  
+
+  * **the right of restriction.** you have the right to request that we restrict the processing of your personal information. [CLS] [SEP]  
+  
+
+  * **the right to data portability.** you have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format. [CLS] [SEP] please use the [privacy tools](https://www.moddb.com/members/privacy) provided in your profile to request your data. [CLS] [SEP]  
+  
+
+  * **the right to withdraw consent.** you also have the right to withdraw your consent at any time where dbolical pty ltd relied on your consent to process your personal information. [CLS] [SEP]
+
+please note that we may ask you to verify your identity before responding to
+such requests. [CLS] [SEP]
+
+you have the right to complain to a data protection authority about our
+collection and use of your personal data. [CLS] [SEP] however, we encourage you to contact
+us first, and we will do our very best to resolve your concern. [CLS] [SEP]
+
+## **service providers**
+
+we may employ third-party companies and individuals to facilitate our service
+("service providers"), to provide the service on our behalf, to perform
+service-related services or to assist us in analyzing how our service is used. [CLS] [SEP]
+
+these third-parties have access to your personal data only to perform these
+tasks on our behalf and are obligated not to disclose or use it for any other
+purpose. [CLS] [SEP]
+
+### advertising
+
+we may use third-party service providers to show advertisements to you to help
+support and maintain our service. [CLS] [SEP] below is a list of all advertising
+technology partners we may work with. [CLS] [SEP]
+
+### analytics
+
+we may use third-party service providers to monitor and analyze the use of our
+service. [CLS] [SEP]
+
+  * **google analytics**  
+google analytics is a web analytics service offered by google that tracks and
+reports website traffic. [CLS] [SEP] google uses the data collected to track and monitor
+the use of our service. [CLS] [SEP] this data is shared with other google services. [CLS] [SEP] google
+may use the collected data to contextualize and personalize the ads of its own
+advertising network. [CLS] [SEP] for more information on the privacy practices of google,
+please visit the google privacy & terms web page:
+<https://www.google.com/intl/en/policies/privacy/>  
+  
+
+  * **comscore's scorecard research**  
+scorecardresearch collects data that assists companies provide products and
+services that better meet the needs of consumers. [CLS] [SEP] by analyzing general
+visitation patterns and conducting surveys, scorecardresearch is able to help
+companies better understand the likes and dislikes of consumers. [CLS] [SEP] for more
+information on the privacy practices of scorecard research, please visit the
+privacy & terms web page: <https://www.scorecardresearch.com/preferences.aspx>  
+  
+
+  * **stop forum spam**  
+stop forum spam is an anti-spam service used to confirm bad actors. [CLS] [SEP] in the
+event we believe a user is a spammer (less than 1% of cases), we may cross-
+check the users email and ip address with the stop forum spam database, to
+determine if this is the case. [CLS] [SEP] for more information on the privacy practices
+of stop forum spam, please visit their web page:
+<https://www.stopforumspam.com/gdpr>
+
+### data handlers
+
+we may use third-party service providers to backup, store and transfer data. [CLS] [SEP]
+
+  * **amazon aws**  
+their privacy policy can be viewed at: <https://aws.amazon.com/privacy>  
+  
+
+  * **cloudflare**  
+their privacy policy can be viewed at: <https://www.cloudflare.com/security-
+policy/>  
+  
+
+  * **backblaze**  
+their privacy policy can be viewed at:
+<https://www.backblaze.com/company/privacy.html>
+
+### payments
+
+we may provide paid products and/or services within the service. [CLS] [SEP] in that case,
+we use third-party services for payment processing (e.g. [CLS] [SEP] payment processors). [CLS] [SEP]
+
+we will not store or collect your payment card details. [CLS] [SEP] that information is
+provided directly to our third-party payment processors whose use of your
+personal information is governed by their privacy policy. [CLS] [SEP] these payment
+processors adhere to the standards set by pci-dss as managed by the pci
+security standards council, which is a joint effort of brands like visa,
+mastercard, american express and discover. [CLS] [SEP] pci-dss requirements help ensure
+the secure handling of payment information. [CLS] [SEP]
+
+  * **stripe**  
+their privacy policy can be viewed at: <https://stripe.com/us/privacy>  
+  
+
+  * **paypal or braintree**  
+their privacy policy can be viewed at:
+<https://www.paypal.com/webapps/mpp/ua/privacy-full>
+
+### social media
+
+we occasionally embed social media widgets, to allow our community to share
+and promote content posted on our service. [CLS] [SEP] your use of these features enables
+the sharing of certain information with your friends or the public, depending
+on the settings you establish with the third-party that provides the social
+sharing feature. [CLS] [SEP] for more information about the purpose and scope of data
+collection and processing in connection with social sharing features, please
+visit the privacy policies of the third-parties that provide these social
+sharing features (e.g. [CLS] [SEP] [twitter](https://twitter.com/personalization),
+[facebook](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen)
+and [reddit](https://www.reddit.com/personalization)). [CLS] [SEP]
+
+## **links to other sites**
+
+our service may contain links to other sites that are not operated by us. [CLS] [SEP]
+these links may be supplied by other users, whom we have no control over, and
+does not imply that we endorse or have reviewed these links. [CLS] [SEP] if you click on a
+third-party link, you will be directed to that third-party's site. [CLS] [SEP] we strongly
+advise you to review the privacy policy of every site you visit. [CLS] [SEP]
+
+we have no control over and assume no responsibility for the content, privacy
+policies or practices of any third-party sites or services. [CLS] [SEP]
+
+## **children's privacy**
+
+our service is for users age 13 and over and we do not knowingly collect
+personal information from children under the age of 13. [CLS] [SEP] if you are a parent or
+guardian of a child under the age of 13 and believe he or she has disclosed
+personal information to us please contact us, and we will take reasonable
+measures to promptly remove applicable information from our records
+immediately. [CLS] [SEP] for residents of the eea, where processing of personal
+information is based on consent, dbolical pty ltd will not knowingly engage in
+that processing for users under the age of consent established by applicable
+data protection law. [CLS] [SEP] if we learn that we are engaged in that processing with
+such users, we will halt such processing and will take reasonable measures to
+promptly remove applicable information from our records. [CLS] [SEP]
+
+## **changes to this privacy policy**
+
+we may update our privacy policy from time to time. [CLS] [SEP] we will notify you of any
+changes by posting the new privacy policy on this page. [CLS] [SEP]
+
+we will let you know via email and/or a prominent notice on our service, prior
+to the change becoming effective and update the "effective date" at the top of
+this privacy policy. [CLS] [SEP]
+
+you are advised to review this privacy policy periodically for any changes. [CLS] [SEP]
+changes to this privacy policy are effective when they are posted on this
+page. [CLS] [SEP]
+
+## **contact us**
+
+if you have any questions about this privacy policy, please contact us:
+
+  * by email: [privacy@moddb.com](mailto:privacy@moddb.com)
+  * by post: dbolical pty ltd - 164 kings way, south melbourne vic 3205 australia
+  * by visiting this page on our website: <https://www.moddb.com/contact>
+
+[](https://www.dbolical.com "dbolical - entertainment euphoria") [terms of
+use](/terms-of-use) | [privacy policy](/privacy-policy) [blog](/blog) |
+[about](/about) | [advertise](/advertise) | [contact](/contact) | [submit
+mod](/mods/add) | [mod sdk for games](https://mod.io "cross platform mod
+support for game developers") | [publishing](https://modularity.games
+"publishing for mod friendly games") | [site map](/sitemap) (c) 2002 - 2021
+[dbolical pty ltd.](https://www.dbolical.com)  all rights reserved. [CLS] [SEP]  [4037
+modders](/members/online). [CLS] [SEP]
+
+![cs](https://b.scorecardresearch.com/p?c1=2&c2=8518622&cv=2.0&cj=1)
+

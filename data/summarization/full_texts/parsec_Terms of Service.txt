@@ -1,0 +1,868 @@
+  * [intro](/terms#intro)
+  * [1\. [CLS] [SEP] accounts](/terms#1-accounts)
+    * [1.1. [CLS] [SEP] account creation](/terms#1-1-account-creation)
+    * [1.2. [CLS] [SEP] account responsibilities](/terms#1-2-account-responsibilities)
+    * [1.3. [CLS] [SEP] your account](/terms#1-3-your-account)
+    * [1.4. [CLS] [SEP] necessary equipment and software](/terms#1-4-necessary-equipment-and-software)
+  * [2\. [CLS] [SEP] use of the services](/terms#2-use-of-the-services)
+    * [2.1. [CLS] [SEP] mobile app license](/terms#2-1-mobile-app-license)
+    * [2.2. [CLS] [SEP] parsec software](/terms#2-2-parsec-software)
+    * [2.3. [CLS] [SEP] updates](/terms#2-3-updates)
+    * [2.4. [CLS] [SEP] restrictions](/terms#2-4-restrictions)
+    * [2.5. [CLS] [SEP] modification](/terms#2-5-modification)
+    * [2.6. [CLS] [SEP] no support or maintenance](/terms#2-6-no-support-or-maintenance)
+    * [2.7. [CLS] [SEP] third-party materials](/terms#2-7-third-party-materials)
+    * [2.8. [CLS] [SEP] ownership](/terms#2-8-ownership)
+    * [2.9. [CLS] [SEP] parsec communications](/terms#2-9-parsec-communications)
+  * [3\. [CLS] [SEP] privacy](/terms#3-privacy)
+  * [4\. [CLS] [SEP] responsibility for content](/terms#4-responsibility-for-content)
+    * [4.1. [CLS] [SEP] user content](/terms#4-1-user-content)
+    * [4.2. [CLS] [SEP] license](/terms#4-2-license)
+    * [4.3. [CLS] [SEP] acceptable use policy](/terms#4-3-acceptable-use-policy)
+    * [4.4. [CLS] [SEP] enforcement](/terms#4-4-enforcement)
+    * [4.5. [CLS] [SEP] feedback](/terms#4-5-feedback)
+  * [5\. [CLS] [SEP] fees and purchase terms](/terms#5-fees-and-purchase-terms)
+    * [5.1. [CLS] [SEP] service subscription fees](/terms#5-1-service-subscription-fees)
+    * [5.2. [CLS] [SEP] payment](/terms#5-2-payment)
+    * [5.3. [CLS] [SEP] taxes](/terms#5-3-taxes)
+    * [5.4. [CLS] [SEP] automatic renewal](/terms#5-4-automatic-renewal)
+  * [6\. [CLS] [SEP] indemnification](/terms#6-indemnification)
+  * [7\. [CLS] [SEP] other users](/terms#7-other-users)
+    * [7.1. [CLS] [SEP] access and security](/terms#7-1-access-and-security)
+    * [7.2. [CLS] [SEP] responsibility](/terms#7-2-responsibility)
+  * [8\. [CLS] [SEP] release](/terms#8-release)
+  * [9\. [CLS] [SEP] disclaimers](/terms#9-disclaimers)
+    * [9.1. [CLS] [SEP] as is](/terms#9-1-as-is)
+  * [10\. [CLS] [SEP] limitation on liability](/terms#10-limitation-on-liability)
+  * [11\. [CLS] [SEP] term and termination](/terms#11-term-and-termination)
+  * [12\. [CLS] [SEP] international users](/terms#12-international-users)
+  * [13\. [CLS] [SEP] copyright policy](/terms#13-copyright-policy)
+  * [14\. [CLS] [SEP] third-party services](/terms#14-third-party-services)
+    * [14.1. [CLS] [SEP] app stores](/terms#14-1-app-stores)
+    * [14.2. [CLS] [SEP] third-party providers](/terms#14-2-third-party-providers)
+    * [14.3. [CLS] [SEP] accessing and downloading the mobile app from itunes](/terms#14-3-accessing-and-downloading-the-mobile-app-from-itunes)
+  * [15\. [CLS] [SEP] general](/terms#15-general)
+    * [15.1. [CLS] [SEP] changes](/terms#15-1-changes)
+    * [15.2. [CLS] [SEP] dispute resolution](/terms#15-2-dispute-resolution)
+    * [15.3. [CLS] [SEP] export](/terms#15-3-export)
+    * [15.4. [CLS] [SEP] disclosures](/terms#15-4-disclosures)
+    * [15.5. [CLS] [SEP] electronic communications](/terms#15-5-electronic-communications)
+    * [15.6. [CLS] [SEP] entire terms](/terms#15-6-entire-terms)
+    * [15.7. [CLS] [SEP] severability](/terms#15-7-severability)
+    * [15.8. [CLS] [SEP] copyright/trademark information](/terms#15-8-copyright-trademark-information)
+    * [15.9. [CLS] [SEP] contact information](/terms#15-9-contact-information)
+
+# terms of service
+
+ **last revised: december 11, 2020**
+
+please read this legal document carefully. [CLS] [SEP] parsec cloud, inc. [CLS] [SEP] (together with
+our affiliates, âparsecâ, âweâ, or âusâ) provides simple, low-
+latency game streaming through desktop and mobile applications available for
+download. [CLS] [SEP] this website and its subdomains (collectively, the âsiteâ), all
+software and associated documentation that is made available to you by parsec
+(âsoftwareâ), all parsec mobile applications (collectively, the âmobile
+appâ), and the services and resources available or enabled via the site,
+software, or the mobile app (each a âserviceâ and collectively the
+âservicesâ) are controlled by parsec. [CLS] [SEP] by registering on the site or mobile
+application or by visiting, browsing, or using any of the services in any way,
+you (âuserâ or âyouâ) accept these terms of use (the âtermsâ). [CLS] [SEP]
+
+these terms are legally binding and govern your use of each of the services,
+including the software. [CLS] [SEP] by accessing or using any of the services, you are
+accepting these terms (on behalf of yourself or the entity that you
+represent), and you represent and warrant that (1) you have read, understand
+and agree to be bound by these terms, (2) you are at least 18 years old or the
+age of majority in the jurisdiction from which you are accessing the services
+(or are at least 13 years old and have your parent or legal guardianâs
+consent) and (3) you have the authority to enter into the terms personally or
+on behalf of the legal entity identified during the account registration
+process, and to bind that legal entity to the terms. [CLS] [SEP] if you, or if applicable,
+such legal entity, do not agree to be bound by the terms, you, and if
+applicable, such legal entity, may not access or use any of the services. [CLS] [SEP]
+
+if you subscribe to the services for a term (the âinitial termâ), the
+terms will be automatically renewed for additional periods of the same
+duration as the initial term at parsecâs then-current fees for such services
+unless you opt out of the auto-renewal in accordance with section 5.7
+(automatic renewal) below. [CLS] [SEP]
+
+please be aware that section 2.9 (parsec communications) of the terms below
+contains your opt-in consent to receive communications from us, including, as
+applicable, via e-mail. [CLS] [SEP]
+
+please be aware that section 15.2 (dispute resolution) of the terms below
+contains provisions governing how any disputes between us will be resolved. [CLS] [SEP] in
+particular, it contains an arbitration agreement which will, with limited
+exceptions, require disputes between us to be submitted to binding and final
+arbitration. [CLS] [SEP] unless you opt out of the arbitration agreement: (1) you will
+only be permitted to pursue claims and seek relief against us on an individual
+basis, not as a plaintiff or class member in any class or representative
+action or proceeding; and (2) you are waiving your right to pursue claims and
+seek relief in a court of law and to have a jury trial. [CLS] [SEP]
+
+  1. [CLS] [SEP] ## accounts
+
+    1. [CLS] [SEP] ### account creation. [CLS] [SEP]
+
+in order to access certain services, you must register for an account
+(âaccountâ) and provide certain information about yourself. [CLS] [SEP] you represent
+and warrant that: (a) all account information you submit is truthful and
+accurate, and (b) you will maintain the accuracy of such information. [CLS] [SEP] if you
+provide any information that is untrue, inaccurate, not current or incomplete,
+or parsec has reasonable grounds to suspect that any information you provide
+is untrue, inaccurate, not current or incomplete, parsec has the right to
+suspend or terminate your account and refuse any and all current or future use
+of the services (or any portion thereof). [CLS] [SEP] you agree not to create an account
+or use the services if you have been previously banned from any of the
+services by parsec. [CLS] [SEP] you may delete your account at any time, for any reason,
+from the âaccountâ page on the site. [CLS] [SEP] parsec may suspend or terminate your
+account in accordance with section 11. [CLS] [SEP]
+
+    2. [CLS] [SEP] ### account responsibilities. [CLS] [SEP]
+
+you are responsible for maintaining the confidentiality of your account login
+information and for all activities that occur under your account. [CLS] [SEP] you agree to
+immediately notify parsec of any unauthorized use, or suspected unauthorized
+use of your account or any other breach of security. [CLS] [SEP] you may not share your
+account login or password with anyone, and you agree to exit from your account
+at the end of each session. [CLS] [SEP] parsec cannot and will not be liable for any loss
+or damage arising from your failure to comply with this section 1.2. [CLS] [SEP]
+
+    3. [CLS] [SEP] ### your account. [CLS] [SEP]
+
+notwithstanding anything to the contrary in the terms, you acknowledge and
+agree that you shall have no ownership or other property interest in your
+account, and you further acknowledge and agree that all rights in and to your
+account are and shall forever be owned by and inure to the benefit of parsec. [CLS] [SEP]
+
+    4. [CLS] [SEP] ### necessary equipment and software. [CLS] [SEP]
+
+you must provide all equipment and software necessary to connect to the
+services, including but not limited to, a mobile device that is suitable to
+connect with and use the mobile app. [CLS] [SEP] you are solely responsible for any fees,
+including internet connection or mobile fees, that you incur when accessing
+the services. [CLS] [SEP]
+
+  2. [CLS] [SEP] ## use of the services
+
+the services, and the information and content available on them, are protected
+by applicable intellectual property laws. [CLS] [SEP] unless subject to a separate license
+between you and parsec, your right to use any and all services is subject to
+the terms. [CLS] [SEP]
+
+    1. [CLS] [SEP] ### mobile app license. [CLS] [SEP]
+
+subject to your compliance with the terms, parsec grants you a limited, non-
+exclusive, non-transferable, non-sublicensable, revocable license to download,
+install and use a copy of the mobile app on a single mobile device that you
+own or control and to run such copy of the mobile app solely for your own
+personal or internal business purposes. [CLS] [SEP] furthermore, with respect to any
+mobile app accessed through or downloaded from the apple app store (an âapp
+store sourced applicationâ), you will only use such app store sourced
+application (a) on an apple-branded product that runs ios (appleâs
+proprietary operating system) and (b) as permitted by the âusage rulesâ
+set forth in the apple app store terms of service. [CLS] [SEP] notwithstanding the first
+sentence in this section, with respect to any mobile app accessed through or
+downloaded from the google play store (a âgoogle play sourced
+applicationâ), you may have additional license rights with respect to use of
+such google play sourced application on a shared basis within your designated
+family group. [CLS] [SEP]
+
+    2. [CLS] [SEP] ### parsec software. [CLS] [SEP]
+
+subject to your compliance with the terms, parsec grants you a limited, non-
+assignable, non-transferable, non-sublicensable, revocable, non-exclusive
+license to use, access and download (as applicable) the software on computer
+equipment you own or control solely for your own personal, noncommercial use
+including to make your computer available to other individuals on a hosted
+basis, and solely to stream content that you own or otherwise have the right
+to use and stream. [CLS] [SEP] as a subscriber of parsec âteamsâ or a member of a
+âteamâ in parsec, you may use the applicable software to connect to or
+host sessions for commercial use. [CLS] [SEP] some elements of the software may be subject
+to open source licenses that we will make available to you upon your request. [CLS] [SEP]
+there may be provisions in the open source licenses that expressly override
+some of these terms. [CLS] [SEP]
+
+    3. [CLS] [SEP] ### updates. [CLS] [SEP]
+
+you understand that the services are evolving. [CLS] [SEP] as a result, parsec may require
+you to accept updates to services that you have installed on your computer or
+mobile device. [CLS] [SEP] you acknowledge and agree that parsec may update the services
+with or without notifying you. [CLS] [SEP] you may need to update third-party software
+from time to time in order to use the services. [CLS] [SEP]
+
+    4. [CLS] [SEP] ### restrictions. [CLS] [SEP]
+
+the licenses granted in sections 2.1 and 2.2 are subject to the following
+restrictions: (a) you may not license, sell, rent, lease, transfer, assign,
+distribute, or commercially exploit the services, in whole or in part, or any
+content displayed on the services; (b) you may not modify, make derivative
+works of, disassemble, reverse compile or reverse engineer any part of the
+services; (c) you may not access the services in order to build a similar or
+competitive website, product, or service; and (d) except as expressly stated
+herein, you may not copy, reproduce, distribute, republish, download, display,
+post or transmit in any form or by any means any part the services. [CLS] [SEP] unless
+otherwise indicated, any future release, update, or other addition to
+functionality of the services will be subject to the terms. [CLS] [SEP] all copyright and
+other proprietary notices on the services (or on any content displayed on the
+services) must be retained on all copies thereof. [CLS] [SEP]
+
+    5. [CLS] [SEP] ### modification. [CLS] [SEP]
+
+parsec reserves the right, at any time, to modify, suspend, or discontinue all
+or any elements of the services (in whole or in part) with or without notice
+to you. [CLS] [SEP] you agree that parsec will not be liable to you or to any third party
+for any such modification, suspension, or discontinuation. [CLS] [SEP]
+
+    6. [CLS] [SEP] ### no support or maintenance. [CLS] [SEP]
+
+except for the limited support services offered to parsec âteamsâ
+subscribers, you acknowledge and agree that parsec will have no obligation to
+provide you with any support or maintenance in connection with the services. [CLS] [SEP]
+
+    7. [CLS] [SEP] ### third-party materials. [CLS] [SEP]
+
+as a part of the services, you may have access to materials that are hosted by
+another party. [CLS] [SEP] you agree that it is impossible for parsec to monitor such
+materials and that you access these materials at your own risk. [CLS] [SEP]
+
+    8. [CLS] [SEP] ### ownership. [CLS] [SEP]
+
+1\. [CLS] [SEP] excluding any user content (defined below) that you may provide, you
+acknowledge that all intellectual property rights, including copyrights,
+patents, trademarks, and trade secrets, in the services and their content are
+owned by parsec or parsecâs suppliers. [CLS] [SEP] neither these terms nor your access
+to the services transfers to you or any third party any rights, title or
+interest in or to such intellectual property rights, except for the limited
+licenses granted in sections 2.1 and 2.2. [CLS] [SEP] parsec and its suppliers reserve all
+rights not granted in these terms. [CLS] [SEP]
+
+    9. [CLS] [SEP] ### parsec communications. [CLS] [SEP]
+
+by entering into the terms or using the services, you agree to receive
+communications from us, including via e-mail, text message, calls, and push
+notifications communications from us and our affiliated companies may include
+but are not limited to: operational communications concerning your account or
+the use of the services, updates concerning new and existing features on the
+services, communications concerning promotions run by us, and news concerning
+parsec and industry developments. [CLS] [SEP] if you wish to opt out of promotional
+emails, you can unsubscribe from our promotional email list by following the
+unsubscribe options in the promotional email itself. [CLS] [SEP]
+
+  3. [CLS] [SEP] ## privacy
+
+any information that you provide to parsec, as well as any information that
+parsec otherwise collects via the services and your use of them, is subject to
+our [privacy policy](/privacy), which governs our collection and use of such
+information. [CLS] [SEP] you understand that through your use of the services you consent
+to the collection and use (as set forth in the privacy policy) of this
+information. [CLS] [SEP]
+
+  4. [CLS] [SEP] ## responsibility for content
+
+    1. [CLS] [SEP] ### user content. [CLS] [SEP]
+
+âuser contentâ means any information and content that a user submits to,
+or uses with, the services (including content streamed through the software,
+content submitted to message boards, content emailed, transmitted, or
+otherwise make available through equivalent areas of the site). [CLS] [SEP] you are solely
+responsible for your user content, including owning copies of all games that
+you host via the software. [CLS] [SEP] you assume all risks associated with use of your
+user content, including any reliance on its accuracy, completeness or
+usefulness by others, or any disclosure of your user content that personally
+identifies you or any third party. [CLS] [SEP] you hereby represent and warrant that your
+user content does not and will not violate the acceptable use policy referred
+to in section 4.4, and that you are either the creator and owner of the user
+content or have sufficient rights and authority to make your user content
+available as contemplated by these terms, including to stream the user content
+through the software. [CLS] [SEP] you may not represent or imply to others that your user
+content is in any way provided, sponsored or endorsed by parsec. [CLS] [SEP] unless
+otherwise specified with respect to a particular parsec offering, parsec is
+not obligated to backup any user content, and your user content, to the extent
+stored on parsec equipment, may be deleted at any time without prior notice. [CLS] [SEP]
+you are solely responsible for creating and maintaining your own backup copies
+of your user content if you desire. [CLS] [SEP]
+
+    2. [CLS] [SEP] ### license. [CLS] [SEP]
+
+to the extent that you provide user content to parsec (in connection with
+reviews, communications with other members, message boards, etc.), you hereby
+grant (and represent and warrant that you have the right to grant) parsec an
+irrevocable, non-exclusive, royalty-free and fully-paid-up, worldwide license
+to reproduce, distribute, publicly display and perform, prepare derivative
+works of, incorporate into other works, and otherwise use and exploit such
+user content, and to grant sublicenses of the foregoing rights, in connection
+with the operation and improvement of the services. [CLS] [SEP] you hereby irrevocably
+waive (and agree to cause to be waived) any claims and assertions of moral
+rights or attribution with respect to your user content. [CLS] [SEP] **for the sake of
+clarity, parsec does not, and will not (unless required by law), record user
+content streamed over the service or otherwise use, disclose, or share such
+streamed user content with any third parties.**
+
+    3. [CLS] [SEP] ### acceptable use policy. [CLS] [SEP]
+
+      1. [CLS] [SEP] you agree not to use the services to collect, upload, transmit, display, stream, or distribute any user content (i) that violates any third party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right; (ii) that is unlawful, harassing, abusive, tortious, threatening, harmful, invasive of anotherâs privacy, vulgar, defamatory, false, intentionally misleading, trade libelous, pornographic, obscene, patently offensive, promotes racism, bigotry, hatred, or physical harm of any kind against any group or individual or is otherwise objectionable; (iii) that is harmful to minors in any way; (iv) that is in violation of any law, regulation, or obligations or restrictions imposed by any third party; or (v) that you do not have the right to so collect, upload, transmit, display, stream, or distribute. [CLS] [SEP]
+
+      2. [CLS] [SEP] in addition, you agree not to: (i) upload, transmit, or distribute to or through the services any computer viruses, worms, or any software intended to damage or alter a computer system or data; (ii) send through the services unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, or any other form of duplicative or unsolicited messages, whether commercial or otherwise; (iii) use the services to harvest, collect, gather or assemble information or data regarding other users, including e-mail addresses, without their consent; (iv) interfere with, disrupt, or create an undue burden on servers or networks connected to the services, or violate the regulations, policies or procedures of such networks; (v) attempt to gain unauthorized access to the services (or to other computer systems or networks connected to or used together with the services), whether through password mining or any other means; (vi) harass or interfere with any other userâs use and enjoyment of the services; or (vi) use software or automated agents or scripts to produce multiple accounts on the services, or to generate automated searches, requests, or queries to (or to strip, scrape, or mine data from) the site (provided, however, that we conditionally grant to the operators of public search engines revocable permission to use spiders to copy materials from the site for the sole purpose of and solely to the extent necessary for creating publicly available searchable indices of the materials, but not caches or archives of such materials, subject to the parameters set forth in our robots.txt file). [CLS] [SEP]
+
+      3. [CLS] [SEP] parsec takes no responsibility and assumes no liability for any user content or for any loss or damage resulting therefrom, nor is parsec liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter in user content when using the services. [CLS] [SEP] your use of the services is at your own risk. [CLS] [SEP] in addition, these rules do not create any private right of action on the part of any third party or any reasonable expectation that the services will not contain any content that is prohibited by these terms. [CLS] [SEP]
+
+    4. [CLS] [SEP] ### enforcement. [CLS] [SEP]
+
+we reserve the right (but have no obligation) to investigate and/or take
+appropriate action against you in our sole discretion with respect to your
+user content if you violate the acceptable use policy or any other provision
+of these terms. [CLS] [SEP] such action may include removing or modifying your user
+content, terminating your account in accordance with section 11, and/or
+reporting you to law enforcement authorities. [CLS] [SEP]
+
+    5. [CLS] [SEP] ### feedback. [CLS] [SEP]
+
+if you provide parsec with any feedback or suggestions regarding the services
+(âfeedbackâ), you hereby assign to parsec all rights in such feedback and
+agree that parsec will have the right to use and fully exploit such feedback
+and related information in any manner it deems appropriate. [CLS] [SEP] parsec will treat
+any feedback you provide to parsec as non-confidential and non-proprietary. [CLS] [SEP]
+you agree that you will not submit to parsec any information or ideas that you
+consider to be confidential or proprietary. [CLS] [SEP]
+
+  5. [CLS] [SEP] ## fees and purchase terms
+
+    1. [CLS] [SEP] ### service subscription fees. [CLS] [SEP]
+
+you will be responsible for payment of the applicable fee for any paid
+subscription services (each, a âservice subscription feeâ) at the time you
+select your payment package (the âservice commencement dateâ). [CLS] [SEP] except as
+set forth in the terms, all fees for the services are non-refundable. [CLS] [SEP] no
+contract will exist between you and parsec for the services until parsec
+accepts your order. [CLS] [SEP]
+
+    2. [CLS] [SEP] ### payment. [CLS] [SEP]
+
+you agree to pay the applicable fees or charges to your account via stripe or
+another third party payment services provider used by parsec. [CLS] [SEP] any agreement
+you have with your payment provider will govern your use of your specified
+payment method. [CLS] [SEP] you agree that we may accumulate charges incurred and submit
+them as one or more aggregate charges during or at the end of each billing
+cycle. [CLS] [SEP] we may submit those charges for payment, and you will be responsible
+for such charges. [CLS] [SEP] this does not waive our right to seek payment directly from
+you. [CLS] [SEP] parsec reserves the right at any time to change its prices and billing
+methods, either immediately upon posting on the services or by e-mail delivery
+to you. [CLS] [SEP] you will be required to provide a valid credit, charge or debit card
+number from a card issuer that we accept as a condition to signing up for any
+paid subscription services â your authorizations in this section also apply
+to our third party payment processor and any other company who acts as a
+billing agent for us. [CLS] [SEP] you hereby authorize us to charge your specified payment
+method for any subscription services. [CLS] [SEP] you authorize the issuer of your
+selected payment method to pay any amounts described herein without requiring
+a signed receipt. [CLS] [SEP] you authorize us to continue to attempt to charge and/or
+place holds with respect to all sums described herein, or any portion thereof,
+to your payment method until such amounts are paid in full. [CLS] [SEP] you agree to
+provide updated payment information upon request and any time the information
+you previously provided is no longer valid. [CLS] [SEP]
+
+    3. [CLS] [SEP] ### taxes. [CLS] [SEP]
+
+the service subscription fees do not include any sales tax that may be due in
+connection with the subscription services, and you are solely responsible for
+the payment of all such sales taxes and you agree to indemnify parsec for any
+liability or expense parsec may incur in connection with such sales taxes. [CLS] [SEP] if
+parsec determines it has a legal obligation to collect a sales tax from you in
+connection with such services, parsec may collect such sales tax in addition
+to the payments required under the terms. [CLS] [SEP] upon parsecâs request, you will
+provide it with official receipts issued by the appropriate taxing authority,
+or other such evidence that you have paid all applicable taxes. [CLS] [SEP] for purposes
+of this section, âsales taxâ shall mean any sales or use tax and any other
+tax measured by sales proceeds that is the functional equivalent of a sales
+tax where the applicable taxing jurisdiction does not otherwise impose a sales
+or use tax. [CLS] [SEP]
+
+    4. [CLS] [SEP] ### automatic renewal. [CLS] [SEP]
+
+your subscription will continue indefinitely until terminated in accordance
+with the terms. [CLS] [SEP] **after your initial subscription period, and again after any
+subsequent subscription period, your subscription will automatically commence
+on the first day following the end of such period (each a ârenewal
+commencement dateâ) and continue for an additional equivalent period, at
+parsecâs then-current price for such subscription. [CLS] [SEP] you agree that your
+account will be subject to this automatic renewal feature unless you cancel
+your subscription prior to the renewal commencement date, by logging into and
+going to the âchange/cancel membershipâ page of your âaccount
+settingsâ page. [CLS] [SEP] if you do not wish your subscription to renew automatically,
+or if you want to change or terminate your subscription, please contact parsec
+at[[email protected]](/cdn-cgi/l/email-protection) or log in and go to the
+âchange/cancel membershipâ page on your âaccount settingsâ page.** if
+you cancel your subscription, you may use your subscription until the end of
+your then-current subscription term; your subscription will not be renewed
+after your then-current term expires. [CLS] [SEP] however, you will not be eligible for a
+prorated refund of any portion of the subscription fee paid for the then-
+current subscription period. [CLS] [SEP] by subscribing, you authorize parsec to charge
+your payment provider now, and again at the beginning of any subsequent
+subscription period. [CLS] [SEP] upon renewal of your subscription, if parsec does not
+receive payment from your payment provider, (a) you agree to pay all amounts
+due on your account upon demand and/or (b) you agree that parsec may either
+terminate or suspend your subscription and continue to attempt to charge your
+payment provider until payment is received (upon receipt of payment, your
+account will be activated and for purposes of automatic renewal, your new
+subscription commitment period will begin as of the day payment was received). [CLS] [SEP]
+
+  6. [CLS] [SEP] ## indemnification
+
+you agree to indemnify and hold parsec (and its officers, employees, agents,
+suppliers, and licensors) harmless, including costs and attorneysâ fees,
+from any claim or demand made by any third party due to or arising out of (a)
+your use of the services, (b) your violation of the terms, (c) your violation
+of applicable laws or regulations, or (d) your user content. [CLS] [SEP] parsec reserves
+the right, at your expense, to assume the exclusive defense and control of any
+matter for which you are required to indemnify us, and you agree to cooperate
+with our defense of these claims. [CLS] [SEP] you agree not to settle any indemnifiable
+matter without our prior written consent. [CLS] [SEP] parsec will use reasonable efforts
+to notify you of any such claim, action or proceeding upon becoming aware of
+it. [CLS] [SEP]
+
+  7. [CLS] [SEP] ## other users
+
+    1. [CLS] [SEP] ### access and security. [CLS] [SEP]
+
+the software allows users to share access to their computers in order to
+stream content. [CLS] [SEP] you are responsible for the user content you make available
+via the services as set forth in section 4, and you are responsible for
+determining the appropriate access settings to your computer running the
+services for individuals you invite to access your computer using the
+services. [CLS] [SEP] the software functions by allowing guests access to certain
+functions of the host computer, such as the mouse and keyboard. [CLS] [SEP] the default
+software setting restricts guest access to only those functions necessary for
+the proper performance of the software. [CLS] [SEP] you are solely responsible for
+determining the appropriate level of access to your computer, and for any
+consequences, including loss of data, virus or malware infection, unauthorized
+use, or other acts of individuals who you allow to access your computer
+through the software. [CLS] [SEP]
+
+    2. [CLS] [SEP] ### responsibility. [CLS] [SEP]
+
+parsec does not monitor and is not responsible for any user content that is
+streamed over the services or any loss or damage that results from its use to
+share computers. [CLS] [SEP] each user is solely responsible for his or her own user
+content. [CLS] [SEP] we make no guarantees regarding the accuracy, currency, suitability,
+or quality of any user content. [CLS] [SEP] your interactions with other users are solely
+between you and such users. [CLS] [SEP] you agree that parsec will not be responsible for
+any loss or damage incurred as the result of any such interactions. [CLS] [SEP] if there
+is a dispute between you and any user, we are under no obligation to become
+involved. [CLS] [SEP]
+
+  8. [CLS] [SEP] ## release
+
+you hereby release and forever discharge parsec and our officers, employees,
+agents, successors, and assigns (collectively, the âparsec partiesâ) from,
+and hereby waive and relinquish, each and every past, present and future
+dispute, claim, controversy, demand, right, obligation, liability, action and
+cause of action of every kind and nature (including personal injuries, death,
+and property damage), that has arisen or arises directly or indirectly out of,
+or that relates directly or indirectly to, the services (including any
+interactions with, or act or omission of, other users). [CLS] [SEP] if you are a
+california resident, you hereby waive california civil code section 1542 in
+connection with the foregoing, which states: âa general release does not
+extend to claims which the creditor does not know or suspect to exist in his
+or her favor at the time of executing the release, which if known by him or
+her must have materially affected his or her settlement with the debtor.â
+this section 8 shall not apply to subscribers of parsec teams. [CLS] [SEP]
+
+  9. [CLS] [SEP] ## disclaimers
+
+    1. [CLS] [SEP] ### as is. [CLS] [SEP]
+
+you expressly understand and agree that the services are provided on an âas-
+isâ and âas availableâ basis, and parsec (and our suppliers) expressly
+disclaim any warranties and conditions of any kind, whether express, implied,
+or statutory, including all warranties or conditions of merchantability,
+fitness for a particular purpose, title, quiet enjoyment, accuracy, or non-
+infringement. [CLS] [SEP] we (and our suppliers) make no warranty that the services will
+meet your requirements, will be available on an uninterrupted, timely, secure,
+or error-free basis, or will be accurate, reliable, free of viruses or other
+harmful code, complete, legal, or safe. [CLS] [SEP] if applicable law requires any
+warranties with respect to the parsec properties, all such warranties are
+limited in duration to ninety (90) days from the date of first use. [CLS] [SEP]
+
+some jurisdictions do not allow the exclusion of implied warranties, so the
+above exclusion may not apply to you. [CLS] [SEP] some jurisdictions do not allow
+limitations on how long an implied warranty lasts, so the above limitation may
+not apply to you. [CLS] [SEP]
+
+from time to time, parsec may offer new âbetaâ features or tools with
+which its users may experiment. [CLS] [SEP] such features or tools are offered solely for
+experimental purposes and without any warranty of any kind, and may be
+modified or discontinued at parsecâs sole discretion. [CLS] [SEP] the provisions of this
+section apply with full force to such features or tools. [CLS] [SEP]
+
+  10. [CLS] [SEP] ## limitation on liability
+
+to the maximum extent permitted by law, in no event will parsec (or our
+suppliers) be liable to you or any third party for any lost profits, lost
+data, costs of procurement of substitute products, or any indirect,
+consequential, exemplary, incidental, special or punitive damages arising from
+or relating to these terms or your use of, or inability to use, the services,
+even if parsec has been advised of the possibility of such damages. [CLS] [SEP] access to,
+and use of, the services is at your own discretion and risk, and you will be
+solely responsible for any damage to your device or computer system, or loss
+of data resulting therefrom. [CLS] [SEP]
+
+to the maximum extent permitted by law, notwithstanding anything to the
+contrary contained herein, our liability to you for any damages arising from
+or related to these terms (for any cause whatsoever and regardless of the form
+of the action), will at all times be limited to $100. [CLS] [SEP] the existence of more
+than one claim will not enlarge this limit. [CLS] [SEP] you agree that our suppliers will
+have no liability of any kind arising from or relating to the terms. [CLS] [SEP]
+
+some jurisdictions do not allow the limitation or exclusion of liability for
+incidental or consequential damages, so the above limitation or exclusion may
+not apply to you. [CLS] [SEP]
+
+the limitations of damages set forth above are fundamental elements of the
+basis of the bargain between parsec and you. [CLS] [SEP]
+
+  11. [CLS] [SEP] ## term and termination
+
+subject to this section, these terms will remain in full force and effect
+while you use any services. [CLS] [SEP] you hereby acknowledge and agree that the terms
+commenced on the earlier to occur of (a) the date you first used the services
+or (b) the date you accepted the terms, and will remain in full force and
+effect while you use any services, unless earlier terminated in accordance
+with the terms. [CLS] [SEP] if timely payment cannot be charged to your payment provider
+for any reason, if you have materially breached any provision of the terms, or
+if parsec is required to do so by law, parsec has the right to, immediately
+and without notice, suspend or terminate any services provided to you. [CLS] [SEP] you
+agree that all terminations for cause shall be made in parsecâs sole
+discretion and that parsec shall not be liable to you or any third party for
+any termination of your account. [CLS] [SEP] if you want to terminate the services
+provided by parsec, you may do so by (a) notifying parsec at any time and (b)
+closing your account for all of the services that you use. [CLS] [SEP] your notice should
+be sent, in writing, to parsecâs address set forth below. [CLS] [SEP] the services will
+continue at the end of each subscription period unless you cancel your
+subscription in accordance with the procedure set forth in section 5.6. [CLS] [SEP]
+
+upon termination of your rights under these terms, your account and right to
+access and use the services will terminate immediately. [CLS] [SEP] termination of your
+account may involve deletion of user content associated with your account. [CLS] [SEP]
+parsec will not have any liability whatsoever to you for any termination of
+your rights under these terms, including for termination of your account or
+deletion of your user content. [CLS] [SEP] all provisions of the terms which by their
+nature should survive, shall survive termination of services, including
+without limitation, ownership provisions, warranty disclaimers, and limitation
+of liability. [CLS] [SEP]
+
+  12. [CLS] [SEP] ## international users
+
+the services can be accessed from countries around the world and may contain
+references to services and content that are not available in your country. [CLS] [SEP]
+these references do not imply that parsec intends to announce such services or
+content in your country. [CLS] [SEP] the services are controlled and offered by parsec
+from its facilities in the united states of america. [CLS] [SEP] parsec makes no
+representations that the services are appropriate or available for use in
+other locations. [CLS] [SEP] those who access or use the services from other countries do
+so at their own volition and are responsible for compliance with local law. [CLS] [SEP]
+
+  13. [CLS] [SEP] ## copyright policy
+
+parsec respects the intellectual property of others and asks that users of the
+services do the same. [CLS] [SEP] in connection with the services, we have adopted and
+implemented a policy respecting copyright law that provides for the removal of
+any infringing materials and for the termination, in appropriate
+circumstances, of users of the services who are repeat infringers of
+intellectual property rights, including copyrights. [CLS] [SEP] if you believe that one of
+our users is, through the use of the services, unlawfully infringing the
+copyright(s) in a work, and wish to have the allegedly infringing material
+removed, the following information in the form of a written notification
+(pursuant to 17 u.s.c. [CLS] [SEP] â§ 512(c)) must be provided to our designated copyright
+agent:
+
+    * your physical or electronic signature;
+
+    * identification of the copyrighted work(s) that you claim to have been infringed;
+
+    * identification of the material on our services that you claim is infringing and that you request us to remove;
+
+    * sufficient information to permit us to locate such material;
+
+    * your address, telephone number, and e-mail address;
+
+    * a statement that you have a good faith belief that use of the objectionable material is not authorized by the copyright owner, its agent, or under the law; and
+
+    * a statement that the information in the notification is accurate, and under penalty of perjury, that you are either the owner of the copyright that has allegedly been infringed or that you are authorized to act on behalf of the copyright owner. [CLS] [SEP]
+
+please note that, pursuant to 17 u.s.c. [CLS] [SEP] â§ 512(f), any misrepresentation of
+material fact in a written notification automatically subjects the complaining
+party to liability for any damages, costs and attorneyâs fees incurred by us
+in connection with the written notification and allegation of copyright
+infringement. [CLS] [SEP]
+
+the designated copyright agent for parsec is: benjy boxer  
+address of agent: po box 980338, park city, ut, 84098  
+telephone: (929) 277-7485  
+email: [[email protected]](/cdn-cgi/l/email-
+protection#f9959c9e9895b989988b8a9c9ad7988989)
+
+  14. [CLS] [SEP] ## third-party services
+
+    1. [CLS] [SEP] ### app stores. [CLS] [SEP]
+
+you acknowledge and agree that the availability of any parsec mobile
+application is dependent on the third-party from whom you received the
+application license, e.g., the apple app store or google play (âapp
+storeâ). [CLS] [SEP] you acknowledge that the terms are between you and parsec and not
+with the app store. [CLS] [SEP] parsec, not the app store, is solely responsible for the
+services, the content thereof, maintenance, support services, and warranty
+therefore, and addressing any claims relating thereto (e.g., product
+liability, legal compliance or intellectual property infringement). [CLS] [SEP] in order
+to use the mobile app, you must have access to a wireless network, and you
+agree to pay all fees associated with such access. [CLS] [SEP] you also agree to pay all
+fees (if any) charged by the app store in connection with the services. [CLS] [SEP] you
+agree to comply with, and your license to use the services is conditioned upon
+your compliance with, all applicable third-party terms of agreement (e.g., the
+app storeâs terms and policies) when using the services. [CLS] [SEP] you acknowledge
+that the app store (and its subsidiaries) are third-party beneficiaries of the
+terms and will have the right to enforce them. [CLS] [SEP]
+
+    2. [CLS] [SEP] ### third-party providers. [CLS] [SEP]
+
+parsec uses stripe, inc. [CLS] [SEP] and its affiliates as its third party service
+provider for payment services (e.g., card acceptance, merchant settlement, and
+related services). [CLS] [SEP] when purchasing a subscription to any of the services, you
+agree to be bound by stripeâs privacy policy (currently accessible at
+https://stripe.com/us/privacy) and its terms of service (currently accessible
+at https://stripe.com/us/terms) and hereby consent and authorize parsec and
+stripe to share any information and payment instructions you provide to the
+minimum extent required to complete your transactions. [CLS] [SEP]
+
+    3. [CLS] [SEP] ### accessing and downloading the mobile app from itunes. [CLS] [SEP]
+
+the following applies to any app store sourced application accessed through or
+downloaded from the apple app store:
+
+      1. [CLS] [SEP] you acknowledge and agree that (i) the terms are concluded between you and parsec only, and not apple, and (ii) parsec, not apple, is solely responsible for the app store sourced application and content thereof. [CLS] [SEP] your use of the app store sourced application must comply with the app store terms of service. [CLS] [SEP]
+
+      2. [CLS] [SEP] you acknowledge that apple has no obligation whatsoever to furnish any maintenance and support services with respect to the app store sourced application. [CLS] [SEP]
+
+      3. [CLS] [SEP] in the event of any failure of the app store sourced application to conform to any applicable warranty, you may notify apple, and apple will refund the purchase price for the app store sourced application to you and to the maximum extent permitted by applicable law, apple will have no other warranty obligation whatsoever with respect to the app store sourced application. [CLS] [SEP] as between parsec and apple, any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be the sole responsibility of parsec. [CLS] [SEP]
+
+      4. [CLS] [SEP] you and parsec acknowledge that, as between parsec and apple, apple is not responsible for addressing any claims you have or any claims of any third party relating to the app store sourced application or your possession and use of the app store sourced application, including, but not limited to: (i) product liability claims; (ii) any claim that the app store sourced application fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation. [CLS] [SEP]
+
+      5. [CLS] [SEP] you and parsec acknowledge that, in the event of any third-party claim that the app store sourced application or your possession and use of that app store sourced application infringes that third partyâs intellectual property rights, as between parsec and apple, parsec, not apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim to the extent required by the terms. [CLS] [SEP]
+
+      6. [CLS] [SEP] you and parsec acknowledge and agree that apple, and appleâs subsidiaries, are third-party beneficiaries of the terms as related to your license of the app store sourced application, and that, upon your acceptance of the terms and conditions of the terms, apple will have the right (and will be deemed to have accepted the right) to enforce the terms as related to your license of the app store sourced application against you as a third-party beneficiary thereof. [CLS] [SEP]
+
+      7. [CLS] [SEP] without limiting any other terms of the terms, you must comply with all applicable third-party terms of agreement when using the app store sourced application. [CLS] [SEP]
+
+  15. [CLS] [SEP] ## general
+
+    1. [CLS] [SEP] ### changes. [CLS] [SEP]
+
+these terms are subject to occasional revision, and if we make any substantial
+changes, we may notify you by sending you an e-mail to the last e-mail address
+you provided to us (if any), and/or by prominently posting notice of the
+changes on this page and elsewhere in the services. [CLS] [SEP] if the last e-mail address
+that you have provided us is not valid, or for any reason is not capable of
+delivering to you the notice described above, our dispatch of the e-mail
+containing such notice will nonetheless constitute effective notice of the
+changes described in the notice. [CLS] [SEP] any changes to these terms will be effective
+upon the earlier of thirty (30) calendar days following our dispatch of an
+e-mail notice to you (if applicable) or thirty (30) calendar days following
+our posting of notice of the changes on this page and in the services. [CLS] [SEP] these
+changes will be effective immediately for new users of the services. [CLS] [SEP] continued
+use of the services following notice of such changes will indicate your
+acknowledgement of such changes and agreement to be bound by the terms and
+conditions of such changes. [CLS] [SEP]
+
+    2. [CLS] [SEP] ### dispute resolution. [CLS] [SEP]
+
+ **please read this section 15.2 (the âarbitration agreementâ) carefully. [CLS] [SEP]
+it is part of your contract with parsec and affects your rights. [CLS] [SEP] it contains
+procedures for mandatory binding arbitration and a class action waiver.**
+
+applicability of arbitration agreement. [CLS] [SEP] all claims and disputes (excluding
+claims for injunctive or other equitable relief as set forth below) in
+connection with the terms or the use of any product or service provided by
+parsec that cannot be resolved informally or in small claims court will be
+resolved by binding arbitration on an individual basis under the terms of this
+arbitration agreement. [CLS] [SEP] unless otherwise agreed to, all arbitration proceedings
+will be held in english. [CLS] [SEP] **this arbitration agreement applies to you and
+parsec, and to any subsidiaries, affiliates, agents, employees, predecessors
+in interest, successors, and assigns, as well as all authorized or
+unauthorized users or beneficiaries of services or goods provided under the
+terms.**
+
+additional rules for non-appearance based arbitration. [CLS] [SEP] if non-appearance-based
+arbitration is elected, the arbitration will be conducted by telephone, online
+and/or based solely on written submissions; the specific manner will be chosen
+by the party initiating the arbitration. [CLS] [SEP] the arbitration will not involve any
+personal appearance by the parties or witnesses unless otherwise agreed by the
+parties. [CLS] [SEP]
+
+time limits. [CLS] [SEP] if you or parsec pursue arbitration, the arbitration action must
+be initiated and/or demanded within the statute of limitations (i.e., the
+legal deadline for filing a claim) and within any deadline imposed under the
+aaa rules for the pertinent claim. [CLS] [SEP]
+
+authority of arbitrator. [CLS] [SEP] if arbitration is initiated, the arbitrator will
+decide the rights and liabilities, if any, of you and parsec, and the dispute
+will not be consolidated with any other matters or joined with any other cases
+or parties. [CLS] [SEP] the arbitrator will have the authority to grant motions
+dispositive of all or part of any claim. [CLS] [SEP] the arbitrator may award monetary
+damages, and grant any non-monetary remedy or relief available to an
+individual under applicable law, the aaa rules, and the terms. [CLS] [SEP] the arbitrator
+will issue a written award and statement of decision describing the essential
+findings and conclusions on which the award is based, including the
+calculation of any damages awarded. [CLS] [SEP] the arbitrator has the same authority to
+award relief on an individual basis that a judge in a court of law would have. [CLS] [SEP]
+the award of the arbitrator is final and binding upon you and parsec. [CLS] [SEP]
+
+waiver of jury trial. [CLS] [SEP] the parties hereby waive their constitutional and
+statutory rights to go to court and have a trial in front of a judge or a
+jury, instead electing that all claims and disputes will be resolved by
+arbitration under this arbitration agreement. [CLS] [SEP] arbitration procedures are
+typically more limited, more efficient and less costly than rules applicable
+in a court and are subject to very limited review by a court. [CLS] [SEP] in the event any
+litigation should arise between you and parsec in any state or federal court
+in a suit to vacate or enforce an arbitration award or otherwise, you and
+parsec waive all rights to a jury trial, instead electing that the dispute be
+resolved by a judge. [CLS] [SEP]
+
+waiver of class or consolidated actions. [CLS] [SEP] all claims and disputes within the
+scope of this arbitration agreement must be arbitrated or litigated on an
+individual basis and not on a class basis, and claims of more than one user
+cannot be arbitrated or litigated jointly or consolidated with those of any
+other user. [CLS] [SEP]
+
+if a decision is issued stating that applicable law precludes enforcement of
+any of this sectionâs limitations as to a given dispute, claim, or request
+for relief, then such aspect must be severed from the arbitration and brought
+into the state or federal courts located in the state of new york. [CLS] [SEP] all other
+disputes, claims, or requests for relief shall be arbitrated. [CLS] [SEP]
+
+confidentiality. [CLS] [SEP] all aspects of the arbitration proceeding, including the
+award of the arbitrator and compliance therewith, will be strictly
+confidential. [CLS] [SEP] the parties agree to maintain confidentiality unless otherwise
+required by law. [CLS] [SEP] this paragraph will not prevent a party from submitting to a
+court of law any information necessary to enforce this arbitration agreement
+or an arbitration award, or to seek injunctive or equitable relief. [CLS] [SEP]
+
+severability. [CLS] [SEP] if any part of this arbitration agreement are found to be
+invalid or unenforceable by a court of competent jurisdiction, then such
+specific part or parts will be of no force and effect and will be severed and
+the remainder of the arbitration agreement will continue in full force and
+effect. [CLS] [SEP]
+
+right to waive. [CLS] [SEP] any or all the rights and limitations set forth in this
+arbitration agreement may be waived by the party against whom the claim is
+asserted. [CLS] [SEP] such waiver will not waive or affect any other portion of this
+arbitration agreement. [CLS] [SEP]
+
+small claims court.notwithstanding the foregoing, either you or parsec may
+bring an individual action in small claims court. [CLS] [SEP]
+
+emergency equitable relief. [CLS] [SEP] notwithstanding the foregoing, either party may
+seek emergency equitable relief before a state or federal court in order to
+maintain the status quo pending arbitration. [CLS] [SEP] a request for interim measures
+will not be deemed a waiver of any other rights or obligations under this
+arbitration agreement. [CLS] [SEP]
+
+claims not subject to arbitration. [CLS] [SEP] notwithstanding the foregoing, claims of
+defamation, violation of the computer fraud and abuse act, and infringement or
+misappropriation of the other partyâs patent, copyright, trademark or trade
+secrets will not be subject to this arbitration agreement. [CLS] [SEP]
+
+in any circumstances where the foregoing arbitration agreement permits the
+parties to litigate in court, the parties hereby agree to submit to the
+personal jurisdiction of the state and federal courts located within new york
+county, new york, for such purpose. [CLS] [SEP]
+
+you have the right to opt out of the provisions of this arbitration agreement
+by sending written notice of your decision to opt out to: [[email
+protected]](/cdn-cgi/l/email-protection), within thirty (30) days after first
+becoming subject to this arbitration agreement. [CLS] [SEP] your notice must include your
+name and address, your parsec username (if any), the email address you used to
+set up your account (if you have one), and an unequivocal statement that you
+want to opt out of this arbitration agreement. [CLS] [SEP] if you opt out of this
+arbitration agreement, all other parts of this agreement will continue to
+apply to you. [CLS] [SEP] opting out of this arbitration agreement has no effect on any
+other arbitration agreements that you may currently have, or may enter in the
+future, with us. [CLS] [SEP]
+
+    3. [CLS] [SEP] ### export. [CLS] [SEP]
+
+the services may be subject to u.s. [CLS] [SEP] export control laws and may be subject to
+export or import regulations in other countries. [CLS] [SEP] you agree not to export,
+reexport, or transfer, directly or indirectly, any u.s. [CLS] [SEP] technical data
+acquired from parsec, or any products utilizing such data, in violation of the
+united states export laws or regulations. [CLS] [SEP]
+
+    4. [CLS] [SEP] ### disclosures. [CLS] [SEP]
+
+parsec is located at the address below. [CLS] [SEP] if you are a california resident, you
+may report complaints to the complaint assistance unit of the division of
+consumer product of the california department of consumer affairs by
+contacting them in writing at 1625 north market blvd., suite n 112,
+sacramento, ca 95834, or by telephone at (800) 952-5210. [CLS] [SEP]
+
+    5. [CLS] [SEP] ### electronic communications. [CLS] [SEP]
+
+the communications between you and parsec use electronic means, whether you
+use the services or send us emails, or whether parsec posts notices on the
+site or communicates with you via email. [CLS] [SEP] for contractual purposes, you (a)
+consent to receive electronic communications from parsec; and (b) agree that
+all terms and conditions, agreements, notices, disclosures, and other
+communications that parsec provides to you electronically satisfy any legal
+requirement that such communications would satisfy if it were be in a hardcopy
+writing. [CLS] [SEP] the foregoing does not affect your statutory rights, including but
+not limited to the electronic signatures in global and national commerce act
+at 15 u.s.c. [CLS] [SEP] â§7001 et seq. [CLS] [SEP] (âe-signâ). [CLS] [SEP]
+
+    6. [CLS] [SEP] ### entire terms. [CLS] [SEP]
+
+these terms constitute the entire agreement between you and us regarding the
+use of the services. [CLS] [SEP] our failure to exercise or enforce any right or provision
+of these terms will not operate as a waiver of such right or provision. [CLS] [SEP] the
+section titles in these terms are for convenience only and have no legal or
+contractual effect. [CLS] [SEP] the word âincludingâ means âincluding without
+limitationâ. [CLS] [SEP] the word âmayâ means âhas the right, but not the
+obligation, toâ. [CLS] [SEP] if any provision of these terms is, for any reason, held to
+be invalid or unenforceable, the other provisions of these terms will be
+unimpaired and the invalid or unenforceable provision will be deemed modified
+so that it is valid and enforceable to the maximum extent permitted by law. [CLS] [SEP]
+your relationship to parsec is that of an independent contractor, and neither
+party is an agent or partner of the other. [CLS] [SEP] these terms, and your rights and
+obligations herein, may not be assigned, subcontracted, delegated, or
+otherwise transferred by you without parsecâs prior written consent, and any
+attempted assignment, subcontract, delegation, or transfer in violation of the
+foregoing will be null and void. [CLS] [SEP] parsec may freely assign these terms. [CLS] [SEP] the
+terms and conditions set forth in these terms will be binding upon assignees. [CLS] [SEP]
+
+    7. [CLS] [SEP] ### severability. [CLS] [SEP]
+
+if any portion of the terms is held invalid or unenforceable, that portion
+shall be construed in a manner to reflect, as nearly as possible, the original
+intention of the parties, and the remaining portions shall remain in full
+force and effect. [CLS] [SEP]
+
+    8. [CLS] [SEP] ### copyright/trademark information. [CLS] [SEP]
+
+copyright â© 2016-20 parsec cloud, inc. [CLS] [SEP] all rights reserved. [CLS] [SEP] all trademarks,
+logos and service marks (âmarksâ) displayed on the site are our property
+or the property of other third parties. [CLS] [SEP] you are not permitted to use these
+marks without our prior written consent or the consent of such third-party
+which may own the marks. [CLS] [SEP]
+
+if you are a subscriber of parsec âteamsâ you grant parsec the right to
+use your trade name and/or logo on our website and marketing materials to
+designate you as a parsec customer for the purpose of marketing and promoting
+the services. [CLS] [SEP]
+
+    9. [CLS] [SEP] ### contact information:
+
+parsec cloud, inc. [CLS] [SEP]  
+address: po box 980338  
+park city, ut, 84098  
+telephone: (929) 277-7485  
+email: [[email protected]](/cdn-cgi/l/email-
+protection#1a767f7d7b765a6a7b68697f79347b6a6a)
+

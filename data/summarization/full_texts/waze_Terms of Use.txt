@@ -1,0 +1,625 @@
+[](/)
+
+[waze](/waze) [carpool](/carpool) [partners](/partners)
+
+[ride in a
+carpool](/rul?locale=en&redirect_app=carpool_onboard&utm_campaign=default&utm_medium=website_menu&utm_source=waze_website)
+[live map](/livemap?utm_source=waze_website&utm_campaign=waze_website)
+[download](/apps)
+
+[settings](/account)
+[support](https://support.google.com/waze/answer/9058157?hl=en) [log
+in](/_user/login/multidevice/initiation?redirect=%2flegal%2ftos) log out
+
+[](/)
+
+[waze](/waze) [carpool](/carpool) [partners](/partners)
+
+[ride in a
+carpool](/rul?locale=en&redirect_app=carpool_onboard&utm_campaign=default&utm_medium=website_menu&utm_source=waze_website)
+[live map](/livemap?utm_source=waze_website&utm_campaign=waze_website)
+[download](/apps)
+
+[log in](/_user/login/multidevice/initiation?redirect=%2flegal%2ftos)
+
+  * [ terms of use ](/legal/tos)
+  * [ privacy policy ](/legal/privacy)
+  * [ copyrights ](/legal/copyright)
+  * [ cookie policy ](/legal/cookies)
+  * [ notices ](/legal/notices)
+
+# terms of use
+
+**welcome to waze!**
+
+these terms of use (“terms”) govern your rights and obligations regarding the
+use of waze’s software (“software”) and service (both collectively referred to
+as the “ **service** ”) on the internet or in cellular media. [CLS] [SEP] these terms
+constitute a fully binding agreement between waze mobile ltd. [CLS] [SEP] (including its
+affiliates and subsidiaries, “waze” or “we”) the proprietor of all rights in
+and to the service, and you. [CLS] [SEP] it is therefore recommended that you carefully
+read these terms. [CLS] [SEP]
+
+by using the waze service, you signify your assent to these terms;
+
+  1. [CLS] [SEP] [waze’s privacy policy](/legal/privacy) (“privacy policy”); and
+  2. [CLS] [SEP] [waze’s copyright policy](/legal/copyright) (“copyright policy”)
+
+all of which are an integral part of these terms. [CLS] [SEP]
+
+if you do not agree to these terms or any of its parts, then you are
+prohibited and must refrain from using the service. [CLS] [SEP]
+
+### key points
+
+the following key points of the terms are highlighted here for your
+convenience only. [CLS] [SEP] these key points are not made in lieu of the full terms and
+their presence in this section does not mean that they are intended to
+supersede or override any other terms or conditions provided by waze.. [CLS] [SEP]
+
+  * **road information prevails**. [CLS] [SEP] the information provided by the service is not intended to replace the information provided on the road, such as travel direction, time based restrictions, lane restrictions, road blockades, traffic signs, traffic lights, police instructions, etc. [CLS] [SEP]
+
+  * **cautious driving**. [CLS] [SEP] always drive vigilantly according to road conditions and in accordance with traffic laws. [CLS] [SEP] it is strictly forbidden to send traffic updates (such as updates on road accidents and traffic congestion), or to non-verbally interact with the service or use the service in a non-verbal manner for any purpose other than navigation while driving. [CLS] [SEP] traffic updates or non-verbal reports you want to submit to the service may only be sent after you have stopped your vehicle in an appropriate location permitted by law. [CLS] [SEP] alternatively, such updates may be sent by a passenger other than the driver, provided it does not interfere with the due course of driving and does not distract the driver’s attention to the road. [CLS] [SEP]
+
+  * **non-continuous updates**. [CLS] [SEP] the information provided by the service originates from other users of the service. [CLS] [SEP] such information is intrinsically fluctuant and may be inaccurate, incomplete or outdated. [CLS] [SEP] waze does not provide any warranties to such information’s credibility or reliability. [CLS] [SEP]
+
+  * **location-based service**. [CLS] [SEP] some features of the service make use of detailed location and route information, for example in the form of gps signals and other information sent by your mobile device on which the waze application is installed and activated. [CLS] [SEP] these features cannot be provided without utilizing this technology. [CLS] [SEP] please note, as described in detail in the [privacy policy](/legal/privacy):
+
+    * waze uses your location and route information to create a detailed route history of all of your journeys made when using the service. [CLS] [SEP] waze uses this history to offer the service to you, to improve the quality of the service it offers to you and to all of its users, to improve the accuracy of its mapping and navigation data, and more as described in detail in the [privacy policy](/legal/privacy). [CLS] [SEP] this history is associated with your account and username (if you have chosen to set up a username). [CLS] [SEP] this history is retained by waze for a limited period of time and in accordance with the [privacy policy](/legal/privacy). [CLS] [SEP]
+
+    * waze allows you to use the service whether or not you choose to set up a username for yourself. [CLS] [SEP] if you choose to use the service without setting up a username you may do so by skipping the username setup stage of the application installation process. [CLS] [SEP] waze will still link all of your information with your account and a unique identifier generated by waze in accordance with the [privacy policy](/legal/privacy). [CLS] [SEP] note that in order to access certain features of the service (for example map editing, ranking, moods) you will need to set up a username. [CLS] [SEP]
+
+  * **advertisements**. [CLS] [SEP] third party advertisements may appear on the service from time to time. [CLS] [SEP] waze does not endorse these advertisements, and the advertisements are not intended to be, nor should they be, viewed by drivers unless and until their vehicle has come to a complete stop. [CLS] [SEP]
+
+  * **the internet connection required to use the service, and any associated charges (e.g. [CLS] [SEP] mobile data expenses) incurred by your use of the service are your exclusive responsibility and made solely at your expense**. [CLS] [SEP] transmitting and receiving real-time updates to and from the service, requires an online (e.g. [CLS] [SEP] wi-fi, 3g, 4g) connection between your cellular device and the internet. [CLS] [SEP] the expenses of such connection are as prescribed by the agreement between you and your communication service provider (such as your cellular company), and according to its applicable terms of payment. [CLS] [SEP]
+
+  * **free software**. [CLS] [SEP] the service utilizes software for map displays, updates and road information. [CLS] [SEP] with respect to some cellular telephone devices running the software, the software is a free-software. [CLS] [SEP] in such cases you may redistribute the software or modify it in accordance with the gnu general public license as published by the free software foundation, whether it is version 2.0 of the license or any later version of your choice. [CLS] [SEP] for further information, see the gnu general public license. [CLS] [SEP] the service, its database, waze’s trademarks, the design of the maps of the service and the voice files integrated in the software – all are not free-software. [CLS] [SEP]
+
+  * **your age**. [CLS] [SEP] the service is intended for use by users who are of the legal age required to hold a driving license. [CLS] [SEP] in any case, to use our service you must be 16 years of age or older. [CLS] [SEP] if you are under 16, you may not download or use the service. [CLS] [SEP] accounts of users under the age of 16 years will be canceled and deleted by waze, upon receiving notice. [CLS] [SEP]
+
+  * **privacy**. [CLS] [SEP] your privacy is important to us. [CLS] [SEP] while using the service, personal information may be provided by you or collected by waze as detailed in our [privacy policy](/legal/privacy). [CLS] [SEP] the [privacy policy](/legal/privacy) explains our practices pertaining to the use of your personal information and we ask that you read such [privacy policy](/legal/privacy) carefully. [CLS] [SEP] by accepting these terms, you hereby acknowledge and agree to the collection, storage and use of your personal information by waze, subject to this section, the [privacy policy](/legal/privacy) and any applicable laws and regulation. [CLS] [SEP]
+
+### what is the service
+
+the service allows car drivers to navigate to their desired address. [CLS] [SEP] it allows
+drivers and users to assemble and update maps to reflect road conditions and
+occurrences on them, such as traffic congestions, road accidents, police road
+blocks, etc. [CLS] [SEP] the service is provided mainly through the software. [CLS] [SEP]
+
+### the license
+
+**waze service**. [CLS] [SEP] waze hereby grants you a free of charge, non-exclusive,
+time-limited, non-transferable, non-sub-licensable, revocable license to use
+the service (including the software) for non-commercial purposes, subject to
+these terms. [CLS] [SEP]
+
+**the free version of the software**. [CLS] [SEP] in respect to the cellular telephones
+using the free-software version of the software, the software is free
+software; you can redistribute it and/or modify it under the terms of the gnu
+general public license as published by the free software foundation; either
+version 2 of the license, or (at your option) any later version. [CLS] [SEP] this program
+is distributed in the hope that it will be useful, but without any warranty;
+without even the implied warranty of merchantability or fitness for a
+particular purpose. [CLS] [SEP] see the gnu general public license for more details. [CLS] [SEP] along
+with this software, you should have received a copy of the gnu general public
+license; in case you did not receive such a copy, please contact us at
+[support@waze.com](mailto:support@waze.com), advise us of your email address
+and we will send you a copy of the gnu general public license. [CLS] [SEP] if you are
+using the software, you may contact us at the above address, request a copy of
+the source code of the software and we will send you such a copy. [CLS] [SEP] this offer
+was valid for three years (from the date you last obtained delivery of the
+free software version of the software). [CLS] [SEP] be advised that this clause applies
+only with respect to the free version of the software. [CLS] [SEP] it does not apply to
+the service, its database, waze’s trademarks, the design of the maps of the
+service and the voice files integrated in the software or to other
+intellectual property rights of waze – all of these are not free-software. [CLS] [SEP]
+
+### using the service
+
+you may use the service solely for private and personal purposes. [CLS] [SEP] you may not
+use the service commercially. [CLS] [SEP] for example, you may not: (i) offer to third
+parties a service of your own that uses the service; (ii) resell the service;
+(iii) offer to rent or lease the service; or (iv) offer the service to the
+public via communication or integrate it within a service of your own, without
+the prior written consent of waze. [CLS] [SEP] for clarity, the examples listed are made
+for illustrative purposes only; they do not constitute an exhaustive list of
+restricted activities involving the service. [CLS] [SEP]
+
+you may not copy, print, save or otherwise use data from the site or the
+service’s database. [CLS] [SEP] this clause does not limit the use of the database as
+intended by the software and for the purposes of private and personal use of
+the service. [CLS] [SEP]
+
+when using the service or the site you may not engage in scraping, data
+mining, harvesting, screen scraping, data aggregating, and indexing. [CLS] [SEP] you agree
+that you will not use any robot, spider, scraper or other automated means to
+access the site or the service’s database for any purpose without the express
+prior written permission of waze. [CLS] [SEP]
+
+the software may not be used in any way that is not expressly permitted by
+these terms. [CLS] [SEP]
+
+### use restrictions
+
+there are certain types of conduct that are strictly prohibited on the
+service. [CLS] [SEP] please read the following restrictions carefully. [CLS] [SEP] your failure to
+comply with the provisions set forth below may result (at waze’s sole
+discretion) in the termination of your access to the service and may also
+expose you to civil and/or criminal liability. [CLS] [SEP]
+
+**you may not, whether yourself or through any other means or person** :
+
+(i) copy, modify, adapt, translate, reverse engineer, decompile, or
+disassemble any portion of the content included in the service and/or site, or
+in any way or publicly display, perform, or distribute them;
+
+(ii) make any use of the content on any other website or networked computer
+environment for any purpose, or replicate or copy the content without waze’s
+prior written consent;
+
+(iii) create a browser or border environment around the content (e.g. [CLS] [SEP] no
+frames or inline linking);
+
+(iv) interfere with or violate any third party or other user’s right to
+privacy or other rights, including copyrights and any other intellectual
+property rights of others, or harvest or collect personal information about
+visitors or users of the service and/or site without their express consent,
+including using any robot, spider, site search or retrieval application, or
+other manual or automatic device or process to retrieve, index, or data-mine;
+
+(v) defame, abuse, harass, stalk, threaten, or otherwise violate the legal
+rights of others, including others’ copyrights, and other intellectual
+property rights;
+
+(vi) transmit or otherwise make available in connection with the service
+and/or site any virus, worm, trojan horse, time bomb, web bug, spyware, or any
+other computer code, file, or program that may or is intended to damage or
+hijack the operation of any hardware, software, or telecommunications
+equipment, or any other actually or potentially harmful, disruptive, or
+invasive code or component;
+
+(vii) interfere with or disrupt the operation of the service and/or site, or
+the servers or networks that host the service and/or site or make the service
+and/or site available, or disobey any requirements, procedures, policies, or
+regulations of such servers or networks;
+
+(viii) sell, license, or exploit for any commercial purposes any use of or
+access to the content and/or the service and/or site;
+
+(ix) frame or mirror any part of the service and/or site without waze’s prior
+express written authorization;
+
+(x) create a database by systematically downloading and storing all or any of
+the content from the service and/or site;
+
+(xi) forward any data generated from the service and/or site without the prior
+written consent of waze;
+
+(xii) transfer or assign your service accounts’ password, even temporarily, to
+a third party;
+
+(xiii) use the service and/or site for any illegal, immoral or unauthorized
+purpose;
+
+(xiv) use the site, the service, or the content for non-personal or commercial
+purposes without waze’s express prior written consent; or
+
+(xv) infringe or violate any of these terms. [CLS] [SEP]
+
+### termination of use of the service
+
+you may terminate your use of the service at any time and for whatever reason. [CLS] [SEP]
+you are not obligated to advise waze of such termination. [CLS] [SEP] however, if you
+would also like for waze to delete your waze account and your personal
+information contained in the account, please use the “delete account” function
+in the in app privacy settings or account & login settings. [CLS] [SEP] on receiving such
+a request, waze will use reasonable efforts to delete such information,
+however please note that information may not be deleted immediately from our
+back-up systems. [CLS] [SEP] for more information, please read our [privacy
+policy](/legal/privacy). [CLS] [SEP]
+
+waze retains the right to block your access to the service and discontinue
+your use of the service, at any time and for any reason waze deems
+appropriate, at its sole and absolute discretion. [CLS] [SEP]
+
+### user content
+
+the service allows all users of the software to submit and post information
+and content to other users (“content”). [CLS] [SEP] content is separate from third party
+sponsored advertisements that may appear on the service. [CLS] [SEP] content can include,
+for example, map and road updates, traffic congestion updates, road accidents,
+etc. [CLS] [SEP] you assume sole responsibility for any content you post and you alone are
+liable for the consequences when you post content. [CLS] [SEP]
+
+always drive vigilantly according to road conditions and in accordance with
+traffic laws. [CLS] [SEP] it is strictly forbidden to send any content - including traffic
+updates (such as updates on road accidents and traffic congestion)- while
+driving. [CLS] [SEP] your content submissions may only be sent after you have stopped your
+vehicle in an appropriate location permitted by law. [CLS] [SEP] alternatively, content
+may be sent by a passenger other than the driver, provided it does not
+interfere with the due course of driving and does not distract the driver. [CLS] [SEP]
+
+### forbidden posts
+
+it is forbidden to submit content of a commercial nature (including
+advertising), unless such posts pertain to waze, the service, or waze’s
+products, and such content strictly complies with these terms. [CLS] [SEP]
+
+when you submit content to be published by the service, you must make sure it
+is lawful. [CLS] [SEP] for example, you may not submit content that:
+
+  * is diminishing or infringing proprietary rights of others, including but not limited to copyright and trade marks; poses a risk to a person’s
+  * safety, security or health; identifies other persons without obtaining such person’s express written consent to the disclosure of their personal
+  * information, or pertains to minors and identifies minors or their personal information, including their full name, age, address or contact information;
+  * is unlawful, defamatory, libelous or invades the privacy of others; is harassing, offensive, threatening or vulgar; is characterized by, or that
+  * encourages racism or unlawfully discriminates on the basis of race, origin, ethnicity, nationality, religion, gender, occupation, sexual orientation, illness, physical or mental disability, faith, political view or socio-economical class;
+  * encourages criminal behavior or conduct that would constitute a criminal offense under any law, or could give rise to civil liability or other lawsuit;
+  * promotes pyramid schemes, chain letters or disruptive commercial messages or advertisements, or anything else prohibited by law or under these terms;
+  * falsely expresses or implies that such content is sponsored or endorsed by waze. [CLS] [SEP]
+
+the foregoing examples of unlawful content are made solely for illustrative
+purposes and do not constitute an exhaustive list of restricted content. [CLS] [SEP]
+
+waze may decline to publish, or immediately delete any content you submit if
+you or the content have violated these terms or if you engaged in a commission
+or omission that is harmful or may be harmful to the service, its users, waze
+or any of its agents or affiliates. [CLS] [SEP] in such cases, waze may also terminate
+your access to the service or prevent you from posting additional content on
+the service. [CLS] [SEP] the provisions of this clause are made in addition to any rights
+afforded to waze by any law. [CLS] [SEP]
+
+### rights in content
+
+when you submit content to be published on the service, you represent and
+warrant that you own all intellectual property rights in the content; that you
+are permitted to publish the content and to permit waze to publish the content
+and exploit all intellectual property rights in and to the content. [CLS] [SEP] waze
+receives no ownership rights in and to the content that you submit. [CLS] [SEP] however,
+by submitting content to waze, you hereby grant waze and the users of the
+service an irrevocable, worldwide, perpetual, non-exclusive, royalty-free,
+sub-licenseable and transferable license to use, copy, distribute, prepare
+derivative works, display in public and publicly perform the content. [CLS] [SEP] the
+license granted to waze in and to the content you submit is not limited to
+personal use, but also extends to any commercial use of content, at waze’s
+sole and absolute discretion. [CLS] [SEP] however, other users may only use your content
+for non-commercial purposes, unless waze provides them with a prior written
+consent to use your content for commercial purposes (for the purpose of which
+you authorize waze to be your agent). [CLS] [SEP]
+
+### examination of content
+
+waze may examine the content before or after its publication, prevent
+publication of inappropriate or otherwise inadequate or erroneous content, or
+remove such content after its publication. [CLS] [SEP] waze does not normally utilize its
+right to monitor content and does so only in rare cases. [CLS] [SEP]
+
+waze retains sole discretion in determining which content will be published,
+the duration of its publication, its location, how and when it appears on the
+service, its design and any other matter pertaining to the publication of
+content within the service. [CLS] [SEP] waze does not guarantee that all content will be
+published, in general or for any limited time. [CLS] [SEP]
+
+content submitted by users for publication does not reflect the views of waze. [CLS] [SEP]
+publishing content does not warrant its validity, reliability, accuracy,
+legality or it being up-to-date. [CLS] [SEP]
+
+### copyright
+
+all intellectual property rights in and to the site, the service and its
+database, including copyrights, trademarks, industrial designs, patents and
+trade secrets – are either the exclusive property of waze or its affiliates or
+are exclusively licensed to waze. [CLS] [SEP] the service is protected, among others, by
+the israeli copyright law, 2007 as well as by applicable copyright provisions
+prescribed by any other law, in israel and elsewhere. [CLS] [SEP]
+
+“waze”, the waze logo, and other trade and/or service marks are the property
+of waze or its affiliates and you may not use such logos or marks for any
+purpose that is not expressly authorized in these terms without the prior
+written consent of waze. [CLS] [SEP]
+
+the design, trade dress, and the ‘look and feel’ of the maps of the site and
+the service are protected works under applicable copyright laws and waze and
+its affiliates retain all intellectual property rights in them. [CLS] [SEP] the software
+license granted to you in these terms does not extend to or include a license
+to use the maps displayed on the software or any mark, indicator, logo or
+notation embedded in the maps that are displayed on the software. [CLS] [SEP] you may not
+copy or print more than one copy of any data or material appearing on the
+site. [CLS] [SEP]
+
+waze may protect the service by technological means intended to prevent
+unauthorized use of the service. [CLS] [SEP] you undertake not to circumvent these means. [CLS] [SEP]
+without derogating from waze’s rights under these terms or under any
+applicable law, you are advised that any attempted or actual infringement of
+this provision will result in the termination of all your rights under these
+terms. [CLS] [SEP] if you circumvent any of the means taken by waze to protect the service
+from unauthorized use, you must immediately cease any and all use of the
+service, and you undertake to do so. [CLS] [SEP]
+
+### apple
+
+if you use the service on an apple device, then you agree and acknowledge
+that:
+
+  * apple, inc. [CLS] [SEP] bears no duties or obligations to you under the terms, including, but not limited to, any obligation to furnish you with service maintenance and support;
+  * you will have no claims, and you waive any and all rights and causes of action against apple with respect to the service or the terms, including, but not limited to claims related to maintenance and support, intellectual property infringement, liability, consumer protection, or regulatory or legal conformance;
+  * apple and apple’s subsidiaries are third party beneficiaries of the terms. [CLS] [SEP] upon your acceptance of the terms, apple will have the right (and will be deemed to have accepted the right) to enforce these terms against you as a third party beneficiary thereof. [CLS] [SEP]
+
+### export control
+
+you represent and warrant that: (i) you are not located in a country that is
+subject to a u.s. [CLS] [SEP] government embargo, or that has been designated by the u.s. [CLS] [SEP]
+government as a “terrorist supporting” country; and (ii) you are not listed on
+any u.s. [CLS] [SEP] government list of prohibited or restricted parties. [CLS] [SEP]
+
+### limitation of liability and warranty
+
+waze provides the service and content included therein for use on an “as is”
+and “as available” basis. [CLS] [SEP] they cannot be customized to fulfill the needs of
+each and every user. [CLS] [SEP] we hereby disclaim all warranties and representations,
+either express or implied, with respect to the service, including, without
+limitation, any warranties of merchantability, and fitness for a particular
+purpose, features, quality, non-infringement, title, compatibility,
+performance, security or accuracy. [CLS] [SEP]
+
+additionally and without derogating from the above clause, waze disclaims any
+warranties relating to the accuracy of the maps, content, road conditions,
+driving directions, or navigation routes presented or displayed in or by the
+service. [CLS] [SEP] for instance, traffic may be congested in roads depicted by the
+service as uncongested; existing roads may be missing from the map; users may
+submit faulty or inaccurate content or reports. [CLS] [SEP] such errors and omissions are
+inherent to any community-based service that operates on users’ posts and on
+the information provided by them. [CLS] [SEP]
+
+**you agree and acknowledge that you assume full, exclusive and sole
+responsibility for the use of and reliance on the service, and you further
+agree and acknowledge that your use of or reliance on the service is made
+entirely at your own risk. [CLS] [SEP] you further acknowledge that it is your
+responsibility to comply with all applicable laws (including traffic laws)
+while using the service.**
+
+the information provided by the service is not intended to replace the
+information presented on the road. [CLS] [SEP] in the event that the information presented
+on the road (traffic lights, traffic signs, police person, etc.) instructs
+differently than the service, you must not rely on the service. [CLS] [SEP]
+
+waze exerts efforts to provide you with a high quality and satisfactory
+service. [CLS] [SEP] however, we do not warrant that the service will operate in an
+uninterrupted or error-free manner, or that it will always be available or
+free from all harmful components, or that it is safe, secured from
+unauthorized access to waze’s computers, immune from damages, free of
+malfunctions, bugs or failures, including, but not limited to hardware
+failures, software failures and software communication failures, originating
+either in waze or any of its providers. [CLS] [SEP]
+
+waze, including its officers, directors, shareholders, employees, sub-
+contractors and agents will not be liable for any direct, indirect, incidental
+or consequential damage, or any other damage, and loss (including loss of
+profit and loss of data), costs, expenses and payments, either in tort,
+contractual, or in any other form of liability, arising from, or in connection
+with the use of, or the inability to use the service, or from any failure,
+error, or breakdown in the function of the service, or from any fault, or
+error made by our staff or anyone acting on its behalf, or from your reliance
+on the content of the service, including, without limitation, content
+originating from third parties, or from any communication with the service, or
+with other users on or through the service, or from any denial or cancellation
+of your user account, or from retention, deletion, disclosure and any other
+use or loss of your content on the service. [CLS] [SEP] in any event, your sole remedy
+will be limited to correcting such errors, or malfunctions, and in light of
+the relevant circumstances. [CLS] [SEP]
+
+### links and commercial information in the software
+
+the service may include commercial information or advertisements (for example,
+pins indicating the locations of certain establishments, their commercial
+offers, coupons, etc. [CLS] [SEP] (“ads”). [CLS] [SEP] the ads may pop up or be displayed on the
+service maps from time to time. [CLS] [SEP] waze may post ads on the service but more
+often than not, the source of such ads is third parties, and as such, waze
+cannot and does not guarantee the reliability or accuracy of third party ads. [CLS] [SEP]
+waze does not endorse the content of third party ads. [CLS] [SEP] additionally and without
+derogating from the previous sentence, waze will not be liable for any form of
+liability arising from your reliance on, or in connection with, the use of the
+content of ads posted on the service. [CLS] [SEP]
+
+it is underscored that the advertising of commercial content by waze does not
+constitute a recommendation or encouragement to procure the goods or services
+advertised. [CLS] [SEP]
+
+insofar as the software includes links to services or applications not
+operated or managed by waze, waze will not be liable for any form of liability
+arising from your reliance on, or in connection with, the content of such
+services and applications or any information provided by them, including but
+not limited to its completeness, accuracy, correctness or it being up-to-date. [CLS] [SEP]
+waze will not be liable for any direct or indirect damage, monetary or
+otherwise, arising from your use of or your reliance on the content of goods
+or services you have accessed via ads or other links on the software. [CLS] [SEP]
+
+you must not attempt to view or click on any ads while operating a vehicle. [CLS] [SEP]
+you alone are responsible for driving responsibly, and you acknowledge and
+agree that in the event that you violate the foreoing provision, the third
+party advertisers will not be liable for any direct, indirect, incidental or
+consequential damage, or any other damage, and loss (including loss of profit
+and loss of data), costs, expenses and payments, either in tort, contractual,
+or in any other form of liability, arising from, or in connection with the
+display of the ads on the service or your viewing of the ads on the service. [CLS] [SEP]
+
+### breach and indemnity
+
+without derogating from any applicable law, you agree to indemnify and hold
+harmless waze and its employees, officers, directors and agents, as well as
+all third party advertisers of ads from and against all claims, damages,
+expenses, losses and liabilities that arise as a result of your violation of
+these terms. [CLS] [SEP] in view of the fact that the service is provided to you free-of-
+charge, this indemnity is intended to cover all expenses, payments, loss, loss
+of profits or any other damage, direct or indirect, monetary or non-monetary,
+incurred by waze, its employees, officers, directors or agents as a result of
+your violation of the terms, including but not limited to legal expenses and
+attorney fees. [CLS] [SEP]
+
+### privacy
+
+waze respects your privacy during your use of the software and the service. [CLS] [SEP]
+our updated privacy policy pertaining to the software and the service is
+readily accessible at our [privacy policy](/legal/privacy) and is an integral
+part of these terms. [CLS] [SEP] since the privacy policy is subject to periodic updates,
+it is recommended that you periodically review the policy for updates. [CLS] [SEP]
+
+### modifications to the service and software
+
+waze may, either partially or in its entirety and without being obligated to
+provide prior notice – modify, adapt or change the software, the service’s
+features, the user interface and design, the extent and availability of the
+contents in the service and any other aspect related to the service. [CLS] [SEP] you will
+have no claim, complaint or demand against waze for applying such changes or
+for failures incidental to such changes. [CLS] [SEP]
+
+### termination of service
+
+waze may, at any time, terminate the provision of the service in its entirety
+or any part thereof, temporarily or permanently, at its sole discretion. [CLS] [SEP]
+
+### modifications of these terms
+
+waze may modify these terms from time to time. [CLS] [SEP] if fundamental changes are
+introduced, a notice will be posted in the updated version of the software as
+well as on the service’s home page on the site. [CLS] [SEP] your continued use of the
+service after the terms have been modified signifies your assent to the
+updated terms. [CLS] [SEP] if you dissent to the updated terms or to any term within them,
+you must discontinue all further use of the software. [CLS] [SEP]
+
+### governing law and jurisdiction
+
+these terms, the software and the service will be governed solely by the laws
+of the state of israel, without giving effect to any conflicts of law
+principles. [CLS] [SEP] any dispute, claim or controversy arising out of, connected with
+or relating to these terms, the software and the service, will be under the
+exclusive jurisdiction of the competent court in the tel aviv district in
+israel. [CLS] [SEP]
+
+### limitations
+
+should you desire to file any cause of action against waze, arising out of or
+related to the waze software or service, you must do so within one (1) year of
+the day you become aware of the cause of action. [CLS] [SEP] failure to file a lawsuit
+within the aforementioned timeframe will bring about the permanent barring of
+the cause of action, and will constitute your complete and final waiving of
+the lawsuit. [CLS] [SEP]
+
+### assignment of rights
+
+you may not assign or transfer your rights in and to the service, without the
+prior written consent of waze. [CLS] [SEP] waze may assign its rights in and to the
+service to a third party at its sole and absolute discretion, provided that
+the third party undertakes waze’s obligations to you under these terms. [CLS] [SEP]
+
+### complete terms
+
+these terms, together with the policies that are an integral part of these
+terms, namely the [privacy policy](/legal/privacy) and the copyright policy,
+shall all constitute the entire and complete agreement between you and waze
+concerning the waze service. [CLS] [SEP] in the event of an inconsistency between these
+terms and the synopsis of terms presented to the user during software
+installation, these terms shall prevail. [CLS] [SEP]
+
+### no legal relationship
+
+these terms of use and your use of the service, including the submission of
+content onto the service, do not, and shall not be construed as creating any
+relationship, partnership, joint venture, employer-employee, agency, or
+franchisor-franchisee relationship in any way and of any kind between the
+parties hereto. [CLS] [SEP] your use of the service is intended for your enjoyment and
+benefit and the provision of the service to you (subject to your compliance
+with these terms) constitutes the sole and sufficient consideration that you
+are entitled to receive for any content or other contributions you have made
+to the waze service, its contents, maps and any other data. [CLS] [SEP]
+
+### contact us
+
+you may contact us concerning any question about the service, through the
+channels listed on the “about” menu in the software or through the [“contact
+us”](/contact) page. [CLS] [SEP] we will make our best efforts to address your inquiry
+promptly. [CLS] [SEP]
+
+**last modified: 17 may 2018**
+
+waze
+
+130+ million drivers and riders who hate traffic, too
+
+[twitter](https://twitter.com/waze) [facebook](https://www.facebook.com/waze)
+[instagram](https://instagram.com/waze)
+[youtube](https://www.youtube.com/waze?sub_confirmation=1)
+
+english __
+
+##  select language
+
+  * afrikaans
+  * العربية
+  * български
+  * català
+  * čeština
+  * dansk
+  * deutsch
+  * english
+  * uk english
+  * español
+  * español (a. [CLS] [SEP] latina)
+  * eesti
+  * suomi
+  * français
+  * galego
+  * עברית‎
+  * hrvatski
+  * magyar
+  * bahasa indonesia
+  * italiano
+  * 日本語
+  * 한국어
+  * latviešu
+  * lietuviškai
+  * bahasa inggeris
+  * nederlands
+  * norsk
+  * polski
+  * português (brasil)
+  * português (portugal)
+  * română
+  * русский
+  * slovenčina
+  * slovenščina
+  * српски
+  * svenska
+  * türkçe
+  * yкраїнська
+  * 中文
+  * 國語
+
+support __
+
+[help center](https://support.google.com/waze/answer/9058157?hl=en) [fix a map
+issue](https://support.google.com/waze/answer/7101380?hl=en) [community
+forums](/forum/) [community wiki](https://wazeopedia.waze.com)
+
+live map __
+
+[plan a drive](/livemap?utm_source=waze_website&utm_campaign=waze_website)
+[major events](/events) [edit the map](/editor) [locations](/location)
+
+about __
+
+[about us](/about) [jobs](/careers) [contact us](/contact) [waze
+blog](https://blog.waze.com) [communities](/communities)
+
+partners __
+
+[ advertise with waze
+](http://waze.com/ads?utm_source=waze_website&utm_medium=website_footer&utm_campaign=advertise_on_waze)
+[broadcasters](/broadcasters) [waze for cities](/ccp) [transport sdk](/sdk)
+[waze carpool](/carpool) [waze beacons program](/beacons)
+[developers](https://developers.google.com/waze)
+
+[ terms of use ](/legal/tos) [ privacy policy ](/legal/privacy) [ copyright
+notice ](/legal/copyright)
+
+© 2006-2021 waze mobile. [CLS] [SEP] all rights reserved. [CLS] [SEP]
+

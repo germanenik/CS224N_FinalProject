@@ -1,0 +1,791 @@
+  * [contact sales](https://pages.yubico.com/contact)
+  * [resellers](https://www.yubico.com/support/shipping-and-buying-information/resellers/)
+  * [english](https://www.yubico.com/support/terms-conditions/yubico-license-agreement/ "english")
+    * [français](https://www.yubico.com/?lang=fr "français")
+    * [deutsch](https://www.yubico.com/?lang=de "deutsch")
+    * [日本語](https://www.yubico.com/?lang=ja "日本語")
+    * [español](https://www.yubico.com/?lang=es "español")
+    * [svenska](https://www.yubico.com/?lang=sv "svenska")
+
+skip to content [ ![yubico](https://www.yubico.com/wp-
+content/themes/coronado/img/logo.svg) ](https://www.yubico.com/ "yubico")
+
+  *     *       *   * [why yubico](/why-yubico/)
+    *       *         * ###### [why yubico](/why-yubico)
+
+      *       *     *       *         * [for business](https://www.yubico.com/why-yubico/for-business/)
+        * [for individuals](https://www.yubico.com/why-yubico/for-individuals/)
+        * [for developers](https://www.yubico.com/why-yubico/for-developers/)
+      *       *         * [![](/nav-image-equal/)not all authentication is created equal](/why-yubico/)
+
+        * [![](/nav-image-one-key-r1/)one key for many applications](/how-the-yubikey-works/)
+
+        * [![](/nav-image-google/)proven at scale at google](/resources/reference-customers/google/)
+
+    *       *   * [products](/products)
+    *       *         * ###### [products](/products)
+
+    *       *         * #### yubikeys
+
+        * [yubikey 5 series](https://www.yubico.com/products/yubikey-5-overview/)
+        * [yubikey fips series](https://www.yubico.com/products/yubikey-fips/)
+        * [yubihsm](https://www.yubico.com/products/hardware-security-module/)
+        * [security key series](https://www.yubico.com/products/security-key/)
+      *         * #### services
+
+        * [yubienterprise services](https://www.yubico.com/products/yubienterprise/)
+        * [professional services](https://www.yubico.com/support/yubico-for-professional-services/)
+        * [support services](https://www.yubico.com/support-services/)
+        * #### software
+
+        * [yubico authenticator](https://www.yubico.com/products/yubico-authenticator/)
+        * [computer login tools](https://www.yubico.com/products/computer-login-tools/)
+      *         * #### need some help?
+
+        * [find the right yubikey](/quiz/)
+        * [works with yubikey](/works-with-yubikey/catalog/)
+      *         * [![](/nav-image-ye/)secure remote workers with yubienterprise delivery](/blog/quickly-and-easily-secure-remote-workers-with-yubikeys-through-yubienterprise-delivery/)
+
+        * [![](/nav-image-yk-2pk-r1/)new to yubikeys? try a multi-key experience pack](/product/yubikey-experience-pack/)
+
+    *       *     *       *   * [solutions](/solutions)
+    *       *         * ###### [solutions](/solutions)
+
+    *       *         * #### use cases
+
+        * [protect remote workers](https://www.yubico.com/solutions/secure-remote-workers-from-cyber-attacks/)
+        * [protect your microsoft ecosystem](https://www.yubico.com/solutions/microsoft-365-mfa/)
+        * [go passwordless](https://www.yubico.com/solutions/passwordless/)
+        * [stop account takeovers](https://www.yubico.com/solutions/account-takeover-prevention/)
+        * [modernize your multi-factor authentication](https://www.yubico.com/solutions/multi-factor-authentication/)
+        * [for compliance](https://www.yubico.com/solutions/cybersecurity-compliance/)
+        * [authenticate in mobile restricted environments](https://www.yubico.com/solutions/mobile-restricted-environment/)
+        * [enable secure privileged access management](https://www.yubico.com/solutions/privileged-users/)
+        * [enable strong authentication for call centers](https://www.yubico.com/solutions/call-centers/)
+        * [secure password managers](https://www.yubico.com/solutions/hardware-protection-for-password-manager/)
+      *         * #### industries
+
+        * [high tech](https://www.yubico.com/solutions/industries/technology/)
+        * [federal government](https://www.yubico.com/solutions/industries/federal/)
+        * [state and local government](https://www.yubico.com/solutions/industries/state-local-government/)
+        * [financial services](https://www.yubico.com/solutions/industries/finance/)
+        * [elections and political campaigns](https://www.yubico.com/solutions/industries/political-campaigns/)
+        * [healthcare](https://www.yubico.com/solutions/industries/healthcare/)
+        * [education](https://pages.yubico.com/solutions-industries-education)
+        * [cryptocurrency](https://www.yubico.com/solutions/industries/cryptocurrency/)
+        * [retail](https://www.yubico.com/solutions/industries/retail/)
+      *         * [![](/nav-image-wfh/)strong authentication for remote workers](/solutions/secure-remote-workers-from-cyber-attacks/)
+
+        * [![](/nav-image-yk-ms-r1/)yubikey + microsoft. [CLS] [SEP] defense against account takeovers.](/solutions/microsoft-365-mfa/)
+
+    *       *   * [resources](/resources)
+    *       *         * ###### [resources](/resources)
+
+    *       *         * #### learn
+
+        * [cybersecurity glossary](https://www.yubico.com/resources/glossary/)
+        * [authentication standards](https://www.yubico.com/authentication-standards/)
+        * [resource library](https://www.yubico.com/resources/library/)
+        * [developer program](https://developers.yubico.com/)
+        * [product briefs](https://www.yubico.com/resource_categories/product-briefs/)
+        * [solution briefs](https://www.yubico.com/resource_categories/solution-briefs/)
+        * [covid-19 resources](https://www.yubico.com/resources/covid-19-resources/)
+      *         * #### best practices
+
+        * [get a pilot started](https://www.yubico.com/resources/getting-started/)
+        * [white papers](https://www.yubico.com/resource_categories/white-papers/)
+        * [webinars](https://www.yubico.com/resource_categories/webinars/)
+        * #### success stories
+
+        * [case studies](https://www.yubico.com/resources/reference-customers/)
+        * [yubico blog](https://www.yubico.com/blog/)
+      *         * [![](/nav-image-passwordless-wp-r1/)white paper: passwordless essentials for the enterprise](https://pages.yubico.com/passwordless-authentication)
+
+        * [![](/gartner-logo/)white paper: enhance remote security with mfa + iam](https://pages.yubico.com/enhance-remote-access-security)
+
+    *       *     *       *   * [company](/about)
+    *       *         * ###### [company](/about)
+
+    *       *         * #### who we are
+
+        * [about us](https://www.yubico.com/about/about-us/)
+        * [the team](https://www.yubico.com/about/team/)
+        * #### talk to us
+
+        * [contact sales](https://pages.yubico.com/contact)
+        * [events](https://www.yubico.com/events/)
+        * [press](https://www.yubico.com/press/)
+      *         * #### what we do
+
+        * [innovation history](https://www.yubico.com/about/yubico-innovation-history/)
+        * [blog](https://www.yubico.com/blog/)
+        * #### join us
+
+        * [careers](https://www.yubico.com/careers/)
+        * [partner programs](https://www.yubico.com/partners/)
+        * [affiliate program](https://www.yubico.com/about/affiliate-program/)
+      *         * [![](/nav-image-freedom-of-speech-r1/)yubico for free speech: don’t be silent. [CLS] [SEP] don’t be silenced.](/about/about-us/free-speech-program/)
+
+        * [![](/nav-image-company-r1/)at yubico, people come first. [CLS] [SEP] join our global mission](/careers/)
+
+  * [support](https://support.yubico.com/hc/en-us)
+    *       *         * ###### [support](https://support.yubico.com/hc/en-us)
+
+    *       *         * #### get started
+
+        * [find the right yubikey](/quiz)
+        * [set up your yubikey](https://www.yubico.com/setup/)
+        * [downloads](https://www.yubico.com/support/download/)
+        * [support articles](https://support.yubico.com/hc/en-us)
+      *         * #### services
+
+        * [support services](https://www.yubico.com/support-services/)
+        * [professional services](https://www.yubico.com/support/yubico-for-professional-services/)
+        * [yubienterprise services](https://www.yubico.com/products/yubienterprise/)
+      *         * #### additional resources
+
+        * [works with yubikey](/works-with-yubikey/catalog/)
+        * [buying and shipping information](https://www.yubico.com/support/shipping-and-buying-information/)
+        * [security advisories](https://www.yubico.com/support/security-advisories/)
+        * [help center](https://support.yubico.com/hc/en-us)
+    *       *   *   
+  
+
+  * [contact sales](https://pages.yubico.com/contact)
+  * [resellers](https://www.yubico.com/support/shipping-and-buying-information/resellers/)
+  *   
+  
+
+  * language 
+
+    * english
+      * [français](https://www.yubico.com/?lang=fr)
+      * [deutsch](https://www.yubico.com/?lang=de)
+      * [日本語](https://www.yubico.com/?lang=ja)
+      * [español](https://www.yubico.com/?lang=es)
+      * [svenska](https://www.yubico.com/?lang=sv)
+
+![](https://www.yubico.com/wp-content/themes/coronado/img/search.svg)
+![](https://www.yubico.com/wp-content/themes/coronado/img/close.svg)
+
+![yubico](https://www.yubico.com/wp-content/themes/coronado/img/icon.svg)
+
+![yubico](https://www.yubico.com/wp-content/themes/coronado/img/search.svg)
+
+[store](/store) [![view your shopping cart](https://www.yubico.com/wp-
+content/themes/coronado/img/cart.svg)](/cart)
+
+[home](https://www.yubico.com/) » [support](https://www.yubico.com/support/) »
+[terms and conditions](https://www.yubico.com/support/terms-conditions/) »
+yubico sale and license agreement
+
+# yubico sale and license agreement
+
+**updated january 1st, 2021**
+
+please read the following terms and conditions before purchasing or using
+yubico products, including but not limited to yubikey and yubihsm products
+(“hardware) and [yubico validation
+services](https://www.yubico.com/products/services-software/yubicloud/),
+including yubicloud (“validation service“) (collectively, the hardware and
+validation service shall be referred to as “products”). [CLS] [SEP]
+
+the terms and conditions of this sales and license agreement and the yubico
+ordering document you executed or agreed to (“order form”) (this sales and
+license agreement and the order form, collectively the “agreement”) are an
+agreement between you and yubico and govern your usage of products unless you
+and yubico have executed a separate written agreement governing your use of
+products
+
+“yubico” means: yubico, inc., 530 lytton avenue, suite 301, palo alto, ca
+94301, u.s.a. [CLS] [SEP] if you are acquiring the products in the americas; and yubico
+ab, kungsgatan 44 2nd floor. [CLS] [SEP] 111 35 stockholm, sweden, if you are acquiring
+the products outside of the americas. [CLS] [SEP] references herein to the “parties” or a
+“party” shall mean you and yubico, as applicable. [CLS] [SEP]
+
+this is a legally binding agreement between you and yubico. [CLS] [SEP] by using products
+or clicking “agree”, as applicable, you are stating that you fully understand,
+agree to be bound by and accept all the terms and conditions of this
+agreement. [CLS] [SEP] if you are accepting this agreement on behalf of a company, you
+represent that you are authorized to do so. [CLS] [SEP] if you purchased products as a
+private person (“consumer purchaser”) directly from yubico’s online webstore
+and do not accept the terms of this agreement, then you may not use the
+products, and you may return such unused products to yubico, at your expense,
+within 30 days of the date of delivery (with the order form and all original
+unopened packaging and documentation) for a full refund of the purchase price. [CLS] [SEP]
+if you are a consumer purchaser that purchased from other third-party vendors,
+including retail stores, please contact those vendors directly for more
+information about their refund policies. [CLS] [SEP]
+
+**1\. [CLS] [SEP] use and restrictions**
+
+(a) license grant. [CLS] [SEP] the hardware may contain certain object code software
+deployed onto its secure hardware prior to delivery to the user (“firmware”)
+and/or provided separately for use with the hardware (collectively, such
+firmware and separately provided software being “software”). [CLS] [SEP] yubico grants you
+a personal, non-exclusive, non-sublicensable, non-assignable and non-
+transferable license to use the software solely as part of your use of the
+hardware, in accordance with the published specifications for the product and
+for your internal non-commercial use. [CLS] [SEP] you may use the firmware only as
+originally deployed onto the hardware. [CLS] [SEP]
+
+(b) restrictions. [CLS] [SEP] you shall not: (i) modify, translate or create derivative
+works from the products; (ii) disassemble, decompile, reverse engineer,
+perform cryptographic analysis on or otherwise attempt to derive the source
+code of the products, in whole or in part, unless expressly permitted by
+applicable law in the jurisdiction of use despite this prohibition; (iii)
+disclose, publish or otherwise make publicly available any benchmark,
+performance or comparison tests that you (or a third-party contracted by you)
+run on the products, in whole or in part; (iv) separate the firmware from the
+remainder of hardware or use the software on another device; (v) interfere
+with, disrupt the integrity or performance of, or attempt to gain unauthorized
+access to the validation service; (vi) sell, resell, distribute, transfer,
+publish, disclose, rent, lend, lease or sublicense the products or its
+software (for the avoidance of doubt, if you are acquiring products on behalf
+of a company you may make the products available to your employees for use as
+well as your affiliates and third-party contractors subject to section 1(d),
+below); (vii) make the functionality of the products available to any third
+party through any means, including without limitation by uploading the
+software to a network or file-sharing service or through any hosting,
+application services provider, service bureau or other type of services; or
+(viii) use, or make available, the validation service with non-yubico
+products. [CLS] [SEP]
+
+(c) optional items. [CLS] [SEP] from time-to-time, yubico at its sole discretion, may make
+available to you optional items including but not limited to (i) optional
+software utilities and beta software for supporting the usage of the hardware;
+and (ii) pre-release hardware (collectively “optional items”). [CLS] [SEP] unless a
+particular optional item includes its own separate and specific terms and
+conditions, this agreement shall govern the usage of optional items. [CLS] [SEP]
+conditioned upon your compliance with the terms and conditions of this
+agreement, yubico grants you a non-exclusive and non-transferable license to
+use the optional items solely in executable form and solely for your internal
+business purposes of supporting the hardware, and in the case of pre-release
+hardware, for evaluation purposes. [CLS] [SEP] optional items are not fully tested by
+yubico and may include significant issues. [CLS] [SEP] you acknowledge that optional items
+are likely to present risks associated with their use. [CLS] [SEP] yubico strongly
+recommends that you back up all your data prior to using optional items from
+any source. [CLS] [SEP] notwithstanding anything to the contrary in this agreement,
+optional items are provided “as is”, and do not carry any warranties or
+maintenance or support; similarly, in no event shall yubico be liable for any
+damage arising from the use of optional items. [CLS] [SEP]
+
+(d) affiliates and third-party contractors. [CLS] [SEP] you may allow your “affiliates” to
+use the products, provided that you shall (i) provide the affiliate with a
+copy of the agreement; (ii) ensure that the affiliate complies with this
+agreement; and (iii) be responsible for any breach by such affiliate. [CLS] [SEP]
+“affiliate” means any entity that controls, is controlled by, or is under
+common control with you or yubico, as applicable, where “control” means having
+the power, directly or indirectly, to direct or cause the direction of the
+management of the entity, whether through ownership of voting securities, by
+contract or otherwise. [CLS] [SEP] if you contract with a third-party contractor providing
+it services solely for your benefit, they may use the products subject to
+their compliance with this agreement. [CLS] [SEP]
+
+**2\. [CLS] [SEP] ownership**
+
+the software is licensed not sold. [CLS] [SEP] all title to the software and other yubico
+intellectual property rights related to the software such as, but not limited
+to, copyright, trade secrets, patents, trademarks and service marks, shall
+always remain with yubico and its licensors as applicable. [CLS] [SEP] to the extent you
+provide any suggestions or comments related to the products, yubico shall have
+the right to retain and use any such suggestions or comments in current or
+future products or subscriptions, without your approval or compensation to
+you. [CLS] [SEP]
+
+**3\. [CLS] [SEP] support services and professional services**
+
+if you have not purchased technical support services (“support services”) or
+professional services (“professional services”) (collectively “services”)
+pursuant to an order form, then yubico will have no obligation to provide
+services to you. [CLS] [SEP] if yubico, in its sole discretion elects to provide support
+services to assist you, it is provided on an “as is” basis without any
+warranties, service levels or obligations; similarly, in no event shall yubico
+be liable for any damage arising from providing such discretionary support
+services. [CLS] [SEP] if you have purchased services, then they shall be governed by the
+support services agreement and professional services agreement, as applicable,
+located at [https://www.yubico.com/support/terms-conditions/](/support/terms-
+conditions/). [CLS] [SEP]
+
+**4\. [CLS] [SEP] payment, taxes, and delivery**
+
+(a) reseller purchases. [CLS] [SEP] the entirety of this section 4 does not apply to you
+if you purchased products from a yubico authorized distributor or reseller. [CLS] [SEP]
+all commercial terms, including but not limited to payment, taxes, and
+delivery shall be determined and settled between you and such distributor or
+reseller. [CLS] [SEP]  
+  
+(b) yubico webstore purchases. [CLS] [SEP] if you are purchasing from the yubico online
+webstore, applicable fees will be set forth on the website at the time of
+purchase or in the applicable invoice. [CLS] [SEP]  
+  
+ **prices on the yubico webstore:** are exclusive of applicable vat, sales
+tax, import duties, shipping fees and customs fees. [CLS] [SEP] vat or sales tax will be
+added before the order confirmation, if applicable. [CLS] [SEP] to allow you to determine
+what import duties and taxes, if any, may be added to your order, please
+contact us by opening a support ticket here
+<https://support.yubico.com/support/tickets/new> to determine the country we
+will ship from. [CLS] [SEP] shipping fees will vary based on the location of delivery. [CLS] [SEP]  
+ **shipping country:** will be determined after order is placed. [CLS] [SEP] for specific
+information on what country your order is shipped from, please contact us by
+opening a support ticket here
+<https://support.yubico.com/support/tickets/new>. [CLS] [SEP] usually, if the delivery
+country is in the americas, we ship from the usa, otherwise we ship from
+sweden. [CLS] [SEP] if the delivery address is in the european union, we will ship from
+within the european union. [CLS] [SEP]  
+  
+(c) yubico direct sales. [CLS] [SEP]  
+(i) payment. [CLS] [SEP] if you are purchasing from yubico by entering into a written
+order form, you will pay yubico the total fees specified in the order form. [CLS] [SEP]
+fees will be due 30 days from invoice date, provided that yubico reserves the
+right in its sole discretion to require prepayment from you if you do not have
+a well-established transaction history with yubico or if you for instance have
+exhibited questionable credit worthiness or have failed to adhere to payment
+terms for prior yubico purchases. [CLS] [SEP] in addition, you understand and accept that
+yubico may at any time sell any outstanding debt to a third party. [CLS] [SEP] further,
+yubico reserves the right to require payment be made by electronic means
+including but not limited to ach/eft or wire transfer. [CLS] [SEP] all sums that are past
+due will accrue interest at the highest rate permissible by applicable law and
+you will reimburse yubico for all reasonable costs and expenses incurred
+(including reasonable attorneys’ fees) in collecting any overdue amounts. [CLS] [SEP] all
+fees are non-refundable unless otherwise specified. [CLS] [SEP] prices quoted are
+exclusive of all sales, use, value-added, good and services, withholding and
+other taxes or duties. [CLS] [SEP]  
+(ii) taxes. [CLS] [SEP] you will pay or self-assess all taxes and duties assessed in
+connection with this agreement and its performance, except for taxes payable
+on yubico’s net income. [CLS] [SEP] to the extent that any amounts payable by you are
+subject to withholding taxes, the amount payable shall be grossed up such that
+the amount paid to yubico’s net of withholding taxes equals the amount
+invoiced by yubico. [CLS] [SEP] if you pay any withholding taxes based on payments made by
+you to yubico hereunder, you will furnish yubico with written documentation of
+all such tax payments, including receipts and other customary documentation,
+to demonstrate to the relevant tax authorities that you have paid such taxes. [CLS] [SEP]
+if applicable, you shall also provide yubico with appropriate vat/gst
+registration numbers and other documentation satisfactory to the applicable
+taxing authorities to substantiate any claim of exemption from any tax or
+duties. [CLS] [SEP] you agree that your purchases are not contingent on the delivery of
+any future functionality or features (including future availability of
+products or any new releases), or dependent on any oral or written public
+comments made by yubico regarding future functionality or features. [CLS] [SEP]  
+(iii) transaction entities. [CLS] [SEP] if you are making global purchases from yubico
+(i.e. [CLS] [SEP] purchases both in the americas and outside of the americas), by entering
+into this agreement, you on behalf of your affiliates, agree that yubico and
+its regional affiliates may invoice your respective regional affiliates that
+are benefiting from the products in the joint effort of increasing tax
+efficiencies as permitted by applicable law and to adhere to established
+accounting practices. [CLS] [SEP] you represent that you are authorized to bind your
+regional affiliates to being invoiced by yubico and its regional affiliates. [CLS] [SEP]
+when fulfilling delivery requests for such regional affiliates, yubico may
+require such regional affiliates to complete a fulfillment request form or
+similar document for formalizing order confirmation. [CLS] [SEP]  
+(iv) delivery. [CLS] [SEP] all products that require shipping will be shipped free carrier
+(incoterms 2010 fca) yubico’s designated shipping point. [CLS] [SEP] you will be
+responsible for shipping expenses and will arrange to have your carrier pick
+up and deliver your purchased products. [CLS] [SEP]
+
+**5\. [CLS] [SEP] limited warranty, exclusions, disclaimer**
+
+(a) warranty. [CLS] [SEP] yubico warrants that the hardware will be free from defects in
+material and workmanship for a period of one year from the date of delivery to
+the original purchaser who has purchased hardware from yubico or its
+authorized resellers (the “warranty period”) (such warranty being the “limited
+warranty”). [CLS] [SEP] if a defect in material or workmanship arises within the hardware
+during the warranty period and the hardware is returned to yubico within the
+warranty period, yubico will, at its sole option and subject to applicable
+laws: (a) repair or replace any defective hardware with a new or refurbished
+product; or (b) refund the original purchase price of the hardware. [CLS] [SEP] the
+warranty period for any repaired or replacement hardware will persist for the
+longer of the remainder of the original one-year warranty period or 90 days
+from the date the repaired or replacement product is shipped to the user. [CLS] [SEP] this
+section 5(a) sets forth yubico’s sole obligation and your sole remedy for any
+breach of this limited warranty. [CLS] [SEP]
+
+(b) exclusions. [CLS] [SEP] the limited warranty extends only to the original purchaser of
+the hardware and is non-transferrable. [CLS] [SEP] this warranty does not apply to
+hardware that: (a) is altered or modified, other than by yubico; (b) is not
+maintained in a normal and customary fashion or is operated outside of
+yubico’s recommended guidelines; (c) has been subjected to abnormal physical
+or electrical stress, misuse, negligence or accident; (d) has had its original
+serial number altered or removed, other than as a result of normal wear and
+tear; or (e) yubico has provided free of charge. [CLS] [SEP]
+
+(c) warranty disclaimer. [CLS] [SEP] except for the limited warranty expressly stated in
+section 5 (a) above and to the fullest extent permitted by applicable law, the
+products are provided “as is”. [CLS] [SEP] yubico and its suppliers make no other
+warranties and expressly disclaim all other warranties, express or implied,
+including without limitation any implied warranties of merchantability,
+fitness for a particular purpose, and any warranties arising out of course of
+dealing or usage of trade. [CLS] [SEP] yubico does not warrant that (a) the products will
+meet your requirements, (b) use thereof shall be uninterrupted or error-free,
+(c) the products or any equipment, system or network on which the products are
+used will be free of vulnerability to intrusion or attack, or (d) or that all
+programming errors can be found in order to be corrected. [CLS] [SEP] you are solely
+responsible for the data, software and other content carried on your
+equipment, system or network on which the products are used and for backing-up
+your data, software and other content. [CLS] [SEP] you agree that your purchases are not
+contingent on the delivery of any future functionality or features (including
+future availability of products or any new releases), or dependent on any oral
+or written public comments made by yubico regarding future functionality or
+features. [CLS] [SEP]
+
+**6\. [CLS] [SEP] compliance with laws**
+
+in connection with the use and transport of the products, including the
+software, you shall comply with all applicable export, import, and other
+relevant laws of any applicable jurisdiction. [CLS] [SEP] determination of the applicable
+law is your responsibility. [CLS] [SEP] you acknowledge and understand that the product,
+including the software, is cryptographic in nature and that it therefore is
+highly regulated. [CLS] [SEP] you are strictly prohibited from exporting, re-exporting or
+importing the product and/or software, regardless of method, without first
+complying with all applicable government use, import, and export laws, rules,
+regulations, and orders, and obtaining any necessary approvals or permits. [CLS] [SEP]
+obtaining any necessary export or import approval for the product is your
+responsibility. [CLS] [SEP]
+
+**7\. [CLS] [SEP] privacy notice**
+
+we may process your personal data in relation to the performance of this
+agreement. [CLS] [SEP] for more information regarding our processing of your personal data
+and your rights in relation thereto, please see our [**_privacy
+notice_**](/support/terms-conditions/privacy-notice/) and [**_cookie
+notice_**](/support/terms-conditions/cookie-notice/). [CLS] [SEP]
+
+**8\. [CLS] [SEP] limitation of liability**
+
+in no event will yubico’s and its affiliates’, and its and their suppliers’,
+distributors’, resellers’ and employees’ total cumulative liability relating
+to this agreement or the use of the product or service exceed the amount paid
+for the product. [CLS] [SEP] in no event will yubico, its affiliates, and its and their
+suppliers, distributors, resellers and employees be liable for damages in
+respect of lost revenue, incidental, punitive, exemplary, indirect, special,
+or consequential damages, even if any of them have been advised of the
+possibility of such damages including, but not limited to, business
+interruption, lost business revenue, lost profits, failure to realize expected
+savings, economic loss, loss of data, loss of business opportunity or any
+claim against user by any other party. [CLS] [SEP] the foregoing limitations will apply
+even if any warranty or remedy provided under this agreement fails of its
+essential purpose. [CLS] [SEP] some jurisdictions do not allow the exclusion or limitation
+of incidental or consequential damages, so the above limitation or exclusion
+may not apply to you. [CLS] [SEP]
+
+**9\. [CLS] [SEP] term and termination**
+
+the term of this agreement shall commence on the date of yubico’s order
+confirmation and shall continue until terminated as set forth below, however,
+our privacy notice and cookie notice may remain in effect even after expiry or
+termination of the agreement. [CLS] [SEP] this agreement shall terminate automatically
+without notice or action by yubico (a) if you breach any material term or
+condition of this agreement; or (b) in the event you become insolvent or makes
+an assignment of this agreement for the benefit of creditors or if any other
+bankruptcy proceedings are commenced by or against you. [CLS] [SEP]
+
+**10\. [CLS] [SEP] changes**
+
+yubico reserves the right at any time and at its own discretion to change the
+terms and conditions of this agreement as it applies to future purchases of
+products. [CLS] [SEP] the privacy notice and cookie notice may be changed from time to
+time in accordance with what is stated therein. [CLS] [SEP]
+
+**11\. [CLS] [SEP] choice of law and venue**
+
+if you are a u.s. [CLS] [SEP] resident that has acquired products as a consumer purchaser,
+exhibit a (“agreement to arbitrate – u.s. [CLS] [SEP] consumer purchaser”) applies. [CLS] [SEP] if you
+are not a u.s. [CLS] [SEP] resident consumer purchaser, this agreement shall be deemed to
+have been made in, and shall be construed pursuant to the laws of: (i) the
+state of california, u.s.a. [CLS] [SEP] if you obtained the products from yubico, inc.;
+and (ii) sweden if you obtained the products from yubico ab. [CLS] [SEP] in either event,
+the choice of law shall be without regard to the conflict of laws provisions
+thereof. [CLS] [SEP] furthermore, both parties consent to the exclusive jurisdiction of
+the federal and state courts located in santa clara county in the state of
+california when california law applies and the courts located in sweden, with
+stockholm district court as the court of first instance, when the laws of
+sweden apply. [CLS] [SEP]
+
+**12\. [CLS] [SEP] other**
+
+the terms and conditions set forth or referenced herein constitute the entire
+understanding and agreement between you and yubico and supersede all prior
+representations and agreements with respect to the subject matter herein. [CLS] [SEP] this
+agreement, including all rights and licenses granted herein, is not
+assignable, transferable or sub-licensable by you and any attempt to do so
+shall be null and void. [CLS] [SEP] any notice, report, approval or consent required or
+permitted hereunder must be in writing. [CLS] [SEP] the waiver by yubico of a breach of
+this agreement shall not constitute a waiver of any subsequent breach of this
+agreement; nor shall any delay by yubico to exercise any right under this
+agreement operate as a waiver of any such right. [CLS] [SEP] if any provision of this
+agreement shall be adjudged by any court of competent jurisdiction to be
+unenforceable or invalid, that provision shall be limited or eliminated to the
+minimum extent necessary so that this agreement shall otherwise remain in full
+force and effect. [CLS] [SEP] the parties agree that a material breach of this agreement
+adversely affecting yubico’s proprietary or intellectual property rights in
+the products, including the software, would cause irreparable injury to yubico
+and its affiliates for which monetary damages would not be an adequate remedy
+and that yubico therefore shall be entitled to preliminary and permanent
+injunctive relief (without the requirement to post a bond) to address such a
+breach, in addition to any other remedies it may have hereunder or at law. [CLS] [SEP] if
+you have any questions regarding this agreement, you may contact yubico on our
+support site at <https://support.yubico.com/support/home>. [CLS] [SEP] if you wish to send
+us a legal notice, please start the subject line of your support request with
+“attention: legal department”. [CLS] [SEP]
+
+exhibit a
+
+**agreement to arbitrate – u.s. [CLS] [SEP] consumer purchaser**. [CLS] [SEP]
+
+**(a) general:**  
+if you are a u.s. [CLS] [SEP] resident that has acquired products as a consumer purchaser,
+you and yubico agree that any dispute, claim or controversy arising out of or
+relating to this agreement or the breach, termination, enforcement,
+interpretation or validity thereof or the use of the software (collectively,
+“disputes”) will be settled by binding arbitration, except that each party
+retains the right: (i) to bring an individual action in small claims court and
+(ii) to seek injunctive or other equitable relief in a court of competent
+jurisdiction to prevent the actual or threatened infringement,
+misappropriation or violation of a party’s copyrights, trademarks, trade
+secrets, patents or other intellectual property rights (the action described
+in the foregoing clause (ii), an “ip protection action”). [CLS] [SEP] without limiting the
+preceding sentence, you will also have the right to litigate any other dispute
+if you provide yubico with written notice of your desire to do so by email to
+legal@yubico.com within 30 days following the date you first purchase or
+obtain the software (such notice, an “arbitration opt-out notice”). [CLS] [SEP] if you
+don’t provide yubico with an arbitration opt-out notice within the 30-day
+period, you will be deemed to have knowingly and intentionally waived your
+right to litigate any dispute except as expressly set forth in clauses (i) and
+(ii) above. [CLS] [SEP] the exclusive jurisdiction and venue of any ip protection action
+or, if you timely provide client with an arbitration opt-out notice, will be
+the state and federal courts located in the northern district of california
+and each of the parties hereto waives any objection to jurisdiction and venue
+in such courts. [CLS] [SEP] unless you timely provide client with an arbitration opt-out
+notice, you acknowledge and agree that you and yubico are each waiving the
+right to a trial by jury or to participate as a plaintiff or class member in
+any purported class action or representative proceeding. [CLS] [SEP] further, unless both
+you and yubico otherwise agree in writing, the arbitrator may not consolidate
+more than one person’s claims and may not otherwise preside over any form of
+any class or representative proceeding. [CLS] [SEP] if this specific paragraph is held
+unenforceable, then the entirety of this section will be deemed void. [CLS] [SEP] except
+as provided in the preceding sentence, this section will survive any
+termination of this agreement. [CLS] [SEP]
+
+**(b) arbitration rules:**  
+the arbitration will be administered by the american arbitration association
+(“aaa”) in accordance with the commercial arbitration rules and the
+supplementary procedures for consumer related disputes (the “aaa rules”) then
+in effect, except as modified by this section. [CLS] [SEP] (the aaa rules are available at
+www.adr.org/rules or by calling the aaa at 1-800-778-7879.) the federal
+arbitration act will govern the interpretation and enforcement of this
+section. [CLS] [SEP]
+
+**(c) arbitration process:**  
+a party who desires to initiate arbitration must provide the other party with
+a written demand for arbitration as specified in the aaa rules. [CLS] [SEP] (the aaa
+provides a general demand for arbitration and a separate demand for
+arbitration for california residents). [CLS] [SEP] the arbitrator will be either a retired
+judge or an attorney licensed to practice law and will be selected by the
+parties from the aaa’s roster of arbitrators. [CLS] [SEP] if the parties are unable to
+agree upon an arbitrator within seven days of delivery of the demand for
+arbitration, then the aaa will appoint the arbitrator in accordance with the
+aaa rules. [CLS] [SEP]
+
+**(d) arbitration location and procedure:**  
+unless you and yubico otherwise agree, the arbitration will be conducted in
+the county where you reside. [CLS] [SEP] if your claim does not exceed $10,000, then the
+arbitration will be conducted solely on the basis of the documents that you
+and yubico submit to the arbitrator, unless you request a hearing or the
+arbitrator determines that a hearing is necessary. [CLS] [SEP] if your claim exceeds
+$10,000, your right to a hearing will be determined by the aaa rules. [CLS] [SEP] subject
+to the aaa rules, the arbitrator will have the discretion to direct a
+reasonable exchange of information by the parties, consistent with the
+expedited nature of the arbitration. [CLS] [SEP]
+
+**(e) arbitrator’s decision:**  
+the arbitrator will render an award within the time frame specified in the aaa
+rules. [CLS] [SEP] the arbitrator’s decision will include the essential findings and
+conclusions upon which the arbitrator based the award. [CLS] [SEP] judgment on the
+arbitration award may be entered in any court having jurisdiction thereof. [CLS] [SEP] the
+arbitrator’s award of damages must be consistent with the terms of section 8
+(“limitation of liability”) as to the types and amounts of damages for which a
+party may be held liable. [CLS] [SEP] the arbitrator may award declaratory or injunctive
+relief only in favor of the claimant and only to the extent necessary to
+provide relief warranted by the claimant’s individual claim. [CLS] [SEP] if you prevail in
+arbitration you will be entitled to an award of attorneys’ fees and expenses,
+to the extent provided under applicable law. [CLS] [SEP] yubico will not seek, and hereby
+waives all rights it may have under applicable law to recover, attorneys’ fees
+and expenses if it prevails in arbitration. [CLS] [SEP]
+
+**(f) fees:**  
+your responsibility to pay any aaa filing, administrative and arbitrator fees
+will be solely as set forth in the aaa rules. [CLS] [SEP] however, if your claim for
+damages does not exceed $75,000, yubico will pay all such fees unless the
+arbitrator finds that either the substance of your claim or the relief sought
+in your demand for arbitration was frivolous or was brought for an improper
+purpose (as measured by the standards set forth in federal rule of civil
+procedure 11(b)). [CLS] [SEP]
+
+![yubico](https://www.yubico.com/wp-content/themes/coronado/img/logo.svg)
+
+[ ](/rss) [ ](https://twitter.com/yubico) [
+](https://www.linkedin.com/company/yubico) [
+](https://www.facebook.com/yubikey) [ ](https://www.instagram.com/yubico) [
+](https://www.youtube.com/c/yubico) [ ](https://www.github.com/yubico)
+
+* * *
+
+  * [find](/quiz)
+    * [product finder quiz](/quiz)
+  * [set up](/setup)
+    * [find set-up guides](https://www.yubico.com/setup/)
+  * [buy](/store)
+    * [buy online](/store)
+
+* * *
+
+  * [why yubico](https://www.yubico.com/why-yubico/)
+  * [products](https://www.yubico.com/products/)
+    * [yubikey 5 series](https://www.yubico.com/products/yubikey-5-overview/)
+    * [yubikey fips series](https://www.yubico.com/products/yubikey-fips/)
+    * [yubihsm](https://www.yubico.com/products/hardware-security-module/)
+    * [security key series](https://www.yubico.com/products/security-key/)
+    * [yubienterprise services](https://www.yubico.com/products/yubienterprise/)
+    * [yubico authenticator](https://www.yubico.com/products/yubico-authenticator/)
+
+  * [solutions to secure your organization](https://www.yubico.com/solutions/)
+    * [remote workers](https://www.yubico.com/solutions/secure-remote-workers-from-cyber-attacks/)
+    * [passwordless](https://www.yubico.com/solutions/passwordless/)
+    * [microsoft ecosystems](https://www.yubico.com/solutions/microsoft-365-mfa/)
+    * [privileged access management](https://www.yubico.com/solutions/privileged-users/)
+    * [mobile restricted environments](https://www.yubico.com/solutions/mobile-restricted-environment/)
+    * [see all](https://www.yubico.com/solutions/)
+
+  * [resources](/resources)
+    * [resource library](https://www.yubico.com/resources/library/)
+    * [cybersecurity glossary](https://www.yubico.com/resources/glossary/)
+    * [authentication standards](https://www.yubico.com/authentication-standards/)
+    * [developer program](https://developers.yubico.com/)
+    * [covid-19 resources](https://www.yubico.com/resources/covid-19-resources/)
+
+  * [company](/about)
+    * [about us](https://www.yubico.com/about/about-us/)
+    * [careers](https://www.yubico.com/careers/)
+    * [affiliate program](https://www.yubico.com/about/affiliate-program/)
+    * [partner with yubico](https://www.yubico.com/partners/)
+    * [press room](https://www.yubico.com/press/)
+
+  * [support](https://support.yubico.com/hc/en-us)
+    * [help](https://support.yubico.com/hc/en-us)
+    * [downloads](https://www.yubico.com/support/download/)
+    * [support services](https://www.yubico.com/support-services/)
+    * [professional services](https://www.yubico.com/support/yubico-for-professional-services/)
+    * [contact support](https://support.yubico.com/hc/en-us/requests/new)
+
+* * *
+
+language
+
+  * english
+    * [français](https://www.yubico.com/?lang=fr)
+    * [deutsch](https://www.yubico.com/?lang=de)
+    * [日本語](https://www.yubico.com/?lang=ja)
+    * [español](https://www.yubico.com/?lang=es)
+    * [svenska](https://www.yubico.com/?lang=sv)
+
+  * [yubico © 2021. [CLS] [SEP] all rights reserved.](/)
+  * [sitemap](/sitemap.xml)
+  * [cookies](https://www.yubico.com/support/terms-conditions/cookie-notice/)
+  * [legal](https://www.yubico.com/support/terms-conditions/)
+  * [privacy](https://www.yubico.com/support/terms-conditions/privacy-notice/)
+  * [terms of use](https://www.yubico.com/support/terms-conditions/yubico-website-terms-conditions/)
+  * [trust](https://www.yubico.com/trust/)
+
+##### yubico cookie consent
+
+in order to give you the best possible experience, this website uses cookies
+to store or access information on your device to help us understand
+performance and personalize your experience when browsing the website. [CLS] [SEP] by
+clicking “accept”, you consent to the use of cookies. [CLS] [SEP] however you may visit
+cookie settings to provide a controlled consent. [CLS] [SEP] [privacy
+policy](https://www.yubico.com/support/terms-conditions/privacy-notice/). [CLS] [SEP]
+
+cookie settingsaccept cookies
+
+yubico privacy and cookies policy
+
+close
+
+#### privacy overview
+
+yubico.com uses cookies to improve your experience while navigating through
+the website. [CLS] [SEP] out of these cookies, the cookies that are categorized as
+necessary are stored on your browser as they are essential for the working of
+basic functionalities of the website. [CLS] [SEP] we also use third-party cookies that
+help us analyze and understand how you use this website. [CLS] [SEP] these cookies will be
+stored in your browser only with your consent. [CLS] [SEP] you also have the option to
+opt-out of these cookies. [CLS] [SEP] but opting out of some of these cookies may have an
+effect on your browsing experience. [CLS] [SEP]
+
+necessary
+
+necessary
+
+always enabled
+
+necessary cookies are absolutely essential for the website to function
+properly. [CLS] [SEP] this category only includes cookies that ensures basic
+functionalities and security features of the website. [CLS] [SEP] these cookies do not
+store any personal information. [CLS] [SEP]
+
+non necessary
+
+non-necessary
+
+any cookies that may not be particularly necessary for the website to function
+and is used specifically to collect user personal data via analytics, ads,
+other embedded contents are termed as non-necessary cookies. [CLS] [SEP] it is mandatory
+to procure user consent prior to running these cookies on your website. [CLS] [SEP]
+
+uncategorized
+
+uncategorized
+
+undefined cookies are those that are being analyzed and have not been
+classified into a category as yet. [CLS] [SEP]
+
+analytics
+
+analytics
+
+analytical cookies are used to understand how visitors interact with the
+website. [CLS] [SEP] these cookies help provide information on metrics the number of
+visitors, bounce rate, traffic source, etc. [CLS] [SEP]
+
+advertisement
+
+advertisement
+
+advertisement cookies are used to provide visitors with relevant ads and
+marketing campaigns. [CLS] [SEP] these cookies track visitors across websites and collect
+information to provide customized ads. [CLS] [SEP]
+
+performance
+
+performance
+
+performance cookies are used to understand and analyze the key performance
+indexes of the website which helps in delivering a better user experience for
+the visitors. [CLS] [SEP]
+
+preferences
+
+preferences
+
+preference cookies are used to store user preferences to provide content that
+is customized and convenient for the users, like the language of the website
+or the location of the visitor. [CLS] [SEP]
+
+functional
+
+functional
+
+functional cookies help to perform certain functionalities like sharing the
+content of the website on social media platforms, collect feedbacks, and other
+third-party features. [CLS] [SEP]
+

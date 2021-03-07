@@ -1,0 +1,615 @@
+[ stack overflow ](https://stackoverflow.com)
+
+  1. [CLS] [SEP] [about](/company)
+  2. [CLS] [SEP] products 
+  3. [CLS] [SEP] [for teams](/teams)
+
+  1. [CLS] [SEP] [ stack overflow public questions & answers ](/questions)
+  2. [CLS] [SEP] [ stack overflow for teams where developers & technologists share private knowledge with coworkers ](/teams)
+  3. [CLS] [SEP] [ jobs programming & related technical career opportunities ](/jobs?so_source=productsmenu&so_medium=stackoverflow)
+  4. [CLS] [SEP] [ talent recruit tech talent & build your employer brand ](https://stackoverflow.com/talent)
+  5. [CLS] [SEP] [ advertising reach developers & technologists worldwide ](https://stackoverflow.com/advertising)
+  6. [CLS] [SEP] [about the company](/company)
+
+loading…
+
+  1. [CLS] [SEP]   2. [CLS] [SEP] [log in](https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2flegal%2fcookie-policy) [sign up](https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2fusers%2fstory%2fcurrent)
+  3. [CLS] [SEP] ###  [current community](https://stackoverflow.com)
+
+    * [ stack overflow  ](https://stackoverflow.com)
+
+[help](https://stackoverflow.com/help)
+[chat](https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com)
+
+    * [ meta stack overflow  ](https://meta.stackoverflow.com)
+
+###  your communities
+
+[sign
+up](https://stackoverflow.com/users/signup?ssrc=site_switcher&returnurl=%2fusers%2fstory%2fcurrent)
+or [log
+in](https://stackoverflow.com/users/login?ssrc=site_switcher&returnurl=https%3a%2f%2fstackoverflow.com%2flegal%2fcookie-
+policy) to customize your list. [CLS] [SEP]
+
+### [more stack exchange communities](https://stackexchange.com/sites)
+
+[company blog](https://stackoverflow.blog)
+
+  1. [CLS] [SEP] [ home  ](/)
+  2. [CLS] [SEP]     1. [CLS] [SEP] public
+    2. [CLS] [SEP] [ stack overflow ](/questions)
+    3. [CLS] [SEP] [ tags  ](/tags)
+    4. [CLS] [SEP] [ users  ](/users)
+    5. [CLS] [SEP] find a job
+    6. [CLS] [SEP] [ jobs  ](/jobs?so_medium=stackoverflow&so_source=sitenav)
+    7. [CLS] [SEP] [ companies  ](/jobs/companies?so_medium=stackoverflow&so_source=sitenav)
+  3. [CLS] [SEP]     1. [CLS] [SEP] teams
+
+[ what's this? ](javascript:void\(0\))
+
+    2. [CLS] [SEP] [ create a team  ](https://stackoverflow.com/teams/create "stack overflow for teams is a private, secure spot for your organization's questions and answers.")
+
+**teams**
+
+q&a for work
+
+connect and share knowledge within a single location that is structured and
+easy to search. [CLS] [SEP]
+
+[ learn more ](https://stackoverflow.com/teams)
+
+  * [public network terms of service](/legal/terms-of-service/public)
+  * [stack overflow for teams terms of service](/legal/terms-of-service/teams)
+  * [stack overflow for teams on premise enterprise terms of service](/legal/terms-of-service/on-prem)
+    * [support services & sla for on-premises deployment](/legal/terms-of-service/on-prem/support)
+    * [deployment services for on-premises instances](/legal/terms-of-service/on-prem/deployment)
+  * [stack overflow business terms of service](/legal/terms-of-service/business)
+  * [api terms of use](/legal/api-terms-of-use)
+  * [privacy policy](/legal/privacy-policy)
+    * [public network](/legal/privacy-policy/public-network)
+    * [talent](/legal/privacy-policy/talent)
+    * [teams, basic](/legal/privacy-policy/teams-basic)
+    * [teams, business](/legal/privacy-policy/teams-business)
+    * [teams, enterprise](/legal/privacy-policy/teams-enterprise)
+    * [integrations](/legal/privacy-policy/integrations)
+      * [microsoft teams - teams, basic & business](/legal/privacy-policy/integrations/ms-teams/teams-basic-business)
+      * [microsoft teams - teams, enterprise](/legal/privacy-policy/integrations/ms-teams/teams-enterprise)
+      * [slack - teams, basic & business](/legal/privacy-policy/integrations/slack/teams-basic-business)
+      * [slack - teams, enterprise](/legal/privacy-policy/integrations/slack/teams-enterprise)
+      * [jira - teams, business](/legal/privacy-policy/integrations/jira/teams-business)
+      * [jira - teams, enterprise](/legal/privacy-policy/integrations/jira/teams-enterprise)
+  * [general data protection regulation (gdpr)](/legal/gdpr)
+    * [gdpr subprocessors](/legal/gdpr/subprocessors)
+  * [cookie policy](/legal/cookie-policy)
+  * [acceptable use policy](/legal/acceptable-use-policy)
+  * [trademark guidance](/legal/trademark-guidance)
+  * [contact](/legal/contact)
+
+## stack exchange cookie policy
+
+updated 04 february 2021
+
+please read this cookie policy carefully as it contains important information
+on who we are and how we use cookies on our website. [CLS] [SEP] this policy should be
+read together with our [privacy
+policy](https://stackoverflow.com/legal/privacy-policy) which sets out how and
+why we collect, store, use and share personal information generally, as well
+as your rights in relation to your personal information and details of how to
+contact us and supervisory authorities if you have a complaint. [CLS] [SEP]
+
+who we are?
+
+this website is operated by the stack exchange network (also referred to
+herein as “stack overflow”, “stack exchange”, or “network”). [CLS] [SEP] stack overflow is
+a set of related internet sites and other applications for questions and
+answers, owned and operated by stack exchange, inc. [CLS] [SEP] (“stack overflow”, “we” or
+“us”), a delaware corporation. [CLS] [SEP]
+
+our website
+
+this cookie policy only relates to your use of our websites, apps and services
+listed below:
+
+askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com,
+stackexchange.com, stackoverflow.com, stackoverflow.blog,
+stackoverflowsolutions.com, superuser.com. [CLS] [SEP]
+
+throughout our websites we may link to other websites owned and operated by
+certain trusted third parties to service advertisements or provide analytical
+services. [CLS] [SEP] these other third party websites may also use cookies or similar
+technologies in accordance with their own separate policies. [CLS] [SEP] for privacy
+information relating to these other third party websites, please consult their
+policies as appropriate. [CLS] [SEP]
+
+cookies
+
+a cookie is a small text file that our sites store on your computer or mobile
+device when you visit our websites. [CLS] [SEP] our websites, apps and other services
+(“sites”), send this data to your browser when you first request a web page
+and then store the data on your computer or other device so the website or app
+can access, store or collect information from your device when you first
+request a web page. [CLS] [SEP] browsers support cookies and similar technologies (such as
+local storage and pixels) so that our websites can remember information about
+your visit and can use the information to improve your experience and to
+create aggregated anonymized statistics about usage of the site. [CLS] [SEP] in this
+policy, we use the term “cookie” to refer both to cookies and similar
+technologies. [CLS] [SEP]
+
+cookies may be set by the site you are visiting (“first-party cookies”) or by
+a third party, such as those who provide analytics or advertising services or
+interactive content on the site (“third-party cookies”). [CLS] [SEP] in addition to using
+cookies on our sites, we may also serve our cookies (specifically, our
+advertising pixel) on third-party sites operated by our advertisers who use
+our advertising platform. [CLS] [SEP]
+
+if you use the stack overflow network, both stack overflow and third parties
+will use cookies to track and monitor some of your activities on and off the
+stack overflow network, and store and access some data about you, your
+browsing history, and your usage of the stack overflow network. [CLS] [SEP]
+
+third party cookies
+
+our third party partners and other organizations that sponsor pages on stack
+overflow may use cookies or other technologies to learn more about your
+interest in their products and services and in some cases to tailor such
+products and services to you. [CLS] [SEP]
+
+third-party cookies: our services also include cookies from third parties that
+we partner with or which provide services us. [CLS] [SEP] these include third party
+companies that work with us or with advertisers who advertise on the stack
+exchange network in order to help target ads or measure the results of an
+advertising campaign. [CLS] [SEP]
+
+for further information on cookies generally, including how to control and
+manage them, visit the guidance on cookies published by the uk information
+commissioner’s office, <https://www.aboutcookies.org> or
+<https://www.allaboutcookies.org>. [CLS] [SEP]
+
+categories of cookies
+
+strictly necessary
+
+these cookies are necessary for our website to function properly and cannot be
+switched off in our systems. [CLS] [SEP] they are usually only set in response to actions
+made by you which amount to a request for services, such as setting your
+privacy preferences, logging in or filling in forms or where they're essential
+to provide you with a service you have requested. [CLS] [SEP] you cannot opt-out of these
+cookies. [CLS] [SEP] you can set your browser to block or alert you about these cookies,
+but if you do, some parts of the site will not then work. [CLS] [SEP] these cookies do not
+store any personally identifiable information. [CLS] [SEP]
+
+domain | cookies | used as  
+---|---|---  
+stackoverflow.email |  iterableemailcampaignid, iterableenduserid,
+iterablemessageid, iterabletemplateid  | 1st party  
+askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com,
+stackexchange.com, stackoverflow.com, stackoverflow.blog,
+stackoverflowsolutions.com, superuser.com |  _ga, _gat,
+_gat_xxxxxxxxxxxxxxxxxxxxxxxxxx, _gid, acct, csouser, drafts, fkey, flash-
+message-json, have_a_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-
+alert-verified-email, job-visitor-survey-dismissed, jquery-fallback,
+mobilesearchaccordion, no-responsiveness, optanonalertboxclosed,
+optanonconsent, optimizelyenduserid, optimizelyppid, prov, sgt, theme, uauth,
+usr  | 1st party  
+stackexchange.com |  mc, rawr  | 1st party  
+imgur.com |  __cfduid  | 3rd party  
+stacksnippets.net |  intercom-id-inf0secd, intercom-session-inf0secd  | 3rd
+party  
+google.com |  __secure-3papisid, __secure-3psid, __secure-apisid, __secure-
+hsid, __secure-ssid, 1p_jar, apisid, hsid, nid, sapisid, sid, sidcc, ssid  |
+3rd party  
+intercom.com |  gtm_id  | 3rd party  
+  
+additionally, some strictly necessary cookies are dynamically generated based
+on unique identifiers. [CLS] [SEP] these cookies are:
+
+domain | cookies | used as  
+---|---|---  
+askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com,
+stackexchange.com, stackoverflow.com, stackoverflow.blog,
+stackoverflowsolutions.com, superuser.com  |  {site}usr, {site}user,
+authmethodbanner-dismissed-{id}, notice-{name}, p{postid}, rk-{postid}  | 1st
+party  
+  
+optional cookies
+
+we will ask for your permission to place the cookies listed below on your
+device, but if you opt out of them, some functions may not work properly. [CLS] [SEP] we
+will only use these cookies with your permission when you accept our use of
+the cookies. [CLS] [SEP] these are explained in more detail below. [CLS] [SEP]
+
+performance cookies
+
+these cookies allow us to count visits and traffic sources so we can measure
+and improve the performance of our site. [CLS] [SEP] they help us to know which pages are
+the most and least popular and see how visitors move around the site, which
+helps us optimize your experience. [CLS] [SEP] all information these cookies collect is
+aggregated and therefore anonymous. [CLS] [SEP] if you do not allow these cookies we will
+not be able to use your data in this way. [CLS] [SEP]
+
+domain | cookies | used as  
+---|---|---  
+askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com,
+stackexchange.com, stackoverflow.com, stackoverflow.blog,
+stackoverflowsolutions.com, superuser.com |  __qca, _ym_d, _ym_isad, _ym_uid,
+referral  | 1st party  
+mc.yandex.com |  sync_cookie_csrf, sync_cookie_ok  | 3rd party  
+quantserve.com |  mc  | 3rd party  
+  
+functional cookies
+
+these cookies enable the website to provide enhanced functionality and
+personalization. [CLS] [SEP] they may be set by us or by third party providers whose
+services we have added to our pages. [CLS] [SEP] if you do not allow these cookies then
+some or all of these services may not function properly. [CLS] [SEP]
+
+domain | cookies | used as  
+---|---|---  
+askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com,
+stackexchange.com, stackoverflow.com, stackoverflow.blog,
+stackoverflowsolutions.com, superuser.com |  mfnes  | 1st party  
+github.com |  _gh_sess, _octo, logged_in  | 3rd party  
+  
+targeting cookies
+
+these cookies may be set through our site by our advertising partners. [CLS] [SEP] they
+may be used by those companies to build a profile of your interests and show
+you relevant adverts on other sites. [CLS] [SEP] they do not store directly personal
+information but are based on uniquely identifying your browser and internet
+device. [CLS] [SEP] if you do not allow these cookies, you will experience less targeted
+advertising. [CLS] [SEP]
+
+domain | cookies | used as  
+---|---|---  
+askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com,
+stackexchange.com, stackoverflow.com, stackoverflow.blog,
+stackoverflowsolutions.com, superuser.com |  __gads, _dlt,
+googleadservingtest, urr  | 1st party  
+youtube.com |  gps, visitor_info1_live, ysc  | 3rd party  
+linkedin.com |  bcookie, lang, li_gc, lidc, lissc, usermatchhistory  | 3rd
+party  
+mathtag.com |  uuid  | 3rd party  
+doubleclick.net |  ide, test_cookie  | 3rd party  
+ads.linkedin.com |  lang  | 3rd party  
+scorecardresearch.com |  uid, uidr  | 3rd party  
+www.linkedin.com |  bscookie, jsessionid  | 3rd party  
+facebook.com |  fr  | 3rd party  
+yahoo.com |  a3  | 3rd party  
+www.facebook.com |  | 3rd party  
+  
+you can withdraw any consent to the use of cookies or manage any other cookie
+preferences by visiting our cookie settings or clicking on the bottom of every
+page of our websites. [CLS] [SEP] you can then toggle on or off the buttons as
+appropriate. [CLS] [SEP] it may be necessary to refresh the page for the updated settings
+to be displayed. [CLS] [SEP]
+
+our use of cookies
+
+third party access to the cookies
+
+our third party partners and other organizations that sponsor pages on stack
+overflow may use cookies or other technologies to learn more about your
+interest in their products and services and in some cases to tailor such
+products and services to you. [CLS] [SEP]
+
+third-party cookies: our services also include cookies from third parties that
+we partner with directly or indirectly. [CLS] [SEP] many of these third parties are
+companies that work with us or with advertisers who advertise on the stack
+exchange network in order to help target ads or measure the results of an
+advertising campaign. [CLS] [SEP]
+
+more information about the cookies we use
+
+general browsing: we use cookies that are important for certain technical
+features of our website, like logging into user accounts and implementing
+fixes and improvements to our platform. [CLS] [SEP]
+
+these cookies:
+
+  * enable behavior in our products and/or services that is tailored to the activity or preferences of a person visiting our properties 
+  * allow users to opt out of certain types of modeling, tailoring, or personalization in our products 
+  * collect information on our users’ preferences in order to create more useful products 
+  * maintain the regular business operations of our advertising and marketing departments (such as one-time pop-ups or “hero” displays when first visiting a site and to collect impressions and click data) 
+  * help to diagnose and correct downtime, bugs, and errors in our code to ensure that our products are operating efficiently 
+
+public q&a; platform: we use cookies that support and enhance our public q&a;
+platform by enabling important functionality. [CLS] [SEP] such activity includes tracking
+and attributing reputation and badges based on site activity. [CLS] [SEP]
+
+these cookies:
+
+  * validate the authenticity of persons attempting to gain access to a specific user account 
+  * enable the core platform of community-generated questions and answers, including diagnosing and resolving issues within our q&a; platform 
+  * identify individual users to attribute activities and awards 
+  * allow you to create an optional, résumé-like listing of user achievements and employment history, comparable to a resume, which users can reference when applying for new jobs through our talent platform or externally 
+
+talent platform: we use cookies to run our talent platform, allowing
+prospective employers to recruit for open positions and users to view and
+apply for those positions. [CLS] [SEP]
+
+these cookies:
+
+  * validate the authenticity of persons attempting to gain access to a specific user account 
+  * help us to comply with legal requirements in recruitment and hiring 
+  * provide a means of contact for talent employers (including opting out of the talent candidate listings) 
+  * allow employers to target specific users (via searches and marketing efforts) who are likely to qualify for a given position 
+  * allow users to save searches in order to more quickly identify newly listed jobs 
+  * create a channel of direct communication between our support staff and users who request assistance 
+  * support integration of job applications and listings from our platform to third-party applicant tracking systems (ats). [CLS] [SEP] 
+
+stack overflow teams: we use cookies for our teams platform, enabling groups
+to access our secured, private q&a; solution. [CLS] [SEP]
+
+these cookies:
+
+  * validate the identity of authorized persons and accounts to gain access to a specific team or company account 
+  * enable the core platform of team-generated questions and answers, including diagnosing and resolving issues within our teams q&a; platform 
+  * identify individual users to attribute activities and awards 
+
+advertising: we use cookies to enable advertising with our third-party
+partners, which in turn allows us to provide many of our services free of
+charge. [CLS] [SEP]
+
+these cookies:
+
+  * customize the ad experience for our users, including tailoring job and display ads to the technologies a person has previously looked at, the communities a person has visited, and the job ads a person has already seen 
+  * allow direct communication between a 3rd party partner who hosts a promotional event with us, and users who have opted into the promotion 
+  * allow us to track when a stack overflow user sees or clicks on an ad or later visits a third-party website or purchases a product on a third-party website 
+  * collect impressions and click data for internal reporting and product optimization 
+
+analytics: we use cookies to compile usage activity in order to better cater
+our products and services offerings to you, and to third parties. [CLS] [SEP] we do not
+share identifiable “raw” data with our clients or any third parties, however
+we do make high-level decisions based on aggregated data about your usage of
+our products and services. [CLS] [SEP]
+
+these cookies:
+
+  * monitor site traffic and behavior flows of users 
+  * measure the effectiveness of on-site products 
+  * measure the effectiveness of off-site marketing campaigns and tactics 
+
+how to turn off all cookies and consequences of doing so
+
+if you do not want to accept any cookies, you may be able to change your
+browser settings so that cookies (including those which are essential to the
+services requested) are not accepted. [CLS] [SEP] if you do this, please be aware that you
+may lose some of the functionality of our website. [CLS] [SEP]
+
+for further information about cookies and how to disable them please go
+[www.aboutcookies.org](https://www.aboutcookies.org) or
+[www.allaboutcookies.org](https://www.allaboutcookies.org). [CLS] [SEP]
+
+your browser settings
+
+your browser includes controls that allow you to manage the use of cookies by
+the sites that you visit. [CLS] [SEP] most browsers have features that enable you to see
+and delete cookies stored on your device and to block cookies from all or
+selected sites. [CLS] [SEP]
+
+your browser may be initially set to accept cookies, but you can change your
+settings to notify you when a cookie is being set or updated, or to block
+cookies altogether. [CLS] [SEP]
+
+please note that by blocking any or all cookies you may not have access to
+certain features, content, or personalization available through the website. [CLS] [SEP]
+
+please check the “help” section of your browser for more information. [CLS] [SEP] you can
+also click on the links below for more information from external help
+materials for some of the popular browsers:
+
+  * [mozilla firefox](https://www.mozilla.org/firefox/new/)
+  * [apple safari](https://www.apple.com/safari/)
+  * [google chrome](https://www.google.com/chrome/)
+  * [microsoft edge](https://www.microsoft.com/edge)
+
+your mobile device settings
+
+your mobile device may also include browser settings that allow you to manage
+the use of cookies, especially if the device supports installing apps such as
+ios and android devices. [CLS] [SEP] ios and android devices also include additional
+device settings that control whether advertising partners can use information
+about your app activity for advertising purposes. [CLS] [SEP] on ios, you can search for a
+setting called _limit ad tracking_. [CLS] [SEP] on android, you can search for a setting
+called _opt out of ads personalization_. [CLS] [SEP]
+
+third-party opt-outs
+
+the major online advertising industry groups offer tools to limit how cookies
+are used for advertising purposes by participating third parties. [CLS] [SEP] more
+information is available on these sites from the [network advertising
+initiative](https://optout.networkadvertising.org/), the [digital advertising
+alliance](https://optout.aboutads.info/), and for users in the eu, the
+[european interactive digital advertising
+alliance](https://www.youronlinechoices.com/). [CLS] [SEP] also, google provides web users
+with the [google analytics opt-out browser add-
+on](https://tools.google.com/dlpage/gaoptout) to prevent the collection of
+data via google analytics. [CLS] [SEP]
+
+how to contact us
+
+if you have any questions, comments, or concerns regarding this cookies
+policy, please contact stack overflow at:
+
+[privacy@stackoverflow.com](mailto:privacy@stackoverflow.com)
+
+changes to this policy
+
+we may change this policy from time to time, when we do we will inform you by
+publishing it on our websites. [CLS] [SEP]
+
+[](https://stackoverflow.com)
+
+##### [stack overflow](https://stackoverflow.com)
+
+  * [questions](/questions)
+  * [jobs](https://stackoverflow.com/jobs)
+  * [developer jobs directory](https://stackoverflow.com/jobs/directory/developer-jobs)
+  * [salary calculator](https://stackoverflow.com/jobs/salary)
+  * [help](/help)
+  * mobile
+
+##### [products](https://stackoverflowbusiness.com)
+
+  * [teams](https://stackoverflow.com/teams)
+  * [talent](https://stackoverflow.com/talent)
+  * [advertising](https://stackoverflow.com/advertising)
+  * [enterprise](https://stackoverflow.com/enterprise)
+
+##### [company](https://stackoverflow.com/company)
+
+  * [about](https://stackoverflow.com/company)
+  * [press](https://stackoverflow.com/company/press)
+  * [work here](https://stackoverflow.com/company/work-here)
+  * [legal](https://stackoverflow.com/legal)
+  * [privacy policy](https://stackoverflow.com/legal/privacy-policy)
+  * [terms of service](https://stackoverflow.com/legal/terms-of-service)
+  * [contact us](https://stackoverflow.com/company/contact)
+
+##### [stack exchange  
+network](https://stackexchange.com)
+
+  * technology
+  * life / arts
+  * culture / recreation
+  * science
+  * other
+
+  * [stack overflow](https://stackoverflow.com "professional and enthusiast programmers")
+  * [server fault](https://serverfault.com "system and network administrators")
+  * [super user](https://superuser.com "computer enthusiasts and power users")
+  * [web applications](https://webapps.stackexchange.com "power users of web applications")
+  * [ask ubuntu](https://askubuntu.com "ubuntu users and developers")
+  * [webmasters](https://webmasters.stackexchange.com "pro webmasters")
+  * [game development](https://gamedev.stackexchange.com "professional and independent game developers")
+
+  * [tex - latex](https://tex.stackexchange.com "users of tex, latex, context, and related typesetting systems")
+  * [software engineering](https://softwareengineering.stackexchange.com "professionals, academics, and students working within the systems development life cycle")
+  * [unix & linux](https://unix.stackexchange.com "users of linux, freebsd and other un*x-like operating systems")
+  * [ask different (apple)](https://apple.stackexchange.com "power users of apple hardware and software")
+  * [wordpress development](https://wordpress.stackexchange.com "wordpress developers and administrators")
+  * [geographic information systems](https://gis.stackexchange.com "cartographers, geographers and gis professionals")
+  * [electrical engineering](https://electronics.stackexchange.com "electronics and electrical engineering professionals, students, and enthusiasts")
+
+  * [android enthusiasts](https://android.stackexchange.com "enthusiasts and power users of the android operating system")
+  * [information security](https://security.stackexchange.com "information security professionals")
+  * [database administrators](https://dba.stackexchange.com "database professionals who wish to improve their database skills and learn from others in the community")
+  * [drupal answers](https://drupal.stackexchange.com "drupal developers and administrators")
+  * [sharepoint](https://sharepoint.stackexchange.com "sharepoint enthusiasts")
+  * [user experience](https://ux.stackexchange.com "user experience researchers and experts")
+  * [mathematica](https://mathematica.stackexchange.com "users of wolfram mathematica")
+
+  * [salesforce](https://salesforce.stackexchange.com "salesforce administrators, implementation experts, developers and anybody in-between")
+  * [expressionengine® answers](https://expressionengine.stackexchange.com "administrators, end users, developers and designers for expressionengine® cms")
+  * [stack overflow em portugues](https://pt.stackoverflow.com "programadores profissionais e entusiastas")
+  * [blender](https://blender.stackexchange.com "people who use blender to create 3d graphics, animations, or games")
+  * [network engineering](https://networkengineering.stackexchange.com "network engineers")
+  * [cryptography](https://crypto.stackexchange.com "software developers, mathematicians and others interested in cryptography")
+  * [code review](https://codereview.stackexchange.com "peer programmer code reviews")
+
+  * [magento](https://magento.stackexchange.com "users of the magento e-commerce platform")
+  * [software recommendations](https://softwarerecs.stackexchange.com "people seeking specific software recommendations")
+  * [signal processing](https://dsp.stackexchange.com "practitioners of the art and science of signal, image and video processing")
+  * [emacs](https://emacs.stackexchange.com "those using, extending or developing emacs")
+  * [raspberry pi](https://raspberrypi.stackexchange.com "users and developers of hardware and software for raspberry pi")
+  * [stack overflow на русском](https://ru.stackoverflow.com "программистов")
+  * [code golf](https://codegolf.stackexchange.com "programming puzzle enthusiasts and code golfers")
+
+  * [stack overflow en español](https://es.stackoverflow.com "programadores y profesionales de la informática")
+  * [ethereum](https://ethereum.stackexchange.com "users of ethereum, the decentralized application platform and smart contract enabled blockchain")
+  * [data science](https://datascience.stackexchange.com "data science professionals, machine learning specialists, and those interested in learning more about the field")
+  * [arduino](https://arduino.stackexchange.com "developers of open-source hardware and software that is compatible with arduino")
+  * [bitcoin](https://bitcoin.stackexchange.com "bitcoin crypto-currency enthusiasts")
+  * [software quality assurance & testing](https://sqa.stackexchange.com "software quality control experts, automation engineers, and software testers")
+  * [sound design](https://sound.stackexchange.com "sound engineers, producers, editors, and enthusiasts")
+
+  * [windows phone](https://windowsphone.stackexchange.com "enthusiasts and power users of windows phone os")
+  * [ **more (28)** ](https://stackexchange.com/sites#technology)
+
+  * [photography](https://photo.stackexchange.com "professional, enthusiast and amateur photographers")
+  * [science fiction & fantasy](https://scifi.stackexchange.com "science fiction and fantasy enthusiasts")
+  * [graphic design](https://graphicdesign.stackexchange.com "graphic design professionals, students, and enthusiasts")
+  * [movies & tv](https://movies.stackexchange.com "movie and tv enthusiasts")
+  * [music: practice & theory](https://music.stackexchange.com "musicians, students, and enthusiasts")
+  * [worldbuilding](https://worldbuilding.stackexchange.com "writers/artists using science, geography and culture to construct imaginary worlds and settings")
+  * [video production](https://video.stackexchange.com "engineers, producers, editors, and enthusiasts spanning the fields of video, and media creation")
+
+  * [seasoned advice (cooking)](https://cooking.stackexchange.com "professional and amateur chefs")
+  * [home improvement](https://diy.stackexchange.com "contractors and serious diyers")
+  * [personal finance & money](https://money.stackexchange.com "people who want to be financially literate")
+  * [academia](https://academia.stackexchange.com "academics and those enrolled in higher education")
+  * [law](https://law.stackexchange.com "legal professionals, students, and others with experience or interest in law")
+  * [physical fitness](https://fitness.stackexchange.com "physical fitness professionals, athletes, trainers, and those providing health-related needs")
+  * [gardening & landscaping](https://gardening.stackexchange.com "gardeners and landscapers")
+
+  * [parenting](https://parenting.stackexchange.com "parents, grandparents, nannies and others with a parenting role")
+  * [ **more (10)** ](https://stackexchange.com/sites#lifearts)
+
+  * [english language & usage](https://english.stackexchange.com "linguists, etymologists, and serious english language enthusiasts")
+  * [skeptics](https://skeptics.stackexchange.com "scientific skepticism")
+  * [mi yodeya (judaism)](https://judaism.stackexchange.com "those who base their lives on jewish law and tradition and anyone interested in learning more")
+  * [travel](https://travel.stackexchange.com "road warriors and seasoned travelers")
+  * [christianity](https://christianity.stackexchange.com "committed christians, experts in christianity and those interested in learning more")
+  * [english language learners](https://ell.stackexchange.com "speakers of other languages learning english")
+  * [japanese language](https://japanese.stackexchange.com "students, teachers, and linguists wanting to discuss the finer points of the japanese language")
+
+  * [chinese language](https://chinese.stackexchange.com "students, teachers, and linguists wanting to discuss the finer points of the chinese language")
+  * [french language](https://french.stackexchange.com "students, teachers, and linguists wanting to discuss the finer points of the french language")
+  * [german language](https://german.stackexchange.com "speakers of german wanting to discuss the finer points of the language and translation")
+  * [biblical hermeneutics](https://hermeneutics.stackexchange.com "professors, theologians, and those interested in exegetical analysis of biblical texts")
+  * [history](https://history.stackexchange.com "historians and history buffs")
+  * [spanish language](https://spanish.stackexchange.com "linguists, teachers, students and spanish language enthusiasts in general wanting to discuss the finer points of the language")
+  * [islam](https://islam.stackexchange.com "muslims, experts in islam, and those interested in learning more about islam")
+
+  * [русский язык](https://rus.stackexchange.com "лингвистов и энтузиастов русского языка")
+  * [russian language](https://russian.stackexchange.com "students, teachers, and linguists wanting to discuss the finer points of the russian language")
+  * [arqade (gaming)](https://gaming.stackexchange.com "passionate videogamers on all platforms")
+  * [bicycles](https://bicycles.stackexchange.com "people who build and repair bicycles, people who train cycling, or commute on bicycles")
+  * [role-playing games](https://rpg.stackexchange.com "gamemasters and players of tabletop, paper-and-pencil role-playing games")
+  * [anime & manga](https://anime.stackexchange.com "anime and manga fans")
+  * [puzzling](https://puzzling.stackexchange.com "those who create, solve, and study puzzles")
+
+  * [motor vehicle maintenance & repair](https://mechanics.stackexchange.com "mechanics and diy enthusiast owners of cars, trucks, and motorcycles")
+  * [board & card games](https://boardgames.stackexchange.com "people who like playing board games, designing board games or modifying the rules of existing board games")
+  * [bricks](https://bricks.stackexchange.com "lego® and building block enthusiasts")
+  * [homebrewing](https://homebrew.stackexchange.com "dedicated home brewers and serious enthusiasts")
+  * [martial arts](https://martialarts.stackexchange.com "students and teachers of all martial arts")
+  * [the great outdoors](https://outdoors.stackexchange.com "people who love being outdoors enjoying nature and wilderness, and learning about the required skills and equipment")
+  * [poker](https://poker.stackexchange.com "serious players and enthusiasts of poker")
+
+  * [chess](https://chess.stackexchange.com "serious players and enthusiasts of chess")
+  * [sports](https://sports.stackexchange.com "participants in team and individual sport activities")
+  * [ **more (16)** ](https://stackexchange.com/sites#culturerecreation)
+
+  * [mathoverflow](https://mathoverflow.net "professional mathematicians")
+  * [mathematics](https://math.stackexchange.com "people studying math at any level and professionals in related fields")
+  * [cross validated (stats)](https://stats.stackexchange.com "people interested in statistics, machine learning, data analysis, data mining, and data visualization")
+  * [theoretical computer science](https://cstheory.stackexchange.com "theoretical computer scientists and researchers in related fields")
+  * [physics](https://physics.stackexchange.com "active researchers, academics and students of physics")
+  * [chemistry](https://chemistry.stackexchange.com "scientists, academics, teachers, and students in the field of chemistry")
+  * [biology](https://biology.stackexchange.com "biology researchers, academics, and students")
+
+  * [computer science](https://cs.stackexchange.com "students, researchers and practitioners of computer science")
+  * [philosophy](https://philosophy.stackexchange.com "those interested in the study of the fundamental nature of knowledge, reality, and existence")
+  * [linguistics](https://linguistics.stackexchange.com "professional linguists and others with an interest in linguistic research and theory")
+  * [psychology & neuroscience](https://psychology.stackexchange.com "practitioners, researchers, and students in cognitive science, psychology, neuroscience, and psychiatry")
+  * [computational science](https://scicomp.stackexchange.com "scientists using computers to solve scientific problems")
+  * [ **more (10)** ](https://stackexchange.com/sites#science)
+
+  * [meta stack exchange](https://meta.stackexchange.com "meta-discussion of the stack exchange family of q&a websites")
+  * [stack apps](https://stackapps.com "apps, scripts, and development with the stack exchange api")
+  * [api](https://api.stackexchange.com "programmatic interaction with stack exchange sites")
+  * [data](https://data.stackexchange.com "querying stack exchange data using sql")
+
+  * [blog](https://stackoverflow.blog?blb=1)
+  * [facebook](https://www.facebook.com/officialstackoverflow/)
+  * [twitter](https://twitter.com/stackoverflow)
+  * [linkedin](https://linkedin.com/company/stack-overflow)
+  * [instagram](https://www.instagram.com/thestackoverflow)
+
+site design / logo (c) 2021 stack exchange inc; user contributions licensed
+under [cc by-sa](https://stackoverflow.com/help/licensing). [CLS] [SEP] rev 2021.3.5.38726
+
+stack overflow works best with javascript enabled
+![](https://pixel.quantserve.com/pixel/p-c1rf4kxgluznc.gif)
+

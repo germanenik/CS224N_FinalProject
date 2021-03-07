@@ -1,0 +1,372 @@
+[ ![runalyze - data analysis for
+athletes](https://c2.runalyze.com/assets/images/runalyze-swoosh.png)
+](https://runalyze.com/)
+
+  * [features](https://runalyze.com/start)
+  * [pricing](https://runalyze.com/pricing)
+
+  * [sign in](https://runalyze.com/login)
+  * [register](https://runalyze.com/register)
+
+[terms of service](/en/legal/tos) | privacy policy | [legal
+notice](/en/legal/notice)
+
+# statement of privacy
+
+version: 18.01.2017
+
+[deutsche version](/de/legal/privacy)
+
+## scope
+
+**responsible body within the meaning of data protection laws, in particular
+the eu basic data protection regulation (gdpr)**  
+michael pohl (on behalf of runalyze)  
+eichhofstraße 44  
+24116 kiel  
+michael@runalyze.com  
++49 152 29646132  
+  
+**additional contact person**  
+hannes christansen  
+hochstr. [CLS] [SEP] 11  
+67700 niederkirchen  
+hannes@runalyze.com
+
+we take the protection of your personal data very seriously and strictly
+adhere to the rules of data protection laws. [CLS] [SEP] personal data is collected on
+this blog and in runalyze only to the extent necessary for technical and
+application purposes. [CLS] [SEP] under no circumstances will the collected data be sold
+or passed on to third parties. [CLS] [SEP]
+
+this data protection guideline explains which personal data we collect about
+you while you are on our pages as a visitor or user. [CLS] [SEP] to register on runalyze,
+you must accept the privacy policy in order to use the service. [CLS] [SEP] by browsing
+the pages and services, the user agrees to the privacy policy and all
+subsequent revisions. [CLS] [SEP]
+
+this privacy policy applies to the following domains:
+
+  * runalyze.de
+  * runalyze.com
+  * runalyze.dk
+  * runalyze.pl
+  * runalyze.info
+  * runalyze.biz
+  * runalyze.net
+  * runalyze.org
+
+the legal basis of data protection can be found in the federal data protection
+act (bdsg), the telemedia act (tmg) and the eu data protection ordinance
+(gdpr). [CLS] [SEP]
+
+## personal information
+
+personal data is information that can be used to identify a person, i. [CLS] [SEP] e. [CLS] [SEP]
+information that can be traced back to a person. [CLS] [SEP] this includes your name,
+email address or telephone number. [CLS] [SEP] personal data also includes information
+about preferences, hobbies, memberships or which websites have been viewed by
+someone else. [CLS] [SEP]
+
+personal data will only be collected, used and passed on by the provider if
+this is permitted by law or if the user consents to the data collection. [CLS] [SEP]
+
+the following mandatory information must be provided when registering on
+runalyze.com:
+
+  * username
+  * mail address
+
+the following optional information can also be entered during registration,
+but can also be deleted afterwards:
+
+  * first- and surname
+  * date of birth
+  * gender
+
+after registration, further user data can be collected at runalyze:
+
+  * body values 
+    * weight
+    * resting heart rate and maximum heart rate
+    * body parts of fat, water and muscles
+    * sleep
+  * activities (e. [CLS] [SEP] g. [CLS] [SEP] time, length, duration, altimeter, gps data, heart rate, heart rate variability, performance data, additionally recorded data from sensors, tags, weather data)
+  * equipment
+  * goals
+  * ... [CLS] [SEP] and some more
+
+### how we use information
+
+information stored on runalyze.com is used to operate and administer the site. [CLS] [SEP]
+the processed data is used to improve and correct the functionality of the
+service. [CLS] [SEP]
+
+## access data/server log files
+
+the provider (or its hosting provider) collects data about every access to the
+offer (so-called server log files). [CLS] [SEP] access data includes:
+
+name of the accessed website, file, date and time of access, amount of data
+transferred, notification of successful access, browser type and version, the
+user's operating system, referrer url (the previously visited page), ip
+address and the requesting provider. [CLS] [SEP]
+
+the provider uses the protocol data only for statistical evaluations for the
+purpose of operation, security and optimisation of the offer. [CLS] [SEP] however, the
+provider reserves the right to check the log data subsequently if there is a
+justified suspicion of illegal use based on concrete indications. [CLS] [SEP]
+
+## contacting
+
+when contacting the provider (e. [CLS] [SEP] g. [CLS] [SEP] by means of a contact form or e-mail) the
+user's details are stored for the purpose of processing the enquiry and in the
+event that follow-up questions arise. [CLS] [SEP]
+
+## comments and posts
+
+if users leave comments in the blog or other posts, their ip addresses are
+stored. [CLS] [SEP] this is done for the security of the provider, if someone writes
+illegal contents in comments and contributions (sworn, forbidden political
+propaganda, etc.). [CLS] [SEP] in this case the provider can be prosecuted for the comment
+or contribution and is therefore interested in the identity of the author. [CLS] [SEP]
+
+## integration of third-party services and content
+
+it is possible that third-party content such as videos from youtube, maps from
+google maps, rss feeds or graphics from other websites may be included in this
+online offer. [CLS] [SEP] this always presupposes that the providers of this content
+(hereinafter referred to as "third-party providers") perceive the ip address
+of the users. [CLS] [SEP] without the ip address, they would not be able to send the
+content to the browser of the respective user. [CLS] [SEP] the ip address is therefore
+required for the presentation of this content. [CLS] [SEP] we make every effort to use
+only those contents whose respective providers use the ip address solely for
+the delivery of the contents. [CLS] [SEP] however, we have no influence if the third-party
+providers store the ip address for statistical purposes, for example. [CLS] [SEP] as far
+as we know, we inform the users about this. [CLS] [SEP]
+
+## matomo
+
+this offer uses matomo (formerly piwik), an open source software for
+statistical analysis of user access. [CLS] [SEP] matomo uses "cookies", which are text
+files placed on the user's computer, to help the website analyze how users use
+the site. [CLS] [SEP] the information generated by the cookie about the use of this offer
+is stored on the server of the provider in germany. [CLS] [SEP] the ip address is made
+anonymous immediately after processing and before it is stored. [CLS] [SEP] users may
+refuse the use of cookies by selecting the appropriate settings on their
+browser, however, the provider points out to users that in this case they may
+not be able to use the full functionality of this website. [CLS] [SEP]
+
+## google maps
+
+this offer uses google maps, which is operated by google inc, 1600
+amphitheatre parkway, mountain view, ca 94043, united states ("google"). [CLS] [SEP] when
+a user visits a website that displays a map of google maps, the browser
+establishes a direct connection to google's servers. [CLS] [SEP] according to google, no
+personal data is collected without a click on the button. [CLS] [SEP] only with logged in
+members, such data, among other things the ip address, are raised and
+processed. [CLS] [SEP]
+
+the purpose and scope of the data collection and the further processing and
+use of the data by google as well as your relevant rights and setting options
+for the protection of your privacy can be seen by the users of google [terms
+of use](http://www.google.com/intl/de_en/help/terms_maps.html) for google
+maps. [CLS] [SEP]
+
+## openstreetmap
+
+this site uses openstreetmap (osm) to display geodata. [CLS] [SEP] openstreetmap does not
+store user data. [CLS] [SEP] further information can be found at
+[openstreetmap.org](http://wiki.openstreetmap.org/wiki/legal_faq). [CLS] [SEP]
+
+## mapbox
+
+this offer uses mapbox to display geodata. [CLS] [SEP] for displaying the geodata, the
+browser establishes a direct connection to the mapbox server. [CLS] [SEP] further
+information can be found in the [terms of use of
+mapbox](https://www.mapbox.com/tos/). [CLS] [SEP]
+
+## darksky (weather) api
+
+this offer uses the interface of darksky to retrieve weather data. [CLS] [SEP] a single
+coordinate as well as the time of the activity is transmitted to darksky. [CLS] [SEP] no
+further information is transmitted. [CLS] [SEP] further information can be found in the
+[terms of use](https://darksky.net/dev/docs/terms), and the [privacy
+policy](https://darksky.net/dev/docs/privacy) of darksky. [CLS] [SEP]
+
+## keycdn
+
+this site uses [keycdn](https://www.keycdn.com/?a=55069) (a cdn provider) to
+deliver the content to the user faster. [CLS] [SEP] client ip addresses are anonymized. [CLS] [SEP]
+further information can be found in the [terms of
+use](https://www.keycdn.com/terms), [privacy
+policy](https://www.keycdn.com/privacy) and [gdpr
+section](https://www.keycdn.com/gdpr). [CLS] [SEP]
+
+## gravatar
+
+we use the profile picture service [gravatar](https://gravatar.com). [CLS] [SEP] gravatar
+uses as image url the mail address as md5 hashed. [CLS] [SEP] to better protect the mail
+address, the hashed mail address is only forwarded internally to gravatar via
+our cdn provider. [CLS] [SEP] no client ip is forwarded to gravatar. [CLS] [SEP] further information
+about gravatar can be found in the [privacy policy of gravatar
+(automattic).](https://automattic.com/privacy/). [CLS] [SEP]
+
+## openweathermap
+
+this offer uses the interface of openweathermap to retrieve weather data. [CLS] [SEP] a
+single coordinate and the time of the activity is transmitted to
+openweathermap. [CLS] [SEP] no further information is transmitted. [CLS] [SEP] further information can
+be found in the [terms of use](https://openweathermap.org/terms), and the
+[privacy policy](https://openweathermap.org/privacy-policy) of openweathermap. [CLS] [SEP]
+
+## twitter
+
+this site uses the buttons of the twitter service. [CLS] [SEP] these buttons are provided
+by twitter inc, 795 folsom st., suite 600, san francisco, ca 94107, usa. [CLS] [SEP] they
+are recognizable by terms such as "twitter" or "sequence", combined with a
+stylized blue bird. [CLS] [SEP] with the help of the buttons it is possible to share a
+post or page of this offer on twitter or to follow the provider on twitter. [CLS] [SEP]
+
+when a user accesses a website on this website that contains such a button,
+his browser establishes a direct connection to twitter's servers. [CLS] [SEP] the content
+of the twitter button is transmitted directly from twitter to the user's
+browser. [CLS] [SEP] the provider therefore has no influence on the amount of data twitter
+collects with the help of this plugin and informs users according to their
+level of knowledge. [CLS] [SEP] after this only the ip address of the user the url of the
+respective web page is transmitted with the purchase of the buttons, but not
+for other purposes, than the representation of the buttons, used. [CLS] [SEP]
+
+further information can be found in the twitter data protection declaration at
+<http://twitter.com/privacy>. [CLS] [SEP]
+
+## google adsense
+
+this offer uses google adsense, a service for integrating ads from google inc. [CLS] [SEP]
+"("google"). [CLS] [SEP] google adsense uses "cookies", which are text files placed on the
+user's computer, to help the website analyze how users use the site. [CLS] [SEP] google
+adsense also uses so-called web beacons (invisible graphics). [CLS] [SEP] these web
+beacons can be used to evaluate information such as visitor traffic on the
+pages of this website. [CLS] [SEP]
+
+the information generated by cookies and web beacons about the use of this
+website (including the ip address of the users) and delivery of advertising
+formats is transmitted to a google server in the usa and stored there. [CLS] [SEP] this
+information may be passed on by google to google's contractual partners. [CLS] [SEP]
+however, google will not merge your ip address with other data stored by you. [CLS] [SEP]
+
+users may refuse the use of cookies by selecting the appropriate settings on
+their browser, however, the provider points out to users that in this case
+they may not be able to use the full functionality of this website. [CLS] [SEP] by using
+this website, users consent to the processing of data about them by google in
+the manner and for the purposes described above. [CLS] [SEP]
+
+## amazon affiliate program
+
+runalyze is a amazon europe s.à.r.l. [CLS] [SEP] affiliate and partner of the advertising
+program, which is designed to provide a medium for websites through which
+advertising ads and links to amazon.com can be earned. [CLS] [SEP] amazon uses cookies to
+trace the origin of orders. [CLS] [SEP] among other things, amazon can recognize that you
+have clicked the partner link on this website. [CLS] [SEP] for more information about
+amazon's use of data, please refer to the company's privacy policy:
+[http://www.amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=utf8&nodeid=3312401](http://www.amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=utf8&nodeid=3312401). [CLS] [SEP]
+
+## paddle (payment provider)
+
+this offer uses the payment provider paddle for the fullfilment of
+subscriptions. [CLS] [SEP] upon completion, we receive information about which account has
+taken out which subscription and whether the payment was successful. [CLS] [SEP] all
+payment information are only at our payment provider. [CLS] [SEP] all further information
+can be found in the [privacy policy](https://paddle.com/privacy/) at paddle. [CLS] [SEP]
+
+## newsletter
+
+if you subscribe to the newsletter on this page, you have to enter your e-mail
+address. [CLS] [SEP] specifying the name is optional. [CLS] [SEP] by entering your e-mail address you
+agree that you may subscribe to our newsletter and we may send you news. [CLS] [SEP]
+
+after opening the first confirmation e-mail, which asks you to confirm your
+subscription to the newsletter again, as well as opening further newsletters,
+the following information will be sent directly to us:
+
+  * whether a mail has been opened by a subscriber
+  * which links subscribers clicked on (and the frequency)
+
+this data is used for the administration and statistical evaluation of the
+newsletter in order to be able to optimise the offers even better. [CLS] [SEP] by
+subscribing to the newsletter you agree to this use of your data. [CLS] [SEP] we do not
+use the data for any other purpose. [CLS] [SEP] this data will not be passed on to third
+parties. [CLS] [SEP]
+
+runalyze uses the amazon simple email service (amazon ses) to send the
+newsletter. [CLS] [SEP] (aws). [CLS] [SEP] for the purpose of sending the newsletter, the e-mail
+addresses of the users are temporarily (during sending) transmitted to a
+server (within the eu) of aws. [CLS] [SEP] further information on amazon ses and the use
+and processing of data by aws is available at http://aws.amazon.com/de/ses/
+and http://aws.amazon.com/de/privacy/. [CLS] [SEP]
+
+## revocation, changes, corrections and updates
+
+the user has the right, upon request and free of charge, to receive
+information about the personal data stored about him. [CLS] [SEP] in addition, the user
+has the right to correction of incorrect data, blocking and deletion of his
+personal data, insofar as there is no legal obligation to store such data. [CLS] [SEP]
+
+## regulatory agency
+
+they may lodge a complaint with their competent supervisory authority. [CLS] [SEP] the
+supervisory authority is based on the federal state in which you reside. [CLS] [SEP] find
+the address of the supervisory authority on the bfdi website:
+[https://www.bfdi.bund.de/de/infothek/anschriften_links/anschriften_links-
+node.html.](https://www.bfdi.bund.de/de/infothek/anschriften_links/anschriften_links-
+node.html)
+
+[datenschutz-muster von rechtsanwalt thomas schwenke - i law
+it](http://rechtsanwalt-schwenke.de/smmr-buch/datenschutz-muster-generator-
+fuer-webseiten-blogs-und-social-media/)
+
+## further information
+
+if there are any questions left unanswered by this data protection declaration
+or if more detailed information is required on any point, please do not
+hesitate to contact us. [CLS] [SEP]
+
+**runalyze** ![runalyze - data analysis for athletes](/assets/images/runalyze-
+start.png) deutsch english polski català nederlandse italiano español français
+norsk suomi 中文 (31％已翻译) русский **follow us**
+
+  * [__](https://twitter.com/runalyzede)
+  * [__](https://facebook.com/runalyze)
+  * [__](https://www.instagram.com/runalyze/)
+  * [__](https://www.reddit.com/r/runalyze)
+  * [__](https://t.me/runalyze)
+
+**customer care**
+
+  * [blog](https://blog.runalyze.com/)
+  * [forum](https://forum.runalyze.com/)
+  * [community](https://www.facebook.com/groups/147643142510947/)
+
+**documentation**
+
+  * [help and support](https://runalyze.com/help)
+  * [glossary](https://runalyze.com/glossary)
+  * [translations](https://runalyze.com/help/article/translation)
+  * [status](https://status.runalyze.com/)
+  * [api](https://runalyze.com/doc-api)
+
+**about**
+
+  * [pricing](https://runalyze.com/pricing)
+  * [features](https://runalyze.com/start)
+  * [compatible devices](https://runalyze.com/compatible-apps)
+  * [changelog](https://runalyze.com/changelog)
+
+**legal**
+
+  * [terms of service](https://runalyze.com/en/legal/tos)
+  * [privacy policy](https://runalyze.com/en/legal/privacy)
+  * [legal notice](https://runalyze.com/en/legal/notice)
+
+![](https://c2.runalyze.com/assets/images/runalyze-background.svg)
+

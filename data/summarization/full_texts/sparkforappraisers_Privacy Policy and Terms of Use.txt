@@ -1,0 +1,207 @@
+# spark terms of service and end user license agreement
+
+#### _revised: 7/21/2020 new details on privacy/use/terms that existed but
+were not explicitly stated_
+
+## information and use
+
+### spark is a tool that populates some areas of a residential real estate
+appraiser's report with data about properties that was obtained from the
+appraiser's mls system, our public records data provider, and calculations
+from our cost data provider. [CLS] [SEP] all data entered into a report by spark should be
+verified to ensure accuracy and completeness primarily since mls and public
+records can (and often do) have inaccurate or outdated information regarding
+properties. [CLS] [SEP] due to the nature of the data source(s) (the data sources are your
+mls that you subscribe to, public records data, and dwellingcost), choice
+valuation and its members and data providers expressly disclaim any warranties
+regarding accuracy and completeness of the data/information placed into any
+appraisal report by spark. [CLS] [SEP] spark utilizes the appraiser's settings to place
+the data from mls, public records, and cost data into the appraiser's report. [CLS] [SEP]
+the appraiser should always verify the data is correct before delivering to
+their client. [CLS] [SEP]
+
+### for our part, when we are made aware of a problem with spark translating
+the mls or public records data incorrectly, in that the information entered
+into an appraiser's report does not match the original data (based on the
+appraiser's settings), we will work as quickly as possible to remedy the
+problem and keep the appraiser informed during the process. [CLS] [SEP] this also applies
+to any other error found to be a result of spark not functioning correctly. [CLS] [SEP]
+this nearly always means the problem is corrected within 24 hours. [CLS] [SEP]
+
+### spark is designed to work with the appraiser's form-filling software by
+loading property characteristics and market characteristics for an appraiser
+into their own report. [CLS] [SEP] spark does not generate an appraisal/valuation report
+of any kind but simply assists the appraiser by loading basic property
+characteristics and market characteristics chosen by the appraiser into their
+own report. [CLS] [SEP] spark is "driven" by the appraiser so it will not provide
+conclusions about: market trends, accuracy/quality of particular data,
+adjustments, value, or the quality/condition of properties themselves. [CLS] [SEP] spark
+will provide the results based on the settings and choices the appraiser makes
+but the appraiser's job is to form opinions and conclusions based on those
+results and/or any other that the appraiser chooses to utilize. [CLS] [SEP] if an error
+takes place that is not the result of spark but is due to the form-filling
+software, we will direct the appraiser to contact that company but we will
+also communicate with that company in an effort to solve the problem. [CLS] [SEP]
+
+## licensing agreement
+
+### each spark customer is required to utilize a separate username (email) and
+password. [CLS] [SEP] spark is licensed for use to its customers in their capacity as a
+professional real estate appraiser (or unlicensed assistant/administrative
+personnel who performs work for the real estate appraiser). [CLS] [SEP] spark is licensed
+to be used for one month by one licensed/certified appraiser. [CLS] [SEP]
+
+### if you are in an office of multiple appraisers with
+admin/assistant/trainee personnel that use spark for the appraiser, you do not
+need a license for those people. [CLS] [SEP] you must purchase a separate license for each
+appraiser that has data going into a report from spark that they will sign. [CLS] [SEP]
+for example: if you are in an office with 5 appraisers and 1 admin/assistant
+or trainee who fills out some of the report for appraisers including using
+spark on reports for those appraisers, you would purchase 5 licenses, one for
+each appraiser. [CLS] [SEP] please contact us for help in properly setting up multiple
+licenses in one office. [CLS] [SEP] exception: if you use a la mode software and a la mode
+requires your trainee or admin personnel to have their own customer number
+then you would have to pay for spark separately for that person. [CLS] [SEP] please
+contact us with any questions on this. [CLS] [SEP] note: if you use any other form-filler
+(aside from an a la mode form-filler) then this is not an issue. [CLS] [SEP] you will not
+have to pay for trainees or admin in addition to the signing appraiser. [CLS] [SEP]
+
+### **both the user/customer and choice valuation have the right to terminate
+service at any time and for any reason.**
+
+## fair use policy
+
+### the following fair use policy only applies to appraisers paying for spark
+"per report" and during the free trial of spark. [CLS] [SEP] you will be permitted to
+utilize spark four times on the same report. [CLS] [SEP] on the fifth time loading data
+from spark into your report (and every subsequent time) your account will be
+charged a use. [CLS] [SEP] note: except when initially learning to use spark you should
+never have to use spark more than four times on a report. [CLS] [SEP] if you find yourself
+using spark more than four times on a single report, please contact us so we
+can help you find ways to use spark more efficiently. [CLS] [SEP]
+
+## privacy
+
+### any personal information provided to choice valuation (including all files
+uploaded to spark) is kept confidential and private and will not be
+distributed to any other party. [CLS] [SEP] your secure payment information is never
+provided to choice valuation or any of its members or any of its data
+providers. [CLS] [SEP] we utilize stripe as our credit card processor. [CLS] [SEP]
+
+### in addition, all data uploaded to spark by the appraiser or their
+assistants/trainees is permanently deleted within two hours of being uploaded. [CLS] [SEP]
+not only do we not keep your data longer than two hours, we also certify that
+we will not sell, transfer, copy, market, or move any data that you upload to
+spark. [CLS] [SEP]
+
+### choice valuation will never track your location or browsing history. [CLS] [SEP] the
+spark application does not utilize tracking cookies and does not sell or
+market any of your information or data to any other service or party. [CLS] [SEP] in
+addition, during the account creation process you can opt out of any
+promotional or "tutorial" emails and only receive emails critical to the
+application itself. [CLS] [SEP] in addition, you can unsubscribe to any list at any time. [CLS] [SEP]
+
+### if you wish to cancel your account and remove all personal/private
+information from our records you may do so at any time. [CLS] [SEP] keep in mind that
+certain information is required in order for spark to operate (namely your
+settings which are stored in our database and cookies). [CLS] [SEP] some of your
+settings/information are stored as cookies but only utilized for the
+application to operate based on your preferences, never for tracking,
+marketing, etc. [CLS] [SEP]
+
+## what you should expect from us
+
+### as spark users you should expect a product that accurately gets your mls
+records along with the public records and cost data into your report (based on
+your settings and choices). [CLS] [SEP] if there is an error in how spark gets the data
+into your report you can expect that once we are notified of the issue we will
+work quickly to solve that problem. [CLS] [SEP] you should also expect that spark will be
+available to use when you want it and we will work to have minimal down-time. [CLS] [SEP]
+keep in mind that our public records and cost data providers may have down-
+time that is out of our control, although it will be very minimal. [CLS] [SEP] our public
+records provider has stated that they may have scheduled maintenance from
+7:00pm on saturday to 7:00am on sunday but typically once per month or less. [CLS] [SEP]
+in addition, spark will work even when our public records and cost data
+providers are not up and running but it will provide less information. [CLS] [SEP] last,
+you should expect your confidential information to be kept confidential. [CLS] [SEP]
+
+## what we expect from you
+
+### in order to upload your mls data to spark you must have an agreement with
+that particular mls system or board which allows you to use their system and
+export data for your use as an appraiser. [CLS] [SEP]
+
+### we expect that you will verify all of the data in your report including
+all of the data entered by spark, for accuracy. [CLS] [SEP] we expect that you will
+contact us upon noticing any inaccuracies in the data so we can work to update
+spark immediately (we typically do this within 24 hours). [CLS] [SEP]
+
+###
+
+### we also expect that you will not start litigation against choice valuation
+since spark is not responsible for the accuracy of the data you utilize
+throughout the appraisal process and/or in your appraisal report. [CLS] [SEP] the
+appraiser is responsible for that. [CLS] [SEP]
+
+## accessibility time guarantee
+
+### in addition, based on past performance and guarantees from our data
+providers, we guarantee an accessibility time of 99% or more. [CLS] [SEP]
+
+## all that being said: disclaimer
+
+### except for choice valuation's gross negligence, willful misconduct, or
+fraud, choice valuation's total liability and your exclusive remedy under this
+agreement is limited to direct money damages not exceeding the amount paid by
+you to choice valuation for the use of spark. [CLS] [SEP]
+
+### spark is provided "as is" without warranty of any kind, either express or
+implied, including without limitation, any warranties of merchantability,
+accuracy, completeness, availability, non-infringement, or fitness for a
+specific purpose. [CLS] [SEP]
+
+## refunds
+
+### spark is a subscription service with no contracts. [CLS] [SEP] you can cancel your
+subscription at any time. [CLS] [SEP] if you were charged for a monthly subscription
+within 48 hours, you can get a full refund as well. [CLS] [SEP] when using any form-filler
+other than a la mode, you can cancel the subscription yourself from within
+your account and you'll automatically be prompted for a full refund if it's
+within the 48 hour time-frame. [CLS] [SEP] if you use a la mode then you'll need to
+contact them to cancel and/or for the refund. [CLS] [SEP]
+
+## data providers
+
+### spark's public records data provider is currently realist (owned by
+corelogic) and the cost data provider is dwellingcost. [CLS] [SEP] those data sources
+could change at any time. [CLS] [SEP] we will notify all registered customers well ahead
+of any data source changes. [CLS] [SEP]
+
+### choice valuation has licensed from corelogic solutions, llc ("corelogic")
+certain portions or elements of the public records data available through the
+software ("corelogic data"). [CLS] [SEP] the corelogic data may be used by you solely in
+connection with professional real estate appraisal activities arising in the
+ordinary course of business. [CLS] [SEP] the corelogic data shall be subject to the same
+protections generally applicable to the data referenced in this agreement, but
+in no event shall you be permitted to resell or relicense the corelogic data
+or any portion or derivative thereof. [CLS] [SEP] corelogic may directly enforce these
+provisions and shall have all legal remedies available to choice valuation as
+set forth in this agreement and all other available legal remedies. [CLS] [SEP]
+
+### the appraiser has an option in spark to include maps of each property and
+these maps are obtained from google. [CLS] [SEP] these maps are created by google
+utilizing the address of each property that is either from mls or public
+records and represent google's best attempt to get the location but there is
+no guarantee by spark, implied or otherwise, that the map provided will show
+the actual location of the property. [CLS] [SEP] these maps are provided in a pdf that is
+added to the appraiser's digital work file but are not automatically placed in
+the report that is delivered to the client. [CLS] [SEP]
+
+## updates to these terms
+
+### any material or critical changes or changes that adversely affect you, the
+user, will be provided by email. [CLS] [SEP] if you disagree with these changes you should
+stop using the service and contact us to let us know why and perhaps we will
+change the terms or we can mutually agree the spark service based on the
+changes is not the right service for you. [CLS] [SEP]
+

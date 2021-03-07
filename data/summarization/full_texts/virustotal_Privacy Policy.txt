@@ -1,0 +1,528 @@
+[
+![logo](//theme.zdassets.com/theme_assets/471373/f4c761a2277e49dc993d1ef875129d290700e8f0.svg)
+](http://www.virustotal.com/)
+
+[
+![](//theme.zdassets.com/theme_assets/471373/7050b24ebeaf54a4d304ec39f37ae557433d4d2f.svg)
+back home ](https://support.virustotal.com/hc/en-us)
+
+  * [how it works](/hc/en-us/articles/115002126889-how-it-works)
+  * [terms of service](/hc/en-us/articles/115002145529-terms-of-service)
+  * [privacy policy](/hc/en-us/articles/115002168385-privacy-policy)
+  * [join us](/hc/en-us/articles/115002966549-join-us)
+  * [historic terms of service](/hc/en-us/articles/360017244098-historic-terms-of-service)
+  * [historic privacy policy](/hc/en-us/articles/360017244078-historic-privacy-policy)
+
+  1. [CLS] [SEP] [virustotal](/hc/en-us)
+  2. [CLS] [SEP] [about us](/hc/en-us/categories/360000160117-about-us)
+  3. [CLS] [SEP] [about us](/hc/en-us/sections/360000404558-about-us)
+
+[contact us](https://www.virustotal.com/gui/contact-us)
+
+### articles in this section
+
+  * [how it works](/hc/en-us/articles/115002126889-how-it-works)
+  * [terms of service](/hc/en-us/articles/115002145529-terms-of-service)
+  * [privacy policy](/hc/en-us/articles/115002168385-privacy-policy)
+  * [join us](/hc/en-us/articles/115002966549-join-us)
+  * [historic terms of service](/hc/en-us/articles/360017244098-historic-terms-of-service)
+  * [historic privacy policy](/hc/en-us/articles/360017244078-historic-privacy-policy)
+
+#  privacy policy
+
+**last updated** **january 27, 2021, effective february 27, 2021**
+
+[**previous version**](https://support.virustotal.com/hc/en-
+us/articles/360017244078)
+
+thank you for your interest in virustotal (“ **virustotal** ”, “ **we** ” and
+“ **us** ”) and our website(s), products, services, and applications (the “
+**services** ”). [CLS] [SEP] this privacy policy is designed to help you understand what
+information we collect, why we collect it, how we use it, and how you can
+update, manage, export, and/or delete your information. [CLS] [SEP] this policy further
+details how we use this information to support stronger global cybersecurity
+which includes the protection of members of the public, partners, and
+security-minded organizations that contribute to the services (collectively,
+the “ **community** ”). [CLS] [SEP]
+
+when you clicked “accept” or “agree” in connection with signing up for an
+account, we made this privacy policy available to you. [CLS] [SEP] we may use aggregated,
+anonymized data that we derived from your personal information before you
+delete it, but not in a manner that incorporates any of your personal
+information or would identify you personally. [CLS] [SEP]
+
+virustotal and virustotal.com is owned by chronicle security ireland limited
+(“ **cisl** ”), an irish limited company with registered number 507502. [CLS] [SEP] cisl
+is owned by chronicle llc, a delaware limited liability company incorporated
+in the united states (“ **chronicle** ”). [CLS] [SEP] chronicle is an indirect subsidiary
+of alphabet, inc. [CLS] [SEP] this notice applies to virustotal’s services including the
+use of virustotal’s website (also known as the “ **site** ”), api, vt
+enterprise, vt hunting, vt graph, and anywhere else the services and results
+from the services may appear. [CLS] [SEP]
+
+please read this policy carefully. [CLS] [SEP] by accessing or using the services, your
+personal information may be used as described below. [CLS] [SEP] if you do not wish for
+your personal information to be used as described here, please do not access
+the site or use the services. [CLS] [SEP] if you have any questions about this privacy
+policy, please [contact us](https://www.virustotal.com/gui/contact-us/other). [CLS] [SEP]
+
+#### data collection
+
+we collect information, including personal information, from visitors of the
+site, as well as our registered users, customers, and partners. [CLS] [SEP] we also
+collect certain information when anyone uses the site. [CLS] [SEP] we collect information
+about the use of the site and interaction with the services, and information
+extracted from any information, text, graphics, urls, files, audio, video,
+photos, and any other materials uploaded to, downloaded from, or otherwise
+made available or submitted through the services (" **samples** "). [CLS] [SEP]
+
+specifically we may collect information:
+
+  * **when you register for an account** by providing us with your name, email address, and a unique username in order to participate in the community or otherwise use the services, including the ability to post comments, vote, or otherwise engage with the samples and other members of the community. [CLS] [SEP] 
+  * **when you contact us** with a question, request information from us, or submit information to us including personal information you submit through email or provide through webforms on the site. [CLS] [SEP]
+  * **when you pay us** , to the extent you purchase any premium services offered by virustotal, we may receive credit card data and other payment information related to you. [CLS] [SEP]
+  * **when you submit samples to the services** , if you submit samples to the services, we will collect all of the information in the sample itself and information about the act of submitting it. [CLS] [SEP] we will also generate a non-personal identifier that we associate with the sample. [CLS] [SEP] we share this non-personal identifier with the community in a ciphered form. [CLS] [SEP] submitter ciphers enable the community to better detect patterns in how malware is submitted and distributed through the services and make it more difficult for threat actors to use our services to improve or hide their malware from detection. [CLS] [SEP] to the extent you elect to contribute samples to the community, our [terms of use](https://support.virustotal.com/hc/en-us/articles/115002145529-terms-of-service) require that you to be the original owner of the sample or to have all necessary rights and permissions to any information in the sample, including any personal information contained in a word document or pdf, for example. [CLS] [SEP] other samples, such as executables and other packaged software, may contain metadata that includes personal information that could relate to someone other than you. [CLS] [SEP]
+  * **from your devices.** we may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information) through the use of google analytics. [CLS] [SEP] similarly, for every sample submitted to, and requested from, the services we will log the user-agent (browser and browser version used as well as operating system) and ip address of the submitter. [CLS] [SEP] these data points are used to provide analytics that allow us to optimize the services based on actual use patterns and help us detect abuse (such as ddos and other attacks). [CLS] [SEP] user-agent data are only analysed and used at an aggregate level for statistical purposes and are not tied to unique users or individuals. [CLS] [SEP]
+  * **automatically.** when you use the services and otherwise ingest information made available through the services, we may automatically collect and store certain information about your interaction with the services in server logs. [CLS] [SEP] this may include: (a) details of how you used our services; internet protocol address; and (b) device event information such as crashes, system activity, hardware settings, browser type, standard http request headers, including but not limited to user-agent, referral url, language preference, date and time, and cookies that may uniquely identify your browser or your virustotal account. [CLS] [SEP] we may also collect and store information using other mechanisms such as browser web storage (including html5) and application data caches. [CLS] [SEP]
+  * **when you use our browser extension.** if you access the services through a [virustotal browser extension](https://support.virustotal.com/hc/en-us/articles/115002700745-browser-extensions), we will collect information about how domain names you visit are resolved. [CLS] [SEP] passive domain name system information (“ **pdns** ”) data consists of domain names that your browser requests, along with the ip address resolutions for such domain names. [CLS] [SEP] we will make this pdns data available through the services to enable members of the community to better detect malicious domains that might be hosted on a server (contacted on a given ip address) controlled by an attacker. [CLS] [SEP] collected pdns data is distinct from browsing history and is never tied to a user or used to identify an individual. [CLS] [SEP] existing users of a virustotal extension will need to opt-in to share pdns data with the community. [CLS] [SEP] users downloading the vt extension for the first time may opt-out of this collection in the extension’s settings. [CLS] [SEP]
+
+
+
+where we have given you (or where you have chosen) a password that enables you
+to access certain parts of our website, you are responsible for keeping this
+password confidential. [CLS] [SEP] we ask you not to share a password with anyone. [CLS] [SEP]
+
+#### cookies and similar technologies
+
+when you use the services, we send one or more cookies – small text files
+containing a string of alphanumeric characters – to your computer. [CLS] [SEP] for
+example, we use cookies to ensure proper navigation between pages on the
+services. [CLS] [SEP] virustotal may use both session cookies and persistent cookies. [CLS] [SEP] a
+session cookie disappears after you close your browser. [CLS] [SEP] a persistent cookie
+remains after you close your browser and may be used by your browser on
+subsequent visits to the services. [CLS] [SEP]
+
+
+
+persistent cookies can be removed. [CLS] [SEP] please review your web browser’s “help”
+file to learn the proper way to modify your cookie settings. [CLS] [SEP] if you delete, or
+choose not to accept, cookies from the services, you may not be able to
+utilize the features of the services to their fullest potential. [CLS] [SEP]
+
+
+
+we may also implement othird party content on the services, such as
+advertising or analytic services, that uses “clear gifs,” “web beacons,” or
+other similar techniques, which allow the third party content provider to read
+and write cookies to your browser or implement similar tracking mechanisms. [CLS] [SEP]
+this information is collected directly by the third party, and virustotal does
+not participate in that data transmission. [CLS] [SEP] information collected by third
+parties in this manner is subject to that third party’s own data collection,
+use, and disclosure policies. [CLS] [SEP] we currently implement services provided by
+google analytics. [CLS] [SEP]
+
+
+
+you may choose to control information collected by virustotal depending on
+whether you are signed in to a virustotal account, including configuring your
+browser to indicate when virustotal has set a cookie in your browser. [CLS] [SEP] you can
+also configure your browser to block all cookies from a specific domain or all
+domains. [CLS] [SEP] but remember that our services rely on cookies to function properly. [CLS] [SEP]
+
+#### data use
+
+we use the information we collect to administer registered user, customer and
+partner accounts, respond to requests for support or information about our
+services or affiliates, to allow participation in the community, and to
+perform contracts applicable to customers and partners. [CLS] [SEP] we also use the
+information we collect to provide, maintain, protect, and improve the
+services, to develop new features of the services, and to protect the
+community and our malware-fighting mission. [CLS] [SEP] this includes using samples and
+other collected information for any of the following activities:
+
+  * sharing samples with antivirus, scanning, sandbox, and other security partners in order to generate requested malware verdicts for the user who uploaded the samples. [CLS] [SEP]
+  * making samples available to verified security professionals, companies, and security researchers, many of whom are virustotal customers or partners, for threat detection and research. [CLS] [SEP]
+  * further analyzing and scanning samples submitted by the community to generate useful information and corresponding security reports and further publishing and updating the reports to the community and making such material available through the services - including comments, mentions, and trusted ratings. [CLS] [SEP]
+  * adding samples to our database of known or potential malware (the virustotal “corpus”), in order to continue to advance the security industry’s understanding of online threats. [CLS] [SEP]
+  * developing new features to improve or refine the services. [CLS] [SEP]
+  * developing and providing information to the community. [CLS] [SEP]
+  * communicating with our users and third party contacts. [CLS] [SEP]
+  * creating and administering your user, trial, customer, or partner account(s). [CLS] [SEP]
+  * understanding and improving how our users use and interact with the services, including carrying out analytics. [CLS] [SEP]
+  * protecting and securing the site, including the networks and systems through which we provide the services. [CLS] [SEP]
+  * processing payments for premium services offered by virustotal. [CLS] [SEP]
+  * complying with applicable laws and regulations and other business-related purposes, including negotiating, concluding, and performing contracts, managing accounts and records, supporting our corporate social responsibility activities, and conducting legal, regulatory, and internal investigations. [CLS] [SEP]
+
+when you contact virustotal or chronicle about the services, we may keep a
+record of your communication to help us resolve issues and to safeguard you,
+the community, and the services against fraud and abuse. [CLS] [SEP] we may also send you
+administrative messages related to your account or use of the services. [CLS] [SEP] you
+cannot opt-out of administrative messages. [CLS] [SEP] virustotal may use your email
+address to inform you about the services if you have inquired about aspects of
+the services, have otherwise requested to be contacted, or otherwise agreed to
+hear from us. [CLS] [SEP] chronicle may also contact you with marketing, promotional
+materials, or other personalized information that may be of interest to you
+with your permission or otherwise at your request. [CLS] [SEP] you may unsubscribe to
+these messages directly or by contacting us at any time. [CLS] [SEP]
+
+further information about how chronicle uses your personal information for
+marketing purposes can be found in the [google privacy
+policy](https://policies.google.com/privacy). [CLS] [SEP]
+
+#### sharing & disclosure
+
+we share the raw data underlying samples uploaded to the services as well as
+information relating to the submitter (ciphered id, city, and country) of the
+sample, as follows:
+
+  * **with our security partners.** when you upload a sample to virustotal in order to receive a report about the potential maliciousness of its content, we store it in the corpus and share it with our partners in the anti-malware and security industry. [CLS] [SEP] partners that participate in virustotal are bound by contract to only use the samples for internal security purposes in compliance with our [terms of use](https://support.virustotal.com/hc/en-us/articles/115002145529-terms-of-service) to detect malicious code and to improve their antivirus engines. [CLS] [SEP] all partners receive samples that their antivirus engines did not detect as potentially harmful if the same sample was detected as malicious by at least one other partner’s antivirus engine. [CLS] [SEP] this information sharing helps correct potential vulnerabilities across the security industry. [CLS] [SEP]
+  * **with our customers.** our customers may be security researchers, academic institutions engaged in threat intelligence, governmental bodies, or corporate entities with advanced security functions. [CLS] [SEP] samples submitted to or shared within the services may also be included in premium services offered to a select group of security actors all of whom we have verified are engaged in active threat-detection and prevention activities and who are collectively committed to contributing to an overall safer online environment and improved protection of all end-users and their data. [CLS] [SEP] participants may include a broad range of cybersecurity professionals focused on product, service, and system security and security products and services, all of whom are contractually bound to use the services and any of its contents only for internal security purposes in compliance with our [terms of use](https://support.virustotal.com/hc/en-us/articles/115002145529-terms-of-service). [CLS] [SEP]
+
+
+
+we may also share your information in the following circumstances:
+
+  * **with the community.** if you register for an account and participate in the community, your user profile, including name, nickname, and any information you choose to add to your profile, such as profile picture, will be publicly available to the community. [CLS] [SEP] your activity within the community, including comments on samples uploaded to virustotal, users who mention you in posts, and users you have “trusted” or who have “trusted” you, will also be included as part of your public profile. [CLS] [SEP]
+  * **with your employer or premium account administrator.** if you sign up for a premium account based on your employer’s premium virustotal access, your employer may receive details such as your access to the services and how many individuals in the organization have access to the services. [CLS] [SEP]
+  * **with our affiliates.** if you have requested information about our services or the services and products offered by chronicle or its affiliates, or agreed to receive promotional material from chronicle or its affiliates, we will share your personal information with such affiliates for that purpose. [CLS] [SEP]
+  * **with third party processors.** we may provide personal information to chronicle and other affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with this privacy policy and any other appropriate confidentiality and security terms. [CLS] [SEP]
+  * **for legal reasons.** we will share personal information with affiliates and companies, organizations, or individuals outside of virustotal if we believe that access, use, preservation, or disclosure of the information is reasonably necessary to:
+    * meet any applicable law, regulation, legal process, or enforceable governmental request. [CLS] [SEP]
+    * enforce applicable [terms of use](https://support.virustotal.com/hc/en-us/articles/115002145529-terms-of-service), including investigation of potential violations. [CLS] [SEP]
+    * detect, prevent, or otherwise address fraud, security or technical issues, or protect against harm to the rights, property or safety of virustotal, our affiliates, users or the public as required or permitted by law. [CLS] [SEP]
+  * **in the event of a merger, acquisition or asset sale.** we may disclose your personal information to the prospective seller or buyer of such business or assets. [CLS] [SEP]
+
+
+
+we may share aggregated, anonymized information publicly and with our
+customers and partners described above. [CLS] [SEP] for example, we may share aggregated
+information publicly to show statistical trends about the general use of our
+services. [CLS] [SEP] our site may, from time to time, contain links to and from the
+websites of our affiliates, partners, and members of the community. [CLS] [SEP] if you
+follow a link to any of these websites, please note that these websites have
+their own privacy policies and that we do not accept any responsibility or
+liability for these third-party websites, policies, or any content provided by
+such third-parties. [CLS] [SEP] please check these policies before you submit any personal
+information to these websites. [CLS] [SEP]
+
+#### retention, deletion & export
+
+we take steps to ensure that the personal information that you provide is
+retained by virustotal for only as long as it is necessary for the purpose for
+which it was collected. [CLS] [SEP] sometimes business and legal requirements require us
+to retain certain information for specific purposes for an extended period of
+time. [CLS] [SEP] reasons we might retain some data for longer periods of time include:
+
+  * security, fraud & abuse prevention
+  * financial record-keeping
+  * complying with legal or regulatory requirements
+  * ensuring the continuity of our services
+
+
+
+for users of the community, please note that you may delete your account or
+any part of your account, including your comments made in the community, at
+any time using tools available through the services. [CLS] [SEP] if you delete your
+account, comments you did not delete about samples or other materials in the
+services will no longer be attributed to you, but may be retained to protect
+the security and integrity of the community as a whole. [CLS] [SEP]
+
+
+
+you may choose to export or download your profile information and comments you
+have made within the download functionality in your account. [CLS] [SEP]
+
+
+
+we use appropriate technical, organizational, and security measures to protect
+the personal information that we collect and process about you. [CLS] [SEP]
+
+#### grounds for processing
+
+the legal bases upon which we may process your personal information include
+the  following:
+
+  * with your consent, for example, if you contact us and ask for more information about the services, request a trial or indicate that you wish to receive marketing updates about the services, chronicle or chronicle affiliates. [CLS] [SEP]
+  * to perform or take steps to enter into a contract, for example, to evaluate a potential customer for premium services. [CLS] [SEP]
+  * to comply with legal obligations applicable to us, chronicle or chronicle affiliates, or based on our legitimate interests, or the legitimate interests of our third parties, as outlined below. [CLS] [SEP]
+
+
+
+_our legitimate interests:_ as a provider of threat detection services and the
+operator of a platform designed to share knowledge about malware and other
+security vulnerabilities to better protect the internet and our collective
+data assets from exploitation and compromise, we cannot evaluate or monitor
+what sorts of information are contained in the samples uploaded by the
+community. [CLS] [SEP] by establishing rules for uploads to prevent the upload of samples
+that may contain personal information, either in the resulting analysis
+metadata or in the upload itself (e.g. [CLS] [SEP] a pdf document), we would fail to
+detect, analyze and prevent threats, and the services would cease to operate
+effectively. [CLS] [SEP] we prohibit the contribution of samples that may contain personal
+information in our terms of use, but also understand that malware can take any
+form, and personal information may be included in certain samples submitted to
+the services. [CLS] [SEP] accordingly, we must process all information, including any
+personal information that may be received in the samples submitted to the
+corpus. [CLS] [SEP] we must also share samples with our security partners in order to
+receive verdicts about the maliciousness of contributed samples and with
+customers to allow them to understand malware in their particular threat
+environments. [CLS] [SEP] the processing and sharing of certain unmoderated information,
+which may contain incidental personal information, is essential for the
+services to function. [CLS] [SEP] by unequivocally accepting and distributing all samples,
+we take steps to ensure that malware will be more broadly and quickly detected
+across the globe through the efforts of those participating in the community. [CLS] [SEP]
+the larger our collection of unmoderated samples and the more security
+partners and contributing members of the community, the greater the collective
+threat-detection ability of the services and the more potential it has to
+continue to make the internet and the connected tools that work across it
+(such as your bank, your email, and the social platforms you participate in)
+safer. [CLS] [SEP]
+
+
+
+_measures to offset any potential harm to private individuals that could be
+adversely affected by our incidental processing of personal information:_ we
+have implemented the following measures and built various tools and internal
+processes to protect individuals in conjunction with the way that the services
+may process personal information:
+
+  * our [terms of use](https://support.virustotal.com/hc/en-us/articles/115002145529-terms-of-service) require users to attest that they are the original owner of, or have all necessary rights and permissions to information (including any personal information) contained in, any sample uploaded to the services and clarify that the purpose of the user’s submission is to share the sample with the community. [CLS] [SEP]
+  * users must verify samples before it is submitted to ensure it is intended and suitable for upload and conforms to the [terms of use](https://support.virustotal.com/hc/en-us/articles/115002145529-terms-of-service). [CLS] [SEP]
+  * we adhere to policies to investigate any samples that have been identified to us as containing personal information and take steps to remediate in cases where samples have been confirmed to contain personal or other information where the risk to the community is not outweighed by the potential harm to an individual or an entity. [CLS] [SEP]
+  * we technically and operationally secure our corpus using appropriate techniques and tools. [CLS] [SEP]
+  * we take steps to anonymize or partially anonymize any personal information contained in publicly available metadata. [CLS] [SEP]
+  * we do not allow the public to search for personal information, or to download or otherwise access samples within, the corpus (users can only search by a hash that corresponds to a specific sample). [CLS] [SEP]
+
+
+
+our partners and customers may have access to the raw data contained in
+samples uploaded to the services. [CLS] [SEP]  this access is necessary to allow them, in
+the case of our partners who are antivirus companies, to provide malware
+verdicts corresponding to uploaded samples requested by the user, and for all
+of them to advance the legitimate interest of performing advanced security
+analytics on all samples, including those which may contain personal
+information, to advance the security threat industry and protect the community
+as a whole. [CLS] [SEP]
+
+#### compliance & dpo
+
+virustotal processes personal information on servers in many countries around
+the world. [CLS] [SEP] we may process, transfer, and/or store your personal information on
+a server located outside the country where you live. [CLS] [SEP] for example, we may
+transfer your personal information to our affiliates in the united states and
+to other jurisdictions where the servers we use are based. [CLS] [SEP] we will regularly
+review our compliance with this privacy policy. [CLS] [SEP]
+
+
+
+please note that the privacy protections in the united states and other
+jurisdictions may not be equivalent to those under your local law and the
+rights of governmental and law enforcement authorities to access your personal
+information may also differ. [CLS] [SEP] when we transfer your information abroad,
+virustotal will take all steps as required by applicable law to ensure that
+your personal information is adequately protected by appropriate safeguards
+such as standard contractual clauses. [CLS] [SEP]
+
+
+
+when we receive formal written complaints, we will contact the person who made
+the complaint to follow up. [CLS] [SEP] if you reside in the eea, switzerland or the uk,
+if you have a concern about our processing of your personal information that
+we are unable to resolve, you have the right to lodge a complaint with your
+local data protection authority. [CLS] [SEP]
+
+
+
+##### **california requirements**
+
+the california consumer privacy act (ccpa) requires specific disclosures for
+california residents. [CLS] [SEP] the ccpa also provides the right to request information
+about how virustotal collects, uses, and discloses your personal information. [CLS] [SEP]
+it gives you the right to access your information and request that virustotal
+delete that information. [CLS] [SEP] finally, the ccpa provides the right to not be
+discriminated against for exercising your privacy rights. [CLS] [SEP] this privacy policy
+is designed to help you understand how virustotal handles your information
+including what information virustotal collects, how it uses the information it
+collects, and how we share information. [CLS] [SEP]
+
+
+
+you may exercise your rights to export or download a copy of your data within
+your account, or use existing virustotal account controls to delete
+information about you up to, and including, your account in its entirety. [CLS] [SEP] if
+you have questions or requests related to your rights under the ccpa, you (or
+your authorized agent) can also
+[contact](https://www.virustotal.com/gui/contact-us/other) virustotal. [CLS] [SEP]
+
+the ccpa requires a description of data practices using specific categories. [CLS] [SEP]
+this table uses these categories to organize the information in this privacy
+policy. [CLS] [SEP]
+
+
+
+**categories of personal information we collect**
+
+|
+
+**business purposes for which information may be used or disclosed**
+
+|
+
+**parties with whom information may be shared  **  
+  
+---|---|---  
+  
+**identifiers** such as your name, email address, and username as provided at
+the point of sign up, as well as [unique
+identifiers](https://policies.google.com/privacy?hl=en-us#footnote-unique-id)
+tied to the browser, application, or device you’re using. [CLS] [SEP]
+
+
+
+**commercial information** such as your [payment
+information](https://myaccount.google.com/payments-and-subscriptions?hl=en_us)
+if you are a premium vt enterprise account. [CLS] [SEP]
+
+
+
+**internet, network, and other activity information** such as your search
+terms; views and interactions with content. [CLS] [SEP]
+
+
+
+**geolocation data,** such as may be determined by ip address when you submit
+samples to the services. [CLS] [SEP]
+
+
+
+**professional, or other employment information,** such as information that
+[you provide](https://myaccount.google.com/profile) through signing up for an
+account or that is maintained through a premium enterprise agreement with
+virustotal. [CLS] [SEP]  
+  
+
+
+
+
+
+|
+
+**protecting against security threats, abuse, and illegal activity:**
+virustotal uses and may disclose information to detect, prevent and respond to
+security incidents, and for protecting against other malicious, deceptive,
+fraudulent, or illegal activity. [CLS] [SEP] for example, to protect our services,
+virustotal may receive or disclose information about ip addresses that
+malicious actors have compromised. [CLS] [SEP]
+
+
+
+**auditing and measurement:** virustotal uses information for analytics and
+measurement to understand how our services are used, as well as to fulfill
+obligations to our partners. [CLS] [SEP] we may disclose non-personally identifiable
+information publicly and with these partners, including for auditing purposes. [CLS] [SEP]
+
+
+
+**maintaining our services:** virustotal uses information to ensure our
+services are working as intended, such as tracking outages or troubleshooting
+bugs and other issues that you report to us. [CLS] [SEP]
+
+
+
+**research and development:** virustotal uses information to improve our
+services and to develop new products, features and technologies that benefit
+our users and the public. [CLS] [SEP]
+
+
+
+**use of service providers:** virustotal shares information with service
+providers to perform services on our behalf, in compliance with our privacy
+policy and other appropriate confidentiality and security measures. [CLS] [SEP] for
+example, we may rely on service providers to help provide customer support. [CLS] [SEP]
+
+
+
+**legal reasons:** virustotal also uses information to satisfy applicable laws
+or regulations, and discloses information in response to legal process or
+enforceable government requests, including to law enforcement. [CLS] [SEP]
+
+|
+
+**other people with whom you choose to share your information** , such as
+profile, comments, votes and trust scores. [CLS] [SEP]
+
+  
+
+**third parties to whom you consent to sharing your information** , such as
+when you use the services to upload samples, which we share with our partners. [CLS] [SEP]
+
+  
+
+**services providers** , trusted businesses or persons that process
+information on virustotal’s behalf, based on our instructions and in
+compliance with our privacy policy and any other appropriate confidentiality
+and security measures. [CLS] [SEP] **  
+  
+**
+
+**premium account holder administrators** , if your organization has purchased
+premium access to virustotal and elected to share that access with you. [CLS] [SEP]  
+  
+
+**law enforcement or other third parties** , for the legal reasons described
+under our [compliance](https://policies.google.com/privacy#enforcement)
+section in the privacy policy. [CLS] [SEP]  
+  
+#####  
+
+##### **brazil requirements**
+
+if brazilian data protection law applies to the processing of your
+information, we provide the controls described in this policy so you can
+exercise your right to:
+
+
+
+  * obtain confirmation on whether we process your information
+  * request access to, update, review, anonymise, and remove your information
+  * object to or restrict the processing of your information
+  * export your information to another service
+
+
+
+for users based in brazil, the data controller responsible for your
+information is chronicle, llc., and chronicle is responsible for processing
+your information and for complying with applicable privacy laws. [CLS] [SEP] you may
+contact [chronicle and our data protection
+office](https://support.google.com/policies/troubleshooter/7575787) or your
+local data protection authority if you have concerns regarding your rights
+under brazilian law. [CLS] [SEP]
+
+#### changes and updates
+
+we reserve the right to change this privacy policy from time to time. [CLS] [SEP] however,
+we will not reduce your rights under this privacy policy without your explicit
+consent. [CLS] [SEP] we always indicate the date the last changes were published and if
+changes are significant, we will provide a more prominent notice (including,
+for certain services, email notification of privacy policy changes). [CLS] [SEP]
+
+
+
+our amended privacy policy will become effective on a going-forward basis as
+stated in the terms, except that (i) unless you agree otherwise, we will use
+your personal information in the manner described in the privacy policy in
+effect when we received that information; and (ii) if you do not agree with
+any changes to the privacy policy, you must terminate your virustotal account
+and cease use of the services. [CLS] [SEP] your continued use of the services after a
+revised privacy policy has become effective indicates that you have read,
+understood, and agreed to the current version of the privacy policy. [CLS] [SEP]
+
+#### contact
+
+please contact virustotal with any questions or comments about this privacy
+policy, your personal information, our use and disclosure practices, or your
+choices [here](https://www.virustotal.com/gui/contact-us/other). [CLS] [SEP] law
+enforcement contacts [here](https://lers.google.com/signup_v2/landing). [CLS] [SEP]
+
+[powered by zendesk](https://www.zendesk.com/help-
+center/?utm_source=helpcenter&utm_medium=poweredbyzendesk&utm_campaign=text&utm_content=virustotal)
+

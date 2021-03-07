@@ -1,0 +1,708 @@
+  * [intro](/privacy#intro)
+  * [1\. [CLS] [SEP] a note about children](/privacy#1-a-note-about-children)
+  * [2\. [CLS] [SEP] types of data we collect](/privacy#2-types-of-data-we-collect)
+    * [contact data](/privacy#2-contact-data)
+    * [profile data](/privacy#2-profile-data)
+    * [correspondence](/privacy#2-correspondence)
+    * [marketing data](/privacy#2-marketing-data)
+    * [purchase data](/privacy#2-purchase-data)
+    * [third-party platform data](/privacy#2-third-party-platform)
+    * [content you upload](/privacy#2-content-you-upload)
+    * [data collected automatically](/privacy#2-data-collected-automatically)
+  * [3\. [CLS] [SEP] cookies](/privacy#3-cookies)
+  * [4\. [CLS] [SEP] information you provide to third parties](/privacy#4-information-you-provide-to-third-parties)
+  * [5\. [CLS] [SEP] use of your personal information](/privacy#5-use-of-your-personal-information)
+    * [operations](/privacy#5-operations)
+    * [research and development](/privacy#5-research-and-development)
+    * [marketing](/privacy#5-marketing)
+    * [comply with law](/privacy#5-comply-with-law)
+    * [compliance, fraud prevention, and safety](/privacy#5-compliance-fraud-prevention-and-safety)
+    * [with consent](/privacy#5-with-consent)
+    * [create anonymous, aggregated or de-identified data](/privacy#5-create-anonymous-aggregated-or-deidentified-data)
+  * [6\. [CLS] [SEP] user testimonials and feedback](/privacy#6-user-testimonials-and-feedback)
+  * [7\. [CLS] [SEP] disclosure of your personal information](/privacy#7-disclosure-of-your-personal-information)
+    * [users](/privacy#7-users)
+    * [service providers](/privacy#7-service-providers)
+    * [affiliates](/privacy#7-affiliates)
+    * [third-party platforms](/privacy#7-third-party-platforms)
+    * [professional advisors](/privacy#7-professional-advisors)
+    * [corporate restructuring](/privacy#7-corporate-restructuring)
+    * [compliance](/privacy#7-compliance)
+  * [8\. [CLS] [SEP] international data transfer](/privacy#8-international-data-transfer)
+  * [9\. [CLS] [SEP] security](/privacy#9-security)
+  * [10\. [CLS] [SEP] your choices](/privacy#10-your-choices)
+    * [move](/privacy#10-move)
+    * [access](/privacy#10-access)
+    * [email communications](/privacy#10-email-communications)
+    * [software and applications](/privacy#10-software-and-applications)
+    * [cookies](/privacy#10-cookies)
+    * [updating or deleting your personal information](/privacy#10-updating-or-deleting-your-personal-information)
+    * [erase and forget](/privacy#10-erase-and-forget)
+  * [11\. [CLS] [SEP] contacting us and complaints](/privacy#11-contacting-us-and-complaints)
+  * [12\. [CLS] [SEP] notice to european users](/privacy#12-notice-to-european-users)
+  * [13\. [CLS] [SEP] notice to california residents](/privacy#13-notice-to-california-residents)
+    * [privacy practices](/privacy#13-privacy-practices)
+    * [california residentsâ privacy rights](/privacy#13-california-residents-privacy-rights)
+    * [how to submit a request](/privacy#13-how-to-submit-a-request)
+    * [online tracking opt-out guide](/privacy#13-online-tracking-opt-out-guide)
+
+# privacy policy
+
+ **last revised: august 17, 2020**
+
+parsec cloud, inc. [CLS] [SEP] (" **parsec** ") is committed to protecting your privacy. [CLS] [SEP]
+we have prepared this privacy policy (the " **policy** ") to inform you of our
+practices regarding the data we collect from and about users of [our
+website](/), (the " **site "**) and our downloadable desktop and mobile
+applications (together with the site and any other products and services
+provided by parsec, the " **services** "). [CLS] [SEP]
+
+we provide important information for individuals located in the european
+union, european economic area, and united kingdom (collectively, "europe" or
+"european") [here](/privacy#12-notice-to-european-users) and information for
+california residents [here](/privacy#13-notice-to-california-residents). [CLS] [SEP]
+
+ **changes to this policy** : we will post any modifications or changes to the
+policy on the website. [CLS] [SEP] we may modify the policy at any time, so we encourage
+you to review it frequently. [CLS] [SEP] the "last updated" legend above indicates when
+this policy was last changed. [CLS] [SEP] if we make any material change to the policy, we
+will post a notice on the website prior to such changes taking effect. [CLS] [SEP]
+
+  1. [CLS] [SEP] ## a note about children. [CLS] [SEP]
+
+we do not intentionally gather personal information from individuals who are
+under the age of 13. [CLS] [SEP] if we learn that a child under 13 has submitted personal
+information to parsec, we will make reasonable efforts to delete the
+information as soon as possible. [CLS] [SEP] if you believe that we might have collected
+any personal information from a child under 13, please contact us at [[email
+protected]](/cdn-cgi/l/email-protection#89e5eceee8e5c9f9e8fbfaeceaa7e8f9f9). [CLS] [SEP]
+
+  2. [CLS] [SEP] ## types of data we collect. [CLS] [SEP]
+
+we collect information about you when you use the service or otherwise
+interact with us. [CLS] [SEP] the types of information we collect about you includes:
+
+    *  **contact data,** such as your first and last name, e-mail address, mailing address, and phone number. [CLS] [SEP]
+    *  **profile data,** such as your username and password that you may set when you establish an online account with us, your interests and preferences, including settings associated with your participation in community forum areas, how content is displayed, your location, safe search settings, and favorite widgets
+    *  **correspondence,** such as information that you provide when you contact us with questions, feedback, or otherwise correspond with us online, including through https://support.parsec.app. [CLS] [SEP]
+    *  **marketing data,** such as your preferences for receiving communications about our activities and sponsored events, when you participate in our surveys, sweepstakes or contests, and details about how you engage with our communications and marketing activities. [CLS] [SEP]
+    *  **purchase data,** such as information about payments to and from you and other details of products or services you have purchased from us. [CLS] [SEP]
+    *  **third-party platform data,** such as information we collect when you visit or interact with our pages on third-party platforms as well as information that third-party platforms may provide to use when you choose to connect your account on a third-party platform. [CLS] [SEP] for example, if you connect to the service through your discord account, we may collect information about the games you purchase or play, and information about how you interact with content on discord. [CLS] [SEP]
+    *  **content you upload,** the personal information that may be contained in any video, comment, or other submission you upload or post to the service. [CLS] [SEP]
+    *  **data collected automatically** by us, our service providers and third-party partners, who may automatically log information about you, your computer or mobile devices and your activity over time on the service, such as:
+      *  **device data.** information about your computer or mobile device operating system type and version number, manufacturer and model, device identifier (such as the google advertising id or apple id for advertising), information about your deviceâs central processing unit (cpu) and graphics processing unit (gpu) (such as the model, number of processors, and supported features), graphics apis in use, amount of device memory present, browser type, screen resolution, ip address, the website you visited before browsing to our website, and general location information such as city, state or geographic area. [CLS] [SEP]
+      *  **online activity data.** information about your use of and actions on the service, such as pages or screens you viewed, how long you spent on a page or screen, navigation paths between pages or screens, information about your activity on a page or screen, access times, and length of access. [CLS] [SEP]
+
+### sensitive personal information. [CLS] [SEP]
+
+we ask that you not provide us with any sensitive personal information (e.g.,
+information related to racial or ethnic origin, political opinions, religion
+or other beliefs, health, biometrics or genetic characteristics, criminal
+background or trade union membership) on or through the service, or otherwise
+to us. [CLS] [SEP] if you provide us with any sensitive personal information to us when
+you use the service, you must consent to our processing and use of such
+sensitive personal information in accordance with this privacy policy. [CLS] [SEP] if you
+do not consent to our processing and use of such sensitive personal
+information, you must not submit such sensitive personal information through
+our service. [CLS] [SEP]
+
+### user generated content. [CLS] [SEP]
+
+we may make available on our website, or link to, features that allow you to
+generate your own content or share information online (e.g., in chat areas). [CLS] [SEP]
+please do not embed personal information in the content you generate or share
+personal information online in public or in community forums, because any such
+information can be collected and used by others. [CLS] [SEP]
+
+  3. [CLS] [SEP] ## cookies. [CLS] [SEP]
+
+like many online services, we use cookies to collect information. [CLS] [SEP] "cookies"
+are small pieces of information that a website stores to your computer or
+mobile device while you access the website. [CLS] [SEP] we may use both session cookies
+(which expire once you close your web browser) and persistent cookies (which
+stay on your computer until you delete them) to provide you with a more
+personal and interactive experience on our website. [CLS] [SEP] this type of information
+is collected to make the website more useful to you and to tailor the
+experience with us to meet your special interests and needs. [CLS] [SEP] we use the
+following types of cookies:
+
+    *  **essential cookies -** these cookies are essential to provide you with the services and to enable you to use some of its features. [CLS] [SEP] for example, they allow you to log in to secure areas of the services and help the content of the pages you request load quickly. [CLS] [SEP] without these cookies, the services that you have asked for cannot be provided. [CLS] [SEP]
+    *  **functionality cookies -** these cookies allow the services to remember choices you make when you use the services, such as login details and progress within a course. [CLS] [SEP] the purpose of these cookies is to provide you with a more personal experience and to avoid you having to re-enter your preferences every time you visit the services. [CLS] [SEP]
+    *  **analytics and performance cookies -** these cookies are used to collect information about traffic to the services and how they are used. [CLS] [SEP] the information gathered does not identify any individual visitor, and is aggregated and anonymized. [CLS] [SEP] it includes information like the number of visitors to our website, referring websites, pages viewed on our website, what time of day they visited our website, and whether they have visited our website before. [CLS] [SEP] we use this information to help operate our website more efficiently, to gather broad demographic information and to monitor the level of activity on our website. [CLS] [SEP] we use google analytics, and facebook for this purpose. [CLS] [SEP] you can find out more information about how to opt out of tracking technologies in our [online tracking opt-out guide](/privacy#13-online-tracking-opt-out-guide) below. [CLS] [SEP]
+    *  **social media cookies -** these cookies are used when you share information using a social media sharing button or "like" button on the services or you link your account or engage with our content on or through a social networking website such as facebook, twitter or instagram. [CLS] [SEP] the social network will record that you have done this. [CLS] [SEP]
+    *  **pixel tag.** in addition, we use **" pixel tags"** (also referred to as clear gifs, web beacons, or web bugs). [CLS] [SEP] pixel tags are tiny graphic images with a unique identifier, similar in function to cookies, which are used to track online movements of web users. [CLS] [SEP] in contrast to cookies, which are stored on a userâs computer hard drive, pixel tags are embedded invisibly in web pages. [CLS] [SEP] pixel tags also allow us to send e-mail messages in a format users can read, and they tell us whether e-mails have been opened to ensure that we are sending only messages that are of interest to our users. [CLS] [SEP] we may use this information to reduce or eliminate messages sent to a user. [CLS] [SEP] we do not tie the information gathered by pixel tags to our usersâ personal information. [CLS] [SEP]
+    *  **do not track signals.** some internet browsers may be configured to send "do not track" signals to the online services that you visit. [CLS] [SEP] we currently do not respond to do not track signals. [CLS] [SEP] to find out more about "do not track," please visit <https://allaboutdnt.com/>. [CLS] [SEP]
+  4. [CLS] [SEP] ## information you provide to third parties. [CLS] [SEP]
+
+our services allows users to provide remote access to their computers in order
+to stream content. [CLS] [SEP] the servicesâ default configuration allows access to only
+limited functions of the host computer (i.e., controller), but you may change
+the configuration to allow greater access. [CLS] [SEP] use extreme caution when allowing
+any guest access to any programs, routines or functions of your computer. [CLS] [SEP]
+access can be used to misappropriate personal data and other important
+information. [CLS] [SEP] you are responsible for the content you stream and for what other
+users can view or access on your computer, and you are responsible for
+safeguarding the data users have access to on your computer. [CLS] [SEP]
+
+  5. [CLS] [SEP] ## use of your personal information
+
+    1. [CLS] [SEP] ### operations. [CLS] [SEP]
+
+we use your personal information to provide, operate and improve the services,
+including to establish and maintain your account on the site, provide improved
+administration of our services, send you service-related email communications,
+identify you as a user in our system, and provide support and maintenance. [CLS] [SEP]
+
+    2. [CLS] [SEP] ### research and development. [CLS] [SEP]
+
+we may use your personal information, including information about your use of
+the service, for research and development purposes, including to analyze and
+improve the service and our business and to develop new products and services. [CLS] [SEP]
+we may create anonymous, aggregated or de-identified data records as part of
+these activities. [CLS] [SEP]
+
+    3. [CLS] [SEP] ### marketing
+
+we may send you parsec-related marketing communications and communications
+about other products and services you may be interested in, as permitted by
+law. [CLS] [SEP] you will have the ability to opt-out of our marketing communications as
+described in the your choices section below. [CLS] [SEP]
+
+    4. [CLS] [SEP] ### comply with law. [CLS] [SEP]
+
+we use your personal information as we believe necessary or appropriate to
+comply with applicable laws, lawful requests, and legal process, such as to
+respond to subpoenas or requests from government authorities. [CLS] [SEP]
+
+    5. [CLS] [SEP] ### compliance, fraud prevention, and safety. [CLS] [SEP]
+
+we may use your personal information and disclose it to law enforcement,
+government authorities, and private parties as we believe necessary or
+appropriate to: (a) protect our, your or othersâ rights, privacy, safety or
+property (including by making and defending legal claims); (b) enforce the
+terms and conditions that govern the service; and (c) protect, investigate and
+deter against fraudulent, harmful, unauthorized, unethical or illegal
+activity. [CLS] [SEP]
+
+    6. [CLS] [SEP] ### with consent. [CLS] [SEP]
+
+in some cases we may specifically ask for your consent to collect, use or
+share your personal information, such as when required by law. [CLS] [SEP]
+
+    7. [CLS] [SEP] ### create anonymous, aggregated or de-identified data. [CLS] [SEP]
+
+we may create anonymous, aggregated or de-identified data from your personal
+information and other individuals whose personal information we collect. [CLS] [SEP] we
+make personal information into anonymous, aggregated or de-identified data by
+removing information that makes the data personally identifiable to you. [CLS] [SEP] we
+use anonymous data to analyze request and usage patterns so that we may
+enhance the content of our services and improve website navigation. [CLS] [SEP] we may use
+this anonymous, aggregated or de-identified data and share it with third
+parties for our lawful business purposes, including to analyze and improve the
+service and promote our business. [CLS] [SEP]
+
+  6. [CLS] [SEP] ## user testimonials and feedback. [CLS] [SEP]
+
+we may post user feedback on the services from time to time. [CLS] [SEP] we may share your
+feedback with your first name and last initial only. [CLS] [SEP] if we choose to post your
+first and last name along with your feedback, we will obtain your consent
+prior to posting your name with your feedback. [CLS] [SEP] if you make any comments on a
+blog or forum associated with our website, it will be posted under your user
+name and you should be aware that any information, including personal
+information, you submit there can be read, collected, or used by other users
+of these forums, and could be used to send you unsolicited messages. [CLS] [SEP] we are
+not responsible for the personal information you choose to submit in these
+blogs and forums. [CLS] [SEP] if you post feedback publicly on sites or apps like twitter,
+we may post your feedback on the service without obtaining consent. [CLS] [SEP]
+
+  7. [CLS] [SEP] ## disclosure of your personal information. [CLS] [SEP]
+
+we disclose your personal information as described below and elsewhere in this
+privacy policy. [CLS] [SEP]
+
+    1. [CLS] [SEP] ### users. [CLS] [SEP]
+
+we will share your personal information with other users solely as needed to
+provide the services. [CLS] [SEP]
+
+    2. [CLS] [SEP] ### service providers. [CLS] [SEP]
+
+we may share your personal information with third-party service providers,
+such as to provide you with the services, to conduct quality assurance
+testing, to facilitate creation of accounts, to provide technical support,
+and/or to provide other services to parsec. [CLS] [SEP] we do not authorize use your
+personal information other than to provide the services requested by parsec. [CLS] [SEP]
+
+for online payments and/or automated clearing house (ach) payouts, we use the
+payment services of stripe. [CLS] [SEP] we do not process, record or maintain your credit
+card or bank account information or other related information necessary to
+complete your purchase. [CLS] [SEP] for more information on how payments are handled, or
+to understand the data security and privacy afforded such information, please
+see the [stripe privacy policy](https://stripe.com/privacy). [CLS] [SEP]
+
+    3. [CLS] [SEP] ### affiliates
+
+we may share some or all of your personal information with our parent company,
+subsidiaries, joint ventures, or other companies under a common control, in
+which case we will require our affiliates to honor this policy. [CLS] [SEP]
+
+    4. [CLS] [SEP] ### third-party platforms. [CLS] [SEP]
+
+if you have enabled features or functionality that connect the service to a
+third-party platform (including social media networks), we may disclose to the
+third-party platforms the personal information that you authorize us to share,
+or we may enable the third-party platforms to collect information directly via
+our service. [CLS] [SEP] by connecting a third-party platform, you are instructing us to
+share this information with the third-party platform. [CLS] [SEP] for example, if you
+choose to integrate your discord account with your parsec account, discord may
+collect information about your use of the service. [CLS] [SEP] processing of this
+information will be governed by the relevant third-party platformâs privacy
+policy. [CLS] [SEP]
+
+    5. [CLS] [SEP] ### professional advisors. [CLS] [SEP]
+
+we may disclose your personal information to professional advisors, such as
+lawyers, bankers, auditors and insurers, where necessary in the course of the
+professional services that they render to us. [CLS] [SEP]
+
+    6. [CLS] [SEP] ### corporate restructuring. [CLS] [SEP]
+
+we may share some or all of your personal information in connection with or
+during negotiation of any merger, financing, acquisition or dissolution
+transaction or proceeding involving sale, transfer, divestiture, or disclosure
+of all or a portion of our business or assets. [CLS] [SEP] in the event of an insolvency,
+bankruptcy, or receivership, personal information may also be transferred as a
+business asset. [CLS] [SEP]
+
+    7. [CLS] [SEP] ### compliance. [CLS] [SEP]
+
+we may share your personal information for the legal and other compliance,
+fraud prevention and safety purposes described above. [CLS] [SEP]
+
+  8. [CLS] [SEP] ## international data transfer. [CLS] [SEP]
+
+your information, including personal information that we collect from you, may
+be transferred to, stored at and processed by us and our affiliates and other
+third parties outside the country in which you reside, including, but not
+limited to the united states, where data protection and privacy regulations
+may not offer the same level of protection as in other parts of the world. [CLS] [SEP] by
+using the services you agree to this transfer, storing or processing. [CLS] [SEP] we will
+take all steps reasonably necessary to ensure that your data is treated
+securely and in accordance with this policy. [CLS] [SEP] individuals based in europe can
+find more information [here](/privacy#12-notice-to-european-users). [CLS] [SEP]
+
+  9. [CLS] [SEP] ## security. [CLS] [SEP]
+
+the security of your personal information is important to us. [CLS] [SEP] we employ a
+number of organizational, technical and physical safeguards designed to
+protect the personal information we collect. [CLS] [SEP] however, security risk is
+inherent in all internet and information technologies and we cannot guarantee
+the security of your personal information. [CLS] [SEP]
+
+  10. [CLS] [SEP] ## your choices
+
+these choices apply to all users. [CLS] [SEP] choices specific to eu residents can be
+found [here](/privacy#12-notice-to-european-users), and california residents
+can be found [here](/privacy#13-notice-to-california-users). [CLS] [SEP]
+
+    1. [CLS] [SEP] ### move. [CLS] [SEP]
+
+your personal data is portable â i.e. [CLS] [SEP] you have the flexibility to move your
+data to other service providers as you wish. [CLS] [SEP]
+
+    2. [CLS] [SEP] ### email communications. [CLS] [SEP]
+
+you may opt out of marketing-related emails by following the opt-out or
+unsubscribe instructions at the bottom of the email, or by contacting us at
+[[email protected]](/cdn-cgi/l/email-
+protection#e48881838588a4948596978187ca859494). [CLS] [SEP] you may continue to receive
+service-related and other non-marketing emails. [CLS] [SEP]
+
+    3. [CLS] [SEP] ### software and applications. [CLS] [SEP]
+
+you can uninstall our application at any time. [CLS] [SEP] you may use the standard
+uninstall processes as may be available as part of your mobile device or
+computer or via the mobile application marketplace or network, as applicable. [CLS] [SEP]
+
+    4. [CLS] [SEP] ### cookies. [CLS] [SEP]
+
+you can typically remove or reject cookies via your browser settings. [CLS] [SEP] in order
+to do this, follow the instructions provided by your browser (usually located
+within the "settings," "help" "tools" or "edit" facility). [CLS] [SEP] many browsers are
+set to accept cookies until you change your settings. [CLS] [SEP] further information
+about cookies, including how to see what cookies have been set on your
+computer or mobile device and how to manage and delete them, review our
+[online tracking opt-out guide](/privacy#13-online-tracking-opt-out-guide)
+below. [CLS] [SEP]
+
+    5. [CLS] [SEP] ### updating or deleting your personal information. [CLS] [SEP]
+
+all users may request to review, update, correct or delete certain personal
+information in their user account by contacting us or editing their profile
+via the service. [CLS] [SEP]
+
+    6. [CLS] [SEP] ### erase and forget. [CLS] [SEP]
+
+in certain situations, for example when the information we hold about you is
+no longer relevant or is incorrect, you can request that we erase your data. [CLS] [SEP]
+
+you may request to exercise these rights, by contacting us using the details
+in section 11 below. [CLS] [SEP] in your request, please make clear: (i) what personal
+information is concerned; and (ii) which of the above rights you would like to
+enforce. [CLS] [SEP] for your protection, we may only implement requests with respect to
+the personal information linked to the particular email address that you use
+to send us your request, and we may need to verify your identity before
+implementing your request. [CLS] [SEP] we will try to comply with your request as soon as
+reasonably practicable and in any event, within one month of your request. [CLS] [SEP]
+please note that we may need to retain certain information for recordkeeping
+purposes and/or to complete any transactions that you began prior to
+requesting such change or deletion. [CLS] [SEP]
+
+  11. [CLS] [SEP] ## contacting us and complaints. [CLS] [SEP]
+
+we are committed to resolve any complaints about our collection or use of your
+personal information. [CLS] [SEP] if you would like to make a complaint regarding this
+policy or our practices in relation to your personal information, or if you
+have any questions about this policy or such practices please contact us at:
+[[email protected]](/cdn-cgi/l/email-
+protection#f9959c9e9895b989988b8a9c9ad7988989). [CLS] [SEP] we will reply to your
+complaint as soon as we can. [CLS] [SEP] we hope to resolve any complaint brought to our
+attention. [CLS] [SEP]
+
+  12. [CLS] [SEP] ## notice to european users
+
+the information provided in this "notice to european users" section applies
+only to individuals in europe. [CLS] [SEP]
+
+ **personal information.** references to "personal information" in this
+privacy policy are equivalent to the definition of personal data governed by
+european data protection legislation. [CLS] [SEP]
+
+the contact information for our representative in europe is: [[email
+protected]](/cdn-cgi/l/email-protection)
+
+ **controller:** for the purpose of applicable data protection legislation,
+the data controller of your personal information is parsec cloud, inc. [CLS] [SEP] of po
+box 980338, park city, ut, 84098. [CLS] [SEP]
+
+ **legal bases for processing.** we use your personal information only as
+permitted by law. [CLS] [SEP] our legal bases for processing the personal information
+described in this privacy policy are described in the table below. [CLS] [SEP]
+
+processing purpose (click link for details)  
+details regarding each processing purpose listed below are provided in the
+section above titled [use of your personal information](/privacy#5-use-of-
+your-personal-information)| legal basis  
+---|---  
+  
+    * [operations](/privacy#5-operations)
+
+|
+
+processing is necessary to perform the contract governing our provision of the
+service or to take steps that you request prior to signing up for the service. [CLS] [SEP]  
+we also process your personal information based on our legitimate interest in
+providing the service you access and request. [CLS] [SEP]  
+  
+    * [research and development](/privacy#5-research-and-development)
+    * [marketing](/privacy#5-marketing)
+    * [compliance, fraud prevention, and safety](/privacy#5-compliance-fraud-prevention-and-safety)
+    * [create anonymous, aggregated or de-identified data](/privacy#5-create-anonymous-aggregated-or-deidentified-data)
+
+|
+
+these activities constitute our legitimate interests. [CLS] [SEP] we do not use your
+personal information for these activities where our interests are overridden
+by the impact on you (unless we have your consent or are otherwise required or
+permitted to by law). [CLS] [SEP]  
+  
+    * [to comply with law](/privacy#5-comply-with-law)
+
+|
+
+processing is necessary to comply with our legal obligations. [CLS] [SEP]  
+  
+    * [with consent](/privacy#5-with-consent)
+
+|
+
+processing is based on your consent. [CLS] [SEP] where we rely on your consent you have
+the right to withdraw it any time in the manner indicated when you consent or
+in the service. [CLS] [SEP]  
+  
+ **retention**
+
+we retain personal information for as long as necessary to fulfill the
+purposes for which we collected it, including for the purposes of satisfying
+any legal, accounting, or reporting requirements, to establish or defend legal
+claims, or for fraud prevention purposes. [CLS] [SEP]
+
+to determine the appropriate retention period for personal information, we
+consider the amount, nature, and sensitivity of the personal information, the
+potential risk of harm from unauthorized use or disclosure of your personal
+information, the purposes for which we process your personal information and
+whether we can achieve those purposes through other means, and the applicable
+legal requirements. [CLS] [SEP]
+
+when we no longer require the personal information we have collected about
+you, we will either delete or anonymize it or, if this is not possible (for
+example, because your personal information has been stored in backup
+archives), then we will securely store your personal information and isolate
+it from any further processing until deletion is possible. [CLS] [SEP] if we anonymize
+your personal information (so that it can no longer be associated with you),
+we may use this information indefinitely without further notice to you. [CLS] [SEP]
+
+ **your rights**
+
+european data protection laws give you certain rights regarding your personal
+information. [CLS] [SEP] if you are located within the european union, you may ask us to
+take the following actions in relation to your personal information that we
+hold:
+
+    *  **access.** provide you with information about our processing of your personal information and give you access to your personal information. [CLS] [SEP]
+    *  **correct.** update or correct inaccuracies in your personal information. [CLS] [SEP]
+    *  **delete.** delete your personal information. [CLS] [SEP]
+    *  **transfer.** transfer a machine-readable copy of your personal information to you or a third-party of your choice. [CLS] [SEP]
+    *  **restrict.** restrict the processing of your personal information. [CLS] [SEP]
+    *  **object.** object to our reliance on our legitimate interests as the basis of our processing of your personal information that impacts your rights. [CLS] [SEP]
+
+you may submit these requests by email to [[email protected]](/cdn-
+cgi/l/email-protection#335f5654525f734352414056501d524343) or our postal
+address provided above. [CLS] [SEP] we may request specific information from you to help
+us confirm your identity and process your request. [CLS] [SEP] applicable law may require
+or permit us to decline your request. [CLS] [SEP] if we decline your request, we will tell
+you why, subject to legal restrictions. [CLS] [SEP] if you would like to submit a
+complaint about our use of your personal information or our response to your
+requests regarding your personal information, you may contact us or submit a
+complaint to the data protection regulator in your jurisdiction. [CLS] [SEP] you can find
+your data protection regulator [here](https://edpb.europa.eu/about-
+edpb/board/members_en). [CLS] [SEP]
+
+  13. [CLS] [SEP] ## notice to california residents
+
+we are required by the california consumer privacy act of 2018 ("ccpa") to
+provide to california residents an explanation of how we collect, use and
+share their personal information, and of the rights and choices we offer
+california residents regarding our handling of the personal information. [CLS] [SEP]
+
+    1. [CLS] [SEP] ### privacy practices. [CLS] [SEP]
+
+we do not sell personal information. [CLS] [SEP] as we explain in our privacy policy, we
+use cookies and other tracking technologies to analyze website traffic and
+facilitate advertising. [CLS] [SEP] if you would like to learn how you may opt out of our
+(and our third-party advertising partnersâ) use of cookies and other
+tracking technologies, please review the instructions provided in the [online
+tracking opt-out guide](/privacy#13-online-tracking-opt-out-guide). [CLS] [SEP]
+
+please note that we may also disclose all personal information to our service
+providers; for our compliance, fraud prevention and safety purposes; and in
+connection with, or during negotiation of, a corporate sale, merger,
+acquisition, or similar event. [CLS] [SEP] these disclosures are not "sales" under the
+ccpa. [CLS] [SEP] for additional information, visit "disclosure of your personal
+information."
+
+personal information we collect", ccpa-defined categories (click
+[here](https://leginfo.legislature.ca.gov/faces/codes_displaytext.xhtml?lawcode=civ&division=3.&title=1.81.5.&part=4.&chapter=&article=)
+for details)| sources of personal information| purposes for which we may
+collect and use the personal information| data sharing  
+---|---|---|---  
+  
+[contact data](/privacy#2-contact-data)
+
+|
+
+identifiers
+
+|
+
+you
+
+|
+
+[operations](/privacy#5-operations)  
+[research and development](/privacy#5-research-and-development)  
+[marketing](/privacy#5-marketing)  
+[create anonymous, aggregated or de-identified data](/privacy#5-create-
+anonymous-aggregated-or-deidentified-data)
+
+|
+
+users, at your direction to provide the services  
+  
+[purchase data](/privacy#2-purchase-data)
+
+|
+
+commercial information  
+identifiers
+
+|
+
+you
+
+|
+
+[operations](/privacy#5-operations)  
+[research and development](/privacy#5-research-and-development)  
+[marketing](/privacy#5-marketing)  
+[create anonymous, aggregated or de-identified data](/privacy#5-create-
+anonymous-aggregated-or-deidentified-data)
+
+|
+
+none  
+  
+[profile information](/privacy#2-profile-data)
+
+|
+
+commercial information  
+identifiers
+
+|
+
+you
+
+|
+
+[operations](/privacy#5-operations)  
+[research and development](/privacy#5-research-and-development)  
+[marketing](/privacy#5-marketing)  
+[create anonymous, aggregated or de-identified data](/privacy#5-create-
+anonymous-aggregated-or-deidentified-data)
+
+|
+
+third-party platforms, at your direction if you connect the service through a
+third-party platform  
+  
+[correspondence](/privacy#2-correspondence)  
+[marketing data](/privacy#2-marketing-data)
+
+|
+
+commercial information
+
+|
+
+you
+
+|
+
+[operations](/privacy#5-operations)  
+[research and development](/privacy#5-research-and-development)  
+[marketing](/privacy#5-marketing)  
+[create anonymous, aggregated or de-identified data](/privacy#5-create-
+anonymous-aggregated-or-deidentified-data)
+
+|
+
+none  
+  
+[third-party platform data](/privacy#2-third-party-platform)
+
+|
+
+commercial information  
+identifers  
+sensory information
+
+|
+
+you  
+automatic collection
+
+|
+
+[operations](/privacy#5-operations)  
+[research and development](/privacy#5-research-and-development)  
+[marketing](/privacy#5-marketing)  
+[create anonymous, aggregated or de-identified data](/privacy#5-create-
+anonymous-aggregated-or-deidentified-data)
+
+|
+
+users, at your direction to provide the services  
+  
+[device data](/privacy#2-device-data)  
+[online activity data](/privacy#2-online-activity-data)  
+information derived from device data and online activity data
+
+|
+
+commercial information  
+geolocation data  
+inferences
+
+|
+
+you  
+automatic collection
+
+|
+
+[research and development](/privacy#5-research-and-development)  
+[marketing](/privacy#5-marketing)  
+[create anonymous, aggregated or de-identified data](/privacy#5-create-
+anonymous-aggregated-or-deidentified-data)
+
+|
+
+none  
+  
+    2. [CLS] [SEP] ### california residentsâ privacy rights. [CLS] [SEP]
+
+the ccpa grants individuals whose information is governed by the ccpa the
+following rights:
+
+      *  **information.** you can request information about how we have collected, used and shared and used your personal information during the past 12 months. [CLS] [SEP] we have made this this information available to california residents without having to request it by including it in the above chart. [CLS] [SEP]
+      *  **access.** you can request a copy of the personal information that we maintain about you. [CLS] [SEP]
+      *  **deletion.** you can ask us to delete the personal information that we collected or maintain about you. [CLS] [SEP]
+
+please note that the ccpa limits these rights by, for example, prohibiting us
+from providing certain sensitive information in response to an access request
+and limiting the circumstances in which we must comply with a deletion
+request. [CLS] [SEP] if we deny your request, we will communicate our decision to you. [CLS] [SEP]
+
+you are entitled to exercise the rights described above free from
+discrimination. [CLS] [SEP]
+
+    3. [CLS] [SEP] ### how to submit a request. [CLS] [SEP]
+
+to request access to or deletion of personal information:
+
+    4. [CLS] [SEP] email [[email protected]](/cdn-cgi/l/email-protection#ddb1b8babcb19dadbcafaeb8bef3bcadad)
+
+ **identity verification.** the ccpa requires us to verify the identity of the
+individual submitting a request to access or delete personal information
+before providing a substantive response to the request. [CLS] [SEP]
+
+ **authorized agents.** california residents can empower an "authorized agent"
+to submit requests on their behalf. [CLS] [SEP] we will require the authorized agent to
+have a written authorization confirming that authority. [CLS] [SEP]
+
+ **online tracking opt-out guide**
+
+like many companies online, we may use services provided by google, facebook
+and other companies that use tracking technology. [CLS] [SEP] these services rely on
+tracking technologies â such as cookies and web beacons â to collect
+directly from your device information about your browsing activities, your
+interactions with websites, and the device you are using to connect to the
+internet. [CLS] [SEP] there are a number of ways to opt out of having your online activity
+and device data collected through these services, which we have summarized
+below:
+
+      *  **blocking cookies in your browser.** most browsers let you remove or reject cookies, including cookies used for interest-based advertising. [CLS] [SEP] to do this, follow the instructions in your browser settings. [CLS] [SEP] many browsers accept cookies by default until you change your settings. [CLS] [SEP] for more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](https://www.allaboutcookies.org). [CLS] [SEP] in addition, we use google analytics for analytics purposes. [CLS] [SEP] you can find out more information about google analytics cookies [here](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) and about how google protects your data [here](https://marketingplatform.google.com/about/). [CLS] [SEP] you can prevent the use of google analytics relating to your use of our website by downloading and installing a browser plugin available [here](https://tools.google.com/dlpage/gaoptout?hl=en-gb). [CLS] [SEP]
+      *  **blocking advertising id use in your mobile settings.** your mobile device settings may provide functionality to limit use of the advertising id associated with your mobile device for interest-based advertising purposes. [CLS] [SEP]
+      *  **using privacy plug-ins or browsers.** you can block our websites from setting cookies used for interest-based ads by using a browser with privacy features, like [brave](https://brave.com/), or installing browser plugins like [privacy badger](https://privacybadger.org/), [ghostery](https://www.ghostery.com/) or [ublock origin](https://ublock.org/), and configuring them to block third-party cookies/trackers. [CLS] [SEP]
+      *  **platform opt-outs.** the following advertising partners offer opt-out features that let you opt-out of use of your information for interest-based advertising:
+        * google: <https://adssettings.google.com>
+        * facebook: <https://www.facebook.com/policy/cookies/>
+      * **advertising industry opt-out tools.** you can also use these opt-out options to limit use of your information for interest-based advertising by participating companies:
+        * digital advertising alliance: <http://optout.aboutads.info>
+        * network advertising initiative: <http://optout.networkadvertising.org/>
+
+note that because these opt-out mechanisms are specific to the device or
+browser on which they are exercised, you will need to opt-out on every browser
+and device that you use. [CLS] [SEP]
+

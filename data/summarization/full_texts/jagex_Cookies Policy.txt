@@ -1,0 +1,207 @@
+[ ](/en-gb/)
+
+[ ](/en-gb/)
+
+menu [english](/en-gb/terms/cookies) [français](/fr-fr/terms/cookies)
+[deutsch](/de-de/terms/cookies) [português do brasil](/pt-br/terms/cookies)
+
+# cookies policy
+
+version 0.2
+
+date september 3rd, 2018. [CLS] [SEP]
+
+jagex uses “cookies” and other similar technologies to tailor content and
+marketing, and to improve and adjust user experiences. [CLS] [SEP] to find out more about
+“cookies”, other similar technologies and the options available to manage
+them, please see below. [CLS] [SEP]
+
+**cookies and other similar technologies**
+
+we use cookies and other similar technologies on our website, products and
+services. [CLS] [SEP] cookies are small text files that are stored on your computer that
+hold information that a website can read. [CLS] [SEP] for example, cookies can be used to
+authenticate your visit and prevent you from having to log in every time you
+visit the website. [CLS] [SEP]
+
+we collect both personal and non-personal information from you when you use
+our websites, products and services. [CLS] [SEP] for more information on how we deal with
+your information, please see our [privacy policy](/en-gb/terms/privacy). [CLS] [SEP]
+
+we and our partners also use other technologies, including data stored on your
+web browser or device, identifiers associated with your device and other
+software for similar purposes. [CLS] [SEP] in this policy, we refer to “cookies” and other
+similar technologies as “cookies.” these technologies can be used to recognise
+your device as it interacts with our services. [CLS] [SEP] for instance, we can recognise
+when you visit pages on our or others’ sites, use parts of an app or when you
+open emails we send you. [CLS] [SEP] these technologies include the following:
+
+  * ****pixel tags:**** pixel tags are small blocks of code we install on our webpages, emails or advertisements. [CLS] [SEP] these are used to relay information about how you interact with our services and may contain information about your device and browser. [CLS] [SEP] for example, information about your device type, operating system, browser type and version, website visited, time of visit, referring website, ip address, whether you’ve opened an email or clicked on an advertisement. [CLS] [SEP] pixels also provide the means by which third parties can set and read browser cookies from our websites. [CLS] [SEP]
+  * ****local storage:**** where other types of cookies cannot be used, local storage allows us to store additional data to help improve your experience while using our services. [CLS] [SEP]
+  * ****ip address:**** every device that is connected to the internet has an internet protocol address. [CLS] [SEP] when you interact with our services, we and our partners use your ip address for security purposes, for example, to prevent fraud. [CLS] [SEP] we may also use your ip address to identify your location and display content that is more appropriate to you. [CLS] [SEP]
+  * ****device identifiers:**** we may also create or collect a unique device identifier so we can understand how you use your devices to access our services. [CLS] [SEP]
+
+you can use your browser settings to allow or disallow cookies. [CLS] [SEP] if you
+disallow cookies, your use of our website, products or services may be
+impaired. [CLS] [SEP]
+
+**types of cookies**
+
+there are four categories of cookies that may be served through our website,
+products or services:
+
+  * ****necessary:**** these cookies are required in order for our services to operate. [CLS] [SEP] for example, maintaining a logged in session. [CLS] [SEP] our websites cannot function without these cookies. [CLS] [SEP]
+  * ****performance:**** these cookies are used to help us understand how our services are being used so that we can improve your experience using our services. [CLS] [SEP]
+  * ****functionality:**** these cookies are used to enable additional functionalities in our services. [CLS] [SEP] for example, remembering your preferred language for your next visit. [CLS] [SEP]
+  * ****targeting:**** these cookies are used to offer you more relevant advertising on other websites and to limit the number of times you see an advertisement. [CLS] [SEP] our partners serve advertisements about our products and services and measure the effectiveness of our marketing campaigns. [CLS] [SEP]
+
+**who sets cookies on your device**
+
+cookies we place on your device when you are using our services are referred
+to as ‘first party cookies’. [CLS] [SEP]
+
+[our partners](/en-gb/terms/third-party-partners) can also place cookies on
+your device while you are using our services, and these are referred to as
+‘third party cookies’. [CLS] [SEP] we do not control third party cookies and cannot access
+them due to the way that cookies work, as cookies can only be accessed by the
+party who originally set them. [CLS] [SEP]
+
+we encourage you to review the privacy and cookies polices of [the third
+parties we work with](/en-gb/terms/third-party-partners) for more information
+about cookies they set and how to manage them. [CLS] [SEP]
+
+**managing cookies**
+
+you can review your options to manage cookies by opening the “help” menu on
+the browser menu bar. [CLS] [SEP] most browsers will tell you how you can disable or
+delete cookies or set your browser to alert you when cookies are being sent to
+your computer. [CLS] [SEP]
+
+you can also limit interest-based advertising by opting out at
+[www.aboutads.info/choices/](http://www.aboutads.info/choices/) or
+[www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/)
+or <https://tools.google.com/dlpage/gaoptout/>. [CLS] [SEP] if you are in europe, more
+information is available at
+[www.youronlinechoices.eu/](http://www.youronlinechoices.eu/). [CLS] [SEP]
+
+if you reject all cookies, you may not be able to use certain features of our
+websites and other products and services (including signing in to your account
+or completing a purchase on your shopping basket). [CLS] [SEP]
+
+**policy updates**
+
+we may update our cookie policy from time to time to reflect changes in
+technology, legislation, our operations, or as we otherwise determine is
+necessary or appropriate. [CLS] [SEP] any such changes will become effective when we make
+the revised policy available on our website. [CLS] [SEP] we encourage you to review the
+date above frequently to ensure you are aware of when our policy was last
+revised, and to help you better understand the nature of your interactions
+with us. [CLS] [SEP]
+
+**first party cookies list**
+
+our website, products or services may contain, but are not limited to, the
+following cookies. [CLS] [SEP]
+
+**type** | **name** | **purpose**  
+---|---|---  
+necessary | jag_sso | server session id that keeps you logged in while using
+some of our services. [CLS] [SEP]  
+necessary | xsrf-token | a security feature preventing malicious activity
+between your device and our servers. [CLS] [SEP]  
+necessary | session | an identifier used while you are logged in to associate
+your browser session with your account on our servers. [CLS] [SEP]  
+necessary | session | an identifier used while you are logged in to associate
+your browser session with your account on our servers. [CLS] [SEP]  
+necessary | jsessionid | an identifier used while you are logged in to
+associate your browser session with your account on our servers. [CLS] [SEP]  
+performance | jxdob | stores the date of birth chosen when creating an
+account. [CLS] [SEP]  
+performance | cookieconsent_dismissed | set to let us know you have seen our
+cookie message. [CLS] [SEP]  
+performance | cookies | set to let us know you have seen our cookie message
+when making a payment. [CLS] [SEP]  
+performance | settings | stores details about services accessed and how/where
+they were accessed from – for example if you clicked a link to our site from
+an affiliate. [CLS] [SEP]  
+performance | usrdob | temporarily stores the date of birth you enter when
+creating an account. [CLS] [SEP]  
+functionality | rs_splash_count | we store this to remember the number of
+times you have seen our runescape ‘splash’ page. [CLS] [SEP] having this cookie set means
+you will be redirected to the main runescape page when visiting
+[www.runescape.com](http://www.runescape.com). [CLS] [SEP]  
+functionality | idcheckcookie | used to ensure we can successfully process
+payments. [CLS] [SEP]  
+functionality | rs_langpref | we use this cookie to know your preferred
+language for viewing our website. [CLS] [SEP]  
+functionality | slangpref | we use this cookie to know your preferred language
+for viewing our website. [CLS] [SEP]  
+functionality | serverlist_order | we use this to remember the order you wish
+to view lists of game worlds in. [CLS] [SEP]  
+functionality | jxrslaunching | prevents duplicate launch requests of our game
+clients. [CLS] [SEP]  
+functionality | openjdkinstalled | we use this to determine if you have
+previously installed our game client. [CLS] [SEP]  
+functionality | is_returning | we use this cookie to know if you have visited
+our website before and to customise what content you see. [CLS] [SEP]  
+functionality | global__user-visited | we use this cookie to know if you have
+visited our website before and to customise what content you see. [CLS] [SEP]  
+functionality | rs_poll_en | used to determine if you have voted in a poll on
+our website. [CLS] [SEP]  
+functionality | rs_poll_de | used to determine if you have voted in a poll on
+our website. [CLS] [SEP]  
+functionality | rs_poll_fr | used to determine if you have voted in a poll on
+our website. [CLS] [SEP]  
+functionality | rs_poll_pt | used to determine if you have voted in a poll on
+our website. [CLS] [SEP]  
+functionality | rs_poll_vote_iden | used to determine what you voted for in a
+poll on our website. [CLS] [SEP]  
+functionality | rs_poll_vote_idde | used to determine what you voted for in a
+poll on our website. [CLS] [SEP]  
+functionality | rs_poll_vote_idfr | used to determine what you voted for in a
+poll on our website. [CLS] [SEP]  
+functionality | rs_poll_vote_idpt | used to determine what you voted for in a
+poll on our website. [CLS] [SEP]  
+functionality | rememberme | stores your username to make it easier to log in
+on future visits. [CLS] [SEP]  
+functionality | sameday | used to deliver content specific to new accounts. [CLS] [SEP]  
+functionality | sn-integration___ga-id | used to identify if you created an
+account using a social network. [CLS] [SEP]  
+targeting | jxflowcontrol | allows us to test improvements to our website on
+limited numbers of users. [CLS] [SEP]  
+targeting | jxfrontuid | a unique identifier we use to track the pages you
+visit on our websites. [CLS] [SEP] we use the information to make improvements to the
+website. [CLS] [SEP]  
+targeting | jxtempsessionid | a unique identifier we use to track the pages
+you visit on our websites. [CLS] [SEP] we use the information to make improvements to the
+website. [CLS] [SEP]  
+targeting | jxaddinfo | stores the identifiers of affiliates used when
+creating an account. [CLS] [SEP]  
+targeting | jxtag | stores an account identifier that allows us to display
+more relevant content to you. [CLS] [SEP]  
+targeting | jxtracking | an identifier we use to track the pages you visit on
+our websites. [CLS] [SEP] we use the information to make improvements to the website. [CLS] [SEP]  
+targeting | jxwebuid | helps us identify previous visits to our websites. [CLS] [SEP]  
+targeting | jagex_accept_cookies | set to let us know you have seen our cookie
+message. [CLS] [SEP]  
+targeting | jxsessiontrackid | this cookie represents your session on the
+website both before and after you log in in the same browser session. [CLS] [SEP]  
+  
+[ ](/en-gb/)
+
+copyright (c) 1999 - 2021 jagex ltd. [CLS] [SEP] 220 science park, cambridge, cb4 0wa,
+united kingdom
+
+[contact us](/en-gb/contact-us) | [gender pay gap report](/en-gb/gender-pay-
+gap) | [modern slavery act transparency statement](/en-gb/modern-slavery-act-
+transparency-statement)
+
+use of this website is subject to our [terms & conditions](/en-gb/terms),
+[privacy policy](/en-gb/terms/privacy) and [cookie policy](/en-
+gb/terms/cookies). [CLS] [SEP]
+
+[](https://www.linkedin.com/company/jagex) [](https://twitter.com/jagex)
+[](https://www.facebook.com/jagex)
+[](https://www.youtube.com/channel/ucttjunelx32fv9dzcbz3dig)
+[](https://www.twitch.tv/jagex)
+

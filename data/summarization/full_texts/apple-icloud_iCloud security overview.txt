@@ -1,0 +1,194 @@
+  * global nav open menuglobal nav close menu
+  * [apple](https://www.apple.com/)
+  * [shopping bag](https://www.apple.com/us/shop/goto/bag)+
+
+[search
+supportcancel](https://support.apple.com/kb/index?page=search&locale=en_us)
+
+  * [apple](https://www.apple.com/)
+  * [mac](https://www.apple.com/mac/)
+  * [ipad](https://www.apple.com/ipad/)
+  * [iphone](https://www.apple.com/iphone/)
+  * [watch](https://www.apple.com/watch/)
+  * [tv](https://www.apple.com/tv/)
+  * [music](https://www.apple.com/music/)
+  * [support](https://support.apple.com)
+  * [](https://support.apple.com/kb/index?page=search&locale=en_us)
+  * [shopping bag](https://www.apple.com/us/shop/goto/bag)+
+
+cancel
+
+# icloud security overview
+
+icloud is built with industry-standard security technologies, employs strict
+policies to protect your information, and is leading the industry by adopting
+privacy-preserving technologies like end-to-end encryption for your data. [CLS] [SEP]
+
+## data security
+
+icloud secures your information by encrypting it when it's in transit, storing
+it in icloud in an encrypted format, and using secure tokens for
+authentication. [CLS] [SEP] for certain sensitive information, apple uses end-to-end
+encryption. [CLS] [SEP] this means that only you can access your information, and only on
+devices where you’re signed into icloud. [CLS] [SEP] no one else, not even apple, can
+access end-to-end encrypted information. [CLS] [SEP]
+
+in some cases, your icloud data may be stored using third-party partners’
+servers—such as amazon web services or google cloud platform—but these
+partners don’t have the keys to decrypt your data stored on their servers. [CLS] [SEP]
+
+end-to-end encryption requires that you have [two-factor
+authentication](https://support.apple.com/kb/ht204915) turned on for your
+apple id. [CLS] [SEP] keeping your [software up-to-
+date](https://support.apple.com/kb/ht201222) and using two-factor
+authentication are the most important things that you can do to maintain the
+security of your devices and data. [CLS] [SEP]
+
+here's more detail on how icloud protects your data. [CLS] [SEP]
+
+**data** | **encryption** | **notes**  
+---|---|---  
+**in transit** | **on server**  
+backup | yes | yes | a minimum of 128-bit aes encryption  
+safari history & bookmarks | yes | yes  
+calendars | yes | yes  
+contacts | yes | yes  
+find my (devices & people) | yes | yes  
+icloud drive | yes | yes  
+messages in icloud | yes | yes  
+notes | yes | yes  
+photos | yes | yes  
+reminders | yes | yes  
+siri shortcuts | yes | yes  
+voice memos | yes | yes  
+wallet passes | yes | yes  
+icloud.com | yes | — | all sessions at icloud.com are encrypted with tls 1.2. [CLS] [SEP]
+any data accessed via icloud.com is encrypted on server as indicated in this
+table. [CLS] [SEP]  
+mail | yes | no | all traffic between your devices and icloud mail is
+encrypted with tls 1.2. [CLS] [SEP] consistent with standard industry practice, icloud
+does not encrypt data stored on imap mail servers. [CLS] [SEP] all apple email clients
+support optional s/mime encryption. [CLS] [SEP]  
+  
+### end-to-end encrypted data
+
+end-to-end encryption provides the highest level of data security. [CLS] [SEP] your data
+is protected with a key derived from information unique to your device,
+combined with your device passcode, which only you know. [CLS] [SEP] no one else can
+access or read this data. [CLS] [SEP]
+
+these features and their data are transmitted and stored in icloud using end-
+to-end encryption:
+
+  * apple card transactions (requires ios 12.4 or later)
+  * home data
+  * health data (requires ios 12 or later) 
+  * icloud keychain (includes all of your saved accounts and passwords)
+  * maps favorites, collections and search history (requires ios 13 or later)
+  * memoji (requires ios 12.1 or later)
+  * payment information
+  * quicktype keyboard learned vocabulary (requires ios 11 or later)
+  * safari history and icloud tabs (requires ios 13 or later)
+  * screen time
+  * siri information
+  * wi-fi passwords
+  * w1 and h1 bluetooth keys (requires ios 13 or later)
+
+to access your data on a new device, you might have to enter the passcode for
+an existing or former device. [CLS] [SEP]
+
+messages in icloud also uses end-to-end encryption. [CLS] [SEP] if you have icloud backup
+turned on, your backup includes a copy of the key protecting your messages. [CLS] [SEP]
+this ensures you can recover your messages if you lose access to icloud
+keychain and your trusted devices. [CLS] [SEP] when you turn off icloud backup, a new key
+is generated on your device to protect future messages and isn't stored by
+apple. [CLS] [SEP]
+
+### two-factor authentication
+
+with [two-factor authentication](https://support.apple.com/kb/ht204915), your
+account can only be accessed on devices you trust, like your iphone, ipad, or
+mac. [CLS] [SEP] when you want to sign in with your apple id on a new device the first
+time, you need to provide two pieces of information—your password and the six-
+digit verification code that's auto-displayed on your trusted devices. [CLS] [SEP]
+
+### use of secure tokens for authentication
+
+when you access icloud services with apple’s built-in apps (for example, mail,
+contacts, and calendar apps on ios or macos), authentication is handled using
+a secure token. [CLS] [SEP] secure tokens eliminate the need to store your icloud password
+on devices and computers. [CLS] [SEP]
+
+### health data
+
+end-to-end encryption for health data requires ios 12 or later and two-factor
+authentication. [CLS] [SEP] otherwise, your data is still encrypted in storage and
+transmission but is not encrypted end-to-end. [CLS] [SEP] after you turn on two-factor
+authentication and update ios, your health data is migrated to end-to-end
+encryption. [CLS] [SEP]
+
+if you back up your device on your mac or itunes, health data is stored only
+if the backup is encrypted. [CLS] [SEP]
+
+## privacy
+
+apple has a company-wide commitment to your privacy. [CLS] [SEP] our [privacy
+policy](https://www.apple.com/privacy/) covers how we collect, use, disclose,
+transfer, and store your information. [CLS] [SEP] and in addition to adhering to the apple
+privacy policy, apple designs all icloud features with your privacy in mind. [CLS] [SEP]
+
+## learn more
+
+learn more about advanced security features in the [ios security
+guide](https://www.apple.com/business/docs/ios_security_guide.pdf). [CLS] [SEP]
+
+information about products not manufactured by apple, or independent websites
+not controlled or tested by apple, is provided without recommendation or
+endorsement. [CLS] [SEP] apple assumes no responsibility with regard to the selection,
+performance, or use of third-party websites or products. [CLS] [SEP] apple makes no
+representations regarding third-party website accuracy or reliability. [CLS] [SEP]
+[contact the vendor](http://support.apple.com/kb/ht2693) for additional
+information. [CLS] [SEP]
+
+published date: april 09, 2020
+
+helpful?
+
+yes  no
+
+character limit: 250
+
+please don’t include any personal information in your comment. [CLS] [SEP]
+
+maximum character limit is 250. [CLS] [SEP]
+
+submit
+
+thanks for your feedback. [CLS] [SEP]
+
+## start a discussion in apple support communities
+
+ask other users about this article
+
+ask other users about this article
+
+[ see all questions on this article
+](https://discussions.apple.com/article/ht202303)
+
+## apple footer
+
+[  apple ](https://www.apple.com)
+
+  1. [CLS] [SEP] [support](https://support.apple.com)
+  2. [CLS] [SEP] icloud security overview
+
+[united states](https://support.apple.com/en-us/ht202303/localeselector
+"choose your country or region")
+
+copyright © 2021 apple inc. [CLS] [SEP] all rights reserved. [CLS] [SEP]
+
+[privacy policy](https://www.apple.com/legal/privacy/en-ww/) [terms of
+use](https://www.apple.com/legal/internet-services/terms/site.html) [sales and
+refunds](https://www.apple.com/shop/goto/help/sales_refunds) [site
+map](https://www.apple.com/sitemap/)
+

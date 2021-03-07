@@ -1,0 +1,811 @@
+skip to main content
+
+[](/en-gb "home")
+
+  * [legal, security, privacy and compliance](/en-gb "home")
+
+[](/en-gb "main navigation")
+
+## search form
+
+search
+
+## languages
+
+uk, englishbrazil, portuguêslatin american (generic), españolunited states,
+english
+
+  * [terms](/en-gb/terms)
+    * [service terms](/en-gb/terms)
+    * [terms for here products and services](/en-gb/terms/terms-for-here-products-and-services)
+    * [here platform](/en-gb/terms/here-platform)
+    * [other legal information and notices](/en-gb/terms/other-legal-information-and-notices)
+  * [privacy](/en-gb/privacy)
+    * [privacy policy](/en-gb/privacy)
+    * [cookie policy](/en-gb/privacy/cookie-policy)
+    * [here improvement program](/en-gb/privacy/here-improvement-program)
+    * [here application and here maps privacy supplement](/en-gb/privacy/here-application-and-here-maps-privacy-supplement)
+    * [here auto privacy supplement](/en-gb/privacy/here-auto-privacy-supplement)
+    * [here recruitment privacy policy](/en-gb/privacy/here-recruitment-privacy-policy)
+    * [here last mile driver application privacy supplement](/en-gb/privacy/here-last-mile-driver-app)
+    * [here tracking reference apps privacy supplement](/en-gb/privacy/here-tracking-reference-apps-privacy-supplement "privacy supplement for here tracking reference apps")
+    * [here wego, here application or here maps privacy supplement (updated)](/en-gb/privacy/here-wego-here-application-or-here-maps-privacy-supplement-updated)
+    * [wifi opt-out](/en-gb/here-wi-fi)
+    * [navigation enabled by here](/en-gb/privacy/navigation-by-here "navigation enabled by here")
+  * [security](/en-gb/security)
+    * [security awareness](/en-gb/security)
+  * [compliance](https://legal.here.com/compliance)
+
+  * [terms](/en-gb/terms)
+  * [privacy](/en-gb/privacy)
+  * [security](/en-gb/security)
+  * [compliance](https://legal.here.com/compliance)
+
+##  [ mobility products privacy policy ](/en-gb/privacy/mobility-products-
+privacy-policy)
+
+effective date:
+
+24/03/2020
+
+this mobility products privacy policy (“ **privacy policy** ”) describes our
+practices with respect to your information when you use the here mobility
+websites (“ **websites** ”), software, products, features and other services
+which this privacy policy is part of or refers to (“ **services** ”). [CLS] [SEP] the
+services are owned, directly or indirectly, by here global b.v., or one or
+more of its direct or indirect affiliates (collectively, “ **here** ”, “
+**company** ,” “ **we** ,” or “ **us** ”). [CLS] [SEP] capitalized terms which are not
+defined herein, shall have the meaning ascribed to them in the [mobility
+products terms of use](https://legal.here.com/en-gb/terms/mobility-products-
+terms-of-use) (“ **terms** ”), to which this privacy policy is incorporated by
+reference. [CLS] [SEP]
+
+we respect your privacy and take it seriously. [CLS] [SEP] this privacy policy describes
+the types of information about you that we collect about you in connection
+with your use of the services. [CLS] [SEP] this information includes information you may
+provide to us when you use, register for, interact with or transact via the
+services and information we collect from other sources. [CLS] [SEP] the privacy policy
+also describes our practices for collecting, storing, using, maintaining,
+protecting, disclosing, and disposing of such information. [CLS] [SEP] this privacy policy
+is also aimed to assure you of our firm commitment to safeguarding the privacy
+and security of your information. [CLS] [SEP]
+
+if you are accepting this privacy policy on behalf of a company or other legal
+entity, you represent that you have the authority to bind such entity to the
+terms and conditions of this privacy policy. [CLS] [SEP] if you do not have such
+authority, or if you do not agree to all the terms and conditions in this
+privacy policy, you may not use the services. [CLS] [SEP]
+
+the term “ **personal data** ”, as used in this privacy policy, means any
+information relating to you where you are identified or where you could be
+identified with reasonable efforts or together with additional information, we
+have access to, or may be of private or sensitive nature relating to an
+identified or identifiable individual. [CLS] [SEP]
+
+**we urge you to read this privacy policy and make sure that you fully
+understand and agree with it. [CLS] [SEP] if you do not agree to this privacy policy,
+please discontinue and avoid using our services.**
+
+**_table of contents_** :
+
+1\. [CLS] [SEP] general background
+
+2\. [CLS] [SEP] information we collect and how we use the information
+
+3\. [CLS] [SEP] how your personal data is shared or disclosed?
+
+4\. [CLS] [SEP] how long do we store information?
+
+5\. [CLS] [SEP] data transfer
+
+6\. [CLS] [SEP] how do we protect your information?
+
+7\. [CLS] [SEP] your rights
+
+8\. [CLS] [SEP] modifications to this privacy policy and to the services
+
+9\. [CLS] [SEP] contacting us
+
+**1.** **general background**
+
+**what this means.** _this privacy policy applies to all users of the services
+with specific terms as applicable to each service they use. [CLS] [SEP] as such our role
+with respect to your personal data is derived from the way you access and use
+the services._
+
+this privacy policy applies to all users of the services, as follows (each of
+which shall be referred to as “ **user** ” or “ **you** ”):
+
+(1) passengers: individuals who seek and book transportation services via the
+services, directly or by using a third-party to do;
+
+(2) drivers: individuals who: (i) provide transportation services as members
+of fleets of independent third-party providers of transportation services (“
+**transport providers** ”), and (ii) do not use a driver mobile app provided
+by us in connection with the services. [CLS] [SEP] the privacy policy that applies to
+drivers that use the driver mobile app is available
+[here](https://legal.here.com/en-gb/mobility-driver-app-privacy-notice) and in
+the driver app;
+
+(3) users of our business partners: individuals who access and use the
+services on behalf of our business partners which are transport providers,
+third-parties that manage their transportation services via a specific service
+(“ **transport partners** ”) and third-parties that enable passengers to have
+access to transportation services (“ **demand partners** ”, and all
+collectively “ **business partners** ”); and
+
+(4) websites visitors: individuals who access and use our websites. [CLS] [SEP]
+
+our role and our business partners’ role with respect to your personal data:
+
+**users**
+
+|
+
+**our role**
+
+|
+
+**transport provider**
+
+|
+
+**transport partner**
+
+|
+
+**demand partner**  
+  
+---|---|---|---|---  
+  
+passengers
+
+|
+
+data processor or independent controller according to the service used by the
+business partner
+
+|
+
+data processor/ sub-processor
+
+|
+
+data processor/sub-processor or controller according to the service used
+
+|
+
+data controller  
+  
+drivers
+
+|
+
+data processor
+
+|
+
+data controller
+
+|
+
+na
+
+|
+
+na  
+  
+users of transport provider
+
+|
+
+data processor
+
+|
+
+data controller
+
+|
+
+na
+
+|
+
+na  
+  
+users of transport partner
+
+|
+
+data processor
+
+|
+
+na
+
+|
+
+data controller
+
+|
+
+na  
+  
+users of demand partner
+
+|
+
+data processor
+
+|
+
+na
+
+|
+
+na
+
+|
+
+data controller  
+  
+websites visitors
+
+|
+
+data controller
+
+|
+
+na
+
+|
+
+na
+
+|
+
+na  
+  
+**2\. [CLS] [SEP] information we collect and how we use the information**
+
+**what this means**. [CLS] [SEP] _we collect information about your use of the services
+and your mobile device (if applicable), as well as information you voluntarily
+provide while using and registering for the services. [CLS] [SEP] in addition, we collect
+information about you from other sources as described below._ _the types of
+information we collect are detailed below. [CLS] [SEP] we use that information as
+described in this privacy policy._
+
+**2.1 legal basis for processing**. [CLS] [SEP]
+
+2.1.1 _to provide the services_. [CLS] [SEP] we collect and process your personal data in
+order to provide you with the services in accordance with our contract with
+you comprised of the terms. [CLS] [SEP] in order for us to provide you with the services,
+we have to process the following information:
+
+**_(a) registration/account information_**
+
+when you register and create your account to enable your use of the services,
+we collect certain personal data including your name, phone number and if
+relevant your email address.we may also collect additional information you
+provide to us, such as financial information (for example; payment method and
+credit card number), and additional authentication information, to provide you
+with the services you need (such as payment), or to ensure the integrity of
+the services (for example, prevention of fraud). [CLS] [SEP] the personal data regarding
+your account as a passenger comes directly from you, and if you use the
+services as user of a business partner it may be provided to us from the
+relevant business partner to enable you to use the services. [CLS] [SEP]
+
+you may edit certain of your personal data at any time by using the features
+of your account or by sending us an email to:
+[mobility.support@here.com](mailto:mobility.support@here.com). [CLS] [SEP]
+
+**_(b) device and technical information._**
+
+when you use the services, we will also collect the following data, each to
+the extent applicable to the services that you use: device information that
+includes device id or any other unique device/user identifier, advertiser id,
+publisher id, device type and model, device manufacturer, the applicable
+services version, our business partner relevant user id (if relevant),
+operating system and version, browser type and version, city, language, time
+stamp, ip address, screen resolution. [CLS] [SEP]
+
+**_(c) support information_**
+
+when you interact with us via support or feedback, we will collect certain
+personal data generated by your use of the services or personal data that you
+choose to share with us to better respond to your inquiries. [CLS] [SEP] we may, in
+accordance with applicable law, document your communication with our support
+team or with other similar contact channels. [CLS] [SEP]
+
+**_(d) information provided to us when you book and complete a ride_**
+
+when you request transportation services as a passenger through the services,
+the following information will be collected by us either from you or from our
+relevant business partner requesting the ride on your behalf:
+
+**\- ride request details** : pick-up and/or drop-off location, and any
+additional requirements you may have such as number of passengers, suitcases,
+etc. [CLS] [SEP]
+
+**\- user details** : your name and phone number. [CLS] [SEP]
+
+**\- additional details** : any special requirements you have for the ride
+that you may choose to share with us during the booking process and add for
+your ride when you book it. [CLS] [SEP]
+
+**_(e) information provided to us on drivers from transport providers_**
+
+when you provide your transportation services as a driver in connection with
+the services, the following information will be collected by us from the
+relevant transport provider:
+
+**\- driver details** : your name, phone number and optionally your photo. [CLS] [SEP]
+
+**\- location details** : your location and distance from the pickup location. [CLS] [SEP]
+
+**\- vehicle details** : the license plate number, make and model of the
+vehicle you use. [CLS] [SEP]
+
+please refer to the privacy policy of the business partners to understand more
+about how they will treat the personal data you provide to them. [CLS] [SEP] we are not
+responsible for the privacy practices of others and we recommend you read
+their privacy notices. [CLS] [SEP]
+
+2.1.2 _in our legitimate interests_. [CLS] [SEP] in some circumstances, it may be
+necessary for us to process your personal data for the legitimate interests of
+our ongoing business operations or the operation of the services. [CLS] [SEP] where we
+rely on a legitimate interest to process your data, we will only do so when
+our interests are not outweighed by your individual rights and freedoms. [CLS] [SEP]
+
+our legitimate interests are:
+
+\- investigating, preventing, protecting against and responding to fraud,
+security risks, threats to you and others, and violations of this privacy
+policy or the terms;
+
+\- protecting and defending our rights and properties, including intellectual
+property;
+
+\- understanding, maintaining and improving the services and their usage, user
+experience, and customer relationships;
+
+\- providing an optimized and enhanced user experience;
+
+\- developing new services and features for our users; and
+
+\- communicating with you regarding the services. [CLS] [SEP]
+
+2.1.3 _with your consent_. [CLS] [SEP] there is certain data which we will only use if you
+choose to share it with us. [CLS] [SEP] if you choose to share this data with us, we will
+use it for the following purposes only. [CLS] [SEP] you have the right to withdraw your
+consent at any time. [CLS] [SEP]
+
+**_(a) location data and travel routes_**
+
+your actual geographic location (“ **location data** ”) reveals where you
+currently are and/or where you have been. [CLS] [SEP] location data is based on available
+positioning methods, such as assisted gps. [CLS] [SEP] in many mobile device models, the
+user interface of the mobile device identifies the use of positioning with an
+arrow icon. [CLS] [SEP]
+
+\- when you grant the demand partner permission to access your location data
+to enable the services (whether via its mobile app or otherwise), we collect
+and use information about your location datafor purposes of providing you with
+relevant offers from transport providers and public transportation (if
+applicable). [CLS] [SEP]
+
+\- when you book transportation services via the services we may provide you
+with the ability to access and use a web-based ride tracker via text message,
+that will enable you to track the progress of your driver on a map (if
+available), to see how far the driver is from your location on a map, and to
+track the progress of your ride on a map. [CLS] [SEP] if you chose to use this feature you
+will be asked to grant us permission by your web browser. [CLS] [SEP] once you grant us
+this permission, it will be active each time you chose to access the web-based
+ride tracker until such time that you disable this permission in your web
+browser. [CLS] [SEP] we do not control your browser location settings and therefore, to
+learn more about how your browser collects location data or to disable it,
+please refer to the following: for chrome, at:
+[https://support.google.com/chrome/answer/142065?co=genie.platform%3ddesktop&hl=en](https://support.google.com/chrome/answer/142065?co=genie.platform%3ddesktop&hl=en),
+for safari, at: <https://support.apple.com/en-us/ht204690>, and for firefox,
+at: <https://support.mozilla.org/en-us/kb/does-firefox-share-my-location-
+websites>. [CLS] [SEP]
+
+**you have the ability to disable the location feature of any mobile app you
+use via your mobile device’s settings at all times, and of any webpage/website
+you use via your browser settings at all times. [CLS] [SEP] however, should you do so, the
+services may not function or operate as intended.**
+
+**_(b) cookies and related technologies_**
+
+we may use cookies, web beacons and other similar technologies including such
+technologies provided by third parties to: (i) operate and improve the
+services (including the websites) and related services, (ii) serve and measure
+the effectiveness of advertising campaigns, (iii) and analyze the services
+traffic and trends, and (iv) the online behaviors and interests of users who
+interact with the services. [CLS] [SEP] please review our [cookie
+policy](https://legal.here.com/privacy/cookies) to find out more about how we
+use cookies and how you can disable cookies by browser settings or otherwise. [CLS] [SEP]
+
+in addition, we may use elements provided by third-parties such as cookies,
+web beacons, sdks, and other similar technologies that are placed by these
+third parties on our behalf to identify your device when you visit the
+websites and use the services, as well as when you visit other online sites
+and services. [CLS] [SEP] we use the services of certain third parties to provide us with
+audience measurement and analytics services, to serve advertisements on our
+behalf across the internet, and to track and report on the performance of such
+advertisements. [CLS] [SEP] third parties’ use of cookies, web beacons, sdks, and other
+similar technologies is governed by the privacy notices of those third
+parties, and this privacy policy does not apply to the data processing
+activities of those third parties. [CLS] [SEP] please consult our [cookie
+policy](https://legal.here.com/privacy/cookies) to find out more about the
+third-party services we use. [CLS] [SEP] we do not control how third-party partners
+process your data, and we encourage you to visit their websites to learn more
+about their privacy practices. [CLS] [SEP]
+
+we use amplitude for analytics and to determine which areas of these services
+users like and don’t like, based on traffic to those areas, and which allows
+us to collect metrics on how users interact with the services. [CLS] [SEP] you can learn
+more about how amplitude protects your personal data by clicking here:
+<https://amplitude.com/privacy>. [CLS] [SEP]
+
+we also collect social media handles, content, and other data posted on our
+official social media pages and information (such as email address and other
+information) you allow to be shared through our social media apps, tools,
+widgets and plug-ins. [CLS] [SEP]
+
+**learn more about your choices and how to opt-out of tracking technologies:**
+
+in order to delete or block any tracking technologies, please refer to the
+“help” area on your internet browser for further instructions, or you may also
+opt out of third party tracking technologies by following the instructions
+provided by each third party service provider in its privacy policy listed
+above or visiting [www.youronlinechoices.eu](http://www.youronlinechoices.eu). [CLS] [SEP]
+please note however that deleting any of our tracking technologies or
+disabling future tracking technologies may prevent you from accessing certain
+areas or features of the services that operate on the web or may otherwise
+adversely affect your user experience. [CLS] [SEP]
+
+**_(c) direct marketing communication_**
+
+when you sign up to receive marketing communication from us including news
+regarding the services or request certain marketing information from us, we
+will collect and process your name and email address and optionally your
+business phone number, in order to comply with your request. [CLS] [SEP] we may also
+collect additional information such as your role or job title at the company
+you work for and details about the company you work for. [CLS] [SEP] you may withdraw your
+consent by sending us written notice by email to the following address:
+[mobility.support@here.com](mailto:mobility.support@here.com) or by pressing
+the “unsubscribe” button in the email. [CLS] [SEP]
+
+**_(d) usage analytics_**
+
+when you use the services, we may collect information related to your usage
+patterns and interaction with the services, including the duration of your use
+of the services, information regarding your clicks and error diagnostics,
+including start and stop events, menu items accessed, and features selected or
+default values changed. [CLS] [SEP] we may also collect error diagnostics information
+including for example which actions led to the error. [CLS] [SEP] we collect this
+information with your consent, to provide you with a better experience while
+using the services and to provide you with technical support. [CLS] [SEP]
+
+2.1.4 _to comply with our legal obligations_. [CLS] [SEP] at times we will process your
+personal data where it is necessary for compliance with our legal obligations;
+responding to requests from law enforcement or government authorities or as
+otherwise required by applicable laws and regulations. [CLS] [SEP]
+
+if you want to learn more, please email us at
+[mobility.support@here.com](mailto:mobility.support@here.com). [CLS] [SEP]
+
+**2.2 text message/email communication**
+
+we may contact you, via text message to facilitate the services to you. [CLS] [SEP] you
+may opt out of receiving text messages from us by clicking on the unsubscribe
+link which is part of the text messages you receive, or by sending us an email
+to: [mobility.support@here.com](mailto:mobility.support@here.com). [CLS] [SEP]
+
+please note that we may also contact you, via text messages or email, with
+important information regarding the services, your account and verification
+purposes. [CLS] [SEP] for example, we may notify you (through any of the means available
+to us) of changes or updates to the services, payment issues, service
+maintenance, etc. [CLS] [SEP] you will not be able to opt-out of receive such service
+messages. [CLS] [SEP]
+
+**2.3 information from other sources**
+
+we may collect information about you from other sources that may include your
+personal data. [CLS] [SEP] these sources may include the following: (i) consumers or other
+third parties, providing feedback such as ratings or compliments; (ii) third
+parties providing your information in connection with any referral program;
+(iii) third parties requesting services for or on your behalf; (iv) third
+parties providing information in connection with any claims or disputes; (v)
+our authorized third-party service providers, such as payment providers and
+social media services; (vi) financial services providers (if you are a
+partner); (vii) publicly available sources; and (viii) marketing service
+providers. [CLS] [SEP] please note that we may combine the information collected from such
+sources with other information which is in our possession. [CLS] [SEP]
+
+**2.4 how non-personal data is otherwise processed**
+
+please note that we may use and/or share non-personal data, including in
+aggregated or statistical form, to develop and enhance our products and
+services, with third-party business partners and other third parties. [CLS] [SEP]
+
+**3\. [CLS] [SEP] how your personal data is shared or disclosed**
+
+**what this means.** _sharing information with certain third parties is
+integral to the services. [CLS] [SEP] as a passenger, some of your personal data will be
+shared with business partners and their users for the purpose of facilitating
+the services to you, and as a driver your personal data will be shared with
+passengers and if applicable with demand partners. [CLS] [SEP] in addition, some of your
+personal data will be shared with other third parties, such as our affiliated
+companies and service providers._
+
+**3.1 with business partners**
+
+(a) when you use the services as a passenger, and in order to provide the
+services to you, business partners and their users can see and access
+information about you in circumstances such as when you are using the services
+to book and/or take a ride via demand partners’ products or services, your
+personal data, such as your name, phone number, desired pick-up and drop off
+locations, and any other information you choose to share during the booking
+stage, will be shared with: (i) the relevant demand partner (and its
+representatives); (ii) the relevant transport provider whose transportation
+services you booked; and (iii) the relevant driver providing you with the
+transportation services. [CLS] [SEP]
+
+please refer to the privacy policy of the relevant business partners you
+choose to understand how they will use your data. [CLS] [SEP]
+
+(b) when you provide your transportation services to passengers as a driver,
+passengers and if relevant, demand partners and their users can see and access
+information about you in circumstances such as when your transportation
+services are booked on behalf of a passenger and not by the passenger
+directly. [CLS] [SEP]
+
+**3.2 with affiliated companies**
+
+we will share information with our affiliated companies, to the extent they
+are providing us with services, as may be required for the purposes of
+processing as described above or otherwise as specifically described in this
+privacy policy. [CLS] [SEP]
+
+**3.3 with our authorized third-party service providers**
+
+we share personal data with authorized third-party service providers we use in
+order to facilitate, provide and enhance the services, operate the websites,
+fulfil obligations imposed on us by applicable laws and regulations, and
+prevent fraud and illegal activities. [CLS] [SEP] we take commercially reasonable steps to
+require third-party service providers to adequately safeguard your personal
+data and only process it in accordance with our instructions. [CLS] [SEP]
+
+the following are the categories of third-party service providers that we use:
+(i) analytics and product optimization tools, (ii) community management
+services, (iii) user communication services, (iv) hosting services; (v)
+technical support services and forum hosting; (vi) user acquisition tracking
+services; (vii) viral campaign tracking services; (viii) targeting and
+retargeting services; (ix) third party payment vendors; (x) customer
+relationship management and mailing vendors, (xi) marketing partners and
+marketing platform providers, and (xii) professional service providers. [CLS] [SEP]
+
+**3.4 mergers and acquisitions**
+
+if we decide to sell, buy, merge or otherwise reorganize our business in
+certain countries, this may involve disclosure of personal data to other here
+affiliates, prospective or actual purchasers and their advisers, or receiving
+personal data from sellers and their advisers. [CLS] [SEP]
+
+**3.5 as required by law or in relation to legal proceedings**
+
+we may be obligated by mandatory law to disclose your personal data to certain
+authorities or other third parties, for example, to law enforcement agencies
+in the countries where we or third parties acting on our behalf operate. [CLS] [SEP] we
+may also disclose and otherwise process your personal data in accordance with
+applicable law to defend our legitimate interests, for example, in civil or
+criminal legal proceedings. [CLS] [SEP]
+
+we do not sell, rent, or otherwise share your personal data with third
+parties, except as described in this privacy policy. [CLS] [SEP]
+
+**4\. [CLS] [SEP] how long do we store information** **?**
+
+**what this means** _._ _your personal data is retained as long as you keep
+your account active or as otherwise necessary for protecting our legal rights
+or complying with our legal obligations._
+
+we will retain your personal data related to your account for as long as your
+account is active, and to comply with our legal obligations, resolve disputes,
+and enforce the terms. [CLS] [SEP] after you close your account or if relevant, a business
+partner closes your account, we may retain your data for up to thirty (30)
+calendar days to allow us a reasonable time to properly close your account
+(or, if longer retention of certain data is required under law, we will retain
+such data for such longer period of time). [CLS] [SEP] after such period, we will move
+your relevant data to a ‘legal compliance only’ folder and will retain your
+data or any part thereof, solely as required or otherwise permitted under
+applicable law, whichever is shorter. [CLS] [SEP] our longest retention period is seven
+years for financial information. [CLS] [SEP] once this period has expired, we will delete
+your data. [CLS] [SEP]
+
+if you do not have an account, we will retain your personal data to comply
+with our legal obligations, resolve disputes, enforce the terms, all as
+required or otherwise permitted under applicable law, whichever is shorter. [CLS] [SEP]
+once this period has expired, we will delete your data. [CLS] [SEP]
+
+if your data is being used in aggregated anonymous format, for business
+purpose, this will not be deleted. [CLS] [SEP] such aggregated anonymous data includes,
+for example, historical usage of the services, and rides booked. [CLS] [SEP] you will not
+be identifiable from this data. [CLS] [SEP]
+
+**5\. [CLS] [SEP] data transfer**
+
+**what this means** _._ _your information, including personal data might be
+transferred outside the country where you use the_ _services_ _._
+
+the services may be provided using resources and servers located in various
+countries around the world. [CLS] [SEP] therefore, your personal data may be transferred
+across international borders outside the country where you use the services or
+access our website. [CLS] [SEP] for european users, this means that data may be
+transferred to countries outside the european economic area (eea) or
+switzerland that have different legal rules on data protection, for example,
+the united states of america. [CLS] [SEP] in such cases we ensure that there is a legal
+basis for such a transfer and that adequate protection for your personal data
+is provided as required by applicable law. [CLS] [SEP] if you have any questions about the
+transfer of your data to other countries, please email us at:
+[mobility.support@here.com](mailto:mobility.support@here.com). [CLS] [SEP]
+
+**6\. [CLS] [SEP] how we protect your information?**
+
+**what this means**. [CLS] [SEP] _we use standard industry protocols and technology to
+protect your personal data._
+
+the services incorporate safeguards designed to protect the security,
+integrity, and privacy of the personal data we have collected. [CLS] [SEP] we have put in
+place reasonable precautions to protect information from loss, misuse, and
+alteration, including secure socket layer (ssl) technology on the services. [CLS] [SEP]
+when we collect personal data from you when using the services, such
+information is encrypted and transmitted in a secure way. [CLS] [SEP] please note that
+while we take steps to safeguard your personal data, we have no control over
+how other users of the services and the public at large may use the
+information you choose to share while using the services. [CLS] [SEP]
+
+**7\. [CLS] [SEP] your rights**
+
+**what this means**. [CLS] [SEP] _you have a right to access, correct, amend, delete, stop
+us using or object to our use of your personal data or request that we
+transfer certain personal data to a third party, or withdraw the consent you
+have previously given, at any time._
+
+if applicable law grants you such rights and subject to the limitations in
+applicable law, you may have the following rights in relation to your personal
+data:
+
+**\- right of access** to your personal data. [CLS] [SEP] this enables you to receive a
+copy of the personal data that we hold about you. [CLS] [SEP]
+
+**\- right of correction** of the personal data that we hold about you. [CLS] [SEP] this
+enables you to have any incomplete or inaccurate data we hold about you
+corrected, although we may need to verify the accuracy of the new data that
+you provide to us. [CLS] [SEP]
+
+**\- right to deletion** of your personal data. [CLS] [SEP] this enables you to ask us to
+delete or remove personal data in certain circumstances. [CLS] [SEP] please note, however,
+that we may retain your data in certain circumstances in accordance with law,
+which will be notified to you, if applicable, at the time of your request. [CLS] [SEP]
+
+**\- right to stop us processing** of your personal data. [CLS] [SEP] this enables you to
+ask us to suspend the processing of your personal data in the following
+scenarios: (a) if you would like us to establish the accuracy of such data;
+(b) where our use of the data is unlawful, but you do not want us to erase it;
+(c) where you need us to hold the data even if we no longer require it as you
+need it to establish, exercise or defend legal claims; or (d) you have
+objected to our use of your data, but we need to verify whether we have
+overriding legitimate grounds to use it. [CLS] [SEP]
+
+**\- right to portability** of your personal data to you or to a third party. [CLS] [SEP]
+if you so request, we shall provide you, or a third party that you have
+chosen, with a copy of certain personal data in a structured, commonly used,
+machine-readable format. [CLS] [SEP] please note that this right only applies to
+information that you initially provided consent for us to use or where we used
+the information to perform our contract with you. [CLS] [SEP]
+
+**\- right to object to processing** of your personal data where we are
+relying on a legitimate interest (or those of a third party) and there is
+something about your particular situation that makes you want to object to
+processing on this ground and we will consider whether we have compelling
+reasons to continue to process your data. [CLS] [SEP]
+
+**\- right to object to direct marketing** you also have the right to object
+where we are processing your personal data for direct marketing purposes. [CLS] [SEP]
+
+**\- right to withdraw consent at any time** where we are relying on consent
+to process your personal data. [CLS] [SEP] if you withdraw your consent, we may not be
+able to provide certain products, content or services to you. [CLS] [SEP] you may always
+be able to opt out of receiving marketing emails and/or text messages from us
+by clicking on the unsubscribe link which is part of the email and/or text
+messages you receive. [CLS] [SEP]
+
+if you wish to exercise these rights, or if you wish to revise your privacy
+permissions or choices please email us at:
+[mobility.support@here.com](mailto:mobility.support@here.com). [CLS] [SEP]
+
+if you believe your privacy has been compromised, please email us at:
+[mobility.support@here.com](mailto:mobility.support@here.com) as soon as you
+can. [CLS] [SEP]
+
+please note that where we act as data processer with respect to your personal
+data, you must contact the relevant business partner who acts as the data
+controller with respect to your personal data, to exercise your rights. [CLS] [SEP]
+
+**8\. [CLS] [SEP] modifications to this privacy policy and to the services**
+
+**what this means.** _we reserve the right to modify this privacy policy, and
+we will notify you and ask for your consent through the services in case of
+modifications that materially change the treatment of personal data._
+
+we may modify this privacy policy at any time, at our discretion, and
+modifications are effective upon being posted on any part of the services, the
+next time you use the services whether by pop-up notification or otherwise. [CLS] [SEP]
+such modifications will not change the scope of our collection or use of your
+personal data collected before such modifications. [CLS] [SEP] the date on which this
+privacy policy was last revised is identified at the top of the page. [CLS] [SEP] if we
+make material changes to how we treat your personal data, we will also ask for
+your consent to such changes through the services. [CLS] [SEP] in case you choose not to
+provide your consent upon a material change, we may need to close your
+account. [CLS] [SEP]
+
+the features of the services, including features that involve data collection,
+use, and disclosure, will evolve over time as we develop new, or discontinue
+existing, functionalities for the services. [CLS] [SEP] we may require registration or
+consent for additional features that may be developed or added to the services
+from time to time. [CLS] [SEP] when we add new features to the services that involve
+processing personal data, we will update this privacy policy and notify you of
+the changes. [CLS] [SEP] when we discontinue features that involve processing your
+personal data, we will cease using your personal data for the purposes of
+providing those features. [CLS] [SEP]
+
+**9\. [CLS] [SEP] contacting us**
+
+**what this means.** _you may contact us either via email or post mail at
+these addresses._
+
+questions or concerns about this privacy policy can be directed to us via
+email at [mobility.support@here.com](mailto:mobility.support@here.com) or at:
+
+here global b.v
+
+c/o privacy
+
+kennedyplein 222 -226
+
+5611 zt eindhoven
+
+the netherlands
+
+the company’s data protection officer can be contacted at:
+
+henri kujala
+
+here deutschland gmbh
+
+invalidenstrasse 116
+
+10115 berlin
+
+germany
+
+email: [mobility.privacy@here.com](mailto:mobility.privacy@here.com)
+
+if you are not satisfied with the company’s response or believe we are
+processing your personal data not in accordance with the law, you have the
+right to lodge a complaint with your local data protection authority. [CLS] [SEP] contact
+information for your local data protection authority can be found here:
+<http://ec.europa.eu/justice/data-protection/article-29/structure/data-
+protection-authorities/index_en.htm>. [CLS] [SEP]
+
+## footer
+
+  * [terms of use](/en-gb/terms)
+  * [privacy policy](/en-gb/privacy)
+  * [cookie policy](/en-gb/privacy/cookie-policy)
+  * [© 2021 here](/en-gb/terms/imprint-impressum)
+

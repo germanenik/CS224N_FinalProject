@@ -1,0 +1,217 @@
+toggle navigation [![f.lux](//justgetflux.com/flux-icon-sm.png)](/) [f.lux](/)
+
+  * [news](/news)
+  * [forum](https://forum.justgetflux.com/)
+  * [research](/news/../research.html)
+  * [faq](/news/../faq.html)
+
+## f.lux privacy policy
+
+### overview
+
+when you visit the f.lux website or use our software, we work hard to protect
+your privacy. [CLS] [SEP]
+
+like most websites, our website uses cookies and google analytics, and we also
+use forum software provided by third parties (nodebb). [CLS] [SEP]
+
+our software uses online mapping services (including google maps) to find your
+location, usually just once when you set things up. [CLS] [SEP] f.lux needs this
+information to calculate the times of your sunrise and sunset. [CLS] [SEP] since operating
+systems and hardware are changing quickly, f.lux also has an automatic update
+feature that does daily checks and sends some information about your computer
+configuration to us. [CLS] [SEP] we collect information about which versions and features
+of the f.lux software are used. [CLS] [SEP] when you tell us to, we integrate with your
+home lighting (and to make this work, sometimes we talk to web services owned
+and operated by other companies). [CLS] [SEP] if we interact with you over social media,
+we are not in control of what third-party companies do. [CLS] [SEP]
+
+we intend that everything we do that could impact your privacy is visible to
+you. [CLS] [SEP] for example, in the software, you can see a google map displayed in a
+window, and updates to the software can be skipped. [CLS] [SEP]
+
+you can read our full legal policy, below. [CLS] [SEP]
+
+### f.lux privacy policy
+
+we at f.lux software llc (âcompanyâ) know you care about the information
+we may collect from you and that you may provide to us and how that
+information is used and shared. [CLS] [SEP] please read the following to learn more about
+our privacy policy. [CLS] [SEP] for the purposes of this privacy policy, âsoftwareâ
+means the f.lux software you are about to (or have already) downloaded and/or
+installed, and âwebsiteâ refers to the
+[justgetflux.com](https://justgetflux.com) website and related online services
+operated by the company. [CLS] [SEP] by using the software in any manner, you acknowledge
+that you accept the practices and policies outlined in this privacy policy,
+and you hereby consent that we will collect, use, and share your information
+in the following ways. [CLS] [SEP]
+
+remember that your use of companyâs software is at all times subject to the
+[end user license agreement](../eula/), which incorporates this privacy
+policy. [CLS] [SEP] any terms we use in this policy without defining them have the
+definitions given to them in the [end user license agreement](../eula/). [CLS] [SEP]
+
+### what does this privacy policy cover?
+
+this privacy policy covers our treatment of information that we gather when
+you are accessing or using our website and software, but not to the practices
+of companies we donât own or control, or people that we donât manage. [CLS] [SEP] we
+gather various types of information from our users, as explained in more
+detail below, and we use this information in connection with our software,
+including to personalize, provide, and improve our software and to analyze how
+you use the software. [CLS] [SEP] in certain cases, we may also share some information
+with third parties, but only as described below. [CLS] [SEP]
+
+we do not knowingly collect or solicit personal information from anyone under
+the age of 13. [CLS] [SEP] if you are under 13, please do not attempt to download the
+software and/or send or provide any personal information about yourself to us. [CLS] [SEP]
+if we learn that we have collected personal information from a child under age
+13, we will delete that information as quickly as possible. [CLS] [SEP] if you believe
+that a child under 13 may have provided us personal information, please
+contact us at [support@justgetflux.com](mailto:support@justgetflux.com). [CLS] [SEP]
+
+### will company ever change this privacy policy?
+
+weâre constantly trying to improve our software, so we may need to change
+this privacy policy from time to time as well, but we will alert you to
+changes by placing a notice on [justgetflux.com](justgetflux.com), by sending
+you a notification (as described in more detail below), and/or by some other
+means. [CLS] [SEP] please note that if youâve opted not to receive legal notices from
+us, those legal notices will still govern your use of the software, and you
+are still responsible for reading and understanding them. [CLS] [SEP] if you use the
+software after any changes to the privacy policy have been posted, that means
+you agree to all of the changes. [CLS] [SEP] use of information we collect now is subject
+to the privacy policy in effect at the time such information is used. [CLS] [SEP]
+
+### what information does company collect?
+
+#### information you provide to us
+
+we receive and store any information you knowingly provide to us. [CLS] [SEP] for example,
+if you use our software to search for your location, we may collect
+geolocation data (including, without limitation, city names and specific
+addresses you provide). [CLS] [SEP] we may also collect usage information such as your
+software settings and preferences, and system information (including, without
+limitation, make and model of your computer, driver versions, and connected
+display types). [CLS] [SEP] certain information may be required to take advantage of some
+of our features. [CLS] [SEP]
+
+if you request support or ask a question about the software, we may
+communicate with you if youâve provided us the means to do so (either
+directly or through a third party service and/or an email provider). [CLS] [SEP] for
+example, we may send you emails about your use of the software or responses to
+comments or questions you may have. [CLS] [SEP]
+
+#### information collected automatically
+
+whenever you interact with our website or software using your browser or
+device, we automatically receive and record information in our server logs,
+which may include your ip address, device identification, âcookieâ
+information, system and display information, and the type of browser and/or
+device on which youâre using or accessing our website or software. [CLS] [SEP]
+
+âcookiesâ are identifiers we transfer to your browser or device that allow
+us to recognize your browser or device and tell us how and when features in
+our software are visited and by how many people. [CLS] [SEP] you may be able to change the
+preferences on your browser or device to prevent or limit your deviceâs
+acceptance of cookies, but this may prevent you from taking advantage of some
+of our features. [CLS] [SEP] this privacy policy does not cover the use of cookies by any
+third parties, and we arenât responsible for their privacy policies and
+practices. [CLS] [SEP] we may also automatically collect information such as geo-location
+data based on the ip address of your device(s). [CLS] [SEP]
+
+when we collect the usage information described above, we only use this data
+in aggregate form, and not in a manner that would identify you personally. [CLS] [SEP] for
+example, this aggregate data can tell us how many users speak a particular
+language, or how many people use a particular feature of the software, and we
+can use that knowledge to make the software useful to as many users as
+possible. [CLS] [SEP]
+
+#### information collected if you synchronize your settings
+
+some versions of f.lux will allow you to synchronize settings with our
+networked servers. [CLS] [SEP] this feature allows you to subscribe to networked lighting
+schedules, to use the same schedule across your devices, and to control third-
+party lighting products. [CLS] [SEP]
+
+when you choose to use this synchronization feature, you agree that our
+servers may transmit, record, and change your f.lux settings. [CLS] [SEP] you will have
+the option to disconnect at any time. [CLS] [SEP]
+
+### how will company use information that it collects?
+
+#### notifications
+
+from time to time, company may send notifications or messages (each, a
+ânotificationâ) to you on the device(s) on which you are using the
+software as part of our automatic updates. [CLS] [SEP] company may send you notifications
+to highlight new features or tell you about changes to the software. [CLS] [SEP]
+notifications will display using a system notifier, or your default web
+browser (because this is the most secure way for company to communicate these
+messages to you). [CLS] [SEP] you may opt out of receiving notifications by disabling
+software updates. [CLS] [SEP]
+
+### will company share any of the information it receives?
+
+we neither rent nor sell your information in personally identifiable form to
+anyone. [CLS] [SEP] however, we may share your information with third parties as described
+in this section:
+
+**third parties:** on our website or in the software, we may utilize services
+available to us (such as google maps, philips hue, and email providers), and
+we may partner or work with third party services (such as lighting controls,
+fitness, geolocation providers, or home automation companies) to offer you
+certain features in connection with the software, and such third party
+services may collect information from our users. [CLS] [SEP] similarly, we may offer
+support services via social networks like facebook and twitter. [CLS] [SEP] we have no
+control over the policies and practices of third party services as to privacy
+or anything else, so please familiarize yourself with their policies. [CLS] [SEP]
+
+**agents:** we may employ other companies and people to perform tasks on our
+behalf and need to share your information with them to provide products or
+software to you. [CLS] [SEP] unless we tell you differently, our agents do not have any
+right to use the information we share with them beyond what is necessary to
+assist us. [CLS] [SEP]
+
+**business transfers:** we may choose to buy or sell assets. [CLS] [SEP] in these types of
+transactions, customer information is typically one of the business assets
+that would be transferred. [CLS] [SEP] also, if we (or our assets) are acquired, or if we
+go out of business, enter bankruptcy, or go through some other change of
+control, information could be one of the assets transferred to or acquired by
+a third party. [CLS] [SEP]
+
+**partners:** we may work with select partners to distribute the software (for
+example, to install f.lux with a new pc). [CLS] [SEP] in these cases, we may share
+aggregate traffic data (number of installs, number of active users) with these
+third parties. [CLS] [SEP]
+
+**protection of company and others:** we reserve the right to access, read,
+preserve, and disclose any information that we believe is necessary to comply
+with law or court order; enforce or apply our [end user license
+agreement](../eula/) and other agreements; or protect the rights, property, or
+safety of company, our employees, our users, or others. [CLS] [SEP]
+
+### how can i be sure f.lux is safe to install?
+
+the service virustotal.com (which automatically runs a large number of anti-
+virus and safety checks) provides the following analysis of our software and
+practices:
+
+  * [flux-setup.exe for windows](https://www.virustotal.com/en/url/303eb91511fc68d2ca39f0b642b1ca7aa730cdd9cedb6110f76d94f78ac061ec/analysis/1480984776/)
+  * [flux.zip for mac](https://www.virustotal.com/en/file/7c201bfe37cc3e670a200a60a72caf298036a6335b237bf04e17efdd9ff879ab/analysis/1402862470/)
+  * [justgetflux website](https://www.virustotal.com/en/url/cb0c74a15458556a891499ecb67b05a87398be0927aaaff7c29b0f2a741884fe/analysis/)
+
+### what if i have questions about this policy?
+
+if you have any questions or concerns regarding our privacy policies, please
+send us a detailed message to
+[support@justgetflux.com](mailto:support@justgetflux.com), and we will try to
+resolve your concerns. [CLS] [SEP]
+
+effective date: november 25, 2013
+
+email for further information:
+[support@justgetflux.com](mailto:support@justgetflux.com)
+
+copyright f.lux software llc 2008-2020
+

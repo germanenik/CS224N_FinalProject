@@ -1,0 +1,270 @@
+skip navigation links
+
+[![let's encrypt](/images/letsencrypt-logo-horizontal.svg)](/) __
+
+  * [documentation](/docs/)
+  * [get help](https://community.letsencrypt.org/)
+  * donate
+    * [make a donation](/donate/)
+    * [become a sponsor](/become-a-sponsor/)
+    * [current sponsors and funders](/sponsors/)
+    * [get involved](/getinvolved/)
+  * about us
+    * [let's encrypt](/about/)
+    * [internet security research group (isrg)](https://www.abetterinternet.org/about/)
+    * [frequently asked questions (faq)](/docs/faq/)
+    * [policy and legal repository](/repository/)
+    * [service status](https://letsencrypt.status.io/)
+    * [statistics](/stats/)
+    * [careers](https://www.abetterinternet.org/careers/)
+    * [contact](/contact/)
+  * languages ![](/images/language-icon128px-black.png)
+    * [✓ english](/privacy/)
+    * [deutsch](/de/privacy/)
+    * [español](/es/privacy/)
+    * [français](/fr/privacy/)
+    * [עברית](/he/privacy/)
+    * [bahasa indonesia](/id/privacy/)
+    * [日本語](/ja/privacy/)
+    * [한국어](/ko/privacy/)
+    * [português do brasil](/pt-br/privacy/)
+    * [русский](/ru/privacy/)
+    * [srpski](/sr/privacy/)
+    * [svenska](/sv/privacy/)
+    * [tiếng việt](/vi/privacy/)
+    * [简体中文](/zh-cn/privacy/)
+    * [繁體中文](/zh-tw/privacy/)
+
+# privacy policy
+
+[ auf deutsch ansehen ](/de/privacy/)
+
+[ ver en español ](/es/privacy/)
+
+[ לעבור לעברית ](/he/privacy/)
+
+[ 한국어로 보기 ](/ko/privacy/)
+
+[ 使用简体中文阅读本网页。 ](/zh-cn/privacy/)
+
+last updated: jul 27, 2020
+
+the let’s encrypt privacy policy describes how we collect, use, and disclose
+your information in three different contexts:
+
+  * when, as a relying party, you visit a web site secured with https that uses a certificate from let’s encrypt,
+  * when you are a subscriber, i.e., when you request and use certificates from let’s encrypt,
+  * when you are a visitor to the let’s encrypt web site, community discussion forum, other web pages under letsencrypt.org, and third-party social media sites on which let’s encrypt operates an account. [CLS] [SEP]
+
+let's encrypt is a service provided by [internet security research
+group](https://www.abetterinternet.org/), a california (united states)
+nonprofit public benefit corporation. [CLS] [SEP]
+
+## relying party
+
+when you use an https web site or other tls service with a let’s encrypt
+certificate, your browser (or tls client) may query let’s encrypt to check
+whether the certificate has been revoked (“ocsp request”). [CLS] [SEP] if your browser
+makes an ocsp request, our servers will automatically record your ip address,
+browser, and operating system in temporary server log files. [CLS] [SEP] we do not use
+data from ocsp requests to build profiles or identify individuals. [CLS] [SEP] temporary
+server logs are used for operational purposes only and are normally deleted in
+less than seven days. [CLS] [SEP] we may retain a subset of server logs for longer periods
+in order to investigate software failures or abuse. [CLS] [SEP] if we do so, we will
+delete any stored logs when we are done investigating. [CLS] [SEP] we may also compute,
+retain and publish aggregate information from server logs, such as which
+certificates generate the largest volume of requests. [CLS] [SEP] we will always strive to
+ensure that such datasets do not contain information about the activities of
+identifiable users or devices. [CLS] [SEP]
+
+## subscriber
+
+if you are a subscriber, you are requesting a trusted certificate from let’s
+encrypt intended to publicly vouch that you control a certain domain name or
+names that are reachable on the internet. [CLS] [SEP] as part of the process of proving
+that control, let’s encrypt will collect various information related to
+certificate authentication and management. [CLS] [SEP] that information includes the ip
+addresses from which you access the let’s encrypt service; all resolved ip
+addresses for any domain names requested; server information related to any
+validation requests; full logs of all inbound http / acme requests, all
+outbound validation requests; and information sent by or inferred from your
+client software. [CLS] [SEP] we will store this information for a minimum of seven years
+per trusted root program requirements. [CLS] [SEP] this information will be stored for a
+maximum of ten years. [CLS] [SEP]
+
+we need to be able to demonstrate to the public, including those who rely on
+the trustworthiness of our certificates, that our services perform as
+expected. [CLS] [SEP] as a result, we may be unable to delete information, including ip
+addresses. [CLS] [SEP] this information may be made public in a number of ways, including
+via public api, public repositories, and/or public discussions. [CLS] [SEP]
+
+you may have the option to provide contact information, such as your email
+address, for account service and recovery purposes. [CLS] [SEP] your contact information
+will not be made public, and it will only be shared per “law enforcement and
+extenuating circumstances,” below. [CLS] [SEP] by providing your email address, you are
+consenting to receive service-related emails from us. [CLS] [SEP] you may unsubscribe from
+service-related emails at any time by clicking the “unsubscribe” link at the
+bottom of our emails or by contacting us at
+[security@letsencrypt.org](mailto:security@letsencrypt.org). [CLS] [SEP] we will not use
+your contact information for marketing or promotional purposes. [CLS] [SEP]
+
+you may need to download client software from a repository such as those run
+by debian, ubuntu, red hat, or github. [CLS] [SEP] your interaction with such a software
+repository is governed by that repository’s own privacy policy and/or terms of
+use. [CLS] [SEP]
+
+## visitor
+
+when you are a visitor browsing the let’s encrypt web site, you have the
+option to make a donation. [CLS] [SEP] donations are processed by our trusted payment
+partners including donorbox, stripe, shopify, and paypal, depending on the
+payment method selected. [CLS] [SEP] we collect your name and email address when you
+donate. [CLS] [SEP] we will not use your email address to contact you without your consent
+unless we feel it's necessary to resolve an issue related to a particular
+donation. [CLS] [SEP] your interactions with [donorbox](https://donorbox.org/privacy),
+[stripe](https://stripe.com/privacy/), and
+[paypal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) are governed
+by their respective privacy policies. [CLS] [SEP] we do not collect or retain any credit
+card or bank information related to donations. [CLS] [SEP] if we collect a physical
+address, we will only retain your physical address information for as long as
+is reasonably necessary to make the shipment that you requested. [CLS] [SEP]
+
+you have the option to provide your email address to receive the let’s encrypt
+newsletter through a signup on this web site and via other marketing
+materials. [CLS] [SEP] the newsletter is delivered via mailchimp and your interactions
+with mailchimp are governed by its privacy policy. [CLS] [SEP] we may occasionally use
+your email address to send personalized communications related to let’s
+encrypt. [CLS] [SEP] you can request to have your email address removed from our list by
+opting out via mailchimp or emailing us at
+[press@letsencrypt.org](mailto:press@letsencrypt.org)
+
+if you register to use the let’s encrypt community support forum, the personal
+information you provide and your actions there are governed by the privacy
+policy of our hosting and software provider for the forum, [civilized
+discourse construction kit](https://www.discourse.org/privacy). [CLS] [SEP] we do not
+collect or maintain personal information through our offering of this support
+forum. [CLS] [SEP]
+
+additionally, we use google analytics to gauge traffic and popular pages on
+our web site. [CLS] [SEP] as part of that service, we place google analytics cookies on
+our site. [CLS] [SEP] these cookies do not contain personal information but can uniquely
+identify your browser software over time on our site. [CLS] [SEP] we respect the [do not
+track](http://donottrack.us/) header by strictly limiting the information our
+analytics services can collect and share for all visitors. [CLS] [SEP]
+
+## we do not sell your data or information
+
+we do not sell your data or information. [CLS] [SEP] this includes relying party,
+subscriber, and visitor data and information. [CLS] [SEP]
+
+## law enforcement requests and extenuating circumstances
+
+to the extent we possess it, we may disclose personally identifiable
+information about you to third parties in limited circumstances. [CLS] [SEP] such
+circumstances include when we have your consent or when we have a good faith
+belief it is required by law, such as pursuant to a subpoena or other judicial
+or administrative order. [CLS] [SEP] we may also disclose account recovery information
+when we have a good faith belief it is necessary to prevent loss of life,
+personal injury, damage to property, or significant financial harm. [CLS] [SEP]
+
+if we are required by law to disclose the information that you have submitted,
+we will attempt to provide you with prior notice (unless we are prohibited, or
+it would be futile) that a request for your information has been made in order
+to give you an opportunity to object to the disclosure. [CLS] [SEP] we will attempt to
+provide this notice by whatever means is reasonably practical. [CLS] [SEP] if you do not
+challenge the disclosure request, we may be legally required to turn over your
+information. [CLS] [SEP]
+
+in addition, we reserve the right, solely at our discretion, to independently
+object to certain requests (for access to information about users of our
+products and technologies) that we believe to be improper. [CLS] [SEP]
+
+## what rights do european economic area relying parties, subscribers, and
+visitors have under gdpr, and how can i exercise them?
+
+we process personal data as described in this policy. [CLS] [SEP] the purpose and lawful
+basis for information processing is as follows:
+
+**purpose:** providing certificate status (ocsp) information  
+**lawful basis:** legitimate interests  
+**additional information:** we collect and process information from relying
+parties in order to reliably provide certificate status information. [CLS] [SEP]
+
+**purpose:** providing certificate issuance and management services  
+**lawful basis:** contract, legitimate interests  
+**additional information:** we collect and process information from
+subscribers in order to provide reliable and secure certificate issuance and
+management services, and to demonstrate to the public that our services
+perform as expected. [CLS] [SEP]
+
+**purpose:** providing information to visitors  
+**lawful basis:** consent, legitimate interests  
+**additional information:** we collect and process information from visitors
+in order to provide information via the web and email in a reliable and
+efficient manner. [CLS] [SEP]
+
+**purpose:** processing donations and sponsorship inquiries  
+**lawful basis:** legitimate interests  
+**additional information:** we collect and process information in order to
+process and support donations. [CLS] [SEP]
+
+**purpose:** legal obligations and extenuating circumstances  
+**lawful basis:** legal obligation, legitimate interests  
+**additional information:** we may collect and process information in order to
+comply with legal obligations and when we have a good faith belief it is
+necessary to prevent loss of life, personal injury, damage to property, or
+significant financial harm. [CLS] [SEP]
+
+please note that we may be unable to delete information, including ip
+addresses, as this information is necessary for others to rely on in
+determining the trustworthiness of our certificates. [CLS] [SEP] in some cases, we may
+process personal data pursuant to legal obligation or to protect your vital
+interests or those of another person. [CLS] [SEP]
+
+your personal data may be collected from or transferred to jurisdictions where
+we and our service providers store or process data, including the united
+states. [CLS] [SEP] these jurisdictions may not provide the same level of data protection
+as your jurisdiction, including the eea. [CLS] [SEP] we have taken steps to ensure that
+our service providers provide an adequate level of protection for the personal
+data of eea residents, including by entering into data processing agreements
+using the european commission-approved standard contractual clauses, or by
+using other safeguards approved by the european commission. [CLS] [SEP] you have a right
+to obtain details of the mechanism under which your personal information is
+transferring outside the eu by emailing us at the contact information below. [CLS] [SEP]
+
+individuals located in the european economic area (eea) have certain rights in
+respect to their personal information, including the right to access, correct,
+or delete personal data we process through your use of our sites and services. [CLS] [SEP]
+if you're an individual who is a relying party, subscriber, or visitor based
+in the eea, you can:
+
+  * request a personal data report by emailing us at [security@letsencrypt.org](mailto:security@letsencrypt.org). [CLS] [SEP] this report will include the personal data we have about you, provided to you in a structured, commonly used, and portable format. [CLS] [SEP] please note that we may request additional information from you to verify your identity before we disclose any information. [CLS] [SEP]
+  * request that your information be corrected or deleted by contacting us at [security@letsencrypt.org](mailto:security@letsencrypt.org). [CLS] [SEP]
+  * object to us processing your information. [CLS] [SEP] you can ask us to stop using your information, including when we use your information to send you service emails. [CLS] [SEP] you may withdraw your consent to receive service emails at any time by clicking the “unsubscribe” link found within let’s encrypt emails. [CLS] [SEP]
+  * complain to a regulator. [CLS] [SEP] if you're based in the eea and think that we haven't complied with data protection laws, you have a right to lodge a complaint with your local supervisory authority. [CLS] [SEP]
+
+for more information, or to report a privacy issue, please contact:
+[security@letsencrypt.org](mailto:security@letsencrypt.org)
+
+## support a more secure and privacy-respecting web. [CLS] [SEP]
+
+[donate](/donate/)
+
+  * __[ github ](https://github.com/letsencrypt)
+  * __[ twitter ](https://twitter.com/letsencrypt)
+
+view our [privacy policy](/privacy/). [CLS] [SEP]  
+view our [trademark policy](/trademarks/). [CLS] [SEP]
+
+let's encrypt is a free, automated, and open certificate authority brought to
+you by the nonprofit [internet security research group
+(isrg)](https://www.abetterinternet.org/). [CLS] [SEP]
+
+548 market st, pmb 57274, san francisco, ca 94104-5401, usa
+
+[![linux foundation collaborative projects](/images/linux-
+foundation.png)](https://collabprojects.linuxfoundation.org/)
+
+linux foundation is a registered trademark of the linux foundation. [CLS] [SEP] linux is a
+registered trademark of linus torvalds. [CLS] [SEP]
+
