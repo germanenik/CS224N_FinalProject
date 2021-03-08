@@ -54,7 +54,7 @@ def fairseq_preprocess(dataset):
                 '--srcdict',
                 '/home/legalese/CS224N_FinalProject/access/model/dict.complex.txt',
                 '--tgtdict',
-                '/home/legalese/CS224N_FinalProject/access/access/model/dict.simple.txt',
+                '/home/legalese/CS224N_FinalProject/access/model/dict.simple.txt',
             ])
             print(preprocess_args)
             preprocess.main(preprocess_args)
