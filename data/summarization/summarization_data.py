@@ -80,4 +80,4 @@ if __name__ == '__main__':
     # swap_separators('full_texts/')
     # swap_separators('quotes/')
     #download_ToS_pages()
-    add_separators_to_texts('new_full_texts/')
+    #add_separators_to_texts('new_full_texts/')
