@@ -176,10 +176,11 @@ quiz](/cs/cs_quiz.asp) [xml quiz](/xml/xml_quiz.asp)
 
 [html certificate](/cert/cert_html_new.asp) [css
 certificate](/cert/cert_css.asp) [javascript
-certificate](/cert/cert_javascript.asp) [sql certificate](/cert/cert_sql.asp)
+certificate](/cert/cert_javascript.asp) [front end
+certificate](/cert/cert_frontend.asp) [sql certificate](/cert/cert_sql.asp)
 [php certificate](/cert/cert_php.asp) [python
-certificate](/cert/cert_python.asp) [jquery
-certificate](/cert/cert_jquery.asp) [bootstrap
+certificate](/cert/cert_python.asp) [java certificate](/cert/cert_java.asp)
+[jquery certificate](/cert/cert_jquery.asp) [bootstrap
 certificate](/cert/cert_bootstrap.asp) [xml certificate](/cert/cert_xml.asp)
 
   
@@ -210,12 +211,12 @@ free!](https://mypage.w3schools.com/mypage/login.php?logintyp=1)
 ## about us
 
 [about w3schools](default.asp) [about terms](about_copyright.asp) [about
-privacy](about_privacy.asp) [about advertising](about_advert.asp)  
+privacy](about_privacy.asp)  
   
 
 # about privacy
 
-[❮ previous](about_copyright.asp) [next ❯](about_advert.asp)
+[❮ previous](about_copyright.asp) [next ❯](default.asp)
 
 * * *
 
@@ -424,7 +425,7 @@ larsamyraa 18, 4313 sandnes, norway
 
   
 
-[❮ previous](about_copyright.asp) [next ❯](about_advert.asp)
+[❮ previous](about_copyright.asp) [next ❯](default.asp)
 
   
 
@@ -461,14 +462,13 @@ started](https://courses.w3schools.com)
 [range sliders](/howto/howto_js_rangeslider.asp)  
 [tooltips](/howto/howto_css_tooltip.asp)  
 [slideshow](/howto/howto_js_slideshow.asp)  
-[filter list](/howto/howto_js_filter_lists.asp)  
 [sort list](/howto/howto_js_sort_list.asp)  
 
 ##### [certificates](/cert/default.asp)
 
 [html](/cert/cert_html.asp) [css](/cert/cert_css.asp)
-[javascript](/cert/cert_javascript.asp) [python](/cert/cert_python.asp)
-[sql](/cert/cert_sql.asp) [php](/cert/cert_php.asp) [and
+[javascript](/cert/cert_javascript.asp) [front end](/cert/cert_frontend.asp)
+[python](/cert/cert_python.asp) [sql](/cert/cert_sql.asp) [and
 more](/cert/default.asp)
 
 * * *
@@ -552,11 +552,14 @@ your message has been sent to w3schools. [CLS] [SEP]
 [html course](https://courses.w3schools.com/courses/html)  
 [css course](https://courses.w3schools.com/courses/css)  
 [javascript course](https://courses.w3schools.com/courses/javascript)  
+[front end course](https://courses.w3schools.com/programs/front-end)  
 [sql course](https://courses.w3schools.com/courses/sql)  
 [python course](https://courses.w3schools.com/courses/python)  
-[jquery course](https://courses.w3schools.com/courses/jquery)  
 [php course](https://courses.w3schools.com/courses/php)  
-[bootstrap course](https://courses.w3schools.com/courses/bootstrap)  
+[jquery course](https://courses.w3schools.com/courses/jquery)  
+[java course](https://courses.w3schools.com/courses/java)  
+[c++ course](https://courses.w3schools.com/courses/cplusplus)  
+[c# course](https://courses.w3schools.com/courses/c-sharp)  
 [xml course](https://courses.w3schools.com/courses/xml)  
 [ get certified »](https://courses.w3schools.com/)
 
