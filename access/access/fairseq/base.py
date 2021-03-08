@@ -52,9 +52,9 @@ def fairseq_preprocess(dataset):
                 '--output-format',
                 'raw',
                 '--srcdict',
-                '/Users/henryzhang/Documents/Stanford/2020-2021/CS224N/finalProject/access/model/dict.complex.txt',
+                '/home/legalese/CS224N_FinalProject/access/model/dict.complex.txt',
                 '--tgtdict',
-                '/Users/henryzhang/Documents/Stanford/2020-2021/CS224N/finalProject/access/model/dict.simple.txt',
+                '/home/legalese/CS224N_FinalProject/access/access/model/dict.simple.txt',
             ])
             print(preprocess_args)
             preprocess.main(preprocess_args)
@@ -87,7 +87,7 @@ def fairseq_train(
         optimizer='nag',
         validations_before_sari_early_stopping=40,
         fp16=False,
-        restore_file_path='/Users/henryzhang/Documents/Stanford/2020-2021/CS224N/finalProject/access/model/checkpoints/checkpoint_best.pt'):
+        restore_file_path='/home/legalese/CS224N_FinalProject/access/model/checkpoints/checkpoint_best.pt'):
     exp_dir = Path(exp_dir)
     with log_stdout(exp_dir / 'fairseq_train.stdout'):
         preprocessed_dir = Path(preprocessed_dir)
