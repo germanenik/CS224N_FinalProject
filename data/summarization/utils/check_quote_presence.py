@@ -9,7 +9,14 @@ def calc_quote_presence(args):
     assert full_is_dir == ref_is_dir
 
     full_files = os.listdir(full)
-    ref_files = sorted(os.listdir(ref))
+
+    ref_files = os.listdir(ref)
+    print(len(ref_files))
+    if args.num_files:
+        ref_files = ref_files[args.start_file_pos:args.start_file_pos+args.num_files]
+    else:
+        ref_files = ref_files[args.start_file_pos:]
+    ref_files.sort()
 
     global_total_quotes = 0
     global_present_quotes = 0
@@ -26,18 +33,22 @@ def calc_quote_presence(args):
         
         with open(ref_file_path, "r") as ref_f:
             with open(full_file_path, "r") as full_f:
-                ref_string = ref_f.read()
-                full_string = full_f.read()
+                ref_string = ref_f.read().replace("\n", " ")
+                full_string = full_f.read().replace("\n", " ")
                 quotes = ref_string.split(" [CLS] [SEP] ")
-
+                print(f"\n\n****{ref_file_name}****")
                 for quote in quotes:
+                    if quote == "":
+                        continue
                     global_total_quotes += 1
                     local_total_quotes += 1
                     if quote in full_string:
                         tokens_present += len(quote.split(" "))
                         global_present_quotes += 1
                         local_present_quotes += 1
-                    print(f"{ref_file_name} quote count: {pretty_print(local_present_quotes, local_total_quotes)}")
+                    else:
+                        print(f"quote absent: {quote}")
+                print(f"{ref_file_name} quote count: {pretty_print(local_present_quotes, local_total_quotes)}")
     
     print(f"Total quote presence: {pretty_print(global_present_quotes, global_total_quotes)}")
     print(f"Token count in present quotes: {tokens_present}")
@@ -46,7 +57,11 @@ def get_file_path(dir_path, file_name):
     return dir_path + "/" + file_name 
 
 def pretty_print(present, total):
-    return f"{present} / {total}  = {present / total * 100}%"
+    if total != 0:
+        return f"{present} / {total}  = {present / total * 100}%"
+    else:
+        return f"{present} / {total}  = 0%"
+
 
 def str2bool(v):
     if isinstance(v, bool):
@@ -66,6 +81,8 @@ if __name__ == "__main__":
                         help='full dir')
     parser.add_argument('-reference_texts', type=str, default="reference.txt",
                         help='reference dir')
+    parser.add_argument("-start_file_pos", nargs='?', const=0, default=0, type=int)
+    parser.add_argument("-num_files", nargs='?', const=None, default=None, type=int)
     parser.add_argument("-debug", type=str2bool, nargs='?', const=True, default=False, help="Debug mode (no trainig done).")
 
     args = parser.parse_args()
