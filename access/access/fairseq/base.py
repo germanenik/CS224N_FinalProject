@@ -90,6 +90,7 @@ def fairseq_train(
         fp16=False):
     exp_dir = Path(exp_dir)
     with log_stdout(exp_dir / 'fairseq_train.stdout'):
+        restore_file_path = CUSTOM_PATH_PART + 'access/model/checkpoints/checkpoint_best.pt'
         preprocessed_dir = Path(preprocessed_dir)
         exp_dir.mkdir(exist_ok=True, parents=True)
         # Copy dictionaries to exp_dir for generation
@@ -99,7 +100,6 @@ def fairseq_train(
         train_parser = options.get_training_parser()
         # if share_embeddings:
         #     assert encoder_decoder_dim_ratio == 1
-        restore_file_path = CUSTOM_PATH_PART + 'access/model/checkpoints/checkpoint_best.pt'
         args = [
             '--restore-file',
             restore_file_path,
