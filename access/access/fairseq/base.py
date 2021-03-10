@@ -283,7 +283,7 @@ def fairseq_generate(complex_filepath,
                      sampling=False,
                      batch_size=128):
     exp_dir = Path(exp_dir)
-    checkpoint_path = exp_dir / 'checkpoints/checkpoint_best.pt'
+    checkpoint_path = exp_dir / 'checkpoint_best.pt'
     assert checkpoint_path.exists(), f'Generation failed, no checkpoint at {checkpoint_path}'
     complex_dictionary_path = exp_dir / 'dict.complex.txt'
     simple_dictionary_path = exp_dir / 'dict.simple.txt'
