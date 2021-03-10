@@ -129,5 +129,5 @@ def fairseq_train_and_evaluate(dataset, metrics_coefs=[1, 1, 1], parametrization
     #scores = evaluate_simplifier_on_turkcorpus(simplifier, phase='valid')
     scores = evaluate_simplifier_on_directory('simplification', simplifier, phase='valid')
     print(f'scores={scores}')
-    score = combine_metrics(scores['BLEU'], scores['SARI'], scores['FKGL'], metrics_coefs)
+    score = combine_metrics(scores['bleu'], scores['sari'], scores['fkgl'], metrics_coefs)
     return score
