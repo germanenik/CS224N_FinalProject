@@ -58,7 +58,8 @@ def find_best_parametrization(exp_dir, metrics_coefs, preprocessors_kwargs, para
         # Note that we use default generate kwargs instead of provided one because they are faster
         preprocessors_kwargs = instru_kwargs_to_preprocessors_kwargs(instru_kwargs)
         simplifier = get_simplifier(exp_dir, preprocessors_kwargs=preprocessors_kwargs, generate_kwargs={})
-        scores = evaluate_simplifier_on_turkcorpus(simplifier, phase='valid')
+        #scores = evaluate_simplifier_on_turkcorpus(simplifier, phase='valid')
+        scores = evaluate_simplifier_on_directory('simplification', simplifier, phase='valid')
         return combine_metrics(scores['BLEU'], scores['SARI'], scores['FKGL'], metrics_coefs)
 
     def preprocessors_kwargs_to_instru_kwargs(preprocessors_kwargs):
@@ -119,7 +120,7 @@ def fairseq_train_and_evaluate(dataset, metrics_coefs=[1, 1, 1], parametrization
     preprocessed_dir = fairseq_preprocess(dataset)
     train_kwargs = get_allowed_kwargs(fairseq_train, preprocessed_dir, exp_dir, **kwargs)
     fairseq_train(preprocessed_dir, exp_dir=exp_dir, **train_kwargs)
-    Evaluation
+    ### Evaluation
     generate_kwargs = get_allowed_kwargs(fairseq_generate, 'complex_filepath', 'pred_filepath', exp_dir, **kwargs)
     recommended_preprocessors_kwargs = find_best_parametrization(exp_dir, metrics_coefs, preprocessors_kwargs,
                                                                  parametrization_budget)
