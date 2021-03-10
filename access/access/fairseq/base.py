@@ -96,6 +96,7 @@ def fairseq_train(
         # Copy dictionaries to exp_dir for generation
         shutil.copy(preprocessed_dir / 'dict.complex.txt', exp_dir)
         shutil.copy(preprocessed_dir / 'dict.simple.txt', exp_dir)
+        shutil.copy(restore_file_path, exp_dir)
         train_parser = options.get_training_parser()
         # if share_embeddings:
         #     assert encoder_decoder_dim_ratio == 1
