@@ -52,6 +52,6 @@ def evaluate_simplifier_on_directory(directory, simplifier, phase):
     return evaluate_system_output(test_set='custom',
                                   sys_sents_path=pred_filepath,
                                   orig_sents_path=source_filepath,
-                                  refs_sents_paths=ref_filepath,
+                                  refs_sents_paths=[ref_filepath],
                                   metrics=['bleu', 'sari_legacy', 'fkgl'],
                                   quality_estimation=True)
