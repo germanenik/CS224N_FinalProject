@@ -13,7 +13,7 @@ from nevergrad.instrumentation import Instrumentation
 from nevergrad.optimization import optimizerlib
 import re
 
-from access.evaluation.general import evaluate_simplifier_on_turkcorpus
+from access.evaluation.general import evaluate_simplifier_on_turkcorpus, evaluate_simplifier_on_directory
 from access.evaluation.utils import combine_metrics
 from access.fairseq.base import (fairseq_preprocess, fairseq_train, fairseq_generate, get_fairseq_exp_dir,
                                  )
