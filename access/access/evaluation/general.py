@@ -44,8 +44,7 @@ def evaluate_simplifier_on_directory(directory, simplifier, phase):
     source_filepath = get_data_filepath(directory, phase, 'complex')
     ref_filepath = get_data_filepath(directory, phase, 'complex')
 
-    return evaluate_system_output(get_data_filepath(directory, phase, 'simple'),
-                                  test_set='custom',
+    return evaluate_system_output(test_set='custom',
                                   sys_sents_path=pred_filepath,
                                   orig_sents_path=source_filepath,
                                   refs_sents_paths=ref_filepath,
