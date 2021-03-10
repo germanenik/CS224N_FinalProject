@@ -87,8 +87,7 @@ def fairseq_train(
         criterion='label_smoothed_cross_entropy',
         optimizer='nag',
         validations_before_sari_early_stopping=40,
-        fp16=False,
-        restore_file_path=CUSTOM_PATH_PART+'access/model/checkpoints/checkpoint_best.pt'):
+        fp16=False):
     exp_dir = Path(exp_dir)
     with log_stdout(exp_dir / 'fairseq_train.stdout'):
         preprocessed_dir = Path(preprocessed_dir)
@@ -96,10 +95,11 @@ def fairseq_train(
         # Copy dictionaries to exp_dir for generation
         shutil.copy(preprocessed_dir / 'dict.complex.txt', exp_dir)
         shutil.copy(preprocessed_dir / 'dict.simple.txt', exp_dir)
-        shutil.copy(restore_file_path, exp_dir)
+        #shutil.copy(restore_file_path, exp_dir)
         train_parser = options.get_training_parser()
         # if share_embeddings:
         #     assert encoder_decoder_dim_ratio == 1
+        restore_file_path = CUSTOM_PATH_PART + 'access/model/checkpoints/checkpoint_best.pt'
         args = [
             '--restore-file',
             restore_file_path,
