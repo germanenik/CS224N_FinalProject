@@ -33,7 +33,7 @@ if __name__ == '__main__':
         'label_smoothing': random.random(),
         'lr': random.random() * (10.0 ** random.randint(-5, 0)),
         'lr_scheduler': 'fixed',
-        'max_epoch': 100,
+        'max_epoch': 2,
         'max_tokens': 5000,
         'metrics_coefs': [0, 1, 0],
         'optimizer': 'adam',
