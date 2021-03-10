@@ -125,7 +125,8 @@ def fairseq_train_and_evaluate(dataset, metrics_coefs=[1, 1, 1], parametrization
                                                                  parametrization_budget)
     print(f'recommended_preprocessors_kwargs={recommended_preprocessors_kwargs}')
     simplifier = get_simplifier(exp_dir, recommended_preprocessors_kwargs, generate_kwargs)
-    scores = evaluate_simplifier_on_turkcorpus(simplifier, phase='valid')
+    #scores = evaluate_simplifier_on_turkcorpus(simplifier, phase='valid')
+    scores = evaluate_simplifier_on_directory('simplification', simplifier, phase='valid')
     print(f'scores={scores}')
     score = combine_metrics(scores['BLEU'], scores['SARI'], scores['FKGL'], metrics_coefs)
     return score
