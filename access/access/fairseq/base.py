@@ -21,6 +21,7 @@ from access.resources.paths import get_dataset_dir, EXP_DIR
 from access.utils.helpers import (log_stdout, lock_directory, create_directory_or_skip, yield_lines,
                                   write_lines)
 
+CUSTOM_PATH_PART = '/home/legalese/CS224N_FinalProject/' # CHANGE THIS ON YOUR LOCAL MACHINE
 
 def get_fairseq_exp_dir(job_id=None):
     if job_id is not None:
@@ -52,9 +53,9 @@ def fairseq_preprocess(dataset):
                 '--output-format',
                 'raw',
                 '--srcdict',
-                '/home/legalese/CS224N_FinalProject/access/model/dict.complex.txt',
+                CUSTOM_PATH_PART + 'access/model/dict.complex.txt',
                 '--tgtdict',
-                '/home/legalese/CS224N_FinalProject/access/model/dict.simple.txt',
+                CUSTOM_PATH_PART + 'access/model/dict.simple.txt',
             ])
             print(preprocess_args)
             preprocess.main(preprocess_args)
@@ -87,7 +88,7 @@ def fairseq_train(
         optimizer='nag',
         validations_before_sari_early_stopping=40,
         fp16=False,
-        restore_file_path='/home/legalese/CS224N_FinalProject/access/model/checkpoints/checkpoint_best.pt'):
+        restore_file_path=CUSTOM_PATH_PART+'access/model/checkpoints/checkpoint_best.pt'):
     exp_dir = Path(exp_dir)
     with log_stdout(exp_dir / 'fairseq_train.stdout'):
         preprocessed_dir = Path(preprocessed_dir)
