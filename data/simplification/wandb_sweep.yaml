@@ -1,5 +1,8 @@
 program: wandb_log.py
 method: random
+metric:
+  goal: maximize
+  name: SARI
 parameters:
   warmup_updates:
     value: 4000
