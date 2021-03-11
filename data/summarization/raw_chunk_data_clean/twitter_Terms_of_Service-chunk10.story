@@ -1,0 +1,18 @@
+the limitations of this subsection shall apply to any theory of liability, whether based on warranty, contract, statute, tort (including negligence) or otherwise, and whether or not the twitter entities have been informed of the possibility of any such damage, and even if a remedy set forth herein is found to have failed of its essential purpose .  ## #6 \ .  general we may revise these terms from time to time .  the changes will not be retroactive, and the most current version of the terms, which will always be at [twitter . com / tos] (https: / / twitter . com / en / tos), will govern our relationship with you .  we will try to notify you of material revisions, for example via a service notification or an email to the email associated with your account .  by continuing to access or use the services after those revisions become effective, you agree to be bound by the revised terms .  the laws of the state of california, excluding its choice of law provisions, will govern these terms and any dispute that arises between you and twitter .  all disputes related to these terms or the services will be brought solely in the federal or state courts located in san francisco county, california, united states, and you consent to personal jurisdiction and waive any objection as to inconvenient forum .  if you are a federal, state, or local government entity in the united states using the services in your official capacity and legally unable to accept the controlling law, jurisdiction or venue clauses above, then those clauses do not apply to you .  for such u . s .  federal government entities, these terms and any action related thereto will be governed by the laws of the united states of america (without reference to conflict of laws) and, in the absence of federal law and to the extent permitted under federal law, the laws of the state of california (excluding choice of law).  in the event that any provision of these terms is held to be invalid or unenforceable, then that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions of these terms will remain in full force and effect .  twitteras failure to enforce any right or provision of these terms will not be deemed a waiver of such right or provision .  these terms are an agreement between you and twitter, inc . , 1355 market street, suite 900, san francisco, ca 94103 u . s . a . 
+@highlight
+the changes will not be retroactive, and the most current version of the terms, which will always be at [twitter . com / tos] (https: / / twitter . com / en / tos), will govern our relationship with you .
+
+@highlight
+we will try to notify you of material revisions, for example via a service notification or an email to the email associated with your account .
+
+@highlight
+by continuing to access or use the services after those revisions become effective, you agree to be bound by the revised terms .
+
+@highlight
+the laws of the state of california, excluding its choice of law provisions, will govern these terms and any dispute that arises between you and twitter .
+
+@highlight
+all disputes related to these terms or the services will be brought solely in the federal or state courts located in san francisco county, california, united states, and you consent to personal jurisdiction and waive any objection as to inconvenient forum .
+
+@highlight
+in the event that any provision of these terms is held to be invalid or unenforceable, then that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions of these terms will remain in full force and effect .

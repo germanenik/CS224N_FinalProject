@@ -6,6 +6,9 @@ from tokenization import BasicTokenizer
 from nltk.tokenize.treebank import TreebankWordDetokenizer
 import re
 
+tokenizer = BasicTokenizer()
+detokenizer = TreebankWordDetokenizer()
+
 def format_finetuning(args):
     full, ref = args.full_texts, args.reference_texts
     full_is_dir = os.path.isdir(full)
@@ -16,8 +19,7 @@ def format_finetuning(args):
     full_files = sorted(os.listdir(full))
     ref_files = os.listdir(ref)
 
-    tokenizer = BasicTokenizer()
-    detokenizer = TreebankWordDetokenizer()
+    
 
     for full_file in full_files:
         if full_file not in ref_files:
@@ -49,8 +51,9 @@ def format_finetuning(args):
                 curr_text = curr_text.replace("[CLS] [SEP]", "") #remove them for training, only need for eval
 
                 ref_file_path = get_file_path(ref, full_file) #full_file is ref_file
-                curr_text = add_highlights(curr_text, ref_file_path)
-                chunk_file_path = get_chunkfile_path(f.name, file_name_counter, args.output_dir) 
+                chunk_file_path = get_chunkfile_path(f.name, file_name_counter, args.output_dir)
+                curr_text = add_highlights(curr_text, ref_file_path, args.is_clean, chunk_file_path)
+                
                 chunk_file = open(chunk_file_path, 'w')
                 chunk_file.write(curr_text)
 
@@ -76,15 +79,24 @@ def get_chunkfile_path(file_path: str, file_name_counter: int, output_dir: str):
 def get_file_path(dir_path, file_name):
     return dir_path + "/" + file_name 
 
-def add_highlights(curr_text, ref_file_path):
+def add_highlights(curr_text, ref_file_path, is_clean, file):
+    added_quote = False
     with open(ref_file_path, "r") as ref:
         quotes_text = ref.read()
-        quotes_arr = re.split('\n|\[CLS\] \[SEP\]', quotes_text) #also removes all "[CLS] [SEP]"
+        tokenized = [tup[1] for tup in tokenizer.tokenize(quotes_text)] #for formatting
+        quotes_text = detokenizer.detokenize(tokenized) #for formatting
+        quotes_arr = re.split('\[CLS\] \[SEP\]', quotes_text) #also removes all "[CLS] [SEP]"
         for quote in quotes_arr:
             quote = quote.strip()
             if quote == "":
                 continue
-            curr_text += f"\n@highlight\n{quote}\n"
+            if quote in curr_text or not is_clean:
+                added_quote = True
+                print(f"added quote tp {file}")
+                curr_text += f"\n@highlight\n{quote}\n"
+        if not added_quote:
+            curr_text += f"\n@highlight\n\n"
+
     return curr_text
 
 
@@ -108,6 +120,7 @@ if __name__ == "__main__":
                         help='reference dir')
     parser.add_argument("-output_dir", type=str)
     parser.add_argument("-debug", type=str2bool, nargs='?', const=True, default=False, help="Debug mode (no trainig done).")
+    parser.add_argument("-is_clean", type=str2bool, nargs='?', const=True, default=False, help="Reformatting cleaned data (no trainig done).")
     parser.add_argument("-max_pos", default=512, type=int)
     args = parser.parse_args()
 

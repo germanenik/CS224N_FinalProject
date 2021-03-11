@@ -1,0 +1,12 @@
+* * want to help translate? [translate the missing messages] (https: / / meta . wikimedia . org / wiki / special: translate / agg - privacy _ policy _ 2014 _ draft " m: special: translate / agg - privacy policy 2014 draft "). * * privacy policy [! [wikimedia - logo . svg] (/ / upload . wikimedia . org / wikipedia / commons / thumb / 8 / 81 / wikimedia - logo . svg / 75px - wikimedia - logo . svg . png) ] (/ wiki / file: wikimedia - logo . svg) this is a summary of the privacy policy .  to read the full terms, scroll down or click here .  disclaimer: this summary is not a part of the privacy policy and is not a legal document .  it is simply a handy reference for understanding the full privacy policy .  think of it as the user - friendly interface to our privacy policy .  * * because we believe that you shouldn ’ t have to provide personal information to participate in the free knowledge movement, you may:  * read, edit, or use any wikimedia site without registering an account;  * register for an account without providing an email address or real name .  * * because we want to understand how wikimedia sites are used so we can make them better for you, we collect some information when you: * * * make public contributions .  * register an account or update your user page .  * use the wikimedia sites .  * send us emails or participate in a survey or give feedback .  * * we are committed to: * * * describing how your information may be used or shared in this privacy policy .  * using reasonable measures to keep your information secure .  * never selling your information or sharing it with third parties for marketing purposes .  * only sharing your information in limited circumstances, such as to improve the wikimedia sites, to comply with the law, or to protect you and others .  * retaining your data for the shortest possible time that is consistent with maintaining, understanding, and improving the wikimedia sites, and our obligations under law .  * * be aware: * * * any content you add or any change that you make to a wikimedia site will be publicly and permanently available . 
+@highlight
+* * because we believe that you shouldn ’ t have to provide personal information to participate in the free knowledge movement, you may:
+
+@highlight
+* read, edit, or use any wikimedia site without registering an account;
+
+@highlight
+* register for an account without providing an email address or real name .
+
+@highlight
+any content you add or any change that you make to a wikimedia site will be publicly and permanently available .

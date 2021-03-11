@@ -1,0 +1,15 @@
+company may modify this agreement at any time, and each such modification will be effective upon posting on the company sites .  all material modifications will apply prospectively only .  your continued use of the company sites or the company services following any modification of this agreement constitutes your acceptance of and agreement to be bound by the agreement as modified .  it is therefore important that you review this agreement regularly .  if you do not agree to be bound by this agreement and to abide by all applicable law, you must discontinue use of the company services immediately .  your access to and use of certain company services is conditioned upon your compliance with this agreement, which incorporated by reference our [privacy policy] (https: / / www . foxnews . com / privacy - policy) and any end user license agreement that might accompany the company services .  your access to and use of certain company services may require you to accept additional terms and conditions applicable to such company services, in addition to this agreement, and may require you to download software or content (as defined below).  in the event of a conflict between any such additional terms and this agreement, such additional terms will prevail .  please note that the " arbitration agreement " section below contains provisions that require (i) with limited exceptions, all disputes arising between you and company under this agreement to be resolved in binding arbitration, and not in court, and (ii) you and company waive the right to bring or participate in a class action in connection with such disputes .  please [click here] (https: / / www . foxnews . com / terms - of - use #arbitration) to review the arbitration agreement .  by using this site and accepting this agreement, you agree to be bound by the arbitration agreement .  please read it carefully .  * * registration and security * * you take full responsibility for your participation on the site .  as a condition of using certain features of the site, you may be required to register on the site and / or select a username and password .  all registration information you submit to create an account must be accurate and kept up to date .  your failure to do so will constitute a breach of the agreement, which may result in immediate termination of your account .  you may not (i) select or use as a username a name of another person with the intent to impersonate that person; 
+@highlight
+you and company waive the right to bring or participate in a class action in connection with such disputes .
+
+@highlight
+all registration information you submit to create an account must be accurate and kept up to date .
+
+@highlight
+your failure to do so will constitute a breach of the agreement, which may result in immediate termination of your account .
+
+@highlight
+you may not (i) select or use as a username a name of another person with the intent to impersonate that person;
+
+@highlight
+company may modify this agreement at any time, and each such modification will be effective upon posting on the company sites .

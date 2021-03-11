@@ -1,0 +1,3 @@
+as we said earlier, read these terms before using our services .  when you use our services and content, you' re agreeing to: * these terms of use * any other terms we' ve let you know about .  and those things replace all previous agreements between you and us about using our services or content .  c .  this is a contract between you and us .  no one else has any rights to enforce its terms .  d .  english law governs these terms, and only english courts can make judgments about them .  e .  our services and content are made available to you by the british broadcasting corporation, broadcasting house, portland place, london, w1a 1aa . 
+@highlight
+

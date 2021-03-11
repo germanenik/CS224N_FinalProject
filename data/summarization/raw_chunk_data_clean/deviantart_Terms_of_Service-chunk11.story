@@ -1,0 +1,3 @@
+to check your balance, simply go into your [messages] (https: / / www . deviantart . com / notifications /), once there click on the community messages tab and on the right hand column click [view my deviantdollars] (https: / / www . deviantart . com / account /) and this will show you your current balance .  deviantdollars are nontransferable and deviantdollars accrued in multiple accounts may not be combined .  your deviantdollars credits cannot be redeemed for cash and cannot be used towards sales tax, gift certificates or past purchases .  deviantdollars are void where prohibited by law .  (c) 2021 deviantart . 
+@highlight
+

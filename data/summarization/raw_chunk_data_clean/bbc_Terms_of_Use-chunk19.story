@@ -1,0 +1,3 @@
+uk / usingthebbc / terms /) * [about the bbc] (https: / / www . bbc . co . uk / aboutthebbc) * [privacy policy] (https: / / www . bbc . co . uk / usingthebbc / privacy /) * [cookies] (https: / / www . bbc . co . uk / usingthebbc / cookies /) * [accessibility help] (https: / / www . bbc . co . uk / accessibility /) * [parental guidance] (https: / / www . bbc . co . uk / guidance) * [contact the bbc] (https: / / www . bbc . co . uk / contact) * [get personalised newsletters] (https: / / www . bbc . co . uk / bbcnewsletter) _ copyright (c) 2021 bbc . _ the bbc is not responsible for the content of external sites . 
+@highlight
+

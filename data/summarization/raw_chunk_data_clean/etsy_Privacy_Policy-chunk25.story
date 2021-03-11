@@ -1,0 +1,9 @@
+for information on interest based advertising with etsy and how your information is used for marketing, see etsy ’ s [cookies & similar technologies policy] (https: / / www . etsy . com / legal / cookies).  _ accessibility _ if you have a disability and would like to access this policy in an alternative format, please contact us using one of the channels listed in the “ contact ” section below .  ## 11 \ .  your responsibilities if you sell using our services or use [etsy ’ s api] (https: / / www . etsy . com / developers / documentation / getting _ started / api _ basics), you may receive and determine what to do with certain personal information .  your privacy responsibilities, including when you act as an independent data controller (someone who decides what personal data to collect and the purpose you use the data for) are laid out in the [etsy seller policy] (https: / / www . etsy . com / legal / sellers /) and the [etsy api terms of use] (https: / / www . etsy . com / developers / terms - of - use).  ## 12 \ .  privacy policy changes  we may amend or update this policy from time to time .  if we believe that the changes are material, we ’ ll let you know by doing one (or more) of the following: (i) posting the changes on or through the services, (ii) sending you an email or message about the changes, or (iii) posting an update in the version notes on the apps ’ platform .  we encourage you to check back regularly and review any updates .  ## 13 \ . 
+@highlight
+we may amend or update this policy from time to time .
+
+@highlight
+if we believe that the changes are material, we ’ ll let you know by doing one (or more) of the following: (i) posting the changes on or through the services, (ii) sending you an email or message about the changes, or (iii) posting an update in the version notes on the apps ’ platform .
+
+@highlight
+we encourage you to check back regularly and review any updates .
