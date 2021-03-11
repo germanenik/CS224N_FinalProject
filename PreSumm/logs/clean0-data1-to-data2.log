@@ -1,0 +1,12 @@
+[2021-03-11 04:00:17,790 INFO] loading vocabulary file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /home/legalese/.cache/torch/pytorch_transformers/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+[2021-03-11 04:00:17,868 INFO] Processing ../clean0_data1/train.0.json
+[2021-03-11 04:00:18,327 INFO] Processed instances 82
+[2021-03-11 04:00:18,327 INFO] Saving to ../clean0_data2/train.0.bert.pt
+[2021-03-11 04:00:18,451 INFO] loading vocabulary file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /home/legalese/.cache/torch/pytorch_transformers/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+[2021-03-11 04:00:18,520 INFO] Processing ../clean0_data1/valid.0.json
+[2021-03-11 04:00:18,681 INFO] Processed instances 25
+[2021-03-11 04:00:18,681 INFO] Saving to ../clean0_data2/valid.0.bert.pt
+[2021-03-11 04:00:18,851 INFO] loading vocabulary file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /home/legalese/.cache/torch/pytorch_transformers/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+[2021-03-11 04:00:18,922 INFO] Processing ../clean0_data1/test.0.json
+[2021-03-11 04:00:19,060 INFO] Processed instances 82
+[2021-03-11 04:00:19,060 INFO] Saving to ../clean0_data2/test.0.bert.pt

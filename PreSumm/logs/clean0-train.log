@@ -1,0 +1,529 @@
+[2021-03-11 04:06:12,815 INFO] Device ID 0
+[2021-03-11 04:06:12,815 INFO] Device cuda
+[2021-03-11 04:06:13,231 INFO] Loading checkpoint from ../models/bertext_cnndm_transformer.pt
+[2021-03-11 04:06:58,773 INFO] loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at ../temp/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.7156163d5fdc189c3016baca0775ffce230789d7fa2a42ef516483e4ca884517
+[2021-03-11 04:06:58,785 INFO] Model config {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 2,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pad_token_id": 0,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+[2021-03-11 04:06:58,819 INFO] loading weights file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-pytorch_model.bin from cache at ../temp/aa1ef1aede4482d0dbcd4d52baad8ae300e60902e88fcb0bebdec09afd232066.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+[2021-03-11 04:07:30,328 INFO] ExtSummarizer(
+  (bert): Bert(
+    (model): BertModel(
+      (embeddings): BertEmbeddings(
+        (word_embeddings): Embedding(30522, 768, padding_idx=0)
+        (position_embeddings): Embedding(512, 768)
+        (token_type_embeddings): Embedding(2, 768)
+        (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+        (dropout): Dropout(p=0.1, inplace=False)
+      )
+      (encoder): BertEncoder(
+        (layer): ModuleList(
+          (0): BertLayer(
+            (attention): BertAttention(
+              (self): BertSelfAttention(
+                (query): Linear(in_features=768, out_features=768, bias=True)
+                (key): Linear(in_features=768, out_features=768, bias=True)
+                (value): Linear(in_features=768, out_features=768, bias=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+              (output): BertSelfOutput(
+                (dense): Linear(in_features=768, out_features=768, bias=True)
+                (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (intermediate): BertIntermediate(
+              (dense): Linear(in_features=768, out_features=3072, bias=True)
+            )
+            (output): BertOutput(
+              (dense): Linear(in_features=3072, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (1): BertLayer(
+            (attention): BertAttention(
+              (self): BertSelfAttention(
+                (query): Linear(in_features=768, out_features=768, bias=True)
+                (key): Linear(in_features=768, out_features=768, bias=True)
+                (value): Linear(in_features=768, out_features=768, bias=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+              (output): BertSelfOutput(
+                (dense): Linear(in_features=768, out_features=768, bias=True)
+                (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (intermediate): BertIntermediate(
+              (dense): Linear(in_features=768, out_features=3072, bias=True)
+            )
+            (output): BertOutput(
+              (dense): Linear(in_features=3072, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (2): BertLayer(
+            (attention): BertAttention(
+              (self): BertSelfAttention(
+                (query): Linear(in_features=768, out_features=768, bias=True)
+                (key): Linear(in_features=768, out_features=768, bias=True)
+                (value): Linear(in_features=768, out_features=768, bias=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+              (output): BertSelfOutput(
+                (dense): Linear(in_features=768, out_features=768, bias=True)
+                (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (intermediate): BertIntermediate(
+              (dense): Linear(in_features=768, out_features=3072, bias=True)
+            )
+            (output): BertOutput(
+              (dense): Linear(in_features=3072, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (3): BertLayer(
+            (attention): BertAttention(
+              (self): BertSelfAttention(
+                (query): Linear(in_features=768, out_features=768, bias=True)
+                (key): Linear(in_features=768, out_features=768, bias=True)
+                (value): Linear(in_features=768, out_features=768, bias=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+              (output): BertSelfOutput(
+                (dense): Linear(in_features=768, out_features=768, bias=True)
+                (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (intermediate): BertIntermediate(
+              (dense): Linear(in_features=768, out_features=3072, bias=True)
+            )
+            (output): BertOutput(
+              (dense): Linear(in_features=3072, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (4): BertLayer(
+            (attention): BertAttention(
+              (self): BertSelfAttention(
+                (query): Linear(in_features=768, out_features=768, bias=True)
+                (key): Linear(in_features=768, out_features=768, bias=True)
+                (value): Linear(in_features=768, out_features=768, bias=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+              (output): BertSelfOutput(
+                (dense): Linear(in_features=768, out_features=768, bias=True)
+                (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (intermediate): BertIntermediate(
+              (dense): Linear(in_features=768, out_features=3072, bias=True)
+            )
+            (output): BertOutput(
+              (dense): Linear(in_features=3072, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (5): BertLayer(
+            (attention): BertAttention(
+              (self): BertSelfAttention(
+                (query): Linear(in_features=768, out_features=768, bias=True)
+                (key): Linear(in_features=768, out_features=768, bias=True)
+                (value): Linear(in_features=768, out_features=768, bias=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+              (output): BertSelfOutput(
+                (dense): Linear(in_features=768, out_features=768, bias=True)
+                (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (intermediate): BertIntermediate(
+              (dense): Linear(in_features=768, out_features=3072, bias=True)
+            )
+            (output): BertOutput(
+              (dense): Linear(in_features=3072, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (6): BertLayer(
+            (attention): BertAttention(
+              (self): BertSelfAttention(
+                (query): Linear(in_features=768, out_features=768, bias=True)
+                (key): Linear(in_features=768, out_features=768, bias=True)
+                (value): Linear(in_features=768, out_features=768, bias=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+              (output): BertSelfOutput(
+                (dense): Linear(in_features=768, out_features=768, bias=True)
+                (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (intermediate): BertIntermediate(
+              (dense): Linear(in_features=768, out_features=3072, bias=True)
+            )
+            (output): BertOutput(
+              (dense): Linear(in_features=3072, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (7): BertLayer(
+            (attention): BertAttention(
+              (self): BertSelfAttention(
+                (query): Linear(in_features=768, out_features=768, bias=True)
+                (key): Linear(in_features=768, out_features=768, bias=True)
+                (value): Linear(in_features=768, out_features=768, bias=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+              (output): BertSelfOutput(
+                (dense): Linear(in_features=768, out_features=768, bias=True)
+                (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (intermediate): BertIntermediate(
+              (dense): Linear(in_features=768, out_features=3072, bias=True)
+            )
+            (output): BertOutput(
+              (dense): Linear(in_features=3072, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (8): BertLayer(
+            (attention): BertAttention(
+              (self): BertSelfAttention(
+                (query): Linear(in_features=768, out_features=768, bias=True)
+                (key): Linear(in_features=768, out_features=768, bias=True)
+                (value): Linear(in_features=768, out_features=768, bias=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+              (output): BertSelfOutput(
+                (dense): Linear(in_features=768, out_features=768, bias=True)
+                (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (intermediate): BertIntermediate(
+              (dense): Linear(in_features=768, out_features=3072, bias=True)
+            )
+            (output): BertOutput(
+              (dense): Linear(in_features=3072, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (9): BertLayer(
+            (attention): BertAttention(
+              (self): BertSelfAttention(
+                (query): Linear(in_features=768, out_features=768, bias=True)
+                (key): Linear(in_features=768, out_features=768, bias=True)
+                (value): Linear(in_features=768, out_features=768, bias=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+              (output): BertSelfOutput(
+                (dense): Linear(in_features=768, out_features=768, bias=True)
+                (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (intermediate): BertIntermediate(
+              (dense): Linear(in_features=768, out_features=3072, bias=True)
+            )
+            (output): BertOutput(
+              (dense): Linear(in_features=3072, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (10): BertLayer(
+            (attention): BertAttention(
+              (self): BertSelfAttention(
+                (query): Linear(in_features=768, out_features=768, bias=True)
+                (key): Linear(in_features=768, out_features=768, bias=True)
+                (value): Linear(in_features=768, out_features=768, bias=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+              (output): BertSelfOutput(
+                (dense): Linear(in_features=768, out_features=768, bias=True)
+                (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (intermediate): BertIntermediate(
+              (dense): Linear(in_features=768, out_features=3072, bias=True)
+            )
+            (output): BertOutput(
+              (dense): Linear(in_features=3072, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (11): BertLayer(
+            (attention): BertAttention(
+              (self): BertSelfAttention(
+                (query): Linear(in_features=768, out_features=768, bias=True)
+                (key): Linear(in_features=768, out_features=768, bias=True)
+                (value): Linear(in_features=768, out_features=768, bias=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+              (output): BertSelfOutput(
+                (dense): Linear(in_features=768, out_features=768, bias=True)
+                (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (intermediate): BertIntermediate(
+              (dense): Linear(in_features=768, out_features=3072, bias=True)
+            )
+            (output): BertOutput(
+              (dense): Linear(in_features=3072, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+        )
+      )
+      (pooler): BertPooler(
+        (dense): Linear(in_features=768, out_features=768, bias=True)
+        (activation): Tanh()
+      )
+    )
+  )
+  (ext_layer): ExtTransformerEncoder(
+    (pos_emb): PositionalEncoding(
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (transformer_inter): ModuleList(
+      (0): TransformerEncoderLayer(
+        (self_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=768, out_features=768, bias=True)
+          (linear_values): Linear(in_features=768, out_features=768, bias=True)
+          (linear_query): Linear(in_features=768, out_features=768, bias=True)
+          (softmax): Softmax(dim=-1)
+          (dropout): Dropout(p=0.1, inplace=False)
+          (final_linear): Linear(in_features=768, out_features=768, bias=True)
+        )
+        (feed_forward): PositionwiseFeedForward(
+          (w_1): Linear(in_features=768, out_features=2048, bias=True)
+          (w_2): Linear(in_features=2048, out_features=768, bias=True)
+          (layer_norm): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+          (dropout_1): Dropout(p=0.1, inplace=False)
+          (dropout_2): Dropout(p=0.1, inplace=False)
+        )
+        (layer_norm): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+        (dropout): Dropout(p=0.1, inplace=False)
+      )
+      (1): TransformerEncoderLayer(
+        (self_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=768, out_features=768, bias=True)
+          (linear_values): Linear(in_features=768, out_features=768, bias=True)
+          (linear_query): Linear(in_features=768, out_features=768, bias=True)
+          (softmax): Softmax(dim=-1)
+          (dropout): Dropout(p=0.1, inplace=False)
+          (final_linear): Linear(in_features=768, out_features=768, bias=True)
+        )
+        (feed_forward): PositionwiseFeedForward(
+          (w_1): Linear(in_features=768, out_features=2048, bias=True)
+          (w_2): Linear(in_features=2048, out_features=768, bias=True)
+          (layer_norm): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+          (dropout_1): Dropout(p=0.1, inplace=False)
+          (dropout_2): Dropout(p=0.1, inplace=False)
+        )
+        (layer_norm): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+        (dropout): Dropout(p=0.1, inplace=False)
+      )
+    )
+    (dropout): Dropout(p=0.1, inplace=False)
+    (layer_norm): LayerNorm((768,), eps=1e-06, elementwise_affine=True)
+    (wo): Linear(in_features=768, out_features=1, bias=True)
+    (sigmoid): Sigmoid()
+  )
+)
+[2021-03-11 04:07:30,346 INFO] * number of parameters: 120512513
+[2021-03-11 04:07:30,346 INFO] Start training...
+[2021-03-11 04:07:30,350 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:07:47,823 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:07:51,290 INFO] Step 18010/50000; xent: 2.73; lr: 0.0000149;   9 docs/s;     21 sec
+[2021-03-11 04:08:04,853 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:08:13,660 INFO] Step 18020/50000; xent: 2.43; lr: 0.0000149;  10 docs/s;     43 sec
+[2021-03-11 04:08:21,929 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:08:35,249 INFO] Step 18030/50000; xent: 2.14; lr: 0.0000149;  10 docs/s;     65 sec
+[2021-03-11 04:08:39,017 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:08:56,078 INFO] Step 18040/50000; xent: 1.56; lr: 0.0000149;  10 docs/s;     86 sec
+[2021-03-11 04:08:56,118 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:09:13,251 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:09:17,719 INFO] Step 18050/50000; xent: 0.92; lr: 0.0000149;  10 docs/s;    107 sec
+[2021-03-11 04:09:30,350 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:09:38,471 INFO] Step 18060/50000; xent: 0.54; lr: 0.0000149;  10 docs/s;    128 sec
+[2021-03-11 04:09:47,461 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:10:00,231 INFO] Step 18070/50000; xent: 0.28; lr: 0.0000149;  10 docs/s;    150 sec
+[2021-03-11 04:10:04,644 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:10:21,754 INFO] Step 18080/50000; xent: 0.24; lr: 0.0000149;   9 docs/s;    171 sec
+[2021-03-11 04:10:21,796 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:10:38,931 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:10:43,355 INFO] Step 18090/50000; xent: 0.13; lr: 0.0000149;  10 docs/s;    193 sec
+[2021-03-11 04:10:56,066 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:11:05,188 INFO] Step 18100/50000; xent: 0.06; lr: 0.0000149;  10 docs/s;    215 sec
+[2021-03-11 04:11:13,254 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:11:25,818 INFO] Step 18110/50000; xent: 0.13; lr: 0.0000149;  10 docs/s;    235 sec
+[2021-03-11 04:11:30,380 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:11:47,481 INFO] Step 18120/50000; xent: 0.05; lr: 0.0000149;  10 docs/s;    257 sec
+[2021-03-11 04:11:47,526 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:12:04,666 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:12:09,282 INFO] Step 18130/50000; xent: 0.13; lr: 0.0000149;  10 docs/s;    279 sec
+[2021-03-11 04:12:21,827 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:12:29,983 INFO] Step 18140/50000; xent: 0.05; lr: 0.0000148;   9 docs/s;    300 sec
+[2021-03-11 04:12:38,995 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:12:52,419 INFO] Step 18150/50000; xent: 0.03; lr: 0.0000148;  10 docs/s;    322 sec
+[2021-03-11 04:12:56,114 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:13:13,210 INFO] Step 18160/50000; xent: 0.13; lr: 0.0000148;  10 docs/s;    343 sec
+[2021-03-11 04:13:13,254 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:13:30,347 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:13:33,834 INFO] Step 18170/50000; xent: 0.03; lr: 0.0000148;  10 docs/s;    363 sec
+[2021-03-11 04:13:47,448 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:13:56,262 INFO] Step 18180/50000; xent: 0.02; lr: 0.0000148;  10 docs/s;    386 sec
+[2021-03-11 04:14:04,623 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:14:18,222 INFO] Step 18190/50000; xent: 0.06; lr: 0.0000148;  10 docs/s;    408 sec
+[2021-03-11 04:14:21,818 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:14:38,965 INFO] Step 18200/50000; xent: 0.04; lr: 0.0000148;   9 docs/s;    429 sec
+[2021-03-11 04:14:39,002 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:14:56,127 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:15:00,478 INFO] Step 18210/50000; xent: 0.08; lr: 0.0000148;   9 docs/s;    450 sec
+[2021-03-11 04:15:13,254 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:15:22,420 INFO] Step 18220/50000; xent: 0.14; lr: 0.0000148;  10 docs/s;    472 sec
+[2021-03-11 04:15:30,398 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:15:43,774 INFO] Step 18230/50000; xent: 0.04; lr: 0.0000148;  10 docs/s;    493 sec
+[2021-03-11 04:15:47,517 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:16:04,612 INFO] Step 18240/50000; xent: 0.01; lr: 0.0000148;  10 docs/s;    514 sec
+[2021-03-11 04:16:04,651 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:16:21,759 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:16:26,053 INFO] Step 18250/50000; xent: 0.02; lr: 0.0000148;  10 docs/s;    536 sec
+[2021-03-11 04:16:26,056 INFO] Saving checkpoint ../clean0_models/model_step_18250.pt
+[2021-03-11 04:16:42,305 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:16:50,321 INFO] Step 18260/50000; xent: 0.03; lr: 0.0000148;   8 docs/s;    560 sec
+[2021-03-11 04:16:59,444 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:17:12,156 INFO] Step 18270/50000; xent: 0.01; lr: 0.0000148;   9 docs/s;    582 sec
+[2021-03-11 04:17:16,614 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:17:33,691 INFO] Step 18280/50000; xent: 0.01; lr: 0.0000148;  10 docs/s;    603 sec
+[2021-03-11 04:17:33,730 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:17:50,822 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:17:55,268 INFO] Step 18290/50000; xent: 0.02; lr: 0.0000148;  10 docs/s;    625 sec
+[2021-03-11 04:18:07,989 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:18:17,023 INFO] Step 18300/50000; xent: 0.02; lr: 0.0000148;  10 docs/s;    647 sec
+[2021-03-11 04:18:25,141 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:18:37,770 INFO] Step 18310/50000; xent: 0.01; lr: 0.0000148;  10 docs/s;    667 sec
+[2021-03-11 04:18:42,326 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:18:59,413 INFO] Step 18320/50000; xent: 0.04; lr: 0.0000148;  10 docs/s;    689 sec
+[2021-03-11 04:18:59,449 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:19:16,598 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:19:20,924 INFO] Step 18330/50000; xent: 0.02; lr: 0.0000148;   9 docs/s;    711 sec
+[2021-03-11 04:19:33,743 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:19:42,397 INFO] Step 18340/50000; xent: 0.00; lr: 0.0000148;  10 docs/s;    732 sec
+[2021-03-11 04:19:50,874 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:20:03,314 INFO] Step 18350/50000; xent: 0.00; lr: 0.0000148;  10 docs/s;    753 sec
+[2021-03-11 04:20:07,994 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:20:25,077 INFO] Step 18360/50000; xent: 0.00; lr: 0.0000148;  10 docs/s;    775 sec
+[2021-03-11 04:20:25,115 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:20:42,207 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:20:46,778 INFO] Step 18370/50000; xent: 0.00; lr: 0.0000148;  10 docs/s;    796 sec
+[2021-03-11 04:20:59,337 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:21:08,077 INFO] Step 18380/50000; xent: 0.00; lr: 0.0000148;  10 docs/s;    818 sec
+[2021-03-11 04:21:16,506 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:21:29,056 INFO] Step 18390/50000; xent: 0.00; lr: 0.0000147;  10 docs/s;    839 sec
+[2021-03-11 04:21:33,624 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:21:50,684 INFO] Step 18400/50000; xent: 0.00; lr: 0.0000147;  10 docs/s;    860 sec
+[2021-03-11 04:21:50,726 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:22:07,813 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:22:12,251 INFO] Step 18410/50000; xent: 0.01; lr: 0.0000147;  10 docs/s;    882 sec
+[2021-03-11 04:22:24,957 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:22:33,989 INFO] Step 18420/50000; xent: 0.02; lr: 0.0000147;  10 docs/s;    904 sec
+[2021-03-11 04:22:42,059 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:22:55,611 INFO] Step 18430/50000; xent: 0.07; lr: 0.0000147;  10 docs/s;    925 sec
+[2021-03-11 04:22:59,200 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:23:16,294 INFO] Step 18440/50000; xent: 0.02; lr: 0.0000147;   9 docs/s;    946 sec
+[2021-03-11 04:23:16,331 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:23:33,462 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:23:37,780 INFO] Step 18450/50000; xent: 0.01; lr: 0.0000147;   9 docs/s;    967 sec
+[2021-03-11 04:23:50,618 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:23:58,829 INFO] Step 18460/50000; xent: 0.00; lr: 0.0000147;  10 docs/s;    988 sec
+[2021-03-11 04:24:07,782 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:24:21,140 INFO] Step 18470/50000; xent: 0.00; lr: 0.0000147;   9 docs/s;   1011 sec
+[2021-03-11 04:24:24,920 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:24:41,999 INFO] Step 18480/50000; xent: 0.00; lr: 0.0000147;  10 docs/s;   1032 sec
+[2021-03-11 04:24:42,039 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:24:59,164 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:25:03,727 INFO] Step 18490/50000; xent: 0.00; lr: 0.0000147;  10 docs/s;   1053 sec
+[2021-03-11 04:25:16,312 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:25:25,243 INFO] Step 18500/50000; xent: 0.00; lr: 0.0000147;   9 docs/s;   1075 sec
+[2021-03-11 04:25:25,245 INFO] Saving checkpoint ../clean0_models/model_step_18500.pt
+[2021-03-11 04:25:36,813 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:25:49,352 INFO] Step 18510/50000; xent: 0.00; lr: 0.0000147;   8 docs/s;   1099 sec
+[2021-03-11 04:25:53,964 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:26:11,064 INFO] Step 18520/50000; xent: 0.00; lr: 0.0000147;  10 docs/s;   1121 sec
+[2021-03-11 04:26:11,103 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:26:28,277 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:26:32,595 INFO] Step 18530/50000; xent: 0.00; lr: 0.0000147;   9 docs/s;   1142 sec
+[2021-03-11 04:26:45,396 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:26:53,544 INFO] Step 18540/50000; xent: 0.00; lr: 0.0000147;  10 docs/s;   1163 sec
+[2021-03-11 04:27:02,522 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:27:15,955 INFO] Step 18550/50000; xent: 0.00; lr: 0.0000147;  10 docs/s;   1186 sec
+[2021-03-11 04:27:19,700 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:27:36,785 INFO] Step 18560/50000; xent: 0.00; lr: 0.0000147;  10 docs/s;   1206 sec
+[2021-03-11 04:27:36,830 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:27:53,993 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:27:57,611 INFO] Step 18570/50000; xent: 0.00; lr: 0.0000147;  10 docs/s;   1227 sec
+[2021-03-11 04:28:11,099 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:28:19,323 INFO] Step 18580/50000; xent: 0.00; lr: 0.0000147;  10 docs/s;   1249 sec
+[2021-03-11 04:28:28,217 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:28:40,897 INFO] Step 18590/50000; xent: 0.00; lr: 0.0000147;  10 docs/s;   1271 sec
+[2021-03-11 04:28:45,327 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:29:02,373 INFO] Step 18600/50000; xent: 0.00; lr: 0.0000147;  10 docs/s;   1292 sec
+[2021-03-11 04:29:02,411 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:29:19,563 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:29:24,021 INFO] Step 18610/50000; xent: 0.01; lr: 0.0000147;  10 docs/s;   1314 sec
+[2021-03-11 04:29:36,669 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:29:44,930 INFO] Step 18620/50000; xent: 0.08; lr: 0.0000147;  10 docs/s;   1335 sec
+[2021-03-11 04:29:53,831 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:30:07,306 INFO] Step 18630/50000; xent: 0.02; lr: 0.0000147;   9 docs/s;   1357 sec
+[2021-03-11 04:30:11,024 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:30:28,171 INFO] Step 18640/50000; xent: 0.01; lr: 0.0000146;   9 docs/s;   1378 sec
+[2021-03-11 04:30:28,216 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:30:45,331 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
+[2021-03-11 04:30:49,814 INFO] Step 18650/50000; xent: 0.03; lr: 0.0000146;  10 docs/s;   1399 sec
+[2021-03-11 04:31:02,468 INFO] Loading train dataset from ../clean0_data2/train.0.bert.pt, number of examples: 82
