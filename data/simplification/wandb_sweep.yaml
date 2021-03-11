@@ -26,9 +26,9 @@ parameters:
   lr_scheduler:
     value: 'fixed'
   max_epoch:
-    100
+    value: 100
   max_tokens:
-    5000
+    value: 5000
   optimizer:
     value: 'adam'
   LengthRatio:
