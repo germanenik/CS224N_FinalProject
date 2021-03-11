@@ -1,0 +1,49 @@
+program: wandb_log.py
+method: random
+parameters:
+  warmup_updates:
+    value: 4000
+  parametrization_budget:
+    value: 256
+  beam:
+    distribution: int_uniform
+    min: 2
+    max: 10
+  dropout:
+    distribution: uniform
+    min: 0
+    max: 1
+  fp16:
+    value: 'false'
+  label_smoothing:
+    distribution: uniform
+    min: 0
+    max: 1
+  lr:
+    distribution: log_uniform
+    min: -11.51
+    max: 0
+  lr_scheduler:
+    value: 'fixed'
+  max_epoch:
+    100
+  max_tokens:
+    5000
+  optimizer:
+    value: 'adam'
+  LengthRatio:
+    distribution: uniform
+    min: 0
+    max: 1
+  Levenshtein:
+    distribution: uniform
+    min: 0
+    max: 1
+  WordRank:
+    distribution: uniform
+    min: 0
+    max: 1
+  DepTreeDepth:
+    distribution: uniform
+    min: 0
+    max: 1
