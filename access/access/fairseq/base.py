@@ -21,7 +21,7 @@ from access.resources.paths import get_dataset_dir, EXP_DIR
 from access.utils.helpers import (log_stdout, lock_directory, create_directory_or_skip, yield_lines,
                                   write_lines)
 
-CUSTOM_PATH_PART = '/home/varun/CS224N_FinalProject/' # CHANGE THIS ON YOUR LOCAL MACHINE
+CUSTOM_PATH_PART = '/home/legalese/CS224N_FinalProject/' # CHANGE THIS ON YOUR LOCAL MACHINE
 
 def get_fairseq_exp_dir(job_id=None):
     if job_id is not None:
@@ -96,7 +96,6 @@ def fairseq_train(
         # Copy dictionaries to exp_dir for generation
         shutil.copy(preprocessed_dir / 'dict.complex.txt', exp_dir)
         shutil.copy(preprocessed_dir / 'dict.simple.txt', exp_dir)
-        #shutil.copy(restore_file_path, exp_dir / 'checkpoints/')
         train_parser = options.get_training_parser()
         # if share_embeddings:
         #     assert encoder_decoder_dim_ratio == 1
