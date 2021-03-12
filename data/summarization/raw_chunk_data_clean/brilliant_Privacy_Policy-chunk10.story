@@ -1,0 +1,3 @@
+# #13 \ .  questions or concerns if you have any questions or concerns regarding privacy, please send us a detailed message at [privacy @ brilliant . org] (privacy @ brilliant . org).  we will make every effort to resolve your concerns .  _ effective date: jan 1 , 2020 _ _ the previous version of this document is located [here] (/ privacy / 05 - 21 - 2018 /).  _ [practice math and science questions on the brilliant ios app . ] (https: / / itunes . apple . com / app / apple - store / id913335252? pt = 105095803 & ct = brilliant _ website _ footer & mt = 8) [practice math and science questions on the brilliant android app . 
+@highlight
+

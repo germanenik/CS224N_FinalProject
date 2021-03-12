@@ -1,0 +1,3 @@
+data of our mobile users remain anonymous to us and to the third party ad agencies .  however, the ad agencies ’ sdk code will collect data to tailor ads to you, such as the third - party apps you installed on your device, your android advertising identifier, your ip address, your device' s operating system details and mac address, and other statistical and technical information .  you can find more information in each network ’ s privacy policy, the link to which we are also including in the overview below . 
+@highlight
+you can find more information in each network ’ s privacy policy, the link to which we are also including in the overview below .

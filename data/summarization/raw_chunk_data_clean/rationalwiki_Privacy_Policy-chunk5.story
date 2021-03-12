@@ -1,0 +1,3 @@
+for concerns on copyright infringement please see: [rationalwiki: copyright violations] (/ / rationalwiki . org / wiki / rationalwiki: copyright _ violations) * [privacy policy] (/ wiki / rationalwiki: privacy _ policy " rationalwiki: privacy policy ") * [about rationalwiki] (/ wiki / rationalwiki: about " rationalwiki: about ") * [disclaimers] (/ wiki / rationalwiki: general _ disclaimer " rationalwiki: general disclaimer ") * [! [cc - by - sa 3 . 0, or any later version] (/ w / 88x31 . png) ] (https: / / creativecommons . org / licenses / by - sa / 3 . 0 /) * [! [powered by mediawiki] (/ w / resources / assets / poweredby _ mediawiki _ 88x31 . png) ] (/ / www . mediawiki.
+@highlight
+

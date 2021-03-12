@@ -1,0 +1,3 @@
+* * * clears your browsing history and cookies * * helps the user manage their browsing history and cookies by allowing them to manually clear them or schedule automatic clearing at their discretion .  in particular, this feature relies on processing of browser version, hardware data, os version, os locale, kamo version, in - app settings (such as features that are turned on or off).  * * * windows system privacy * * collates the 90 + windows operating system settings that impact the user' s privacy, and makes them controllable with just a handful of switches in one place .  in particular, this feature relies on processing the os version, hardware data, os locale, kamo version, in - app settings (such as features that are turned on or off). 
+@highlight
+

@@ -1,0 +1,3 @@
+* [vox media on facebook] (https: / / www . facebook . com / voxmediainc) * [vox media on twitter] (https: / / twitter . com / voxmediainc) * [vox media on linked in] (https: / / www . linkedin . com / company / vox - media - inc -) * [privacy notice] (https: / / www . voxmedia . com / legal / privacy - notice) * [cookie policy] (https: / / www . voxmedia . com / legal / cookie - policy) * [do not sell my personal info] (/ contact #donotsell) * [terms of use] (https: / / www . voxmedia . com / legal / terms - of - use) * [security] (https: / / www . voxmedia . com / pages / security) * [accessibility] (https: / / www . voxmedia . com / legal / accessibility) © 2021 vox media, llc .  all rights reserved . 
+@highlight
+

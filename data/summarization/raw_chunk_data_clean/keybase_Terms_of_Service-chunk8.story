@@ -1,0 +1,3 @@
+! [] (/ images / walkthrough / footprints _ transp . png) keybase , 2021 | available within tor at * * http: / / keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid . onion * * [install keybase] (/ download) | [read our blog] (/ blog) | [documentation] (/ docs) | [bug reporting] (/ docs / bug _ reporting) | [security advisories] (/ docs / secadv) [terms] (/ docs / terms) & [privacy] (/ docs / privacypolicy) & [california ccpa] (/ docs / california - ccpa) & [acceptable use] (/ docs / acceptable - use - policy) [jobs @ keybase] (/ jobs) [please send us feedback & bug reports] (https: / / github . com / keybase / client / issues). 
+@highlight
+

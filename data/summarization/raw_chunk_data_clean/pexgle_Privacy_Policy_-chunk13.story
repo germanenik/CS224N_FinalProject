@@ -1,0 +1,3 @@
+copyright 2019, all right reserved pexgle! [facebook _ pixel] (https: / / www . facebook . com / tr? id = 1114889472226468 & ev = pageview & noscript = 1)! [facebook _ pixel] (https: / / www . facebook . com / tr? id = 1114889472226468 & ev = timeonpage _ 180 _ seconds & noscript = 1)! [facebook _ pixel] (https: / / www . facebook . com / tr? id = 1114889472226468 & ev = timeonpage _ 120 _ seconds & noscript = 1)! [facebook _ pixel] (https: / / www . facebook . com / tr? id = 1114889472226468 & ev = timeonpage _ 60 _ seconds & noscript = 1)! [facebook _ pixel] (https: / / www . facebook . com / tr? id = 1114889472226468 & ev = timeonpage _ 30 _ seconds & noscript = 1)! [facebook _ pixel] (https: / / www . facebook.
+@highlight
+

@@ -1,0 +1,3 @@
+if you are a california resident and a user of our site, you can request a copy of this information from indeed by sending an email to privacy - dept @ indeed . com (remove spaces).  please include your name and email address with your request .  indeed reserves the right to request additional personal data from you to confirm your identity before responding to this request .  * * the right to non - discrimination for exercising your privacy rights * * we will not discriminate against you for exercising any of your rights under the ccpa .  ## privacy faq for more information on indeed ’ s approach to privacy, please visit our [privacy faq] (https: / / www . indeed . com / legal / privacyfaq? hl = en & co = us). 
+@highlight
+

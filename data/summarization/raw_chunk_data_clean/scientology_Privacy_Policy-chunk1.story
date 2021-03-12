@@ -1,0 +1,3 @@
+html) [* portugues | portuguese] (https: / / www . scientology . pt / privacy - notice . html) [* русскии | russian] (https: / / www . scientology . ru / privacy - notice . html) [* svenska | swedish] (https: / / www . scientologi . se / privacy - notice . html) [! [scientology] (/ images / scientology - gray - logo . svg)! [] (/ images / scientology - logo - white . svg)! [] (/ images / scientology - logos / scientology - logo - dark _ en . svg) ] (/) [live! [] (/ images / live - tv - icon . svg)! [] (/ images / live - tv - icon - grey . svg)! [] (/ images / live - tv - icon - white . svg) ] (http: / / www . scientology . tv / tv /? utm _ source = scn _ org) arrow drop search cross * [home] (/) * [l . 
+@highlight
+

@@ -1,0 +1,3 @@
+[ call 1 - 888 - 766 - 4233] (tel : 18887664233) * [support] (https: / / sonic . com / support) * [blog] (https: / / corp . sonic . net / blogs) * [webmail] (https: / / webmail . sonic . net /) * [member tools] (https: / / members . sonic . net) [check availability] (https: / / www . sonic . com / availability) toggle navigation! [home] (https: / / www . sonic . com / sites / default / files / logo . png) * [residential] (http: / / www . sonic . com / residential) * [business] (http: / / www . sonic . com / business) * [gigabit fiber internet] (http: / / www . sonic . com / gigabit - fiber - internet) 1 .  [sonic] (/ hc / en - us) 2 .  [general] (/ hc / en - us / categories / 204488827 - general) 3 . 
+@highlight
+

@@ -1,0 +1,3 @@
+* [2018 - 03 - 15] (. / privacy - 20180315 /): * more explicity include data processing agreement (gdpr) * status of agilebits contractors and employees wrt to data processing (gdpr) * more gdpr terms in the glossary .  * open with a statement of purpose of this document * business accounts * explicitly discuss philosophy that customer has rights to their own data (spirit of gdpr) * right of erasure (gdpr) * right to access (gdpr) * breach notification (gdpr) * [2017 - 09 - 07] (. / privacy - 20170802 /): * we clarified how we help you keep your data when we part ways .  * we also expanded on how your secure data is handled on our end . 
+@highlight
+

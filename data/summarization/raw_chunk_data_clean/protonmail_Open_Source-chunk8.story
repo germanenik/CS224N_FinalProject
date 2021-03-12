@@ -1,0 +1,3 @@
+i know of several non profits, and a government which would switch their infrastructure from roundcube / dovecot / postfix to protonmail if they could self host .  (though i would guess postfix would still be used 😉 mahalo for your considerations .  * * * anon * *, [january 26 , 2016 at 10 : 16 pm] (https: / / protonmail . com / blog / protonmail - open - source / #comment - 10808) if it' s not open source, you should assume that governments and commercial interests have access to your information and act accordingly .  words are wind .  the only way to know for sure is if we can verify the source . 
+@highlight
+
