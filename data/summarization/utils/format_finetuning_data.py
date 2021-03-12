@@ -19,8 +19,6 @@ def format_finetuning(args):
     full_files = sorted(os.listdir(full))
     ref_files = os.listdir(ref)
 
-    
-
     for full_file in full_files:
         if full_file not in ref_files:
             continue
