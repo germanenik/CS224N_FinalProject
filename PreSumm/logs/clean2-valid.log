@@ -1,0 +1,76 @@
+[2021-03-12 07:11:01,110 INFO] Loading checkpoint from ../clean2_models/model_step_19000.pt
+[2021-03-12 07:11:01,803 INFO] loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at ../temp/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.7156163d5fdc189c3016baca0775ffce230789d7fa2a42ef516483e4ca884517
+[2021-03-12 07:11:01,803 INFO] Model config {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 2,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pad_token_id": 0,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+[2021-03-12 07:11:01,835 INFO] loading weights file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-pytorch_model.bin from cache at ../temp/aa1ef1aede4482d0dbcd4d52baad8ae300e60902e88fcb0bebdec09afd232066.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+[2021-03-12 07:11:05,920 INFO] Loading valid dataset from ../clean2_data2/valid.0.bert.pt, number of examples: 54
+[2021-03-12 07:11:05,923 INFO] * number of parameters: 120512513
+[2021-03-12 07:11:10,131 INFO] Validation xent: 13.2727 at step 19000
+[2021-03-12 07:11:10,156 INFO] Loading checkpoint from ../clean2_models/model_step_19000.pt
+[2021-03-12 07:11:10,889 INFO] loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at ../temp/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.7156163d5fdc189c3016baca0775ffce230789d7fa2a42ef516483e4ca884517
+[2021-03-12 07:11:10,890 INFO] Model config {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 2,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pad_token_id": 0,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+[2021-03-12 07:11:10,914 INFO] loading weights file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-pytorch_model.bin from cache at ../temp/aa1ef1aede4482d0dbcd4d52baad8ae300e60902e88fcb0bebdec09afd232066.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+[2021-03-12 07:11:13,567 INFO] Loading test dataset from ../clean2_data2/test.0.bert.pt, number of examples: 412
+[2021-03-12 07:11:13,569 INFO] * number of parameters: 120512513
+[2021-03-12 07:11:46,528 INFO] Writing summaries.
+[2021-03-12 07:11:46,528 INFO] Processing summaries. Saving system files to ../temp/tmp7r586lty/system and model files to ../temp/tmp7r586lty/model.
+[2021-03-12 07:11:46,528 INFO] Processing files in ../temp/rouge-tmp-2021-03-12-07-11-46/candidate/.
+[2021-03-12 07:11:46,534 INFO] Saved processed files to ../temp/tmp7r586lty/system.
+[2021-03-12 07:11:46,535 INFO] Processing files in ../temp/rouge-tmp-2021-03-12-07-11-46/reference/.
+[2021-03-12 07:11:46,540 INFO] Saved processed files to ../temp/tmp7r586lty/model.
+[2021-03-12 07:11:46,541 INFO] Written ROUGE configuration to ../temp/tmp_jbk5nsp/rouge_conf.xml
+[2021-03-12 07:11:46,541 INFO] Running ROUGE with command /home/legalese/pyrouge/rouge/tools/ROUGE-1.5.5/ROUGE-1.5.5.pl -e /home/legalese/pyrouge/rouge/tools/ROUGE-1.5.5/data -c 95 -m -r 1000 -n 2 -a ../temp/tmp_jbk5nsp/rouge_conf.xml
+[2021-03-12 07:11:47,357 INFO] Rouges at step 19000 
+>> ROUGE-F(1/2/3/l): 43.46/33.54/41.01
+ROUGE-R(1/2/3/l): 68.05/53.92/64.61
+
+[2021-03-12 07:11:47,357 INFO] Validation xent: 5.52281 at step 19000
