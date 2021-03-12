@@ -329,7 +329,6 @@ def _format_to_bert(params):
 
 
 def format_to_lines(args):
-    corpus_mapping = {}
     # for corpus_type in ['valid', 'test', 'train']:
     #     temp = []
     #     for line in open(pjoin(args.map_path, 'mapping_' + corpus_type + '.txt')):
@@ -354,8 +353,8 @@ def format_to_lines(args):
         # # else:
         # #     train_files.append(f)
 
-
     corpora = {'train': train_files, 'valid': valid_files, 'test': test_files}
+    write_data_split("../data_split.json", corpora)
     for corpus_type in ['train', 'valid', 'test']:
         a_lst = [(f, args) for f in corpora[corpus_type]]
         pool = Pool(args.n_cpus)
@@ -381,6 +380,11 @@ def format_to_lines(args):
                 p_ct += 1
                 dataset = []
 
+def write_data_split(file_path, corpora):
+    # reformat each file path: /path/to/file.story.json -> file.story
+    corpora_ = {corpus_type: [os.path.basename(data_path)[:-5] for data_path in data] for corpus_type, data in corpora.items()}
+    with open(file_path, "w") as f:
+        json.dump(corpora_, f)
 
 def _format_to_lines(params):
     f, args = params
