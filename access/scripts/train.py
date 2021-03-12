@@ -37,6 +37,7 @@ if __name__ == '__main__':
             'max_tokens': 5000,
             'metrics_coefs': [0, 1, 0],
             'optimizer': 'adam',
+            'validations_before_sari_early_stopping': 10,
             'preprocessors_kwargs': {
                 'LengthRatioPreprocessor': {
                     'target_ratio': random.random()  # Default initial value

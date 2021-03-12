@@ -36,12 +36,22 @@ def get_prediction_on_directory(directory, simplifier, phase):
     simplifier(source_filepath, pred_filepath)
     return pred_filepath
 
+def get_filepaths(directory, phase, filetype):
+    path = get_data_filepath(directory, phase, filetype)
+    path = lowercase_file(path)
+    path = to_lrb_rrb_file(path)
+    return path
 
 def evaluate_simplifier_on_directory(directory, simplifier, phase):
     pred_filepath = get_prediction_on_directory(directory, simplifier, phase)
     pred_filepath = lowercase_file(pred_filepath)
     pred_filepath = to_lrb_rrb_file(pred_filepath)
-    return evaluate_system_output(get_data_filepath(directory, phase, 'simple'),
+    source_filepath = get_filepaths(directory, phase, 'complex')
+    ref_filepath = get_filepaths(directory, phase, 'simple')
+
+    return evaluate_system_output(test_set='custom',
                                   sys_sents_path=pred_filepath,
+                                  orig_sents_path=source_filepath,
+                                  refs_sents_paths=[ref_filepath],
                                   metrics=['bleu', 'sari_legacy', 'fkgl'],
                                   quality_estimation=True)
