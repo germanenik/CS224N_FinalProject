@@ -1,0 +1,38 @@
+{
+    "os": "Darwin-19.3.0-x86_64-i386-64bit",
+    "python": "3.7.6",
+    "heartbeatAt": "2021-03-11T21:19:44.927341",
+    "startedAt": "2021-03-11T21:19:43.812640",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--DepTreeDepth=0.26705452318483913",
+        "--LengthRatio=0.22562649193592255",
+        "--Levenshtein=0.38850175805607623",
+        "--WordRank=0.7096599770941155",
+        "--beam=4",
+        "--dropout=0.4158985468135501",
+        "--fp16=false",
+        "--label_smoothing=0.5750643668839776",
+        "--lr=0.7071406463336259",
+        "--lr_scheduler=fixed",
+        "--max_epoch=100",
+        "--max_tokens=5000",
+        "--optimizer=adam",
+        "--parametrization_budget=256",
+        "--warmup_updates=4000"
+    ],
+    "state": "running",
+    "program": "wandb_log.py",
+    "codePath": "data/simplification/wandb_log.py",
+    "git": {
+        "remote": "https://github.com/germanenik/CS224N_FinalProject.git",
+        "commit": "fb944c2636b988b9071b0754941bfe8454d53511"
+    },
+    "email": "hzhang16@stanford.edu",
+    "root": "/Users/henryzhang/Documents/Stanford/2020-2021/CS224N/finalProject",
+    "host": "Old-MacBook-Pro.local",
+    "username": "henryzhang",
+    "executable": "/Users/henryzhang/miniconda3/bin/python"
+}
