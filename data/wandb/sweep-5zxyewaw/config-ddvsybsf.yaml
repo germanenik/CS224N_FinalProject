@@ -1,0 +1,32 @@
+wandb_version: 1
+
+DepTreeDepth:
+  value: 0.10986521955705297
+LengthRatio:
+  value: 0.2898921860046464
+Levenshtein:
+  value: 0.08880883620053448
+WordRank:
+  value: 0.710270982094706
+beam:
+  value: 8
+dropout:
+  value: 0.963500555871877
+fp16:
+  value: 'false'
+label_smoothing:
+  value: 0.11464649680651018
+lr:
+  value: 0.0003389778356527442
+lr_scheduler:
+  value: fixed
+max_epoch:
+  value: 100
+max_tokens:
+  value: 5000
+optimizer:
+  value: adam
+parametrization_budget:
+  value: 256
+warmup_updates:
+  value: 4000

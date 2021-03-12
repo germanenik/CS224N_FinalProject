@@ -13,7 +13,7 @@ from nevergrad.instrumentation import Instrumentation
 from nevergrad.optimization import optimizerlib
 import re
 
-from access.evaluation.general import evaluate_simplifier_on_turkcorpus
+from access.evaluation.general import evaluate_simplifier_on_turkcorpus, evaluate_simplifier_on_directory
 from access.evaluation.utils import combine_metrics
 from access.fairseq.base import (fairseq_preprocess, fairseq_train, fairseq_generate, get_fairseq_exp_dir,
                                  )
@@ -58,8 +58,9 @@ def find_best_parametrization(exp_dir, metrics_coefs, preprocessors_kwargs, para
         # Note that we use default generate kwargs instead of provided one because they are faster
         preprocessors_kwargs = instru_kwargs_to_preprocessors_kwargs(instru_kwargs)
         simplifier = get_simplifier(exp_dir, preprocessors_kwargs=preprocessors_kwargs, generate_kwargs={})
-        scores = evaluate_simplifier_on_turkcorpus(simplifier, phase='valid')
-        return combine_metrics(scores['BLEU'], scores['SARI'], scores['FKGL'], metrics_coefs)
+        #scores = evaluate_simplifier_on_turkcorpus(simplifier, phase='valid')
+        scores = evaluate_simplifier_on_directory('simplification', simplifier, phase='valid')
+        return combine_metrics(scores['bleu'], scores['sari_legacy'], scores['fkgl'], metrics_coefs)
 
     def preprocessors_kwargs_to_instru_kwargs(preprocessors_kwargs):
         instru_kwargs = {}
@@ -119,13 +120,14 @@ def fairseq_train_and_evaluate(dataset, metrics_coefs=[1, 1, 1], parametrization
     preprocessed_dir = fairseq_preprocess(dataset)
     train_kwargs = get_allowed_kwargs(fairseq_train, preprocessed_dir, exp_dir, **kwargs)
     fairseq_train(preprocessed_dir, exp_dir=exp_dir, **train_kwargs)
-    # Evaluation
-    # generate_kwargs = get_allowed_kwargs(fairseq_generate, 'complex_filepath', 'pred_filepath', exp_dir, **kwargs)
-    # recommended_preprocessors_kwargs = find_best_parametrization(exp_dir, metrics_coefs, preprocessors_kwargs,
-    #                                                              parametrization_budget)
-    # print(f'recommended_preprocessors_kwargs={recommended_preprocessors_kwargs}')
-    # simplifier = get_simplifier(exp_dir, recommended_preprocessors_kwargs, generate_kwargs)
-    # scores = evaluate_simplifier_on_turkcorpus(simplifier, phase='valid')
-    # print(f'scores={scores}')
-    # score = combine_metrics(scores['BLEU'], scores['SARI'], scores['FKGL'], metrics_coefs)
-    # return score
+    ### Evaluation
+    generate_kwargs = get_allowed_kwargs(fairseq_generate, 'complex_filepath', 'pred_filepath', exp_dir, **kwargs)
+    recommended_preprocessors_kwargs = find_best_parametrization(exp_dir, metrics_coefs, preprocessors_kwargs,
+                                                                 parametrization_budget)
+    print(f'recommended_preprocessors_kwargs={recommended_preprocessors_kwargs}')
+    simplifier = get_simplifier(exp_dir, recommended_preprocessors_kwargs, generate_kwargs)
+    #scores = evaluate_simplifier_on_turkcorpus(simplifier, phase='valid')
+    scores = evaluate_simplifier_on_directory('simplification', simplifier, phase='valid')
+    print(f'scores={scores}')
+    score = combine_metrics(scores['bleu'], scores['sari_legacy'], scores['fkgl'], metrics_coefs)
+    return score

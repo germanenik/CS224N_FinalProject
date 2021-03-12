@@ -21,6 +21,7 @@ from access.resources.paths import get_dataset_dir, EXP_DIR
 from access.utils.helpers import (log_stdout, lock_directory, create_directory_or_skip, yield_lines,
                                   write_lines)
 
+CUSTOM_PATH_PART = '/home/legalese/CS224N_FinalProject/' # CHANGE THIS ON YOUR LOCAL MACHINE
 
 def get_fairseq_exp_dir(job_id=None):
     if job_id is not None:
@@ -52,9 +53,9 @@ def fairseq_preprocess(dataset):
                 '--output-format',
                 'raw',
                 '--srcdict',
-                '/home/legalese/CS224N_FinalProject/access/model/dict.complex.txt',
+                CUSTOM_PATH_PART + 'access/model/dict.complex.txt',
                 '--tgtdict',
-                '/home/legalese/CS224N_FinalProject/access/model/dict.simple.txt',
+                CUSTOM_PATH_PART + 'access/model/dict.simple.txt',
             ])
             print(preprocess_args)
             preprocess.main(preprocess_args)
@@ -86,10 +87,10 @@ def fairseq_train(
         criterion='label_smoothed_cross_entropy',
         optimizer='nag',
         validations_before_sari_early_stopping=40,
-        fp16=False,
-        restore_file_path='/home/legalese/CS224N_FinalProject/access/model/checkpoints/checkpoint_best.pt'):
+        fp16=False):
     exp_dir = Path(exp_dir)
     with log_stdout(exp_dir / 'fairseq_train.stdout'):
+        restore_file_path = CUSTOM_PATH_PART + 'access/model/checkpoints/checkpoint_best.pt'
         preprocessed_dir = Path(preprocessed_dir)
         exp_dir.mkdir(exist_ok=True, parents=True)
         # Copy dictionaries to exp_dir for generation
@@ -99,8 +100,8 @@ def fairseq_train(
         # if share_embeddings:
         #     assert encoder_decoder_dim_ratio == 1
         args = [
-            '--restore-file',
-            restore_file_path,
+            '--keep-last-epochs',
+            1,
             '--task',
             'translation',
             preprocessed_dir,
@@ -115,14 +116,12 @@ def fairseq_train(
             0.1,
             '--criterion',
             criterion,
-            '--no-epoch-checkpoints',
-            '--save-interval-updates',
-            5000,  # Validate every n updates
+            '--save-interval',
+            1,
             '--validations-before-sari-early-stopping',
             validations_before_sari_early_stopping,
             '--arch',
             arch,
-
             # '--decoder-out-embed-dim', int(embeddings_dim * encoder_decoder_dim_ratio),  # Output dim of decoder
             '--max-tokens',
             max_tokens,
@@ -147,7 +146,9 @@ def fairseq_train(
             '--seed',
             random.randint(1, 1000),
             '--tensorboard-logdir',
-            'tensorboard'
+            'tensorboard',
+            '--restore-file',
+            restore_file_path,
             # '--force-anneal', '200',
             # '--distributed-world-size', '1',
         ]
@@ -282,7 +283,9 @@ def fairseq_generate(complex_filepath,
                      batch_size=128):
     exp_dir = Path(exp_dir)
     checkpoint_path = exp_dir / 'checkpoints/checkpoint_best.pt'
-    assert checkpoint_path.exists(), f'Generation failed, no checkpoint at {checkpoint_path}'
+    # assert checkpoint_path.exists(), f'Generation failed, no checkpoint at {checkpoint_path}'
+    if not checkpoint_path.exists():	#, f'Generation failed, no checkpoint at {checkpoint_path}'
+    	shutil.copy(exp_dir / 'checkpoints/checkpoint_last.pt', checkpoint_path)
     complex_dictionary_path = exp_dir / 'dict.complex.txt'
     simple_dictionary_path = exp_dir / 'dict.simple.txt'
     _fairseq_generate(complex_filepath,
