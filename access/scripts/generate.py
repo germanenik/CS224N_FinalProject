@@ -12,6 +12,7 @@ from access.resources.prepare import prepare_models
 from access.simplifiers import get_fairseq_simplifier, get_preprocessed_simplifier
 from access.text import word_tokenize
 from access.utils.helpers import yield_lines, write_lines, get_temp_filepath, mute
+from access.resources.paths import REPO_DIR
 
 
 if __name__ == '__main__':
@@ -20,7 +21,8 @@ if __name__ == '__main__':
     source_filepath = get_temp_filepath()
     write_lines([word_tokenize(line) for line in fileinput.input()], source_filepath)
     # Load best model
-    best_model_dir = prepare_models()
+    #best_model_dir = prepare_models()
+    best_model_dir = REPO_DIR + 'experiments/fairseq/local_1615607095562'
     recommended_preprocessors_kwargs = {
         'LengthRatioPreprocessor': {'target_ratio': 0.95},
         'LevenshteinPreprocessor': {'target_ratio': 0.75},

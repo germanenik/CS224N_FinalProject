@@ -17,11 +17,9 @@ import time
 from fairseq import options
 from fairseq_cli import preprocess, train, generate
 
-from access.resources.paths import get_dataset_dir, EXP_DIR
+from access.resources.paths import get_dataset_dir, EXP_DIR, REPO_DIR
 from access.utils.helpers import (log_stdout, lock_directory, create_directory_or_skip, yield_lines,
                                   write_lines)
-
-CUSTOM_PATH_PART = '/home/legalese/CS224N_FinalProject/' # CHANGE THIS ON YOUR LOCAL MACHINE
 
 def get_fairseq_exp_dir(job_id=None):
     if job_id is not None:
@@ -53,9 +51,9 @@ def fairseq_preprocess(dataset):
                 '--output-format',
                 'raw',
                 '--srcdict',
-                CUSTOM_PATH_PART + 'access/model/dict.complex.txt',
+                REPO_DIR + 'model/dict.complex.txt',
                 '--tgtdict',
-                CUSTOM_PATH_PART + 'access/model/dict.simple.txt',
+                REPO_DIR + 'model/dict.simple.txt',
             ])
             print(preprocess_args)
             preprocess.main(preprocess_args)
@@ -90,7 +88,7 @@ def fairseq_train(
         fp16=False):
     exp_dir = Path(exp_dir)
     with log_stdout(exp_dir / 'fairseq_train.stdout'):
-        restore_file_path = CUSTOM_PATH_PART + 'access/model/checkpoints/checkpoint_best.pt'
+        restore_file_path = REPO_DIR + 'model/checkpoints/checkpoint_best.pt'
         preprocessed_dir = Path(preprocessed_dir)
         exp_dir.mkdir(exist_ok=True, parents=True)
         # Copy dictionaries to exp_dir for generation
