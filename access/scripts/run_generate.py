@@ -6,9 +6,11 @@ from pathlib import Path
 # split .complex into smaller files
 #os.system('source venv/bin/activate')
 #generate_dir = Path(REPO_DIR) + scripts
-complex_dir = Path(REPO_DIR) / sys.argv[1] #removed Path(REPO_DIR) + 
+complex_dir = sys.argv[1] #removed Path(REPO_DIR) + 
 print(complex_dir)
-os.system(f'split -C 30k {complex_dir}/pipeline.complex --additional-suffix=".complex"')
+os.system(f'cd {complex_dir}')
+os.system(f'split -C 30k pipeline.complex --additional-suffix=".complex"')
+os.system('cd ../..')
 print(os.listdir(complex_dir))
 complex_files = [f for f in os.listdir(complex_dir) if os.path.isfile(os.path.join(complex_dir, f)) and f != 'pipeline.complex']
 num_new_files = len(complex_files)
