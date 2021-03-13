@@ -22,7 +22,7 @@ if __name__ == '__main__':
     write_lines([word_tokenize(line) for line in fileinput.input()], source_filepath)
     # Load best model
     #best_model_dir = prepare_models()
-    best_model_dir = REPO_DIR + 'experiments/fairseq/local_1615607095562'
+    best_model_dir = REPO_DIR / 'experiments/fairseq/local_1615607095562'
     recommended_preprocessors_kwargs = {
         'LengthRatioPreprocessor': {'target_ratio': 0.95},
         'LevenshteinPreprocessor': {'target_ratio': 0.75},
