@@ -17,7 +17,7 @@ os.chdir(Path(REPO_DIR))
 os.system('pwd')
 print(os.listdir(complex_dir))
 complex_files = [f for f in os.listdir(complex_dir) if os.path.isfile(os.path.join(complex_dir, f)) \
-	and f != 'pipeline.complex' and f.split('.')[1] == '.complex']
+	and f != 'pipeline.complex' and f.endswith(".complex")]
 num_new_files = len(complex_files)
 print(num_new_files) # should be 8
 
