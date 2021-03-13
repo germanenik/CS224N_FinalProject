@@ -1,0 +1,24 @@
+{
+    "os": "Darwin-19.3.0-x86_64-i386-64bit",
+    "python": "3.7.6",
+    "heartbeatAt": "2021-03-12T00:22:28.814926",
+    "startedAt": "2021-03-12T00:22:27.609960",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "3"
+    ],
+    "state": "running",
+    "program": "wandb_log.py",
+    "codePath": "data/simplification/wandb/wandb_log.py",
+    "git": {
+        "remote": "https://github.com/germanenik/CS224N_FinalProject.git",
+        "commit": "ff20d9ce08f200093e5ee728d07251a1639cfed4"
+    },
+    "email": "hzhang16@stanford.edu",
+    "root": "/Users/henryzhang/Documents/Stanford/2020-2021/CS224N/finalProject",
+    "host": "Old-MacBook-Pro.local",
+    "username": "henryzhang",
+    "executable": "/Users/henryzhang/miniconda3/bin/python"
+}

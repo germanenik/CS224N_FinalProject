@@ -1,0 +1,74 @@
+wandb_version: 1
+
+BLEU:
+  desc: null
+  value: 9.26
+DepTreeDepth:
+  desc: null
+  value: 0.57904462
+FKGL:
+  desc: null
+  value: 2.12
+LengthRatio:
+  desc: null
+  value: 0.16343738
+Levenshtein:
+  desc: null
+  value: 0.82871444
+SARI:
+  desc: null
+  value: 23.18
+WordRank:
+  desc: null
+  value: 0.58154612
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.10.22
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.7.6
+    t:
+      4: 3.7.6
+      5: 0.10.22
+      8:
+      - 5
+beam:
+  desc: null
+  value: 6
+dropout:
+  desc: null
+  value: 0.20833712
+fp16:
+  desc: null
+  value: false
+label_smoothing:
+  desc: null
+  value: 0.32629871
+loss:
+  desc: null
+  value: 8.513
+lr:
+  desc: null
+  value: 0.00549168
+lr_scheduler:
+  desc: null
+  value: fixed
+max_epoch:
+  desc: null
+  value: 100
+max_tokens:
+  desc: null
+  value: 5000
+nll_loss:
+  desc: null
+  value: 5.541
+optimizer:
+  desc: null
+  value: adam
+parametrization_budget:
+  desc: null
+  value: 256
+warmup_updates:
+  desc: null
+  value: 4000
