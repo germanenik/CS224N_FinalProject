@@ -60,12 +60,12 @@ if __name__ == '__main__':
         'arch': 'transformer',
         'warmup_updates': 4000,
         'parametrization_budget': 256,
-        'beam': 4,
+        'beam': 9,
         'dataset': 'simplification',
-        'dropout': 0.739,
+        'dropout': 0.04,
         'fp16': False,
-        'label_smoothing': 0.0822,
-        'lr': 0.000653,
+        'label_smoothing': 0.4752,
+        'lr': 0.0003,
         'lr_scheduler': 'fixed',
         'max_epoch': 100,
         'max_tokens': 5000,
@@ -74,16 +74,16 @@ if __name__ == '__main__':
         'validations_before_sari_early_stopping': 10,
         'preprocessors_kwargs': {
             'LengthRatioPreprocessor': {
-                'target_ratio': 0.353
+                'target_ratio': 0.94
             },
             'LevenshteinPreprocessor': {
-                'target_ratio': 0.35
+                'target_ratio': 0.32
             },
             'WordRankRatioPreprocessor': {
-                'target_ratio': 0.611
+                'target_ratio': 0.39
             },
             'DependencyTreeDepthRatioPreprocessor': {
-                'target_ratio': 0.2627
+                'target_ratio': 0.0258
             },
             'SentencePiecePreprocessor': {
                 'vocab_size': 10000
