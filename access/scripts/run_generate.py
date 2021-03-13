@@ -22,7 +22,7 @@ num_new_files = len(complex_files)
 print(num_new_files) # should be 8
 
 # generate empty prediction files
-'''for file in complex_files:
+for file in complex_files:
 	prefix = file.split('.')[0]
 	simple_file = prefix + '.simple'
 	os.system(f'touch {complex_dir}/{simple_file}')
@@ -33,4 +33,4 @@ print(num_new_files) # should be 8
 os.system(f'cat {complex_dir}/*.simple > {complex_dir}/pipeline_valerror.simple')
 
 # remove split complex files (all complex files start with 'x')
-os.system(f'rm {complex_dir}/x*')'''
+os.system(f'rm {complex_dir}/x*')
