@@ -51,9 +51,9 @@ def fairseq_preprocess(dataset):
                 '--output-format',
                 'raw',
                 '--srcdict',
-                Path(REPO_DIR) / f'model/dict.complex.txt',
+                os.path.join(REPO_DIR, 'model/dict.complex.txt'),
                 '--tgtdict',
-                Path(REPO_DIR) / f'model/dict.simple.txt',
+                os.path.join(REPO_DIR, 'model/dict.simple.txt'),
             ])
             print(preprocess_args)
             preprocess.main(preprocess_args)
@@ -88,7 +88,6 @@ def fairseq_train(
         fp16=False):
     exp_dir = Path(exp_dir)
     with log_stdout(exp_dir / 'fairseq_train.stdout'):
-        restore_file_path = Path(REPO_DIR) / f'model/checkpoints/checkpoint_best.pt'
         preprocessed_dir = Path(preprocessed_dir)
         exp_dir.mkdir(exist_ok=True, parents=True)
         # Copy dictionaries to exp_dir for generation
@@ -146,7 +145,7 @@ def fairseq_train(
             '--tensorboard-logdir',
             'tensorboard',
             '--restore-file',
-            restore_file_path,
+            os.path.join(REPO_DIR, 'model/checkpoints/checkpoint_best.pt'),
             # '--force-anneal', '200',
             # '--distributed-world-size', '1',
         ]
