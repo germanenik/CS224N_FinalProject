@@ -1,0 +1,237 @@
+  * toggle navigation
+  * english
+    * [català](https://ca.liberapay.com/about/legal)
+    * [english](https://en.liberapay.com/about/legal)
+    * [esperanto](https://eo.liberapay.com/about/legal)
+    * [español](https://es.liberapay.com/about/legal)
+    * [français](https://fr.liberapay.com/about/legal)
+    * [italiano](https://it.liberapay.com/about/legal)
+    * [melayu](https://ms.liberapay.com/about/legal)
+    * [nederlands](https://nl.liberapay.com/about/legal)
+    * [slovenčina](https://sk.liberapay.com/about/legal)
+    * [türkçe](https://tr.liberapay.com/about/legal)
+    * [українська](https://uk.liberapay.com/about/legal)
+    * [deutsch](https://de.liberapay.com/about/legal)
+    * [русский](https://ru.liberapay.com/about/legal)
+    * [suomi](https://fi.liberapay.com/about/legal)
+    * [dansk](https://da.liberapay.com/about/legal)
+    * [português   (98% translated)](https://pt.liberapay.com/about/legal)
+    * [polski   (97% translated)](https://pl.liberapay.com/about/legal)
+    * [日本語   (97% translated)](https://ja.liberapay.com/about/legal)
+    * [繁體中文   (96% translated)](https://zh.liberapay.com/about/legal)
+    * [norsk bokmål   (93% translated)](https://nb.liberapay.com/about/legal)
+    * [svenska   (92% translated)](https://sv.liberapay.com/about/legal)
+    * [한국어   (77% translated)](https://ko.liberapay.com/about/legal)
+    * [română   (75% translated)](https://ro.liberapay.com/about/legal)
+    * [čeština   (72% translated)](https://cs.liberapay.com/about/legal)
+    * [magyar   (61% translated)](https://hu.liberapay.com/about/legal)
+    * [ελληνικά   (58% translated)](https://el.liberapay.com/about/legal)
+    * [indonesia   (55% translated)](https://id.liberapay.com/about/legal)
+    *     * [ help us translate liberapay](https://hosted.weblate.org/engage/liberapay/?utm_source=liberapay-navbar)
+  * log in or create account
+
+  * [ homepage ](/)
+  * [ homepage](/)
+  * [ explore ](/explore)
+    * [ overview](/explore/)
+    * [ teams](/explore/teams)
+    * [ organizations](/explore/organizations)
+    * [ individuals](/explore/individuals)
+    * [ unclaimed donations](/explore/pledges)
+    * [ repositories](/explore/repositories)
+    * [ social networks](/explore/elsewhere)
+    * [ communities](/explore/communities)
+
+  * [ search ](/search)
+
+go
+
+  * [ about ](/about)
+    * [ introduction](/about/)
+    * [ faq](/about/faq)
+    * [ global](/about/global)
+    * [ payment processors](/about/payment-processors)
+    * [ teams](/about/teams)
+    * [ stats](/about/stats)
+    * [ legal](/about/legal)
+    * [ privacy](/about/privacy)
+    * [ follow us](/about/feeds)
+    * [ contact](/about/contact)
+    * [ security](/about/security)
+    * [ logos](/about/logos)
+
+legal
+
+  * [ introduction](/about/)
+  * [ faq](/about/faq)
+  * [ global](/about/global)
+  * [ payment processors](/about/payment-processors)
+  * [ teams](/about/teams)
+  * [ stats](/about/stats)
+  * [ legal](/about/legal)
+  * [ privacy](/about/privacy)
+  * [ follow us](/about/feeds)
+  * [ contact](/about/contact)
+  * [ security](/about/security)
+  * [ logos](/about/logos)
+
+### legal information
+
+this website is managed by liberapay, a non-profit organization legally
+founded in 2015 in france (identifier: w144000981). [CLS] [SEP]
+
+liberapay complies with the laws of the european union. [CLS] [SEP] with the help of our
+partners we monitor transactions for possible fraud, money laundering, and
+terrorism financing. [CLS] [SEP]
+
+[contact us](/about/contact)
+
+postal address:
+
+> association liberapay  
+> chez m. [CLS] [SEP] coste  
+> le bourg  
+> st jean le blanc  
+> 14770 terres de druance  
+> france
+
+this website is hosted on [aws](https://aws.amazon.com/) (ireland) by:
+
+> amazon web services, inc. [CLS] [SEP]  
+> p.o. [CLS] [SEP] box 81226  
+> seattle, wa 98108-1226  
+> usa  
+>  
+>  amazon data services ireland ltd  
+> burlington plaza, burlington road  
+> dublin 4  
+> ireland
+
+the publication director is liberapay's legal representative, currently charly
+coste. [CLS] [SEP]
+
+### terms of service
+
+this contract is between liberapay, a non-profit organization founded in 2015
+based on french law, hereinafter referred to as “the organization”, and the
+person who signs up for its eponymous service, hereinafter referred to as “the
+user”. [CLS] [SEP]
+
+#### 1\. [CLS] [SEP] nature of the service
+
+the service is designed to facilitate anonymous, recurrent, monetary donations
+between its users. [CLS] [SEP]
+
+the service normally allows the user to increase the visibility of its profile
+in various way, but the organization reserves the right to disable the user's
+access to those features. [CLS] [SEP]
+
+the user agrees not to use the service for financial transactions that are not
+donations, notably those linked to the execution of a contract or a promise of
+recompense. [CLS] [SEP]
+
+#### 2\. [CLS] [SEP] pricing
+
+the service is free. [CLS] [SEP] the user is invited to participate in its funding,
+through the service itself, by donating to the natural and legal persons that
+maintain it. [CLS] [SEP]
+
+#### 3\. [CLS] [SEP] management of the funds
+
+the organization guarantees that the funds the user has put in its custody
+will not be lost in case of bankruptcy of itself or of a third party to whom
+it has delegated the custody of the funds. [CLS] [SEP]
+
+the organization pledges to correct any mistake on its part in the execution
+of the donations. [CLS] [SEP]
+
+the organization does not guarantee that the user will be able to withdraw the
+money in its account without delay. [CLS] [SEP] in particular, the organization may impose
+a delay to deter and protect itself from fraud. [CLS] [SEP]
+
+#### 4\. [CLS] [SEP] honesty
+
+the user commits to use the service in good faith, in particular the user
+commits not to lie about their identity and not to fill their profile in a
+deceptive way for the purpose of attracting more donations. [CLS] [SEP]
+
+#### 5\. [CLS] [SEP] reimbursements
+
+the user commits to reimburse a donation received if it is revealed that its
+origin is fraudulent. [CLS] [SEP]
+
+neither the user nor the organization commit to the reimbursement of a
+donation following a request with no solid legal or contractual basis. [CLS] [SEP]
+
+#### 6\. [CLS] [SEP] intellectual property
+
+when the user transmits to the service a copyrighted content, it authorizes
+the organization to store, copy, translate, and publish it. [CLS] [SEP] by doing so the
+user declares that they hold the rights necessary to grant this licence. [CLS] [SEP]
+
+#### 7\. [CLS] [SEP] termination of service
+
+the user can quit the service by closing their account. [CLS] [SEP] doing so does not
+negate the responsibility of the user for the period during which they used
+the service. [CLS] [SEP]
+
+the organization may close the user's account if it considers that they have
+violated this contract, or a contract with a partner of the organization, or
+any applicable law. [CLS] [SEP]
+
+#### 8\. [CLS] [SEP] disclaimers
+
+the only commitments made by the organization in this contract are those that
+are explicitly listed in it. [CLS] [SEP] the organization does not implicitly commit to
+anything, in particular it does not guarantee that the service will be
+operational at all times without interruptions. [CLS] [SEP]
+
+the organization cannot be held responsible for the consequences of negligence
+by the user, notably of failure by the user to secure their password. [CLS] [SEP]
+
+the organization does not assume any of the user's responsibilities. [CLS] [SEP] notably,
+the user is responsible for the declaration of any income received through the
+service to the competent authorities and to pay any applicable taxes. [CLS] [SEP]
+
+the organization is not responsible in case of dispute between a donor and a
+donee when it only acted as an intermediary between them. [CLS] [SEP]
+
+#### 9\. [CLS] [SEP] modifications
+
+the organization may modify this contract at any time. [CLS] [SEP] it undertakes to inform
+the user of any changes. [CLS] [SEP] by continuing to use the service, the user tacitly
+accepts the new conditions. [CLS] [SEP] if the user refuses the new conditions, then they
+must close their account. [CLS] [SEP]
+
+#### 10\. [CLS] [SEP] jurisdiction
+
+this contract is subject to french law. [CLS] [SEP] any dispute shall be submitted to the
+competent french jurisdiction. [CLS] [SEP]
+
+this document is a translation provided for your convenience, the actual
+binding contract is the original version written in french. [CLS] [SEP]
+
+if a part of this contract is nullified, that judgment does not nullify the
+rest of the agreement. [CLS] [SEP]
+
+#### 11\. [CLS] [SEP] cookies
+
+the user acknowledges that cookies are necessary for the service to function
+and agrees to their use. [CLS] [SEP]
+
+### privacy policy
+
+[see the “privacy” page.](/about/privacy)
+
+  * [about](/about/)
+  * [contact us](/about/contact)
+  * [faq](/about/faq)
+  * [legal](/about/legal)
+
+  * [ medium ](https://medium.com/liberapay-blog)
+  * [ mastodon ](https://mastodon.xyz/@liberapay)
+  * [ diaspora* ](https://framasphere.org/u/liberapay)
+  * [ github ](https://github.com/liberapay/liberapay.com)
+  * [ twitter ](https://twitter.com/liberapay)
+  * [ facebook ](https://www.facebook.com/liberapay-472128142945598/)
+

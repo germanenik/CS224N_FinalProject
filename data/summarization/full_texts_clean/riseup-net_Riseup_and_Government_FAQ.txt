@@ -1,0 +1,200 @@
+[riseup home](/en)
+
+[home](https://riseup.net/) [donate!](https://riseup.net/donate)
+
+red accounts
+
+[account](https://account.riseup.net/) [support](https://support.riseup.net/)
+[email](https://mail.riseup.net/) [chat](https://riseup.net/chat)
+[vpn](https://riseup.net/vpn)
+
+black accounts
+
+[account](https://black.riseup.net/) [vpn](https://riseup.net/vpn)
+
+other services
+
+[lists](https://lists.riseup.net/) [pad](https://pad.riseup.net/)
+[share](https://share.riseup.net/) [groups](https://we.riseup.net/)
+
+[](/)
+
+  * [home](/en)
+  * [email](/en/email)
+  * [lists](/en/lists)
+  * [chat](/en/chat)
+  * [vpn](/en/vpn)
+  * [security](/en/security)
+  * [about us](/en/about-us)
+
+  * [canary](/en/canary)
+  * [contact](/en/about-us/contact)
+  * [newsletters](/en/about-us/newsletter)
+  * [donate](/en/donate)
+  * [policy](/en/about-us/policy)
+  * [political principles](/en/about-us/politics)
+  * [press](/en/about-us/press)
+  * [projects](/en/about-us/projects)
+  * [propaganda](/en/about-us/propaganda)
+
+[ä¸­æ](/zh/about-us/policy/government-faq) [espaã±ol](/es/about-
+us/policy/government-faq) [english](/en/about-us/policy/government-faq)
+[portuguãªs](/pt/about-us/policy/government-faq) [pyccä¸ð¸ð¹](/ru/about-
+us/policy/government-faq) [deutsch](/de/about-us/policy/government-faq)
+[franã§ais](/fr/about-us/policy/government-faq) [italiano](/it/about-
+us/policy/government-faq) [polski](/pl/about-us/policy/government-faq)
+[îî»î»î·î½î¹îºî¬](/el/about-us/policy/government-faq) [catalã ](/ca/about-
+us/policy/government-faq) [hindi](/hi/about-us/policy/government-faq)
+
+[support riseup!](/en/donate)
+
+# riseup and government faq
+
+  1. [CLS] [SEP] is riseup working with the nsa?
+  2. [CLS] [SEP] but your servers are located in the u.s., doesnât that mean you have to install backdoors/monitoring/etc?
+  3. [CLS] [SEP] how is riseup different than lavabit and silent circle?
+  4. [CLS] [SEP] what if someone (like law enforcement) takes riseupâs servers?
+  5. [CLS] [SEP] how can i limit the amount of data that riseup stores for me?
+  6. [CLS] [SEP] will riseup services last forever?
+  7. [CLS] [SEP] what about child porn, drugs, corruption, etc. [CLS] [SEP] would you fight law enforcement requests for users doing these things?
+
+we have received your emails asking a number of good questions in light of
+last week's news about [lavabit and silentcircle closing
+down](https://www.theguardian.com/technology/2013/aug/09/lavabit-email-edward-
+snowden-shuts-down). [CLS] [SEP] we would like to clearly state that riseup has never
+given any user information to any third party. [CLS] [SEP] we have never permitted
+installation of any hardware or software monitoring on any system that we
+control. [CLS] [SEP]
+
+we will do everything in our power to protect the data of social movements and
+activists, short of extended incarceration. [CLS] [SEP] we would rather pull the plug than
+submit to repressive surveillance by our government, or any government. [CLS] [SEP] we are
+doing everything we can, as quickly as possible, to forge forward with options
+that would prevent us from having to shut down, in case we are faced with
+making such a decision. [CLS] [SEP] in cooperation with other groups, we are hard at work
+to develop and deploy a radical new infrastructure that would allow us to
+provide email in a way that is a thousand times more secure and that would
+prevent us from having access to any user's data. [CLS] [SEP] we have been working on this
+for over a year, but we have a lot more work to do before it is finalized. [CLS] [SEP]
+
+don't panic. [CLS] [SEP] here are some questions and answers. [CLS] [SEP]
+
+### is riseup working with the nsa?
+
+we would rather stop being riseup before we did that. [CLS] [SEP] we are not working with
+any government agency. [CLS] [SEP] we have never simply handed over information when
+requested, and for years have had a no logging policy. [CLS] [SEP] we have fought and won
+every time anyone has tried to get us to give up information. [CLS] [SEP] we have never
+turned over any user data to any third party, fourth party, fifth party or any
+party. [CLS] [SEP]
+
+### but your servers are located in the u.s., doesnât that mean you have to
+install backdoors/monitoring/etc?
+
+we have no control over our network providers, but we have physical control of
+our servers, they are not hosted "in the cloud." this gives us much more
+physical assurance of the security of our machines. [CLS] [SEP] we would not consent to
+the installation of any external hardware or software on our network and would
+end the organization rather than install any. [CLS] [SEP] however, once our fiber
+connections leave our space, they could be monitored. [CLS] [SEP] this is not new, and has
+been our assumption from the beginning. [CLS] [SEP] when you send an email to someone with
+an email hosted elsewhere, we have no control over it once it leaves our
+servers. [CLS] [SEP] also, the us still has _better_ laws for internet providers than in
+many other countries, including many places in europe, where there are data
+retention laws requiring providers to keep logs. [CLS] [SEP] the us has no such
+requirement and it has been our policy for years to not keep any logs. [CLS] [SEP]
+
+### how is riseup different than lavabit and silent circle?
+
+these were commercial services whose primary mission was to provide paid
+private email. [CLS] [SEP] riseup is different in that we are a non-profit whose goal is
+to support activists and keep them safe. [CLS] [SEP] those companies were for-profit
+businesses, riseup is in it for social change!
+
+### what if someone (like law enforcement) takes riseupâs servers?
+
+they have in the past! this usually happens when they want logs, we tell them
+that we don't have any and then they come and take the machine because they
+don't believe us and want to see for themselves. [CLS] [SEP] however, all of our servers
+use full disk encryption, which means they cannot see or do anything with the
+data on the disks without the keys. [CLS] [SEP] nevertheless, we do not keep ip
+identifying logs, and store as little data as possible on our users. [CLS] [SEP] but this
+is not just riseup's responsibility, each user is responsible for limiting the
+amount of data that riseup stores for them!
+
+### how can i limit the amount of data that riseup stores for me?
+
+there are several ways
+
+**account info:** when you applied for an account you provided a little
+information. [CLS] [SEP] after you are approved we don't need this information anymore and
+you can clean it up. [CLS] [SEP] login to user.riseup.net and review the information that
+you have provided there and consider what information you have given us that
+identifies you. [CLS] [SEP] for example, if obama had a secret email address with riseup
+and applied for the address using
+[president@whitehouse.gov](mailto:president@whitehouse.gov) as his alternate
+email address, it would be a good idea for him to remove
+[president@whitehouse.gov](mailto:president@whitehouse.gov) from his alternate
+email if he wanted to be able to engage in constitutionally-protected,
+anonymous, speech. [CLS] [SEP]
+
+but please note: if you do remove your alternate email, and you later
+lose/forget your password, it will _not be possible_ for us to reset your
+password. [CLS] [SEP] you will be permanently locked out of your account and will not be
+able to access your emails. [CLS] [SEP] you have been warned!
+
+**email:** if you are not already, consider using an email client that lets
+you download email via the pop protocol and deletes it from the server. [CLS] [SEP] there
+is no getting around the mail arriving on riseup's server, but if you download
+it and it's deleted from the server then riseup doesn't have it anymore. [CLS] [SEP] but
+note this does have a downside, using webmail or the imap protocol does allow
+you to check email from more than one computer. [CLS] [SEP] if you need that ability, one
+approach might be to move older email offline to a single computer and just
+check newer things from multiple locations. [CLS] [SEP] here are some directions for
+[downloading your email](/en/email/clients/downloading-email). [CLS] [SEP]
+
+**lists:** one of the nice features of having a mailing list is having a
+message archive. [CLS] [SEP] but if the idea of someone you don't want getting access to
+that archive scares you, then it might be better to do without an archive or
+periodically move the archive to a more secure location. [CLS] [SEP] but don't forget that
+any subscriber to your list gets a copy of every message, so even if you have
+the archives removed, there is nothing that prevents subscribers from leaking
+those messages! more info at: [downloading list archives](/en/lists/list-
+admin/maintenance/archives). [CLS] [SEP]
+
+**ask yourself:** where are the important emails, documents, and manifestos of
+your group stored? do you have a good place for them for people to find when
+you are gone and people want to write the history about how you changed the
+world? if they are only stored in riseup, that isnât good. [CLS] [SEP] download them and
+put them somewhere safer! we are birds, so we like eggs, but we don't like
+people putting all their eggs in our basket. [CLS] [SEP]
+
+### will riseup services last forever?
+
+while we are committed to doing everything in our power to protect the data of
+social movements and activists, short of extended incarceration, we would
+rather pull the plug than submit to repressive surveillance by any government. [CLS] [SEP]
+we would be really sad to see riseup go, but if we are forced to, we would
+rather it go away than to betray your trust and compromise the activist
+community. [CLS] [SEP] with this in mind, you should be sure you are prepared in case
+something does happen, such as downloading and archive your email on your own
+computer!
+
+### what about child porn, drugs, corruption, etc. [CLS] [SEP] would you fight law
+enforcement requests for users doing these things?
+
+those things violate riseup's terms of service and, unlike some more "american
+libertarian" service providers, we do not exist to provide privacy for doing
+anything you want. [CLS] [SEP] we would close the accounts of people doing those things
+and the collective may even decide to cooperate with law enforcement rather
+than set all the servers on fire and destroy the organization, and your email. [CLS] [SEP]
+
+this site is run by riseup, your friendly â¶utonomous tech collective since
+1999
+
+  * [donate!](/en/donate)
+  * [about us](/en/about-us)
+  * [privacy policy](/en/privacy-policy)
+
+[please edit this site](https://github.com/riseupnet/riseup_help)
+

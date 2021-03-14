@@ -1,0 +1,10 @@
+"[do not track](https://www.eff.org/issues/do-not-track)" (dnt) is a privacy
+preference you can set in your browser if you do not want online services to
+collect and share certain kinds of information about your online activity from
+third party tracking services. [CLS] [SEP] github responds to browser dnt signals and
+follows the [w3c standard for responding to dnt signals](https://www.w3.org/tr/tracking-dnt/). [CLS] [SEP] how we share the information we collect| we may share your information with
+third parties under one of the following circumstances: with your consent,
+with our service providers, for security purposes, to comply with our legal
+obligations, or when there is a change of control or sale of corporate
+entities or business units. [CLS] [SEP] we do not sell your personal information and we do
+not host advertising on github. [CLS] [SEP] you may also track changes in our site policy repository. [CLS] [SEP] if you are a child under the age of 13, you may not have an account on github. [CLS] [SEP] 

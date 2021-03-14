@@ -1,0 +1,2756 @@
+[__  return to protonmail.com](/) [
+__facebook](https://facebook.com/protonmail "facebook") [
+__twitter](https://twitter.com/protonmail "twitter")
+
+toggle navigation [ ![](https://protonmail.com/images/logo.png)
+](https://protonmail.com/blog/)
+
+  * [about](https://protonmail.com/about "about")
+  * [security](https://protonmail.com/security-details "security")
+  * [blog](https://protonmail.com/blog/ "blog")
+  * [careers](https://protonmail.com/careers "careers")
+  * [support](https://protonmail.com/support/ "support")
+  * enterprise __
+    * [protonmail business](/business)
+    * [gdpr compliance](/gdpr)
+    * [guide to it security](/it-security-complete-guide-for-businesses)
+  * [log in](https://mail.protonmail.com/login "log in")
+  * [sign up](https://protonmail.com/signup "sign up")
+
+  * [all](https://protonmail.com/blog/)
+  * [articles & news](https://protonmail.com/blog/category/news/)
+  * [encryption](https://protonmail.com/blog/category/encryption/)
+  * [privacy](https://protonmail.com/blog/category/privacy/)
+  * [releases](https://protonmail.com/blog/category/release-notes/)
+  * [security](https://protonmail.com/blog/category/security/)
+
+articles & news encryption privacy releases security
+
+[
+__](http://www.facebook.com/sharer.php?u=https://protonmail.com/blog/blog/protonmail-
+open-source/ "facebook") [ __](http://twitter.com/share?text=protonmail is
+open source!&url=https://protonmail.com/blog/blog/protonmail-open-source/
+"twitter") [ __](https://protonmail.com/blog/feed/ "rss")
+
+# protonmail is open source!
+
+posted on [august 13, 2015november 29,
+2019](https://protonmail.com/blog/protonmail-open-source/ "3:53 am") by
+[proton team](https://protonmail.com/blog/author/andy-yen/ "view all posts by
+proton team")
+
+![](https://protonmail.com/blog/wp-
+content/uploads/2010/08/blogpost-v2release-3-e1443574161580.png)
+
+earlier today, [we released protonmail 2.0 to the
+world](https://protonmail.com/blog/protonmail-secure-email-open-source/). [CLS] [SEP] we
+are happy to announce that we are also releasing protonmail 2.0 as open source
+software! from the beginning, we have been strong proponents of open source
+software and the core cryptography libraries that we develop and use have been
+[open source from day one](https://protonmail.com/blog/protonmail-open-source-
+crytography/). [CLS] [SEP]
+
+today, we are happy to take the next step and completely open source our
+webmail interface. [CLS] [SEP] this means all the protonmail code that runs on your
+computer is now available for inspection. [CLS] [SEP] we hope that by opening up our
+platform, we will encourage additional contributors to help us make protonmail
+[the world's most secure email
+service](http://www.forbes.com/sites/hollieslade/2014/05/19/the-only-email-
+system-the-nsa-cant-access/). [CLS] [SEP]
+
+our move to open source has actually been coming for a long time. [CLS] [SEP] while it
+would have also been possible to open source protonmail 1.x, we felt that such
+a move was not appropriate given that the code was intended to be deprecated. [CLS] [SEP]
+by open sourcing protonmail 2.0, we are open sourcing the future of
+protonmail. [CLS] [SEP] as we continue to expand our private email service with mobile
+apps, you can look forward to more open source announcements as our code base
+matures. [CLS] [SEP]
+
+protonmail 2.0 can be viewed online on github at the link below. [CLS] [SEP] as a nod to
+our cern and mit roots, we are releasing under the permissive mit license. [CLS] [SEP] let
+us know if you do something cool with our code. [CLS] [SEP]
+
+    
+    
+    <https://github.com/protonmail/webclient>
+
+we welcome all feedback at security@protonmail.ch and look forward to
+continuing to improve protonmail with your help!
+
+best regards,  
+the protonmail team
+
+share this![![share on reddit](https://protonmail.com/blog/wp-
+content/plugins/custom-share-
+buttons/buttons/somacro/reddit.png)](http://reddit.com/submit?url=https://protonmail.com/blog/protonmail-
+open-source/&title=protonmail is open source!)[![share on
+facebook](https://protonmail.com/blog/wp-content/plugins/custom-share-
+buttons/buttons/somacro/facebook.png)](http://www.facebook.com/sharer.php?u=https://protonmail.com/blog/protonmail-
+open-source/)[![email this to someone](https://protonmail.com/blog/wp-
+content/plugins/custom-share-
+buttons/buttons/somacro/email.png)](mailto:?subject=protonmail is open
+source!&body=%20https://protonmail.com/blog/protonmail-open-source/)[![tweet
+about this on twitter](https://protonmail.com/blog/wp-content/plugins/custom-
+share-
+buttons/buttons/somacro/twitter.png)](http://twitter.com/share?url=https://protonmail.com/blog/protonmail-
+open-source/&text=protonmail+is+open+source%21+)[get a free encrypted email
+account](/signup)
+
+[articles & news](https://protonmail.com/blog/category/news/)
+
+[279](https://protonmail.com/blog/protonmail-open-source/#comments) [__](
+"edit")
+
+_about the author_
+
+![proton team](https://protonmail.com/images/stripelogo.png)
+
+#### **proton team**
+
+we are scientists, engineers, and developers drawn together by a shared vision
+of protecting civil liberties online. [CLS] [SEP] ensuring online privacy and security are
+core values for the protonmail team, and we strive daily to protect your
+rights online. [CLS] [SEP]
+
+### leave a reply [cancel reply](/blog/protonmail-open-source/#respond)
+
+your email address will not be published. [CLS] [SEP]
+
+comment
+
+you may use these html tags and attributes: `<a href="" title="">` `<abbr
+title="">` `<acronym title="">` `<b>` `<blockquote cite="">` `<cite>` `<code>`
+`<del datetime="">` `<em>` `<i>` `<q cite="">` `<s>` `<strike>` `<strong> `
+
+name
+
+email
+
+website
+
+current ye@r *
+
+leave this field empty
+
+###  279 comments on "protonmail is open source!"
+
+  * **fk** , [august 13, 2015 at 9:38 am](https://protonmail.com/blog/protonmail-open-source/#comment-8682)
+
+do you have any guide or plan to release guides/documentation for 'how to' run
+protonmail on-prem?
+
+reply
+
+    * **an** , [january 17, 2016 at 5:51 am](https://protonmail.com/blog/protonmail-open-source/#comment-10486)
+
+better
+
+reply
+
+      * **ray** , [march 5, 2016 at 2:08 pm](https://protonmail.com/blog/protonmail-open-source/#comment-11480)
+
++1
+
+reply
+
+        * **abdelmonem mohamed mohamed ali omran** , [november 8, 2017 at 11:34 pm](https://protonmail.com/blog/protonmail-open-source/#comment-15036)
+
+very nice
+
+reply
+
+  * **tim** , [august 13, 2015 at 11:06 am](https://protonmail.com/blog/protonmail-open-source/#comment-8698)
+
+keep up the good work!
+
+reply
+
+  * **rich** , [august 13, 2015 at 11:42 am](https://protonmail.com/blog/protonmail-open-source/#comment-8703)
+
+this is great news, thanks for all the hard work. [CLS] [SEP] are the mobile apps and the
+server code also planned to be open sourced?
+
+reply
+
+  * pingback:[protonmail se renueva y se hace opensource | bienestar institucional](http://unividafup.com/bienestar/protonmail-se-renueva-y-se-hace-opensource/)
+
+  * **rz** , [august 14, 2015 at 12:11 am](https://protonmail.com/blog/protonmail-open-source/#comment-8810)
+
+it's an excellent and important improvement that the list of email messages
+now clearly state "to:" and "from:"!
+
+reply
+
+  * **[titania](http://abc.xyz)** , [august 14, 2015 at 6:01 am](https://protonmail.com/blog/protonmail-open-source/#comment-8823)
+
+this is very very nice and great news for me. [CLS] [SEP]
+
+i am waiting for documentation. [CLS] [SEP]
+
+reply
+
+    * **djamila** , [october 22, 2016 at 1:26 pm](https://protonmail.com/blog/protonmail-open-source/#comment-12724)
+
+je ne sais pas bien utiliser les fonctionnalités de proton mail. [CLS] [SEP] je
+souhaiterais avoir un guide en français. [CLS] [SEP] j'ai cliqué par inadvertance sur un
+lien pour ne pas recevoir les notifications mais en fait je souhaiterais les
+recevoir. [CLS] [SEP] vous avez une fois posé la question : "pourquoi vous avez choisi
+protonmail?" la réponse est simple : j'ai confiance. [CLS] [SEP] je n'arrive pas à
+répondre parfois, parce que je ne comprends pas tout ou très peu. [CLS] [SEP] des mails
+n'ont pas été délivrés. [CLS] [SEP] quel est le problème. [CLS] [SEP]  
+merci de ce que vous faites pour la communauté
+
+reply
+
+      * **eric valissant** , [january 7, 2017 at 8:36 pm](https://protonmail.com/blog/protonmail-open-source/#comment-13296)
+
+excellente initiative qui montre que l'esprit du partage et de la liberté
+résiste dans ce monde de pillards
+
+moi aussi, j'apprécierais tout ce qui pourrait être traduit en français, mais
+bon, je ne vais pas me plaindre de mon handicap alors qu'on m'offre un si bel
+outil!
+
+**m** erci aux «protons»
+
+eric valissant
+
+reply
+
+  * **chz** , [august 14, 2015 at 9:18 am](https://protonmail.com/blog/protonmail-open-source/#comment-8832)
+
+great news!
+
+reply
+
+  * **beth** , [august 14, 2015 at 8:19 pm](https://protonmail.com/blog/protonmail-open-source/#comment-8846)
+
+i'm so enjoying this simple system that my hope is to close my sole other
+email account. [CLS] [SEP]
+
+but: does anyone know why my gmail account alerted me with a mailer daemon
+when my protonmail account didn't accept a mssg with a (clean) attachment?
+this happened minutes ago, and i don't like it. [CLS] [SEP] the accounts certainly are not
+synced. [CLS] [SEP]
+
+the accounts share only an address username, and possibly my laptop has
+allowed an unwanted i.d. [CLS] [SEP] "save," somewhere - i dunno. [CLS] [SEP]
+
+any light appreciated!
+
+reply
+
+    * **admin** , [august 17, 2015 at 7:55 pm](https://protonmail.com/blog/protonmail-open-source/#comment-8939)
+
+if you forward the mailer daemon reject message to
+[support@protonmail.ch](mailto:support@protonmail.ch), we can have a look to
+see why the message was rejected. [CLS] [SEP]
+
+reply
+
+    * **anonymous** , [december 11, 2015 at 12:37 pm](https://protonmail.com/blog/protonmail-open-source/#comment-10094)
+
+not so goog
+
+reply
+
+  * **pamputt** , [august 17, 2015 at 3:16 pm](https://protonmail.com/blog/protonmail-open-source/#comment-8919)
+
+if i understood correctly, the open-source part in about the front-end part of
+protonmail as you wrote in the "protonmail open source cryptography" post. [CLS] [SEP]
+thank you very much for this release and for sure it will help to make
+protonmail more secure. [CLS] [SEP] however, what about the code of the back-end part. [CLS] [SEP] it
+could be really good to have it also under free license in order to host
+protonmail at home on our own computer. [CLS] [SEP] i guess the arguments you defend on
+the previous post for the front-end part are also valid for the back-end part. [CLS] [SEP]
+
+reply
+
+    * **admin** , [august 17, 2015 at 6:59 pm](https://protonmail.com/blog/protonmail-open-source/#comment-8926)
+
+the security risks of open sourcing the back-end code is too high. [CLS] [SEP] it would
+let an attacker know how our infrastructure is set up or let spammers get
+insight into how to circumvent our anti-spam measures. [CLS] [SEP]
+
+reply
+
+      * **anonymous** , [august 21, 2015 at 11:50 am](https://protonmail.com/blog/protonmail-open-source/#comment-9101)
+
+this approach to security ignores the fact that it's easier to find security
+issues than it is to close them. [CLS] [SEP] an attacker being 'blind' by not having the
+source code can still find flaws and when they do it's down to your team to
+fix them. [CLS] [SEP] if other developers can see the code they might not spot them before
+attackers do but they can certainly aid in providing fixes. [CLS] [SEP]
+
+reply
+
+      * **ryan long** , [august 25, 2015 at 7:37 am](https://protonmail.com/blog/protonmail-open-source/#comment-9169)
+
+this "security through obscurity" mentality is widely understood to be wrong. [CLS] [SEP]
+it's the reason we all prefer to use (and you brag about) using open source
+crypto libraries. [CLS] [SEP] they are widely reviewed. [CLS] [SEP] the smartest people in the room
+have picked them apart and their vulnerabilities have been fixed to the best
+possible degree, exactly because they are open source. [CLS] [SEP] so as you say, you're
+software is built upon that solid base, but how can you expect any user who
+values security and/or privacy to trust that you are capable of implementing
+this tool in a manner which does not circumvent the security of that base?
+
+reply
+
+        * **ryan long** , [august 25, 2015 at 7:38 am](https://protonmail.com/blog/protonmail-open-source/#comment-9170)
+
+and, obviously, i meant "your software," not "you're software."
+
+reply
+
+        * **admin** , [august 26, 2015 at 10:01 pm](https://protonmail.com/blog/protonmail-open-source/#comment-9192)
+
+because of spam issues, it is not secure to open source the backend code. [CLS] [SEP] open
+sourcing the backend also does not increase trust because the software runs on
+our servers. [CLS] [SEP]
+
+reply
+
+          * **[edoardo](http://edoardoo.com)** , [december 11, 2015 at 11:22 pm](https://protonmail.com/blog/protonmail-open-source/#comment-10106)
+
+spamassassin is open source and still it's an extremely powerful tool, for
+example. [CLS] [SEP] open sourcing the back-end would permit other people to use this
+(awesome) service on private servers, which reasonably goes versus your
+business plan. [CLS] [SEP] please don't use the spam excuse. [CLS] [SEP]
+
+          * **admin** , [december 14, 2015 at 3:01 pm](https://protonmail.com/blog/protonmail-open-source/#comment-10129)
+
+we don't rely solely on spamassassin as that doesn't work on internal emails
+which we can't read. [CLS] [SEP]
+
+          * **[face](http://myutil.com)** , [may 10, 2017 at 10:52 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14153)
+
+please consider moving all your spam filters into a proprietary module, and
+releasing the rest as open source. [CLS] [SEP]
+
+allowing organizations and individuals to run protonmail on their own
+infrastructure would have tremendous value to the community. [CLS] [SEP] i know of several
+non profits, and a government which would switch their infrastructure from
+roundcube/dovecot/postfix to protonmail if they could self host. [CLS] [SEP] (though i
+would guess postfix would still be used 😉
+
+mahalo for your considerations. [CLS] [SEP]
+
+      * **anon** , [january 26, 2016 at 10:16 pm](https://protonmail.com/blog/protonmail-open-source/#comment-10808)
+
+if it's not open source, you should assume that governments and commercial
+interests have access to your information and act accordingly. [CLS] [SEP] words are wind. [CLS] [SEP]
+the only way to know for sure is if we can verify the source. [CLS] [SEP]
+
+reply
+
+      * **ashiqur rahman** , [april 16, 2016 at 10:52 am](https://protonmail.com/blog/protonmail-open-source/#comment-11869)
+
+well said, admin, that's why apache is open source!
+
+reply
+
+      * **a protonmail user** , [april 23, 2017 at 12:13 am](https://protonmail.com/blog/protonmail-open-source/#comment-14055)
+
+so security through obscurity? great idea!
+
+reply
+
+      * **[matt](http://www.sharswebdesigns.com)** , [april 4, 2018 at 11:29 am](https://protonmail.com/blog/protonmail-open-source/#comment-15901)
+
+i have had a serious issue with a cyberstalking hacker since about the time
+this reply of yours was created possibly earlier so i’ve had multiple users
+controlling all of my devices ( over 300 devices in just 10 months ) spent
+life savings over $100k trying to resolve the issues just to find out my
+phones were captive.apple.com and call diverted using a customizable call
+center to apprehend my private confidential info also i froze my accounts with
+equifax just to find out a few weeks later they were hacked with same exact
+software it lists in my sony blu ray players which have been remotely
+controlled for over a year and unusable by me apache 2.0 python st too much to
+list i don’t even know anything about them but i wouldn’t be surprised if
+proton mail is breached after my visit today to you i apologize in advance as
+i have no say in the matter thanks for your understanding… the less fortunate
+jacked and hacked to poverty level matt varn
+
+reply
+
+  * **attila** , [august 18, 2015 at 10:07 pm](https://protonmail.com/blog/protonmail-open-source/#comment-8996)
+
+do you consider create android app? when?
+
+reply
+
+    * **admin** , [august 18, 2015 at 10:26 pm](https://protonmail.com/blog/protonmail-open-source/#comment-8997)
+
+yes, the beta will start on august 20 and we will start sending out invites
+for it then. [CLS] [SEP]
+
+reply
+
+      * **amilopowers** , [september 5, 2015 at 12:22 pm](https://protonmail.com/blog/protonmail-open-source/#comment-9354)
+
+will it be released under an opensource licence as well? will it come to
+f-droid?
+
+reply
+
+      * **zeroday1** , [december 22, 2015 at 5:11 am](https://protonmail.com/blog/protonmail-open-source/#comment-10261)
+
+i think it is equally important for protonmail to understand the right of one
+to protect their own privacy even from the prying eyes of google and its many
+intrusive services. [CLS] [SEP] for that reason alone, i've long ago deleted my gmail
+account and no longer wish to be tied down by such privacy-violating corporate
+thugs. [CLS] [SEP]
+
+in line with that thought, i do hope that any android application development
+also includes a non-google play app option. [CLS] [SEP] i have more than ample reason for
+not using any of google services and are rightfully concerned about how my
+privacy is violated, even when using the google play store. [CLS] [SEP] this is why i
+choose not to use google play at all. [CLS] [SEP] never mind the  
+fact that in order to access apps through google play, google itself forces
+users to have a gmail account-----this is outright blackmail and i find it
+deplorable that very few companies desire to take a firm stand against this
+borderline monopolizing by google. [CLS] [SEP]
+
+lets face facts shall we…
+
+google has already been implicated in dozens of privacy violations in just the
+past ten years alone. [CLS] [SEP] fast forward to the present date and now google is
+facing anti-trust charges for their questionable business ethics-----and yet,
+hardly anyone else in silicon valley appears to have the guts to stand up to
+google to force a change for the better!
+
+please don't tell me the makers of protonmail agree with googles draconian
+mindset?!
+
+please-----tell me that protonmail is serious enough about protecting user
+privacy-----even to the point of providing them with a non-google
+option…(i.e., such as [ appsapk.com ]…)
+
+if protonmail were deliver on a non-google-play application, i will then
+consider an account because that is how important i realize the issue of user
+privacy and dignity really is-----i only hope that protonmail has reached that
+same conclusion-----for if we continue to let google and other corporate thugs
+have their way with us, the future of this world will be a lot more dismal
+than orson welles could've ever imagined…
+
+<https://www.schneier.com/essays/archives/2006/05/the_eternal_value_of.html>
+
+reply
+
+        * **a concerned citizen** , [may 8, 2016 at 12:20 pm](https://protonmail.com/blog/protonmail-open-source/#comment-11970)
+
+amen,
+
+…as similar arguments hold for apple and microsoft, i would argue the [ubuntu
+phone](http://www.ubuntu.com/phone) is the perfect way out, for any one trying
+to escape from getting encapsulated in the apple/google/microsoft/facebook
+empires. [CLS] [SEP]
+
+while large companies are trying to force intrusive cloud services down our
+throats ([windows 10](http://www.theverge.com/2016/1/16/10780876/microsoft-
+windows-support-policy-new-processors-skylake) anyone? adobe creative cloud?
+or the whole apple/google infrastructure for all that matter?), trying to make
+us depend on their services and raping us privacy-wise, protonmail could make
+a stand by teaming up with canonical and provide decent/paid/secure/private
+cloud services for the ubuntu platform, both desktop and mobile. [CLS] [SEP]
+
+one service that seems to go in this direction is
+[telegram](https://en.wikipedia.org/wiki/telegram_%28software%29#client_applications),
+a very nice alternative to whatsapp, now that facebook acquired that one
+(gosh, i wonder how they are going to make that us$19 billion back? what could
+be so precious, given that the service is for "free"??). [CLS] [SEP]
+
+ahem, let me finish by stating that it's wonderful to have a service like
+protonmail, be it by means of an app or a web interface. [CLS] [SEP] it really made my day
+when i discovered there's a perfectly decent alternative to gmail. [CLS] [SEP] 🙂 <3
+
+reply
+
+  * **alex** , [august 19, 2015 at 5:19 pm](https://protonmail.com/blog/protonmail-open-source/#comment-9017)
+
+wow, android beta available already tomorrow! perfect! you guys are amazing. [CLS] [SEP]
+your service is one of the most amazing ones after snowden revelations. [CLS] [SEP]  
+p.s. [CLS] [SEP] nevertheless i'm still missing the possibility of aliases or
+controlling/merging more account under the same login. [CLS] [SEP] this is the last
+essential privacy feature i'm still missing. [CLS] [SEP]
+
+reply
+
+  * **aaron** , [august 24, 2015 at 12:48 am](https://protonmail.com/blog/protonmail-open-source/#comment-9157)
+
+it's good to see that protonmail is headed in the right direction. [CLS] [SEP] it's
+impossible to have privacy or security without free (as in freedom) software. [CLS] [SEP]
+
+i hope the organization will continue down this path and make the rest of
+their software free software. [CLS] [SEP]
+
+have you considered the apache 2.0 license? it helps prevent patent treachery. [CLS] [SEP]
+
+reply
+
+  * **peter** , [september 21, 2015 at 9:12 pm](https://protonmail.com/blog/protonmail-open-source/#comment-9478)
+
+is it not dangerous for safety and privacy of proton mail to share any parts
+of code with people? i thought the code is top secret matter…
+
+reply
+
+    * **admin** , [september 22, 2015 at 3:03 am](https://protonmail.com/blog/protonmail-open-source/#comment-9485)
+
+it depends on the code in question. [CLS] [SEP] we keep the back end code secret for
+security reasons. [CLS] [SEP]
+
+reply
+
+  * **randy** , [september 22, 2015 at 11:04 pm](https://protonmail.com/blog/protonmail-open-source/#comment-9523)
+
+i have been using the thunderbird e-mail client with gmail. [CLS] [SEP] i like do not care
+for gmail's online method for accessing my e-mail, but am happy with the
+thunderbird software (on my computer). [CLS] [SEP]
+
+do you have now, or will you be offering in the near future, an e-mail client
+that would handle my e-mail activity right on my computer, and then just
+connect to your servers to upload or download the e-mails, as thunderbird
+does?
+
+thank you. [CLS] [SEP]
+
+reply
+
+    * **admin** , [september 22, 2015 at 11:59 pm](https://protonmail.com/blog/protonmail-open-source/#comment-9528)
+
+this will be coming in the future. [CLS] [SEP]
+
+reply
+
+      * **randy** , [september 24, 2015 at 12:26 am](https://protonmail.com/blog/protonmail-open-source/#comment-9570)
+
+i suppose then, that thunderbird will not work with protonmail?
+
+reply
+
+        * **admin** , [september 29, 2015 at 1:13 am](https://protonmail.com/blog/protonmail-open-source/#comment-9621)
+
+at the moment no. [CLS] [SEP]
+
+reply
+
+  * **redacted** , [october 4, 2015 at 1:20 am](https://protonmail.com/blog/protonmail-open-source/#comment-9653)
+
+signed up today. [CLS] [SEP] ui looks great and i hope this service good luck. [CLS] [SEP] thanks. [CLS] [SEP]
+
+reply
+
+  * **yitianpibg** , [october 18, 2015 at 3:50 pm](https://protonmail.com/blog/protonmail-open-source/#comment-9747)
+
+for safety
+
+reply
+
+  * **roman** , [november 3, 2015 at 7:25 pm](https://protonmail.com/blog/protonmail-open-source/#comment-9882)
+
+please help me create a new account
+
+reply
+
+  * **quest** , [november 11, 2015 at 6:18 pm](https://protonmail.com/blog/protonmail-open-source/#comment-9971)
+
+will you eventually provide server services like aws?
+
+reply
+
+    * **admin** , [november 11, 2015 at 7:47 pm](https://protonmail.com/blog/protonmail-open-source/#comment-9974)
+
+we are considering providing hosting for other at risk projects since we know
+many of them cannot afford the costly solutions we put in to get comprehensive
+protection. [CLS] [SEP]
+
+reply
+
+  * **onassorx** , [november 17, 2015 at 11:51 am](https://protonmail.com/blog/protonmail-open-source/#comment-10039)
+
+ciao a tutti . [CLS] [SEP] l'unione fà la forza!!!
+
+reply
+
+  * **kron** , [november 19, 2015 at 12:42 pm](https://protonmail.com/blog/protonmail-open-source/#comment-10051)
+
+best!
+
+reply
+
+  * **yi nian** , [december 16, 2015 at 11:40 am](https://protonmail.com/blog/protonmail-open-source/#comment-10165)
+
+keep up !
+
+reply
+
+  * **lintavo** , [december 18, 2015 at 7:06 pm](https://protonmail.com/blog/protonmail-open-source/#comment-10201)
+
+excellent, congratulations to the team of protonmail and thank you for this
+great contribution to the free software community
+
+reply
+
+  * **[holatt](http://a)** , [december 20, 2015 at 8:52 pm](https://protonmail.com/blog/protonmail-open-source/#comment-10224)
+
+its nice
+
+reply
+
+  * **zeroday1** , [december 22, 2015 at 4:52 am](https://protonmail.com/blog/protonmail-open-source/#comment-10260)
+
+just out of curiosity for those of us whom are considering a donation to
+protonmail, in order to obtain immediate access to a new email account-----
+does protonmail accept donations on the premise that a users payment
+information is retained and subsequently charged at a later date for any
+reason?-----if so, does that mean that protonmail intends to create paid-for
+email account access as opposed to free email account access?
+
+if the donation is made only as a one-time donation, and furthermore, email
+subscribers are not expected to pay for account access after that, then why is
+payment information kept? for what purpose does that serve other than to raise
+suspicion of intent on the part of protonmail?
+
+any respondents to these questions should please take them as seriously as i
+do for these are not unreasonable questions to ask and potential account
+holders have the right to know this information…. [CLS] [SEP]
+
+reply
+
+    * **admin** , [december 22, 2015 at 11:03 pm](https://protonmail.com/blog/protonmail-open-source/#comment-10272)
+
+we don't keep payment information for donations. [CLS] [SEP]
+
+reply
+
+  * **hazem** , [december 25, 2015 at 8:20 pm](https://protonmail.com/blog/protonmail-open-source/#comment-10290)
+
+are you going app for android ?
+
+reply
+
+  * **ed** , [december 30, 2015 at 11:37 pm](https://protonmail.com/blog/protonmail-open-source/#comment-10320)
+
+how do you get on your request page? it says to put in your current email when
+a slot becomes available, and then says use the current form, which rejects
+your current email when you try to make a request??????
+
+reply
+
+    * **admin** , [january 1, 2016 at 2:10 pm](https://protonmail.com/blog/protonmail-open-source/#comment-10334)
+
+you can sign up here: protonmail.com/invite
+
+if you have further issues, please let us know at
+[contact@protonmail.ch](mailto:contact@protonmail.ch)
+
+reply
+
+  * **jeff s.** , [january 1, 2016 at 3:04 am](https://protonmail.com/blog/protonmail-open-source/#comment-10329)
+
+is not using open source software in direct conflict with secure protected
+email service? your giving people like me (programmers) huge in-roads to
+hacking / leveraging known flaws?
+
+i was considering also starting an email service to provide a non-nsa letter
+signer type service - you have an awesome idea - open source is a major
+flaw!!!!
+
+jeff
+
+reply
+
+  * **anonymous** , [january 8, 2016 at 7:41 am](https://protonmail.com/blog/protonmail-open-source/#comment-10410)
+
+it is open source does not make it vunerable??
+
+reply
+
+  * **thomas** , [january 9, 2016 at 12:01 am](https://protonmail.com/blog/protonmail-open-source/#comment-10421)
+
+i really like your approach and attitude! i hope it only changes towards
+better!
+
+reply
+
+  * **kim** , [january 11, 2016 at 3:38 pm](https://protonmail.com/blog/protonmail-open-source/#comment-10432)
+
+wonderfull opportunity. [CLS] [SEP]
+
+reply
+
+  * **an** , [january 17, 2016 at 5:50 am](https://protonmail.com/blog/protonmail-open-source/#comment-10485)
+
+good
+
+reply
+
+  * **tj** , [january 25, 2016 at 8:07 am](https://protonmail.com/blog/protonmail-open-source/#comment-10754)
+
+i really love the simple and clean interface of protonmail. [CLS] [SEP] this is the way
+email should be. [CLS] [SEP] i also appreciate the added benefits of the security
+protonmail provides. [CLS] [SEP] to know that our private communications are truly being
+protected and fully encrypted is the peace of mind i expect in an email
+provider. [CLS] [SEP]
+
+the fact that we are not served ad's inside nor outside of our inboxes is also
+commendable and again just proves that protonmail really does take user
+privacy seriously. [CLS] [SEP]
+
+while i cannot make a donation today, i firmly intend to the next chance i
+get. [CLS] [SEP] i hope the developers of protonmail continue to maintain this fine
+service long into the future-----and please, please-----don't ever become like
+the trashy and privacy obfuscating services being offered by google, facebook
+and the like. [CLS] [SEP] their defiant and utterly repulsive but forceful attitude with
+regard to how they treat user privacy is absolutely deplorable and should be
+rightfully boycotted where ever possible!
+
+thank you developers of protonmail. [CLS] [SEP] you rock!
+
+reply
+
+  * pingback:[protonmail - secure webmail? early beta review - bestvpn.com](https://www.bestvpn.com/blog/12353/protonmail-secure-webmail-early-beta-review/)
+
+  * **luis alberto peralta leon** , [february 3, 2016 at 12:48 am](https://protonmail.com/blog/protonmail-open-source/#comment-10884)
+
+gracias por la oportunidad de poder utilizar esta grandiosa aplicación  
+una fuerte abrazo
+
+reply
+
+  * **luis alberto peralta leon** , [february 3, 2016 at 12:51 am](https://protonmail.com/blog/protonmail-open-source/#comment-10885)
+
+do you have any guide or plan to release guides/documentation for ‘how to’ run
+protonmail on-prem
+
+reply
+
+  * **jimmy wong** , [february 10, 2016 at 5:21 pm](https://protonmail.com/blog/protonmail-open-source/#comment-10939)
+
+what is with protonmail for the ubuntu phone ?
+
+reply
+
+  * **vamsi** , [february 11, 2016 at 2:49 pm](https://protonmail.com/blog/protonmail-open-source/#comment-10946)
+
+superb………………
+
+reply
+
+  * **harry** , [february 18, 2016 at 9:07 pm](https://protonmail.com/blog/protonmail-open-source/#comment-11065)
+
+thanks!it really is a premium service,very impressed & already recommended to
+a friend. [CLS] [SEP]
+
+reply
+
+  * **[cabdisamad cismaan diini](http://www.protonmail.com)** , [march 10, 2016 at 11:58 am](https://protonmail.com/blog/protonmail-open-source/#comment-11508)
+
+dr/journalist reporter
+
+reply
+
+  * **deivison** , [march 10, 2016 at 7:53 pm](https://protonmail.com/blog/protonmail-open-source/#comment-11510)
+
+muito bom recomendo
+
+reply
+
+  * **josh** , [march 10, 2016 at 10:24 pm](https://protonmail.com/blog/protonmail-open-source/#comment-11515)
+
+thank you for this great email service!! i am really appreciative and
+delighted to be able to use it. [CLS] [SEP] outstanding work!
+
+reply
+
+  * **steve** , [march 18, 2016 at 5:34 am](https://protonmail.com/blog/protonmail-open-source/#comment-11688)
+
+is my email only to other protonmail accounts secure meaning everyone i email
+will have to use protonmail too or will it work when i email another email
+provider?
+
+reply
+
+    * **admin** , [march 18, 2016 at 11:24 am](https://protonmail.com/blog/protonmail-open-source/#comment-11702)
+
+it can also work, details here: <https://protonmail.com/support/knowledge-
+base/encrypt-for-outside-users/>
+
+reply
+
+  * **astronom** , [march 25, 2016 at 9:51 pm](https://protonmail.com/blog/protonmail-open-source/#comment-11807)
+
+hello! good web-service!
+
+but help me to understand it, that it has email address, then i know, who send
+me e-mail, and all people will know where i will send my encrypted emails…
+
+thx!
+
+reply
+
+  * **redge hamer** , [april 3, 2016 at 9:55 pm](https://protonmail.com/blog/protonmail-open-source/#comment-11834)
+
+having grandchildren being negatively affected by other email providers proton
+gave our family secured freedom to share our lives in a trusted digital world
+.thank-redge hamer
+
+reply
+
+  * **cassandra** , [may 15, 2016 at 2:24 am](https://protonmail.com/blog/protonmail-open-source/#comment-11989)
+
+how you will find the safe sender list ?
+
+reply
+
+  * **anonymous** , [may 18, 2016 at 4:48 pm](https://protonmail.com/blog/protonmail-open-source/#comment-12020)
+
+thank you!
+
+reply
+
+  * **[oright](http://www.hak5.org)** , [august 16, 2016 at 11:43 am](https://protonmail.com/blog/protonmail-open-source/#comment-12312)
+
+nice, look better mailbox
+
+reply
+
+  * **[joseph valentine](http://sitlightn2thesoul@wordpress.com)** , [september 13, 2016 at 2:42 am](https://protonmail.com/blog/protonmail-open-source/#comment-12386)
+
+hey guys look i am a newbie to all this tech stuff bare basic skills are all i
+know but i m one who thinks government and corporate america are becoming far
+to nosey so i want to learn as much as i can but unfortunately my financial
+situation is a little lacking in funds as im on disability retirement but any
+info you can give me to help increase my tech knowledge and capabilities would
+be greatly appreciated thanx joseph v
+
+reply
+
+  * **anony** , [september 15, 2016 at 1:17 pm](https://protonmail.com/blog/protonmail-open-source/#comment-12423)
+
+talking about security while your server side software is closed source is a
+joke…  
+happy fooling people around with all those shiny ads about security…
+
+reply
+
+    * **admin** , [september 16, 2016 at 5:56 pm](https://protonmail.com/blog/protonmail-open-source/#comment-12429)
+
+server side software runs in the backend and cannot be independently verified
+either way so there is no trust benefit to open sourcing it. [CLS] [SEP] but not open
+sourcing it does allow us to combat spammers better by not disclosing how we
+fight spam. [CLS] [SEP]
+
+reply
+
+      * **undisclosed** , [september 22, 2016 at 4:30 am](https://protonmail.com/blog/protonmail-open-source/#comment-12459)
+
+"cannot be independently verified either way so there is no trust benefit to
+open sourcing it"
+
+this is a false sentiment. [CLS] [SEP] any software can be verified that it is handling
+data correctly, has no bugs that might inadvertently expose data. [CLS] [SEP]
+
+open sourcing the front end is akin to allowing us to verify that the padlock
+is secure, while we have to trust that you have built the safe correctly. [CLS] [SEP]
+
+i'm not saying i don't trust what you are doing, i think its great. [CLS] [SEP] but don't
+feed us lines. [CLS] [SEP] if you want to keep part of your system closed ip so you can
+profit, just say that. [CLS] [SEP]
+
+reply
+
+        * **admin** , [october 1, 2016 at 3:33 pm](https://protonmail.com/blog/protonmail-open-source/#comment-12570)
+
+we also cannot really open source the backend because it would expose details
+that could have security consequences. [CLS] [SEP] for example, spammers could use the
+code to figure out how to bypass our anti-spam protection measures. [CLS] [SEP]
+
+reply
+
+          * **anonymous** , [october 22, 2016 at 6:11 am](https://protonmail.com/blog/protonmail-open-source/#comment-12723)
+
+"we also cannot really open source the backend because it would expose details
+that could have security consequences"
+
+another line. [CLS] [SEP]
+
+any security that relies on secrecy of the algorithm is bound to fail, someone
+will reverse engineer it, find a weakness, create an exploit etc. [CLS] [SEP] i don't
+think people will care if you keep your spam filters proprietary, what people
+are interested in vetting is the crypto. [CLS] [SEP] if you are using industry standard
+methods there is no reason 'security' would be compromised by exposing the
+code, only the keys must be kept private. [CLS] [SEP]
+
+please recognise that folks asking for the code to be open sourced have a good
+understanding of what this means. [CLS] [SEP] avoidance of the true issues actually brings
+doubt on the integrity of the system you are trying to protect. [CLS] [SEP] your previous
+statement claiming there is no benefit in public auditing of the system is
+either a deliberate falsehood or demonstrates poor understanding of how
+security works. [CLS] [SEP]
+
+          * **admin** , [october 25, 2016 at 11:27 am](https://protonmail.com/blog/protonmail-open-source/#comment-12739)
+
+for anti-spam purposes, security through obscurity actually works pretty well. [CLS] [SEP]
+
+          * **anonymous** , [february 28, 2017 at 10:00 am](https://protonmail.com/blog/protonmail-open-source/#comment-13585)
+
+if anti-spam is the only issue, maybe your anti-spam code could be externalize
+in a separate library, in which case you could open source the rest of the
+backend?
+
+  * **thisi s. [CLS] [SEP] myname** , [september 23, 2016 at 1:14 am](https://protonmail.com/blog/protonmail-open-source/#comment-12462)
+
+since there is no assurance that our private phone numbers will not be leaked,
+and since you claim to require sms phone number as purely an anti-spam
+measure, why not institute an optional bitcoin escrow deposit (perhaps $5-10
+deposit for 10 emails per hour) as a safeguard against spam? then we can have
+real privacy possibilities for nerds who know the difference between real
+privacy and "trust us, it's private". [CLS] [SEP] truly private messaging is on the verge
+of replacing email, so why not grab some market share before you are rendered
+obsolete by decentralized apps?
+
+reply
+
+    * **admin** , [october 1, 2016 at 3:31 pm](https://protonmail.com/blog/protonmail-open-source/#comment-12569)
+
+phone verification is only requested for less than 10% of user signups. [CLS] [SEP] all
+verification methods can be bypassed by upgrading to a paid account, and this
+is possible with bitcoin. [CLS] [SEP]
+
+reply
+
+  * **jack** , [october 2, 2016 at 8:12 pm](https://protonmail.com/blog/protonmail-open-source/#comment-12580)
+
+look, i believe in privacy and it is in large part why i donated several
+hundred dollars in the beginning of protonmails campaign. [CLS] [SEP] in return i was
+given an email address. [CLS] [SEP] now i find out i cannot get a free version of
+protonmail for my android? i really do not wish to pay again…and i really
+adhor the idea of having to have a google account. [CLS] [SEP] google is hugely
+responsible for selling information…and they are by far the worse offender
+when it comes to you asking them to remove things. [CLS] [SEP] they care nothing of
+privacy because their revues revolves around selling the hell out of whatever
+they can convince people to buy. [CLS] [SEP] hence cookies and tracking, refusal to remove
+things and so forth. [CLS] [SEP]
+
+when is protonmail going to have a free version for android which does not
+involve having a google+ account? some of us value out privacy hence no face
+book, no twitter and no google accounts. [CLS] [SEP] what i do or do not do should never
+be anyone else's business. [CLS] [SEP]
+
+reply
+
+    * **admin** , [october 5, 2016 at 8:51 pm](https://protonmail.com/blog/protonmail-open-source/#comment-12617)
+
+there is a free version already in the android play store. [CLS] [SEP]
+
+reply
+
+      * **v** , [january 20, 2017 at 6:41 pm](https://protonmail.com/blog/protonmail-open-source/#comment-13364)
+
+what about free like in freedom?  
+google play requires a google account, which is not acceptable for privacy on
+a smartphone. [CLS] [SEP]
+
+reply
+
+  * **gary** , [october 5, 2016 at 5:01 am](https://protonmail.com/blog/protonmail-open-source/#comment-12600)
+
+hmmm very douious indeed, very dubious…. [CLS] [SEP] strange things sometimes occur, like
+the cursor spewing out private ininfo if i just past to a random
+place…shouldn't that sorta thing be totally disabled when i leave proton
+mail??
+
+reply
+
+    * **admin** , [october 5, 2016 at 4:54 pm](https://protonmail.com/blog/protonmail-open-source/#comment-12614)
+
+if you are experiencing issues with your account please contact us via the
+report bug button or on [contact@protonmail.ch](mailto:contact@protonmail.ch)
+
+reply
+
+  * **h** , [october 24, 2016 at 7:04 am](https://protonmail.com/blog/protonmail-open-source/#comment-12730)
+
+protonmail android app store email on local device or not? my phone does not
+support encryption. [CLS] [SEP] if store then other application can access that data by
+any type of permission?
+
+reply
+
+    * **admin** , [october 25, 2016 at 11:25 am](https://protonmail.com/blog/protonmail-open-source/#comment-12737)
+
+yes, it stores it locally, and our app also includes the encryption software. [CLS] [SEP]
+
+reply
+
+  * **[myong sop shin](http://none)** , [october 26, 2016 at 10:08 am](https://protonmail.com/blog/protonmail-open-source/#comment-12743)
+
+i have paid $75.00 donation and as of today have not received any website link
+to be connected to begin using protonmail. [CLS] [SEP] please look into this. [CLS] [SEP]  
+i have lost my record for id used when opening protonmail account. [CLS] [SEP]
+
+payment was charged from bank of america debit card under name of myong sop
+shin and segesys institute. [CLS] [SEP]  
+the payment is still in processing after three days. [CLS] [SEP]  
+thanks. [CLS] [SEP]  
+myong sop shin  
+[mtonyshin@gmail.com](mailto:mtonyshin@gmail.com)
+
+reply
+
+  * **dude** , [november 23, 2016 at 10:47 pm](https://protonmail.com/blog/protonmail-open-source/#comment-12959)
+
+are the mobile apps be opnesource too?
+
+reply
+
+    * **admin** , [november 24, 2016 at 2:06 pm](https://protonmail.com/blog/protonmail-open-source/#comment-12961)
+
+they will be once the code is more stable and we are ready to accept pull
+requests. [CLS] [SEP] right now, the mobile code is still changing very quickly. [CLS] [SEP]
+
+reply
+
+  * **bill** , [november 26, 2016 at 4:58 pm](https://protonmail.com/blog/protonmail-open-source/#comment-12994)
+
+thank you so much , i am very happy about your service . [CLS] [SEP]
+
+reply
+
+  * **electrical.js** , [december 10, 2016 at 3:21 pm](https://protonmail.com/blog/protonmail-open-source/#comment-13165)
+
+maybe you could publish the old whole code when you do major updates of the
+anti-spam thing ?
+
+reply
+
+  * **[ailbhfarahabbas95@gmx.com](http://qwertyuiop@)** , [december 11, 2016 at 2:04 am](https://protonmail.com/blog/protonmail-open-source/#comment-13168)
+
+كيف احصل ع شغرة
+
+reply
+
+  * **jc** , [december 11, 2016 at 2:24 am](https://protonmail.com/blog/protonmail-open-source/#comment-13169)
+
+i would much prefer to run this on my own servers. [CLS] [SEP] i know you have done an
+excellent job with encryption but its still your server.. [CLS] [SEP] if its my server,
+the us government has to give me a warrant to search it. [CLS] [SEP] i would pay for this. [CLS] [SEP]
+of course. [CLS] [SEP] please let me know if this is an option in the future. [CLS] [SEP]
+
+reply
+
+  * **anonymous** , [january 13, 2017 at 7:31 pm](https://protonmail.com/blog/protonmail-open-source/#comment-13311)
+
+well done. [CLS] [SEP] i think it would be better if protonmail source code were licenced
+under one of free software foundation licences, it would benefit both
+protonmail, service users and future developers. [CLS] [SEP] perhaps it would also help to
+develop it for working better with free software browsers. [CLS] [SEP]  
+<http://choosealicense.com/licenses/>
+
+reply
+
+    * **anonymous** , [march 3, 2017 at 7:45 am](https://protonmail.com/blog/protonmail-open-source/#comment-13591)
+
+mit license is best! gpl anything is bad. [CLS] [SEP]
+
+reply
+
+  * **anonymous** , [january 13, 2017 at 7:36 pm](https://protonmail.com/blog/protonmail-open-source/#comment-13312)
+
+well done! it would be even better if the source code were to be licences
+under one of free software foundation categories nominally called gnu such as
+gnu lgplv3
+
+reply
+
+    * **anonymous** , [march 3, 2017 at 7:42 am](https://protonmail.com/blog/protonmail-open-source/#comment-13590)
+
+can't agree there… those licenses are an infectious disease. [CLS] [SEP]
+
+reply
+
+  * **michael arno** , [february 9, 2017 at 1:17 pm](https://protonmail.com/blog/protonmail-open-source/#comment-13501)
+
+no where on your website do i see any talk about this tor technology. [CLS] [SEP] i
+suppose it's another web browser. [CLS] [SEP] should one use it? how to get it?
+
+thanks,
+
+reply
+
+  * **thang ning kee** , [february 14, 2017 at 7:49 pm](https://protonmail.com/blog/protonmail-open-source/#comment-13523)
+
+this protonmail is safeties for customers. [CLS] [SEP] i like it
+
+reply
+
+  * **[lunorian](https://sinfulforums.net/)** , [february 14, 2017 at 9:58 pm](https://protonmail.com/blog/protonmail-open-source/#comment-13524)
+
+i love protonmail because it gives me a safe place to receive password resets
+and submit requests to my service providers without worry of a compromise. [CLS] [SEP] now
+i just gotta upgrade and hook up my personal domain 🙂
+
+reply
+
+  * **sávio carlos martins costa** , [march 9, 2017 at 4:15 pm](https://protonmail.com/blog/protonmail-open-source/#comment-13642)
+
+good afternoon. [CLS] [SEP] will the source code of the mobile apps (android specificly)
+be released soon?  
+i have been using protonmail for a while and i love it, but i would like to do
+a few changes in the moblie app. [CLS] [SEP]  
+how long do you think it will take until the release of the source code?
+
+reply
+
+    * **admin** , [march 9, 2017 at 10:32 pm](https://protonmail.com/blog/protonmail-open-source/#comment-13643)
+
+we're migrating right now to a new version of our backend api, when that
+process is completed, we will open up the mobile code so that developers who
+work on it will be starting with the latest api spec. [CLS] [SEP]
+
+reply
+
+      * **gabriele** , [september 13, 2017 at 3:51 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14775)
+
+so, when the source code for the mobile apps is going to be released? how can
+we trust an email service who claims to care about privacy if it forces you to
+use a proprietary app? please, please, please, release the code and possibily
+distribute the app on f-droid. [CLS] [SEP]
+
+reply
+
+        * **admin** , [september 24, 2017 at 12:51 am](https://protonmail.com/blog/protonmail-open-source/#comment-14801)
+
+this is planned, and will happen once we finish the code clean up and
+documentation. [CLS] [SEP]
+
+reply
+
+  * **анатолий (россия)** , [march 16, 2017 at 6:20 pm](https://protonmail.com/blog/protonmail-open-source/#comment-13741)
+
+friends, when will protonmayl be in russian?
+
+reply
+
+    * **admin** , [march 22, 2017 at 4:19 pm](https://protonmail.com/blog/protonmail-open-source/#comment-13757)
+
+this is planned, if you would like to help, you can join our translation
+project: <https://protonmail.com/blog/translation-project/>
+
+reply
+
+  * **ishan srivastava** , [march 26, 2017 at 7:11 am](https://protonmail.com/blog/protonmail-open-source/#comment-13799)
+
+amazing initiative. [CLS] [SEP] well done. [CLS] [SEP] highly impressed. [CLS] [SEP]
+
+reply
+
+  * **themo** , [april 2, 2017 at 9:49 am](https://protonmail.com/blog/protonmail-open-source/#comment-13907)
+
+thank you for supporting not only our privacy but open source development as
+well!
+
+reply
+
+    * **dee** , [june 30, 2017 at 4:31 am](https://protonmail.com/blog/protonmail-open-source/#comment-14380)
+
+i also would like to thank proton mail for respecting our privacy. [CLS] [SEP]  
+i know open-source is important to a lot of people however allowing both  
+back end and front end open source would increase our risk of remaining
+private. [CLS] [SEP]
+
+cheers to proton mail
+
+reply
+
+  * **jay** , [april 10, 2017 at 11:25 am](https://protonmail.com/blog/protonmail-open-source/#comment-13977)
+
+i love the app so far and it seems to be getting better and better, also for
+the vpn could you guys as a side project make i way for people to make there
+own vpn if it ant hard. [CLS] [SEP] thank you for the service and hope to see the
+expansion of this app
+
+reply
+
+  * **[kuldeep pisda](http://www.happychases.com)** , [april 25, 2017 at 7:34 am](https://protonmail.com/blog/protonmail-open-source/#comment-14068)
+
+feeling excited to know that protonmail is open source. [CLS] [SEP] i will use this
+technology soon. [CLS] [SEP]
+
+reply
+
+  * **james sheridan** , [april 27, 2017 at 5:40 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14079)
+
+can you please advise me on how to acquire a "security code" to allow a
+contact to open an encrypted email from my  
+proton mail account send to a non-proton user. [CLS] [SEP]
+
+reply
+
+    * **admin** , [april 27, 2017 at 6:25 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14080)
+
+we don't fully understand the question, please contact us at
+[contact@protonmail.ch](mailto:contact@protonmail.ch)
+
+reply
+
+  * **[fred hamala](http://www.idonthaveafreakingwebsite.com)** , [may 28, 2017 at 4:03 am](https://protonmail.com/blog/protonmail-open-source/#comment-14236)
+
+i have tried on 3 separate occasions to create a account. [CLS] [SEP] i received the
+protonmail verification number as expected. [CLS] [SEP] this is not difficult but with all
+verification codes sent to me the response said it failed. [CLS] [SEP] i can read and
+write, i know my numbers and i can count. [CLS] [SEP] i cannot understand what the problem
+is!!!
+
+reply
+
+  * **an admirer who likes ethic and humans before money** , [june 24, 2017 at 5:36 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14348)
+
+this is great to have ethical views before business. [CLS] [SEP]  
+will you go libre with licence gpl like (copyleft) to guarantee a bright and
+indépendant future ?  
+also as being opensourced, do you consider publishing your app on the infamous
+f-droid store as well ?  
+cheers!
+
+reply
+
+    * **admin** , [june 28, 2017 at 9:29 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14364)
+
+we plan to directly publish our android app source code and host the apk
+ourselves. [CLS] [SEP] thanks for your support!
+
+reply
+
+  * **bm-csmzwbkqjqtqmkfnmvuxoxcpaq** , [july 5, 2017 at 2:42 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14397)
+
+bonjour  
+jai une question qui me turlupine,  
+vous expliquez que votre support est situé en suisse et respecte l'anonymat  
+ok  
+ma question est simple,  
+on aurait pu croire que vos serveurs etaient tous situes en suisse cependant
+il apparait que votre isp est situe en israel  
+pouvez vous developper? moi, comme beaucoup de gens serions interresses de
+savoir
+
+merci
+
+reply
+
+    * **admin** , [july 5, 2017 at 6:27 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14398)
+
+you can find additional information here:
+<https://protonmail.com/support/knowledge-base/protonmail-israel-radware/>
+
+reply
+
+  * **[cori lei smith (kashyap)](http://right%20from.protonmail.com%20site.)** , [july 11, 2017 at 11:34 am](https://protonmail.com/blog/protonmail-open-source/#comment-14415)
+
+loging in the password field would not hide my password. [CLS] [SEP] it completely showed
+the characters or the characters showed for 2 or 3 seconds. [CLS] [SEP]  
+i did click on the eye icon several times. [CLS] [SEP]  
+also i have found my protonmail link all over apps that save and open apps for
+history or backup cloud or device acct. [CLS] [SEP]
+
+please help…..i feel.very comfortable saying someone is screen mirroring or
+has piggy backed onto me to hack into all my accts. [CLS] [SEP] i just dont know what
+evidence to gather. [CLS] [SEP]
+
+my id is:  
+[kalalaubc1@protonmail.ch](mailto:kalalaubc1@protonmail.ch)  
+[honuhoku16@protonmail.ch](mailto:honuhoku16@protonmail.ch)
+
+also my  
+[hokulei@protonmail.com](mailto:hokulei@protonmail.com) (3 wks old)  
+was taken over. [CLS] [SEP] i think they maybe using it. [CLS] [SEP]
+
+i await your reply. [CLS] [SEP]  
+cori lei smith  
+[kalalaubc1@protonmail.ch](mailto:kalalaubc1@protonmail.ch)
+
+reply
+
+  * **joe** , [july 19, 2017 at 12:52 am](https://protonmail.com/blog/protonmail-open-source/#comment-14528)
+
+only webclient is released as open source or also the mailserver?
+
+reply
+
+    * **admin** , [july 21, 2017 at 4:32 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14549)
+
+just the client. [CLS] [SEP]
+
+reply
+
+  * **theresa clark** , [july 19, 2017 at 9:42 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14532)
+
+could you please advise why my plus (upgrade) is not capturing and putting
+spam emails in 'spam"?
+
+when i was a basic member, proton was placing at least 93% of spam in the spam
+folder so i could quickly  
+browse and immediately delete. [CLS] [SEP] since i have upgraded to plus…that 93% of spam
+emails are in my inbox. [CLS] [SEP]  
+it's a bit disarming, that i may accidentaly open one of these purposeful spam
+intrusions. [CLS] [SEP] could you advise  
+why this is happening and how to rectify?
+
+i know this following request is minor…could we please have the capability to
+change ink/print color?  
+black ink/print gets mundane after awhile. [CLS] [SEP] my preference would be 'dark blue'
+and a 'bright fuschia'  
+ink color. [CLS] [SEP]
+
+reply
+
+    * **admin** , [july 21, 2017 at 4:28 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14546)
+
+we have made changes that should help with spam now. [CLS] [SEP] if you are still having
+spam problems, please follow the steps here:
+<https://protonmail.com/support/knowledge-base/avoid-spam/>
+
+reply
+
+  * **yvette sonner** , [july 20, 2017 at 9:33 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14539)
+
+my husband set up a protron mail and now he can't get back into it or receive
+any emails. [CLS] [SEP] can you please help us. [CLS] [SEP] thanks
+
+reply
+
+    * **admin** , [july 21, 2017 at 4:24 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14544)
+
+hi, please contact our support team here:
+
+<https://protonmail.com/support-form>
+
+reply
+
+  * **nick** , [july 29, 2017 at 4:59 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14578)
+
+i do not have google play store installed, as i see it as an untrusted
+service. [CLS] [SEP]
+
+any eta on when the android and/or ios apps will become open source?
+
+are there any alternative ways of getting the apk (eg a f-droid repository or
+an ftp/download site hosted on a protonmail.com domain) that doesn't involve
+going through a 3rd party site that probably loads malware with it / having a
+second device and manually pulling the apk from there?
+
+the web version keeps logging me out whenever i switch to a different user. [CLS] [SEP]
+
+reply
+
+  * **diane** , [august 10, 2017 at 1:12 am](https://protonmail.com/blog/protonmail-open-source/#comment-14648)
+
+i am running w10. [CLS] [SEP] why can't i establish an account?
+
+reply
+
+  * **okc** , [august 10, 2017 at 9:34 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14658)
+
+only vpn i look twice @. [CLS] [SEP]
+
+keep blazing the trail…..we're here, we're following. [CLS] [SEP] big responsibility. [CLS] [SEP] we
+trust you with our privacy, more than our governments. [CLS] [SEP] something wrong when
+the system was built broken. [CLS] [SEP] and nobody has the bollocks to change the system
+
+reply
+
+  * **angie standerfer** , [august 18, 2017 at 6:04 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14699)
+
+i've got a few questions if i decide to pay for email service if someone hacks
+in & changed my password (this has happened in the past and even the recovery
+email password) am i guaranteed 100% customer ? which i mean getting back into
+my account & my 2nd account?
+
+you'd change me $8.00 a month….i could pay for the account with all the
+coverage but $8.00 monthly. [CLS] [SEP]  
+if i were to do this i'd want to open a new account. [CLS] [SEP] please get back to me
+asap, thanks angie standerfer  
+[9399838272@protonmail.com](mailto:9399838272@protonmail.com)
+
+have a good day!
+
+reply
+
+    * **admin** , [september 4, 2017 at 7:05 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14750)
+
+we have a number of checks that we do to see if you are indeed the account
+holder. [CLS] [SEP] if we are satisfied, then sometimes we can help you regain access to
+the account (but the previously received emails will be encrypted and it will
+not be possible to decrypt them). [CLS] [SEP]
+
+reply
+
+  * **sam clark** , [august 26, 2017 at 5:57 am](https://protonmail.com/blog/protonmail-open-source/#comment-14714)
+
+i am currently a .aol user. [CLS] [SEP] can my account be assimilated into protonmail?
+
+reply
+
+    * **admin** , [september 4, 2017 at 7:01 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14745)
+
+we will be adding an import/export tool very soon so it will be able to import
+your old emails. [CLS] [SEP]
+
+reply
+
+  * **[danalsun](http://protonmail/secureformobile)** , [august 30, 2017 at 6:52 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14722)
+
+i have forgot my password and need it urgently please help thanks
+
+reply
+
+    * **admin** , [september 4, 2017 at 4:53 pm](https://protonmail.com/blog/protonmail-open-source/#comment-14743)
+
+please contact us here: <https://protonmail.com/support-form>
+
+reply
+
+  * **[svein](http://www.oceanwatcher.com)** , [september 25, 2017 at 1:09 am](https://protonmail.com/blog/protonmail-open-source/#comment-14808)
+
+is there any other mail server/client that is compatible with your system?
+something i can install on my own server and still exchange encrypted mail
+with protonmail users?
+
+to other users that might read this: what do you consider is the best open
+source webmail front end and mail server combination?
+
+reply
+
+  * **michael** , [september 26, 2017 at 12:26 am](https://protonmail.com/blog/protonmail-open-source/#comment-14811)
+
+**has an independent security audit of protonmail 's open source code been
+performed? if so, can you a publish report on the main website?** _[ with
+reviewer details and qualifications etc. [CLS] [SEP] ]_  
+the protonmail.uservoice.com website had links that purport to be direct
+downloads for the various android app builds (apks) **can you provide a full
+list of the corresponding sha1 hashes on the main protonmail.com website to
+act as the authoritive canonical source for the hash codes?
+
+have you published white papers on the various encryption algorithms employed
+by you and/or architectural overviews of your network structure and design ?
+**  
+all this i respectfully suggest in the spirit of openness and transparency. [CLS] [SEP]
+may i also suggest the publishing of your current feature roadmap. [CLS] [SEP] many
+thanks. [CLS] [SEP] m. [CLS] [SEP]
+
+reply
+
+    * **admin** , [september 29, 2017 at 1:12 am](https://protonmail.com/blog/protonmail-open-source/#comment-14834)
+
+yes, you can find the audit information for openpgpjs online. [CLS] [SEP]
+
+we don't have official apk download yet. [CLS] [SEP]
+
+you can find the whitepaper for a large part of the crypto by going to our
+blog post about encrypted email authentication. [CLS] [SEP] you can also find the
+methodology within our open source libraries. [CLS] [SEP]
+
+reply
+
+  * **[rekha](http://no%20idea)** , [november 6, 2017 at 11:13 am](https://protonmail.com/blog/protonmail-open-source/#comment-15026)
+
+pls help. [CLS] [SEP] i'm being abused by someone using a proton mail account. [CLS] [SEP]  
+pls reply to [ramkisr@telkom.co.za](mailto:ramkisr@telkom.co.za)
+
+reply
+
+    * **irina m** , [november 15, 2017 at 6:27 pm](https://protonmail.com/blog/protonmail-open-source/#comment-15068)
+
+please forward the abuse emails to
+[abuse@protonmail.ch](mailto:abuse@protonmail.ch)
+
+reply
+
+  * **abdelmonem mohamed mohamed ali omran** , [november 8, 2017 at 11:36 pm](https://protonmail.com/blog/protonmail-open-source/#comment-15037)
+
+do you have any guide or plan to release guides/documentation for ‘how to’ run
+protonmail on-prem?  
+reply
+
+reply
+
+    * **irina m** , [november 15, 2017 at 6:33 pm](https://protonmail.com/blog/protonmail-open-source/#comment-15073)
+
+we do not unfortunately, but you can see if you can get some help from our
+proactive community on reddit <https://www.reddit.com/r/protonmail/>
+
+reply
+
+  * **mike** , [december 5, 2017 at 5:05 am](https://protonmail.com/blog/protonmail-open-source/#comment-15228)
+
+doesn't making all the code visible make you more vulnerable since attackers
+can see the code and find ways in/around it?
+
+reply
+
+  * **ali** , [december 9, 2017 at 6:56 am](https://protonmail.com/blog/protonmail-open-source/#comment-15305)
+
+can we use protonmail as authenticator like google/facebook?
+
+reply
+
+    * **irina m** , [december 19, 2017 at 6:52 pm](https://protonmail.com/blog/protonmail-open-source/#comment-15368)
+
+no, you cannot. [CLS] [SEP] we are working on making this available with protonmail in the
+future. [CLS] [SEP] for the moment we recommend <https://authy.com> as a trustworthy
+authenticator for our 2fa security feature. [CLS] [SEP]
+
+reply
+
+  * **ali jibran** , [december 13, 2017 at 6:53 am](https://protonmail.com/blog/protonmail-open-source/#comment-15327)
+
+can we use protonmail as an autheticator like facebook and gmail?  
+if we can, can you please guide me towards the api. [CLS] [SEP] thanks
+
+reply
+
+    * **irina m** , [december 20, 2017 at 5:35 pm](https://protonmail.com/blog/protonmail-open-source/#comment-15380)
+
+not at the moment. [CLS] [SEP] this feature will be available sometime next year. [CLS] [SEP]
+
+reply
+
+      * **tony a.** , [march 9, 2018 at 10:34 pm](https://protonmail.com/blog/protonmail-open-source/#comment-15705)
+
+hi irina,
+
+i am getting e-mails from a protonmail user. [CLS] [SEP] the e-mails are harassment type
+e-mails, how can i find out what type of protonmail account service the holder
+is subscribing to, for example, free service or a payed account. [CLS] [SEP] thanks. [CLS] [SEP]
+
+reply
+
+        * **admin** , [march 11, 2018 at 2:36 pm](https://protonmail.com/blog/protonmail-open-source/#comment-15710)
+
+you need to contact your local law enforcement for assistance. [CLS] [SEP]
+
+reply
+
+  * **abey alexander** , [january 1, 2018 at 5:47 am](https://protonmail.com/blog/protonmail-open-source/#comment-15422)
+
+dear team very good job , thanks……. [CLS] [SEP]
+
+reply
+
+  * **[e pirello](http://google)** , [january 18, 2018 at 5:12 pm](https://protonmail.com/blog/protonmail-open-source/#comment-15519)
+
+the problem with this secure website is that while you are protecting me, you
+are also protecting terrorists and enamies of the u.s. [CLS] [SEP] and other countries as
+well. [CLS] [SEP]
+
+reply
+
+  * **anonymous** , [january 30, 2018 at 11:52 pm](https://protonmail.com/blog/protonmail-open-source/#comment-15565)
+
+a quand une aide rédigée en français ? c'est consternant ce manque de
+politesse vis à vis de vos clients …
+
+reply
+
+  * **[ghost](http://theboss.com)** , [february 22, 2018 at 4:08 am](https://protonmail.com/blog/protonmail-open-source/#comment-15640)
+
+awesome email and great job guys. [CLS] [SEP]
+
+reply
+
+  * **[prisca ndlovu](http://www.protonmail.com)** , [march 15, 2018 at 12:31 am](https://protonmail.com/blog/protonmail-open-source/#comment-15717)
+
+thank you
+
+reply
+
+  * **dan** , [march 22, 2018 at 1:08 am](https://protonmail.com/blog/protonmail-open-source/#comment-15779)
+
+you guys are incredible!!!!!! i am totally impressed!!!
+
+will i ever be able to use protonmail on my iphone ?
+
+reply
+
+    * **irina m** , [march 23, 2018 at 2:48 pm](https://protonmail.com/blog/protonmail-open-source/#comment-15785)
+
+we have an iphone app. [CLS] [SEP] you can download it from here:
+<https://itunes.apple.com/us/app/protonmail-encrypted-email/id979659905?mt=8>
+
+reply
+
+  * **anonymous** , [march 29, 2018 at 8:14 pm](https://protonmail.com/blog/protonmail-open-source/#comment-15828)
+
+chat by egain
+
+reply
+
+  * **lothar metz** , [april 16, 2018 at 8:56 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16066)
+
+thoroughly designed which jibe on our present day problem of rampant hacking. [CLS] [SEP]
+in. [CLS] [SEP] the internet. [CLS] [SEP]
+
+reply
+
+  * **reuser** , [april 17, 2018 at 7:49 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16078)
+
+is my email always encrypted or only when i use a password?
+
+reply
+
+    * **irina m** , [april 19, 2018 at 11:12 am](https://protonmail.com/blog/protonmail-open-source/#comment-16095)
+
+please read about what is encrypted in protonmail here:
+<https://protonmail.com/support/knowledge-base/what-is-encrypted/>
+
+reply
+
+  * **jayateertha** , [april 18, 2018 at 7:40 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16085)
+
+**hi**
+
+reply
+
+  * **james** , [april 25, 2018 at 3:46 am](https://protonmail.com/blog/protonmail-open-source/#comment-16124)
+
+can’t people change the code to make protonmail not encrypted?
+
+reply
+
+  * **daborg** , [may 3, 2018 at 6:26 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16157)
+
+great moce.. [CLS] [SEP] i look forward to the future with you
+
+reply
+
+  * **laerus** , [may 9, 2018 at 1:03 am](https://protonmail.com/blog/protonmail-open-source/#comment-16184)
+
+protonmail bridge for linux when?
+
+reply
+
+    * **irina m** , [may 11, 2018 at 5:13 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16198)
+
+already available in beta for paid plans. [CLS] [SEP] you can request an invite at
+[bridge@protonmail.ch](mailto:bridge@protonmail.ch)
+
+reply
+
+  * **marko stevovic** , [may 11, 2018 at 9:12 am](https://protonmail.com/blog/protonmail-open-source/#comment-16193)
+
+i'm still not getting it. [CLS] [SEP] so i just paste there pgp key and paste it on
+pronton mail and press the lock button to send back incription message, but i
+can't read it? do i have to send it back to the person i got the pgp key with
+my details. [CLS] [SEP] sorry not that good with these smart phone but ur help would be
+realy apreceate so i know what i'm doing. [CLS] [SEP] thanks
+
+reply
+
+    * **irina m** , [may 16, 2018 at 9:18 am](https://protonmail.com/blog/protonmail-open-source/#comment-16240)
+
+protonmail encrypts automatically. [CLS] [SEP] so if you are communicating with somebody
+else on protonmail, end-to-end encryption is automatically enabled. [CLS] [SEP]
+
+reply
+
+  * **matthew** , [may 24, 2018 at 4:16 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16272)
+
+thanks for your hard work !
+
+in the digital age today i am very scared that im spied everywhere: phone,
+browser, operation system. [CLS] [SEP] im worried that big companies have so much money,
+that no lawsuit can affect them too much. [CLS] [SEP]
+
+i also like the upgrade prices, 4 eur/month seems very good for me, other
+services usually not open sourced, and using higher prices. [CLS] [SEP]
+
+protonmail and firefox are my 2 favourite company 🙂
+
+reply
+
+    * **irina m** , [may 29, 2018 at 7:10 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16287)
+
+thank you for the kind words!
+
+reply
+
+  * **doreen baxter** , [june 21, 2018 at 2:34 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16369)
+
+i am looking to send secure email attachments. [CLS] [SEP] but how does the reciver read
+the emails and/ or attachment? sorry i am not very technical and it all sounds
+like magic to me. [CLS] [SEP] doreen baxter
+
+reply
+
+    * **irina m** , [june 21, 2018 at 4:48 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16370)
+
+hello! all emails with attachments sent between protonmail users are
+automatically end-to end encrypted. [CLS] [SEP] to send end-to-end encrypted emails with
+attachments to non-protonmail users, please read about it here:
+<https://protonmail.com/support/knowledge-base/encrypt-for-outside-users/>
+
+reply
+
+  * **[caymed](?)** , [july 1, 2018 at 10:09 am](https://protonmail.com/blog/protonmail-open-source/#comment-16410)
+
+want 2 donate 2 upgrade email account. [CLS] [SEP] how can donate with cash, besides
+bitcoin, from another continent. [CLS] [SEP] your server will not accept credit card gift
+cards. [CLS] [SEP] ty. [CLS] [SEP]
+
+reply
+
+    * **irina m** , [july 3, 2018 at 1:35 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16420)
+
+hi! thank you for your support. [CLS] [SEP] please send us an email with this request to
+[contact@protonmail.ch](mailto:contact@protonmail.ch) and we will guide you
+from there. [CLS] [SEP]
+
+reply
+
+  * **[charles atkinson](http://through%20firefox%20then%20duckduckgo)** , [july 10, 2018 at 6:49 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16458)
+
+i tried to ad another email address to my account and could not. [CLS] [SEP] then tried to
+change my original user name and password and failed in that also. [CLS] [SEP] could you
+please help me with that. [CLS] [SEP] also do you offer some kind of cell phone security
+service? please advise. [CLS] [SEP]
+
+reply
+
+    * **irina m** , [july 26, 2018 at 6:13 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16538)
+
+please open a support ticket here: protonmail.com/support-form
+
+reply
+
+  * **[j. [CLS] [SEP] r.](http://gmail)** , [july 17, 2018 at 12:28 am](https://protonmail.com/blog/protonmail-open-source/#comment-16479)
+
+i have been trying for more than an hour to create an account with you and i
+feel that i am blocked i want to have an e mail with you . [CLS] [SEP] i already went to ;
+<https://protonmail.com/signup> and does not want to respond , can you please
+help me ? thank you
+
+reply
+
+    * **irina m** , [july 26, 2018 at 6:08 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16534)
+
+are you still having issues? can you please write us an email with your
+problem at [contact@protonmail.ch](mailto:contact@protonmail.ch)?
+
+reply
+
+  * **al** , [august 26, 2018 at 10:45 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16683)
+
+go open source!! linux baby!!!
+
+reply
+
+  * **pi** , [september 3, 2018 at 5:51 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16723)
+
+trying to sign up but can't get past "communicating with protonmail… "
+
+reply
+
+    * **irina m** , [september 6, 2018 at 12:35 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16739)
+
+hi! that doesn't sound right. [CLS] [SEP] please send us an email at
+[contact@protonmail.ch](mailto:contact@protonmail.ch) with a request to open
+an account and the details about the failure. [CLS] [SEP] we will assist you. [CLS] [SEP]
+
+reply
+
+  * **trine divine** , [october 3, 2018 at 8:19 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16891)
+
+this is fantastic!  
+can you please let me know how to block an email address from sending me
+emails? thank you in advance!  
+sincerely,  
+trine divine
+
+reply
+
+    * **irina m** , [october 11, 2018 at 6:16 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16921)
+
+hi! thank you for supporting us. [CLS] [SEP] this feature is not available at the moment. [CLS] [SEP]
+you can however spam the email from the sender and their email address will be
+blacklisted. [CLS] [SEP]
+
+reply
+
+  * **kristi holmquist** , [october 11, 2018 at 12:55 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16916)
+
+i don't know what a recovery email means. [CLS] [SEP] can you explain what to type in the
+box?
+
+reply
+
+    * **irina m** , [october 11, 2018 at 6:09 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16918)
+
+this is optional but a recovery email address will help you regain access to
+your protonmail account in case you forget your password. [CLS] [SEP] having a recovery
+address will allow you to unblock your account. [CLS] [SEP] however, this will not also
+allow you to regain access to your old emails because they are encrypted with
+the password you forgot. [CLS] [SEP] please be careful to not forget your password. [CLS] [SEP]
+
+reply
+
+  * **unicorn** , [october 25, 2018 at 12:02 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16977)
+
+could you tell me and to all the people if is it possible than a friend of me
+who lost is password and of course all keys inside can "contact you" and than
+you contact them by you own and made investigation, the name is black…..w is
+affraid about that because this person is in my list of contact and i have
+ultra confidential stuff inside my box and the box of bh too. [CLS] [SEP]  
+could you tell me if you havez security problem for the moment and if a
+connection can be relayed to a false or something else account or sublayering
+thief action or i dont know im'n not a specialict at all i just want believe
+in a place we can have the best security. [CLS] [SEP]  
+thanks for you work  
+unicorn
+
+reply
+
+  * **joel waeles** , [october 27, 2018 at 4:23 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16990)
+
+hi,  
+i have updated my protonmail version. [CLS] [SEP] and now all my emails are encrypted.. [CLS] [SEP]
+can you please help me? to make them readable. [CLS] [SEP]  
+i have get help because i have important emails fron my lawyer. [CLS] [SEP]
+
+regards/joel
+
+reply
+
+    * **irina m** , [october 29, 2018 at 9:24 am](https://protonmail.com/blog/protonmail-open-source/#comment-17003)
+
+hi! the only way you would not be able to decrypt your emails is if you forgot
+your password and reset it. [CLS] [SEP] this will reset your encryption keys, hence would
+not allow you to decrypt old emails. [CLS] [SEP] please open a support ticket here:
+protonmail.com/support-form and we will try to help you solve this asap. [CLS] [SEP]
+
+reply
+
+  * **patrick kokott** , [october 27, 2018 at 11:24 pm](https://protonmail.com/blog/protonmail-open-source/#comment-16993)
+
+dear protonmail-team and/or developer,
+
+very big thx for your hard work, to make/build this mail-server with these
+securelevel. [CLS] [SEP]  
+i've been sure, my email-adress where deleted. [CLS] [SEP] but it wasn't. [CLS] [SEP]  
+also a big thank-you/your all from the protonmail-team for this professional
+artwork from your side. [CLS] [SEP]
+
+and i think i've got to say sorry for my unworking (time without learning
+developer-skillz) time, since i started visiting the overview side of the
+worldwideweb. [CLS] [SEP] i have too work now harder & faster, too leave the status "baby-
+dog security". [CLS] [SEP]
+
+but it is never too late, starting learning, too be a constructional part of
+the www. [CLS] [SEP]
+
+let the life of the protonmail-developer never starts the roadend. [CLS] [SEP] but i
+believe, this is still working, since protonmail was writen from the
+protonmailteam
+
+best wishes from my side too the protonmailerteam and i hope, i never have too
+leave your incredible server. [CLS] [SEP]
+
+with deep attentional respect for your work,  
+patrick paul kokott from germany
+
+reply
+
+  * **bill furbush** , [november 4, 2018 at 9:42 pm](https://protonmail.com/blog/protonmail-open-source/#comment-17038)
+
+i have gotten more and more suspicious about the safety of my email accounts. [CLS] [SEP]
+and annoyed by the growing amount of junk mail you were recommended by jason
+hanson, the author of alone and unafraid. [CLS] [SEP] so i am going to give your service a
+try and see how it works out for me. [CLS] [SEP]
+
+reply
+
+    * **irina m** , [november 12, 2018 at 5:19 pm](https://protonmail.com/blog/protonmail-open-source/#comment-17061)
+
+happy to hear. [CLS] [SEP] welcome to your new secure email ping us if you have any
+questions. [CLS] [SEP] did you know you can also have a short email address on protonmail?
+read more about it here: <https://protonmail.com/support/knowledge-base/pm-me-
+addresses/> also, be careful to remember and keep your password safe. [CLS] [SEP] we
+cannot retrieve it for you. [CLS] [SEP]
+
+reply
+
+  * **sherrie** , [november 9, 2018 at 12:15 am](https://protonmail.com/blog/protonmail-open-source/#comment-17049)
+
+question my husband has been identity theft against just messing with him (ex
+friends, and wife) they change passwords all the time! and empty email folders
+now mine as well. [CLS] [SEP] we went out bought new computer and our own network with
+wi/fi. [CLS] [SEP] so just say they can get in to our network does that mean they now can
+get in my proton mail?
+
+reply
+
+    * **irina m** , [november 12, 2018 at 3:42 pm](https://protonmail.com/blog/protonmail-open-source/#comment-17056)
+
+we are very sorry to hear this. [CLS] [SEP] if they compromise your device they might be
+able to see your credentials when you log in. [CLS] [SEP] unfortunately, our threat model
+does not protect against device compromise. [CLS] [SEP] please read more about it here:
+<https://protonmail.com/blog/protonmail-threat-model/> stay safe!
+
+reply
+
+  * **anonymous** , [november 14, 2018 at 2:35 am](https://protonmail.com/blog/protonmail-open-source/#comment-17067)
+
+thank you it’s about time
+
+reply
+
+  * **nick** , [december 5, 2018 at 1:30 pm](https://protonmail.com/blog/protonmail-open-source/#comment-17232)
+
+keep up the good work. [CLS] [SEP]  
+best emailprovider i ever used. [CLS] [SEP]
+
+reply
+
+  * **nik** , [december 16, 2018 at 12:58 pm](https://protonmail.com/blog/protonmail-open-source/#comment-17301)
+
+works fine for me,using it for 3 months. [CLS] [SEP]
+
+reply
+
+  * **ernest m c quillan** , [january 12, 2019 at 11:08 am](https://protonmail.com/blog/protonmail-open-source/#comment-17479)
+
+hi  
+just found protonmail.com,are there rules i need to follow on user names as i
+have tried so many obscure names to be informed already being used. [CLS] [SEP]
+
+appreciated e mcquillan
+
+reply
+
+    * **mia n** , [january 18, 2019 at 3:53 pm](https://protonmail.com/blog/protonmail-open-source/#comment-17507)
+
+if the username is taken, you will receive a warning that you cannot create
+such username. [CLS] [SEP] would you mind trying another browser in order to sign for a
+protonmail account?
+
+reply
+
+  * **anonymous** , [january 20, 2019 at 4:46 pm](https://protonmail.com/blog/protonmail-open-source/#comment-17518)
+
+hello, i would like to know if protonmail for android is open source? if not,
+will it be in the future?
+
+reply
+
+    * **mia n** , [january 23, 2019 at 6:00 pm](https://protonmail.com/blog/protonmail-open-source/#comment-17540)
+
+hi, since protonmail app is still being constantly improved (we are still
+editing the code, adding new features to the app etc.), it is not open-source
+at the moment. [CLS] [SEP] however, we plan to make it open source in the near future. [CLS] [SEP]
+
+reply
+
+  * **chad** , [january 22, 2019 at 7:10 pm](https://protonmail.com/blog/protonmail-open-source/#comment-17531)
+
+"data is encrypted on the client side using an encryption key that we do not
+have access to."
+
+is the encryption key symmetric ?
+
+reply
+
+    * **mia n** , [january 25, 2019 at 4:19 pm](https://protonmail.com/blog/protonmail-open-source/#comment-17546)
+
+we use the openpgp standard which involves both asymmetric and symmetric
+encryption. [CLS] [SEP]
+
+reply
+
+  * **john l. [CLS] [SEP] sullivan** , [january 24, 2019 at 8:45 pm](https://protonmail.com/blog/protonmail-open-source/#comment-17543)
+
+i heard a podcast about proton mail and i was quite impressed with the
+technology. [CLS] [SEP] it was mentioned in the podcast that there would be a way for
+yahoo mail and folders to be moved off of the highly unsecured yahoo servers. [CLS] [SEP]
+can you explain what that is? is it available? is it part of the upgraded
+package?
+
+john sullivan
+
+reply
+
+  * **costa ramos** , [march 13, 2019 at 11:10 am](https://protonmail.com/blog/protonmail-open-source/#comment-17737)
+
+great job, thank you for your concerne about online security and users rights
+to their own privacy. [CLS] [SEP] keep up the good work, my applause to all of you. [CLS] [SEP]
+
+gonna get my proton e-mail account as of now. [CLS] [SEP]
+
+cheers. [CLS] [SEP]
+
+reply
+
+  * **mickael tjalve petersen** , [march 28, 2019 at 2:42 pm](https://protonmail.com/blog/protonmail-open-source/#comment-17816)
+
+hi admin  
+i want to sign up, and i have a few questions before i do, in order to choose
+what´s best for me. [CLS] [SEP]  
+1\. [CLS] [SEP] is it posible to get two-step log-in in proton mail, just like in gmail,
+where i use my smart phone as the second step log-in?  
+2\. [CLS] [SEP] if i choose a paid option proton mail, what would happen if the payment
+got delayed (i always pay on time, but i´m interested in the theoretical event
+that my payment for some reason or another should fail), would you store my
+data in inaccessible form, until the bill be paid, or would you close down the
+account?  
+sincerely, tjalve
+
+reply
+
+    * **mia n** , [april 3, 2019 at 1:10 pm](https://protonmail.com/blog/protonmail-open-source/#comment-17853)
+
+hi tjalve,  
+we are very happy that you are considering switching to protonmial. [CLS] [SEP] regarding
+your questions:  
+1\. [CLS] [SEP] yes, we have two password mode. [CLS] [SEP] please read more here:
+<https://protonmail.com/support/knowledge-base/switch-two-password-mode/>  
+2\. [CLS] [SEP] if your subscription bill remains unpaid 14 days from the date it was
+issued, you will be restricted from accessing your data within protonmail
+until your bill is paid. [CLS] [SEP] please read more info here:
+<https://protonmail.com/support/knowledge-base/delinquency/>  
+please contact us if you have any further questions. [CLS] [SEP]  
+best regards,  
+protonmail team
+
+reply
+
+  * **amanda sywak** , [april 1, 2019 at 9:28 pm](https://protonmail.com/blog/protonmail-open-source/#comment-17841)
+
+how to unencrypt email
+
+reply
+
+    * **mia n** , [april 4, 2019 at 2:31 pm](https://protonmail.com/blog/protonmail-open-source/#comment-17869)
+
+hi! could you please clarify the issue you are facing? you can reach out ot
+our support team at: <https://protonmail.com/support-form>
+
+reply
+
+  * **malachy mckeon** , [april 12, 2019 at 11:54 am](https://protonmail.com/blog/protonmail-open-source/#comment-17928)
+
+i need simple encryption, to keep my mail safe , nothing to complicated, if i
+forget the key is possible to get back any data, but using another key, i am
+new at this and have not used encription before, but i am fed up with fraud's. [CLS] [SEP]  
+please advise me on the on the best system you have for a beginner. [CLS] [SEP] i am not
+interested in any media site, it just for my own personnel use. [CLS] [SEP]
+
+m mckeon. [CLS] [SEP]
+
+reply
+
+  * **russ pickering** , [may 17, 2019 at 9:31 pm](https://protonmail.com/blog/protonmail-open-source/#comment-18146)
+
+since i wanted an email security upgrade, my computer software source
+suggested protonmail. [CLS] [SEP] not being a nerd i can't understand the action. [CLS] [SEP] i can
+understand, "if the sender has the software he can send encrypted,but the
+reciever { without software} cannot decrycpt and recieve it." for both to send
+and recieve encryption, both must have software? thanks
+
+reply
+
+    * **mia n** , [august 16, 2019 at 9:37 pm](https://protonmail.com/blog/protonmail-open-source/#comment-18548)
+
+emails sent between protonmail users are always end-to-end encrypted. [CLS] [SEP] emails
+from protonmail users to non-protonmail users are end-to-end encrypted if the
+“encrypt for outside” option is selected. [CLS] [SEP] please read details here:
+<https://protonmail.com/support/knowledge-base/what-is-encrypted/>
+
+reply
+
+  * **anonymous** , [june 1, 2019 at 9:51 am](https://protonmail.com/blog/protonmail-open-source/#comment-18207)
+
+keep it the same way molodtzi
+
+reply
+
+  * **nik** , [june 13, 2019 at 4:44 pm](https://protonmail.com/blog/protonmail-open-source/#comment-18282)
+
+best secure mailclient ever used !!
+
+reply
+
+  * **pamela hall** , [june 25, 2019 at 1:43 am](https://protonmail.com/blog/protonmail-open-source/#comment-18346)
+
+if my emails are encrypted, and i send to people who aren't using protonmail,
+will they be able to read my emails?
+
+reply
+
+    * **mia n** , [july 2, 2019 at 2:54 pm](https://protonmail.com/blog/protonmail-open-source/#comment-18374)
+
+outside users can respond to encrypted messages you send to them. [CLS] [SEP] when you
+send a password encrypted email to an outside user, the recipient will be able
+to reply in the message view page by clicking “reply securely”. [CLS] [SEP] please read
+details here: <https://protonmail.com/support/knowledge-base/can-outside-
+users-respond-to-encrypted-messages/>
+
+reply
+
+  * **ilze tulleken** , [june 29, 2019 at 11:58 am](https://protonmail.com/blog/protonmail-open-source/#comment-18366)
+
+it this a form i can complete to enquire or report abuse from a proton mail
+user?
+
+regards,  
+ilze
+
+reply
+
+    * **mia n** , [july 2, 2019 at 2:53 pm](https://protonmail.com/blog/protonmail-open-source/#comment-18373)
+
+hi ilze! please contact our abuse team at
+[abuse@protonmail.com](mailto:abuse@protonmail.com)
+
+reply
+
+  * **anonymous** , [july 3, 2019 at 11:37 am](https://protonmail.com/blog/protonmail-open-source/#comment-18383)
+
+someone has changed my vpn so i will wait to hear back from you. [CLS] [SEP] they have
+hacked me for one year. [CLS] [SEP] it is a crime. [CLS] [SEP] they took my fingerprints because he
+worked for me for 12 weeks. [CLS] [SEP] i am going public with the digital information on
+justyn michael richards. [CLS] [SEP] i want him away from me. [CLS] [SEP]  
+he is abusive and a thief and a hack. [CLS] [SEP]  
+i will wait until my own tech looks at this. [CLS] [SEP]
+
+thank you. [CLS] [SEP]  
+margie tortoriello  
+[simplythebest9@protonmail.com](mailto:simplythebest9@protonmail.com)
+
+reply
+
+    * **mia n** , [july 4, 2019 at 2:40 pm](https://protonmail.com/blog/protonmail-open-source/#comment-18388)
+
+we are sorry to hear this. [CLS] [SEP] please contact our abuse team at
+[abuse@protonvpn.com](mailto:abuse@protonvpn.com) and provide them with more
+details so they can check and assist you with this issue. [CLS] [SEP]
+
+reply
+
+  * **someone** , [august 1, 2019 at 12:48 am](https://protonmail.com/blog/protonmail-open-source/#comment-18470)
+
+hello,
+
+forgive me if it is mentioned below as i only briefly reviewed the posts
+although, i am having a real challenge trying to locate a reliable and
+trustworthy apk for protonmail. [CLS] [SEP]
+
+obviously, i could use the google play store to acquire it however, i have
+already had my annual colonoscopy and frankly, i question googles medical
+credentials and their true intent for having an unhealthy desire to be so far
+up and in my ass when honestly, i only had that one visit a couple years back. [CLS] [SEP]
+i simply prefer not to engage or even make eye contact with them now, if
+that's even possible these days. [CLS] [SEP]
+
+is their an alternative location i might be able to acquire this apk and also
+be able to validate the integrity of it?? that sure would be swell, if a place
+like that existed and made it possible for privacy victims like me. [CLS] [SEP]
+
+if not, i will somehow manage although, i just cannot see myself ever visiting
+the "play store" again especially, after experiencing the repetitive
+unwelcoming advances into my personal space and the overly aggressive behavior
+just a quick visit to that store can bring a person. [CLS] [SEP]
+
+it's totally traumatizing and borderline criminal. [CLS] [SEP]
+
+nonetheless, any advice or even simple shove in a direction that can provide
+this request is most appreciated. [CLS] [SEP]
+
+much thanks and oh, you guys rock!!
+
+respectfully,  
+someone
+
+reply
+
+    * **mia n** , [august 8, 2019 at 1:13 pm](https://protonmail.com/blog/protonmail-open-source/#comment-18497)
+
+hi! you can find the apk here: <https://protonapps.com/>
+
+reply
+
+  * **ed barton** , [august 14, 2019 at 2:42 pm](https://protonmail.com/blog/protonmail-open-source/#comment-18529)
+
+i’m not sure i correctly installed free encrypted email. [CLS] [SEP] not sure if i did it
+correctly as i immediately saw $costs and choices after i started the
+installation. [CLS] [SEP] can you tell me? i didn’t intend to purchase a subscription for
+super expensive secure email since i’m only a private, not a commercial
+account. [CLS] [SEP]
+
+reply
+
+    * **ben wolford** , [august 19, 2019 at 10:21 am](https://protonmail.com/blog/protonmail-open-source/#comment-18559)
+
+hi ed, if you log in to your account at mail.protonmail.com and go to settings
+-> dashboard, you'll be able to see whether you're on the free plan or not. [CLS] [SEP] if
+you still need help managing your account, please contact our support team:
+<https://protonmail.com/support-form>. [CLS] [SEP] thank you!
+
+reply
+
+  * **sue o'dea** , [august 22, 2019 at 2:03 pm](https://protonmail.com/blog/protonmail-open-source/#comment-18580)
+
+this is great; i aim to get an account and will contribute as and when i can
+afford a little. [CLS] [SEP] i am a pensioner on a small income, so it won't be a great
+deal. [CLS] [SEP]  
+thank you for existing  
+regards, sue
+
+reply
+
+  * **viveca gresham** , [august 25, 2019 at 2:32 am](https://protonmail.com/blog/protonmail-open-source/#comment-18592)
+
+cool
+
+reply
+
+  * **konstantin** , [october 10, 2019 at 7:09 am](https://protonmail.com/blog/protonmail-open-source/#comment-18850)
+
+hei, why i receive many spams. [CLS] [SEP]  
+if protonmail has:  
+# end-to-end encryption  
+# zero access to user data  
+# open source cryptography  
+how it comes your server isn't save for spams which also puts at risk me as an
+end user. [CLS] [SEP]
+
+thanks for service. [CLS] [SEP]  
+konstantin norway
+
+reply
+
+    * **ben wolford** , [october 10, 2019 at 5:56 pm](https://protonmail.com/blog/protonmail-open-source/#comment-18858)
+
+hi konstantin, unfortunately all email addresses are vulnerable to spam,
+regardless of the encryption they use. [CLS] [SEP] we are constantly refining our spam
+filters to reduce incoming spam to our platform. [CLS] [SEP] there are also some tips you
+can implement to try to reduce spam to your own account. [CLS] [SEP] learn more here:
+<https://protonmail.com/support/knowledge-base/avoid-spam/>. [CLS] [SEP]
+
+reply
+
+  * **barbara** , [october 24, 2019 at 12:38 pm](https://protonmail.com/blog/protonmail-open-source/#comment-18985)
+
+#1. [CLS] [SEP] please forgive my ignorance, but can't being open source make email
+accounts easier to hack?
+
+#2. [CLS] [SEP] do you have a way that good causes can apply to get a discounted paid
+account?
+
+thank you!
+
+reply
+
+    * **ben wolford** , [october 24, 2019 at 7:03 pm](https://protonmail.com/blog/protonmail-open-source/#comment-18990)
+
+hi barbara! it may seem counterintuitive, but open source software is kind of
+like a peer-reviewed paper; it allows other developers to check our
+implementation for problems. [CLS] [SEP] regarding discounts, we generally do not offer
+discounts, but we have supported some registered charities in the past. [CLS] [SEP] please
+write to [contact@protonmail.com](mailto:contact@protonmail.com). [CLS] [SEP] thank you!
+
+reply
+
+  * **anonymous** , [november 9, 2019 at 6:20 pm](https://protonmail.com/blog/protonmail-open-source/#comment-19159)
+
+mi è appena arrivata la mia prima email con prontomail ma non riesco a
+criptarla come fare?
+
+reply
+
+    * **ben wolford** , [november 19, 2019 at 8:56 pm](https://protonmail.com/blog/protonmail-open-source/#comment-19317)
+
+se la email è stata inviata da un'altra utilizzatore di protonmail, è stata
+già criptata automaticamente. [CLS] [SEP]
+
+reply
+
+  * **schweizer** , [december 27, 2019 at 3:09 pm](https://protonmail.com/blog/protonmail-open-source/#comment-19628)
+
+i cannot access my account without constantly changing my password. [CLS] [SEP] i keep
+getting the message: "incorrect credentials. [CLS] [SEP] please try again." time and time
+again i get this message. [CLS] [SEP] when i do check my messages i get the message that
+the message cannot be deencryption has failed. [CLS] [SEP] this is a scam!
+
+reply
+
+    * **ben wolford** , [december 27, 2019 at 8:41 pm](https://protonmail.com/blog/protonmail-open-source/#comment-19631)
+
+sorry you're having trouble! have you tried reaching out to our support team
+yet? <https://protonmail.com/support-form>
+
+reply
+
+  * **[l.](??%20%20what%20is%20this?)** , [january 11, 2020 at 2:50 am](https://protonmail.com/blog/protonmail-open-source/#comment-19806)
+
+hi, i am a luddite so please bear with me. [CLS] [SEP] if i send an email to a person who
+has a gmail account how does this work? do you encrypt my email message and my
+email address before it leaves my laptop/cellphone to your server and then
+decrypt it from your server to my friend with a gmail account? and of course
+the reverse when my gmail friend replies. [CLS] [SEP] i am watch what is happening in
+china with so-called "social scores" being used to rate/judge their citizens. [CLS] [SEP]
+then of course china rewards or punishes their citizens accordingly, i am
+concerned that this will eventually be used by all despotic governments. [CLS] [SEP] thank
+you for your reply in advance. [CLS] [SEP]
+
+reply
+
+    * **ben wolford** , [january 20, 2020 at 9:51 pm](https://protonmail.com/blog/protonmail-open-source/#comment-19835)
+
+good question. [CLS] [SEP] we have an article here about [what is
+encrypted](https://protonmail.com/support/knowledge-base/what-is-encrypted/). [CLS] [SEP]
+the short answer to your question is that your data is always encrypted on the
+proton servers. [CLS] [SEP] messages to a gmail user will be encrypted in transit, but
+google will be able to read the message. [CLS] [SEP] same with messages from gmail to
+protonmail: google can read it, but we cannot. [CLS] [SEP] email addresses are not
+encrypted, for much the same reason as the postal service needs the address to
+be written on the exterior of the envelope. [CLS] [SEP]
+
+reply
+
+  * **atlbourne** , [march 4, 2020 at 6:10 pm](https://protonmail.com/blog/protonmail-open-source/#comment-20146)
+
+open sourcing feels a bit like a privacy issue….when protonmail was a secure
+way to send and receive messages. [CLS] [SEP] a little scared by the definition but could
+be misunderstanding what open sourcing means? not to be a negative energy but
+a little nervous. [CLS] [SEP]
+
+reply
+
+    * **richie koch** , [march 16, 2020 at 1:13 pm](https://protonmail.com/blog/protonmail-open-source/#comment-20238)
+
+we understand your concern. [CLS] [SEP] open source can sometimes be counter intuitive. [CLS] [SEP]
+however, making our code open source was important to us as an email service
+dedicated to privacy because it allows you to see exactly what our app does. [CLS] [SEP]
+additionally, by making our code open source, we made it easier for the it
+security community to audit our code and find any potential problems, which in
+turn leads to faster fixes. [CLS] [SEP] we hope this puts your mind at ease. [CLS] [SEP]
+
+reply
+
+  * **dhan** , [june 17, 2020 at 3:36 am](https://protonmail.com/blog/protonmail-open-source/#comment-21520)
+
+hello. [CLS] [SEP]  
+do you have a plan for storage drive like google drive/icloud?  
+thanks
+
+reply
+
+    * **ben wolford** , [june 22, 2020 at 8:15 pm](https://protonmail.com/blog/protonmail-open-source/#comment-21601)
+
+we do! protondrive is scheduled for beta release this year. [CLS] [SEP]
+
+reply
+
+  * **juliet kustin** , [june 21, 2020 at 6:09 pm](https://protonmail.com/blog/protonmail-open-source/#comment-21584)
+
+thanks guys!!!
+
+reply
+
+  * **cosmicinterface** , [july 2, 2020 at 1:52 am](https://protonmail.com/blog/protonmail-open-source/#comment-21743)
+
+dearly beloved friends of protonmail,
+
+why not mention a time indication with in and outgoing mails?, instead of only
+hours,days and years,  
+just mention the exact time the mail was sent and received…, its so easy !'  
+and above all, better service for the users.. [CLS] [SEP]
+
+all the best to protonmail.com…., you have great capabilty to grow bigger…
+
+reply
+
+  * **anonymous** , [july 9, 2020 at 3:50 pm](https://protonmail.com/blog/protonmail-open-source/#comment-21820)
+
+i think protonmail and proton vpn are the best i've ever encountered i'm terms
+of security and protecting civil liberties. [CLS] [SEP]
+
+reply
+
+  * **shane** , [july 16, 2020 at 12:11 am](https://protonmail.com/blog/protonmail-open-source/#comment-21848)
+
+i have purchased an account and need to set up additional emails. [CLS] [SEP] can you help
+me with that?
+
+reply
+
+    * **ben wolford** , [july 30, 2020 at 7:53 pm](https://protonmail.com/blog/protonmail-open-source/#comment-21948)
+
+hi shane, this article should answer your questions:
+<https://protonmail.com/support/knowledge-base/addresses-and-aliases/> if you
+still need help, please contact support. [CLS] [SEP]
+
+reply
+
+  * **montgomery w morris** , [july 28, 2020 at 5:09 pm](https://protonmail.com/blog/protonmail-open-source/#comment-21918)
+
+i am looking for a secure email for the security company i work for do to our
+need for safe and secure communications. [CLS] [SEP] if a client emails us is it secure or
+do they have to use your system as well?
+
+reply
+
+    * **ben wolford** , [july 30, 2020 at 5:41 pm](https://protonmail.com/blog/protonmail-open-source/#comment-21929)
+
+hi montgomery, good question. [CLS] [SEP] for messages to be end-to-end encrypted, the
+easiest way to do this is for both sides of the conversation to be using
+protonmail. [CLS] [SEP] if you have other questions, our business team would be happy to
+help. [CLS] [SEP] <https://protonmail.com/business/>
+
+reply
+
+  * **es** , [august 18, 2020 at 3:24 am](https://protonmail.com/blog/protonmail-open-source/#comment-22282)
+
+please excuse my ignorance, but how can protonmail be both opensource and
+secure? thank you for explaining in basic terms as i have no background in any
+of this but want to learn!
+
+reply
+
+    * **richie koch** , [august 21, 2020 at 7:50 pm](https://protonmail.com/blog/protonmail-open-source/#comment-22321)
+
+i think your question is "because the code is publicly known, won't it be
+easier to take advantage of?"  
+that is a good question and it gets to a misconception about open source. [CLS] [SEP]
+generally speaking, secrecy does not make code secure. [CLS] [SEP] if there is a
+vulnerability hidden in code, it will eventually be found. [CLS] [SEP] good developers
+scrupulously following security guidelines and putting out regular updates is
+what keeps code secure. [CLS] [SEP] by making our code open source (and by running a bug
+bounty program) we have enabled and incentivized our community to help us
+discover any possible vulnerabilities. [CLS] [SEP] so, in actuality, being open source
+helps us stay secure. [CLS] [SEP]  
+hope this answers your question!
+
+reply
+
+  * **william** , [august 22, 2020 at 8:50 pm](https://protonmail.com/blog/protonmail-open-source/#comment-22331)
+
+i use proton mail. [CLS] [SEP] when i click on the shortcut to go to mail i see my
+username and password on the log in all ready to go. [CLS] [SEP] i want to change it so
+that i have to type in my user name and password each time i access proton
+mail. [CLS] [SEP]  
+on all of my computers this happens. [CLS] [SEP] i do not want this happening so please
+advise. [CLS] [SEP] bill
+
+reply
+
+    * **roxana zega** , [september 2, 2020 at 5:20 pm](https://protonmail.com/blog/protonmail-open-source/#comment-22405)
+
+hi william,
+
+please check your browser settings - it might have saved your login
+credentials. [CLS] [SEP]  
+thanks. [CLS] [SEP]
+
+reply
+
+  * **firoz dosani** , [august 24, 2020 at 1:08 pm](https://protonmail.com/blog/protonmail-open-source/#comment-22341)
+
+does protonmail also enable email attachments to be encrypted or otherwise
+safeguarded, or just the text of the email message? if only the etxt, what
+tool do you suggest to encrypt actual attachments? thanks. [CLS] [SEP]
+
+reply
+
+    * **roxana zega** , [september 2, 2020 at 5:34 pm](https://protonmail.com/blog/protonmail-open-source/#comment-22408)
+
+hi firoz,
+
+you can read more about attachments
+[here](https://protonmail.com/support/knowledge-base/encrypting-attachments/). [CLS] [SEP]
+
+thanks
+
+reply
+
+  * **[jim](http://protonmail)** , [august 28, 2020 at 5:33 pm](https://protonmail.com/blog/protonmail-open-source/#comment-22361)
+
+is there a way to make an email self destruct after a certin time
+
+reply
+
+    * **roxana zega** , [september 2, 2020 at 6:07 pm](https://protonmail.com/blog/protonmail-open-source/#comment-22410)
+
+hi jim,
+
+please check this article about [email
+expiry](https://protonmail.com/support/knowledge-
+base/expiration/#:~:text=expiration%20only%20takes%20place%20if,from%20protonmail%20do%20not%20expire.). [CLS] [SEP]  
+thanks
+
+reply
+
+  * **[don powdrill](https://nuwon.weblet.me/hub/)** , [august 30, 2020 at 2:26 am](https://protonmail.com/blog/protonmail-open-source/#comment-22372)
+
+this all looks great what a world the people from all walks of life could have
+if we all were protected as you guys and girls appeart to be doing. [CLS] [SEP]  
+will set upan accounts shortly been with gmail for years and problems never
+seem to cease. [CLS] [SEP]  
+come on a world of steeling info from our mails our e mails services don m nz
+
+reply
+
+  * **bill leathers** , [november 11, 2020 at 5:30 pm](https://protonmail.com/blog/protonmail-open-source/#comment-23307)
+
+i'm fairly new to protonmail. [CLS] [SEP] but i find that protonmail also has a tor
+browser address. [CLS] [SEP] my question is: can i send encrypted emails via that onion
+address and, if so, do i have to get a onion address for email and password?
+
+reply
+
+    * **richie koch** , [november 11, 2020 at 11:18 pm](https://protonmail.com/blog/protonmail-open-source/#comment-23335)
+
+hi bill,  
+we do indeed have an onion site that you can access via tor. [CLS] [SEP] however, nothing
+about protonmail or your account changes if you visit our onion site (which is
+<https://protonirockerxow.onion/>). [CLS] [SEP] you will be able to send and receive
+messages just as before and you will still log in with your normal protonmail
+account username and password. [CLS] [SEP] you can read more here:
+<https://protonmail.com/blog/tor-encrypted-email/>. [CLS] [SEP]  
+cheers
+
+reply
+
+  * **[jaynparr](http://regarding%20proton%20mail)** , [november 11, 2020 at 7:35 pm](https://protonmail.com/blog/protonmail-open-source/#comment-23310)
+
+can this web-based email be used by usa common individuals or is it for
+corporations (companies) only? thank you!
+
+reply
+
+    * **richie koch** , [november 11, 2020 at 8:32 pm](https://protonmail.com/blog/protonmail-open-source/#comment-23311)
+
+protonmail can be used by anyone, individuals and corporations alike. [CLS] [SEP] (we do
+recommend that corporations and organizations look into protonmail for
+business.)
+
+reply
+
+  * **robert kapise** , [december 18, 2020 at 3:31 pm](https://protonmail.com/blog/protonmail-open-source/#comment-23819)
+
+do you have a vpn and also can i use more than one user name and a account
+
+reply
+
+    * **richie koch** , [december 24, 2020 at 5:16 pm](https://protonmail.com/blog/protonmail-open-source/#comment-23913)
+
+hi robert,  
+we do have a vpn service - protonvpn (<https://protonvpn.com/>)!
+
+reply
+
+  * **dp** , [december 23, 2020 at 9:24 am](https://protonmail.com/blog/protonmail-open-source/#comment-23869)
+
+please add a link to your github site in the footer of this website. [CLS] [SEP]  
+the source code will be easier to be found for developers - and for all of us
+that try very hard to protect our personal data, it is the only way to get the
+app on our android device. [CLS] [SEP]
+
+and you should clarify that using a database from google doesn't have any
+impact on our security and privacy. [CLS] [SEP]  
+k9-mail also tells me when i receive mails on my "not so secure" mail account. [CLS] [SEP]
+it just checks after a given time. [CLS] [SEP] no need for any part of google. [CLS] [SEP]
+
+is that privacy concern the main reason why proton mail isn't to be found on
+f-droid? i mean, you pray privacy and then a normal user needs to have a
+googled (or "appled" but that part can't be changed because apple is
+completely against open source) phone to get the app?!
+
+but i don't understand why protonvpn is found on f-droid. [CLS] [SEP] of course this also
+gives a warning about proprietary network services…
+
+so please make it easier to get the app for all those who can't or won't use
+google services. [CLS] [SEP]
+
+for now, tutanota does a better job of protecting the privacy of their users
+-.-
+
+reply
+
+    * **douglas crawford** , [january 29, 2021 at 3:34 pm](https://protonmail.com/blog/protonmail-open-source/#comment-24407)
+
+hi dp the protonvpn appp is [available on
+f-droid](https://f-droid.org/en/packages/ch.protonvpn.android/). [CLS] [SEP] releasing
+protonmail on f-droid requires significantly more development resources
+because of f-droid requirements. [CLS] [SEP] we would like to do this, but we don’t
+currently have a timeline. [CLS] [SEP]
+
+reply
+
+  * **mbuyiseli** , [january 8, 2021 at 7:00 pm](https://protonmail.com/blog/protonmail-open-source/#comment-24084)
+
+can sent a tip-off letter to my employment company ceo about corruption that
+is happening, from south africa via your email service and still be guaranteed
+that i'll remain anonymous for the rest of my life?
+
+reply
+
+    * **douglas crawford** , [february 1, 2021 at 12:39 pm](https://protonmail.com/blog/protonmail-open-source/#comment-24450)
+
+hi mbuyiseli. [CLS] [SEP] protonmail runs a highly secure zero-knowledge mail service, but
+there is no such thing as 100% security. [CLS] [SEP] any company that claims otherwise is
+not being fully honest. [CLS] [SEP] that said, if you connect to protonmail via vpn or
+tor, and send a message that way, your anonymity will be preserved. [CLS] [SEP] protonmail
+is often used by whistleblowers for this reason. [CLS] [SEP]
+
+reply
+
+  * **walt merrill** , [february 4, 2021 at 1:03 am](https://protonmail.com/blog/protonmail-open-source/#comment-24518)
+
+is the "point-to-point" encryption only valid when sending email from one
+protonmail user, to another protonmail user?
+
+or is encryption valid to any other email user?
+
+please advise asap. [CLS] [SEP]
+
+reply
+
+    * **douglas crawford** , [february 8, 2021 at 3:35 pm](https://protonmail.com/blog/protonmail-open-source/#comment-24712)
+
+hi walt. [CLS] [SEP] you can send end-to-end encrypted (e2ee) emails to non-protonmail
+uses users our [encrypt for non-protonmail users
+feature](https://protonmail.com/support/knowledge-base/encrypt-for-outside-
+users/). [CLS] [SEP] mails sent to non-users without enabling feature enabled are not
+e2ee. [CLS] [SEP]
+
+reply
+
+  * **[tsotsi-soweto](?)** , [february 9, 2021 at 4:19 am](https://protonmail.com/blog/protonmail-open-source/#comment-24736)
+
+bonjour, amoureux de la liberté. [CLS] [SEP] j'ai décidé d'utiliser un traducteur. [CLS] [SEP] et même
+en français, vous êtes complexe. [CLS] [SEP] j'ai trouvé un site qui explique simplement
+et facilement le chiffrage avec une clé de 4096 bits. [CLS] [SEP] ils ont un avantage sur
+vous : il est possible, après lecture, de recrypter le courriel. [CLS] [SEP] comme je
+pratique. [CLS] [SEP] le prosélytisme vous concernant, les gens ne comprennent pas la
+méthode de chiffrage. [CLS] [SEP] vous devez nous considérer comme des idiots et partir
+depuis le tout début et expliquer, étape après étape, comment chiffrer et
+déchiffrer un courriel. [CLS] [SEP] vous revendiquez plusieurs millions d'utilisateurs
+mais combien paient et combien comprennent le chiffrage. [CLS] [SEP] j'ai payé pour la
+seconde année consécutive l'abonnement dans le seul but de vous soutenir car
+j'ai foi en vous. [CLS] [SEP] ne me décevez pas. [CLS] [SEP] j'ignore si outlook est chiffré. [CLS] [SEP] il a été
+compliqué de le paramétrer. [CLS] [SEP] lorsque je dois envoyer un courriel chiffré, j'ai
+recours au logiciel simplissime de chiffrement. [CLS] [SEP]  
+à vous de jouer.☺  
+respectueusement votre, …. [CLS] [SEP]  
+très cordialement. [CLS] [SEP]
+
+reply
+
+    * **douglas crawford** , [february 9, 2021 at 11:23 am](https://protonmail.com/blog/protonmail-open-source/#comment-24749)
+
+bonjour tsotsi-soweto. [CLS] [SEP] veuillez contacter notre [ équipe d'assistance
+](https://protonmail.com/support-form) pour obtenir de l'aide. [CLS] [SEP]
+
+reply
+
+  * **geoff hall** , [february 12, 2021 at 5:04 pm](https://protonmail.com/blog/protonmail-open-source/#comment-24823)
+
+if i acquire a proton email account, can i only have encrypted mail with other
+proton email users? how does it work with say with gmail accounts?
+
+thanks for your help. [CLS] [SEP]
+
+best wishes,  
+geoff
+
+reply
+
+    * **douglas crawford** , [february 15, 2021 at 4:25 pm](https://protonmail.com/blog/protonmail-open-source/#comment-24893)
+
+hi geoff. [CLS] [SEP] you can send end-to-end encrypted emails to non-protonmail users via
+our [encrypt for non-protonmail
+users](https://protonmail.com/support/knowledge-base/encrypt-for-outside-
+users/) feature. [CLS] [SEP] this also allows the recipient to reply in a secure e2ee way. [CLS] [SEP]
+
+reply
+
+  * **[steven d. [CLS] [SEP] orr](https://exmultifaceted.wixsite.com/internationalwork)** , [february 15, 2021 at 6:07 am](https://protonmail.com/blog/protonmail-open-source/#comment-24873)
+
+someone hacked my microsoft email address (@msn.com) and it causing me no end
+of troubles. [CLS] [SEP] my high-tech son put me onto protonmail today and i am pleased
+that he did so. [CLS] [SEP]
+
+reply
+
+##### get your secure email account
+
+[create account](/signup)
+
+proton technologies ag
+
+route de la galaise 32  
+1228 plan-les-ouates, geneva, switzerland
+
+__general:[contact@protonmail.com](mailto:contact@protonmail.com)  
+__media:[media@protonmail.com](mailto:media@protonmail.com)
+
+for support inquiries, please visit  
+[ __protonmail.com/support](https://protonmail.com/support)
+
+for security related discussions  
+[security@protonmail.com](mailto:security@protonmail.com)
+
+## protonmail
+
+  * [pricing](/pricing)
+  * [security](/security-details)
+  * [shop](https://shop.protonmail.com)
+  * [press/media kit](https://protonmail.com/press)
+  * [onion site](https://protonmail.com/tor)
+  * [protonmail status](https://protonstatus.com/)
+
+## features
+
+  * [ios app](https://itunes.apple.com/us/app/protonmail-encrypted-email/id979659905)
+  * [android app](https://play.google.com/store/apps/details?id=ch.protonmail.android)
+  * [imap/smtp bridge](/bridge)
+  * [protonvpn](https://protonvpn.com/)
+  * [protonmail business](https://protonmail.com/support/knowledge-base/business/)
+  * [encrypted contacts](https://protonmail.com/support/knowledge-base/encrypted-contacts/)
+
+## legal
+
+  * [imprint](/imprint)
+  * [privacy policy](/privacy-policy)
+  * [terms & conditions](/terms-and-conditions)
+  * [transparency report](https://protonmail.com/blog/transparency-report/)
+  * [report abuse](mailto:abuse@protonmail.ch)
+  * [gdpr compliance](/gdpr)
+
+## company
+
+  * [blog](https://protonmail.com/blog/)
+  * [team](https://protonmail.com/about)
+  * [careers](https://protonmail.com/careers)
+  * [support](https://protonmail.com/support/)
+  * [donate](https://protonmail.com/donate)
+  * [open source](https://protonmail.com/blog/openpgpjs-3-release/)
+
+## social
+
+  * [__facebook](https://facebook.com/protonmail)
+  * [__twitter](https://twitter.com/protonmail)
+  * [__feedback forum](https://protonmail.uservoice.com/)
+  * [__reddit](https://www.reddit.com/r/protonmail/)
+  * [__instagram](https://www.instagram.com/protonmail/)
+
+
+
+
+
+(c) 2021 proton technologies ag. [CLS] [SEP] all rights reserved. [CLS] [SEP]
+
+  *[html]: hypertext markup language
+

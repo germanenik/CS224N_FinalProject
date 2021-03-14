@@ -1,0 +1,227 @@
+__ limited-time offer: black friday sale, get up to 50% off. [CLS] [SEP] limited-time
+offer: cyber monday sale, get up to 50% off. [CLS] [SEP] extended black friday sale, get
+up to 50% off. [CLS] [SEP] [select your deal
+now.](blackfriday?itm_content=bf2020banner_mail) [exclusive black friday
+deals](blackfriday?itm_content=bf2020banner_mail) [exclusive cyber monday
+deals](blackfriday?itm_content=bf2020banner_mail) [extended black friday
+deals](blackfriday?itm_content=bf2020banner_mail)
+
+[ __](https://facebook.com/protonmail "facebook") [
+__](https://twitter.com/protonmail "twitter") [
+__](https://reddit.com/r/protonmail "reddit") [
+__](https://instagram.com/protonmail "instagram") [ mastodon
+](https://mastodon.social/@protonmail "mastodon")
+
+  * català
+  * čeština
+  * dansk
+  * deutsch
+  * ελληνικά
+  * english
+  * español (españa)
+  * français
+  * hrvatski
+  * magyar
+  * bahasa (indonesia)
+  * íslenska
+  * italiano
+  * 日本語
+  * taqbaylit
+  * dutch
+  * polski
+  * português (brasil)
+  * português (portugal)
+  * română
+  * русский
+  * svenska
+  * türkçe
+  * українська
+  * 简体中文
+  * 繁體中文
+  * [help translate](https://protonmail.com/blog/translation-project/)
+
+toggle navigation [ ![protonmail](images/pm-logo-white.svg) ](./)
+
+  * [about](about)
+  * [security](security-details)
+  * [blog](/blog/)
+  * [careers](https://careers.protonmail.com/)
+  * [support](/support/)
+  * professional __
+    * [individual](professional)
+    * [business](business)
+  * [ vpn ](https://protonvpn.com)
+  * [log in](https://mail.protonmail.com/login)
+  * [sign up](signup)
+
+language: català čeština dansk deutsch ελληνικά english español (españa)
+français hrvatski magyar bahasa (indonesia) íslenska italiano 日本語 taqbaylit
+dutch polski português (brasil) português (portugal) română русский svenska
+türkçe українська 简体中文 繁體中文
+
+# information for law enforcement authorities
+
+the following information is provided for law enforcement authorities seeking
+information about users of the protonmail service. [CLS] [SEP]
+
+## about protonmail
+
+the protonmail service provides secure e-mail service messaging to users
+around the world. [CLS] [SEP] you can learn about protonmail by visiting our
+[website](https://protonmail.com). [CLS] [SEP] the protonmail service is offered by swiss-
+based proton technologies ag. [CLS] [SEP] all user information is processed and stored by
+proton technologies ag in switzerland. [CLS] [SEP]
+
+using protonmail for activities that break swiss law is against protonmail’s
+terms and conditions. [CLS] [SEP] under swiss law, we are required to cooperate with law
+enforcement agencies on criminal investigations, within the framework of swiss
+laws and privacy regulations. [CLS] [SEP]
+
+## information available from protonmail
+
+protonmail collects user information in accordance with our [terms and
+conditions](https://protonmail.com/terms-and-conditions), [privacy
+policy](https://protonmail.com/privacy-policy) and any applicable separate
+agreement such as a gdpr data processing agreement or a hipaa business
+associate agreement. [CLS] [SEP] e-mails are stored on protonmail servers in encrypted
+format. [CLS] [SEP] they are also transmitted in encrypted format between our servers and
+user devices. [CLS] [SEP] e-mails between protonmail users are also transmitted with end-
+to-end encryption. [CLS] [SEP] because data is encrypted at all steps, proton technologies
+ag cannot decrypt user messages. [CLS] [SEP]
+
+## protonmail user notification policy
+
+swiss law requires a user to be notified if a third party makes a request for
+their private data and such data is to be used in a criminal proceeding. [CLS] [SEP]
+however, in certain situations, notification can be delayed. [CLS] [SEP] this includes the
+following cases
+
+  * where providing notice is temporarily prohibited by the swiss legal process itself, by swiss court order, or applicable swiss law;
+  * where, based on information supplied by law enforcement, we, in our absolute discretion, believe that providing notice could create a risk of injury, death, or irreparable damage to an identifiable individual or group of individuals
+  * as a general rule though, targeted users will eventually be informed and afforded the opportunity to object to the data request, either by protonmail or by swiss authorities. [CLS] [SEP]
+
+## requesting assistance
+
+whether you are a swiss or a foreign law enforcement agency, please make your
+request for assistance directly to
+[legal@protonmail.com](mailto:legal@protonmail.com). [CLS] [SEP] we will generally respond
+to you within 1 business day, although our response time is usually much
+shorter than this during swiss business hours. [CLS] [SEP] more critical cases will
+automatically be given higher priority by our team. [CLS] [SEP]
+
+we recommend law enforcement agencies contact us directly because it allows
+for faster responses and reaction times compared to official swiss government
+channels which can take weeks or months to process requests. [CLS] [SEP] our legal team
+will be able to advise you on whether or not we will be able to assist you
+with your particular case, and assist with the preservation of data if we
+believe that your request will be validated by swiss authorities. [CLS] [SEP] for example,
+in ransomware cases, we can preserve information on which victims contacted
+the suspect, so that victims can be notified. [CLS] [SEP]
+
+depending on the nature of your case and which country the request is
+originating from, proton technologies ag may redirect you to competent swiss
+authorities in order to respect the relevant mutual legal assistance treaty
+(mlat) or for a swiss case to be opened. [CLS] [SEP] if you are requesting that an email
+address being used for phishing, spamming, or abuse be disabled, we can
+generally assist without requiring a swiss court order. [CLS] [SEP] please address any
+request for suspension with relevant evidence to abuse@protonmail.com. [CLS] [SEP]
+
+## required information
+
+we will be unable to process overly broad or vague requests. [CLS] [SEP] all requests must
+identify requested data with particularity and include the following:
+
+  * the name of the issuing authority, name and badge or id number of responsible agent, email address from a law enforcement domain and direct contact phone number
+  * the specific protonmail account suspected of illegal activities
+  * a copy of the police report or court order (either foreign or domestic)
+  * a copy of the mlat or international assistance request (if available)
+
+any requests must be submitted by emailing
+[legal@protonmail.com](mailto:legal@protonmail.com). [CLS] [SEP]
+
+## guidelines may change
+
+proton technologies ag reserves the right to update this information
+periodically. [CLS] [SEP] please consult it before making any future requests. [CLS] [SEP]
+
+
+
+## protonmail
+
+  * [pricing](https://protonmail.com/pricing)
+  * [security](https://protonmail.com/security-details)
+  * [shop](https://shop.protonmail.com/)
+  * [press/media kit](https://protonmail.com/press)
+  * [onion site](https://protonmail.com/tor)
+  * [protonmail status](https://protonstatus.com/)
+
+## features
+
+  * [ios app](https://itunes.apple.com/us/app/protonmail-encrypted-email/id979659905)
+  * [android app](https://play.google.com/store/apps/details?id=ch.protonmail.android)
+  * [imap/smtp bridge](https://protonmail.com/bridge)
+  * [protonvpn](https://protonvpn.com/)
+  * [business email](https://protonmail.com/business/)
+  * [encrypted contacts](https://protonmail.com/support/knowledge-base/encrypted-contacts/)
+
+## legal
+
+  * [imprint](https://protonmail.com/imprint)
+  * [privacy policy](https://protonmail.com/privacy-policy)
+  * [terms & conditions](https://protonmail.com/terms-and-conditions)
+  * [transparency report](https://protonmail.com/blog/transparency-report/)
+  * [report abuse](mailto:abuse@protonmail.com)
+  * [gdpr compliance](https://protonmail.com/gdpr)
+
+## company
+
+  * [blog](https://protonmail.com/blog/)
+  * [team](https://protonmail.com/about)
+  * [careers](https://careers.protonmail.com/)
+  * [support](https://protonmail.com/support/)
+  * [donate](https://protonmail.com/donate)
+  * [open source](https://protonmail.com/blog/openpgpjs-3-release/)
+
+## social
+
+  * [__facebook](https://facebook.com/protonmail)
+  * [__twitter](https://twitter.com/protonmail)
+  * [__reddit](https://www.reddit.com/r/protonmail/)
+  * [__instagram](https://www.instagram.com/protonmail/)
+  * [ mastodon ](https://mastodon.social/@protonmail)
+  * [__feedback forum](https://protonmail.uservoice.com/)
+
+
+
+[![innosuisse - swiss innovation
+agency](/images/swiss.svg)](https://www.innosuisse.ch/inno/en/home.html)
+[![this project is supported by the european union's horizon 2020 program
+\(grant no 848554\)](/images/logo-gdpr-eu-
+white.svg)](https://ec.europa.eu/programmes/horizon2020/en)
+
+(c) $currentyear proton technologies ag. [CLS] [SEP] all rights reserved. [CLS] [SEP]
+
+[català](/ca/) | [čeština](/cs/) | [dansk](/da/) | [deutsch](/de/) |
+[ελληνικά](/el/) | [english](/) | [español (españa)](/es/) | [français](/fr/)
+| [hrvatski](/hr/) | [magyar](/hu/) | [bahasa (indonesia)](/id/) |
+[íslenska](/is/) | [italiano](/it/) | [日本語](/jp/) | [taqbaylit](/kab/) |
+[dutch](/nl/) | [polski](/pl/) | [português (brasil)](/pt_br/) | [português
+(portugal)](/pt/) | [română](/ro/) | [русский](/ru/) | [svenska](/sv/) |
+[türkçe](/tr/) | [українська](/ua/) | [简体中文](/zh-hans/) | [繁體中文](/zh-hant/)
+
+×
+
+#### general inquiries
+
+for customer support inquiries, please submit the following form for the
+fastest response:  
+<https://protonmail.com/support-form>
+
+for all other inquiries:  
+[contact@protonmail.com](mailto:contact@protonmail.com)
+
+you can also tweet to us:  
+[twitter.com/protonmail](https://twitter.com/protonmail)
+
+close
+
