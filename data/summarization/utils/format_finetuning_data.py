@@ -69,7 +69,7 @@ def remove_characters(text, regex):
     subtexts = text.split(delim)
     for subtext in subtexts:
         ans += (re.sub(regex, "", subtext)) 
-    print(ans)
+    #print(ans)
     return ans
 
 def rindex(lst, value):
@@ -96,6 +96,7 @@ def add_highlights(curr_text, ref_file_path, file):
         quotes_arr = re.split('\[CLS\] \[SEP\]', quotes_text) #also removes all "[CLS] [SEP]"
         for quote in quotes_arr:
             quote = quote.strip()
+            quote = remove_characters(quote, r"[^A-Za-z0-9 \n.,;?]")
             if quote == "":
                 continue
             if quote in curr_text:
