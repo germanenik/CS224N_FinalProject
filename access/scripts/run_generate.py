@@ -6,10 +6,10 @@ from pathlib import Path
 # split pipeline input into smaller files
 complex_dir = sys.argv[1] #removed Path(REPO_DIR) + 
 os.chdir(Path(REPO_DIR) / complex_dir)
-os.system(f'split -C 20k pipeline.complex --additional-suffix=".complex"')
+os.system(f'split -C 20k summary.complex --additional-suffix=".complex"')
 os.chdir(Path(REPO_DIR))
 complex_files = [f for f in os.listdir(complex_dir) if os.path.isfile(os.path.join(complex_dir, f)) \
-	and f != 'pipeline.complex' and f.endswith(".complex")]
+	and f != 'summary.complex' and f.endswith(".complex")]
 num_new_files = len(complex_files)
 print(num_new_files, ' new files generated')
 
@@ -23,7 +23,7 @@ for file in complex_files:
 print('Generated predictions')
 
 # combine prediction files
-os.system(f'cat {complex_dir}/*.simple > {complex_dir}/pipeline_noerror.simple')
+os.system(f'cat {complex_dir}/*.simple > {complex_dir}/summary.simple')
 
 # remove split complex files (all complex files start with 'x')
 os.system(f'rm {complex_dir}/x*')
