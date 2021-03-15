@@ -337,12 +337,15 @@ def format_to_lines(args):
     
     train_files, valid_files, test_files = [], [], []
     paths = glob.glob(pjoin(args.raw_path, '*.json'))
-    total_num = len(paths)
-    random.shuffle(paths)
+    junk_paths = [path for path in paths if "random" in path]
+    original_paths = [path for path in paths if "random" not in path]
+    total_num = len(original_paths)
+    random.shuffle(original_paths)
     b1, b2 = total_num * 3 // 5, total_num * 4 // 5 
-    train_files = paths[:b1] #60%
-    valid_files = paths[b1:b2] #20%
-    test_files = paths[b2:] #20%
+    train_files = original_paths[:b1] #60%
+    train_files += junk_paths
+    valid_files = original_paths[b1:b2] #20%
+    test_files = original_paths[b2:] #20%
         # real_name = f.split('/')[-1].split('.')[0]
         # if (real_name in corpus_mapping['valid']):
         #     valid_files.append(f)
@@ -363,7 +366,7 @@ def format_to_lines(args):
         for d in pool.imap_unordered(_format_to_lines, a_lst):
             dataset.append(d)
             if (len(dataset) > args.shard_size):
-                pt_file = "{:s}.{:s}.{:d}.json".format(args.save_path, corpus_type, p_ct)
+                pt_file = "{:s}/{:s}.{:d}.json".format(args.save_path, corpus_type, p_ct)
                 with open(pt_file, 'w') as save:
                     # save.write('\n'.join(dataset))
                     save.write(json.dumps(dataset))

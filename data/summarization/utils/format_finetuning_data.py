@@ -26,6 +26,8 @@ def format_finetuning(args):
 
         with open(full_file_path) as f:
             text = f.read()
+            if args.remove_characters:
+                text = remove_characters(text, r"[^A-Za-z0-9 \n.,;?]")
             tokenized = [tup[1] for tup in tokenizer.tokenize(text)] #just list of strings
 
             prev_endidx = 0
@@ -50,7 +52,7 @@ def format_finetuning(args):
 
                 ref_file_path = get_file_path(ref, full_file) #full_file is ref_file
                 chunk_file_path = get_chunkfile_path(f.name, file_name_counter, args.output_dir)
-                curr_text = add_highlights(curr_text, ref_file_path, args.is_clean, chunk_file_path)
+                curr_text = add_highlights(curr_text, ref_file_path, chunk_file_path)
                 
                 chunk_file = open(chunk_file_path, 'w')
                 chunk_file.write(curr_text)
@@ -61,6 +63,14 @@ def format_finetuning(args):
         global_count += 1
     
     print(f'\n\n DONE REFORMATTING \n')
+
+def remove_characters(text, regex):
+    delim, ans = "[CLS] [SEP]", ""
+    subtexts = text.split(delim)
+    for subtext in subtexts:
+        ans += (re.sub(regex, "", subtext)) 
+    #print(ans)
+    return ans
 
 def rindex(lst, value):
     lst.reverse()
@@ -77,7 +87,7 @@ def get_chunkfile_path(file_path: str, file_name_counter: int, output_dir: str):
 def get_file_path(dir_path, file_name):
     return dir_path + "/" + file_name 
 
-def add_highlights(curr_text, ref_file_path, is_clean, file):
+def add_highlights(curr_text, ref_file_path, file):
     added_quote = False
     with open(ref_file_path, "r") as ref:
         quotes_text = ref.read()
@@ -86,9 +96,10 @@ def add_highlights(curr_text, ref_file_path, is_clean, file):
         quotes_arr = re.split('\[CLS\] \[SEP\]', quotes_text) #also removes all "[CLS] [SEP]"
         for quote in quotes_arr:
             quote = quote.strip()
+            quote = remove_characters(quote, r"[^A-Za-z0-9 \n.,;?]")
             if quote == "":
                 continue
-            if quote in curr_text or not is_clean:
+            if quote in curr_text:
                 added_quote = True
                 print(f"added quote tp {file}")
                 curr_text += f"\n@highlight\n{quote}\n"
@@ -118,7 +129,7 @@ if __name__ == "__main__":
                         help='reference dir')
     parser.add_argument("-output_dir", type=str)
     parser.add_argument("-debug", type=str2bool, nargs='?', const=True, default=False, help="Debug mode (no trainig done).")
-    parser.add_argument("-is_clean", type=str2bool, nargs='?', const=True, default=False, help="Reformatting cleaned data (no trainig done).")
+    parser.add_argument("-remove_characters", type=str2bool, nargs='?', const=True, default=False)
     parser.add_argument("-max_pos", default=512, type=int)
     args = parser.parse_args()
 
