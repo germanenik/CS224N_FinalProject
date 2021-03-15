@@ -56,11 +56,11 @@ if __name__ == '__main__':
                 }
             }
         }
-        kwargs = {
+        best_kwargs = {
             'arch': 'transformer',
             'warmup_updates': 4000,
             'parametrization_budget': 256,
-            'beam': 8,
+            'beam': 2,
             'dataset': 'simplification',
             'dropout': 0.93761351,
             'fp16': False,
