@@ -90,7 +90,7 @@ if __name__ == '__main__':
                 }
             }
         }
-        fairseq_train_and_evaluate(**kwargs)
+        fairseq_train_and_evaluate(**random_kwargs)
         sys.stdout = orig_stdout
         f.close()
         path = 'resources/datasets/'
