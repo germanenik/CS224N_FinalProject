@@ -51,9 +51,15 @@ def fairseq_preprocess(dataset):
                 '--output-format',
                 'raw',
                 '--srcdict',
+<<<<<<< Updated upstream
                 os.path.join(REPO_DIR, 'model/dict.complex.txt'),
                 '--tgtdict',
                 os.path.join(REPO_DIR, 'model/dict.simple.txt'),
+=======
+                '/home/varun/CS224N_FinalProject/access/model/dict.complex.txt',
+                '--tgtdict',
+                '/home/varun/CS224N_FinalProject/access/model/dict.simple.txt',
+>>>>>>> Stashed changes
             ])
             print(preprocess_args)
             preprocess.main(preprocess_args)
@@ -84,8 +90,14 @@ def fairseq_train(
         weight_decay=0.0001,
         criterion='label_smoothed_cross_entropy',
         optimizer='nag',
+<<<<<<< Updated upstream
         validations_before_sari_early_stopping=40,
         fp16=False):
+=======
+        validations_before_sari_early_stopping=10,
+        fp16=False,
+        restore_file_path='/home/varun/CS224N_FinalProject/access/model/checkpoints/checkpoint_best.pt'):
+>>>>>>> Stashed changes
     exp_dir = Path(exp_dir)
     with log_stdout(exp_dir / 'fairseq_train.stdout'):
         preprocessed_dir = Path(preprocessed_dir)

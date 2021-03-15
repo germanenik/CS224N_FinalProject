@@ -1,0 +1,8 @@
+Training a model from scratch
+method_name='fairseq_train_and_evaluate'
+args=()
+kwargs={'arch': 'transformer', 'warmup_updates': 4000, 'parametrization_budget': 256, 'beam': 2, 'dataset': 'simplification', 'dropout': 0.0907499858366354, 'fp16': False, 'label_smoothing': 0.0866491473723211, 'lr': 5.574904629052935e-06, 'lr_scheduler': 'fixed', 'max_epoch': 100, 'max_tokens': 5000, 'metrics_coefs': [0, 1, 0], 'optimizer': 'adam', 'validations_before_sari_early_stopping': 10, 'preprocessors_kwargs': {'LengthRatioPreprocessor': {'target_ratio': 0.9177503232200492}, 'LevenshteinPreprocessor': {'target_ratio': 0.19465178450873244}, 'WordRankRatioPreprocessor': {'target_ratio': 0.47471570039927113}, 'DependencyTreeDepthRatioPreprocessor': {'target_ratio': 0.5849287667998494}, 'SentencePiecePreprocessor': {'vocab_size': 10000}}}
+Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_95d59ef23905a3bb8a2b6e2e63a54b6d...
+Creating preprocessed dataset with LengthRatioPreprocessor(target_ratio=0.9177503232200492): simplification -> _95d59ef23905a3bb8a2b6e2e63a54b6d
+Error: Rolling back creation of directory /home/varun/CS224N_FinalProject/access/resources/datasets/_95d59ef23905a3bb8a2b6e2e63a54b6d
+this run failed.
