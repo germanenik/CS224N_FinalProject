@@ -366,7 +366,7 @@ def format_to_lines(args):
         for d in pool.imap_unordered(_format_to_lines, a_lst):
             dataset.append(d)
             if (len(dataset) > args.shard_size):
-                pt_file = "{:s}.{:s}.{:d}.json".format(args.save_path, corpus_type, p_ct)
+                pt_file = "{:s}/{:s}.{:d}.json".format(args.save_path, corpus_type, p_ct)
                 with open(pt_file, 'w') as save:
                     # save.write('\n'.join(dataset))
                     save.write(json.dumps(dataset))
