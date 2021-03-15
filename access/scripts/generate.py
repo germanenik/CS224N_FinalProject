@@ -22,11 +22,11 @@ if __name__ == '__main__':
     write_lines([word_tokenize(line) for line in fileinput.input()], source_filepath)
     # Load best model
     #best_model_dir = prepare_models() #test on default model
-    best_model_dir = REPO_DIR / 'experiments/fairseq/local_1615607095562' #test on our model
+    best_model_dir = REPO_DIR / 'experiments/fairseq/local_1615780248144' #test on our model
     recommended_preprocessors_kwargs = {
-        'LengthRatioPreprocessor': {'target_ratio': 0.95},
-        'LevenshteinPreprocessor': {'target_ratio': 0.75},
-        'WordRankRatioPreprocessor': {'target_ratio': 0.75},
+        'LengthRatioPreprocessor': {'target_ratio': 0.7999999999999999},
+        'LevenshteinPreprocessor': {'target_ratio': 0.42647234616101964},
+        'WordRankRatioPreprocessor': {'target_ratio': 0.7999999999999999},
         'SentencePiecePreprocessor': {'vocab_size': 10000},
     }
     preprocessors = get_preprocessors(recommended_preprocessors_kwargs)
