@@ -33,7 +33,7 @@ def train_whole(args):
     #train
     models_dir = get_models_path(codeword)
     os.mkdir(models_dir)
-    os.system(f"python train.py -task ext -mode train -bert_data_path {data2_path} -ext_dropout 0.1 -model_path {models_dir} -lr 2e-3 -visible_gpus 0 -report_every 50 -save_checkpoint_steps 300 -batch_size 3000 -train_steps 50000 -accum_count 2 -log_file ../logs/{codeword}-train.log -use_interval true -warmup_steps 10000 -max_pos 512 -train_from ../baseline_models/model_step_18000.pt")
+    os.system(f"python train.py -task ext -mode train -bert_data_path {data2_path} -ext_dropout 0.1 -model_path {models_dir} -lr 2e-3 -visible_gpus 0 -report_every 50 -save_checkpoint_steps 300 -batch_size 3000 -train_steps 50000 -accum_count 2 -log_file ../logs/{codeword}-train.log -use_interval true -warmup_steps 10000 -max_pos 512 -train_from ../baseline_models/model_step_18000.pt -min_length 0")
 
     #create validation folder
     os.mkdir(get_valid_path(codeword))
