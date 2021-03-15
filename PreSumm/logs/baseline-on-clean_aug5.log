@@ -1,0 +1,105 @@
+[2021-03-15 19:03:09,140 INFO] Loading checkpoint from ../baseline_models/model_step_18000.pt
+[2021-03-15 19:03:09,914 INFO] loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at ../temp/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.7156163d5fdc189c3016baca0775ffce230789d7fa2a42ef516483e4ca884517
+[2021-03-15 19:03:09,915 INFO] Model config {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 2,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pad_token_id": 0,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+[2021-03-15 19:03:09,947 INFO] loading weights file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-pytorch_model.bin from cache at ../temp/aa1ef1aede4482d0dbcd4d52baad8ae300e60902e88fcb0bebdec09afd232066.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+[2021-03-15 19:03:47,401 INFO] Loading checkpoint from ../baseline_models/model_step_18000.pt
+[2021-03-15 19:03:48,134 INFO] loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at ../temp/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.7156163d5fdc189c3016baca0775ffce230789d7fa2a42ef516483e4ca884517
+[2021-03-15 19:03:48,135 INFO] Model config {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 2,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pad_token_id": 0,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+[2021-03-15 19:03:48,172 INFO] loading weights file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-pytorch_model.bin from cache at ../temp/aa1ef1aede4482d0dbcd4d52baad8ae300e60902e88fcb0bebdec09afd232066.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+[2021-03-15 19:03:52,297 INFO] Loading valid dataset from ../trial_clean_aug5/clean_aug5_data2/valid.0.bert.pt, number of examples: 364
+[2021-03-15 19:03:52,299 INFO] * number of parameters: 120512513
+[2021-03-15 19:04:18,203 INFO] Validation xent: 2.43863 at step 18000
+[2021-03-15 19:04:18,228 INFO] Loading checkpoint from ../baseline_models/model_step_18000.pt
+[2021-03-15 19:04:18,928 INFO] loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-config.json from cache at ../temp/4dad0251492946e18ac39290fcfe91b89d370fee250efe9521476438fe8ca185.7156163d5fdc189c3016baca0775ffce230789d7fa2a42ef516483e4ca884517
+[2021-03-15 19:04:18,929 INFO] Model config {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 2,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pad_token_id": 0,
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+[2021-03-15 19:04:18,962 INFO] loading weights file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-pytorch_model.bin from cache at ../temp/aa1ef1aede4482d0dbcd4d52baad8ae300e60902e88fcb0bebdec09afd232066.36ca03ab34a1a5d5fa7bc3d03d55c4fa650fed07220e2eeebc06ce58d0e9a157
+[2021-03-15 19:04:21,674 INFO] Loading test dataset from ../trial_clean_aug5/clean_aug5_data2/test.0.bert.pt, number of examples: 412
+[2021-03-15 19:04:21,679 INFO] * number of parameters: 120512513
+[2021-03-15 19:04:54,103 INFO] Writing summaries.
+[2021-03-15 19:04:54,104 INFO] Processing summaries. Saving system files to ../temp/tmpwzvta4lp/system and model files to ../temp/tmpwzvta4lp/model.
+[2021-03-15 19:04:54,104 INFO] Processing files in ../temp/rouge-tmp-2021-03-15-19-04-54/candidate/.
+[2021-03-15 19:04:54,109 INFO] Saved processed files to ../temp/tmpwzvta4lp/system.
+[2021-03-15 19:04:54,109 INFO] Processing files in ../temp/rouge-tmp-2021-03-15-19-04-54/reference/.
+[2021-03-15 19:04:54,114 INFO] Saved processed files to ../temp/tmpwzvta4lp/model.
+[2021-03-15 19:04:54,115 INFO] Written ROUGE configuration to ../temp/tmp5zz79lv0/rouge_conf.xml
+[2021-03-15 19:04:54,115 INFO] Running ROUGE with command /home/legalese/pyrouge/rouge/tools/ROUGE-1.5.5/ROUGE-1.5.5.pl -e /home/legalese/pyrouge/rouge/tools/ROUGE-1.5.5/data -c 95 -m -r 1000 -n 2 -a ../temp/tmp5zz79lv0/rouge_conf.xml
+[2021-03-15 19:04:54,670 INFO] Rouges at step 18000 
+>> ROUGE-F(1/2/3/l): 33.42/20.55/30.15
+ROUGE-R(1/2/3/l): 53.99/33.63/48.60
+
+[2021-03-15 19:04:54,670 INFO] Validation xent: 2.21612 at step 18000
