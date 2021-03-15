@@ -14,13 +14,13 @@ def train_whole(args):
     data0_path = get_data_dir_path(codeword, 0)
     os.mkdir(data0_path)
     logfile_path = get_log_file_path(codeword, 0)
-    os.system(f"python preprocess.py -mode tokenize -raw_path {args.raw_chunk_data} -save_path {data0_path} -log_file {logfile_path}")
+    os.system(f"python preprocess.py -mode tokenize -raw_path {args.raw_chunk_data} -save_path {data0_path} -log_file {logfile_path} -min_tgt_ntokens 0")
 
     #data0 to data1
     data1_path = get_data_dir_path(codeword, 1)
     os.mkdir(data1_path)
     logfile_path = get_log_file_path(codeword, 1)
-    os.system(f"python preprocess.py -mode format_to_lines -raw_path {data0_path} -save_path {data1_path} -n_cpus 1 -use_bert_basic_tokenizer false -log_file {logfile_path}")
+    os.system(f"python preprocess.py -mode format_to_lines -raw_path {data0_path} -save_path {data1_path} -n_cpus 1 -use_bert_basic_tokenizer false -log_file {logfile_path} -min_tgt_ntokens 0")
     #move data_split
     os.rename("../data_split.json", f"../trial_{codeword}/data_split.json")
 
@@ -28,7 +28,7 @@ def train_whole(args):
     data2_path = get_data_dir_path(codeword, 2)
     os.mkdir(data2_path)
     logfile_path = get_log_file_path(codeword, 2)
-    os.system(f"python preprocess.py -mode format_to_bert -raw_path {data1_path} -save_path {data2_path} -lower -n_cpus 1 -log_file {logfile_path}")
+    os.system(f"python preprocess.py -mode format_to_bert -raw_path {data1_path} -save_path {data2_path} -lower -n_cpus 1 -log_file {logfile_path} -min_tgt_ntokens 0")
 
     #train
     models_dir = get_models_path(codeword)
