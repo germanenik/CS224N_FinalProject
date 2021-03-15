@@ -51,15 +51,9 @@ def fairseq_preprocess(dataset):
                 '--output-format',
                 'raw',
                 '--srcdict',
-<<<<<<< Updated upstream
                 os.path.join(REPO_DIR, 'model/dict.complex.txt'),
                 '--tgtdict',
                 os.path.join(REPO_DIR, 'model/dict.simple.txt'),
-=======
-                '/home/varun/CS224N_FinalProject/access/model/dict.complex.txt',
-                '--tgtdict',
-                '/home/varun/CS224N_FinalProject/access/model/dict.simple.txt',
->>>>>>> Stashed changes
             ])
             print(preprocess_args)
             preprocess.main(preprocess_args)
