@@ -90,7 +90,10 @@ if __name__ == '__main__':
                 }
             }
         }
-        fairseq_train_and_evaluate(**random_kwargs)
+        try:
+            fairseq_train_and_evaluate(**random_kwargs)
+        except:
+            print('this run failed.')
         sys.stdout = orig_stdout
         f.close()
         path = 'resources/datasets/'
