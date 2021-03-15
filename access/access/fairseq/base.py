@@ -84,14 +84,9 @@ def fairseq_train(
         weight_decay=0.0001,
         criterion='label_smoothed_cross_entropy',
         optimizer='nag',
-<<<<<<< Updated upstream
         validations_before_sari_early_stopping=40,
-        fp16=False):
-=======
-        validations_before_sari_early_stopping=10,
         fp16=False,
-        restore_file_path='/home/varun/CS224N_FinalProject/access/model/checkpoints/checkpoint_best.pt'):
->>>>>>> Stashed changes
+        restore_file_path=os.path.join(REPO_DIR, 'model/checkpoints/checkpoint_best.pt')):
     exp_dir = Path(exp_dir)
     with log_stdout(exp_dir / 'fairseq_train.stdout'):
         preprocessed_dir = Path(preprocessed_dir)
@@ -151,7 +146,7 @@ def fairseq_train(
             '--tensorboard-logdir',
             'tensorboard',
             '--restore-file',
-            os.path.join(REPO_DIR, 'model/checkpoints/checkpoint_best.pt'),
+            restore_file_path,
             # '--force-anneal', '200',
             # '--distributed-world-size', '1',
         ]
