@@ -31,7 +31,7 @@ if __name__ == '__main__':
             'dropout': random.random(),
             'fp16': False,
             'label_smoothing': random.random(),
-            'lr': random.random() * (10.0 ** random.randint(-5, 0)),
+            'lr': random.random() * (10.0 ** random.randint(-5, -3)),
             'lr_scheduler': 'fixed',
             'max_epoch': 100,
             'max_tokens': 5000,
@@ -56,11 +56,11 @@ if __name__ == '__main__':
                 }
             }
         }
-        kwargs = {
+        best_kwargs = {
             'arch': 'transformer',
             'warmup_updates': 4000,
             'parametrization_budget': 256,
-            'beam': 8,
+            'beam': 2,
             'dataset': 'simplification',
             'dropout': 0.93761351,
             'fp16': False,
@@ -90,7 +90,10 @@ if __name__ == '__main__':
                 }
             }
         }
-        fairseq_train_and_evaluate(**kwargs)
+        try:
+            fairseq_train_and_evaluate(**random_kwargs)
+        except:
+            print('this run failed.')
         sys.stdout = orig_stdout
         f.close()
         path = 'resources/datasets/'
