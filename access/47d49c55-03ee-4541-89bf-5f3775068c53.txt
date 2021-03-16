@@ -1,0 +1,13 @@
+Training a model from scratch
+method_name='fairseq_train_and_evaluate'
+args=()
+kwargs={'arch': 'transformer', 'warmup_updates': 4000, 'parametrization_budget': 256, 'beam': 5, 'dataset': 'simplification', 'dropout': 0.6056264629750752, 'fp16': False, 'label_smoothing': 0.55748496304719, 'lr': 1.7130288532931927e-06, 'lr_scheduler': 'fixed', 'max_epoch': 100, 'max_tokens': 5000, 'metrics_coefs': [0, 1, 0], 'optimizer': 'adam', 'validations_before_sari_early_stopping': 10, 'preprocessors_kwargs': {'LengthRatioPreprocessor': {'target_ratio': 0.7092739799011532}, 'LevenshteinPreprocessor': {'target_ratio': 0.6199734291011243}, 'WordRankRatioPreprocessor': {'target_ratio': 0.31085677186823535}, 'DependencyTreeDepthRatioPreprocessor': {'target_ratio': 0.5943020613766612}, 'SentencePiecePreprocessor': {'vocab_size': 10000}}}
+Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_95d59ef23905a3bb8a2b6e2e63a54b6d...
+Creating preprocessed dataset with LengthRatioPreprocessor(target_ratio=0.7092739799011532): simplification -> _95d59ef23905a3bb8a2b6e2e63a54b6d
+Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_58f7245e03ed9ccfe71c1ebb458a5d6c...
+Creating preprocessed dataset with LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6199734291011243): _95d59ef23905a3bb8a2b6e2e63a54b6d -> _58f7245e03ed9ccfe71c1ebb458a5d6c
+Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_ab7da4325f3aa3124fd01af9d0435e4a...
+Creating preprocessed dataset with WordRankRatioPreprocessor(target_ratio=0.31085677186823535): _58f7245e03ed9ccfe71c1ebb458a5d6c -> _ab7da4325f3aa3124fd01af9d0435e4a
+Error: Rolling back creation of directory /home/varun/CS224N_FinalProject/access/resources/datasets/_ab7da4325f3aa3124fd01af9d0435e4a
+Unexpected error <class 'KeyboardInterrupt'>
+this run failed.
