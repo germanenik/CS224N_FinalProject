@@ -13,8 +13,8 @@ Trials:
 
 *** above trials were all trained on non-empty highlights ***
 
-* Clean5 - clean3 but including empty highlights
-* Clean aug4 - clean 5 w 10,000 augmented data (on chunk0s) only in the training set
-* Clean aug5 - clean 5 w 1,000 augmented data (on chunk0s) only in the training set
+* Clean6 - clean3 but including empty highlights
+* Clean aug6 - clean6 w 1,000 augmented data (on chunk0s) only in the training set
+* Clean7 (in progress) - clean6 but with "blank" under each blank highlight instead of an empty string
 
 ACCESS repo: https://github.com/facebookresearch/access
