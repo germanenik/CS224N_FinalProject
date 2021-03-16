@@ -1,0 +1,16 @@
+[2021-03-15 23:19:01,132 INFO] loading vocabulary file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /home/legalese/.cache/torch/pytorch_transformers/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+[2021-03-15 23:19:01,200 INFO] Processing ../trial_clean_aug6/clean_aug6_data1/train.1.json
+[2021-03-15 23:19:01,783 INFO] Processed instances 337
+[2021-03-15 23:19:01,784 INFO] Saving to ../trial_clean_aug6/clean_aug6_data2/train.1.bert.pt
+[2021-03-15 23:19:01,998 INFO] loading vocabulary file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /home/legalese/.cache/torch/pytorch_transformers/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+[2021-03-15 23:19:02,025 INFO] Processing ../trial_clean_aug6/clean_aug6_data1/train.0.json
+[2021-03-15 23:19:05,512 INFO] Processed instances 1846
+[2021-03-15 23:19:05,512 INFO] Saving to ../trial_clean_aug6/clean_aug6_data2/train.0.bert.pt
+[2021-03-15 23:19:06,551 INFO] loading vocabulary file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /home/legalese/.cache/torch/pytorch_transformers/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+[2021-03-15 23:19:06,623 INFO] Processing ../trial_clean_aug6/clean_aug6_data1/valid.0.json
+[2021-03-15 23:19:07,326 INFO] Processed instances 374
+[2021-03-15 23:19:07,326 INFO] Saving to ../trial_clean_aug6/clean_aug6_data2/valid.0.bert.pt
+[2021-03-15 23:19:07,654 INFO] loading vocabulary file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /home/legalese/.cache/torch/pytorch_transformers/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+[2021-03-15 23:19:07,723 INFO] Processing ../trial_clean_aug6/clean_aug6_data1/test.0.json
+[2021-03-15 23:19:08,421 INFO] Processed instances 412
+[2021-03-15 23:19:08,421 INFO] Saving to ../trial_clean_aug6/clean_aug6_data2/test.0.bert.pt
