@@ -52,7 +52,7 @@ def format_finetuning(args):
 
                 ref_file_path = get_file_path(ref, full_file) #full_file is ref_file
                 chunk_file_path = get_chunkfile_path(f.name, file_name_counter, args.output_dir)
-                curr_text = add_highlights(curr_text, ref_file_path, chunk_file_path)
+                curr_text = add_highlights(curr_text, ref_file_path, chunk_file_path, args.blank_highlights)
                 
                 chunk_file = open(chunk_file_path, 'w')
                 chunk_file.write(curr_text)
@@ -87,7 +87,7 @@ def get_chunkfile_path(file_path: str, file_name_counter: int, output_dir: str):
 def get_file_path(dir_path, file_name):
     return dir_path + "/" + file_name 
 
-def add_highlights(curr_text, ref_file_path, file):
+def add_highlights(curr_text, ref_file_path, file, blank_highlights):
     added_quote = False
     with open(ref_file_path, "r") as ref:
         quotes_text = ref.read()
@@ -104,7 +104,8 @@ def add_highlights(curr_text, ref_file_path, file):
                 print(f"added quote tp {file}")
                 curr_text += f"\n@highlight\n{quote}\n"
         if not added_quote:
-            curr_text += f"\n@highlight\n\n"
+            blank = "" if not blank_highlights else "blank"
+            curr_text += f"\n@highlight\n{blank}\n"
 
     return curr_text
 
@@ -131,6 +132,7 @@ if __name__ == "__main__":
     parser.add_argument("-debug", type=str2bool, nargs='?', const=True, default=False, help="Debug mode (no trainig done).")
     parser.add_argument("-remove_characters", type=str2bool, nargs='?', const=True, default=False)
     parser.add_argument("-max_pos", default=512, type=int)
+    parser.add_argument("-blank_highlights", type=str2bool, nargs='?', const=True, default=False)
     args = parser.parse_args()
 
     format_finetuning(args)
