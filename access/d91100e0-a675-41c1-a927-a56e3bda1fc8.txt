@@ -1,9 +1,0 @@
-Training a model from scratch
-method_name='fairseq_train_and_evaluate'
-args=()
-kwargs={'arch': 'transformer', 'warmup_updates': 4000, 'parametrization_budget': 256, 'beam': 9, 'dataset': 'simplification', 'dropout': 0.19830512159823233, 'fp16': False, 'label_smoothing': 0.027133498966085412, 'lr': 2.4159313277924256e-05, 'lr_scheduler': 'fixed', 'max_epoch': 100, 'max_tokens': 5000, 'metrics_coefs': [0, 1, 0], 'optimizer': 'adam', 'validations_before_sari_early_stopping': 10, 'preprocessors_kwargs': {'LengthRatioPreprocessor': {'target_ratio': 0.484124776464798}, 'LevenshteinPreprocessor': {'target_ratio': 0.3332856983453628}, 'WordRankRatioPreprocessor': {'target_ratio': 0.17197208717612222}, 'DependencyTreeDepthRatioPreprocessor': {'target_ratio': 0.16986124773792}, 'SentencePiecePreprocessor': {'vocab_size': 10000}}}
-Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_2c9bf27d367bdb51e7c5d9df67d41c01...
-Creating preprocessed dataset with DependencyTreeDepthRatioPreprocessor(target_ratio=0.16986124773792): _ab7da4325f3aa3124fd01af9d0435e4a -> _2c9bf27d367bdb51e7c5d9df67d41c01
-Error: Rolling back creation of directory /home/varun/CS224N_FinalProject/access/resources/datasets/_2c9bf27d367bdb51e7c5d9df67d41c01
-Unexpected error <class 'TypeError'>
-this run failed.

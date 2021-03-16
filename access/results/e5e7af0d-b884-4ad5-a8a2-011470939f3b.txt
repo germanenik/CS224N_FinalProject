@@ -2228,3 +2228,4 @@ SARI did not improve for 1 validations
 | WARNING: OOM in all workers, skipping update
 | WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 13.44 MiB free; 127.58 MiB cached);
  Skipping batch
+this run failed.

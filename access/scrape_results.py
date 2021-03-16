@@ -36,8 +36,7 @@ for filename in os.listdir(directory):
                 line = line.replace('\'', '"')[len('recommended_preprocessors_kwargs='):]
                 recommended_kwargs = json.loads(line)
         if last_scores:
-            print(
-                f'{run_failed},'
+            print_string = (f'{run_failed},'
                 f'{last_scores["BLEU"]},'
                 f'{last_scores["SARI"]},'
                 f'{last_scores["FKGL"]},'
@@ -57,16 +56,15 @@ for filename in os.listdir(directory):
                 f'{data_for_file["preprocessors_kwargs"]["LengthRatioPreprocessor"]["target_ratio"]},'
                 f'{data_for_file["preprocessors_kwargs"]["LevenshteinPreprocessor"]["target_ratio"]},'
                 f'{data_for_file["preprocessors_kwargs"]["WordRankRatioPreprocessor"]["target_ratio"]},'
-                f'{data_for_file["preprocessors_kwargs"]["DependencyTreeDepthRatioPreprocessor"]["target_ratio"]},'
-            )
-        if recommended_kwargs:
-            print(recommended_kwargs)
-            print(
-                f'{recommended_kwargs["LengthRatioPreprocessor"]["target_ratio"]},'
-                f'{recommended_kwargs["LevenshteinPreprocessor"]["target_ratio"]},'
-                f'{recommended_kwargs["WordRankRatioPreprocessor"]["target_ratio"]},'
-                f'{recommended_kwargs["DependencyTreeDepthRatioPreprocessor"]["target_ratio"]},'
-            )
+                f'{data_for_file["preprocessors_kwargs"]["DependencyTreeDepthRatioPreprocessor"]["target_ratio"]},')
+            if recommended_kwargs:
+                print_string += (
+                    f'{recommended_kwargs["LengthRatioPreprocessor"]["target_ratio"]},'
+                    f'{recommended_kwargs["LevenshteinPreprocessor"]["target_ratio"]},'
+                    f'{recommended_kwargs["WordRankRatioPreprocessor"]["target_ratio"]},'
+                    f'{recommended_kwargs["DependencyTreeDepthRatioPreprocessor"]["target_ratio"]},'
+                )
+            print(print_string)
         fp.close()
         if run_failed and not last_scores:
             os.remove(filename)
