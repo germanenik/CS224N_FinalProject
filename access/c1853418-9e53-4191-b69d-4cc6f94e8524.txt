@@ -1,22 +1,22 @@
 Training a model from scratch
 method_name='fairseq_train_and_evaluate'
 args=()
-kwargs={'arch': 'transformer', 'warmup_updates': 4000, 'parametrization_budget': 256, 'beam': 9, 'dataset': 'simplification', 'dropout': 0.8160642448653563, 'fp16': False, 'label_smoothing': 0.07286954777197274, 'lr': 7.770809963546138e-05, 'lr_scheduler': 'fixed', 'max_epoch': 100, 'max_tokens': 5000, 'metrics_coefs': [0, 1, 0], 'optimizer': 'adam', 'validations_before_sari_early_stopping': 10, 'preprocessors_kwargs': {'LengthRatioPreprocessor': {'target_ratio': 0.10074112346058761}, 'LevenshteinPreprocessor': {'target_ratio': 0.9246347122673182}, 'WordRankRatioPreprocessor': {'target_ratio': 0.11366379290041062}, 'DependencyTreeDepthRatioPreprocessor': {'target_ratio': 0.2693818669410908}, 'SentencePiecePreprocessor': {'vocab_size': 10000}}}
+kwargs={'arch': 'transformer', 'warmup_updates': 4000, 'parametrization_budget': 256, 'beam': 10, 'dataset': 'simplification', 'dropout': 0.8052468177965849, 'fp16': False, 'label_smoothing': 0.6061086957017565, 'lr': 9.816982001161012e-05, 'lr_scheduler': 'fixed', 'max_epoch': 100, 'max_tokens': 5000, 'metrics_coefs': [0, 1, 0], 'optimizer': 'adam', 'validations_before_sari_early_stopping': 10, 'preprocessors_kwargs': {'LengthRatioPreprocessor': {'target_ratio': 0.646303902928459}, 'LevenshteinPreprocessor': {'target_ratio': 0.6721480919141626}, 'WordRankRatioPreprocessor': {'target_ratio': 0.6176190029582731}, 'DependencyTreeDepthRatioPreprocessor': {'target_ratio': 0.3634146890619576}, 'SentencePiecePreprocessor': {'vocab_size': 10000}}}
 Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_95d59ef23905a3bb8a2b6e2e63a54b6d...
-Creating preprocessed dataset with LengthRatioPreprocessor(target_ratio=0.10074112346058761): simplification -> _95d59ef23905a3bb8a2b6e2e63a54b6d
+Creating preprocessed dataset with LengthRatioPreprocessor(target_ratio=0.646303902928459): simplification -> _95d59ef23905a3bb8a2b6e2e63a54b6d
 Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_58f7245e03ed9ccfe71c1ebb458a5d6c...
-Creating preprocessed dataset with LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9246347122673182): _95d59ef23905a3bb8a2b6e2e63a54b6d -> _58f7245e03ed9ccfe71c1ebb458a5d6c
+Creating preprocessed dataset with LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6721480919141626): _95d59ef23905a3bb8a2b6e2e63a54b6d -> _58f7245e03ed9ccfe71c1ebb458a5d6c
 Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_ab7da4325f3aa3124fd01af9d0435e4a...
-Creating preprocessed dataset with WordRankRatioPreprocessor(target_ratio=0.11366379290041062): _58f7245e03ed9ccfe71c1ebb458a5d6c -> _ab7da4325f3aa3124fd01af9d0435e4a
+Creating preprocessed dataset with WordRankRatioPreprocessor(target_ratio=0.6176190029582731): _58f7245e03ed9ccfe71c1ebb458a5d6c -> _ab7da4325f3aa3124fd01af9d0435e4a
 Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_2c9bf27d367bdb51e7c5d9df67d41c01...
-Creating preprocessed dataset with DependencyTreeDepthRatioPreprocessor(target_ratio=0.2693818669410908): _ab7da4325f3aa3124fd01af9d0435e4a -> _2c9bf27d367bdb51e7c5d9df67d41c01
+Creating preprocessed dataset with DependencyTreeDepthRatioPreprocessor(target_ratio=0.3634146890619576): _ab7da4325f3aa3124fd01af9d0435e4a -> _2c9bf27d367bdb51e7c5d9df67d41c01
 Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e...
 Creating preprocessed dataset with SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000): _2c9bf27d367bdb51e7c5d9df67d41c01 -> _c7e47b77c25605cece9f608a043f390e
 Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed...
 Namespace(alignfile=None, cpu=False, destdir='/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed', fp16=False, fp16_init_scale=128, fp16_scale_tolerance=0.0, fp16_scale_window=None, joined_dictionary=False, log_format=None, log_interval=1000, memory_efficient_fp16=False, min_loss_scale=0.0001, no_progress_bar=False, nwordssrc=-1, nwordstgt=-1, only_source=False, output_format='raw', padding_factor=8, seed=1, source_lang='complex', srcdict='/home/varun/CS224N_FinalProject/access/model/dict.complex.txt', target_lang='simple', task='translation', tensorboard_logdir='', testpref='/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/_c7e47b77c25605cece9f608a043f390e.test', tgtdict='/home/varun/CS224N_FinalProject/access/model/dict.simple.txt', threshold_loss_scale=None, thresholdsrc=0, thresholdtgt=0, trainpref='/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/_c7e47b77c25605cece9f608a043f390e.train', user_dir=None, validpref='/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/_c7e47b77c25605cece9f608a043f390e.valid', workers=1)
 Namespace(alignfile=None, cpu=False, destdir='/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed', fp16=False, fp16_init_scale=128, fp16_scale_tolerance=0.0, fp16_scale_window=None, joined_dictionary=False, log_format=None, log_interval=1000, memory_efficient_fp16=False, min_loss_scale=0.0001, no_progress_bar=False, nwordssrc=-1, nwordstgt=-1, only_source=False, output_format='raw', padding_factor=8, seed=1, source_lang='complex', srcdict='/home/varun/CS224N_FinalProject/access/model/dict.complex.txt', target_lang='simple', task='translation', tensorboard_logdir='', testpref='/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/_c7e47b77c25605cece9f608a043f390e.test', tgtdict='/home/varun/CS224N_FinalProject/access/model/dict.simple.txt', threshold_loss_scale=None, thresholdsrc=0, thresholdtgt=0, trainpref='/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/_c7e47b77c25605cece9f608a043f390e.train', user_dir=None, validpref='/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/_c7e47b77c25605cece9f608a043f390e.valid', workers=1)
 | Wrote preprocessed data to /home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed
-Namespace(adam_betas='(0.9, 0.999)', adam_eps=1e-08, adaptive_input=False, adaptive_softmax_cutoff=None, adaptive_softmax_dropout=0, arch='transformer', attention_dropout=0.0, bucket_cap_mb=25, clip_norm=0.1, cpu=False, criterion='label_smoothed_cross_entropy', curriculum=0, data=['/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed'], ddp_backend='c10d', decoder_attention_heads=8, decoder_embed_dim=512, decoder_embed_path=None, decoder_ffn_embed_dim=2048, decoder_input_dim=512, decoder_layers=6, decoder_learned_pos=False, decoder_normalize_before=False, decoder_output_dim=512, device_id=0, distributed_backend='nccl', distributed_init_method=None, distributed_port=-1, distributed_rank=0, distributed_world_size=1, dropout=0.8160642448653563, encoder_attention_heads=8, encoder_embed_dim=512, encoder_embed_path=None, encoder_ffn_embed_dim=2048, encoder_layers=6, encoder_learned_pos=False, encoder_normalize_before=False, fix_batches_to_gpus=False, force_anneal=None, fp16=False, fp16_init_scale=128, fp16_scale_tolerance=0.0, fp16_scale_window=None, keep_interval_updates=-1, keep_last_epochs=1, label_smoothing=0.07286954777197274, lazy_load=False, left_pad_source='True', left_pad_target='False', log_format=None, log_interval=1000, lr=[7.770809963546138e-05], lr_scheduler='fixed', lr_shrink=0.5, max_epoch=100, max_sentences=None, max_sentences_valid=None, max_source_positions=1024, max_target_positions=1024, max_tokens=5000, max_update=0, memory_efficient_fp16=False, min_loss_scale=0.0001, min_lr=1e-09, momentum=0.99, no_epoch_checkpoints=False, no_progress_bar=False, no_save=False, no_token_positional_embeddings=False, num_workers=0, optimizer='adam', optimizer_overrides='{}', raw_text=True, relu_dropout=0.0, required_batch_size_multiple=8, reset_lr_scheduler=False, reset_optimizer=False, restore_file='/home/varun/CS224N_FinalProject/access/model/checkpoints/checkpoint_best.pt', save_dir='/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615919583538/checkpoints', save_interval=1, save_interval_updates=0, seed=953, sentence_avg=False, share_all_embeddings=False, share_decoder_input_output_embed=False, skip_invalid_size_inputs_valid_test=False, source_lang='complex', target_lang='simple', task='translation', tensorboard_logdir='tensorboard', threshold_loss_scale=None, train_subset='train', update_freq=[1], upsample_primary=1, user_dir=None, valid_subset='valid', validate_interval=1, validations_before_sari_early_stopping=10.0, warmup_updates=4000, weight_decay=0.0001)
+Namespace(adam_betas='(0.9, 0.999)', adam_eps=1e-08, adaptive_input=False, adaptive_softmax_cutoff=None, adaptive_softmax_dropout=0, arch='transformer', attention_dropout=0.0, bucket_cap_mb=25, clip_norm=0.1, cpu=False, criterion='label_smoothed_cross_entropy', curriculum=0, data=['/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed'], ddp_backend='c10d', decoder_attention_heads=8, decoder_embed_dim=512, decoder_embed_path=None, decoder_ffn_embed_dim=2048, decoder_input_dim=512, decoder_layers=6, decoder_learned_pos=False, decoder_normalize_before=False, decoder_output_dim=512, device_id=0, distributed_backend='nccl', distributed_init_method=None, distributed_port=-1, distributed_rank=0, distributed_world_size=1, dropout=0.8052468177965849, encoder_attention_heads=8, encoder_embed_dim=512, encoder_embed_path=None, encoder_ffn_embed_dim=2048, encoder_layers=6, encoder_learned_pos=False, encoder_normalize_before=False, fix_batches_to_gpus=False, force_anneal=None, fp16=False, fp16_init_scale=128, fp16_scale_tolerance=0.0, fp16_scale_window=None, keep_interval_updates=-1, keep_last_epochs=1, label_smoothing=0.6061086957017565, lazy_load=False, left_pad_source='True', left_pad_target='False', log_format=None, log_interval=1000, lr=[9.816982001161012e-05], lr_scheduler='fixed', lr_shrink=0.5, max_epoch=100, max_sentences=None, max_sentences_valid=None, max_source_positions=1024, max_target_positions=1024, max_tokens=5000, max_update=0, memory_efficient_fp16=False, min_loss_scale=0.0001, min_lr=1e-09, momentum=0.99, no_epoch_checkpoints=False, no_progress_bar=False, no_save=False, no_token_positional_embeddings=False, num_workers=0, optimizer='adam', optimizer_overrides='{}', raw_text=True, relu_dropout=0.0, required_batch_size_multiple=8, reset_lr_scheduler=False, reset_optimizer=False, restore_file='/home/varun/CS224N_FinalProject/access/model/checkpoints/checkpoint_best.pt', save_dir='/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615921200485/checkpoints', save_interval=1, save_interval_updates=0, seed=957, sentence_avg=False, share_all_embeddings=False, share_decoder_input_output_embed=False, skip_invalid_size_inputs_valid_test=False, source_lang='complex', target_lang='simple', task='translation', tensorboard_logdir='tensorboard', threshold_loss_scale=None, train_subset='train', update_freq=[1], upsample_primary=1, user_dir=None, valid_subset='valid', validate_interval=1, validations_before_sari_early_stopping=10.0, warmup_updates=4000, weight_decay=0.0001)
 | [complex] dictionary: 10144 types
 | [simple] dictionary: 10048 types
 | /home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed train 4728 examples
@@ -186,100 +186,96 @@ TransformerModel(
 | WARNING: 1 samples have invalid sizes and will be skipped, max_positions=(1024, 1024), first few sample ids=[1103]
 | loaded checkpoint /home/varun/CS224N_FinalProject/access/model/checkpoints/checkpoint_best.pt (epoch 27 @ 67959 updates)
 tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 028 | loss 12.974 | nll_loss 12.920 | ppl 7750.04 | wps 426 | ups 0 | wpb 1113.542 | bsz 65.653 | num_updates 68031 | lr 1.9427e-08 | gnorm 13.503 | clip 1.000 | oom 0.000 | wall 188 | train_wall 11240
+| epoch 028 | loss 13.347 | nll_loss 12.860 | ppl 7435.07 | wps 1547 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68031 | lr 2.45425e-08 | gnorm 5.312 | clip 1.000 | oom 0.000 | wall 52 | train_wall 11240
 num_updates=68031
-ts_scores={'BLEU': 5.39, 'SARI': 21.85, 'FKGL': 1.54, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.16}
+ts_scores={'BLEU': 44.7, 'SARI': 34.36, 'FKGL': 4.64, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.24, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.57}
 tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 029 | loss 12.973 | nll_loss 12.919 | ppl 7742.92 | wps 1556 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68103 | lr 1.9427e-08 | gnorm 13.393 | clip 1.000 | oom 0.000 | wall 264 | train_wall 11291
+| epoch 029 | loss 13.347 | nll_loss 12.860 | ppl 7434.95 | wps 1530 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68103 | lr 2.45425e-08 | gnorm 5.372 | clip 1.000 | oom 0.000 | wall 141 | train_wall 11292
 num_updates=68103
-ts_scores={'BLEU': 5.4, 'SARI': 21.85, 'FKGL': 1.54, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.16}
+ts_scores={'BLEU': 44.72, 'SARI': 34.35, 'FKGL': 4.64, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.24, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.57}
 SARI did not improve for 1 validations
 tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 030 | loss 12.957 | nll_loss 12.902 | ppl 7653.82 | wps 1547 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68175 | lr 1.9427e-08 | gnorm 13.410 | clip 1.000 | oom 0.000 | wall 340 | train_wall 11343
+| epoch 030 | loss 13.337 | nll_loss 12.834 | ppl 7300.68 | wps 1518 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68175 | lr 2.45425e-08 | gnorm 5.379 | clip 1.000 | oom 0.000 | wall 232 | train_wall 11343
 num_updates=68175
-ts_scores={'BLEU': 5.42, 'SARI': 21.86, 'FKGL': 1.54, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.16}
+ts_scores={'BLEU': 44.65, 'SARI': 34.33, 'FKGL': 4.64, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.24, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.57}
+SARI did not improve for 2 validations
 tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 031 | loss 12.953 | nll_loss 12.898 | ppl 7632.58 | wps 1542 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68247 | lr 1.9427e-08 | gnorm 13.344 | clip 1.000 | oom 0.000 | wall 417 | train_wall 11395
+| epoch 031 | loss 13.329 | nll_loss 12.817 | ppl 7215.67 | wps 1523 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68247 | lr 2.45425e-08 | gnorm 5.251 | clip 1.000 | oom 0.000 | wall 322 | train_wall 11395
 num_updates=68247
-ts_scores={'BLEU': 5.42, 'SARI': 21.86, 'FKGL': 1.53, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.16}
-SARI did not improve for 1 validations
+ts_scores={'BLEU': 44.67, 'SARI': 34.34, 'FKGL': 4.65, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.24, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.57}
+SARI did not improve for 3 validations
 tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 032 | loss 12.941 | nll_loss 12.884 | ppl 7559.46 | wps 1550 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68319 | lr 1.9427e-08 | gnorm 13.265 | clip 1.000 | oom 0.000 | wall 494 | train_wall 11446
+| epoch 032 | loss 13.328 | nll_loss 12.815 | ppl 7206.25 | wps 1530 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68319 | lr 2.45425e-08 | gnorm 5.269 | clip 1.000 | oom 0.000 | wall 412 | train_wall 11447
 num_updates=68319
-ts_scores={'BLEU': 5.43, 'SARI': 21.86, 'FKGL': 1.53, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.16}
-SARI did not improve for 2 validations
+ts_scores={'BLEU': 44.64, 'SARI': 34.34, 'FKGL': 4.65, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.25, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.57}
+SARI did not improve for 4 validations
 tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 033 | loss 12.931 | nll_loss 12.874 | ppl 7505.43 | wps 1531 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68391 | lr 1.9427e-08 | gnorm 13.270 | clip 1.000 | oom 0.000 | wall 571 | train_wall 11498
+| epoch 033 | loss 13.323 | nll_loss 12.802 | ppl 7140.16 | wps 1539 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68391 | lr 2.45425e-08 | gnorm 5.363 | clip 1.000 | oom 0.000 | wall 501 | train_wall 11499
 num_updates=68391
-ts_scores={'BLEU': 5.43, 'SARI': 21.86, 'FKGL': 1.53, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.16}
-SARI did not improve for 3 validations
-tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 034 | loss 12.924 | nll_loss 12.866 | ppl 7465.54 | wps 1519 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68463 | lr 1.9427e-08 | gnorm 13.203 | clip 1.000 | oom 0.000 | wall 648 | train_wall 11550
-num_updates=68463
-ts_scores={'BLEU': 5.43, 'SARI': 21.86, 'FKGL': 1.53, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.16}
-SARI did not improve for 4 validations
-tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 035 | loss 12.924 | nll_loss 12.866 | ppl 7465.46 | wps 1521 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68535 | lr 1.9427e-08 | gnorm 13.245 | clip 1.000 | oom 0.000 | wall 725 | train_wall 11602
-num_updates=68535
-ts_scores={'BLEU': 5.44, 'SARI': 21.87, 'FKGL': 1.52, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.16}
-tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 036 | loss 12.908 | nll_loss 12.849 | ppl 7377.07 | wps 1530 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68607 | lr 1.9427e-08 | gnorm 13.223 | clip 1.000 | oom 0.000 | wall 802 | train_wall 11654
-num_updates=68607
-ts_scores={'BLEU': 5.46, 'SARI': 21.88, 'FKGL': 1.51, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.16}
-tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 037 | loss 12.906 | nll_loss 12.847 | ppl 7365.24 | wps 1541 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68679 | lr 1.9427e-08 | gnorm 13.090 | clip 1.000 | oom 0.000 | wall 879 | train_wall 11705
-num_updates=68679
-ts_scores={'BLEU': 5.46, 'SARI': 21.88, 'FKGL': 1.51, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.16}
-SARI did not improve for 1 validations
-tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 038 | loss 12.902 | nll_loss 12.843 | ppl 7347.16 | wps 1541 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68751 | lr 1.9427e-08 | gnorm 13.027 | clip 1.000 | oom 0.000 | wall 955 | train_wall 11757
-num_updates=68751
-ts_scores={'BLEU': 5.46, 'SARI': 21.88, 'FKGL': 1.52, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.16}
-SARI did not improve for 2 validations
-tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 039 | loss 12.896 | nll_loss 12.836 | ppl 7314.16 | wps 1542 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68823 | lr 1.9427e-08 | gnorm 13.277 | clip 1.000 | oom 0.000 | wall 1032 | train_wall 11809
-num_updates=68823
-ts_scores={'BLEU': 5.43, 'SARI': 21.87, 'FKGL': 1.53, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.16}
-SARI did not improve for 3 validations
-tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 040 | loss 12.889 | nll_loss 12.828 | ppl 7272.98 | wps 1538 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68895 | lr 1.9427e-08 | gnorm 13.161 | clip 1.000 | oom 0.000 | wall 1109 | train_wall 11861
-num_updates=68895
-ts_scores={'BLEU': 5.43, 'SARI': 21.86, 'FKGL': 1.52, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.16}
-SARI did not improve for 4 validations
-tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 041 | loss 12.876 | nll_loss 12.815 | ppl 7203.91 | wps 1537 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68967 | lr 1.9427e-08 | gnorm 13.069 | clip 1.000 | oom 0.000 | wall 1186 | train_wall 11913
-num_updates=68967
-ts_scores={'BLEU': 5.43, 'SARI': 21.87, 'FKGL': 1.52, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.16}
+ts_scores={'BLEU': 44.66, 'SARI': 34.35, 'FKGL': 4.65, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.24, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.56}
 SARI did not improve for 5 validations
 tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 042 | loss 12.877 | nll_loss 12.816 | ppl 7208.68 | wps 1546 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 69039 | lr 1.9427e-08 | gnorm 13.139 | clip 1.000 | oom 0.000 | wall 1264 | train_wall 11965
-num_updates=69039
-ts_scores={'BLEU': 5.44, 'SARI': 21.87, 'FKGL': 1.52, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.16}
+| epoch 034 | loss 13.320 | nll_loss 12.793 | ppl 7094.97 | wps 1541 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68463 | lr 2.45425e-08 | gnorm 5.259 | clip 1.000 | oom 0.000 | wall 591 | train_wall 11551
+num_updates=68463
+ts_scores={'BLEU': 44.7, 'SARI': 34.37, 'FKGL': 4.64, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.24, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.56}
+tensorboard or required dependencies not found, please see README for using tensorboard.
+| epoch 035 | loss 13.315 | nll_loss 12.782 | ppl 7045.36 | wps 1543 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68535 | lr 2.45425e-08 | gnorm 5.240 | clip 1.000 | oom 0.000 | wall 681 | train_wall 11603
+num_updates=68535
+ts_scores={'BLEU': 44.66, 'SARI': 34.38, 'FKGL': 4.63, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.25, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.56}
+tensorboard or required dependencies not found, please see README for using tensorboard.
+| epoch 036 | loss 13.307 | nll_loss 12.762 | ppl 6944.34 | wps 1537 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68607 | lr 2.45425e-08 | gnorm 5.296 | clip 1.000 | oom 0.000 | wall 771 | train_wall 11655
+num_updates=68607
+ts_scores={'BLEU': 44.63, 'SARI': 34.36, 'FKGL': 4.63, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.25, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.56}
+SARI did not improve for 1 validations
+tensorboard or required dependencies not found, please see README for using tensorboard.
+| epoch 037 | loss 13.306 | nll_loss 12.760 | ppl 6936.76 | wps 1539 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68679 | lr 2.45425e-08 | gnorm 5.252 | clip 1.000 | oom 0.000 | wall 860 | train_wall 11706
+num_updates=68679
+ts_scores={'BLEU': 44.61, 'SARI': 34.37, 'FKGL': 4.63, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.25, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.55}
+SARI did not improve for 2 validations
+tensorboard or required dependencies not found, please see README for using tensorboard.
+| epoch 038 | loss 13.302 | nll_loss 12.750 | ppl 6887.23 | wps 1547 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68751 | lr 2.45425e-08 | gnorm 5.333 | clip 1.000 | oom 0.000 | wall 950 | train_wall 11758
+num_updates=68751
+ts_scores={'BLEU': 44.56, 'SARI': 34.36, 'FKGL': 4.62, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.25, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.55}
+SARI did not improve for 3 validations
+tensorboard or required dependencies not found, please see README for using tensorboard.
+| epoch 039 | loss 13.296 | nll_loss 12.734 | ppl 6810.39 | wps 1542 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68823 | lr 2.45425e-08 | gnorm 5.181 | clip 1.000 | oom 0.000 | wall 1040 | train_wall 11810
+num_updates=68823
+ts_scores={'BLEU': 44.49, 'SARI': 34.36, 'FKGL': 4.62, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.25, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.55}
+SARI did not improve for 4 validations
+tensorboard or required dependencies not found, please see README for using tensorboard.
+| epoch 040 | loss 13.293 | nll_loss 12.728 | ppl 6782.05 | wps 1518 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68895 | lr 2.45425e-08 | gnorm 5.179 | clip 1.000 | oom 0.000 | wall 1130 | train_wall 11862
+num_updates=68895
+ts_scores={'BLEU': 44.52, 'SARI': 34.37, 'FKGL': 4.63, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.25, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.55}
+SARI did not improve for 5 validations
+tensorboard or required dependencies not found, please see README for using tensorboard.
+| epoch 041 | loss 13.292 | nll_loss 12.725 | ppl 6771.45 | wps 1545 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 68967 | lr 2.45425e-08 | gnorm 5.248 | clip 1.000 | oom 0.000 | wall 1220 | train_wall 11914
+num_updates=68967
+ts_scores={'BLEU': 44.53, 'SARI': 34.38, 'FKGL': 4.63, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.25, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.56}
 SARI did not improve for 6 validations
 tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 043 | loss 12.855 | nll_loss 12.792 | ppl 7090.21 | wps 1540 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 69111 | lr 1.9427e-08 | gnorm 13.254 | clip 1.000 | oom 0.000 | wall 1341 | train_wall 12017
-num_updates=69111
-ts_scores={'BLEU': 5.42, 'SARI': 21.87, 'FKGL': 1.54, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.15}
+| epoch 042 | loss 13.287 | nll_loss 12.712 | ppl 6710.77 | wps 1527 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 69039 | lr 2.45425e-08 | gnorm 5.196 | clip 1.000 | oom 0.000 | wall 1310 | train_wall 11966
+num_updates=69039
+ts_scores={'BLEU': 44.52, 'SARI': 34.38, 'FKGL': 4.63, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.25, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.56}
 SARI did not improve for 7 validations
 tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 044 | loss 12.860 | nll_loss 12.798 | ppl 7119.87 | wps 1516 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 69183 | lr 1.9427e-08 | gnorm 13.245 | clip 1.000 | oom 0.000 | wall 1418 | train_wall 12069
-num_updates=69183
-ts_scores={'BLEU': 5.43, 'SARI': 21.87, 'FKGL': 1.54, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.15}
+| epoch 043 | loss 13.282 | nll_loss 12.701 | ppl 6657.61 | wps 1514 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 69111 | lr 2.45425e-08 | gnorm 5.216 | clip 1.000 | oom 0.000 | wall 1400 | train_wall 12018
+num_updates=69111
+ts_scores={'BLEU': 44.51, 'SARI': 34.38, 'FKGL': 4.63, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.25, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.55}
 SARI did not improve for 8 validations
 tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 045 | loss 12.855 | nll_loss 12.792 | ppl 7090.86 | wps 1546 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 69255 | lr 1.9427e-08 | gnorm 13.075 | clip 1.000 | oom 0.000 | wall 1495 | train_wall 12120
-num_updates=69255
-ts_scores={'BLEU': 5.44, 'SARI': 21.88, 'FKGL': 1.53, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.15}
+| epoch 044 | loss 13.277 | nll_loss 12.687 | ppl 6594.57 | wps 1537 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 69183 | lr 2.45425e-08 | gnorm 5.116 | clip 1.000 | oom 0.000 | wall 1490 | train_wall 12070
+num_updates=69183
+ts_scores={'BLEU': 44.42, 'SARI': 34.38, 'FKGL': 4.62, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.25, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.55}
 SARI did not improve for 9 validations
 tensorboard or required dependencies not found, please see README for using tensorboard.
-| epoch 046 | loss 12.845 | nll_loss 12.781 | ppl 7036.51 | wps 1523 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 69327 | lr 1.9427e-08 | gnorm 13.068 | clip 1.000 | oom 0.000 | wall 1572 | train_wall 12172
-num_updates=69327
-ts_scores={'BLEU': 5.45, 'SARI': 21.88, 'FKGL': 1.53, 'Compression ratio': 0.2, 'Sentence splits': 0.98, 'Levenshtein similarity': 0.3, 'Exact copies': 0.0, 'Additions proportion': 0.06, 'Deletions proportion': 0.84, 'Lexical complexity score': 8.15}
+| epoch 045 | loss 13.276 | nll_loss 12.685 | ppl 6584.73 | wps 1543 | ups 1 | wpb 1113.542 | bsz 65.653 | num_updates 69255 | lr 2.45425e-08 | gnorm 5.242 | clip 1.000 | oom 0.000 | wall 1580 | train_wall 12121
+num_updates=69255
+ts_scores={'BLEU': 44.39, 'SARI': 34.36, 'FKGL': 4.62, 'Compression ratio': 0.69, 'Sentence splits': 1.06, 'Levenshtein similarity': 0.65, 'Exact copies': 0.0, 'Additions proportion': 0.25, 'Deletions proportion': 0.46, 'Lexical complexity score': 7.55}
 SARI did not improve for 10 validations
 Early stopping because SARI did not improve for 10 validations
-| done training in 1597.2 seconds
-preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.4), LengthRatioPreprocessor(target_ratio=0.8999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6)]
+| done training in 1616.7 seconds
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.4), LengthRatioPreprocessor(target_ratio=0.8999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7999999999999999)]
 simplifier_type="fairseq_simplifier"  
-exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615919583538"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615921200485"  
 Unexpected error <class 'FileNotFoundError'>
 this run failed.

@@ -58,53 +58,52 @@ if __name__ == '__main__':
                 }
             }
         }
-    }
-    best_kwargs = {
-        'arch': 'transformer',
-        'warmup_updates': 4000,
-        'parametrization_budget': 64,
-        'beam': 4,
-        'dataset': 'simplification',
-        'dropout': 0.01322026984,
-        'fp16': False,
-        'label_smoothing': 0.08144495379,
-        'lr': 6.40E-06,
-        'lr_scheduler': 'fixed',
-        'max_epoch': 100,
-        'max_tokens': 5000,
-        'metrics_coefs': [0, 1, 0],
-        'optimizer': 'adam',
-        'validations_before_sari_early_stopping': 10,
-        'preprocessors_kwargs': {
-            'LengthRatioPreprocessor': {
-                'target_ratio': 0.65
-            },
-            'LevenshteinPreprocessor': {
-                'target_ratio': 0.4
-            },
-            'WordRankRatioPreprocessor': {
-                'target_ratio': 0.9
-            },
-            'DependencyTreeDepthRatioPreprocessor': {
-                'target_ratio': 0.45
-            },
-            'SentencePiecePreprocessor': {
-                'vocab_size': 10000
-            }
-        }
-    }
-    try:
-        fairseq_train_and_evaluate(**best_kwargs)
-    except:
-        print('Unexpected error', sys.exc_info()[0])
-        print('this run failed.')
-        # sys.stdout = orig_stdout
-        # f.close()
-        # path = 'resources/datasets/'
-        # pattern = os.path.join(path, "_*")
+    # best_kwargs = {
+    #     'arch': 'transformer',
+    #     'warmup_updates': 4000,
+    #     'parametrization_budget': 64,
+    #     'beam': 4,
+    #     'dataset': 'simplification',
+    #     'dropout': 0.01322026984,
+    #     'fp16': False,
+    #     'label_smoothing': 0.08144495379,
+    #     'lr': 6.40E-06,
+    #     'lr_scheduler': 'fixed',
+    #     'max_epoch': 100,
+    #     'max_tokens': 5000,
+    #     'metrics_coefs': [0, 1, 0],
+    #     'optimizer': 'adam',
+    #     'validations_before_sari_early_stopping': 10,
+    #     'preprocessors_kwargs': {
+    #         'LengthRatioPreprocessor': {
+    #             'target_ratio': 0.65
+    #         },
+    #         'LevenshteinPreprocessor': {
+    #             'target_ratio': 0.4
+    #         },
+    #         'WordRankRatioPreprocessor': {
+    #             'target_ratio': 0.9
+    #         },
+    #         'DependencyTreeDepthRatioPreprocessor': {
+    #             'target_ratio': 0.45
+    #         },
+    #         'SentencePiecePreprocessor': {
+    #             'vocab_size': 10000
+    #         }
+    #     }
+    # }
+            try:
+                fairseq_train_and_evaluate(**best_kwargs)
+            except:
+                print('Unexpected error', sys.exc_info()[0])
+            print('this run failed.')
+            sys.stdout = orig_stdout
+            f.close()
+            path = 'resources/datasets/'
+            pattern = os.path.join(path, "_*")
 
-        # for item in glob(pattern):
-        #     if not os.path.isdir(item):
-        #         continue
-        #     rmtree(item)
-        #     print('removing', item)
+            for item in glob(pattern):
+                if not os.path.isdir(item):
+                    continue
+                rmtree(item)
+                print('removing', item)
