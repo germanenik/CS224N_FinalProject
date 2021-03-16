@@ -17,7 +17,7 @@ from shutil import rmtree
 if __name__ == '__main__':
     while(True):
         orig_stdout = sys.stdout
-        f = open(f'{uuid.uuid4()}.txt', 'w')
+        f = open(f'{uuid.uuid4()}.txt', 'w+')
         sys.stdout = f
         print('Training a model from scratch')
         prepare_wikilarge()

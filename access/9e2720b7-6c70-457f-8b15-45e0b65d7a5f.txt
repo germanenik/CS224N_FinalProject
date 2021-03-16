@@ -1,0 +1,225 @@
+Training a model from scratch
+method_name='fairseq_train_and_evaluate'
+args=()
+kwargs={'arch': 'transformer', 'warmup_updates': 4000, 'parametrization_budget': 256, 'beam': 10, 'dataset': 'simplification', 'dropout': 0.009464238732083574, 'fp16': False, 'label_smoothing': 0.4773879516837538, 'lr': 0.00042791113625512134, 'lr_scheduler': 'fixed', 'max_epoch': 100, 'max_tokens': 5000, 'metrics_coefs': [0, 1, 0], 'optimizer': 'adam', 'validations_before_sari_early_stopping': 10, 'preprocessors_kwargs': {'LengthRatioPreprocessor': {'target_ratio': 0.39159016735426067}, 'LevenshteinPreprocessor': {'target_ratio': 0.7494252763115123}, 'WordRankRatioPreprocessor': {'target_ratio': 0.9396877545214134}, 'DependencyTreeDepthRatioPreprocessor': {'target_ratio': 0.791993667101705}, 'SentencePiecePreprocessor': {'vocab_size': 10000}}}
+Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_95d59ef23905a3bb8a2b6e2e63a54b6d...
+Creating preprocessed dataset with LengthRatioPreprocessor(target_ratio=0.39159016735426067): simplification -> _95d59ef23905a3bb8a2b6e2e63a54b6d
+Namespace(adam_betas='(0.9, 0.999)', adam_eps=1e-08, adaptive_input=False, adaptive_softmax_cutoff=None, adaptive_softmax_dropout=0, arch='transformer', attention_dropout=0.0, bucket_cap_mb=25, clip_norm=0.1, cpu=False, criterion='label_smoothed_cross_entropy', curriculum=0, data=['/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed'], ddp_backend='c10d', decoder_attention_heads=8, decoder_embed_dim=512, decoder_embed_path=None, decoder_ffn_embed_dim=2048, decoder_input_dim=512, decoder_layers=6, decoder_learned_pos=False, decoder_normalize_before=False, decoder_output_dim=512, device_id=0, distributed_backend='nccl', distributed_init_method=None, distributed_port=-1, distributed_rank=0, distributed_world_size=1, dropout=0.009464238732083574, encoder_attention_heads=8, encoder_embed_dim=512, encoder_embed_path=None, encoder_ffn_embed_dim=2048, encoder_layers=6, encoder_learned_pos=False, encoder_normalize_before=False, fix_batches_to_gpus=False, force_anneal=None, fp16=False, fp16_init_scale=128, fp16_scale_tolerance=0.0, fp16_scale_window=None, keep_interval_updates=-1, keep_last_epochs=1, label_smoothing=0.4773879516837538, lazy_load=False, left_pad_source='True', left_pad_target='False', log_format=None, log_interval=1000, lr=[0.00042791113625512134], lr_scheduler='fixed', lr_shrink=0.5, max_epoch=100, max_sentences=None, max_sentences_valid=None, max_source_positions=1024, max_target_positions=1024, max_tokens=5000, max_update=0, memory_efficient_fp16=False, min_loss_scale=0.0001, min_lr=1e-09, momentum=0.99, no_epoch_checkpoints=False, no_progress_bar=False, no_save=False, no_token_positional_embeddings=False, num_workers=0, optimizer='adam', optimizer_overrides='{}', raw_text=True, relu_dropout=0.0, required_batch_size_multiple=8, reset_lr_scheduler=False, reset_optimizer=False, restore_file='/home/varun/CS224N_FinalProject/access/model/checkpoints/checkpoint_best.pt', save_dir='/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615858049565/checkpoints', save_interval=1, save_interval_updates=0, seed=955, sentence_avg=False, share_all_embeddings=False, share_decoder_input_output_embed=False, skip_invalid_size_inputs_valid_test=False, source_lang='complex', target_lang='simple', task='translation', tensorboard_logdir='tensorboard', threshold_loss_scale=None, train_subset='train', update_freq=[1], upsample_primary=1, user_dir=None, valid_subset='valid', validate_interval=1, validations_before_sari_early_stopping=10.0, warmup_updates=4000, weight_decay=0.0001)
+| [complex] dictionary: 10144 types
+| [simple] dictionary: 10048 types
+| /home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed train 4728 examples
+| /home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed valid 260 examples
+TransformerModel(
+  (encoder): TransformerEncoder(
+    (embed_tokens): Embedding(10144, 512, padding_idx=1)
+    (embed_positions): SinusoidalPositionalEmbedding()
+    (layers): ModuleList(
+      (0): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+      (1): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+      (2): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+      (3): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+      (4): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+      (5): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+    )
+  )
+  (decoder): TransformerDecoder(
+    (embed_tokens): Embedding(10048, 512, padding_idx=1)
+    (embed_positions): SinusoidalPositionalEmbedding()
+    (layers): ModuleList(
+      (0): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+      (1): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+      (2): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+      (3): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+      (4): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+      (5): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+    )
+  )
+)
+| model transformer, criterion LabelSmoothedCrossEntropyCriterion
+| num. model params: 59621376 (num. trained: 59621376)
+| training on 1 GPUs
+| max tokens per GPU = 5000 and max sentences per GPU = None
+| WARNING: 1 samples have invalid sizes and will be skipped, max_positions=(1024, 1024), first few sample ids=[1103]
+| loaded checkpoint /home/varun/CS224N_FinalProject/access/model/checkpoints/checkpoint_best.pt (epoch 27 @ 67959 updates)
+| epoch 028 | loss 11.044 | nll_loss 8.058 | ppl 266.55 | wps 951 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 68029 | lr 1.06978e-07 | gnorm 3.571 | clip 1.000 | oom 0.000 | wall 82 | train_wall 11270
+num_updates=68029
+ts_scores={'BLEU': 0.78, 'SARI': 17.59, 'FKGL': 0, 'Compression ratio': 0.37, 'Sentence splits': 1.43, 'Levenshtein similarity': 0.23, 'Exact copies': 0.0, 'Additions proportion': 0.59, 'Deletions proportion': 0.92, 'Lexical complexity score': 8.14}
+| epoch 029 | loss 10.995 | nll_loss 7.980 | ppl 252.39 | wps 958 | ups 0 | wpb 1132.943 | bsz 67.529 | num_updates 68099 | lr 1.06978e-07 | gnorm 3.490 | clip 1.000 | oom 0.000 | wall 249 | train_wall 11351
+num_updates=68099
+ts_scores={'BLEU': 0.77, 'SARI': 17.58, 'FKGL': 0, 'Compression ratio': 0.37, 'Sentence splits': 1.41, 'Levenshtein similarity': 0.23, 'Exact copies': 0.0, 'Additions proportion': 0.59, 'Deletions proportion': 0.92, 'Lexical complexity score': 8.13}
+SARI did not improve for 1 validations
+| epoch 030 | loss 10.951 | nll_loss 7.908 | ppl 240.20 | wps 959 | ups 0 | wpb 1132.943 | bsz 67.529 | num_updates 68169 | lr 1.06978e-07 | gnorm 3.412 | clip 1.000 | oom 0.000 | wall 418 | train_wall 11434
+num_updates=68169
+ts_scores={'BLEU': 0.79, 'SARI': 17.57, 'FKGL': 0, 'Compression ratio': 0.37, 'Sentence splits': 1.41, 'Levenshtein similarity': 0.23, 'Exact copies': 0.0, 'Additions proportion': 0.59, 'Deletions proportion': 0.92, 'Lexical complexity score': 8.11}
+SARI did not improve for 2 validations
+| epoch 031 | loss 10.912 | nll_loss 7.844 | ppl 229.71 | wps 946 | ups 0 | wpb 1132.943 | bsz 67.529 | num_updates 68239 | lr 1.06978e-07 | gnorm 3.329 | clip 1.000 | oom 0.000 | wall 585 | train_wall 11517
+num_updates=68239
+ts_scores={'BLEU': 0.83, 'SARI': 17.59, 'FKGL': 0, 'Compression ratio': 0.37, 'Sentence splits': 1.41, 'Levenshtein similarity': 0.23, 'Exact copies': 0.0, 'Additions proportion': 0.58, 'Deletions proportion': 0.92, 'Lexical complexity score': 8.1}
+SARI did not improve for 3 validations
+| epoch 032 | loss 10.873 | nll_loss 7.781 | ppl 219.89 | wps 969 | ups 0 | wpb 1132.943 | bsz 67.529 | num_updates 68309 | lr 1.06978e-07 | gnorm 3.301 | clip 1.000 | oom 0.000 | wall 750 | train_wall 11599
+num_updates=68309
+ts_scores={'BLEU': 0.81, 'SARI': 17.56, 'FKGL': 0, 'Compression ratio': 0.37, 'Sentence splits': 1.38, 'Levenshtein similarity': 0.23, 'Exact copies': 0.0, 'Additions proportion': 0.58, 'Deletions proportion': 0.92, 'Lexical complexity score': 8.08}
+SARI did not improve for 4 validations
+| epoch 033 | loss 10.836 | nll_loss 7.718 | ppl 210.50 | wps 964 | ups 0 | wpb 1132.943 | bsz 67.529 | num_updates 68379 | lr 1.06978e-07 | gnorm 3.250 | clip 1.000 | oom 0.000 | wall 916 | train_wall 11681
+num_updates=68379
+ts_scores={'BLEU': 0.82, 'SARI': 17.55, 'FKGL': 0, 'Compression ratio': 0.37, 'Sentence splits': 1.41, 'Levenshtein similarity': 0.22, 'Exact copies': 0.0, 'Additions proportion': 0.58, 'Deletions proportion': 0.92, 'Lexical complexity score': 8.05}
+SARI did not improve for 5 validations
+| epoch 034 | loss 10.802 | nll_loss 7.662 | ppl 202.47 | wps 963 | ups 0 | wpb 1132.943 | bsz 67.529 | num_updates 68449 | lr 1.06978e-07 | gnorm 3.179 | clip 1.000 | oom 0.000 | wall 1082 | train_wall 11763
+num_updates=68449
+ts_scores={'BLEU': 0.83, 'SARI': 17.56, 'FKGL': 0, 'Compression ratio': 0.37, 'Sentence splits': 1.43, 'Levenshtein similarity': 0.22, 'Exact copies': 0.0, 'Additions proportion': 0.58, 'Deletions proportion': 0.92, 'Lexical complexity score': 8.06}
+SARI did not improve for 6 validations
+| epoch 035 | loss 10.767 | nll_loss 7.603 | ppl 194.46 | wps 952 | ups 0 | wpb 1132.943 | bsz 67.529 | num_updates 68519 | lr 1.06978e-07 | gnorm 3.115 | clip 1.000 | oom 0.000 | wall 1251 | train_wall 11845
+num_updates=68519
+ts_scores={'BLEU': 0.84, 'SARI': 17.57, 'FKGL': 0, 'Compression ratio': 0.36, 'Sentence splits': 1.34, 'Levenshtein similarity': 0.22, 'Exact copies': 0.0, 'Additions proportion': 0.58, 'Deletions proportion': 0.93, 'Lexical complexity score': 8.05}
+SARI did not improve for 7 validations
+| epoch 036 | loss 10.736 | nll_loss 7.550 | ppl 187.46 | wps 949 | ups 0 | wpb 1132.943 | bsz 67.529 | num_updates 68589 | lr 1.06978e-07 | gnorm 3.128 | clip 1.000 | oom 0.000 | wall 1416 | train_wall 11927
+num_updates=68589
+ts_scores={'BLEU': 0.84, 'SARI': 17.55, 'FKGL': 0, 'Compression ratio': 0.36, 'Sentence splits': 1.4, 'Levenshtein similarity': 0.22, 'Exact copies': 0.0, 'Additions proportion': 0.57, 'Deletions proportion': 0.93, 'Lexical complexity score': 8.04}
+SARI did not improve for 8 validations
+| epoch 037 | loss 10.704 | nll_loss 7.496 | ppl 180.55 | wps 966 | ups 0 | wpb 1132.943 | bsz 67.529 | num_updates 68659 | lr 1.06978e-07 | gnorm 3.027 | clip 1.000 | oom 0.000 | wall 1581 | train_wall 12008
+num_updates=68659
+ts_scores={'BLEU': 0.84, 'SARI': 17.53, 'FKGL': 0, 'Compression ratio': 0.36, 'Sentence splits': 1.39, 'Levenshtein similarity': 0.22, 'Exact copies': 0.0, 'Additions proportion': 0.58, 'Deletions proportion': 0.93, 'Lexical complexity score': 8.04}
+SARI did not improve for 9 validations
+| epoch 038 | loss 10.673 | nll_loss 7.444 | ppl 174.08 | wps 963 | ups 0 | wpb 1132.943 | bsz 67.529 | num_updates 68729 | lr 1.06978e-07 | gnorm 2.979 | clip 1.000 | oom 0.000 | wall 1748 | train_wall 12090
+num_updates=68729
+ts_scores={'BLEU': 0.83, 'SARI': 17.51, 'FKGL': 0, 'Compression ratio': 0.36, 'Sentence splits': 1.35, 'Levenshtein similarity': 0.22, 'Exact copies': 0.0, 'Additions proportion': 0.57, 'Deletions proportion': 0.93, 'Lexical complexity score': 8.04}
+SARI did not improve for 10 validations
+Early stopping because SARI did not improve for 10 validations
+| done training in 1831.4 seconds
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.4), LengthRatioPreprocessor(target_ratio=0.8999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615858049565"  
+Unexpected error <class 'FileNotFoundError'>
+this run failed.
