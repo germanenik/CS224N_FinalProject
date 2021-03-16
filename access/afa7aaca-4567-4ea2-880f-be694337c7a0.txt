@@ -1,0 +1,1147 @@
+Training a model from scratch
+method_name='fairseq_train_and_evaluate'
+args=()
+kwargs={'arch': 'transformer', 'warmup_updates': 4000, 'parametrization_budget': 256, 'beam': 6, 'dataset': 'simplification', 'dropout': 0.8132532560866982, 'fp16': False, 'label_smoothing': 0.28730573197096765, 'lr': 0.0005380717907721748, 'lr_scheduler': 'fixed', 'max_epoch': 100, 'max_tokens': 5000, 'metrics_coefs': [0, 1, 0], 'optimizer': 'adam', 'validations_before_sari_early_stopping': 10, 'preprocessors_kwargs': {'LengthRatioPreprocessor': {'target_ratio': 0.057444036057584746}, 'LevenshteinPreprocessor': {'target_ratio': 0.23753437776032826}, 'WordRankRatioPreprocessor': {'target_ratio': 0.9207186419546434}, 'DependencyTreeDepthRatioPreprocessor': {'target_ratio': 0.5429245735174082}, 'SentencePiecePreprocessor': {'vocab_size': 10000}}}
+Namespace(adam_betas='(0.9, 0.999)', adam_eps=1e-08, adaptive_input=False, adaptive_softmax_cutoff=None, adaptive_softmax_dropout=0, arch='transformer', attention_dropout=0.0, bucket_cap_mb=25, clip_norm=0.1, cpu=False, criterion='label_smoothed_cross_entropy', curriculum=0, data=['/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed'], ddp_backend='c10d', decoder_attention_heads=8, decoder_embed_dim=512, decoder_embed_path=None, decoder_ffn_embed_dim=2048, decoder_input_dim=512, decoder_layers=6, decoder_learned_pos=False, decoder_normalize_before=False, decoder_output_dim=512, device_id=0, distributed_backend='nccl', distributed_init_method=None, distributed_port=-1, distributed_rank=0, distributed_world_size=1, dropout=0.8132532560866982, encoder_attention_heads=8, encoder_embed_dim=512, encoder_embed_path=None, encoder_ffn_embed_dim=2048, encoder_layers=6, encoder_learned_pos=False, encoder_normalize_before=False, fix_batches_to_gpus=False, force_anneal=None, fp16=False, fp16_init_scale=128, fp16_scale_tolerance=0.0, fp16_scale_window=None, keep_interval_updates=-1, keep_last_epochs=1, label_smoothing=0.28730573197096765, lazy_load=False, left_pad_source='True', left_pad_target='False', log_format=None, log_interval=1000, lr=[0.0005380717907721748], lr_scheduler='fixed', lr_shrink=0.5, max_epoch=100, max_sentences=None, max_sentences_valid=None, max_source_positions=1024, max_target_positions=1024, max_tokens=5000, max_update=0, memory_efficient_fp16=False, min_loss_scale=0.0001, min_lr=1e-09, momentum=0.99, no_epoch_checkpoints=False, no_progress_bar=False, no_save=False, no_token_positional_embeddings=False, num_workers=0, optimizer='adam', optimizer_overrides='{}', raw_text=True, relu_dropout=0.0, required_batch_size_multiple=8, reset_lr_scheduler=False, reset_optimizer=False, restore_file='/home/varun/CS224N_FinalProject/access/model/checkpoints/checkpoint_best.pt', save_dir='/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683/checkpoints', save_interval=1, save_interval_updates=0, seed=524, sentence_avg=False, share_all_embeddings=False, share_decoder_input_output_embed=False, skip_invalid_size_inputs_valid_test=False, source_lang='complex', target_lang='simple', task='translation', tensorboard_logdir='tensorboard', threshold_loss_scale=None, train_subset='train', update_freq=[1], upsample_primary=1, user_dir=None, valid_subset='valid', validate_interval=1, validations_before_sari_early_stopping=10.0, warmup_updates=4000, weight_decay=0.0001)
+| [complex] dictionary: 10144 types
+| [simple] dictionary: 10048 types
+| /home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed train 4728 examples
+| /home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed valid 260 examples
+TransformerModel(
+  (encoder): TransformerEncoder(
+    (embed_tokens): Embedding(10144, 512, padding_idx=1)
+    (embed_positions): SinusoidalPositionalEmbedding()
+    (layers): ModuleList(
+      (0): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+      (1): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+      (2): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+      (3): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+      (4): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+      (5): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+    )
+  )
+  (decoder): TransformerDecoder(
+    (embed_tokens): Embedding(10048, 512, padding_idx=1)
+    (embed_positions): SinusoidalPositionalEmbedding()
+    (layers): ModuleList(
+      (0): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+      (1): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+      (2): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+      (3): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+      (4): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+      (5): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+    )
+  )
+)
+| model transformer, criterion LabelSmoothedCrossEntropyCriterion
+| num. model params: 59621376 (num. trained: 59621376)
+| training on 1 GPUs
+| max tokens per GPU = 5000 and max sentences per GPU = None
+| WARNING: 1 samples have invalid sizes and will be skipped, max_positions=(1024, 1024), first few sample ids=[1103]
+| loaded checkpoint /home/varun/CS224N_FinalProject/access/model/checkpoints/checkpoint_best.pt (epoch 27 @ 67959 updates)
+| epoch 028 | loss 13.093 | nll_loss 12.864 | ppl 7453.05 | wps 1591 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 68029 | lr 1.34518e-07 | gnorm 10.467 | clip 1.000 | oom 0.000 | wall 50 | train_wall 11237
+num_updates=68029
+ts_scores={'BLEU': 67.66, 'SARI': 39.69, 'FKGL': 7.19, 'Compression ratio': 1.02, 'Sentence splits': 1.21, 'Levenshtein similarity': 0.82, 'Exact copies': 0.04, 'Additions proportion': 0.24, 'Deletions proportion': 0.17, 'Lexical complexity score': 8.34}
+| epoch 029 | loss 13.049 | nll_loss 12.803 | ppl 7145.84 | wps 1590 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 68099 | lr 1.34518e-07 | gnorm 10.138 | clip 1.000 | oom 0.000 | wall 144 | train_wall 11287
+num_updates=68099
+ts_scores={'BLEU': 67.46, 'SARI': 39.7, 'FKGL': 7.18, 'Compression ratio': 1.02, 'Sentence splits': 1.21, 'Levenshtein similarity': 0.82, 'Exact copies': 0.04, 'Additions proportion': 0.24, 'Deletions proportion': 0.17, 'Lexical complexity score': 8.34}
+| epoch 030 | loss 13.009 | nll_loss 12.745 | ppl 6866.32 | wps 1584 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 68169 | lr 1.34518e-07 | gnorm 10.335 | clip 1.000 | oom 0.000 | wall 249 | train_wall 11337
+num_updates=68169
+ts_scores={'BLEU': 67.43, 'SARI': 39.73, 'FKGL': 7.19, 'Compression ratio': 1.02, 'Sentence splits': 1.21, 'Levenshtein similarity': 0.82, 'Exact copies': 0.04, 'Additions proportion': 0.24, 'Deletions proportion': 0.17, 'Lexical complexity score': 8.34}
+| epoch 031 | loss 12.963 | nll_loss 12.682 | ppl 6570.36 | wps 1577 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 68239 | lr 1.34518e-07 | gnorm 10.399 | clip 1.000 | oom 0.000 | wall 354 | train_wall 11387
+num_updates=68239
+ts_scores={'BLEU': 67.3, 'SARI': 39.74, 'FKGL': 7.15, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.82, 'Exact copies': 0.04, 'Additions proportion': 0.24, 'Deletions proportion': 0.17, 'Lexical complexity score': 8.33}
+| epoch 032 | loss 12.919 | nll_loss 12.620 | ppl 6293.13 | wps 1550 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 68309 | lr 1.34518e-07 | gnorm 10.315 | clip 1.000 | oom 0.000 | wall 459 | train_wall 11437
+num_updates=68309
+ts_scores={'BLEU': 67.25, 'SARI': 39.78, 'FKGL': 7.15, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.82, 'Exact copies': 0.04, 'Additions proportion': 0.24, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.33}
+| epoch 033 | loss 12.889 | nll_loss 12.577 | ppl 6111.36 | wps 1554 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 68379 | lr 1.34518e-07 | gnorm 10.027 | clip 1.000 | oom 0.000 | wall 564 | train_wall 11487
+num_updates=68379
+ts_scores={'BLEU': 67.13, 'SARI': 39.82, 'FKGL': 7.17, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.24, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.33}
+| epoch 034 | loss 12.849 | nll_loss 12.521 | ppl 5875.77 | wps 1569 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 68449 | lr 1.34518e-07 | gnorm 10.077 | clip 1.000 | oom 0.000 | wall 668 | train_wall 11537
+num_updates=68449
+ts_scores={'BLEU': 67.18, 'SARI': 39.84, 'FKGL': 7.16, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.82, 'Exact copies': 0.04, 'Additions proportion': 0.24, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.33}
+| epoch 035 | loss 12.818 | nll_loss 12.477 | ppl 5701.89 | wps 1579 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 68519 | lr 1.34518e-07 | gnorm 9.599 | clip 1.000 | oom 0.000 | wall 773 | train_wall 11587
+num_updates=68519
+ts_scores={'BLEU': 67.11, 'SARI': 39.88, 'FKGL': 7.16, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.24, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.33}
+| epoch 036 | loss 12.789 | nll_loss 12.435 | ppl 5537.91 | wps 1574 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 68589 | lr 1.34518e-07 | gnorm 9.612 | clip 1.000 | oom 0.000 | wall 878 | train_wall 11637
+num_updates=68589
+ts_scores={'BLEU': 66.98, 'SARI': 39.87, 'FKGL': 7.16, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.24, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.33}
+SARI did not improve for 1 validations
+| epoch 037 | loss 12.752 | nll_loss 12.383 | ppl 5341.42 | wps 1568 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 68659 | lr 1.34518e-07 | gnorm 9.804 | clip 1.000 | oom 0.000 | wall 986 | train_wall 11688
+num_updates=68659
+ts_scores={'BLEU': 66.84, 'SARI': 39.85, 'FKGL': 7.14, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.24, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.32}
+SARI did not improve for 2 validations
+| epoch 038 | loss 12.715 | nll_loss 12.331 | ppl 5150.82 | wps 1567 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 68729 | lr 1.34518e-07 | gnorm 9.760 | clip 1.000 | oom 0.000 | wall 1088 | train_wall 11738
+num_updates=68729
+ts_scores={'BLEU': 66.69, 'SARI': 39.83, 'FKGL': 7.13, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.24, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.32}
+SARI did not improve for 3 validations
+| epoch 039 | loss 12.695 | nll_loss 12.302 | ppl 5049.75 | wps 1565 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 68799 | lr 1.34518e-07 | gnorm 9.670 | clip 1.000 | oom 0.000 | wall 1193 | train_wall 11788
+num_updates=68799
+ts_scores={'BLEU': 66.57, 'SARI': 39.86, 'FKGL': 7.13, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.32}
+SARI did not improve for 4 validations
+| epoch 040 | loss 12.664 | nll_loss 12.257 | ppl 4895.38 | wps 1583 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 68869 | lr 1.34518e-07 | gnorm 9.197 | clip 1.000 | oom 0.000 | wall 1295 | train_wall 11838
+num_updates=68869
+ts_scores={'BLEU': 66.49, 'SARI': 39.9, 'FKGL': 7.11, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.32}
+| epoch 041 | loss 12.636 | nll_loss 12.217 | ppl 4762.32 | wps 1576 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 68939 | lr 1.34518e-07 | gnorm 9.266 | clip 1.000 | oom 0.000 | wall 1397 | train_wall 11888
+num_updates=68939
+ts_scores={'BLEU': 66.42, 'SARI': 39.9, 'FKGL': 7.09, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.32}
+SARI did not improve for 1 validations
+| epoch 042 | loss 12.614 | nll_loss 12.187 | ppl 4661.47 | wps 1564 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 69009 | lr 1.34518e-07 | gnorm 9.331 | clip 1.000 | oom 0.000 | wall 1499 | train_wall 11938
+num_updates=69009
+ts_scores={'BLEU': 66.25, 'SARI': 39.86, 'FKGL': 7.09, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.32}
+SARI did not improve for 2 validations
+| epoch 043 | loss 12.582 | nll_loss 12.140 | ppl 4512.31 | wps 1574 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 69079 | lr 1.34518e-07 | gnorm 9.027 | clip 1.000 | oom 0.000 | wall 1601 | train_wall 11988
+num_updates=69079
+ts_scores={'BLEU': 66.1, 'SARI': 39.86, 'FKGL': 7.08, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.32}
+SARI did not improve for 3 validations
+| epoch 044 | loss 12.548 | nll_loss 12.092 | ppl 4366.46 | wps 1580 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 69149 | lr 1.34518e-07 | gnorm 8.933 | clip 1.000 | oom 0.000 | wall 1704 | train_wall 12039
+num_updates=69149
+ts_scores={'BLEU': 66.05, 'SARI': 39.87, 'FKGL': 7.1, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.32}
+SARI did not improve for 4 validations
+| epoch 045 | loss 12.533 | nll_loss 12.070 | ppl 4300.48 | wps 1557 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 69219 | lr 1.34518e-07 | gnorm 8.852 | clip 1.000 | oom 0.000 | wall 1806 | train_wall 12089
+num_updates=69219
+ts_scores={'BLEU': 65.84, 'SARI': 39.87, 'FKGL': 7.07, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.31}
+SARI did not improve for 5 validations
+| epoch 046 | loss 12.502 | nll_loss 12.026 | ppl 4171.61 | wps 1576 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 69289 | lr 1.34518e-07 | gnorm 9.385 | clip 1.000 | oom 0.000 | wall 1909 | train_wall 12139
+num_updates=69289
+ts_scores={'BLEU': 65.75, 'SARI': 39.9, 'FKGL': 7.08, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.31}
+SARI did not improve for 6 validations
+| epoch 047 | loss 12.482 | nll_loss 11.997 | ppl 4088.01 | wps 1573 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 69359 | lr 1.34518e-07 | gnorm 8.969 | clip 1.000 | oom 0.000 | wall 2014 | train_wall 12189
+num_updates=69359
+ts_scores={'BLEU': 65.8, 'SARI': 39.9, 'FKGL': 7.09, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.31}
+SARI did not improve for 7 validations
+| epoch 048 | loss 12.461 | nll_loss 11.966 | ppl 4001.87 | wps 1547 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 69429 | lr 1.34518e-07 | gnorm 8.609 | clip 1.000 | oom 0.000 | wall 2120 | train_wall 12239
+num_updates=69429
+ts_scores={'BLEU': 65.65, 'SARI': 39.94, 'FKGL': 7.09, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.31}
+| epoch 049 | loss 12.436 | nll_loss 11.930 | ppl 3902.70 | wps 1566 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 69499 | lr 1.34518e-07 | gnorm 8.539 | clip 1.000 | oom 0.000 | wall 2225 | train_wall 12289
+num_updates=69499
+ts_scores={'BLEU': 65.6, 'SARI': 39.94, 'FKGL': 7.07, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.31}
+SARI did not improve for 1 validations
+| epoch 050 | loss 12.413 | nll_loss 11.898 | ppl 3815.25 | wps 1561 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 69569 | lr 1.34518e-07 | gnorm 8.398 | clip 1.000 | oom 0.000 | wall 2332 | train_wall 12339
+num_updates=69569
+ts_scores={'BLEU': 65.48, 'SARI': 39.94, 'FKGL': 7.06, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.31}
+SARI did not improve for 2 validations
+| epoch 051 | loss 12.390 | nll_loss 11.865 | ppl 3730.10 | wps 1574 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 69639 | lr 1.34518e-07 | gnorm 8.398 | clip 1.000 | oom 0.000 | wall 2440 | train_wall 12390
+num_updates=69639
+ts_scores={'BLEU': 65.52, 'SARI': 39.94, 'FKGL': 7.08, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.18, 'Lexical complexity score': 8.31}
+SARI did not improve for 3 validations
+| epoch 052 | loss 12.379 | nll_loss 11.848 | ppl 3686.18 | wps 1557 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 69709 | lr 1.34518e-07 | gnorm 8.269 | clip 1.000 | oom 0.000 | wall 2548 | train_wall 12440
+num_updates=69709
+ts_scores={'BLEU': 65.41, 'SARI': 39.93, 'FKGL': 7.09, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.31}
+SARI did not improve for 4 validations
+| epoch 053 | loss 12.353 | nll_loss 11.811 | ppl 3592.37 | wps 1556 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 69779 | lr 1.34518e-07 | gnorm 8.084 | clip 1.000 | oom 0.000 | wall 2653 | train_wall 12490
+num_updates=69779
+ts_scores={'BLEU': 65.43, 'SARI': 39.95, 'FKGL': 7.1, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.31}
+| epoch 054 | loss 12.334 | nll_loss 11.782 | ppl 3522.55 | wps 1556 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 69849 | lr 1.34518e-07 | gnorm 7.979 | clip 1.000 | oom 0.000 | wall 2758 | train_wall 12540
+num_updates=69849
+ts_scores={'BLEU': 65.41, 'SARI': 39.93, 'FKGL': 7.1, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.3}
+SARI did not improve for 1 validations
+| epoch 055 | loss 12.315 | nll_loss 11.755 | ppl 3456.92 | wps 1575 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 69919 | lr 1.34518e-07 | gnorm 8.136 | clip 1.000 | oom 0.000 | wall 2863 | train_wall 12590
+num_updates=69919
+ts_scores={'BLEU': 65.23, 'SARI': 39.93, 'FKGL': 7.07, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.3}
+SARI did not improve for 2 validations
+| epoch 056 | loss 12.296 | nll_loss 11.727 | ppl 3390.75 | wps 1547 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 69989 | lr 1.34518e-07 | gnorm 7.905 | clip 1.000 | oom 0.000 | wall 2968 | train_wall 12641
+num_updates=69989
+ts_scores={'BLEU': 65.08, 'SARI': 39.93, 'FKGL': 7.08, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.3}
+SARI did not improve for 3 validations
+| epoch 057 | loss 12.273 | nll_loss 11.694 | ppl 3313.65 | wps 1568 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 70059 | lr 1.34518e-07 | gnorm 7.823 | clip 1.000 | oom 0.000 | wall 3073 | train_wall 12691
+num_updates=70059
+ts_scores={'BLEU': 65.11, 'SARI': 39.93, 'FKGL': 7.06, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.3}
+SARI did not improve for 4 validations
+| epoch 058 | loss 12.260 | nll_loss 11.675 | ppl 3269.52 | wps 1575 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 70129 | lr 1.34518e-07 | gnorm 7.987 | clip 1.000 | oom 0.000 | wall 3180 | train_wall 12741
+num_updates=70129
+ts_scores={'BLEU': 65.13, 'SARI': 39.94, 'FKGL': 7.07, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.04, 'Additions proportion': 0.25, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.3}
+SARI did not improve for 5 validations
+| epoch 059 | loss 12.249 | nll_loss 11.659 | ppl 3233.36 | wps 1564 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 70199 | lr 1.34518e-07 | gnorm 7.838 | clip 1.000 | oom 0.000 | wall 3289 | train_wall 12791
+num_updates=70199
+ts_scores={'BLEU': 64.95, 'SARI': 39.96, 'FKGL': 7.06, 'Compression ratio': 1.02, 'Sentence splits': 1.22, 'Levenshtein similarity': 0.81, 'Exact copies': 0.03, 'Additions proportion': 0.25, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.3}
+| epoch 060 | loss 12.230 | nll_loss 11.631 | ppl 3170.94 | wps 1564 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 70269 | lr 1.34518e-07 | gnorm 8.038 | clip 1.000 | oom 0.000 | wall 3394 | train_wall 12841
+num_updates=70269
+ts_scores={'BLEU': 65.08, 'SARI': 39.98, 'FKGL': 7.19, 'Compression ratio': 1.02, 'Sentence splits': 1.21, 'Levenshtein similarity': 0.81, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.3}
+| epoch 061 | loss 12.210 | nll_loss 11.602 | ppl 3109.20 | wps 1564 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 70339 | lr 1.34518e-07 | gnorm 7.493 | clip 1.000 | oom 0.000 | wall 3499 | train_wall 12891
+num_updates=70339
+ts_scores={'BLEU': 65.04, 'SARI': 39.99, 'FKGL': 7.19, 'Compression ratio': 1.02, 'Sentence splits': 1.21, 'Levenshtein similarity': 0.81, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.3}
+| epoch 062 | loss 12.199 | nll_loss 11.585 | ppl 3071.60 | wps 1572 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 70409 | lr 1.34518e-07 | gnorm 7.652 | clip 1.000 | oom 0.000 | wall 3601 | train_wall 12942
+num_updates=70409
+ts_scores={'BLEU': 65.07, 'SARI': 39.96, 'FKGL': 7.17, 'Compression ratio': 1.02, 'Sentence splits': 1.21, 'Levenshtein similarity': 0.81, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.29}
+SARI did not improve for 1 validations
+| epoch 063 | loss 12.181 | nll_loss 11.559 | ppl 3017.29 | wps 1572 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 70479 | lr 1.34518e-07 | gnorm 7.447 | clip 1.000 | oom 0.000 | wall 3702 | train_wall 12992
+num_updates=70479
+ts_scores={'BLEU': 65.04, 'SARI': 39.96, 'FKGL': 7.18, 'Compression ratio': 1.02, 'Sentence splits': 1.21, 'Levenshtein similarity': 0.81, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.3}
+SARI did not improve for 2 validations
+| epoch 064 | loss 12.160 | nll_loss 11.528 | ppl 2952.88 | wps 1571 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 70549 | lr 1.34518e-07 | gnorm 7.540 | clip 1.000 | oom 0.000 | wall 3802 | train_wall 13042
+num_updates=70549
+ts_scores={'BLEU': 64.91, 'SARI': 39.96, 'FKGL': 7.17, 'Compression ratio': 1.02, 'Sentence splits': 1.21, 'Levenshtein similarity': 0.8, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.3}
+SARI did not improve for 3 validations
+| epoch 065 | loss 12.148 | nll_loss 11.510 | ppl 2916.54 | wps 1554 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 70619 | lr 1.34518e-07 | gnorm 7.308 | clip 1.000 | oom 0.000 | wall 3903 | train_wall 13092
+num_updates=70619
+ts_scores={'BLEU': 64.81, 'SARI': 39.95, 'FKGL': 7.18, 'Compression ratio': 1.02, 'Sentence splits': 1.21, 'Levenshtein similarity': 0.8, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.29}
+SARI did not improve for 4 validations
+| epoch 066 | loss 12.139 | nll_loss 11.497 | ppl 2889.68 | wps 1563 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 70689 | lr 1.34518e-07 | gnorm 7.558 | clip 1.000 | oom 0.000 | wall 4004 | train_wall 13142
+num_updates=70689
+ts_scores={'BLEU': 64.84, 'SARI': 39.96, 'FKGL': 7.18, 'Compression ratio': 1.02, 'Sentence splits': 1.21, 'Levenshtein similarity': 0.8, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.29}
+SARI did not improve for 5 validations
+| epoch 067 | loss 12.120 | nll_loss 11.468 | ppl 2833.74 | wps 1573 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 70759 | lr 1.34518e-07 | gnorm 7.265 | clip 1.000 | oom 0.000 | wall 4104 | train_wall 13193
+num_updates=70759
+ts_scores={'BLEU': 64.8, 'SARI': 39.97, 'FKGL': 7.18, 'Compression ratio': 1.02, 'Sentence splits': 1.21, 'Levenshtein similarity': 0.8, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.29}
+SARI did not improve for 6 validations
+| epoch 068 | loss 12.109 | nll_loss 11.452 | ppl 2802.43 | wps 1559 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 70829 | lr 1.34518e-07 | gnorm 7.204 | clip 1.000 | oom 0.000 | wall 4205 | train_wall 13243
+num_updates=70829
+ts_scores={'BLEU': 64.81, 'SARI': 39.98, 'FKGL': 7.17, 'Compression ratio': 1.02, 'Sentence splits': 1.21, 'Levenshtein similarity': 0.8, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.3}
+SARI did not improve for 7 validations
+| epoch 069 | loss 12.096 | nll_loss 11.433 | ppl 2763.95 | wps 1550 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 70899 | lr 1.34518e-07 | gnorm 6.997 | clip 1.000 | oom 0.000 | wall 4306 | train_wall 13293
+num_updates=70899
+ts_scores={'BLEU': 64.82, 'SARI': 39.98, 'FKGL': 7.2, 'Compression ratio': 1.02, 'Sentence splits': 1.21, 'Levenshtein similarity': 0.8, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.29}
+SARI did not improve for 8 validations
+| epoch 070 | loss 12.078 | nll_loss 11.406 | ppl 2713.56 | wps 1570 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 70969 | lr 1.34518e-07 | gnorm 7.036 | clip 1.000 | oom 0.000 | wall 4406 | train_wall 13343
+num_updates=70969
+ts_scores={'BLEU': 64.81, 'SARI': 40.01, 'FKGL': 7.21, 'Compression ratio': 1.02, 'Sentence splits': 1.21, 'Levenshtein similarity': 0.8, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.3}
+| epoch 071 | loss 12.068 | nll_loss 11.392 | ppl 2686.82 | wps 1555 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 71039 | lr 1.34518e-07 | gnorm 7.193 | clip 1.000 | oom 0.000 | wall 4508 | train_wall 13393
+num_updates=71039
+ts_scores={'BLEU': 64.66, 'SARI': 40.01, 'FKGL': 7.24, 'Compression ratio': 1.02, 'Sentence splits': 1.2, 'Levenshtein similarity': 0.8, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.29}
+SARI did not improve for 1 validations
+| epoch 072 | loss 12.055 | nll_loss 11.371 | ppl 2649.44 | wps 1579 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 71109 | lr 1.34518e-07 | gnorm 6.836 | clip 1.000 | oom 0.000 | wall 4610 | train_wall 13443
+num_updates=71109
+ts_scores={'BLEU': 64.64, 'SARI': 39.97, 'FKGL': 7.25, 'Compression ratio': 1.02, 'Sentence splits': 1.2, 'Levenshtein similarity': 0.8, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.29}
+SARI did not improve for 2 validations
+| epoch 073 | loss 12.040 | nll_loss 11.350 | ppl 2610.53 | wps 1551 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 71179 | lr 1.34518e-07 | gnorm 7.138 | clip 1.000 | oom 0.000 | wall 4711 | train_wall 13494
+num_updates=71179
+ts_scores={'BLEU': 64.58, 'SARI': 39.97, 'FKGL': 7.26, 'Compression ratio': 1.02, 'Sentence splits': 1.2, 'Levenshtein similarity': 0.8, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.29}
+SARI did not improve for 3 validations
+| epoch 074 | loss 12.028 | nll_loss 11.332 | ppl 2577.30 | wps 1548 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 71249 | lr 1.34518e-07 | gnorm 6.785 | clip 1.000 | oom 0.000 | wall 4813 | train_wall 13544
+num_updates=71249
+ts_scores={'BLEU': 64.44, 'SARI': 39.96, 'FKGL': 7.26, 'Compression ratio': 1.02, 'Sentence splits': 1.2, 'Levenshtein similarity': 0.8, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.28}
+SARI did not improve for 4 validations
+| epoch 075 | loss 12.016 | nll_loss 11.313 | ppl 2544.12 | wps 1558 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 71319 | lr 1.34518e-07 | gnorm 6.820 | clip 1.000 | oom 0.000 | wall 4915 | train_wall 13594
+num_updates=71319
+ts_scores={'BLEU': 64.43, 'SARI': 39.98, 'FKGL': 7.25, 'Compression ratio': 1.02, 'Sentence splits': 1.2, 'Levenshtein similarity': 0.8, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.28}
+SARI did not improve for 5 validations
+| epoch 076 | loss 12.005 | nll_loss 11.297 | ppl 2515.78 | wps 1572 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 71389 | lr 1.34518e-07 | gnorm 6.810 | clip 1.000 | oom 0.000 | wall 5016 | train_wall 13644
+num_updates=71389
+ts_scores={'BLEU': 64.35, 'SARI': 39.98, 'FKGL': 7.24, 'Compression ratio': 1.02, 'Sentence splits': 1.2, 'Levenshtein similarity': 0.8, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.28}
+SARI did not improve for 6 validations
+| epoch 077 | loss 11.994 | nll_loss 11.281 | ppl 2488.01 | wps 1578 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 71459 | lr 1.34518e-07 | gnorm 6.625 | clip 1.000 | oom 0.000 | wall 5118 | train_wall 13694
+num_updates=71459
+ts_scores={'BLEU': 64.23, 'SARI': 39.98, 'FKGL': 7.25, 'Compression ratio': 1.02, 'Sentence splits': 1.2, 'Levenshtein similarity': 0.8, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.28}
+SARI did not improve for 7 validations
+| epoch 078 | loss 11.978 | nll_loss 11.257 | ppl 2447.44 | wps 1567 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 71529 | lr 1.34518e-07 | gnorm 7.040 | clip 1.000 | oom 0.000 | wall 5219 | train_wall 13744
+num_updates=71529
+ts_scores={'BLEU': 64.11, 'SARI': 39.99, 'FKGL': 7.24, 'Compression ratio': 1.02, 'Sentence splits': 1.2, 'Levenshtein similarity': 0.8, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.28}
+SARI did not improve for 8 validations
+| epoch 079 | loss 11.972 | nll_loss 11.247 | ppl 2429.68 | wps 1550 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 71599 | lr 1.34518e-07 | gnorm 6.756 | clip 1.000 | oom 0.000 | wall 5320 | train_wall 13794
+num_updates=71599
+ts_scores={'BLEU': 64.02, 'SARI': 39.94, 'FKGL': 7.25, 'Compression ratio': 1.02, 'Sentence splits': 1.2, 'Levenshtein similarity': 0.8, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.28}
+SARI did not improve for 9 validations
+| epoch 080 | loss 11.952 | nll_loss 11.217 | ppl 2380.30 | wps 1570 | ups 1 | wpb 1132.943 | bsz 67.529 | num_updates 71669 | lr 1.34518e-07 | gnorm 6.505 | clip 1.000 | oom 0.000 | wall 5422 | train_wall 13845
+num_updates=71669
+ts_scores={'BLEU': 63.98, 'SARI': 39.96, 'FKGL': 7.24, 'Compression ratio': 1.02, 'Sentence splits': 1.2, 'Levenshtein similarity': 0.8, 'Exact copies': 0.03, 'Additions proportion': 0.26, 'Deletions proportion': 0.19, 'Lexical complexity score': 8.28}
+SARI did not improve for 10 validations
+Early stopping because SARI did not improve for 10 validations
+| done training in 5463.9 seconds
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.4), LengthRatioPreprocessor(target_ratio=0.8999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.4), LengthRatioPreprocessor(target_ratio=0.6499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.1999999999999997)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.4), LengthRatioPreprocessor(target_ratio=1.15), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.4), LengthRatioPreprocessor(target_ratio=0.5), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.4), LengthRatioPreprocessor(target_ratio=1.0499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.4), LengthRatioPreprocessor(target_ratio=0.75), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.4), LengthRatioPreprocessor(target_ratio=1.2999999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.25)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.4), LengthRatioPreprocessor(target_ratio=0.45), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.4), LengthRatioPreprocessor(target_ratio=0.9499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.4), LengthRatioPreprocessor(target_ratio=0.7), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.55)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.4), LengthRatioPreprocessor(target_ratio=1.25), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.75)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.4), LengthRatioPreprocessor(target_ratio=0.55), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.45), LengthRatioPreprocessor(target_ratio=1.0999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.45), LengthRatioPreprocessor(target_ratio=0.8499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.15)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.45), LengthRatioPreprocessor(target_ratio=1.3499999999999996), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.45)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.45), LengthRatioPreprocessor(target_ratio=0.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.45), LengthRatioPreprocessor(target_ratio=0.9499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.2999999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.45), LengthRatioPreprocessor(target_ratio=0.6499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.45), LengthRatioPreprocessor(target_ratio=1.1999999999999997), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.45), LengthRatioPreprocessor(target_ratio=0.55), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.5)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.45), LengthRatioPreprocessor(target_ratio=1.0499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.45), LengthRatioPreprocessor(target_ratio=0.7999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.3499999999999996)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.45), LengthRatioPreprocessor(target_ratio=1.3499999999999996), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.45), LengthRatioPreprocessor(target_ratio=0.45), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.15)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.5), LengthRatioPreprocessor(target_ratio=0.9999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.5), LengthRatioPreprocessor(target_ratio=0.75), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.5), LengthRatioPreprocessor(target_ratio=1.25), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.1999999999999997)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.5), LengthRatioPreprocessor(target_ratio=0.6), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.5), LengthRatioPreprocessor(target_ratio=1.15), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.5), LengthRatioPreprocessor(target_ratio=0.8499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.45)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.5), LengthRatioPreprocessor(target_ratio=1.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.5), LengthRatioPreprocessor(target_ratio=0.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.25)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.5), LengthRatioPreprocessor(target_ratio=0.8999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.5), LengthRatioPreprocessor(target_ratio=0.6499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.5), LengthRatioPreprocessor(target_ratio=1.1999999999999997), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.55)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.5), LengthRatioPreprocessor(target_ratio=0.5), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.75)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.5), LengthRatioPreprocessor(target_ratio=1.0499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.55), LengthRatioPreprocessor(target_ratio=0.7999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.55), LengthRatioPreprocessor(target_ratio=1.2999999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.1999999999999997)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.55), LengthRatioPreprocessor(target_ratio=0.45), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.45)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.55), LengthRatioPreprocessor(target_ratio=0.9999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.55), LengthRatioPreprocessor(target_ratio=0.7), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.2999999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.55), LengthRatioPreprocessor(target_ratio=1.25), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.55), LengthRatioPreprocessor(target_ratio=0.6), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.55), LengthRatioPreprocessor(target_ratio=1.0999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.5)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.55), LengthRatioPreprocessor(target_ratio=0.8499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.55), LengthRatioPreprocessor(target_ratio=1.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.3499999999999996)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.55), LengthRatioPreprocessor(target_ratio=0.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.55), LengthRatioPreprocessor(target_ratio=0.9499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.15)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6), LengthRatioPreprocessor(target_ratio=0.7), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6), LengthRatioPreprocessor(target_ratio=1.1999999999999997), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6), LengthRatioPreprocessor(target_ratio=0.55), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.25)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6), LengthRatioPreprocessor(target_ratio=1.0999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6), LengthRatioPreprocessor(target_ratio=0.7999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6), LengthRatioPreprocessor(target_ratio=1.3499999999999996), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.45)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6), LengthRatioPreprocessor(target_ratio=0.5), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6), LengthRatioPreprocessor(target_ratio=0.9999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.2999999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6), LengthRatioPreprocessor(target_ratio=0.75), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6), LengthRatioPreprocessor(target_ratio=1.2999999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6), LengthRatioPreprocessor(target_ratio=0.6), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6), LengthRatioPreprocessor(target_ratio=1.15), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6499999999999999), LengthRatioPreprocessor(target_ratio=0.8999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6499999999999999), LengthRatioPreprocessor(target_ratio=1.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6499999999999999), LengthRatioPreprocessor(target_ratio=0.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.1999999999999997)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6499999999999999), LengthRatioPreprocessor(target_ratio=0.8999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.5)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6499999999999999), LengthRatioPreprocessor(target_ratio=0.6499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6499999999999999), LengthRatioPreprocessor(target_ratio=1.15), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.3499999999999996)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6499999999999999), LengthRatioPreprocessor(target_ratio=0.5), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6499999999999999), LengthRatioPreprocessor(target_ratio=1.0499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6499999999999999), LengthRatioPreprocessor(target_ratio=0.7999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.55)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6499999999999999), LengthRatioPreprocessor(target_ratio=1.2999999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.75)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6499999999999999), LengthRatioPreprocessor(target_ratio=0.45), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.3499999999999996)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.6499999999999999), LengthRatioPreprocessor(target_ratio=0.9499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7), LengthRatioPreprocessor(target_ratio=0.7), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.15)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7), LengthRatioPreprocessor(target_ratio=1.25), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7), LengthRatioPreprocessor(target_ratio=0.6), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7), LengthRatioPreprocessor(target_ratio=1.0999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.25)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7), LengthRatioPreprocessor(target_ratio=0.8499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7), LengthRatioPreprocessor(target_ratio=1.3499999999999996), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7), LengthRatioPreprocessor(target_ratio=0.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.45)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7), LengthRatioPreprocessor(target_ratio=0.9499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7), LengthRatioPreprocessor(target_ratio=0.7), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.25)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7), LengthRatioPreprocessor(target_ratio=1.1999999999999997), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7), LengthRatioPreprocessor(target_ratio=0.55), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7), LengthRatioPreprocessor(target_ratio=1.0499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.55)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.75), LengthRatioPreprocessor(target_ratio=0.7999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.75)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.75), LengthRatioPreprocessor(target_ratio=1.3499999999999996), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.75), LengthRatioPreprocessor(target_ratio=0.5), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.75), LengthRatioPreprocessor(target_ratio=0.9999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.1999999999999997)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.75), LengthRatioPreprocessor(target_ratio=0.75), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.5)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.75), LengthRatioPreprocessor(target_ratio=1.25), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.75), LengthRatioPreprocessor(target_ratio=0.6), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.2999999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.75), LengthRatioPreprocessor(target_ratio=1.15), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.75), LengthRatioPreprocessor(target_ratio=0.8999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.75), LengthRatioPreprocessor(target_ratio=1.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.5)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.75), LengthRatioPreprocessor(target_ratio=0.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.75)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.75), LengthRatioPreprocessor(target_ratio=0.8999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.3499999999999996)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.75), LengthRatioPreprocessor(target_ratio=0.6499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7999999999999999), LengthRatioPreprocessor(target_ratio=1.1999999999999997), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.15)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7999999999999999), LengthRatioPreprocessor(target_ratio=0.55), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7999999999999999), LengthRatioPreprocessor(target_ratio=1.0499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7999999999999999), LengthRatioPreprocessor(target_ratio=0.7999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.25)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7999999999999999), LengthRatioPreprocessor(target_ratio=1.2999999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7999999999999999), LengthRatioPreprocessor(target_ratio=0.45), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7999999999999999), LengthRatioPreprocessor(target_ratio=0.9999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.45)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7999999999999999), LengthRatioPreprocessor(target_ratio=0.75), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7999999999999999), LengthRatioPreprocessor(target_ratio=1.25), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.2999999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7999999999999999), LengthRatioPreprocessor(target_ratio=0.6), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7999999999999999), LengthRatioPreprocessor(target_ratio=1.0999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.7999999999999999), LengthRatioPreprocessor(target_ratio=0.8499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.55)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8499999999999999), LengthRatioPreprocessor(target_ratio=1.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8499999999999999), LengthRatioPreprocessor(target_ratio=0.45), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8499999999999999), LengthRatioPreprocessor(target_ratio=0.9499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8499999999999999), LengthRatioPreprocessor(target_ratio=0.7), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.1999999999999997)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8499999999999999), LengthRatioPreprocessor(target_ratio=1.1999999999999997), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.5)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8499999999999999), LengthRatioPreprocessor(target_ratio=0.55), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8499999999999999), LengthRatioPreprocessor(target_ratio=1.0999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.2999999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8499999999999999), LengthRatioPreprocessor(target_ratio=0.8499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8499999999999999), LengthRatioPreprocessor(target_ratio=1.3499999999999996), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8499999999999999), LengthRatioPreprocessor(target_ratio=0.5), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.55)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8499999999999999), LengthRatioPreprocessor(target_ratio=0.9999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.75)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8499999999999999), LengthRatioPreprocessor(target_ratio=0.75), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.3499999999999996)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8999999999999999), LengthRatioPreprocessor(target_ratio=1.2999999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8999999999999999), LengthRatioPreprocessor(target_ratio=0.6499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.15)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8999999999999999), LengthRatioPreprocessor(target_ratio=1.15), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8999999999999999), LengthRatioPreprocessor(target_ratio=0.8999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8999999999999999), LengthRatioPreprocessor(target_ratio=1.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.1999999999999997)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8999999999999999), LengthRatioPreprocessor(target_ratio=0.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8999999999999999), LengthRatioPreprocessor(target_ratio=0.8999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8999999999999999), LengthRatioPreprocessor(target_ratio=0.6499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8999999999999999), LengthRatioPreprocessor(target_ratio=1.15), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8999999999999999), LengthRatioPreprocessor(target_ratio=0.5), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.25)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8999999999999999), LengthRatioPreprocessor(target_ratio=1.0499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.8999999999999999), LengthRatioPreprocessor(target_ratio=0.75), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9499999999999998), LengthRatioPreprocessor(target_ratio=1.2999999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.55)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9499999999999998), LengthRatioPreprocessor(target_ratio=0.45), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.75)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9499999999999998), LengthRatioPreprocessor(target_ratio=0.9499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9499999999999998), LengthRatioPreprocessor(target_ratio=0.7), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9499999999999998), LengthRatioPreprocessor(target_ratio=1.25), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.15)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9499999999999998), LengthRatioPreprocessor(target_ratio=0.6), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.45)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9499999999999998), LengthRatioPreprocessor(target_ratio=1.0999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9499999999999998), LengthRatioPreprocessor(target_ratio=0.8499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.2999999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9499999999999998), LengthRatioPreprocessor(target_ratio=1.3499999999999996), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9499999999999998), LengthRatioPreprocessor(target_ratio=0.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9499999999999998), LengthRatioPreprocessor(target_ratio=0.9499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.5)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9499999999999998), LengthRatioPreprocessor(target_ratio=0.6499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9999999999999999), LengthRatioPreprocessor(target_ratio=1.1999999999999997), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.3499999999999996)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9999999999999999), LengthRatioPreprocessor(target_ratio=0.55), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9999999999999999), LengthRatioPreprocessor(target_ratio=1.0499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.15)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9999999999999999), LengthRatioPreprocessor(target_ratio=0.7999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9999999999999999), LengthRatioPreprocessor(target_ratio=1.3499999999999996), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9999999999999999), LengthRatioPreprocessor(target_ratio=0.5), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.25)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9999999999999999), LengthRatioPreprocessor(target_ratio=0.9999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9999999999999999), LengthRatioPreprocessor(target_ratio=0.75), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9999999999999999), LengthRatioPreprocessor(target_ratio=1.25), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.45)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9999999999999999), LengthRatioPreprocessor(target_ratio=0.6), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9999999999999999), LengthRatioPreprocessor(target_ratio=1.15), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.25)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.9999999999999999), LengthRatioPreprocessor(target_ratio=0.8499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0499999999999998), LengthRatioPreprocessor(target_ratio=1.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0499999999999998), LengthRatioPreprocessor(target_ratio=0.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.55)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0499999999999998), LengthRatioPreprocessor(target_ratio=0.8999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.75)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0499999999999998), LengthRatioPreprocessor(target_ratio=0.6499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0499999999999998), LengthRatioPreprocessor(target_ratio=1.1999999999999997), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0499999999999998), LengthRatioPreprocessor(target_ratio=0.55), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.1999999999999997)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0499999999999998), LengthRatioPreprocessor(target_ratio=1.0499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.45)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0499999999999998), LengthRatioPreprocessor(target_ratio=0.7999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0499999999999998), LengthRatioPreprocessor(target_ratio=1.2999999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.2999999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0499999999999998), LengthRatioPreprocessor(target_ratio=0.45), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0499999999999998), LengthRatioPreprocessor(target_ratio=0.9999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0499999999999998), LengthRatioPreprocessor(target_ratio=0.7), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.5)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0499999999999998), LengthRatioPreprocessor(target_ratio=1.25), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0999999999999999), LengthRatioPreprocessor(target_ratio=0.6), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.3499999999999996)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0999999999999999), LengthRatioPreprocessor(target_ratio=1.0999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0999999999999999), LengthRatioPreprocessor(target_ratio=0.8499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.15)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0999999999999999), LengthRatioPreprocessor(target_ratio=1.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0999999999999999), LengthRatioPreprocessor(target_ratio=0.45), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0999999999999999), LengthRatioPreprocessor(target_ratio=0.9499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.25)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0999999999999999), LengthRatioPreprocessor(target_ratio=0.7), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0999999999999999), LengthRatioPreprocessor(target_ratio=1.1999999999999997), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0999999999999999), LengthRatioPreprocessor(target_ratio=0.55), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.45)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0999999999999999), LengthRatioPreprocessor(target_ratio=1.0999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0999999999999999), LengthRatioPreprocessor(target_ratio=0.7999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.2999999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.0999999999999999), LengthRatioPreprocessor(target_ratio=1.3499999999999996), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.15), LengthRatioPreprocessor(target_ratio=0.5), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.15), LengthRatioPreprocessor(target_ratio=0.9999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.15), LengthRatioPreprocessor(target_ratio=0.75), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.15), LengthRatioPreprocessor(target_ratio=1.2999999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.15), LengthRatioPreprocessor(target_ratio=0.6499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.15), LengthRatioPreprocessor(target_ratio=1.15), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.1999999999999997)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.15), LengthRatioPreprocessor(target_ratio=0.8999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.5)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.15), LengthRatioPreprocessor(target_ratio=1.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.15), LengthRatioPreprocessor(target_ratio=0.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.3499999999999996)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.15), LengthRatioPreprocessor(target_ratio=0.8999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.15), LengthRatioPreprocessor(target_ratio=0.6499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.15), LengthRatioPreprocessor(target_ratio=1.15), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.55)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.1999999999999997), LengthRatioPreprocessor(target_ratio=0.5), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.75)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.1999999999999997), LengthRatioPreprocessor(target_ratio=1.0499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.1999999999999997), LengthRatioPreprocessor(target_ratio=0.7999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.1999999999999997), LengthRatioPreprocessor(target_ratio=1.2999999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.15)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.1999999999999997), LengthRatioPreprocessor(target_ratio=0.45), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.1999999999999997), LengthRatioPreprocessor(target_ratio=0.9999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.1999999999999997), LengthRatioPreprocessor(target_ratio=0.7), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.25)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.1999999999999997), LengthRatioPreprocessor(target_ratio=1.25), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.1999999999999997), LengthRatioPreprocessor(target_ratio=0.6), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.1999999999999997), LengthRatioPreprocessor(target_ratio=1.0999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.45)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.1999999999999997), LengthRatioPreprocessor(target_ratio=0.8499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.1999999999999997), LengthRatioPreprocessor(target_ratio=1.3499999999999996), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.2999999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.25), LengthRatioPreprocessor(target_ratio=0.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.25), LengthRatioPreprocessor(target_ratio=0.9499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.25), LengthRatioPreprocessor(target_ratio=0.7), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.55)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.25), LengthRatioPreprocessor(target_ratio=1.1999999999999997), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.75)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.25), LengthRatioPreprocessor(target_ratio=0.55), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.25), LengthRatioPreprocessor(target_ratio=1.0999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.25), LengthRatioPreprocessor(target_ratio=0.7999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.1999999999999997)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.25), LengthRatioPreprocessor(target_ratio=1.3499999999999996), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.5)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.25), LengthRatioPreprocessor(target_ratio=0.5), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.25), LengthRatioPreprocessor(target_ratio=0.9999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.2999999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.25), LengthRatioPreprocessor(target_ratio=0.75), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.25), LengthRatioPreprocessor(target_ratio=1.25), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.2999999999999998), LengthRatioPreprocessor(target_ratio=0.6), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.5)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.2999999999999998), LengthRatioPreprocessor(target_ratio=1.15), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.75)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.2999999999999998), LengthRatioPreprocessor(target_ratio=0.8999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.3499999999999996)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.2999999999999998), LengthRatioPreprocessor(target_ratio=1.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.2999999999999998), LengthRatioPreprocessor(target_ratio=0.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.15)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.2999999999999998), LengthRatioPreprocessor(target_ratio=0.9499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.2999999999999998), LengthRatioPreprocessor(target_ratio=0.6499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.2999999999999998), LengthRatioPreprocessor(target_ratio=1.1999999999999997), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.25)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.2999999999999998), LengthRatioPreprocessor(target_ratio=0.55), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.2999999999999998), LengthRatioPreprocessor(target_ratio=1.0499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.2999999999999998), LengthRatioPreprocessor(target_ratio=0.7999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.45)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.2999999999999998), LengthRatioPreprocessor(target_ratio=1.2999999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.2999999999999998), LengthRatioPreprocessor(target_ratio=0.45), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.2999999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.3499999999999996), LengthRatioPreprocessor(target_ratio=0.9999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.3499999999999996), LengthRatioPreprocessor(target_ratio=0.75), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.3499999999999996), LengthRatioPreprocessor(target_ratio=1.25), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.55)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.3499999999999996), LengthRatioPreprocessor(target_ratio=0.6), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.3499999999999996), LengthRatioPreprocessor(target_ratio=1.15), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.3499999999999996), LengthRatioPreprocessor(target_ratio=0.8499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.3499999999999996), LengthRatioPreprocessor(target_ratio=1.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.1999999999999997)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.3499999999999996), LengthRatioPreprocessor(target_ratio=0.45), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.5)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.3499999999999996), LengthRatioPreprocessor(target_ratio=0.9499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.3499999999999996), LengthRatioPreprocessor(target_ratio=0.7), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.3499999999999996)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.3499999999999996), LengthRatioPreprocessor(target_ratio=1.1999999999999997), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.8999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.3499999999999996), LengthRatioPreprocessor(target_ratio=0.55), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.7999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.0999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.4), LengthRatioPreprocessor(target_ratio=1.0999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.55)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.4), LengthRatioPreprocessor(target_ratio=0.8499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.5), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.75)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.4), LengthRatioPreprocessor(target_ratio=1.3499999999999996), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9499999999999998), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.3499999999999996)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.4), LengthRatioPreprocessor(target_ratio=0.5), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.75), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9499999999999998)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.4), LengthRatioPreprocessor(target_ratio=1.0499999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.15)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.4), LengthRatioPreprocessor(target_ratio=0.75), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.4), LengthRatioPreprocessor(target_ratio=1.2999999999999998), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.4), LengthRatioPreprocessor(target_ratio=0.6499999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.4), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=1.1999999999999997)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.4), LengthRatioPreprocessor(target_ratio=1.15), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.8499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.4), LengthRatioPreprocessor(target_ratio=0.8999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6499999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.4), LengthRatioPreprocessor(target_ratio=1.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.55), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.4)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.4), LengthRatioPreprocessor(target_ratio=0.4), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.9999999999999999), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.6499999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+recommended_preprocessors_kwargs={'DependencyTreeDepthRatioPreprocessor': {'target_ratio': 1.15}, 'LengthRatioPreprocessor': {'target_ratio': 0.75}, 'LevenshteinPreprocessor': {'target_ratio': 0.45}, 'SentencePiecePreprocessor': {'vocab_size': 10000}, 'WordRankRatioPreprocessor': {'target_ratio': 0.7999999999999999}}
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=1.15), LengthRatioPreprocessor(target_ratio=0.75), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.45), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.7999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615868927683"  
+scores={'bleu': 0.3307518254491718, 'sari_legacy': 35.97810932723788, 'fkgl': 8.023185468337928, 'quality_estimation': {'Compression ratio': 0.7299883753609004, 'Sentence splits': 0.9296626984126986, 'Levenshtein similarity': 0.4475846150725144, 'Exact copies': 0.0, 'Additions proportion': 0.6186796890868861, 'Deletions proportion': 0.7247463659951107, 'Lexical complexity score': 7.1195266523522776}}
+running_time=8255.756242513657
+result=0.40036484454603527

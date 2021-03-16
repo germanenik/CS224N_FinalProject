@@ -1,0 +1,1788 @@
+Training a model from scratch
+method_name='fairseq_train_and_evaluate'
+args=()
+kwargs={'arch': 'transformer', 'warmup_updates': 4000, 'parametrization_budget': 256, 'beam': 9, 'dataset': 'simplification', 'dropout': 0.49776840869320105, 'fp16': False, 'label_smoothing': 0.5440853409672862, 'lr': 5.4645641096041694e-06, 'lr_scheduler': 'fixed', 'max_epoch': 100, 'max_tokens': 5000, 'metrics_coefs': [0, 1, 0], 'optimizer': 'adam', 'validations_before_sari_early_stopping': 10, 'preprocessors_kwargs': {'LengthRatioPreprocessor': {'target_ratio': 0.29006435332220293}, 'LevenshteinPreprocessor': {'target_ratio': 0.13773026875643668}, 'WordRankRatioPreprocessor': {'target_ratio': 0.6186624451357787}, 'DependencyTreeDepthRatioPreprocessor': {'target_ratio': 0.2823049633223922}, 'SentencePiecePreprocessor': {'vocab_size': 10000}}}
+Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_95d59ef23905a3bb8a2b6e2e63a54b6d...
+Creating preprocessed dataset with LengthRatioPreprocessor(target_ratio=0.29006435332220293): simplification -> _95d59ef23905a3bb8a2b6e2e63a54b6d
+Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_58f7245e03ed9ccfe71c1ebb458a5d6c...
+Creating preprocessed dataset with LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.13773026875643668): _95d59ef23905a3bb8a2b6e2e63a54b6d -> _58f7245e03ed9ccfe71c1ebb458a5d6c
+Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_ab7da4325f3aa3124fd01af9d0435e4a...
+Creating preprocessed dataset with WordRankRatioPreprocessor(target_ratio=0.6186624451357787): _58f7245e03ed9ccfe71c1ebb458a5d6c -> _ab7da4325f3aa3124fd01af9d0435e4a
+Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_2c9bf27d367bdb51e7c5d9df67d41c01...
+Creating preprocessed dataset with DependencyTreeDepthRatioPreprocessor(target_ratio=0.2823049633223922): _ab7da4325f3aa3124fd01af9d0435e4a -> _2c9bf27d367bdb51e7c5d9df67d41c01
+Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e...
+Creating preprocessed dataset with SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000): _2c9bf27d367bdb51e7c5d9df67d41c01 -> _c7e47b77c25605cece9f608a043f390e
+Creating /home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed...
+Namespace(alignfile=None, cpu=False, destdir='/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed', fp16=False, fp16_init_scale=128, fp16_scale_tolerance=0.0, fp16_scale_window=None, joined_dictionary=False, log_format=None, log_interval=1000, memory_efficient_fp16=False, min_loss_scale=0.0001, no_progress_bar=False, nwordssrc=-1, nwordstgt=-1, only_source=False, output_format='raw', padding_factor=8, seed=1, source_lang='complex', srcdict='/home/varun/CS224N_FinalProject/access/model/dict.complex.txt', target_lang='simple', task='translation', tensorboard_logdir='', testpref='/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/_c7e47b77c25605cece9f608a043f390e.test', tgtdict='/home/varun/CS224N_FinalProject/access/model/dict.simple.txt', threshold_loss_scale=None, thresholdsrc=0, thresholdtgt=0, trainpref='/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/_c7e47b77c25605cece9f608a043f390e.train', user_dir=None, validpref='/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/_c7e47b77c25605cece9f608a043f390e.valid', workers=1)
+Namespace(alignfile=None, cpu=False, destdir='/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed', fp16=False, fp16_init_scale=128, fp16_scale_tolerance=0.0, fp16_scale_window=None, joined_dictionary=False, log_format=None, log_interval=1000, memory_efficient_fp16=False, min_loss_scale=0.0001, no_progress_bar=False, nwordssrc=-1, nwordstgt=-1, only_source=False, output_format='raw', padding_factor=8, seed=1, source_lang='complex', srcdict='/home/varun/CS224N_FinalProject/access/model/dict.complex.txt', target_lang='simple', task='translation', tensorboard_logdir='', testpref='/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/_c7e47b77c25605cece9f608a043f390e.test', tgtdict='/home/varun/CS224N_FinalProject/access/model/dict.simple.txt', threshold_loss_scale=None, thresholdsrc=0, thresholdtgt=0, trainpref='/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/_c7e47b77c25605cece9f608a043f390e.train', user_dir=None, validpref='/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/_c7e47b77c25605cece9f608a043f390e.valid', workers=1)
+| Wrote preprocessed data to /home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed
+Namespace(adam_betas='(0.9, 0.999)', adam_eps=1e-08, adaptive_input=False, adaptive_softmax_cutoff=None, adaptive_softmax_dropout=0, arch='transformer', attention_dropout=0.0, bucket_cap_mb=25, clip_norm=0.1, cpu=False, criterion='label_smoothed_cross_entropy', curriculum=0, data=['/home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed'], ddp_backend='c10d', decoder_attention_heads=8, decoder_embed_dim=512, decoder_embed_path=None, decoder_ffn_embed_dim=2048, decoder_input_dim=512, decoder_layers=6, decoder_learned_pos=False, decoder_normalize_before=False, decoder_output_dim=512, device_id=0, distributed_backend='nccl', distributed_init_method=None, distributed_port=-1, distributed_rank=0, distributed_world_size=1, dropout=0.49776840869320105, encoder_attention_heads=8, encoder_embed_dim=512, encoder_embed_path=None, encoder_ffn_embed_dim=2048, encoder_layers=6, encoder_learned_pos=False, encoder_normalize_before=False, fix_batches_to_gpus=False, force_anneal=None, fp16=False, fp16_init_scale=128, fp16_scale_tolerance=0.0, fp16_scale_window=None, keep_interval_updates=-1, keep_last_epochs=1, label_smoothing=0.5440853409672862, lazy_load=False, left_pad_source='True', left_pad_target='False', log_format=None, log_interval=1000, lr=[5.4645641096041694e-06], lr_scheduler='fixed', lr_shrink=0.5, max_epoch=100, max_sentences=None, max_sentences_valid=None, max_source_positions=1024, max_target_positions=1024, max_tokens=5000, max_update=0, memory_efficient_fp16=False, min_loss_scale=0.0001, min_lr=1e-09, momentum=0.99, no_epoch_checkpoints=False, no_progress_bar=False, no_save=False, no_token_positional_embeddings=False, num_workers=0, optimizer='adam', optimizer_overrides='{}', raw_text=True, relu_dropout=0.0, required_batch_size_multiple=8, reset_lr_scheduler=False, reset_optimizer=False, restore_file='/home/varun/CS224N_FinalProject/access/model/checkpoints/checkpoint_best.pt', save_dir='/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615862609253/checkpoints', save_interval=1, save_interval_updates=0, seed=589, sentence_avg=False, share_all_embeddings=False, share_decoder_input_output_embed=False, skip_invalid_size_inputs_valid_test=False, source_lang='complex', target_lang='simple', task='translation', tensorboard_logdir='tensorboard', threshold_loss_scale=None, train_subset='train', update_freq=[1], upsample_primary=1, user_dir=None, valid_subset='valid', validate_interval=1, validations_before_sari_early_stopping=10.0, warmup_updates=4000, weight_decay=0.0001)
+| [complex] dictionary: 10144 types
+| [simple] dictionary: 10048 types
+| /home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed train 4728 examples
+| /home/varun/CS224N_FinalProject/access/resources/datasets/_c7e47b77c25605cece9f608a043f390e/fairseq_preprocessed valid 260 examples
+TransformerModel(
+  (encoder): TransformerEncoder(
+    (embed_tokens): Embedding(10144, 512, padding_idx=1)
+    (embed_positions): SinusoidalPositionalEmbedding()
+    (layers): ModuleList(
+      (0): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+      (1): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+      (2): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+      (3): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+      (4): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+      (5): TransformerEncoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (layer_norms): ModuleList(
+          (0): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+          (1): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        )
+      )
+    )
+  )
+  (decoder): TransformerDecoder(
+    (embed_tokens): Embedding(10048, 512, padding_idx=1)
+    (embed_positions): SinusoidalPositionalEmbedding()
+    (layers): ModuleList(
+      (0): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+      (1): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+      (2): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+      (3): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+      (4): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+      (5): TransformerDecoderLayer(
+        (self_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (encoder_attn): MultiheadAttention(
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (encoder_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+    )
+  )
+)
+| model transformer, criterion LabelSmoothedCrossEntropyCriterion
+| num. model params: 59621376 (num. trained: 59621376)
+| training on 1 GPUs
+| max tokens per GPU = 5000 and max sentences per GPU = None
+| WARNING: 1 samples have invalid sizes and will be skipped, max_positions=(1024, 1024), first few sample ids=[1103]
+| loaded checkpoint /home/varun/CS224N_FinalProject/access/model/checkpoints/checkpoint_best.pt (epoch 27 @ 67959 updates)
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.03 GiB already allocated; 5.44 MiB free; 47.34 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 48.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 25.44 MiB free; 65.82 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 19.44 MiB free; 83.19 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 19.44 MiB free; 96.64 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 5.44 MiB free; 138.73 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 1.44 MiB free; 89.53 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 22.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 19.44 MiB free; 167.00 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 28.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 25.44 MiB free; 163.81 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 31.44 MiB free; 128.60 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 184.00 MiB (GPU 0; 11.17 GiB total capacity; 2.83 GiB already allocated; 137.44 MiB free; 123.42 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 3.44 MiB free; 135.41 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 84.00 MiB (GPU 0; 11.17 GiB total capacity; 2.91 GiB already allocated; 9.44 MiB free; 171.32 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 7.44 MiB free; 100.29 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 1.44 MiB free; 121.95 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 1.44 MiB free; 80.96 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 3.44 MiB free; 163.09 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 41.44 MiB free; 126.13 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 19.44 MiB free; 69.33 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 19.44 MiB free; 92.45 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 37.44 MiB free; 64.76 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 5.44 MiB free; 87.31 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 17.44 MiB free; 89.99 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 5.44 MiB free; 118.66 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 90.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 7.44 MiB free; 121.97 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 3.44 MiB free; 78.38 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 17.44 MiB free; 46.13 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 13.44 MiB free; 150.10 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 13.44 MiB free; 66.01 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 7.44 MiB free; 119.08 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 13.44 MiB free; 110.59 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 62.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 31.44 MiB free; 155.44 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 1.44 MiB free; 96.99 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 28.00 MiB (GPU 0; 11.17 GiB total capacity; 2.84 GiB already allocated; 7.44 MiB free; 240.44 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 66.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 51.44 MiB free; 76.04 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 13.44 MiB free; 78.17 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 5.44 MiB free; 93.75 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 1.44 MiB free; 100.03 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 1.44 MiB free; 65.59 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 68.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 11.44 MiB free; 65.14 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 13.44 MiB free; 71.67 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 1.44 MiB free; 103.76 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 9.44 MiB free; 70.48 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 5.44 MiB free; 146.43 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 9.44 MiB free; 75.83 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 49.44 MiB free; 112.04 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.89 GiB already allocated; 9.44 MiB free; 189.30 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 39.44 MiB free; 100.60 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| epoch 028 | loss 12.147 | nll_loss 9.992 | ppl 1018.39 | wps 135 | ups 0 | wpb 446.870 | bsz 24.043 | num_updates 67982 | lr 1.36614e-09 | gnorm 5.288 | clip 1.000 | oom 0.001 | wall 76 | train_wall 11217
+num_updates=67982
+ts_scores={'BLEU': 1.95, 'SARI': 18.79, 'FKGL': 0, 'Compression ratio': 0.27, 'Sentence splits': 1.07, 'Levenshtein similarity': 0.26, 'Exact copies': 0.0, 'Additions proportion': 0.25, 'Deletions proportion': 0.91, 'Lexical complexity score': 7.23}
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 84.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 13.44 MiB free; 157.13 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 17.44 MiB free; 74.29 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 1.44 MiB free; 166.54 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 13.44 MiB free; 118.08 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 9.44 MiB free; 114.93 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 62.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 31.44 MiB free; 155.44 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 184.00 MiB (GPU 0; 11.17 GiB total capacity; 2.83 GiB already allocated; 137.44 MiB free; 123.42 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 1.44 MiB free; 170.80 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 29.44 MiB free; 88.04 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 9.44 MiB free; 75.83 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 39.44 MiB free; 94.64 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 31.44 MiB free; 128.60 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.89 GiB already allocated; 23.44 MiB free; 178.38 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 66.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 27.44 MiB free; 117.98 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 40.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 5.44 MiB free; 79.74 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 19.44 MiB free; 51.69 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 9.44 MiB free; 73.35 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 17.44 MiB free; 46.13 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 49.44 MiB free; 112.04 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 7.44 MiB free; 96.19 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 1.44 MiB free; 89.53 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.89 GiB already allocated; 9.44 MiB free; 189.30 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 13.44 MiB free; 71.67 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 37.44 MiB free; 64.76 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 68.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 11.44 MiB free; 65.14 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 9.44 MiB free; 119.13 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 3.44 MiB free; 142.91 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 13.44 MiB free; 78.17 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 9.44 MiB free; 70.48 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 90.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 7.44 MiB free; 121.97 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 1.44 MiB free; 65.59 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 48.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 25.44 MiB free; 65.82 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.87 GiB already allocated; 5.44 MiB free; 211.16 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 13.44 MiB free; 110.59 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 9.44 MiB free; 90.49 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 5.44 MiB free; 87.31 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 5.44 MiB free; 122.94 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 3.44 MiB free; 99.34 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 22.00 MiB (GPU 0; 11.17 GiB total capacity; 2.91 GiB already allocated; 11.44 MiB free; 171.84 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 34.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 19.44 MiB free; 106.36 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 28.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 25.44 MiB free; 163.81 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 9.44 MiB free; 106.67 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 1.44 MiB free; 103.27 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 17.44 MiB free; 138.45 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 53.44 MiB free; 110.16 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 15.44 MiB free; 151.66 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 3.44 MiB free; 78.38 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 3.44 MiB free; 124.74 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| epoch 029 | loss 12.161 | nll_loss 10.023 | ppl 1040.69 | wps 117 | ups 0 | wpb 447.227 | bsz 24.045 | num_updates 68004 | lr 1.36614e-09 | gnorm 4.970 | clip 1.000 | oom 0.001 | wall 214 | train_wall 11245
+num_updates=68004
+ts_scores={'BLEU': 1.95, 'SARI': 18.79, 'FKGL': 0, 'Compression ratio': 0.27, 'Sentence splits': 1.07, 'Levenshtein similarity': 0.26, 'Exact copies': 0.0, 'Additions proportion': 0.25, 'Deletions proportion': 0.91, 'Lexical complexity score': 7.23}
+SARI did not improve for 1 validations
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 84.00 MiB (GPU 0; 11.17 GiB total capacity; 2.91 GiB already allocated; 7.44 MiB free; 173.32 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 61.44 MiB free; 93.38 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 40.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 5.44 MiB free; 79.74 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 7.44 MiB free; 160.90 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.89 GiB already allocated; 9.44 MiB free; 189.30 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 5.44 MiB free; 146.43 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 1.44 MiB free; 89.53 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 22.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 19.44 MiB free; 167.00 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 39.44 MiB free; 94.64 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 9.44 MiB free; 89.57 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 3.44 MiB free; 99.34 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 19.44 MiB free; 139.21 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 5.44 MiB free; 87.31 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 48.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 25.44 MiB free; 65.82 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 31.44 MiB free; 128.60 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 90.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 7.44 MiB free; 121.97 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 13.44 MiB free; 110.59 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 15.44 MiB free; 132.82 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 13.44 MiB free; 78.17 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 23.44 MiB free; 147.35 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 17.44 MiB free; 46.13 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 27.44 MiB free; 80.34 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 9.44 MiB free; 73.35 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 15.44 MiB free; 81.58 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 19.44 MiB free; 92.45 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 7.44 MiB free; 77.42 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 19.44 MiB free; 69.33 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 28.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 25.44 MiB free; 163.81 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 27.44 MiB free; 87.69 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 16.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 11.44 MiB free; 118.66 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 66.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 51.44 MiB free; 76.04 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 7.44 MiB free; 160.35 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 9.44 MiB free; 75.83 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 9.44 MiB free; 151.27 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 19.44 MiB free; 95.79 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 17.44 MiB free; 89.99 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 7.44 MiB free; 82.02 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 7.44 MiB free; 100.29 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 23.44 MiB free; 95.84 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 3.44 MiB free; 142.91 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 62.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 31.44 MiB free; 155.44 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 13.44 MiB free; 71.67 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 19.44 MiB free; 51.69 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 9.44 MiB free; 145.46 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 13.44 MiB free; 150.10 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 184.00 MiB (GPU 0; 11.17 GiB total capacity; 2.83 GiB already allocated; 137.44 MiB free; 123.42 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 15.44 MiB free; 74.57 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| epoch 030 | loss 12.136 | nll_loss 9.965 | ppl 999.43 | wps 73 | ups 0 | wpb 446.870 | bsz 24.043 | num_updates 68027 | lr 1.36614e-09 | gnorm 4.946 | clip 1.000 | oom 0.002 | wall 354 | train_wall 11275
+num_updates=68027
+ts_scores={'BLEU': 1.95, 'SARI': 18.79, 'FKGL': 0, 'Compression ratio': 0.27, 'Sentence splits': 1.07, 'Levenshtein similarity': 0.26, 'Exact copies': 0.0, 'Additions proportion': 0.25, 'Deletions proportion': 0.91, 'Lexical complexity score': 7.23}
+SARI did not improve for 2 validations
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 9.44 MiB free; 108.08 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 5.44 MiB free; 146.43 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 15.44 MiB free; 150.88 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.03 GiB already allocated; 3.44 MiB free; 50.46 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 7.44 MiB free; 107.82 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.03 GiB already allocated; 11.44 MiB free; 46.31 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 19.44 MiB free; 121.42 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 17.44 MiB free; 102.88 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 9.44 MiB free; 75.83 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 28.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 25.44 MiB free; 163.81 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 9.44 MiB free; 73.35 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.85 GiB already allocated; 73.44 MiB free; 166.59 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 22.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 19.44 MiB free; 167.00 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 9.44 MiB free; 83.76 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 62.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 21.44 MiB free; 168.52 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 17.44 MiB free; 46.13 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 48.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 37.44 MiB free; 54.50 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 84.00 MiB (GPU 0; 11.17 GiB total capacity; 2.91 GiB already allocated; 9.44 MiB free; 171.32 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 13.44 MiB free; 78.17 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 9.44 MiB free; 114.93 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.89 GiB already allocated; 9.44 MiB free; 189.30 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 90.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 23.44 MiB free; 106.97 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 15.44 MiB free; 73.48 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 1.44 MiB free; 89.53 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 17.44 MiB free; 138.45 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 39.44 MiB free; 78.92 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 5.44 MiB free; 122.94 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 184.00 MiB (GPU 0; 11.17 GiB total capacity; 2.83 GiB already allocated; 137.44 MiB free; 123.42 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 11.44 MiB free; 89.26 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 68.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 11.44 MiB free; 65.14 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 66.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 51.44 MiB free; 76.04 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 17.44 MiB free; 74.29 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 7.44 MiB free; 160.90 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 49.44 MiB free; 88.49 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 3.44 MiB free; 142.91 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 19.44 MiB free; 69.33 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 19.44 MiB free; 150.94 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 3.44 MiB free; 99.34 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 13.44 MiB free; 110.59 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 19.44 MiB free; 92.45 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 9.44 MiB free; 147.57 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 9.44 MiB free; 106.34 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 13.44 MiB free; 150.10 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 1.44 MiB free; 100.03 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 3.44 MiB free; 78.38 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 31.44 MiB free; 128.60 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| epoch 031 | loss 12.162 | nll_loss 10.023 | ppl 1040.48 | wps 83 | ups 0 | wpb 458.708 | bsz 24.708 | num_updates 68051 | lr 1.36614e-09 | gnorm 4.943 | clip 1.000 | oom 0.003 | wall 487 | train_wall 11299
+num_updates=68051
+ts_scores={'BLEU': 0.62, 'SARI': 17.62, 'FKGL': 0, 'Compression ratio': 0.33, 'Sentence splits': 1.42, 'Levenshtein similarity': 0.22, 'Exact copies': 0.0, 'Additions proportion': 0.44, 'Deletions proportion': 0.91, 'Lexical complexity score': 7.65}
+SARI did not improve for 3 validations
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 48.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 35.44 MiB free; 57.85 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 9.44 MiB free; 82.92 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 3.44 MiB free; 110.56 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 1.44 MiB free; 100.03 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 7.44 MiB free; 156.54 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 7.44 MiB free; 100.29 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 19.44 MiB free; 69.33 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 3.44 MiB free; 114.39 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 184.00 MiB (GPU 0; 11.17 GiB total capacity; 2.83 GiB already allocated; 153.44 MiB free; 106.19 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 17.44 MiB free; 132.14 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 13.44 MiB free; 78.17 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 9.44 MiB free; 70.48 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 40.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 17.44 MiB free; 137.33 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.87 GiB already allocated; 5.44 MiB free; 211.16 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 13.44 MiB free; 71.67 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 5.44 MiB free; 146.43 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 9.44 MiB free; 147.57 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 17.44 MiB free; 89.99 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 19.44 MiB free; 51.69 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 37.44 MiB free; 64.76 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 16.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 9.44 MiB free; 52.53 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 15.44 MiB free; 117.47 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 3.44 MiB free; 99.34 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 9.44 MiB free; 89.57 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 40.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 5.44 MiB free; 79.74 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 84.00 MiB (GPU 0; 11.17 GiB total capacity; 2.91 GiB already allocated; 9.44 MiB free; 171.32 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 28.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 25.44 MiB free; 163.81 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 3.44 MiB free; 78.38 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.91 GiB already allocated; 15.44 MiB free; 162.44 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 3.44 MiB free; 142.91 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 7.44 MiB free; 160.90 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 9.44 MiB free; 114.93 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 17.44 MiB free; 102.88 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 1.44 MiB free; 61.76 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 9.44 MiB free; 151.27 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 40.00 MiB (GPU 0; 11.17 GiB total capacity; 2.91 GiB already allocated; 11.44 MiB free; 164.32 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 66.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 51.44 MiB free; 76.04 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 53.44 MiB free; 110.16 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 13.44 MiB free; 121.97 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 17.44 MiB free; 138.45 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 62.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 31.44 MiB free; 155.44 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 13.44 MiB free; 71.67 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.89 GiB already allocated; 9.44 MiB free; 189.30 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 5.44 MiB free; 122.94 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 55.44 MiB free; 89.61 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 31.44 MiB free; 128.60 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| epoch 032 | loss 12.139 | nll_loss 9.977 | ppl 1007.85 | wps 56 | ups 0 | wpb 432.917 | bsz 23.375 | num_updates 68075 | lr 1.36614e-09 | gnorm 5.001 | clip 1.000 | oom 0.003 | wall 674 | train_wall 11330
+num_updates=68075
+ts_scores={'BLEU': 0.62, 'SARI': 17.62, 'FKGL': 0, 'Compression ratio': 0.33, 'Sentence splits': 1.42, 'Levenshtein similarity': 0.22, 'Exact copies': 0.0, 'Additions proportion': 0.44, 'Deletions proportion': 0.91, 'Lexical complexity score': 7.65}
+SARI did not improve for 4 validations
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 5.44 MiB free; 183.68 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 90.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 7.44 MiB free; 121.97 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 7.44 MiB free; 100.29 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 5.44 MiB free; 122.94 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 11.44 MiB free; 111.54 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 22.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 19.44 MiB free; 167.00 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 66.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 51.44 MiB free; 76.04 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 37.44 MiB free; 64.76 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 48.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 31.44 MiB free; 62.32 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 17.44 MiB free; 138.45 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 13.44 MiB free; 84.69 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 1.44 MiB free; 149.02 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 49.44 MiB free; 112.04 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 1.44 MiB free; 100.03 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 39.44 MiB free; 94.64 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 13.44 MiB free; 147.18 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 3.44 MiB free; 78.38 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 13.44 MiB free; 110.59 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 11.44 MiB free; 72.50 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 9.44 MiB free; 89.57 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 62.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 41.44 MiB free; 132.44 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 1.44 MiB free; 90.46 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 13.44 MiB free; 150.10 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 53.44 MiB free; 110.16 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 19.44 MiB free; 69.33 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 3.44 MiB free; 80.07 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 9.44 MiB free; 147.57 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 5.44 MiB free; 87.31 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 7.44 MiB free; 160.90 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 3.44 MiB free; 99.34 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 9.44 MiB free; 151.27 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.87 GiB already allocated; 5.44 MiB free; 211.16 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 40.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 5.44 MiB free; 79.74 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 28.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 25.44 MiB free; 163.81 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 13.44 MiB free; 102.69 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 5.44 MiB free; 120.16 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 17.44 MiB free; 69.90 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 43.44 MiB free; 106.09 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 19.44 MiB free; 51.69 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 9.44 MiB free; 73.35 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 84.00 MiB (GPU 0; 11.17 GiB total capacity; 2.91 GiB already allocated; 9.44 MiB free; 171.32 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 17.44 MiB free; 74.29 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 184.00 MiB (GPU 0; 11.17 GiB total capacity; 2.84 GiB already allocated; 161.44 MiB free; 94.71 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 5.44 MiB free; 64.93 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 9.44 MiB free; 127.89 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 17.44 MiB free; 46.13 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 19.44 MiB free; 92.45 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| epoch 033 | loss 12.164 | nll_loss 10.030 | ppl 1045.18 | wps 59 | ups 0 | wpb 446.870 | bsz 24.043 | num_updates 68098 | lr 1.36614e-09 | gnorm 5.003 | clip 1.000 | oom 0.004 | wall 849 | train_wall 11359
+num_updates=68098
+ts_scores={'BLEU': 0.62, 'SARI': 17.62, 'FKGL': 0, 'Compression ratio': 0.33, 'Sentence splits': 1.42, 'Levenshtein similarity': 0.22, 'Exact copies': 0.0, 'Additions proportion': 0.44, 'Deletions proportion': 0.91, 'Lexical complexity score': 7.65}
+SARI did not improve for 5 validations
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 13.44 MiB free; 95.50 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 9.44 MiB free; 147.57 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 9.44 MiB free; 126.88 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 90.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 7.44 MiB free; 121.97 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 53.44 MiB free; 110.16 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 17.44 MiB free; 89.99 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 9.44 MiB free; 151.27 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 9.44 MiB free; 75.83 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 48.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 31.44 MiB free; 62.32 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 62.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 31.44 MiB free; 155.44 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 40.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 5.44 MiB free; 79.74 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 3.44 MiB free; 99.34 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 13.44 MiB free; 110.59 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 17.44 MiB free; 74.29 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 1.44 MiB free; 116.25 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 31.44 MiB free; 128.60 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.87 GiB already allocated; 15.44 MiB free; 207.96 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 17.44 MiB free; 126.10 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.89 GiB already allocated; 9.44 MiB free; 189.30 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 1.44 MiB free; 89.53 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 84.00 MiB (GPU 0; 11.17 GiB total capacity; 2.91 GiB already allocated; 9.44 MiB free; 171.32 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 9.44 MiB free; 73.35 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 17.44 MiB free; 138.45 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.91 GiB already allocated; 3.44 MiB free; 175.46 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 17.44 MiB free; 46.13 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 66.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 51.44 MiB free; 76.04 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 28.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 25.44 MiB free; 163.81 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 1.44 MiB free; 65.59 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 9.44 MiB free; 89.57 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 68.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 11.44 MiB free; 65.14 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 39.44 MiB free; 94.64 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 184.00 MiB (GPU 0; 11.17 GiB total capacity; 2.83 GiB already allocated; 155.44 MiB free; 103.11 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 9.44 MiB free; 151.62 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 3.44 MiB free; 78.38 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 22.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 19.44 MiB free; 167.00 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 3.44 MiB free; 130.24 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 3.44 MiB free; 75.40 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 17.44 MiB free; 102.88 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 5.44 MiB free; 99.96 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 13.44 MiB free; 71.67 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 63.44 MiB free; 97.92 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 19.44 MiB free; 51.69 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 5.44 MiB free; 122.94 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 3.44 MiB free; 142.91 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 3.44 MiB free; 103.47 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 7.44 MiB free; 81.75 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| epoch 034 | loss 12.159 | nll_loss 10.017 | ppl 1036.14 | wps 127 | ups 0 | wpb 432.917 | bsz 23.375 | num_updates 68122 | lr 1.36614e-09 | gnorm 5.013 | clip 1.000 | oom 0.005 | wall 1027 | train_wall 11391
+num_updates=68122
+ts_scores={'BLEU': 0.62, 'SARI': 17.62, 'FKGL': 0, 'Compression ratio': 0.33, 'Sentence splits': 1.42, 'Levenshtein similarity': 0.22, 'Exact copies': 0.0, 'Additions proportion': 0.44, 'Deletions proportion': 0.91, 'Lexical complexity score': 7.65}
+SARI did not improve for 6 validations
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 15.44 MiB free; 107.19 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 19.44 MiB free; 69.33 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 1.44 MiB free; 100.03 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 17.44 MiB free; 102.88 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 28.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 25.44 MiB free; 163.81 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 5.44 MiB free; 184.75 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 3.44 MiB free; 165.32 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 3.44 MiB free; 78.38 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 37.44 MiB free; 64.76 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 48.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 35.44 MiB free; 56.83 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 9.44 MiB free; 70.48 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 43.44 MiB free; 114.18 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 3.44 MiB free; 105.14 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 17.44 MiB free; 138.45 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 13.44 MiB free; 78.17 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 49.44 MiB free; 112.04 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 184.00 MiB (GPU 0; 11.17 GiB total capacity; 2.83 GiB already allocated; 137.44 MiB free; 123.42 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 9.44 MiB free; 73.89 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 90.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 7.44 MiB free; 121.97 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 68.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 11.44 MiB free; 65.14 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 1.44 MiB free; 162.38 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 7.44 MiB free; 100.29 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 1.44 MiB free; 89.53 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 41.44 MiB free; 93.76 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 7.44 MiB free; 160.90 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 5.44 MiB free; 111.73 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 3.44 MiB free; 165.24 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.88 GiB already allocated; 17.44 MiB free; 188.24 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 5.44 MiB free; 87.31 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 29.44 MiB free; 101.29 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.88 GiB already allocated; 1.44 MiB free; 209.01 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 66.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 33.44 MiB free; 102.53 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 13.44 MiB free; 109.85 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 9.44 MiB free; 75.83 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 17.44 MiB free; 46.13 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 9.44 MiB free; 73.35 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 62.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 29.44 MiB free; 156.52 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 13.44 MiB free; 150.10 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 84.00 MiB (GPU 0; 11.17 GiB total capacity; 2.91 GiB already allocated; 9.44 MiB free; 171.32 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 9.44 MiB free; 147.57 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 53.44 MiB free; 110.16 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 19.44 MiB free; 92.45 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 9.44 MiB free; 151.27 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 5.44 MiB free; 153.85 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 9.44 MiB free; 89.57 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 25.44 MiB free; 82.94 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 5.44 MiB free; 146.43 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| epoch 035 | loss 12.152 | nll_loss 10.003 | ppl 1026.43 | wps 127 | ups 0 | wpb 446.870 | bsz 24.043 | num_updates 68145 | lr 1.36614e-09 | gnorm 4.984 | clip 1.000 | oom 0.005 | wall 1202 | train_wall 11421
+num_updates=68145
+ts_scores={'BLEU': 0.62, 'SARI': 17.62, 'FKGL': 0, 'Compression ratio': 0.33, 'Sentence splits': 1.42, 'Levenshtein similarity': 0.22, 'Exact copies': 0.0, 'Additions proportion': 0.44, 'Deletions proportion': 0.91, 'Lexical complexity score': 7.65}
+SARI did not improve for 7 validations
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 9.44 MiB free; 107.70 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 3.44 MiB free; 97.98 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 53.44 MiB free; 110.16 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 13.44 MiB free; 172.25 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 7.44 MiB free; 160.90 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 184.00 MiB (GPU 0; 11.17 GiB total capacity; 2.83 GiB already allocated; 137.44 MiB free; 123.42 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 48.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 33.44 MiB free; 64.62 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 7.44 MiB free; 100.29 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 37.44 MiB free; 64.76 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 17.44 MiB free; 46.13 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 9.44 MiB free; 110.35 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 9.44 MiB free; 73.35 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 9.44 MiB free; 75.83 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 5.44 MiB free; 87.31 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 62.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 31.44 MiB free; 155.44 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 66.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 51.44 MiB free; 76.04 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 19.44 MiB free; 51.69 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 17.44 MiB free; 89.99 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 5.44 MiB free; 122.94 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 90.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 7.44 MiB free; 121.97 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.91 GiB already allocated; 9.44 MiB free; 168.19 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 46.00 MiB (GPU 0; 11.17 GiB total capacity; 2.89 GiB already allocated; 33.44 MiB free; 167.00 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 14.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 1.44 MiB free; 119.90 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 84.00 MiB (GPU 0; 11.17 GiB total capacity; 2.91 GiB already allocated; 9.44 MiB free; 171.32 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 31.44 MiB free; 128.60 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 3.44 MiB free; 103.07 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 1.44 MiB free; 100.03 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 1.44 MiB free; 81.76 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 17.44 MiB free; 74.29 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 9.44 MiB free; 147.57 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 1.44 MiB free; 89.53 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 68.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 11.44 MiB free; 65.14 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 11.44 MiB free; 66.88 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 59.44 MiB free; 97.79 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 9.44 MiB free; 114.93 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 9.44 MiB free; 151.27 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 15.44 MiB free; 78.02 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 17.44 MiB free; 138.45 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 49.44 MiB free; 97.58 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 28.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 25.44 MiB free; 163.81 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 3.44 MiB free; 99.34 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.87 GiB already allocated; 5.44 MiB free; 211.16 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 17.44 MiB free; 176.35 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 3.44 MiB free; 142.91 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 40.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 5.44 MiB free; 79.74 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 13.44 MiB free; 78.17 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 11.44 MiB free; 91.90 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 5.44 MiB free; 146.43 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| epoch 036 | loss 12.154 | nll_loss 10.003 | ppl 1026.35 | wps 56 | ups 0 | wpb 440.318 | bsz 23.682 | num_updates 68167 | lr 1.36614e-09 | gnorm 4.988 | clip 1.000 | oom 0.006 | wall 1377 | train_wall 11448
+num_updates=68167
+ts_scores={'BLEU': 0.62, 'SARI': 17.62, 'FKGL': 0, 'Compression ratio': 0.33, 'Sentence splits': 1.42, 'Levenshtein similarity': 0.22, 'Exact copies': 0.0, 'Additions proportion': 0.44, 'Deletions proportion': 0.91, 'Lexical complexity score': 7.65}
+SARI did not improve for 8 validations
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 13.44 MiB free; 107.18 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 49.44 MiB free; 112.04 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 5.44 MiB free; 96.64 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 39.44 MiB free; 94.64 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 28.00 MiB (GPU 0; 11.17 GiB total capacity; 2.85 GiB already allocated; 15.44 MiB free; 227.00 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 1.44 MiB free; 89.53 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 17.44 MiB free; 89.99 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 7.44 MiB free; 123.20 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 15.44 MiB free; 170.84 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 13.44 MiB free; 160.64 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 9.44 MiB free; 70.48 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 90.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 7.44 MiB free; 121.97 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 66.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 51.44 MiB free; 76.04 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 48.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 25.44 MiB free; 65.82 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 40.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 21.44 MiB free; 131.54 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 9.44 MiB free; 151.27 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 31.44 MiB free; 71.13 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 31.44 MiB free; 128.60 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 3.44 MiB free; 142.91 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 5.44 MiB free; 122.94 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 17.44 MiB free; 102.88 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 9.44 MiB free; 96.02 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 13.44 MiB free; 150.10 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 40.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 17.44 MiB free; 149.32 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 1.44 MiB free; 100.03 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 13.44 MiB free; 110.59 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 7.44 MiB free; 100.29 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 7.44 MiB free; 160.90 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 40.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 5.44 MiB free; 79.74 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 28.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 25.44 MiB free; 163.81 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 17.44 MiB free; 50.01 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 17.44 MiB free; 138.45 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 53.44 MiB free; 110.16 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 5.44 MiB free; 164.08 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 19.44 MiB free; 51.69 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 22.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 19.44 MiB free; 167.00 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 17.44 MiB free; 74.29 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 84.00 MiB (GPU 0; 11.17 GiB total capacity; 2.91 GiB already allocated; 9.44 MiB free; 171.32 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 13.44 MiB free; 78.17 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 13.44 MiB free; 71.67 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 184.00 MiB (GPU 0; 11.17 GiB total capacity; 2.83 GiB already allocated; 137.44 MiB free; 123.42 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 68.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 11.44 MiB free; 66.89 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 62.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 31.44 MiB free; 155.44 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 5.44 MiB free; 87.31 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 5.44 MiB free; 120.76 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 15.44 MiB free; 78.02 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 16.00 MiB (GPU 0; 11.17 GiB total capacity; 3.03 GiB already allocated; 13.44 MiB free; 46.87 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| epoch 037 | loss 12.150 | nll_loss 10.001 | ppl 1024.95 | wps 122 | ups 0 | wpb 446.870 | bsz 24.043 | num_updates 68190 | lr 1.36614e-09 | gnorm 5.079 | clip 1.000 | oom 0.007 | wall 1553 | train_wall 11477
+num_updates=68190
+ts_scores={'BLEU': 0.62, 'SARI': 17.62, 'FKGL': 0, 'Compression ratio': 0.33, 'Sentence splits': 1.42, 'Levenshtein similarity': 0.22, 'Exact copies': 0.0, 'Additions proportion': 0.44, 'Deletions proportion': 0.91, 'Lexical complexity score': 7.65}
+SARI did not improve for 9 validations
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 17.44 MiB free; 99.60 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 34.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 19.44 MiB free; 108.28 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 17.44 MiB free; 89.99 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 68.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 11.44 MiB free; 65.14 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 90.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 7.44 MiB free; 121.97 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.97 GiB already allocated; 23.44 MiB free; 95.82 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 39.44 MiB free; 94.64 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 1.44 MiB free; 89.53 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 32.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 13.44 MiB free; 156.62 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 66.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 33.44 MiB free; 101.44 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 19.44 MiB free; 51.69 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.01 GiB already allocated; 9.44 MiB free; 70.48 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 62.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 31.44 MiB free; 155.44 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 19.44 MiB free; 69.33 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.95 GiB already allocated; 15.44 MiB free; 121.11 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 5.44 MiB free; 146.43 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 48.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 25.44 MiB free; 65.82 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 9.44 MiB free; 89.57 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 28.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 19.44 MiB free; 165.69 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.94 GiB already allocated; 3.44 MiB free; 142.91 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 7.44 MiB free; 160.90 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 9.44 MiB free; 151.27 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 3.44 MiB free; 91.82 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 1.44 MiB free; 100.03 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 15.44 MiB free; 74.66 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 22.00 MiB (GPU 0; 11.17 GiB total capacity; 2.90 GiB already allocated; 19.44 MiB free; 167.00 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 37.44 MiB free; 64.76 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 13.44 MiB free; 71.67 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 56.00 MiB (GPU 0; 11.17 GiB total capacity; 2.92 GiB already allocated; 51.44 MiB free; 117.22 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.87 GiB already allocated; 5.44 MiB free; 211.16 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 31.44 MiB free; 128.60 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 5.44 MiB free; 87.31 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 184.00 MiB (GPU 0; 11.17 GiB total capacity; 2.83 GiB already allocated; 137.44 MiB free; 123.42 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.91 GiB already allocated; 9.44 MiB free; 165.84 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 78.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 49.44 MiB free; 112.04 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 19.44 MiB free; 92.45 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 15.44 MiB free; 73.80 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 40.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 5.44 MiB free; 79.74 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 11.17 GiB total capacity; 2.96 GiB already allocated; 5.44 MiB free; 122.94 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.99 GiB already allocated; 3.44 MiB free; 99.34 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 30.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 9.44 MiB free; 73.35 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.98 GiB already allocated; 11.44 MiB free; 94.71 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 84.00 MiB (GPU 0; 11.17 GiB total capacity; 2.91 GiB already allocated; 9.44 MiB free; 171.32 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 17.44 MiB free; 138.45 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 17.44 MiB free; 46.13 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.02 GiB already allocated; 1.44 MiB free; 65.59 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 3.00 GiB already allocated; 13.44 MiB free; 78.17 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| WARNING: ran out of memory with exception: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 11.17 GiB total capacity; 2.93 GiB already allocated; 9.44 MiB free; 147.57 MiB cached);
+ Skipping batch
+| WARNING: OOM in all workers, skipping update
+| epoch 038 | loss 12.155 | nll_loss 10.008 | ppl 1029.63 | wps 123 | ups 0 | wpb 447.227 | bsz 24.045 | num_updates 68212 | lr 1.36614e-09 | gnorm 5.049 | clip 1.000 | oom 0.008 | wall 1727 | train_wall 11504
+num_updates=68212
+ts_scores={'BLEU': 0.62, 'SARI': 17.62, 'FKGL': 0, 'Compression ratio': 0.33, 'Sentence splits': 1.42, 'Levenshtein similarity': 0.22, 'Exact copies': 0.0, 'Additions proportion': 0.44, 'Deletions proportion': 0.91, 'Lexical complexity score': 7.65}
+SARI did not improve for 10 validations
+Early stopping because SARI did not improve for 10 validations
+| done training in 1824.6 seconds
+preprocessors=[DependencyTreeDepthRatioPreprocessor(target_ratio=0.4), LengthRatioPreprocessor(target_ratio=0.8999999999999999), LevenshteinPreprocessor(bucket_size=0.05, noise_std=0, target_ratio=0.6), SentencePiecePreprocessor(input_filepaths=None, vocab_size=10000), WordRankRatioPreprocessor(target_ratio=0.9999999999999999)]
+simplifier_type="fairseq_simplifier"  
+exp_dir="/home/varun/CS224N_FinalProject/access/experiments/fairseq/local_1615862609253"  
+Unexpected error <class 'FileNotFoundError'>
+this run failed.
