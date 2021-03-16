@@ -102,8 +102,8 @@ if __name__ == '__main__':
         # path = 'resources/datasets/'
         # pattern = os.path.join(path, "_*")
 
-        # for item in glob(pattern):
-        #     if not os.path.isdir(item):
-        #         continue
-        #     rmtree(item)
-        #     print('removing', item)
+            for item in glob(pattern):
+                if not os.path.isdir(item):
+                    continue
+                rmtree(item)
+                print('removing', item)
