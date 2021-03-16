@@ -97,13 +97,12 @@ if __name__ == '__main__':
     except:
         print('Unexpected error', sys.exc_info()[0])
         print('this run failed.')
-        # sys.stdout = orig_stdout
-        # f.close()
-        # path = 'resources/datasets/'
-        # pattern = os.path.join(path, "_*")
-
-            for item in glob(pattern):
-                if not os.path.isdir(item):
-                    continue
-                rmtree(item)
-                print('removing', item)
+            # sys.stdout = orig_stdout
+            # f.close()
+            # path = 'resources/datasets/'
+            # pattern = os.path.join(path, "_*")
+            # for item in glob(pattern):
+            #     if not os.path.isdir(item):
+            #         continue
+            #     rmtree(item)
+            #     print('removing', item)
