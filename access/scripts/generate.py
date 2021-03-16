@@ -24,10 +24,15 @@ if __name__ == '__main__':
     #best_model_dir = prepare_models() #test on default model
     best_model_dir = REPO_DIR / 'experiments/fairseq/local_1615780248144' #test on our model
     recommended_preprocessors_kwargs = {
-        'LengthRatioPreprocessor': {'target_ratio': 0.7999999999999999},
-        'LevenshteinPreprocessor': {'target_ratio': 0.42647234616101964},
-        'WordRankRatioPreprocessor': {'target_ratio': 0.7999999999999999},
+        'LengthRatioPreprocessor': {'target_ratio': 0.95},
+        'LevenshteinPreprocessor': {'target_ratio': 0.4},
+        'WordRankRatioPreprocessor': {'target_ratio': 0.9},
+        'DependencyTreeDepthRatioPreprocessor': {'target_ratio': 0.7},
         'SentencePiecePreprocessor': {'vocab_size': 10000},
+        # 'LengthRatioPreprocessor': {'target_ratio': 0.7999999999999999},
+        # 'LevenshteinPreprocessor': {'target_ratio': 0.42647234616101964},
+        # 'WordRankRatioPreprocessor': {'target_ratio': 0.7999999999999999},
+        # 'SentencePiecePreprocessor': {'vocab_size': 10000},
     }
     preprocessors = get_preprocessors(recommended_preprocessors_kwargs)
     simplifier = get_fairseq_simplifier(best_model_dir, beam=8)
