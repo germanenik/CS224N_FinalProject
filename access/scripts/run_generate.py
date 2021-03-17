@@ -7,10 +7,10 @@ from pathlib import Path
 complex_dir = sys.argv[1] #removed Path(REPO_DIR) + 
 input_file = sys.argv[2]
 os.chdir(Path(REPO_DIR) / complex_dir)
-os.system(f'split -C 20k {input_file}.complex --additional-suffix=".complex"')
+os.system(f'split -C 20k {input_file}.complex.sent --additional-suffix=".complex.sent"')
 os.chdir(Path(REPO_DIR))
 complex_files = [f for f in os.listdir(complex_dir) if os.path.isfile(os.path.join(complex_dir, f)) \
-	and f != f'{input_file}.complex' and f.endswith(".complex")]
+	and f != f'{input_file}.complex.sent' and f.endswith(".complex.sent")]
 num_new_files = len(complex_files)
 print(num_new_files, 'new files generated')
 
