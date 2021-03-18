@@ -92,11 +92,11 @@ if __name__ == '__main__':
             }
         }
     }
-    try:
-        fairseq_train_and_evaluate(**best_kwargs)
-    except:
-        print('Unexpected error', sys.exc_info()[0])
-        print('this run failed.')
+    # try:
+    fairseq_train_and_evaluate(**best_kwargs)
+    # except:
+    #     print('Unexpected error', sys.exc_info()[0])
+    #     print('this run failed.')
             # sys.stdout = orig_stdout
             # f.close()
             # path = 'resources/datasets/'

@@ -145,8 +145,8 @@ def fairseq_train(
             random.randint(1, 1000),
             '--tensorboard-logdir',
             'tensorboard',
-            '--restore-file',
-            restore_file_path,
+            # '--restore-file',
+            # restore_file_path,
             # '--force-anneal', '200',
             # '--distributed-world-size', '1',
         ]
