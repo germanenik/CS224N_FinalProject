@@ -137,6 +137,21 @@ def quotes_from_csv():
         f.writelines("%s\n" % i for i in lines)
 
 
+def simple_from_csv():
+    """ Grab the quotes (whether it's quoteText or tldr) from the csv and put it in a .txt file """
+    df = pd.read_csv("parsed_tosdr_data.csv", encoding='utf-8-sig')
+    df.fillna("", inplace=True)
+    lines = []
+    for index, row in df.iterrows():
+        title = row['title']
+        case = row['case']
+        line = title if title != "" else case
+        line = re.sub('\\n', ' ', line)
+        lines.append(line)
+    with open('quotes.simple', 'w') as f:
+        f.writelines("%s\n" % i for i in lines)
+
+
 def group_doc_quotes_together():
     """ For summarization, coalesce the quotes from one ToS doc into one text file """
     resulting_path = 'summarization/quotes/'
@@ -160,4 +175,4 @@ def group_doc_quotes_together():
 
 
 if __name__ == '__main__':
-    
+    quotes_from_csv()
